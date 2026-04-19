@@ -1,0 +1,51 @@
+
+2) CSS asset
+Download: https://channel-studio-4.preview.emergentagent.com/shopify-assets/velo-forge-clarity-embed.css
+
+Upload to: Assets → velo-forge-clarity-embed.css
+
+3) Liquid snippet
+Replace the full contents of:
+
+Snippets → velo-forge-clarity-configurator-root.liquid
+
+with:
+
+{%- liquid
+  assign resolved_configurator_app_url = configurator_app_url | default: section.settings.configurator_app_url
+  assign active_media = product.selected_or_first_available_variant.featured_media | default: product.featured_media | default: product.media.first
+-%}
+
+<div
+  id="velo-forge-clarity-configurator-{{ section.id }}"
+  data-velo-forge-clarity-configurator-root
+  data-backend-url="{{ resolved_configurator_app_url | escape }}"
+  data-product-handle="{{ product.handle | escape }}"
+  data-testid="velo-forge-clarity-configurator-root"
+>
+  <script type="application/json" data-velo-forge-shopify-media>
+    {
+      "activeMedia": {
+        "id": {{ active_media.id | json }},
+        "src": {{ active_media.preview_image | image_url: width: 1800 | json }},
+        "alt": {{ active_media.preview_image.alt | default: product.title | json }}
+      },
+      "gallery": [
+        {%- for media in product.media -%}
+          {
+            "id": {{ media.id | json }},
+            "src": {{ media.preview_image | image_url: width: 1800 | json }},
+            "alt": {{ media.preview_image.alt | default: product.title | json }}
+          }{%- unless forloop.last -%},{%- endunless -%}
+        {%- endfor -%}
+      ]
+    }
+  </script>
+</div>
+
+<noscript>
+  <div data-testid="velo-forge-clarity-configurator-noscript">
+    This configurator requires JavaScript to load.
+  </div>
+</noscript>
+
