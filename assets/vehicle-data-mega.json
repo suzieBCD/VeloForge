@@ -1,0 +1,530 @@
+{
+  "vehicle_tree": {
+    "Porsche": {
+      "911": {
+        "2024": [
+          { "display_name": "Crayon", "paint_code": "M9A", "hex_value": "#BCB990" },
+          { "display_name": "Shark Blue", "paint_code": "D5C", "hex_value": "#597DF3" },
+          { "display_name": "GT-Silber", "paint_code": "M7Z", "hex_value": "#EAEBEE" },
+          { "display_name": "Frozen Blue Metallic", "paint_code": "K5J", "hex_value": "#89B7C3" },
+          { "display_name": "Speed Yellow", "paint_code": "12H", "hex_value": "#E2B044" },
+          { "display_name": "Jet Black Metallic", "paint_code": "A1", "hex_value": "#0A0B0E" },
+          { "display_name": "Guards Red", "paint_code": "G1", "hex_value": "#D2001A" },
+          { "display_name": "Carrara White Metallic", "paint_code": "0Q", "hex_value": "#F0EDE6" },
+          { "display_name": "Agate Grey Metallic", "paint_code": "M7S", "hex_value": "#8A8D8F" },
+          { "display_name": "Gentian Blue Metallic", "paint_code": "M5K", "hex_value": "#2447A8" },
+          { "display_name": "Miami Blue", "paint_code": "M5C", "hex_value": "#00A3DA" },
+          { "display_name": "Racing Yellow", "paint_code": "12M", "hex_value": "#FFDD00" }
+        ],
+        "2023": [
+          { "display_name": "Python Green", "paint_code": "M6C", "hex_value": "#48654A" },
+          { "display_name": "GT-Silber", "paint_code": "M7Z", "hex_value": "#EAEBEE" },
+          { "display_name": "Carmine Red", "paint_code": "M3E", "hex_value": "#8B1A1A" },
+          { "display_name": "Miami Blue", "paint_code": "M5C", "hex_value": "#00A3DA" },
+          { "display_name": "Jet Black Metallic", "paint_code": "A1", "hex_value": "#0A0B0E" }
+        ]
+      },
+      "718 Cayman": {
+        "2024": [
+          { "display_name": "Jet Black Metallic", "paint_code": "A1", "hex_value": "#0A0B0E" },
+          { "display_name": "Guards Red", "paint_code": "G1", "hex_value": "#D2001A" },
+          { "display_name": "Racing Yellow", "paint_code": "12M", "hex_value": "#FFDD00" },
+          { "display_name": "Carrara White Metallic", "paint_code": "0Q", "hex_value": "#F0EDE6" },
+          { "display_name": "Miami Blue", "paint_code": "M5C", "hex_value": "#00A3DA" },
+          { "display_name": "Crayon", "paint_code": "M9A", "hex_value": "#BCB990" }
+        ]
+      },
+      "Taycan": {
+        "2024": [
+          { "display_name": "Frozen Blue Metallic", "paint_code": "K5J", "hex_value": "#89B7C3" },
+          { "display_name": "Carrara White Metallic", "paint_code": "0Q", "hex_value": "#F0EDE6" },
+          { "display_name": "Jet Black Metallic", "paint_code": "A1", "hex_value": "#0A0B0E" },
+          { "display_name": "Gentian Blue Metallic", "paint_code": "M5K", "hex_value": "#2447A8" },
+          { "display_name": "Ice Grey Metallic", "paint_code": "M7Q", "hex_value": "#C1CACF" },
+          { "display_name": "Cherry Metallic", "paint_code": "M3K", "hex_value": "#7C1414" }
+        ]
+      },
+      "Cayman GT4": {
+        "2024": [
+          { "display_name": "Shark Blue", "paint_code": "D5C", "hex_value": "#597DF3" },
+          { "display_name": "Guards Red", "paint_code": "G1", "hex_value": "#D2001A" },
+          { "display_name": "GT-Silber", "paint_code": "M7Z", "hex_value": "#EAEBEE" },
+          { "display_name": "Racing Yellow", "paint_code": "12M", "hex_value": "#FFDD00" }
+        ]
+      }
+    },
+    "BMW": {
+      "M4": {
+        "2024": [
+          { "display_name": "Brooklyn Gray", "paint_code": "C4P", "hex_value": "#8B9BA8" },
+          { "display_name": "Arctic Race Blue", "paint_code": "C4F", "hex_value": "#596F7F" },
+          { "display_name": "Sao Paulo Yellow", "paint_code": "C4H", "hex_value": "#D4F341" },
+          { "display_name": "Melbourne Red", "paint_code": "A75", "hex_value": "#AA2E2E" },
+          { "display_name": "Black Sapphire", "paint_code": "475", "hex_value": "#151111" },
+          { "display_name": "Alpine White", "paint_code": "300", "hex_value": "#F9F9F9" },
+          { "display_name": "Portimao Blue", "paint_code": "C4N", "hex_value": "#1C69D4" }
+        ]
+      },
+      "M3": {
+        "2024": [
+          { "display_name": "Isle of Man Green", "paint_code": "C4D", "hex_value": "#2B5D4D" },
+          { "display_name": "Brooklyn Gray", "paint_code": "C4P", "hex_value": "#8B9BA8" },
+          { "display_name": "Sao Paulo Yellow", "paint_code": "C4H", "hex_value": "#D4F341" },
+          { "display_name": "Black Sapphire", "paint_code": "475", "hex_value": "#151111" },
+          { "display_name": "Alpine White", "paint_code": "300", "hex_value": "#F9F9F9" },
+          { "display_name": "Toronto Red", "paint_code": "B66", "hex_value": "#C71F2F" }
+        ]
+      },
+      "M5": {
+        "2024": [
+          { "display_name": "Black Sapphire", "paint_code": "475", "hex_value": "#151111" },
+          { "display_name": "Alpine White", "paint_code": "300", "hex_value": "#F9F9F9" },
+          { "display_name": "Brooklyn Gray", "paint_code": "C4P", "hex_value": "#8B9BA8" },
+          { "display_name": "Marina Bay Blue", "paint_code": "C34", "hex_value": "#0F4C81" },
+          { "display_name": "Frozen Dark Silver", "paint_code": "B39", "hex_value": "#4D5359" }
+        ]
+      },
+      "M2": {
+        "2024": [
+          { "display_name": "Zandvoort Blue", "paint_code": "C3Y", "hex_value": "#0066B3" },
+          { "display_name": "Black Sapphire", "paint_code": "475", "hex_value": "#151111" },
+          { "display_name": "Alpine White", "paint_code": "300", "hex_value": "#F9F9F9" },
+          { "display_name": "Brooklyn Gray", "paint_code": "C4P", "hex_value": "#8B9BA8" }
+        ]
+      },
+      "i8": {
+        "2020": [
+          { "display_name": "Sophisto Grey", "paint_code": "A96", "hex_value": "#4A4D50" },
+          { "display_name": "Crystal White", "paint_code": "A96", "hex_value": "#F5F5F5" },
+          { "display_name": "Donington Grey", "paint_code": "A90", "hex_value": "#6D7278" }
+        ]
+      }
+    },
+    "Ferrari": {
+      "F8 Tributo": {
+        "2023": [
+          { "display_name": "Rosso Corsa", "paint_code": "322", "hex_value": "#D40000" },
+          { "display_name": "Rosso Scuderia", "paint_code": "323", "hex_value": "#DA1C1C" },
+          { "display_name": "Argento Nürburgring", "paint_code": "101", "hex_value": "#E7E5DD" },
+          { "display_name": "Blu Tour de France", "paint_code": "522", "hex_value": "#25436B" },
+          { "display_name": "Giallo Modena", "paint_code": "102", "hex_value": "#FFD543" },
+          { "display_name": "Nero DS", "paint_code": "301", "hex_value": "#0C0C0C" },
+          { "display_name": "Bianco Avus", "paint_code": "302", "hex_value": "#F7F7F7" },
+          { "display_name": "Verde British Racing", "paint_code": "606", "hex_value": "#005032" }
+        ]
+      },
+      "SF90 Stradale": {
+        "2024": [
+          { "display_name": "Rosso Corsa", "paint_code": "322", "hex_value": "#D40000" },
+          { "display_name": "Nero DS", "paint_code": "301", "hex_value": "#0C0C0C" },
+          { "display_name": "Bianco Avus", "paint_code": "302", "hex_value": "#F7F7F7" },
+          { "display_name": "Blu Pozzi", "paint_code": "533", "hex_value": "#1B2A5B" },
+          { "display_name": "Verde British", "paint_code": "606", "hex_value": "#005032" },
+          { "display_name": "Rosso Mugello", "paint_code": "310", "hex_value": "#6B0000" }
+        ]
+      },
+      "296 GTB": {
+        "2024": [
+          { "display_name": "Rosso Corsa", "paint_code": "322", "hex_value": "#D40000" },
+          { "display_name": "Giallo Modena", "paint_code": "102", "hex_value": "#FFD543" },
+          { "display_name": "Blu Pozzi", "paint_code": "533", "hex_value": "#1B2A5B" },
+          { "display_name": "Nero DS", "paint_code": "301", "hex_value": "#0C0C0C" },
+          { "display_name": "Grigio Silverstone", "paint_code": "107", "hex_value": "#7C7C7C" }
+        ]
+      },
+      "812 Superfast": {
+        "2023": [
+          { "display_name": "Rosso Corsa", "paint_code": "322", "hex_value": "#D40000" },
+          { "display_name": "Blu Tour de France", "paint_code": "522", "hex_value": "#25436B" },
+          { "display_name": "Giallo Triplo Strato", "paint_code": "20-Y-115", "hex_value": "#FFE14D" },
+          { "display_name": "Nero DS", "paint_code": "301", "hex_value": "#0C0C0C" }
+        ]
+      },
+      "Roma": {
+        "2024": [
+          { "display_name": "Rosso Portofino", "paint_code": "328", "hex_value": "#AD0F14" },
+          { "display_name": "Grigio Titanio", "paint_code": "666", "hex_value": "#5A5D60" },
+          { "display_name": "Bianco Avus", "paint_code": "302", "hex_value": "#F7F7F7" },
+          { "display_name": "Blu Roma", "paint_code": "20-B-190", "hex_value": "#003D5C" }
+        ]
+      }
+    },
+    "Mercedes-Benz": {
+      "AMG GT": {
+        "2024": [
+          { "display_name": "Designo Hyacinth Red", "paint_code": "996", "hex_value": "#66000B" },
+          { "display_name": "AMG Green Hell Magno", "paint_code": "249", "hex_value": "#0A3B2C" },
+          { "display_name": "Obsidian Black", "paint_code": "197", "hex_value": "#0A0A0A" },
+          { "display_name": "Polar White", "paint_code": "650", "hex_value": "#F9F9F9" },
+          { "display_name": "AMG Solarbeam Yellow", "paint_code": "234", "hex_value": "#FFE900" },
+          { "display_name": "Selenite Grey", "paint_code": "775", "hex_value": "#888B90" }
+        ]
+      },
+      "C63 AMG": {
+        "2024": [
+          { "display_name": "Obsidian Black", "paint_code": "197", "hex_value": "#0A0A0A" },
+          { "display_name": "Polar White", "paint_code": "650", "hex_value": "#F9F9F9" },
+          { "display_name": "Spectral Blue", "paint_code": "359", "hex_value": "#1C4A7F" },
+          { "display_name": "Patagonia Red", "paint_code": "988", "hex_value": "#8B1F24" },
+          { "display_name": "Selenite Grey", "paint_code": "775", "hex_value": "#888B90" }
+        ]
+      },
+      "SL": {
+        "2024": [
+          { "display_name": "Obsidian Black", "paint_code": "197", "hex_value": "#0A0A0A" },
+          { "display_name": "Polar White", "paint_code": "650", "hex_value": "#F9F9F9" },
+          { "display_name": "Spectral Blue", "paint_code": "359", "hex_value": "#1C4A7F" },
+          { "display_name": "Manufaktur Patagonia Red", "paint_code": "988", "hex_value": "#8B1F24" }
+        ]
+      },
+      "G-Class": {
+        "2024": [
+          { "display_name": "Obsidian Black", "paint_code": "197", "hex_value": "#0A0A0A" },
+          { "display_name": "Polar White", "paint_code": "650", "hex_value": "#F9F9F9" },
+          { "display_name": "Designo Manufaktur Olive Magno", "paint_code": "275", "hex_value": "#3A3D2F" },
+          { "display_name": "AMG Night Black", "paint_code": "696", "hex_value": "#0D0D0D" }
+        ]
+      }
+    },
+    "Audi": {
+      "R8": {
+        "2024": [
+          { "display_name": "Suzuka Grey", "paint_code": "M1M1", "hex_value": "#717375" },
+          { "display_name": "Kemora Grey", "paint_code": "2Y", "hex_value": "#3C3E42" },
+          { "display_name": "Mythos Black", "paint_code": "0E", "hex_value": "#0F0F10" },
+          { "display_name": "Ibis White", "paint_code": "T9", "hex_value": "#F8F8F8" },
+          { "display_name": "Vegas Yellow", "paint_code": "12P", "hex_value": "#FDD401" },
+          { "display_name": "Tactical Green", "paint_code": "N9", "hex_value": "#344A3B" },
+          { "display_name": "Ascari Blue", "paint_code": "6Y6Y", "hex_value": "#2B4C7E" }
+        ]
+      },
+      "RS5": {
+        "2024": [
+          { "display_name": "Mythos Black", "paint_code": "0E", "hex_value": "#0F0F10" },
+          { "display_name": "Ibis White", "paint_code": "T9", "hex_value": "#F8F8F8" },
+          { "display_name": "Nardo Grey", "paint_code": "Y7C", "hex_value": "#939598" },
+          { "display_name": "Tango Red", "paint_code": "Y1H", "hex_value": "#DD3840" },
+          { "display_name": "Sonoma Green", "paint_code": "6Y", "hex_value": "#354A3C" }
+        ]
+      },
+      "RS6": {
+        "2024": [
+          { "display_name": "Mythos Black", "paint_code": "0E", "hex_value": "#0F0F10" },
+          { "display_name": "Glacier White", "paint_code": "2Y", "hex_value": "#F2F2F2" },
+          { "display_name": "Nardo Grey", "paint_code": "Y7C", "hex_value": "#939598" },
+          { "display_name": "Daytona Grey", "paint_code": "6Y6Y", "hex_value": "#6D7177" }
+        ]
+      },
+      "RS e-tron GT": {
+        "2024": [
+          { "display_name": "Mythos Black", "paint_code": "0E", "hex_value": "#0F0F10" },
+          { "display_name": "Suzuka Grey", "paint_code": "M1M1", "hex_value": "#717375" },
+          { "display_name": "Tactical Green", "paint_code": "N9", "hex_value": "#344A3B" },
+          { "display_name": "Florett Silver", "paint_code": "L5", "hex_value": "#B8BFC7" }
+        ]
+      }
+    },
+    "Lamborghini": {
+      "Huracan": {
+        "2024": [
+          { "display_name": "Arancio Borealis", "paint_code": "4X1", "hex_value": "#FF6600" },
+          { "display_name": "Giallo Tenerife", "paint_code": "3Z8", "hex_value": "#FFD700" },
+          { "display_name": "Verde Mantis", "paint_code": "6X2", "hex_value": "#6FFF00" },
+          { "display_name": "Nero Helene", "paint_code": "9AE", "hex_value": "#0B0B0B" },
+          { "display_name": "Bianco Icarus", "paint_code": "1AR", "hex_value": "#FAFAFA" },
+          { "display_name": "Blu Cepheus", "paint_code": "2M9", "hex_value": "#194A8D" },
+          { "display_name": "Rosso Mars", "paint_code": "7X9", "hex_value": "#DC0000" }
+        ]
+      },
+      "Aventador": {
+        "2023": [
+          { "display_name": "Arancio Argos", "paint_code": "4Z4", "hex_value": "#FF5100" },
+          { "display_name": "Rosso Mars", "paint_code": "7X9", "hex_value": "#DC0000" },
+          { "display_name": "Nero Aldebaran", "paint_code": "9X1", "hex_value": "#0C0C0C" },
+          { "display_name": "Bianco Canopus", "paint_code": "1Z7", "hex_value": "#F9F9F9" },
+          { "display_name": "Giallo Orion", "paint_code": "3Z9", "hex_value": "#FFE042" },
+          { "display_name": "Blu Sideris", "paint_code": "2Z2", "hex_value": "#003C71" }
+        ]
+      },
+      "Urus": {
+        "2024": [
+          { "display_name": "Nero Noctis", "paint_code": "9X9", "hex_value": "#0A0A0A" },
+          { "display_name": "Bianco Icarus", "paint_code": "1AR", "hex_value": "#FAFAFA" },
+          { "display_name": "Arancio Borealis", "paint_code": "4X1", "hex_value": "#FF6600" },
+          { "display_name": "Blu Eleos", "paint_code": "2X2", "hex_value": "#1B4C8A" },
+          { "display_name": "Verde Mantis", "paint_code": "6X2", "hex_value": "#6FFF00" }
+        ]
+      },
+      "Revuelto": {
+        "2024": [
+          { "display_name": "Rosso Mars", "paint_code": "7X9", "hex_value": "#DC0000" },
+          { "display_name": "Nero Aldebaran", "paint_code": "9X1", "hex_value": "#0C0C0C" },
+          { "display_name": "Blu Uranus", "paint_code": "2Y2", "hex_value": "#0052A3" },
+          { "display_name": "Giallo Evros", "paint_code": "3Y8", "hex_value": "#FFD500" }
+        ]
+      }
+    },
+    "McLaren": {
+      "720S": {
+        "2024": [
+          { "display_name": "McLaren Orange", "paint_code": "P01", "hex_value": "#FF8000" },
+          { "display_name": "Burton Blue", "paint_code": "P14", "hex_value": "#0066CC" },
+          { "display_name": "Volcano Yellow", "paint_code": "P15", "hex_value": "#FFE600" },
+          { "display_name": "Onyx Black", "paint_code": "P02", "hex_value": "#0A0A0A" },
+          { "display_name": "Supernova Silver", "paint_code": "P04", "hex_value": "#C0C0C0" },
+          { "display_name": "Ventura Orange", "paint_code": "P34", "hex_value": "#FF4500" }
+        ]
+      },
+      "Artura": {
+        "2024": [
+          { "display_name": "McLaren Orange", "paint_code": "P01", "hex_value": "#FF8000" },
+          { "display_name": "Onyx Black", "paint_code": "P02", "hex_value": "#0A0A0A" },
+          { "display_name": "Burton Blue", "paint_code": "P14", "hex_value": "#0066CC" },
+          { "display_name": "Ceramic Grey", "paint_code": "P33", "hex_value": "#666666" },
+          { "display_name": "Azores Orange", "paint_code": "P88", "hex_value": "#FF6B35" }
+        ]
+      },
+      "750S": {
+        "2024": [
+          { "display_name": "McLaren Orange", "paint_code": "P01", "hex_value": "#FF8000" },
+          { "display_name": "Onyx Black", "paint_code": "P02", "hex_value": "#0A0A0A" },
+          { "display_name": "Volcano Yellow", "paint_code": "P15", "hex_value": "#FFE600" },
+          { "display_name": "Supernova Silver", "paint_code": "P04", "hex_value": "#C0C0C0" }
+        ]
+      }
+    },
+    "Chevrolet": {
+      "Corvette": {
+        "2024": [
+          { "display_name": "Torch Red", "paint_code": "G7C", "hex_value": "#C51230" },
+          { "display_name": "Arctic White", "paint_code": "GAZ", "hex_value": "#F5F5F5" },
+          { "display_name": "Black", "paint_code": "GBA", "hex_value": "#0D0D0D" },
+          { "display_name": "Accelerate Yellow", "paint_code": "G8B", "hex_value": "#FFE800" },
+          { "display_name": "Hypersonic Gray", "paint_code": "GXD", "hex_value": "#717478" },
+          { "display_name": "Amplify Orange", "paint_code": "G1W", "hex_value": "#FF5F00" },
+          { "display_name": "Riptide Blue", "paint_code": "GKZ", "hex_value": "#0066B3" },
+          { "display_name": "Caffeine Metallic", "paint_code": "G1K", "hex_value": "#5B4636" }
+        ],
+        "2023": [
+          { "display_name": "Torch Red", "paint_code": "G7C", "hex_value": "#C51230" },
+          { "display_name": "Rapid Blue", "paint_code": "GKL", "hex_value": "#0062AA" },
+          { "display_name": "Silver Flare", "paint_code": "G9K", "hex_value": "#C4C6C9" },
+          { "display_name": "Sebring Orange", "paint_code": "G3L", "hex_value": "#FF5F1F" }
+        ]
+      },
+      "Camaro ZL1": {
+        "2024": [
+          { "display_name": "Red Hot", "paint_code": "GCN", "hex_value": "#C10C0C" },
+          { "display_name": "Summit White", "paint_code": "GAZ", "hex_value": "#F7F7F7" },
+          { "display_name": "Black", "paint_code": "GBA", "hex_value": "#0D0D0D" },
+          { "display_name": "Rapid Blue", "paint_code": "GKL", "hex_value": "#0062AA" },
+          { "display_name": "Satin Steel", "paint_code": "G9K", "hex_value": "#6D7278" }
+        ]
+      }
+    },
+    "Ford": {
+      "Mustang": {
+        "2024": [
+          { "display_name": "Grabber Blue", "paint_code": "N2", "hex_value": "#0050AA" },
+          { "display_name": "Race Red", "paint_code": "PQ", "hex_value": "#CC0000" },
+          { "display_name": "Shadow Black", "paint_code": "UA", "hex_value": "#0A0A0A" },
+          { "display_name": "Oxford White", "paint_code": "Z1", "hex_value": "#FAFAFA" },
+          { "display_name": "Velocity Blue", "paint_code": "TB", "hex_value": "#0075C9" },
+          { "display_name": "Iconic Silver", "paint_code": "JS", "hex_value": "#B7BABD" },
+          { "display_name": "Dark Matter Grey", "paint_code": "M8", "hex_value": "#4D4D4D" },
+          { "display_name": "Eruption Green", "paint_code": "TT", "hex_value": "#00A651" }
+        ],
+        "2023": [
+          { "display_name": "Grabber Blue", "paint_code": "LZ", "hex_value": "#0050AA" },
+          { "display_name": "Twister Orange", "paint_code": "G3", "hex_value": "#FF6F20" },
+          { "display_name": "Mischievous Purple", "paint_code": "TU", "hex_value": "#6F2C91" }
+        ]
+      },
+      "GT": {
+        "2022": [
+          { "display_name": "Shadow Black", "paint_code": "UA", "hex_value": "#0A0A0A" },
+          { "display_name": "Frozen White", "paint_code": "Z1", "hex_value": "#F0F0F0" },
+          { "display_name": "Liquid Blue", "paint_code": "L7", "hex_value": "#0066B3" },
+          { "display_name": "Triple Yellow", "paint_code": "TY", "hex_value": "#FFD700" }
+        ]
+      }
+    },
+    "Nissan": {
+      "GT-R": {
+        "2024": [
+          { "display_name": "Pearl White", "paint_code": "QAB", "hex_value": "#F4F4F4" },
+          { "display_name": "Gun Metallic", "paint_code": "KAD", "hex_value": "#545965" },
+          { "display_name": "Meteor Flake Black", "paint_code": "KH3", "hex_value": "#0F0F0F" },
+          { "display_name": "Solid Red", "paint_code": "Z10", "hex_value": "#C70000" },
+          { "display_name": "Ultimate Silver", "paint_code": "K23", "hex_value": "#C4C6C9" },
+          { "display_name": "Bayside Blue", "paint_code": "TV2", "hex_value": "#0062A3" }
+        ],
+        "2023": [
+          { "display_name": "Midnight Purple", "paint_code": "LV4", "hex_value": "#4B2D5F" },
+          { "display_name": "Deep Blue Pearl", "paint_code": "RAY", "hex_value": "#0A3D5C" }
+        ]
+      },
+      "Z": {
+        "2024": [
+          { "display_name": "Ikazuchi Yellow", "paint_code": "EAT", "hex_value": "#FFD700" },
+          { "display_name": "Seiran Blue", "paint_code": "RBH", "hex_value": "#0062AA" },
+          { "display_name": "Super Black", "paint_code": "KH3", "hex_value": "#0F0F0F" },
+          { "display_name": "Pearl White", "paint_code": "QAB", "hex_value": "#F4F4F4" },
+          { "display_name": "Passion Red", "paint_code": "NAH", "hex_value": "#C70000" }
+        ]
+      }
+    },
+    "Acura": {
+      "NSX": {
+        "2022": [
+          { "display_name": "Berlina Black", "paint_code": "NH-731P", "hex_value": "#0B0B0B" },
+          { "display_name": "Curva Red", "paint_code": "R-565M", "hex_value": "#A30000" },
+          { "display_name": "Long Beach Blue Pearl", "paint_code": "B-593P", "hex_value": "#0066B3" },
+          { "display_name": "Thermal Orange Pearl", "paint_code": "O-522P", "hex_value": "#FF6B1A" },
+          { "display_name": "Nouvelle Blue Pearl", "paint_code": "B-588P", "hex_value": "#003D82" },
+          { "display_name": "130R White", "paint_code": "NH-883P", "hex_value": "#F7F7F7" }
+        ]
+      },
+      "Integra Type S": {
+        "2024": [
+          { "display_name": "Liquid Carbon", "paint_code": "NH-904M", "hex_value": "#1C1C1C" },
+          { "display_name": "Apex Blue Pearl", "paint_code": "B-619P", "hex_value": "#0066B3" },
+          { "display_name": "Championship White", "paint_code": "NH-0", "hex_value": "#FFFFFF" },
+          { "display_name": "Performance Red Pearl", "paint_code": "R-81", "hex_value": "#C70000" }
+        ]
+      }
+    },
+    "Dodge": {
+      "Challenger": {
+        "2023": [
+          { "display_name": "TorRed", "paint_code": "PRV", "hex_value": "#CC1100" },
+          { "display_name": "Pitch Black", "paint_code": "PX8", "hex_value": "#0A0A0A" },
+          { "display_name": "White Knuckle", "paint_code": "PW7", "hex_value": "#F5F5F5" },
+          { "display_name": "Go Mango", "paint_code": "PVG", "hex_value": "#FF5F00" },
+          { "display_name": "Plum Crazy", "paint_code": "PC7", "hex_value": "#5F0F8F" },
+          { "display_name": "F8 Green", "paint_code": "PFH", "hex_value": "#00573F" },
+          { "display_name": "B5 Blue", "paint_code": "PB5", "hex_value": "#0066CC" }
+        ]
+      },
+      "Charger": {
+        "2023": [
+          { "display_name": "TorRed", "paint_code": "PRV", "hex_value": "#CC1100" },
+          { "display_name": "Pitch Black", "paint_code": "PX8", "hex_value": "#0A0A0A" },
+          { "display_name": "F8 Green", "paint_code": "PFH", "hex_value": "#00573F" },
+          { "display_name": "Sublime", "paint_code": "PGG", "hex_value": "#7FFF00" },
+          { "display_name": "Destroyer Grey", "paint_code": "PDN", "hex_value": "#6D7278" }
+        ]
+      }
+    },
+    "Lexus": {
+      "LC 500": {
+        "2024": [
+          { "display_name": "Infrared", "paint_code": "3T5", "hex_value": "#C70000" },
+          { "display_name": "Structural Blue", "paint_code": "8X5", "hex_value": "#0052A3" },
+          { "display_name": "Sonic Iridium", "paint_code": "1L2", "hex_value": "#B8BFC7" },
+          { "display_name": "Caviar", "paint_code": "223", "hex_value": "#0A0A0A" },
+          { "display_name": "Cloudburst Grey", "paint_code": "1H9", "hex_value": "#5A6169" }
+        ]
+      },
+      "RC F": {
+        "2024": [
+          { "display_name": "Molten Pearl", "paint_code": "4W7", "hex_value": "#FF6B00" },
+          { "display_name": "Ultrasonic Blue", "paint_code": "8X1", "hex_value": "#0075C9" },
+          { "display_name": "Caviar", "paint_code": "223", "hex_value": "#0A0A0A" },
+          { "display_name": "Ultra White", "paint_code": "083", "hex_value": "#F7F7F7" }
+        ]
+      }
+    },
+    "Aston Martin": {
+      "DB12": {
+        "2024": [
+          { "display_name": "Onyx Black", "paint_code": "5052", "hex_value": "#0A0A0A" },
+          { "display_name": "Hyper Red", "paint_code": "5101", "hex_value": "#C70000" },
+          { "display_name": "Azure Blue", "paint_code": "5078", "hex_value": "#0066B3" },
+          { "display_name": "Neutron White", "paint_code": "5006", "hex_value": "#F5F5F5" },
+          { "display_name": "Lime Essence", "paint_code": "5211", "hex_value": "#ADFF2F" }
+        ]
+      },
+      "Vantage": {
+        "2024": [
+          { "display_name": "Racing Green", "paint_code": "5025", "hex_value": "#004225" },
+          { "display_name": "Stratus White", "paint_code": "5004", "hex_value": "#F0F0F0" },
+          { "display_name": "Tungsten Silver", "paint_code": "5019", "hex_value": "#8A8D8F" },
+          { "display_name": "Hyper Red", "paint_code": "5101", "hex_value": "#C70000" }
+        ]
+      }
+    },
+    "Maserati": {
+      "MC20": {
+        "2024": [
+          { "display_name": "Bianco Audace", "paint_code": "254", "hex_value": "#F5F5F5" },
+          { "display_name": "Nero Essenza", "paint_code": "279", "hex_value": "#0A0A0A" },
+          { "display_name": "Rosso Vincente", "paint_code": "266", "hex_value": "#C70000" },
+          { "display_name": "Blu Infinito", "paint_code": "227", "hex_value": "#003D82" },
+          { "display_name": "Giallo Genio", "paint_code": "289", "hex_value": "#FFD700" }
+        ]
+      },
+      "GranTurismo": {
+        "2024": [
+          { "display_name": "Bianco Audace", "paint_code": "254", "hex_value": "#F5F5F5" },
+          { "display_name": "Nero Essenza", "paint_code": "279", "hex_value": "#0A0A0A" },
+          { "display_name": "Rosso Vincente", "paint_code": "266", "hex_value": "#C70000" },
+          { "display_name": "Blu Passione", "paint_code": "272", "hex_value": "#1B2A5B" }
+        ]
+      }
+    },
+    "Alfa Romeo": {
+      "Giulia Quadrifoglio": {
+        "2024": [
+          { "display_name": "Rosso Competizione", "paint_code": "165", "hex_value": "#C70000" },
+          { "display_name": "Verde Montreal", "paint_code": "676", "hex_value": "#005032" },
+          { "display_name": "Nero Edizione", "paint_code": "295", "hex_value": "#0A0A0A" },
+          { "display_name": "Alfa White", "paint_code": "241", "hex_value": "#F7F7F7" },
+          { "display_name": "Misano Blue", "paint_code": "265", "hex_value": "#0066B3" }
+        ]
+      }
+    },
+    "Bentley": {
+      "Continental GT": {
+        "2024": [
+          { "display_name": "Glacier White", "paint_code": "9A", "hex_value": "#F5F5F5" },
+          { "display_name": "Onyx", "paint_code": "9P", "hex_value": "#0A0A0A" },
+          { "display_name": "Dragon Red II", "paint_code": "ST", "hex_value": "#9B1B30" },
+          { "display_name": "Sequin Blue", "paint_code": "2X", "hex_value": "#0052A3" },
+          { "display_name": "Magnetic", "paint_code": "SZ", "hex_value": "#6D7278" }
+        ]
+      }
+    },
+    "Rolls-Royce": {
+      "Phantom": {
+        "2024": [
+          { "display_name": "Arctic White", "paint_code": "9561", "hex_value": "#F5F5F5" },
+          { "display_name": "Black Diamond", "paint_code": "9588", "hex_value": "#0A0A0A" },
+          { "display_name": "Flame Red", "paint_code": "9533", "hex_value": "#C70000" },
+          { "display_name": "Royal Blue", "paint_code": "9544", "hex_value": "#003D82" }
+        ]
+      }
+    },
+    "Bugatti": {
+      "Chiron": {
+        "2024": [
+          { "display_name": "Nocturne Black", "paint_code": "BLK", "hex_value": "#0A0A0A" },
+          { "display_name": "French Racing Blue", "paint_code": "BLU", "hex_value": "#0052A3" },
+          { "display_name": "Vainqueur Red", "paint_code": "RED", "hex_value": "#C70000" },
+          { "display_name": "Champagne", "paint_code": "CHP", "hex_value": "#E6D5B8" }
+        ]
+      }
+    },
+    "Tesla": {
+      "Model S Plaid": {
+        "2024": [
+          { "display_name": "Pearl White Multi-Coat", "paint_code": "PPSW", "hex_value": "#F7F7F7" },
+          { "display_name": "Solid Black", "paint_code": "PBSB", "hex_value": "#0A0A0A" },
+          { "display_name": "Midnight Silver Metallic", "paint_code": "PMNG", "hex_value": "#4A4D50" },
+          { "display_name": "Deep Blue Metallic", "paint_code": "PPSB", "hex_value": "#0A3D5C" },
+          { "display_name": "Red Multi-Coat", "paint_code": "PPMR", "hex_value": "#C70000" }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,279 @@
+{
+  "metadata": {
+    "scraped_at": "2026-04-19T23:27:42.435Z",
+    "scraper_version": "1.0.0",
+    "rate_limit_ms": 2000,
+    "user_agent": "VeloForge Color Research Bot/1.0 (respectful scraper; contact: dev@veloforge.com)",
+    "success_count": 2,
+    "fail_count": 0,
+    "total_colors": 32
+  },
+  "vehicle_tree": {
+    "Porsche": {
+      "911": {
+        "2024": [
+          {
+            "display_name": "Artick Grey",
+            "paint_code": "M7K",
+            "slug": "artick-grey-m7k",
+            "reference_url": "https://www.paintscratch.com/colors/porsche/artick-grey-m7k/",
+            "source_label": "PaintScratch 2024 Porsche 911",
+            "hex_value": "#616669"
+          },
+          {
+            "display_name": "Black",
+            "paint_code": "741",
+            "slug": "black-741",
+            "reference_url": "https://www.paintscratch.com/colors/porsche/black-741/",
+            "source_label": "PaintScratch 2024 Porsche 911",
+            "hex_value": "#0D0F1B"
+          },
+          {
+            "display_name": "Gray Black",
+            "paint_code": "7A1",
+            "slug": "gray-black-7a1",
+            "reference_url": "https://www.paintscratch.com/colors/porsche/gray-black-7a1/",
+            "source_label": "PaintScratch 2024 Porsche 911",
+            "hex_value": "#4A463C"
+          },
+          {
+            "display_name": "Speed Yellow",
+            "paint_code": "12H/12G/X4",
+            "slug": "speed-yellow-12h12gx4",
+            "reference_url": "https://www.paintscratch.com/colors/porsche/speed-yellow-12h12gx4/",
+            "source_label": "PaintScratch 2024 Porsche 911",
+            "hex_value": "#E2B044"
+          },
+          {
+            "display_name": "Achatgrau",
+            "paint_code": "M7S",
+            "slug": "achatgrau-m7s",
+            "reference_url": "https://www.paintscratch.com/colors/porsche/achatgrau-m7s/",
+            "source_label": "PaintScratch 2024 Porsche 911",
+            "hex_value": "#B4B3AC"
+          },
+          {
+            "display_name": "Aventurine Green",
+            "paint_code": "M6T",
+            "slug": "aventurine-green-m6t",
+            "reference_url": "https://www.paintscratch.com/colors/porsche/aventurine-green-m6t/",
+            "source_label": "PaintScratch 2024 Porsche 911",
+            "hex_value": "#7B8C64"
+          },
+          {
+            "display_name": "Crayon",
+            "paint_code": "M9A",
+            "slug": "crayon-m9a",
+            "reference_url": "https://www.paintscratch.com/colors/porsche/crayon-m9a/",
+            "source_label": "PaintScratch 2024 Porsche 911",
+            "hex_value": "#BCB990"
+          },
+          {
+            "display_name": "Dolomite Silver Metallic",
+            "paint_code": "M7P",
+            "slug": "dolomite-silver-metallic-m7p",
+            "reference_url": "https://www.paintscratch.com/colors/porsche/dolomite-silver-metallic-m7p/",
+            "source_label": "PaintScratch 2024 Porsche 911",
+            "hex_value": "#EDEEEF"
+          },
+          {
+            "display_name": "Enzian Blue Pearl",
+            "paint_code": "M5D",
+            "slug": "enzian-blue-pearl-m5d",
+            "reference_url": "https://www.paintscratch.com/colors/porsche/enzian-blue-pearl-m5d/",
+            "source_label": "PaintScratch 2024 Porsche 911",
+            "hex_value": "#343474"
+          },
+          {
+            "display_name": "Frozen Blue Metallic",
+            "paint_code": "K5J",
+            "slug": "frozen-blue-metallic-k5j",
+            "reference_url": "https://www.paintscratch.com/colors/porsche/frozen-blue-metallic-k5j/",
+            "source_label": "PaintScratch 2024 Porsche 911",
+            "hex_value": "#89B7C3"
+          },
+          {
+            "display_name": "Ice Grey",
+            "paint_code": "M7N",
+            "slug": "ice-grey-m7n",
+            "reference_url": "https://www.paintscratch.com/colors/porsche/ice-grey-m7n/",
+            "source_label": "PaintScratch 2024 Porsche 911",
+            "hex_value": "#808080"
+          },
+          {
+            "display_name": "Shark Blue",
+            "paint_code": "D5C",
+            "slug": "shark-blue-d5c",
+            "reference_url": "https://www.paintscratch.com/colors/porsche/shark-blue-d5c/",
+            "source_label": "PaintScratch 2024 Porsche 911",
+            "hex_value": "#0066CC"
+          },
+          {
+            "display_name": "Weiss",
+            "paint_code": "C9A",
+            "slug": "weiss-c9a",
+            "reference_url": "https://www.paintscratch.com/colors/porsche/weiss-c9a/",
+            "source_label": "PaintScratch 2024 Porsche 911",
+            "hex_value": "#888888"
+          },
+          {
+            "display_name": "Carraraweiss",
+            "paint_code": "S9R",
+            "slug": "carraraweiss-s9r",
+            "reference_url": "https://www.paintscratch.com/colors/porsche/carraraweiss-s9r/",
+            "source_label": "PaintScratch 2024 Porsche 911",
+            "hex_value": "#888888"
+          },
+          {
+            "display_name": "Deep Black",
+            "paint_code": "C9X",
+            "slug": "deep-black-c9x",
+            "reference_url": "https://www.paintscratch.com/colors/porsche/deep-black-c9x/",
+            "source_label": "PaintScratch 2024 Porsche 911",
+            "hex_value": "#0A0A0A"
+          },
+          {
+            "display_name": "GT-Silber",
+            "paint_code": "M7Z",
+            "slug": "gt-silber-m7z",
+            "reference_url": "https://www.paintscratch.com/colors/porsche/gt-silber-m7z/",
+            "source_label": "PaintScratch 2024 Porsche 911",
+            "hex_value": "#888888"
+          }
+        ]
+      },
+      "Taycan": {
+        "2024": [
+          {
+            "display_name": "Black",
+            "paint_code": "741",
+            "slug": "black-741",
+            "reference_url": "https://www.paintscratch.com/colors/porsche/black-741/",
+            "source_label": "PaintScratch 2024 Porsche Taycan",
+            "hex_value": "#0D0F1B"
+          },
+          {
+            "display_name": "Crayon",
+            "paint_code": "M9A",
+            "slug": "crayon-m9a",
+            "reference_url": "https://www.paintscratch.com/colors/porsche/crayon-m9a/",
+            "source_label": "PaintScratch 2024 Porsche Taycan",
+            "hex_value": "#BCB990"
+          },
+          {
+            "display_name": "Dolomite Silver Metallic",
+            "paint_code": "M7P",
+            "slug": "dolomite-silver-metallic-m7p",
+            "reference_url": "https://www.paintscratch.com/colors/porsche/dolomite-silver-metallic-m7p/",
+            "source_label": "PaintScratch 2024 Porsche Taycan",
+            "hex_value": "#EDEEEF"
+          },
+          {
+            "display_name": "Enzian Blue Pearl",
+            "paint_code": "M5D",
+            "slug": "enzian-blue-pearl-m5d",
+            "reference_url": "https://www.paintscratch.com/colors/porsche/enzian-blue-pearl-m5d/",
+            "source_label": "PaintScratch 2024 Porsche Taycan",
+            "hex_value": "#343474"
+          },
+          {
+            "display_name": "Frozen Blue Metallic",
+            "paint_code": "K5J",
+            "slug": "frozen-blue-metallic-k5j",
+            "reference_url": "https://www.paintscratch.com/colors/porsche/frozen-blue-metallic-k5j/",
+            "source_label": "PaintScratch 2024 Porsche Taycan",
+            "hex_value": "#89B7C3"
+          },
+          {
+            "display_name": "Ice Grey",
+            "paint_code": "M7N",
+            "slug": "ice-grey-m7n",
+            "reference_url": "https://www.paintscratch.com/colors/porsche/ice-grey-m7n/",
+            "source_label": "PaintScratch 2024 Porsche Taycan",
+            "hex_value": "#ECEEF0"
+          },
+          {
+            "display_name": "Oakgruen",
+            "paint_code": "M6E",
+            "slug": "oakgruen-m6e",
+            "reference_url": "https://www.paintscratch.com/colors/porsche/oakgruen-m6e/",
+            "source_label": "PaintScratch 2024 Porsche Taycan",
+            "hex_value": "#30402E"
+          },
+          {
+            "display_name": "Weiss",
+            "paint_code": "C9A",
+            "slug": "weiss-c9a",
+            "reference_url": "https://www.paintscratch.com/colors/porsche/weiss-c9a/",
+            "source_label": "PaintScratch 2024 Porsche Taycan",
+            "hex_value": "#FEFCEC"
+          },
+          {
+            "display_name": "Carraraweiss",
+            "paint_code": "S9R",
+            "slug": "carraraweiss-s9r",
+            "reference_url": "https://www.paintscratch.com/colors/porsche/carraraweiss-s9r/",
+            "source_label": "PaintScratch 2024 Porsche Taycan",
+            "hex_value": "#F0F0EC"
+          },
+          {
+            "display_name": "Deep Black",
+            "paint_code": "C9X",
+            "slug": "deep-black-c9x",
+            "reference_url": "https://www.paintscratch.com/colors/porsche/deep-black-c9x/",
+            "source_label": "PaintScratch 2024 Porsche Taycan",
+            "hex_value": "#020202"
+          },
+          {
+            "display_name": "Frozen Berry Metallic",
+            "paint_code": "M4T",
+            "slug": "frozen-berry-metallic-m4t",
+            "reference_url": "https://www.paintscratch.com/colors/porsche/frozen-berry-metallic-m4t/",
+            "source_label": "PaintScratch 2024 Porsche Taycan",
+            "hex_value": "#888888"
+          },
+          {
+            "display_name": "Karminrot",
+            "paint_code": "M3C",
+            "slug": "karminrot-m3c",
+            "reference_url": "https://www.paintscratch.com/colors/porsche/karminrot-m3c/",
+            "source_label": "PaintScratch 2024 Porsche Taycan",
+            "hex_value": "#888888"
+          },
+          {
+            "display_name": "Mahagoni",
+            "paint_code": "M8Y",
+            "slug": "mahagoni-m8y",
+            "reference_url": "https://www.paintscratch.com/colors/porsche/mahagoni-m8y/",
+            "source_label": "PaintScratch 2024 Porsche Taycan",
+            "hex_value": "#888888"
+          },
+          {
+            "display_name": "Neptune Blue",
+            "paint_code": "R5E",
+            "slug": "neptune-blue-r5e",
+            "reference_url": "https://www.paintscratch.com/colors/porsche/neptune-blue-r5e/",
+            "source_label": "PaintScratch 2024 Porsche Taycan",
+            "hex_value": "#0066CC"
+          },
+          {
+            "display_name": "Coffee Beige Metallic",
+            "paint_code": "M8Q",
+            "slug": "coffee-beige-metallic-m8q",
+            "reference_url": "https://www.paintscratch.com/colors/porsche/coffee-beige-metallic-m8q/",
+            "source_label": "PaintScratch 2024 Porsche Taycan",
+            "hex_value": "#888888"
+          },
+          {
+            "display_name": "Olive Neo",
+            "paint_code": "M6D",
+            "slug": "olive-neo-m6d",
+            "reference_url": "https://www.paintscratch.com/colors/porsche/olive-neo-m6d/",
+            "source_label": "PaintScratch 2024 Porsche Taycan",
+            "hex_value": "#888888"
+          }
+        ]
+      }
+    }
+  }
+}

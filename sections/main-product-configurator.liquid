@@ -1,0 +1,266 @@
+{{ 'velo-forge-configurator.css' | asset_url | stylesheet_tag }}
+
+{%- comment -%} Determine ring assets from product handle {%- endcomment -%}
+{%- if product.handle contains 'white-gold' -%}
+  {%- assign ring_base = 'VeloForge_WhiteGold_ChannelRing.png' | asset_url -%}
+  {%- assign ring_band = 'VeloForge_WhiteGold_ChannelRing_band.png' | asset_url -%}
+  {%- assign ring_inlay = 'VeloForge_Gold_ChannelRing_Channel.png' | asset_url -%}
+  {%- assign metal_family = 'white-gold' -%}
+  {%- assign metal_label = 'White Gold' -%}
+{%- else -%}
+  {%- assign ring_base = 'VeloForge_YellowGold_ChannelRing.png' | asset_url -%}
+  {%- assign ring_band = 'VeloForge_YellowGold_ChannelRing_band.png' | asset_url -%}
+  {%- assign ring_inlay = 'VeloForge_Gold_ChannelRing_Inlay.png' | asset_url -%}
+  {%- assign metal_family = 'yellow-gold' -%}
+  {%- assign metal_label = 'Yellow Gold' -%}
+{%- endif -%}
+{%- if product.handle contains '18k' -%}
+  {%- assign karat = '18K' -%}
+{%- else -%}
+  {%- assign karat = '14K' -%}
+{%- endif -%}
+
+<section class="vf" data-vf-configurator
+  data-vehicle-data-url="{{ 'vehicle-data-expanded.json' | asset_url }}"
+  data-ring-base="{{ ring_base }}"
+  data-ring-band="{{ ring_band }}"
+  data-ring-inlay="{{ ring_inlay }}">
+
+  {%- comment -%} Mobile gallery (visible < lg) {%- endcomment -%}
+  <div class="vf__mobile-gallery">
+    <div class="vf-ring-preview" data-ring-preview-mobile>
+      <div class="vf-ring-preview__stage">
+        <img src="{{ ring_base }}" alt="{{ product.title }}" class="vf-ring-preview__base" loading="eager">
+        <div class="vf-ring-preview__color-wash" data-ring-color-wash-m></div>
+        <div class="vf-ring-preview__tint" data-ring-tint-m></div>
+        <div class="vf-ring-preview__highlight" data-ring-highlight-m></div>
+        <img src="{{ ring_band }}" alt="" class="vf-ring-preview__band">
+      </div>
+    </div>
+  </div>
+
+  <div class="vf__shell">
+    {%- comment -%} ===== LEFT: Media stack ===== {%- endcomment -%}
+    <div class="vf__media-stack">
+      <div class="vf__desktop-preview">
+        <div class="vf-ring-preview" data-ring-preview>
+          <div class="vf-ring-preview__stage">
+            <img src="{{ ring_base }}" alt="{{ product.title }}" class="vf-ring-preview__base" data-ring-base-img loading="eager">
+            <div class="vf-ring-preview__color-wash" data-ring-color-wash></div>
+            <div class="vf-ring-preview__tint" data-ring-tint></div>
+            <div class="vf-ring-preview__highlight" data-ring-highlight></div>
+            <img src="{{ ring_band }}" alt="" class="vf-ring-preview__band" data-ring-band-img>
+          </div>
+        </div>
+      </div>
+
+      {%- if product.media.size > 1 -%}
+        <div class="vf__supporting-grid">
+          {%- for media in product.media offset: 1 -%}
+            <div class="vf__gallery-thumb">
+              <div class="vf__gallery-thumb-img">
+                {{ media | image_url: width: 600 | image_tag: loading: 'lazy' }}
+              </div>
+            </div>
+          {%- endfor -%}
+        </div>
+      {%- endif -%}
+
+      <div class="vf-summary-card" data-summary-preview>
+        <div class="vf-summary-card__row">
+          <span class="vf-summary-card__label">Paint</span>
+          <span class="vf-summary-card__value" data-summary-paint>—</span>
+        </div>
+        <div class="vf-summary-card__row">
+          <span class="vf-summary-card__label">Vehicle</span>
+          <span class="vf-summary-card__value" data-summary-vehicle>—</span>
+        </div>
+      </div>
+    </div>
+
+    {%- comment -%} ===== RIGHT: Details column ===== {%- endcomment -%}
+    <div class="vf__details">
+
+      {%- comment -%} Header card {%- endcomment -%}
+      <div class="vf-card">
+        <div class="vf-card__body">
+          <p class="vf-editorial-label">Velo Forge — Signature Series</p>
+          <p class="vf__context">{{ metal_label }} · {{ karat }}</p>
+          <h1 class="vf__title">{{ product.title }}</h1>
+          <p class="vf__subtitle">Signature Series · Handcrafted in Michigan · Automotive-grade ceramic coating</p>
+        </div>
+        <div class="vf-card__section">
+          <div class="vf__option-group">
+            <p class="vf-editorial-label">Metal</p>
+            <div class="vf__option-buttons">
+              <a href="/products/custom-motorsport-ring-veloforge-signature-series-14k-yellow-gold-6mm" class="vf-option-btn {% if metal_family == 'yellow-gold' %}vf-option-btn--active{% endif %}">Yellow Gold</a>
+              <a href="/products/custom-motorsport-ring-veloforge-signature-series-14k-white-gold-6mm" class="vf-option-btn {% if metal_family == 'white-gold' %}vf-option-btn--active{% endif %}">White Gold</a>
+            </div>
+          </div>
+          <div class="vf__option-group">
+            <p class="vf-editorial-label">Karat</p>
+            <div class="vf__option-buttons">
+              {%- if metal_family == 'yellow-gold' -%}
+                <a href="/products/custom-motorsport-ring-veloforge-signature-series-14k-yellow-gold-6mm" class="vf-option-btn {% if karat == '14K' %}vf-option-btn--active{% endif %}">14K</a>
+                <a href="/products/custom-motorsport-ring-veloforge-signature-series-18k-yellow-gold-6mm" class="vf-option-btn {% if karat == '18K' %}vf-option-btn--active{% endif %}">18K</a>
+              {%- else -%}
+                <a href="/products/custom-motorsport-ring-veloforge-signature-series-14k-white-gold-6mm" class="vf-option-btn {% if karat == '14K' %}vf-option-btn--active{% endif %}">14K</a>
+                <a href="/products/custom-motorsport-ring-veloforge-signature-series-18k-white-gold-6mm" class="vf-option-btn {% if karat == '18K' %}vf-option-btn--active{% endif %}">18K</a>
+              {%- endif -%}
+            </div>
+          </div>
+        </div>
+      </div>
+
+      {%- comment -%} Price row {%- endcomment -%}
+      <div class="vf__price-row">
+        <div>
+          <p class="vf-editorial-label">Price</p>
+          <p class="vf__price">{{ product.selected_or_first_available_variant.price | money }}</p>
+        </div>
+        <div class="vf__badge">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.582a.5.5 0 0 1 0 .962L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.963 0z"/></svg>
+          <span>Made to order</span>
+        </div>
+      </div>
+
+      {%- comment -%} Intro {%- endcomment -%}
+      <p class="vf__intro">Our premium motorsport ring features a precision color channel matched to your vehicle's exact factory paint code. Crafted in the United States and produced in Michigan from solid precious metals, then sealed with automotive-grade ceramic coating for durability.</p>
+
+      {%- comment -%} ===== FORM ===== {%- endcomment -%}
+      <form method="post" action="/cart/add" data-configurator-form class="vf__form">
+        <input type="hidden" name="id" value="" data-variant-id>
+        <input type="hidden" name="properties[Make]" value="" data-prop="Make">
+        <input type="hidden" name="properties[Model]" value="" data-prop="Model">
+        <input type="hidden" name="properties[Year]" value="" data-prop="Year">
+        <input type="hidden" name="properties[Paint Name]" value="" data-prop="Paint Name">
+        <input type="hidden" name="properties[Paint Code]" value="" data-prop="Paint Code">
+        <input type="hidden" name="properties[Hex]" value="" data-prop="Hex">
+        <input type="hidden" name="quantity" value="1" data-quantity-input>
+
+        {%- comment -%} Vehicle card {%- endcomment -%}
+        <div class="vf-card">
+          <div class="vf-card__header">
+            <div>
+              <p class="vf-editorial-label">Vehicle info</p>
+              <p class="vf__helper">Select your make, model, year, and paint to preview your ring finish.</p>
+            </div>
+            <a href="mailto:support@shopveloforge.com" class="vf__help-link">Can't find your paint code?</a>
+          </div>
+          <div class="vf__vehicle-grid">
+            <div class="vf-field">
+              <label class="vf-editorial-label">Car make</label>
+              <select data-select="make"><option value="">Select make</option></select>
+            </div>
+            <div class="vf-field">
+              <label class="vf-editorial-label">Car model</label>
+              <select data-select="model"><option value="">Select model</option></select>
+            </div>
+            <div class="vf-field">
+              <label class="vf-editorial-label">Car year</label>
+              <select data-select="year"><option value="">Select year</option></select>
+            </div>
+          </div>
+        </div>
+
+        {%- comment -%} Paint card {%- endcomment -%}
+        <div class="vf-card">
+          <div class="vf-card__header">
+            <div>
+              <p class="vf-editorial-label">Paint color</p>
+              <p class="vf__helper">Choose a curated finish first, then refine with paint code or hex if needed.</p>
+            </div>
+            <button type="button" class="vf-neutral-btn" data-neutral-preview>Neutral preview</button>
+          </div>
+          <div class="vf__curated-paint-grid" data-paint-grid></div>
+          <div class="vf__manual-paint-grid">
+            <div class="vf-field">
+              <label class="vf-editorial-label">Paint name</label>
+              <input type="text" data-input="paint-name" placeholder="Rosso Corsa">
+            </div>
+            <div class="vf-field">
+              <label class="vf-editorial-label">Paint code</label>
+              <input type="text" data-input="paint-code" placeholder="322">
+            </div>
+            <div class="vf-field">
+              <label class="vf-editorial-label">Hex</label>
+              <input type="text" data-input="paint-hex" placeholder="#C40018" style="text-transform:uppercase">
+            </div>
+          </div>
+          <div class="vf__paint-empty" data-paint-unavailable style="display:none">
+            Curated paints are not available for this vehicle yet. Manual paint code and hex input remain active.
+          </div>
+        </div>
+
+        {%- comment -%} Cart summary {%- endcomment -%}
+        <div class="vf-summary-card" data-summary-cart>
+          <div class="vf-summary-card__row">
+            <span class="vf-summary-card__label">Paint</span>
+            <span class="vf-summary-card__value" data-summary-cart-paint>—</span>
+          </div>
+          <div class="vf-summary-card__row">
+            <span class="vf-summary-card__label">Vehicle</span>
+            <span class="vf-summary-card__value" data-summary-cart-vehicle>—</span>
+          </div>
+        </div>
+
+        {%- comment -%} Size selector {%- endcomment -%}
+        <div class="vf-card">
+          <p class="vf-editorial-label">Ring Size</p>
+          <div class="vf__size-grid" data-size-grid>
+            {%- for variant in product.variants -%}
+              <button type="button" class="vf-size-btn" data-size-value="{{ variant.title }}" data-variant-id-value="{{ variant.id }}">{{ variant.title }}</button>
+            {%- endfor -%}
+          </div>
+        </div>
+
+        {%- comment -%} Cart actions {%- endcomment -%}
+        <div class="vf__cart-grid">
+          <div class="vf-field">
+            <label class="vf-editorial-label">Quantity</label>
+            <div class="vf__quantity-stepper">
+              <button type="button" class="vf__qty-btn" data-quantity-decrease>
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="5" y1="12" x2="19" y2="12"/></svg>
+              </button>
+              <span class="vf__qty-value" data-quantity-value>1</span>
+              <button type="button" class="vf__qty-btn" data-quantity-increase>
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg>
+              </button>
+            </div>
+          </div>
+          <div class="vf-field">
+            <label class="vf-editorial-label">Add to cart</label>
+            <button type="submit" class="vf__add-btn" data-add-to-cart disabled>Add to cart</button>
+          </div>
+        </div>
+
+        <p class="vf__status" data-status></p>
+      </form>
+
+      {%- comment -%} Story {%- endcomment -%}
+      <hr class="vf__divider">
+      <div class="vf__story">
+        <p class="vf-editorial-label">Designed for enthusiasts</p>
+        <p class="vf__story-text">The Signature Series was created for people who see their vehicle as more than transportation. For enthusiasts, a car represents craftsmanship, engineering, and identity. This ring transforms that connection into something you can wear every day — a subtle reflection of the machine that inspires it.</p>
+      </div>
+      <div class="vf__product-details-card">
+        <p class="vf-editorial-label">Product details</p>
+        <p class="vf__band-width">Band width · 6mm</p>
+      </div>
+    </div>
+  </div>
+
+  <script type="application/json" data-variant-map>
+    { {%- for variant in product.variants -%}{{ variant.title | json }}: {{ variant.id | json }}{% unless forloop.last %},{% endunless %}{%- endfor -%} }
+  </script>
+</section>
+
+<script src="{{ 'velo-forge-configurator.js' | asset_url }}" defer="defer"></script>
+
+{% schema %}
+{
+  "name": "Product Configurator",
+  "settings": [],
+  "presets": [{ "name": "Product Configurator" }]
+}
+{% endschema %}

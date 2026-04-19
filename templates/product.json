@@ -1,1 +1,9 @@
-{"sections":{"main_product_velo_forge_configurator":{"type":"main-product-velo-forge-configurator","name":"Velo Forge configurator","settings":{"configurator_app_url":"https://channel-studio-4.preview.emergentagent.com"}}},"order":["main_product_velo_forge_configurator"]}
+{
+  "sections": {
+    "main": {
+      "type": "main-product-configurator",
+      "settings": {}
+    }
+  },
+  "order": ["main"]
+}
