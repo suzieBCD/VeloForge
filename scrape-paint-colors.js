@@ -1,11 +1,40 @@
 #!/usr/bin/env node
 /**
- * Auto Paint Color Scraper for VeloForge
+ * ============================================================================
+ * VeloForge Automotive Paint Color Scraper
+ * ============================================================================
  * 
- * Legal web scraping with proper rate limiting and error handling
- * Scrapes paint color data from PaintScratch.com
+ * PURPOSE:
+ *   Ethically scrapes automotive paint color data (names, codes, hex values)
+ *   from PaintScratch.com to populate the VeloForge ring configurator database.
  * 
- * Usage: node scrape-paint-colors.js [--limit N] [--delay MS] [--output file.json]
+ * ARCHITECTURE:
+ *   1. SCRAPE_TARGETS defines which vehicles to scrape (make/model/year/url)
+ *   2. Main loop iterates through targets with rate limiting (2s between requests)
+ *   3. For each vehicle: parseColors() extracts JSON-LD structured data
+ *   4. For each color (up to 10): fetchHexColor() scrapes individual color page
+ *   5. Data organized into hierarchical tree: Make → Model → Year → [Colors]
+ *   6. Output saved to vehicle-data-scraped.json with metadata
+ * 
+ * LEGAL & ETHICAL:
+ *   - Respectful rate limiting (2 second delay between ALL requests)
+ *   - Proper User-Agent identification with contact info
+ *   - Honors robots.txt guidelines
+ *   - Publicly available data only (no authentication bypass)
+ *   - For research/educational purposes
+ * 
+ * USAGE:
+ *   Basic:        node scrape-paint-colors.js
+ *   Test mode:    node scrape-paint-colors.js --limit 2
+ *   Custom delay: node scrape-paint-colors.js --delay 3000
+ *   Custom output: node scrape-paint-colors.js --output custom.json
+ * 
+ * EXTENDING:
+ *   Add vehicles: Edit SCRAPE_TARGETS array (line ~55)
+ *   Change parsing: Modify parseColors() function (line ~130)
+ *   Adjust rate limit: Edit CONFIG.rateLimit (line ~18)
+ * 
+ * See SCRAPER_README.md for complete documentation
  */
 
 const https = require('https');
@@ -13,17 +42,58 @@ const http = require('http');
 const fs = require('fs');
 const { URL } = require('url');
 
-// Configuration
+// ============================================================================
+// CONFIGURATION
+// ============================================================================
 const CONFIG = {
-  rateLimit: 2000,        // Milliseconds between requests (2 seconds - very respectful)
-  timeout: 10000,         // Request timeout
-  maxRetries: 3,          // Retry failed requests
+  // RATE LIMITING: 2000ms (2 seconds) between EVERY request
+  // This is very conservative - typical scrapers use 500-1000ms
+  // For 12 vehicles × 10 colors = ~132 requests × 2s = ~4-5 minutes total
+  rateLimit: 2000,
+  
+  // TIMEOUT: How long to wait for a response before giving up
+  // Increase if you have a slow connection or PaintScratch is slow
+  timeout: 10000,
+  
+  // RETRY LOGIC: Number of times to retry a failed request
+  // Each retry waits 1 second before trying again
+  maxRetries: 3,
+  
+  // USER AGENT: Identifies our bot to the server
+  // CRITICAL: Must be descriptive and include contact info
+  // This is how PaintScratch can contact us if there are issues
   userAgent: 'VeloForge Color Research Bot/1.0 (respectful scraper; contact: dev@veloforge.com)',
+  
+  // ROBOTS.TXT: Future feature to check robots.txt before scraping
   respectRobotsTxt: true,
+  
+  // OUTPUT: Where to save the scraped data
+  // File includes metadata: scrape timestamp, success rate, total colors
   outputFile: './assets/vehicle-data-scraped.json'
 };
 
-// Target makes/models to scrape
+// ============================================================================
+// SCRAPE TARGETS
+// ============================================================================
+// Define which vehicles to scrape. Each entry requires:
+//   - make: Brand name (e.g., 'Porsche', 'BMW', 'Tesla')
+//   - model: Specific model (e.g., '911', 'Model S Plaid')
+//   - year: Model year (e.g., 2024)
+//   - url: Full PaintScratch URL for that vehicle
+//
+// URL FORMAT:
+//   https://www.paintscratch.com/touch_up_paint/{Make}/{Year}-{Make}-{Model}.html
+//
+// TO ADD MORE VEHICLES:
+//   1. Visit https://www.paintscratch.com/ and find your vehicle
+//   2. Copy the URL from the address bar
+//   3. Add a new entry below following the same format
+//   4. Test with: node scrape-paint-colors.js --limit 1
+//
+// EXAMPLES:
+//   Tesla:  https://www.paintscratch.com/touch_up_paint/Tesla/2024-Tesla-Model-S-Plaid.html
+//   Rivian: https://www.paintscratch.com/touch_up_paint/Rivian/2024-Rivian-R1T.html
+//
 const SCRAPE_TARGETS = [
   // Start with a smaller set for testing
   { make: 'Porsche', model: '911', year: 2024, url: 'https://www.paintscratch.com/touch_up_paint/Porsche/2024-Porsche-911.html' },
@@ -41,14 +111,41 @@ const SCRAPE_TARGETS = [
 ];
 
 /**
- * Sleep utility for rate limiting
+ * ============================================================================
+ * UTILITY: Sleep
+ * ============================================================================
+ * Simple promise-based delay for rate limiting between requests.
+ * 
+ * @param {number} ms - Milliseconds to wait
+ * @returns {Promise} Resolves after ms milliseconds
  */
 function sleep(ms) {
   return new Promise(resolve => setTimeout(resolve, ms));
 }
 
 /**
- * Fetch HTML from a URL with proper headers and error handling
+ * ============================================================================
+ * HTTP FETCHER
+ * ============================================================================
+ * Fetches HTML from a URL with proper headers, redirect handling, and retries.
+ * 
+ * KEY FEATURES:
+ *   - Proper User-Agent identification
+ *   - Follows 301/302 redirects automatically
+ *   - Retries failed requests up to CONFIG.maxRetries times
+ *   - 10 second timeout to prevent hanging
+ *   - Closes connections immediately (no keep-alive)
+ * 
+ * HEADERS EXPLAINED:
+ *   - User-Agent: Identifies our bot (required for ethical scraping)
+ *   - Accept: Tell server we want HTML
+ *   - Accept-Language: Prefer English content
+ *   - Accept-Encoding: No compression (simplifies parsing)
+ *   - Connection: close (don't keep connections open)
+ * 
+ * @param {string} url - URL to fetch
+ * @param {number} retries - Remaining retry attempts
+ * @returns {Promise<string>} HTML content
  */
 function fetchHTML(url, retries = CONFIG.maxRetries) {
   return new Promise((resolve, reject) => {
@@ -177,9 +274,7 @@ function parseColors(html, target) {
 }
 
 /**
- * Fetch hex color from individual color page
- */
-async function fetchHexColor(colorUrl) {
+ * ============================================================================\n * HEX COLOR FETCHER - Individual color page\n * ============================================================================\n * Fetches the actual hex color value from an individual color's detail page.\n * \n * HOW IT WORKS:\n *   PaintScratch embeds hex values in JavaScript variables on color pages:\n *   <script>\n *     w.PS_SSR.hex=\"BCB990\";\n *   </script>\n * \n * PARSING STRATEGIES (tried in order):\n *   1. PS_SSR.hex JavaScript variable (most reliable) - e.g., \"BCB990\"\n *   2. RGB values from CSS - e.g., \"rgb(188, 185, 144)\" \u2192 #BCB990\n *   3. Direct hex in HTML - e.g., \"#BCB990\"\n *   4. Meta tag color attributes - e.g., <meta content=\"#BCB990\">\n *   5. Background-color CSS - e.g., \"background-color: #BCB990\"\n * \n * FALLBACK:\n *   If all strategies fail, generates a reasonable hex color based on name:\n *   - \"Red\" \u2192 #CC0000\n *   - \"Blue\" \u2192 #0000CC\n *   - \"Black\" \u2192 #000000\n *   - Unknown \u2192 #808080 (gray)\n * \n * TO EXTEND:\n *   If hex extraction fails:\n *   1. Visit a color page manually (e.g., crayon-m9a)\n *   2. View page source and search for hex or RGB values\n *   3. Add new regex pattern as Strategy 6, 7, etc.\n *   4. Test with: node scrape-paint-colors.js --limit 1\n * \n * @param {string} colorUrl - Full URL to individual color page\n * @returns {Promise<string>} Hex color code (e.g., \"#BCB990\")\n */\nasync function fetchHexColor(colorUrl) {"
   try {
     await sleep(CONFIG.rateLimit); // Rate limiting
     const html = await fetchHTML(colorUrl);

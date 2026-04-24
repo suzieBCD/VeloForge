@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "scraped_at": "2026-04-19T23:27:42.435Z",
+    "scraped_at": "2026-04-19T23:33:59.400Z",
     "scraper_version": "1.0.0",
     "rate_limit_ms": 2000,
     "user_agent": "VeloForge Color Research Bot/1.0 (respectful scraper; contact: dev@veloforge.com)",
-    "success_count": 2,
-    "fail_count": 0,
-    "total_colors": 32
+    "success_count": 11,
+    "fail_count": 1,
+    "total_colors": 158
   },
   "vehicle_tree": {
     "Porsche": {
@@ -271,6 +271,1066 @@
             "reference_url": "https://www.paintscratch.com/colors/porsche/olive-neo-m6d/",
             "source_label": "PaintScratch 2024 Porsche Taycan",
             "hex_value": "#888888"
+          }
+        ]
+      }
+    },
+    "BMW": {
+      "M4": {
+        "2024": [
+          {
+            "display_name": "Brooklyn Gray",
+            "paint_code": "C4P",
+            "slug": "brooklyn-gray-c4p",
+            "reference_url": "https://www.paintscratch.com/colors/bmw/brooklyn-gray-c4p/",
+            "source_label": "PaintScratch 2024 BMW M4",
+            "hex_value": "#D6E0F8"
+          },
+          {
+            "display_name": "Mineral White Metallic Tricoat",
+            "paint_code": "A96",
+            "slug": "mineral-white-metallic-tricoat-a96",
+            "reference_url": "https://www.paintscratch.com/colors/bmw/mineral-white-metallic-tricoat-a96/",
+            "source_label": "PaintScratch 2024 BMW M4",
+            "hex_value": "#E3E1D7"
+          },
+          {
+            "display_name": "Skyscraper Grey Metallic",
+            "paint_code": "C4W",
+            "slug": "skyscraper-grey-metallic-c4w",
+            "reference_url": "https://www.paintscratch.com/colors/bmw/skyscraper-grey-metallic-c4w/",
+            "source_label": "PaintScratch 2024 BMW M4",
+            "hex_value": "#B4B8A2"
+          },
+          {
+            "display_name": "Mineral Grey",
+            "paint_code": "B39",
+            "slug": "mineral-grey-b39",
+            "reference_url": "https://www.paintscratch.com/colors/bmw/mineral-grey-b39/",
+            "source_label": "PaintScratch 2024 BMW M4",
+            "hex_value": "#404040"
+          },
+          {
+            "display_name": "Arctic Race Blue Pearl",
+            "paint_code": "C4F",
+            "slug": "arctic-race-blue-pearl-c4f",
+            "reference_url": "https://www.paintscratch.com/colors/bmw/arctic-race-blue-pearl-c4f/",
+            "source_label": "PaintScratch 2024 BMW M4",
+            "hex_value": "#596F7F"
+          },
+          {
+            "display_name": "Black Saphir",
+            "paint_code": "9994",
+            "slug": "black-saphir-9994",
+            "reference_url": "https://www.paintscratch.com/colors/bmw/black-saphir-9994/",
+            "source_label": "PaintScratch 2024 BMW M4",
+            "hex_value": "#151111"
+          },
+          {
+            "display_name": "Tansanite Blue Pearl Metallic",
+            "paint_code": "X10",
+            "slug": "tansanite-blue-pearl-metallic-x10",
+            "reference_url": "https://www.paintscratch.com/colors/bmw/tansanite-blue-pearl-metallic-x10/",
+            "source_label": "PaintScratch 2024 BMW M4",
+            "hex_value": "#4D6F95"
+          },
+          {
+            "display_name": "Acid Orange",
+            "paint_code": "C2T",
+            "slug": "acid-orange-c2t",
+            "reference_url": "https://www.paintscratch.com/colors/bmw/acid-orange-c2t/",
+            "source_label": "PaintScratch 2024 BMW M4",
+            "hex_value": "#B66B22"
+          },
+          {
+            "display_name": "Alpinweiss III",
+            "paint_code": "4090",
+            "slug": "alpinweiss-iii-4090",
+            "reference_url": "https://www.paintscratch.com/colors/bmw/alpinweiss-iii-4090/",
+            "source_label": "PaintScratch 2024 BMW M4",
+            "hex_value": "#FFFFFF"
+          },
+          {
+            "display_name": "Aventurine Red",
+            "paint_code": "X15",
+            "slug": "aventurine-red-x15",
+            "reference_url": "https://www.paintscratch.com/colors/bmw/aventurine-red-x15/",
+            "source_label": "PaintScratch 2024 BMW M4",
+            "hex_value": "#65110F"
+          },
+          {
+            "display_name": "Dravite Grey Tricoat",
+            "paint_code": "C36",
+            "slug": "dravite-grey-tricoat-c36",
+            "reference_url": "https://www.paintscratch.com/colors/bmw/dravite-grey-tricoat-c36/",
+            "source_label": "PaintScratch 2024 BMW M4",
+            "hex_value": "#808080"
+          },
+          {
+            "display_name": "Melbourne Red Pearl",
+            "paint_code": "A75",
+            "slug": "melbourne-red-pearl-a75",
+            "reference_url": "https://www.paintscratch.com/colors/bmw/melbourne-red-pearl-a75/",
+            "source_label": "PaintScratch 2024 BMW M4",
+            "hex_value": "#CC0000"
+          },
+          {
+            "display_name": "Oxide Grey",
+            "paint_code": "X1A",
+            "slug": "oxide-grey-x1a",
+            "reference_url": "https://www.paintscratch.com/colors/bmw/oxide-grey-x1a/",
+            "source_label": "PaintScratch 2024 BMW M4",
+            "hex_value": "#808080"
+          },
+          {
+            "display_name": "Portimao Blue Metallic",
+            "paint_code": "C31",
+            "slug": "portimao-blue-metallic-c31",
+            "reference_url": "https://www.paintscratch.com/colors/bmw/portimao-blue-metallic-c31/",
+            "source_label": "PaintScratch 2024 BMW M4",
+            "hex_value": "#0066CC"
+          },
+          {
+            "display_name": "Sao Paulo Yellow",
+            "paint_code": "C4H",
+            "slug": "sao-paulo-yellow-c4h",
+            "reference_url": "https://www.paintscratch.com/colors/bmw/sao-paulo-yellow-c4h/",
+            "source_label": "PaintScratch 2024 BMW M4",
+            "hex_value": "#FFD700"
+          },
+          {
+            "display_name": "Frozen Brilliant White Tricoat",
+            "paint_code": "W93",
+            "slug": "frozen-brilliant-white-tricoat-w93",
+            "reference_url": "https://www.paintscratch.com/colors/bmw/frozen-brilliant-white-tricoat-w93/",
+            "source_label": "PaintScratch 2024 BMW M4",
+            "hex_value": "#F5F5F5"
+          }
+        ]
+      },
+      "M3": {
+        "2024": [
+          {
+            "display_name": "Brooklyn Gray",
+            "paint_code": "C4P",
+            "slug": "brooklyn-gray-c4p",
+            "reference_url": "https://www.paintscratch.com/colors/bmw/brooklyn-gray-c4p/",
+            "source_label": "PaintScratch 2024 BMW M3",
+            "hex_value": "#D6E0F8"
+          },
+          {
+            "display_name": "Mineral White Metallic Tricoat",
+            "paint_code": "A96",
+            "slug": "mineral-white-metallic-tricoat-a96",
+            "reference_url": "https://www.paintscratch.com/colors/bmw/mineral-white-metallic-tricoat-a96/",
+            "source_label": "PaintScratch 2024 BMW M3",
+            "hex_value": "#E3E1D7"
+          },
+          {
+            "display_name": "Skyscraper Grey Metallic",
+            "paint_code": "C4W",
+            "slug": "skyscraper-grey-metallic-c4w",
+            "reference_url": "https://www.paintscratch.com/colors/bmw/skyscraper-grey-metallic-c4w/",
+            "source_label": "PaintScratch 2024 BMW M3",
+            "hex_value": "#B4B8A2"
+          },
+          {
+            "display_name": "Mineral Grey",
+            "paint_code": "B39",
+            "slug": "mineral-grey-b39",
+            "reference_url": "https://www.paintscratch.com/colors/bmw/mineral-grey-b39/",
+            "source_label": "PaintScratch 2024 BMW M3",
+            "hex_value": "#404040"
+          },
+          {
+            "display_name": "Black Saphir",
+            "paint_code": "9994",
+            "slug": "black-saphir-9994",
+            "reference_url": "https://www.paintscratch.com/colors/bmw/black-saphir-9994/",
+            "source_label": "PaintScratch 2024 BMW M3",
+            "hex_value": "#151111"
+          },
+          {
+            "display_name": "Tansanite Blue Pearl Metallic",
+            "paint_code": "X10",
+            "slug": "tansanite-blue-pearl-metallic-x10",
+            "reference_url": "https://www.paintscratch.com/colors/bmw/tansanite-blue-pearl-metallic-x10/",
+            "source_label": "PaintScratch 2024 BMW M3",
+            "hex_value": "#4D6F95"
+          },
+          {
+            "display_name": "Alpinweiss III",
+            "paint_code": "4090",
+            "slug": "alpinweiss-iii-4090",
+            "reference_url": "https://www.paintscratch.com/colors/bmw/alpinweiss-iii-4090/",
+            "source_label": "PaintScratch 2024 BMW M3",
+            "hex_value": "#FFFFFF"
+          },
+          {
+            "display_name": "Aventurine Red",
+            "paint_code": "X15",
+            "slug": "aventurine-red-x15",
+            "reference_url": "https://www.paintscratch.com/colors/bmw/aventurine-red-x15/",
+            "source_label": "PaintScratch 2024 BMW M3",
+            "hex_value": "#65110F"
+          },
+          {
+            "display_name": "Dravite Grey Tricoat",
+            "paint_code": "C36",
+            "slug": "dravite-grey-tricoat-c36",
+            "reference_url": "https://www.paintscratch.com/colors/bmw/dravite-grey-tricoat-c36/",
+            "source_label": "PaintScratch 2024 BMW M3",
+            "hex_value": "#493B2B"
+          },
+          {
+            "display_name": "Melbourne Red Pearl",
+            "paint_code": "A75",
+            "slug": "melbourne-red-pearl-a75",
+            "reference_url": "https://www.paintscratch.com/colors/bmw/melbourne-red-pearl-a75/",
+            "source_label": "PaintScratch 2024 BMW M3",
+            "hex_value": "#AA2E2E"
+          },
+          {
+            "display_name": "Oxide Grey",
+            "paint_code": "X1A",
+            "slug": "oxide-grey-x1a",
+            "reference_url": "https://www.paintscratch.com/colors/bmw/oxide-grey-x1a/",
+            "source_label": "PaintScratch 2024 BMW M3",
+            "hex_value": "#808080"
+          },
+          {
+            "display_name": "Portimao Blue Metallic",
+            "paint_code": "C31",
+            "slug": "portimao-blue-metallic-c31",
+            "reference_url": "https://www.paintscratch.com/colors/bmw/portimao-blue-metallic-c31/",
+            "source_label": "PaintScratch 2024 BMW M3",
+            "hex_value": "#0066CC"
+          },
+          {
+            "display_name": "Sao Paulo Yellow",
+            "paint_code": "C4H",
+            "slug": "sao-paulo-yellow-c4h",
+            "reference_url": "https://www.paintscratch.com/colors/bmw/sao-paulo-yellow-c4h/",
+            "source_label": "PaintScratch 2024 BMW M3",
+            "hex_value": "#FFD700"
+          },
+          {
+            "display_name": "Frozen Brilliant White Tricoat",
+            "paint_code": "W93",
+            "slug": "frozen-brilliant-white-tricoat-w93",
+            "reference_url": "https://www.paintscratch.com/colors/bmw/frozen-brilliant-white-tricoat-w93/",
+            "source_label": "PaintScratch 2024 BMW M3",
+            "hex_value": "#F5F5F5"
+          },
+          {
+            "display_name": "Frozen Portimao Blue Metallic",
+            "paint_code": "X1E",
+            "slug": "frozen-portimao-blue-metallic-x1e",
+            "reference_url": "https://www.paintscratch.com/colors/bmw/frozen-portimao-blue-metallic-x1e/",
+            "source_label": "PaintScratch 2024 BMW M3",
+            "hex_value": "#0066CC"
+          },
+          {
+            "display_name": "Isle of the Man Green Metallic",
+            "paint_code": "C4G",
+            "slug": "isle-of-the-man-green-metallic-c4g",
+            "reference_url": "https://www.paintscratch.com/colors/bmw/isle-of-the-man-green-metallic-c4g/",
+            "source_label": "PaintScratch 2024 BMW M3",
+            "hex_value": "#006633"
+          }
+        ]
+      }
+    },
+    "Ferrari": {
+      "All Models": {
+        "2024": [
+          {
+            "display_name": "Red",
+            "paint_code": "322",
+            "slug": "red-322",
+            "reference_url": "https://www.paintscratch.com/colors/ferrari/red-322/",
+            "source_label": "PaintScratch 2024 Ferrari All Models",
+            "hex_value": "#DA1C1C"
+          },
+          {
+            "display_name": "Argento Metallic",
+            "paint_code": "101",
+            "slug": "argento-metallic-101",
+            "reference_url": "https://www.paintscratch.com/colors/ferrari/argento-metallic-101/",
+            "source_label": "PaintScratch 2024 Ferrari All Models",
+            "hex_value": "#E7E5DD"
+          },
+          {
+            "display_name": "Black",
+            "paint_code": "1240/1250",
+            "slug": "black-12401250",
+            "reference_url": "https://www.paintscratch.com/colors/ferrari/black-12401250/",
+            "source_label": "PaintScratch 2024 Ferrari All Models",
+            "hex_value": "#000000"
+          },
+          {
+            "display_name": "Gray Metallic",
+            "paint_code": "740",
+            "slug": "gray-metallic-740",
+            "reference_url": "https://www.paintscratch.com/colors/ferrari/gray-metallic-740/",
+            "source_label": "PaintScratch 2024 Ferrari All Models",
+            "hex_value": "#59554B"
+          },
+          {
+            "display_name": "Blue Metallic",
+            "paint_code": "750",
+            "slug": "blue-metallic-750",
+            "reference_url": "https://www.paintscratch.com/colors/ferrari/blue-metallic-750/",
+            "source_label": "PaintScratch 2024 Ferrari All Models",
+            "hex_value": "#B1BFC1"
+          },
+          {
+            "display_name": "Blue Tour De France Metallic",
+            "paint_code": "522",
+            "slug": "blue-tour-de-france-metallic-522",
+            "reference_url": "https://www.paintscratch.com/colors/ferrari/blue-tour-de-france-metallic-522/",
+            "source_label": "PaintScratch 2024 Ferrari All Models",
+            "hex_value": "#25436B"
+          },
+          {
+            "display_name": "Gray Metallic",
+            "paint_code": "704/3238",
+            "slug": "gray-metallic-7043238",
+            "reference_url": "https://www.paintscratch.com/colors/ferrari/gray-metallic-7043238/",
+            "source_label": "PaintScratch 2024 Ferrari All Models",
+            "hex_value": "#B1AF9F"
+          },
+          {
+            "display_name": "Red",
+            "paint_code": "325",
+            "slug": "red-325",
+            "reference_url": "https://www.paintscratch.com/colors/ferrari/red-325/",
+            "source_label": "PaintScratch 2024 Ferrari All Models",
+            "hex_value": "#841623"
+          },
+          {
+            "display_name": "White",
+            "paint_code": "100",
+            "slug": "white-100",
+            "reference_url": "https://www.paintscratch.com/colors/ferrari/white-100/",
+            "source_label": "PaintScratch 2024 Ferrari All Models",
+            "hex_value": "#FFFFF1"
+          },
+          {
+            "display_name": "Black Metallic",
+            "paint_code": "506/508",
+            "slug": "black-metallic-506508",
+            "reference_url": "https://www.paintscratch.com/colors/ferrari/black-metallic-506508/",
+            "source_label": "PaintScratch 2024 Ferrari All Models",
+            "hex_value": "#1E1C1C"
+          },
+          {
+            "display_name": "Blue",
+            "paint_code": "520/521",
+            "slug": "blue-520521",
+            "reference_url": "https://www.paintscratch.com/colors/ferrari/blue-520521/",
+            "source_label": "PaintScratch 2024 Ferrari All Models",
+            "hex_value": "#0066CC"
+          },
+          {
+            "display_name": "Blue Metallic",
+            "paint_code": "525",
+            "slug": "blue-metallic-525",
+            "reference_url": "https://www.paintscratch.com/colors/ferrari/blue-metallic-525/",
+            "source_label": "PaintScratch 2024 Ferrari All Models",
+            "hex_value": "#0066CC"
+          },
+          {
+            "display_name": "British Racing Green",
+            "paint_code": "611",
+            "slug": "british-racing-green-611",
+            "reference_url": "https://www.paintscratch.com/colors/ferrari/british-racing-green-611/",
+            "source_label": "PaintScratch 2024 Ferrari All Models",
+            "hex_value": "#006633"
+          },
+          {
+            "display_name": "Gray Metallic",
+            "paint_code": "720",
+            "slug": "gray-metallic-720",
+            "reference_url": "https://www.paintscratch.com/colors/ferrari/gray-metallic-720/",
+            "source_label": "PaintScratch 2024 Ferrari All Models",
+            "hex_value": "#808080"
+          },
+          {
+            "display_name": "Rosso Scuderia",
+            "paint_code": "323",
+            "slug": "rosso-scuderia-323",
+            "reference_url": "https://www.paintscratch.com/colors/ferrari/rosso-scuderia-323/",
+            "source_label": "PaintScratch 2024 Ferrari All Models",
+            "hex_value": "#888888"
+          },
+          {
+            "display_name": "Yellow",
+            "paint_code": "102/4305",
+            "slug": "yellow-1024305",
+            "reference_url": "https://www.paintscratch.com/colors/ferrari/yellow-1024305/",
+            "source_label": "PaintScratch 2024 Ferrari All Models",
+            "hex_value": "#FFD700"
+          }
+        ]
+      }
+    },
+    "Mercedes-Benz": {
+      "AMG GT": {
+        "2024": [
+          {
+            "display_name": "Glacier White",
+            "paint_code": "149",
+            "slug": "glacier-white-149",
+            "reference_url": "https://www.paintscratch.com/colors/mercedes-benz/glacier-white-149/",
+            "source_label": "PaintScratch 2024 Mercedes-Benz AMG GT",
+            "hex_value": "#EEEFEA"
+          },
+          {
+            "display_name": "Brilliant Blue",
+            "paint_code": "896",
+            "slug": "brilliant-blue-896",
+            "reference_url": "https://www.paintscratch.com/colors/mercedes-benz/brilliant-blue-896/",
+            "source_label": "PaintScratch 2024 Mercedes-Benz AMG GT",
+            "hex_value": "#0D2D97"
+          },
+          {
+            "display_name": "Designo Hyacinth Red",
+            "paint_code": "996",
+            "slug": "designo-hyacinth-red-996",
+            "reference_url": "https://www.paintscratch.com/colors/mercedes-benz/designo-hyacinth-red-996/",
+            "source_label": "PaintScratch 2024 Mercedes-Benz AMG GT",
+            "hex_value": "#FDFCE9"
+          }
+        ]
+      }
+    },
+    "Audi": {
+      "R8": {
+        "2024": [
+          {
+            "display_name": "Glacier White Tricoat",
+            "paint_code": "LS9R",
+            "slug": "glacier-white-tricoat-ls9r",
+            "reference_url": "https://www.paintscratch.com/colors/audi/glacier-white-tricoat-ls9r/",
+            "source_label": "PaintScratch 2024 Audi R8",
+            "hex_value": "#EEE5D6"
+          },
+          {
+            "display_name": "Brilliant Black",
+            "paint_code": "LY9T",
+            "slug": "brilliant-black-ly9t",
+            "reference_url": "https://www.paintscratch.com/colors/audi/brilliant-black-ly9t/",
+            "source_label": "PaintScratch 2024 Audi R8",
+            "hex_value": "#000000"
+          },
+          {
+            "display_name": "Florett Silver Metallic",
+            "paint_code": "LZ7G",
+            "slug": "florett-silver-metallic-lz7g",
+            "reference_url": "https://www.paintscratch.com/colors/audi/florett-silver-metallic-lz7g/",
+            "source_label": "PaintScratch 2024 Audi R8",
+            "hex_value": "#C0C0C0"
+          },
+          {
+            "display_name": "Brilliant Black",
+            "paint_code": "LY9B",
+            "slug": "brilliant-black-ly9b",
+            "reference_url": "https://www.paintscratch.com/colors/audi/brilliant-black-ly9b/",
+            "source_label": "PaintScratch 2024 Audi R8",
+            "hex_value": "#000000"
+          },
+          {
+            "display_name": "Daytonagrau",
+            "paint_code": "LZ7S",
+            "slug": "daytonagrau-lz7s",
+            "reference_url": "https://www.paintscratch.com/colors/audi/daytonagrau-lz7s/",
+            "source_label": "PaintScratch 2024 Audi R8",
+            "hex_value": "#A0A094"
+          },
+          {
+            "display_name": "Ibisweiss",
+            "paint_code": "LY9C",
+            "slug": "ibisweiss-ly9c",
+            "reference_url": "https://www.paintscratch.com/colors/audi/ibisweiss-ly9c/",
+            "source_label": "PaintScratch 2024 Audi R8",
+            "hex_value": "#F3F1EF"
+          },
+          {
+            "display_name": "Kemora Gray Pearl",
+            "paint_code": "LX7F",
+            "slug": "kemora-gray-pearl-lx7f",
+            "reference_url": "https://www.paintscratch.com/colors/audi/kemora-gray-pearl-lx7f/",
+            "source_label": "PaintScratch 2024 Audi R8",
+            "hex_value": "#424C54"
+          },
+          {
+            "display_name": "Nardo Grey",
+            "paint_code": "LY7C",
+            "slug": "nardo-grey-ly7c",
+            "reference_url": "https://www.paintscratch.com/colors/audi/nardo-grey-ly7c/",
+            "source_label": "PaintScratch 2024 Audi R8",
+            "hex_value": "#686A6C"
+          },
+          {
+            "display_name": "Suzuka Gray Metallic",
+            "paint_code": "LY7F",
+            "slug": "suzuka-gray-metallic-ly7f",
+            "reference_url": "https://www.paintscratch.com/colors/audi/suzuka-gray-metallic-ly7f/",
+            "source_label": "PaintScratch 2024 Audi R8",
+            "hex_value": "#E9E8E5"
+          },
+          {
+            "display_name": "Ascariblau",
+            "paint_code": "LX5F",
+            "slug": "ascariblau-lx5f",
+            "reference_url": "https://www.paintscratch.com/colors/audi/ascariblau-lx5f/",
+            "source_label": "PaintScratch 2024 Audi R8",
+            "hex_value": "#334059"
+          },
+          {
+            "display_name": "Daytonagrau",
+            "paint_code": "LX7A",
+            "slug": "daytonagrau-lx7a",
+            "reference_url": "https://www.paintscratch.com/colors/audi/daytonagrau-lx7a/",
+            "source_label": "PaintScratch 2024 Audi R8",
+            "hex_value": "#888888"
+          },
+          {
+            "display_name": "Tango Red Effect",
+            "paint_code": "LY3U",
+            "slug": "tango-red-effect-ly3u",
+            "reference_url": "https://www.paintscratch.com/colors/audi/tango-red-effect-ly3u/",
+            "source_label": "PaintScratch 2024 Audi R8",
+            "hex_value": "#CC0000"
+          },
+          {
+            "display_name": "Macaw Blue Effect",
+            "paint_code": "LX5J",
+            "slug": "macaw-blue-effect-lx5j",
+            "reference_url": "https://www.paintscratch.com/colors/audi/macaw-blue-effect-lx5j/",
+            "source_label": "PaintScratch 2024 Audi R8",
+            "hex_value": "#0066CC"
+          },
+          {
+            "display_name": "Vegas Yellow",
+            "paint_code": "LZ1A",
+            "slug": "vegas-yellow-lz1a",
+            "reference_url": "https://www.paintscratch.com/colors/audi/vegas-yellow-lz1a/",
+            "source_label": "PaintScratch 2024 Audi R8",
+            "hex_value": "#FFD700"
+          }
+        ]
+      }
+    },
+    "Chevrolet": {
+      "Corvette": {
+        "2024": [
+          {
+            "display_name": "Black",
+            "paint_code": "41C",
+            "slug": "black-41c",
+            "reference_url": "https://www.paintscratch.com/colors/chevrolet/black-41c/",
+            "source_label": "PaintScratch 2024 Chevrolet Corvette",
+            "hex_value": "#020202"
+          },
+          {
+            "display_name": "Rapid",
+            "paint_code": "GMO",
+            "slug": "rapid-gmo",
+            "reference_url": "https://www.paintscratch.com/colors/chevrolet/rapid-gmo/",
+            "source_label": "PaintScratch 2024 Chevrolet Corvette",
+            "hex_value": "#0847AE"
+          },
+          {
+            "display_name": "Cacti",
+            "paint_code": "GVR",
+            "slug": "cacti-gvr",
+            "reference_url": "https://www.paintscratch.com/colors/chevrolet/cacti-gvr/",
+            "source_label": "PaintScratch 2024 Chevrolet Corvette",
+            "hex_value": "#70786C"
+          },
+          {
+            "display_name": "Amplify Orange",
+            "paint_code": "GC5",
+            "slug": "amplify-orange-gc5",
+            "reference_url": "https://www.paintscratch.com/colors/chevrolet/amplify-orange-gc5/",
+            "source_label": "PaintScratch 2024 Chevrolet Corvette",
+            "hex_value": "#FA990E"
+          },
+          {
+            "display_name": "Carbon Flash",
+            "paint_code": "58C",
+            "slug": "carbon-flash-58c",
+            "reference_url": "https://www.paintscratch.com/colors/chevrolet/carbon-flash-58c/",
+            "source_label": "PaintScratch 2024 Chevrolet Corvette",
+            "hex_value": "#141212"
+          },
+          {
+            "display_name": "Rip Tide",
+            "paint_code": "GJV",
+            "slug": "rip-tide-gjv",
+            "reference_url": "https://www.paintscratch.com/colors/chevrolet/rip-tide-gjv/",
+            "source_label": "PaintScratch 2024 Chevrolet Corvette",
+            "hex_value": "#004276"
+          },
+          {
+            "display_name": "Sea Wolf Tricoat",
+            "paint_code": "GXA",
+            "slug": "sea-wolf-tricoat-gxa",
+            "reference_url": "https://www.paintscratch.com/colors/chevrolet/sea-wolf-tricoat-gxa/",
+            "source_label": "PaintScratch 2024 Chevrolet Corvette",
+            "hex_value": "#4D5465"
+          },
+          {
+            "display_name": "Tactical Tricoat",
+            "paint_code": "GPH",
+            "slug": "tactical-tricoat-gph",
+            "reference_url": "https://www.paintscratch.com/colors/chevrolet/tactical-tricoat-gph/",
+            "source_label": "PaintScratch 2024 Chevrolet Corvette",
+            "hex_value": "#8D2511"
+          },
+          {
+            "display_name": "Flare",
+            "paint_code": "GSJ",
+            "slug": "flare-gsj",
+            "reference_url": "https://www.paintscratch.com/colors/chevrolet/flare-gsj/",
+            "source_label": "PaintScratch 2024 Chevrolet Corvette",
+            "hex_value": "#E1DBCB"
+          },
+          {
+            "display_name": "Hypersonic",
+            "paint_code": "GA7",
+            "slug": "hypersonic-ga7",
+            "reference_url": "https://www.paintscratch.com/colors/chevrolet/hypersonic-ga7/",
+            "source_label": "PaintScratch 2024 Chevrolet Corvette",
+            "hex_value": "#E0EDDD"
+          },
+          {
+            "display_name": "Spectra Red",
+            "paint_code": "70",
+            "slug": "spectra-red-70",
+            "reference_url": "https://www.paintscratch.com/colors/chevrolet/spectra-red-70/",
+            "source_label": "PaintScratch 2024 Chevrolet Corvette",
+            "hex_value": "#CC0000"
+          },
+          {
+            "display_name": "White",
+            "paint_code": "10",
+            "slug": "white-10",
+            "reference_url": "https://www.paintscratch.com/colors/chevrolet/white-10/",
+            "source_label": "PaintScratch 2024 Chevrolet Corvette",
+            "hex_value": "#F5F5F5"
+          },
+          {
+            "display_name": "Accelerate",
+            "paint_code": "GDO",
+            "slug": "accelerate-gdo",
+            "reference_url": "https://www.paintscratch.com/colors/chevrolet/accelerate-gdo/",
+            "source_label": "PaintScratch 2024 Chevrolet Corvette",
+            "hex_value": "#888888"
+          },
+          {
+            "display_name": "Dark Shadow",
+            "paint_code": "GJI",
+            "slug": "dark-shadow-gji",
+            "reference_url": "https://www.paintscratch.com/colors/chevrolet/dark-shadow-gji/",
+            "source_label": "PaintScratch 2024 Chevrolet Corvette",
+            "hex_value": "#888888"
+          },
+          {
+            "display_name": "Galactica",
+            "paint_code": "G48",
+            "slug": "galactica-g48",
+            "reference_url": "https://www.paintscratch.com/colors/chevrolet/galactica-g48/",
+            "source_label": "PaintScratch 2024 Chevrolet Corvette",
+            "hex_value": "#888888"
+          },
+          {
+            "display_name": "Genesis",
+            "paint_code": "G9F",
+            "slug": "genesis-g9f",
+            "reference_url": "https://www.paintscratch.com/colors/chevrolet/genesis-g9f/",
+            "source_label": "PaintScratch 2024 Chevrolet Corvette",
+            "hex_value": "#888888"
+          }
+        ]
+      }
+    },
+    "Ford": {
+      "Mustang": {
+        "2024": [
+          {
+            "display_name": "Oxford White",
+            "paint_code": "YZ",
+            "slug": "oxford-white-yz",
+            "reference_url": "https://www.paintscratch.com/colors/ford/oxford-white-yz/",
+            "source_label": "PaintScratch 2024 Ford Mustang",
+            "hex_value": "#EDF5EC"
+          },
+          {
+            "display_name": "Iconic Silver Metallic",
+            "paint_code": "JS",
+            "slug": "iconic-silver-metallic-js",
+            "reference_url": "https://www.paintscratch.com/colors/ford/iconic-silver-metallic-js/",
+            "source_label": "PaintScratch 2024 Ford Mustang",
+            "hex_value": "#EBE9E3"
+          },
+          {
+            "display_name": "Carbonized Gray",
+            "paint_code": "M7",
+            "slug": "carbonized-gray-m7",
+            "reference_url": "https://www.paintscratch.com/colors/ford/carbonized-gray-m7/",
+            "source_label": "PaintScratch 2024 Ford Mustang",
+            "hex_value": "#B1AA97"
+          },
+          {
+            "display_name": "Black",
+            "paint_code": "UM",
+            "slug": "black-um",
+            "reference_url": "https://www.paintscratch.com/colors/ford/black-um/",
+            "source_label": "PaintScratch 2024 Ford Mustang",
+            "hex_value": "#000000"
+          },
+          {
+            "display_name": "Vapor Blue",
+            "paint_code": "K1",
+            "slug": "vapor-blue-k1",
+            "reference_url": "https://www.paintscratch.com/colors/ford/vapor-blue-k1/",
+            "source_label": "PaintScratch 2024 Ford Mustang",
+            "hex_value": "#90A4B8"
+          },
+          {
+            "display_name": "Avalanche",
+            "paint_code": "DR",
+            "slug": "avalanche-dr",
+            "reference_url": "https://www.paintscratch.com/colors/ford/avalanche-dr/",
+            "source_label": "PaintScratch 2024 Ford Mustang",
+            "hex_value": "#BEB9AA"
+          },
+          {
+            "display_name": "Pristine White Tricoat",
+            "paint_code": "AZ",
+            "slug": "pristine-white-tricoat-az",
+            "reference_url": "https://www.paintscratch.com/colors/ford/pristine-white-tricoat-az/",
+            "source_label": "PaintScratch 2024 Ford Mustang",
+            "hex_value": "#FFFFFF"
+          },
+          {
+            "display_name": "Velocity Blue",
+            "paint_code": "E7",
+            "slug": "velocity-blue-e7",
+            "reference_url": "https://www.paintscratch.com/colors/ford/velocity-blue-e7/",
+            "source_label": "PaintScratch 2024 Ford Mustang",
+            "hex_value": "#597DF3"
+          },
+          {
+            "display_name": "Antimatter Blue",
+            "paint_code": "HX",
+            "slug": "antimatter-blue-hx",
+            "reference_url": "https://www.paintscratch.com/colors/ford/antimatter-blue-hx/",
+            "source_label": "PaintScratch 2024 Ford Mustang",
+            "hex_value": "#08131E"
+          },
+          {
+            "display_name": "Ingot Silver Metallic",
+            "paint_code": "UX",
+            "slug": "ingot-silver-metallic-ux",
+            "reference_url": "https://www.paintscratch.com/colors/ford/ingot-silver-metallic-ux/",
+            "source_label": "PaintScratch 2024 Ford Mustang",
+            "hex_value": "#EAE9E4"
+          },
+          {
+            "display_name": "Atlas Blue Pearl",
+            "paint_code": "B3",
+            "slug": "atlas-blue-pearl-b3",
+            "reference_url": "https://www.paintscratch.com/colors/ford/atlas-blue-pearl-b3/",
+            "source_label": "PaintScratch 2024 Ford Mustang",
+            "hex_value": "#0066CC"
+          },
+          {
+            "display_name": "Burgundy Velvet Tricoat",
+            "paint_code": "R3",
+            "slug": "burgundy-velvet-tricoat-r3",
+            "reference_url": "https://www.paintscratch.com/colors/ford/burgundy-velvet-tricoat-r3/",
+            "source_label": "PaintScratch 2024 Ford Mustang",
+            "hex_value": "#888888"
+          },
+          {
+            "display_name": "Cactus Grey",
+            "paint_code": "NE",
+            "slug": "cactus-grey-ne",
+            "reference_url": "https://www.paintscratch.com/colors/ford/cactus-grey-ne/",
+            "source_label": "PaintScratch 2024 Ford Mustang",
+            "hex_value": "#808080"
+          },
+          {
+            "display_name": "Eruption Green",
+            "paint_code": "FA",
+            "slug": "eruption-green-fa",
+            "reference_url": "https://www.paintscratch.com/colors/ford/eruption-green-fa/",
+            "source_label": "PaintScratch 2024 Ford Mustang",
+            "hex_value": "#006633"
+          },
+          {
+            "display_name": "Race Red",
+            "paint_code": "PQ",
+            "slug": "race-red-pq",
+            "reference_url": "https://www.paintscratch.com/colors/ford/race-red-pq/",
+            "source_label": "PaintScratch 2024 Ford Mustang",
+            "hex_value": "#CC0000"
+          }
+        ]
+      }
+    },
+    "Nissan": {
+      "GT-R": {
+        "2024": [
+          {
+            "display_name": "Gray Metallic",
+            "paint_code": "KAD",
+            "slug": "gray-metallic-kad",
+            "reference_url": "https://www.paintscratch.com/colors/nissan/gray-metallic-kad/",
+            "source_label": "PaintScratch 2024 Nissan GT-R",
+            "hex_value": "#808080"
+          },
+          {
+            "display_name": "White Pearl Tricoat",
+            "paint_code": "QAB",
+            "slug": "white-pearl-tricoat-qab",
+            "reference_url": "https://www.paintscratch.com/colors/nissan/white-pearl-tricoat-qab/",
+            "source_label": "PaintScratch 2024 Nissan GT-R",
+            "hex_value": "#EDE5D3"
+          },
+          {
+            "display_name": "Silver Metallic",
+            "paint_code": "K23",
+            "slug": "silver-metallic-k23",
+            "reference_url": "https://www.paintscratch.com/colors/nissan/silver-metallic-k23/",
+            "source_label": "PaintScratch 2024 Nissan GT-R",
+            "hex_value": "#EFEDE9"
+          },
+          {
+            "display_name": "Blue Pearl",
+            "paint_code": "RAY",
+            "slug": "blue-pearl-ray",
+            "reference_url": "https://www.paintscratch.com/colors/nissan/blue-pearl-ray/",
+            "source_label": "PaintScratch 2024 Nissan GT-R",
+            "hex_value": "#101E49"
+          },
+          {
+            "display_name": "Black",
+            "paint_code": "KH3",
+            "slug": "black-kh3",
+            "reference_url": "https://www.paintscratch.com/colors/nissan/black-kh3/",
+            "source_label": "PaintScratch 2024 Nissan GT-R",
+            "hex_value": "#121713"
+          },
+          {
+            "display_name": "Cloud White",
+            "paint_code": "QM1",
+            "slug": "cloud-white-qm1",
+            "reference_url": "https://www.paintscratch.com/colors/nissan/cloud-white-qm1/",
+            "source_label": "PaintScratch 2024 Nissan GT-R",
+            "hex_value": "#FCF8EA"
+          },
+          {
+            "display_name": "Glacier Pearl Tri-Coat",
+            "paint_code": "QX1",
+            "slug": "glacier-pearl-tri-coat-qx1",
+            "reference_url": "https://www.paintscratch.com/colors/nissan/glacier-pearl-tri-coat-qx1/",
+            "source_label": "PaintScratch 2024 Nissan GT-R",
+            "hex_value": "#FDFCF7"
+          },
+          {
+            "display_name": "Bayside Blue Tricoat",
+            "paint_code": "RCB",
+            "slug": "bayside-blue-tricoat-rcb",
+            "reference_url": "https://www.paintscratch.com/colors/nissan/bayside-blue-tricoat-rcb/",
+            "source_label": "PaintScratch 2024 Nissan GT-R",
+            "hex_value": "#2365D3"
+          },
+          {
+            "display_name": "Red Pearl",
+            "paint_code": "A54",
+            "slug": "red-pearl-a54",
+            "reference_url": "https://www.paintscratch.com/colors/nissan/red-pearl-a54/",
+            "source_label": "PaintScratch 2024 Nissan GT-R",
+            "hex_value": "#AE2720"
+          },
+          {
+            "display_name": "Stealth Gray",
+            "paint_code": "KCE",
+            "slug": "stealth-gray-kce",
+            "reference_url": "https://www.paintscratch.com/colors/nissan/stealth-gray-kce/",
+            "source_label": "PaintScratch 2024 Nissan GT-R",
+            "hex_value": "#38444B"
+          },
+          {
+            "display_name": "Blueish Silver Metallic",
+            "paint_code": "KAB",
+            "slug": "blueish-silver-metallic-kab",
+            "reference_url": "https://www.paintscratch.com/colors/nissan/blueish-silver-metallic-kab/",
+            "source_label": "PaintScratch 2024 Nissan GT-R",
+            "hex_value": "#0066CC"
+          },
+          {
+            "display_name": "Gray Pearl Metallic",
+            "paint_code": "K21",
+            "slug": "gray-pearl-metallic-k21",
+            "reference_url": "https://www.paintscratch.com/colors/nissan/gray-pearl-metallic-k21/",
+            "source_label": "PaintScratch 2024 Nissan GT-R",
+            "hex_value": "#808080"
+          },
+          {
+            "display_name": "Jet Black",
+            "paint_code": "GAG",
+            "slug": "jet-black-gag",
+            "reference_url": "https://www.paintscratch.com/colors/nissan/jet-black-gag/",
+            "source_label": "PaintScratch 2024 Nissan GT-R",
+            "hex_value": "#0A0A0A"
+          },
+          {
+            "display_name": "Yellowish Green Metallic",
+            "paint_code": "JW0",
+            "slug": "yellowish-green-metallic-jw0",
+            "reference_url": "https://www.paintscratch.com/colors/nissan/yellowish-green-metallic-jw0/",
+            "source_label": "PaintScratch 2024 Nissan GT-R",
+            "hex_value": "#006633"
+          },
+          {
+            "display_name": "Dark Bluish Green",
+            "paint_code": "9699",
+            "slug": "dark-bluish-green-9699",
+            "reference_url": "https://www.paintscratch.com/colors/nissan/dark-bluish-green-9699/",
+            "source_label": "PaintScratch 2024 Nissan GT-R",
+            "hex_value": "#006633"
+          }
+        ]
+      }
+    },
+    "Dodge": {
+      "Challenger": {
+        "2023": [
+          {
+            "display_name": "Jet Black (matt)",
+            "paint_code": "RXF",
+            "slug": "jet-black-matt-rxf",
+            "reference_url": "https://www.paintscratch.com/colors/dodge/jet-black-matt-rxf/",
+            "source_label": "PaintScratch 2023 Dodge Challenger",
+            "hex_value": "#0C0C0C"
+          },
+          {
+            "display_name": "Bright White",
+            "paint_code": "PW7",
+            "slug": "bright-white-pw7",
+            "reference_url": "https://www.paintscratch.com/colors/dodge/bright-white-pw7/",
+            "source_label": "PaintScratch 2023 Dodge Challenger",
+            "hex_value": "#FCFFFB"
+          },
+          {
+            "display_name": "Granite Crystal Metallic",
+            "paint_code": "PAU",
+            "slug": "granite-crystal-metallic-pau",
+            "reference_url": "https://www.paintscratch.com/colors/dodge/granite-crystal-metallic-pau/",
+            "source_label": "PaintScratch 2023 Dodge Challenger",
+            "hex_value": "#827A56"
+          },
+          {
+            "display_name": "Sinamon Stick Metallic",
+            "paint_code": "PEC",
+            "slug": "sinamon-stick-metallic-pec",
+            "reference_url": "https://www.paintscratch.com/colors/dodge/sinamon-stick-metallic-pec/",
+            "source_label": "PaintScratch 2023 Dodge Challenger",
+            "hex_value": "#CC3820"
+          },
+          {
+            "display_name": "Sublime Green Effect",
+            "paint_code": "PFB",
+            "slug": "sublime-green-effect-pfb",
+            "reference_url": "https://www.paintscratch.com/colors/dodge/sublime-green-effect-pfb/",
+            "source_label": "PaintScratch 2023 Dodge Challenger",
+            "hex_value": "#AAF462"
+          },
+          {
+            "display_name": "Black",
+            "paint_code": "PX8",
+            "slug": "black-px8",
+            "reference_url": "https://www.paintscratch.com/colors/dodge/black-px8/",
+            "source_label": "PaintScratch 2023 Dodge Challenger",
+            "hex_value": "#0A1112"
+          },
+          {
+            "display_name": "Ceramic Gray",
+            "paint_code": "PDN",
+            "slug": "ceramic-gray-pdn",
+            "reference_url": "https://www.paintscratch.com/colors/dodge/ceramic-gray-pdn/",
+            "source_label": "PaintScratch 2023 Dodge Challenger",
+            "hex_value": "#47433B"
+          },
+          {
+            "display_name": "Frost Bite Pearl",
+            "paint_code": "PCA",
+            "slug": "frost-bite-pearl-pca",
+            "reference_url": "https://www.paintscratch.com/colors/dodge/frost-bite-pearl-pca/",
+            "source_label": "PaintScratch 2023 Dodge Challenger",
+            "hex_value": "#3D6189"
+          },
+          {
+            "display_name": "High Performance Red",
+            "paint_code": "PR3",
+            "slug": "high-performance-red-pr3",
+            "reference_url": "https://www.paintscratch.com/colors/dodge/high-performance-red-pr3/",
+            "source_label": "PaintScratch 2023 Dodge Challenger",
+            "hex_value": "#A32623"
+          },
+          {
+            "display_name": "Jaspis Steel Blue Effect",
+            "paint_code": "PBM",
+            "slug": "jaspis-steel-blue-effect-pbm",
+            "reference_url": "https://www.paintscratch.com/colors/dodge/jaspis-steel-blue-effect-pbm/",
+            "source_label": "PaintScratch 2023 Dodge Challenger",
+            "hex_value": "#1E5D9E"
+          },
+          {
+            "display_name": "Surf Blue Pearl",
+            "paint_code": "PQD",
+            "slug": "surf-blue-pearl-pqd",
+            "reference_url": "https://www.paintscratch.com/colors/dodge/surf-blue-pearl-pqd/",
+            "source_label": "PaintScratch 2023 Dodge Challenger",
+            "hex_value": "#0066CC"
+          },
+          {
+            "display_name": "Velvet Red Pearl",
+            "paint_code": "PRV",
+            "slug": "velvet-red-pearl-prv",
+            "reference_url": "https://www.paintscratch.com/colors/dodge/velvet-red-pearl-prv/",
+            "source_label": "PaintScratch 2023 Dodge Challenger",
+            "hex_value": "#CC0000"
+          },
+          {
+            "display_name": "Atomic Silver Metallic",
+            "paint_code": "PSE",
+            "slug": "atomic-silver-metallic-pse",
+            "reference_url": "https://www.paintscratch.com/colors/dodge/atomic-silver-metallic-pse/",
+            "source_label": "PaintScratch 2023 Dodge Challenger",
+            "hex_value": "#C0C0C0"
+          },
+          {
+            "display_name": "Go Man Go",
+            "paint_code": "PVP",
+            "slug": "go-man-go-pvp",
+            "reference_url": "https://www.paintscratch.com/colors/dodge/go-man-go-pvp/",
+            "source_label": "PaintScratch 2023 Dodge Challenger",
+            "hex_value": "#888888"
+          },
+          {
+            "display_name": "Green",
+            "paint_code": "PFQ",
+            "slug": "green-pfq",
+            "reference_url": "https://www.paintscratch.com/colors/dodge/green-pfq/",
+            "source_label": "PaintScratch 2023 Dodge Challenger",
+            "hex_value": "#006633"
           }
         ]
       }
