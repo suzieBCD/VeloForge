@@ -690,9 +690,9 @@
 .vf-ring-preview__tint { mix-blend-mode: multiply; }
 .vf-ring-preview__highlight { mix-blend-mode: soft-light; }
 
-.vf-ring-preview--active .vf-ring-preview__color-wash { opacity: 0.74; }
-.vf-ring-preview--active .vf-ring-preview__tint { opacity: 0.6; }
-.vf-ring-preview--active .vf-ring-preview__highlight { opacity: 0.95; }
+.vf-ring-preview--active .vf-ring-preview__color-wash { opacity: 1; }
+.vf-ring-preview--active .vf-ring-preview__tint { opacity: 0; }
+.vf-ring-preview--active .vf-ring-preview__highlight { opacity: 0; }
 
 /* ===== PAGE ANIMATION ===== */
 .vf {

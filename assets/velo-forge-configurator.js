@@ -19,8 +19,7 @@
   const inputPaintCode = root.querySelector('[data-input="paint-code"]');
   const inputPaintHex = root.querySelector('[data-input="paint-hex"]');
   const sizeGrid = root.querySelector('[data-size-grid]');
-  const sizeHidden = root.querySelector('[data-size-value]');
-  const variantHidden = root.querySelector('[data-variant-id-value]');
+  const variantHidden = root.querySelector('[data-variant-id]');
   const summaryPaint = root.querySelector('[data-summary-paint]');
   const summaryVehicle = root.querySelector('[data-summary-vehicle]');
   const neutralBtn = root.querySelector('[data-neutral-preview]');
@@ -28,7 +27,7 @@
   const qtyValue = root.querySelector('[data-quantity-value]');
   const decreaseBtn = root.querySelector('[data-quantity-decrease]');
   const increaseBtn = root.querySelector('[data-quantity-increase]');
-  const addBtn = root.querySelector('[data-add-btn]');
+  const addBtn = root.querySelector('[data-add-to-cart]');
   const statusEl = root.querySelector('[data-status]');
 
   /* Ring preview layers (desktop + mobile) */
@@ -46,8 +45,8 @@
   let selectedPaint = null;
   let selectedSize = null;
 
-  /* Variant map from data attribute */
-  const variantMap = JSON.parse(root.dataset.variantMap || '{}');
+  /* Variant map from inline JSON script tag */
+  const variantMap = JSON.parse(root.querySelector('[data-variant-map]')?.textContent || '{}');
 
   /* ===== VEHICLE DATA ===== */
   async function loadVehicleData() {
@@ -79,6 +78,7 @@
     const models = Object.keys(vehicleData[make]);
     modelSel.innerHTML += models.map(m => `<option value="${m}">${m}</option>`).join('');
     updateSummaryVehicle();
+    updateReadiness();
   }
 
   function onModelChange() {
@@ -90,6 +90,7 @@
     const years = Object.keys(vehicleData[make][model]);
     yearSel.innerHTML += years.map(y => `<option value="${y}">${y}</option>`).join('');
     updateSummaryVehicle();
+    updateReadiness();
   }
 
   function onYearChange() {
@@ -105,6 +106,7 @@
       paintUnavailable.style.display = '';
     }
     updateSummaryVehicle();
+    updateReadiness();
   }
 
   /* ===== PAINT SWATCHES ===== */
@@ -148,6 +150,7 @@
     inputPaintHex.value = hex;
     setColor(hex);
     updateSummaryPaint();
+    updateReadiness();
   }
 
   /* Manual paint inputs */
@@ -161,8 +164,11 @@
       setColor(normalizedHex);
       /* Deselect swatches */
       paintGrid.querySelectorAll('.vf-paint-swatch').forEach(b => b.classList.remove('vf-paint-swatch--active'));
+    } else {
+      selectedPaint = null;
     }
     updateSummaryPaint();
+    updateReadiness();
   }
 
   inputPaintName.addEventListener('input', onManualPaintInput);
@@ -227,11 +233,11 @@
     btn.addEventListener('click', () => {
       sizeGrid.querySelectorAll('.vf-size-btn').forEach(b => b.classList.remove('vf-size-btn--active'));
       btn.classList.add('vf-size-btn--active');
-      selectedSize = btn.dataset.size;
-      sizeHidden.value = selectedSize;
-      /* Resolve variant */
+      selectedSize = btn.dataset.sizeValue;
+      /* Resolve variant and set hidden id input */
       const vid = variantMap[selectedSize];
-      if (vid) variantHidden.value = vid;
+      if (vid && variantHidden) variantHidden.value = vid;
+      updateReadiness();
     });
   });
 
@@ -268,6 +274,14 @@
     summaryVehicle.textContent = parts.length ? parts.join(' ') : '—';
   }
 
+  function updateReadiness() {
+    if (!addBtn) return;
+    const ready = !!selectedSize &&
+      !!makeSel.value && !!modelSel.value && !!yearSel.value &&
+      !!(inputPaintName.value || inputPaintHex.value);
+    addBtn.disabled = !ready;
+  }
+
   /* ===== FORM SUBMIT ===== */
   form.addEventListener('submit', (e) => {
     if (!selectedSize) {
@@ -293,6 +307,71 @@
     setTimeout(() => { statusEl.textContent = ''; }, 4000);
   }
 
+  /* ===== STATE PERSISTENCE (sessionStorage) ===== */
+  const STATE_KEY = 'vf_configurator_state';
+
+  function saveState() {
+    const state = {
+      make: makeSel.value,
+      model: modelSel.value,
+      year: yearSel.value,
+      paintName: inputPaintName.value,
+      paintCode: inputPaintCode.value,
+      paintHex: inputPaintHex.value,
+      size: selectedSize,
+    };
+    try { sessionStorage.setItem(STATE_KEY, JSON.stringify(state)); } catch (_) {}
+  }
+
+  async function restoreState() {
+    let state;
+    try {
+      const raw = sessionStorage.getItem(STATE_KEY);
+      if (!raw) return;
+      state = JSON.parse(raw);
+      sessionStorage.removeItem(STATE_KEY);
+    } catch (_) { return; }
+
+    /* Restore make and re-populate models */
+    if (state.make && makeSel.querySelector(`option[value="${CSS.escape(state.make)}"]`)) {
+      makeSel.value = state.make;
+      onMakeChange();
+    } else { return; }
+
+    /* Restore model and re-populate years */
+    if (state.model && modelSel.querySelector(`option[value="${CSS.escape(state.model)}"]`)) {
+      modelSel.value = state.model;
+      onModelChange();
+    } else { return; }
+
+    /* Restore year and load paints */
+    if (state.year && yearSel.querySelector(`option[value="${CSS.escape(state.year)}"]`)) {
+      yearSel.value = state.year;
+      onYearChange();
+    } else { return; }
+
+    /* Restore paint inputs */
+    if (state.paintHex) {
+      inputPaintName.value = state.paintName || '';
+      inputPaintCode.value = state.paintCode || '';
+      inputPaintHex.value = state.paintHex;
+      /* Highlight matching swatch if present */
+      const match = paintGrid.querySelector(`[data-hex="${state.paintHex}"]`);
+      if (match) { selectSwatch(match); } else { onManualPaintInput(); }
+    }
+
+    /* Restore ring size */
+    if (state.size) {
+      const sizeBtn = sizeGrid.querySelector(`[data-size-value="${CSS.escape(state.size)}"]`);
+      if (sizeBtn) sizeBtn.click();
+    }
+  }
+
+  /* Save state when navigating via Metal / Karat option buttons */
+  root.addEventListener('click', (e) => {
+    if (e.target.closest('.vf-option-btn')) saveState();
+  });
+
   /* ===== INIT ===== */
   if (makeSel) makeSel.addEventListener('change', onMakeChange);
   if (modelSel) modelSel.addEventListener('change', onModelChange);
@@ -307,5 +386,5 @@
   });
 
   applyRingMask();
-  loadVehicleData();
+  loadVehicleData().then(restoreState);
 })();
