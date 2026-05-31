@@ -1,6 +1,8 @@
 (function () {
   'use strict';
 
+
+  
   /** @type {HTMLElement | null} */
   const root = document.querySelector('[data-vf-configurator]');
   if (!root) return;
