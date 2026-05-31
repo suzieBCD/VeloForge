@@ -1,0 +1,2238 @@
+{
+  "All Models": {
+    "1967": [
+      {
+        "display_name": "White",
+        "paint_code": "L04",
+        "slug": "white-l04",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/white-l04/",
+        "source_label": "PaintScratch 1967 Lotus",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Lemon Yellow",
+        "paint_code": "L31",
+        "slug": "lemon-yellow-l31",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/lemon-yellow-l31/",
+        "source_label": "PaintScratch 1967 Lotus",
+        "hex_value": "#C8BC38"
+      }
+    ],
+    "1968": [
+      {
+        "display_name": "Lemon Yellow",
+        "paint_code": "L31",
+        "slug": "lemon-yellow-l31",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/lemon-yellow-l31/",
+        "source_label": "PaintScratch 1968 Lotus",
+        "hex_value": "#C8BC38"
+      }
+    ],
+    "1969": [
+      {
+        "display_name": "Lemon Yellow",
+        "paint_code": "L31",
+        "slug": "lemon-yellow-l31",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/lemon-yellow-l31/",
+        "source_label": "PaintScratch 1969 Lotus",
+        "hex_value": "#C8BC38"
+      }
+    ],
+    "1970": [
+      {
+        "display_name": "Lemon Yellow",
+        "paint_code": "L31",
+        "slug": "lemon-yellow-l31",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/lemon-yellow-l31/",
+        "source_label": "PaintScratch 1970 Lotus",
+        "hex_value": "#C8BC38"
+      }
+    ],
+    "1971": [
+      {
+        "display_name": "Black",
+        "paint_code": "A02",
+        "slug": "black-a02",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/black-a02/",
+        "source_label": "PaintScratch 1971 Lotus",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Lemon Yellow",
+        "paint_code": "L31",
+        "slug": "lemon-yellow-l31",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/lemon-yellow-l31/",
+        "source_label": "PaintScratch 1971 Lotus",
+        "hex_value": "#C8BC38"
+      }
+    ],
+    "1972": [
+      {
+        "display_name": "Black",
+        "paint_code": "A02",
+        "slug": "black-a02",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/black-a02/",
+        "source_label": "PaintScratch 1972 Lotus",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Bright Red",
+        "paint_code": "L05",
+        "slug": "bright-red-l05",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/bright-red-l05/",
+        "source_label": "PaintScratch 1972 Lotus",
+        "hex_value": "#F31515"
+      },
+      {
+        "display_name": "Orange",
+        "paint_code": "L14",
+        "slug": "orange-l14",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/orange-l14/",
+        "source_label": "PaintScratch 1972 Lotus",
+        "hex_value": "#EB9D23"
+      },
+      {
+        "display_name": "Lemon Yellow",
+        "paint_code": "L31",
+        "slug": "lemon-yellow-l31",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/lemon-yellow-l31/",
+        "source_label": "PaintScratch 1972 Lotus",
+        "hex_value": "#C8BC38"
+      }
+    ],
+    "1973": [
+      {
+        "display_name": "Black",
+        "paint_code": "A02",
+        "slug": "black-a02",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/black-a02/",
+        "source_label": "PaintScratch 1973 Lotus",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Lotus Yellow",
+        "paint_code": "L07",
+        "slug": "lotus-yellow-l07",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/lotus-yellow-l07/",
+        "source_label": "PaintScratch 1973 Lotus",
+        "hex_value": "#FFFF00"
+      },
+      {
+        "display_name": "Lemon Yellow",
+        "paint_code": "L31",
+        "slug": "lemon-yellow-l31",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/lemon-yellow-l31/",
+        "source_label": "PaintScratch 1973 Lotus",
+        "hex_value": "#C8BC38"
+      }
+    ],
+    "1974": [
+      {
+        "display_name": "Black",
+        "paint_code": "A02",
+        "slug": "black-a02",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/black-a02/",
+        "source_label": "PaintScratch 1974 Lotus",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Monaco White",
+        "paint_code": "A21",
+        "slug": "monaco-white-a21",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/monaco-white-a21/",
+        "source_label": "PaintScratch 1974 Lotus",
+        "hex_value": "#FFFBFB"
+      },
+      {
+        "display_name": "Monaco White",
+        "paint_code": "A25",
+        "slug": "monaco-white-a25",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/monaco-white-a25/",
+        "source_label": "PaintScratch 1974 Lotus",
+        "hex_value": "#FFFBFB"
+      },
+      {
+        "display_name": "Lemon Yellow",
+        "paint_code": "L31",
+        "slug": "lemon-yellow-l31",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/lemon-yellow-l31/",
+        "source_label": "PaintScratch 1974 Lotus",
+        "hex_value": "#C8BC38"
+      }
+    ],
+    "1975": [
+      {
+        "display_name": "Black",
+        "paint_code": "A02",
+        "slug": "black-a02",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/black-a02/",
+        "source_label": "PaintScratch 1975 Lotus",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Monaco White",
+        "paint_code": "A21",
+        "slug": "monaco-white-a21",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/monaco-white-a21/",
+        "source_label": "PaintScratch 1975 Lotus",
+        "hex_value": "#FFFBFB"
+      },
+      {
+        "display_name": "Monaco White",
+        "paint_code": "A25",
+        "slug": "monaco-white-a25",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/monaco-white-a25/",
+        "source_label": "PaintScratch 1975 Lotus",
+        "hex_value": "#FFFBFB"
+      },
+      {
+        "display_name": "Lemon Yellow",
+        "paint_code": "L31",
+        "slug": "lemon-yellow-l31",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/lemon-yellow-l31/",
+        "source_label": "PaintScratch 1975 Lotus",
+        "hex_value": "#C8BC38"
+      }
+    ],
+    "1976": [
+      {
+        "display_name": "Black",
+        "paint_code": "A02",
+        "slug": "black-a02",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/black-a02/",
+        "source_label": "PaintScratch 1976 Lotus",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Monaco White",
+        "paint_code": "A21",
+        "slug": "monaco-white-a21",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/monaco-white-a21/",
+        "source_label": "PaintScratch 1976 Lotus",
+        "hex_value": "#FFFBFB"
+      },
+      {
+        "display_name": "Lemon",
+        "paint_code": "A22",
+        "slug": "lemon-a22",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/lemon-a22/",
+        "source_label": "PaintScratch 1976 Lotus",
+        "hex_value": "#C8BC38"
+      },
+      {
+        "display_name": "Monaco White",
+        "paint_code": "A25",
+        "slug": "monaco-white-a25",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/monaco-white-a25/",
+        "source_label": "PaintScratch 1976 Lotus",
+        "hex_value": "#FFFBFB"
+      },
+      {
+        "display_name": "Lemon Yellow",
+        "paint_code": "L31",
+        "slug": "lemon-yellow-l31",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/lemon-yellow-l31/",
+        "source_label": "PaintScratch 1976 Lotus",
+        "hex_value": "#C8BC38"
+      }
+    ],
+    "1977": [
+      {
+        "display_name": "Black",
+        "paint_code": "A02",
+        "slug": "black-a02",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/black-a02/",
+        "source_label": "PaintScratch 1977 Lotus",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Silver Blue",
+        "paint_code": "A03",
+        "slug": "silver-blue-a03",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/silver-blue-a03/",
+        "source_label": "PaintScratch 1977 Lotus",
+        "hex_value": "#CAD1D8"
+      },
+      {
+        "display_name": "Monaco White",
+        "paint_code": "A21",
+        "slug": "monaco-white-a21",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/monaco-white-a21/",
+        "source_label": "PaintScratch 1977 Lotus",
+        "hex_value": "#FFFBFB"
+      },
+      {
+        "display_name": "Lemon",
+        "paint_code": "A22",
+        "slug": "lemon-a22",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/lemon-a22/",
+        "source_label": "PaintScratch 1977 Lotus",
+        "hex_value": "#C8BC38"
+      },
+      {
+        "display_name": "Monaco White",
+        "paint_code": "A25",
+        "slug": "monaco-white-a25",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/monaco-white-a25/",
+        "source_label": "PaintScratch 1977 Lotus",
+        "hex_value": "#FFFBFB"
+      },
+      {
+        "display_name": "Lemon Yellow",
+        "paint_code": "L31",
+        "slug": "lemon-yellow-l31",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/lemon-yellow-l31/",
+        "source_label": "PaintScratch 1977 Lotus",
+        "hex_value": "#C8BC38"
+      }
+    ],
+    "1978": [
+      {
+        "display_name": "Black",
+        "paint_code": "A02",
+        "slug": "black-a02",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/black-a02/",
+        "source_label": "PaintScratch 1978 Lotus",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Silver Blue",
+        "paint_code": "A03",
+        "slug": "silver-blue-a03",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/silver-blue-a03/",
+        "source_label": "PaintScratch 1978 Lotus",
+        "hex_value": "#CAD1D8"
+      },
+      {
+        "display_name": "Monaco White",
+        "paint_code": "A21",
+        "slug": "monaco-white-a21",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/monaco-white-a21/",
+        "source_label": "PaintScratch 1978 Lotus",
+        "hex_value": "#FFFBFB"
+      },
+      {
+        "display_name": "Lemon",
+        "paint_code": "A22",
+        "slug": "lemon-a22",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/lemon-a22/",
+        "source_label": "PaintScratch 1978 Lotus",
+        "hex_value": "#C8BC38"
+      },
+      {
+        "display_name": "Monaco White",
+        "paint_code": "A25",
+        "slug": "monaco-white-a25",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/monaco-white-a25/",
+        "source_label": "PaintScratch 1978 Lotus",
+        "hex_value": "#FFFBFB"
+      },
+      {
+        "display_name": "Lemon Yellow",
+        "paint_code": "L31",
+        "slug": "lemon-yellow-l31",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/lemon-yellow-l31/",
+        "source_label": "PaintScratch 1978 Lotus",
+        "hex_value": "#C8BC38"
+      }
+    ],
+    "1979": [
+      {
+        "display_name": "Calypso Red",
+        "paint_code": "A23",
+        "slug": "calypso-red-a23",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/calypso-red-a23/",
+        "source_label": "PaintScratch 1979 Lotus",
+        "hex_value": "#B61410"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "A02",
+        "slug": "black-a02",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/black-a02/",
+        "source_label": "PaintScratch 1979 Lotus",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Silver Blue",
+        "paint_code": "A03",
+        "slug": "silver-blue-a03",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/silver-blue-a03/",
+        "source_label": "PaintScratch 1979 Lotus",
+        "hex_value": "#CAD1D8"
+      },
+      {
+        "display_name": "Monaco White",
+        "paint_code": "A21",
+        "slug": "monaco-white-a21",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/monaco-white-a21/",
+        "source_label": "PaintScratch 1979 Lotus",
+        "hex_value": "#FFFBFB"
+      },
+      {
+        "display_name": "Lemon",
+        "paint_code": "A22",
+        "slug": "lemon-a22",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/lemon-a22/",
+        "source_label": "PaintScratch 1979 Lotus",
+        "hex_value": "#C8BC38"
+      },
+      {
+        "display_name": "Monaco White",
+        "paint_code": "A25",
+        "slug": "monaco-white-a25",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/monaco-white-a25/",
+        "source_label": "PaintScratch 1979 Lotus",
+        "hex_value": "#FFFBFB"
+      },
+      {
+        "display_name": "Lemon Yellow",
+        "paint_code": "L31",
+        "slug": "lemon-yellow-l31",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/lemon-yellow-l31/",
+        "source_label": "PaintScratch 1979 Lotus",
+        "hex_value": "#C8BC38"
+      }
+    ],
+    "1980": [
+      {
+        "display_name": "Calypso Red",
+        "paint_code": "A23",
+        "slug": "calypso-red-a23",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/calypso-red-a23/",
+        "source_label": "PaintScratch 1980 Lotus",
+        "hex_value": "#B61410"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "A02",
+        "slug": "black-a02",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/black-a02/",
+        "source_label": "PaintScratch 1980 Lotus",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Silver Blue",
+        "paint_code": "A03",
+        "slug": "silver-blue-a03",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/silver-blue-a03/",
+        "source_label": "PaintScratch 1980 Lotus",
+        "hex_value": "#CAD1D8"
+      },
+      {
+        "display_name": "Monaco White",
+        "paint_code": "A21",
+        "slug": "monaco-white-a21",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/monaco-white-a21/",
+        "source_label": "PaintScratch 1980 Lotus",
+        "hex_value": "#FFFBFB"
+      },
+      {
+        "display_name": "Lemon",
+        "paint_code": "A22",
+        "slug": "lemon-a22",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/lemon-a22/",
+        "source_label": "PaintScratch 1980 Lotus",
+        "hex_value": "#C8BC38"
+      },
+      {
+        "display_name": "Monaco White",
+        "paint_code": "A25",
+        "slug": "monaco-white-a25",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/monaco-white-a25/",
+        "source_label": "PaintScratch 1980 Lotus",
+        "hex_value": "#FFFBFB"
+      },
+      {
+        "display_name": "Lemon Yellow",
+        "paint_code": "L31",
+        "slug": "lemon-yellow-l31",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/lemon-yellow-l31/",
+        "source_label": "PaintScratch 1980 Lotus",
+        "hex_value": "#C8BC38"
+      }
+    ],
+    "1981": [
+      {
+        "display_name": "Calypso Red",
+        "paint_code": "A23",
+        "slug": "calypso-red-a23",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/calypso-red-a23/",
+        "source_label": "PaintScratch 1981 Lotus",
+        "hex_value": "#B61410"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "A02",
+        "slug": "black-a02",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/black-a02/",
+        "source_label": "PaintScratch 1981 Lotus",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Monaco White",
+        "paint_code": "A21",
+        "slug": "monaco-white-a21",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/monaco-white-a21/",
+        "source_label": "PaintScratch 1981 Lotus",
+        "hex_value": "#FFFBFB"
+      },
+      {
+        "display_name": "Lemon",
+        "paint_code": "A22",
+        "slug": "lemon-a22",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/lemon-a22/",
+        "source_label": "PaintScratch 1981 Lotus",
+        "hex_value": "#C8BC38"
+      },
+      {
+        "display_name": "Monaco White",
+        "paint_code": "A25",
+        "slug": "monaco-white-a25",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/monaco-white-a25/",
+        "source_label": "PaintScratch 1981 Lotus",
+        "hex_value": "#FFFBFB"
+      },
+      {
+        "display_name": "Lemon Yellow",
+        "paint_code": "L31",
+        "slug": "lemon-yellow-l31",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/lemon-yellow-l31/",
+        "source_label": "PaintScratch 1981 Lotus",
+        "hex_value": "#C8BC38"
+      }
+    ],
+    "1982": [
+      {
+        "display_name": "Calypso Red",
+        "paint_code": "A23",
+        "slug": "calypso-red-a23",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/calypso-red-a23/",
+        "source_label": "PaintScratch 1982 Lotus",
+        "hex_value": "#B61410"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "A02",
+        "slug": "black-a02",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/black-a02/",
+        "source_label": "PaintScratch 1982 Lotus",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Monaco White",
+        "paint_code": "A21",
+        "slug": "monaco-white-a21",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/monaco-white-a21/",
+        "source_label": "PaintScratch 1982 Lotus",
+        "hex_value": "#FFFBFB"
+      },
+      {
+        "display_name": "Lemon",
+        "paint_code": "A22",
+        "slug": "lemon-a22",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/lemon-a22/",
+        "source_label": "PaintScratch 1982 Lotus",
+        "hex_value": "#C8BC38"
+      },
+      {
+        "display_name": "Monaco White",
+        "paint_code": "A25",
+        "slug": "monaco-white-a25",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/monaco-white-a25/",
+        "source_label": "PaintScratch 1982 Lotus",
+        "hex_value": "#FFFBFB"
+      },
+      {
+        "display_name": "Lemon Yellow",
+        "paint_code": "L31",
+        "slug": "lemon-yellow-l31",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/lemon-yellow-l31/",
+        "source_label": "PaintScratch 1982 Lotus",
+        "hex_value": "#C8BC38"
+      }
+    ],
+    "1983": [
+      {
+        "display_name": "Calypso Red",
+        "paint_code": "A23",
+        "slug": "calypso-red-a23",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/calypso-red-a23/",
+        "source_label": "PaintScratch 1983 Lotus",
+        "hex_value": "#B61410"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "A02",
+        "slug": "black-a02",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/black-a02/",
+        "source_label": "PaintScratch 1983 Lotus",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Monaco White",
+        "paint_code": "A21",
+        "slug": "monaco-white-a21",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/monaco-white-a21/",
+        "source_label": "PaintScratch 1983 Lotus",
+        "hex_value": "#FFFBFB"
+      },
+      {
+        "display_name": "Lemon",
+        "paint_code": "A22",
+        "slug": "lemon-a22",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/lemon-a22/",
+        "source_label": "PaintScratch 1983 Lotus",
+        "hex_value": "#C8BC38"
+      },
+      {
+        "display_name": "Monaco White",
+        "paint_code": "A25",
+        "slug": "monaco-white-a25",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/monaco-white-a25/",
+        "source_label": "PaintScratch 1983 Lotus",
+        "hex_value": "#FFFBFB"
+      },
+      {
+        "display_name": "Jupiter Red",
+        "paint_code": "A30",
+        "slug": "jupiter-red-a30",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/jupiter-red-a30/",
+        "source_label": "PaintScratch 1983 Lotus",
+        "hex_value": "#8E2424"
+      },
+      {
+        "display_name": "Lemon Yellow",
+        "paint_code": "L31",
+        "slug": "lemon-yellow-l31",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/lemon-yellow-l31/",
+        "source_label": "PaintScratch 1983 Lotus",
+        "hex_value": "#C8BC38"
+      }
+    ],
+    "1984": [
+      {
+        "display_name": "Calypso Red",
+        "paint_code": "A23",
+        "slug": "calypso-red-a23",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/calypso-red-a23/",
+        "source_label": "PaintScratch 1984 Lotus",
+        "hex_value": "#B61410"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "A02",
+        "slug": "black-a02",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/black-a02/",
+        "source_label": "PaintScratch 1984 Lotus",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Monaco White",
+        "paint_code": "A21",
+        "slug": "monaco-white-a21",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/monaco-white-a21/",
+        "source_label": "PaintScratch 1984 Lotus",
+        "hex_value": "#FFFBFB"
+      },
+      {
+        "display_name": "Lemon",
+        "paint_code": "A22",
+        "slug": "lemon-a22",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/lemon-a22/",
+        "source_label": "PaintScratch 1984 Lotus",
+        "hex_value": "#C8BC38"
+      },
+      {
+        "display_name": "Monaco White",
+        "paint_code": "A25",
+        "slug": "monaco-white-a25",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/monaco-white-a25/",
+        "source_label": "PaintScratch 1984 Lotus",
+        "hex_value": "#FFFBFB"
+      },
+      {
+        "display_name": "Lemon Yellow",
+        "paint_code": "L31",
+        "slug": "lemon-yellow-l31",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/lemon-yellow-l31/",
+        "source_label": "PaintScratch 1984 Lotus",
+        "hex_value": "#C8BC38"
+      }
+    ],
+    "1985": [
+      {
+        "display_name": "Calypso Red",
+        "paint_code": "A23",
+        "slug": "calypso-red-a23",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/calypso-red-a23/",
+        "source_label": "PaintScratch 1985 Lotus",
+        "hex_value": "#B61410"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "A02",
+        "slug": "black-a02",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/black-a02/",
+        "source_label": "PaintScratch 1985 Lotus",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Monaco White",
+        "paint_code": "A21",
+        "slug": "monaco-white-a21",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/monaco-white-a21/",
+        "source_label": "PaintScratch 1985 Lotus",
+        "hex_value": "#FFFBFB"
+      },
+      {
+        "display_name": "Lemon",
+        "paint_code": "A22",
+        "slug": "lemon-a22",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/lemon-a22/",
+        "source_label": "PaintScratch 1985 Lotus",
+        "hex_value": "#C8BC38"
+      },
+      {
+        "display_name": "Monaco White",
+        "paint_code": "A25",
+        "slug": "monaco-white-a25",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/monaco-white-a25/",
+        "source_label": "PaintScratch 1985 Lotus",
+        "hex_value": "#FFFBFB"
+      },
+      {
+        "display_name": "Lemon Yellow",
+        "paint_code": "L31",
+        "slug": "lemon-yellow-l31",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/lemon-yellow-l31/",
+        "source_label": "PaintScratch 1985 Lotus",
+        "hex_value": "#C8BC38"
+      }
+    ],
+    "1986": [
+      {
+        "display_name": "Calypso Red",
+        "paint_code": "A23",
+        "slug": "calypso-red-a23",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/calypso-red-a23/",
+        "source_label": "PaintScratch 1986 Lotus",
+        "hex_value": "#B61410"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "A02",
+        "slug": "black-a02",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/black-a02/",
+        "source_label": "PaintScratch 1986 Lotus",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Monaco White",
+        "paint_code": "A21",
+        "slug": "monaco-white-a21",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/monaco-white-a21/",
+        "source_label": "PaintScratch 1986 Lotus",
+        "hex_value": "#FFFBFB"
+      },
+      {
+        "display_name": "Lemon",
+        "paint_code": "A22",
+        "slug": "lemon-a22",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/lemon-a22/",
+        "source_label": "PaintScratch 1986 Lotus",
+        "hex_value": "#C8BC38"
+      },
+      {
+        "display_name": "Monaco White",
+        "paint_code": "A25",
+        "slug": "monaco-white-a25",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/monaco-white-a25/",
+        "source_label": "PaintScratch 1986 Lotus",
+        "hex_value": "#FFFBFB"
+      },
+      {
+        "display_name": "Lemon Yellow",
+        "paint_code": "L31",
+        "slug": "lemon-yellow-l31",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/lemon-yellow-l31/",
+        "source_label": "PaintScratch 1986 Lotus",
+        "hex_value": "#C8BC38"
+      }
+    ],
+    "1987": [
+      {
+        "display_name": "Calypso Red",
+        "paint_code": "A23",
+        "slug": "calypso-red-a23",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/calypso-red-a23/",
+        "source_label": "PaintScratch 1987 Lotus",
+        "hex_value": "#B61410"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "A02",
+        "slug": "black-a02",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/black-a02/",
+        "source_label": "PaintScratch 1987 Lotus",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Monaco White",
+        "paint_code": "A21",
+        "slug": "monaco-white-a21",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/monaco-white-a21/",
+        "source_label": "PaintScratch 1987 Lotus",
+        "hex_value": "#FFFBFB"
+      },
+      {
+        "display_name": "Lemon",
+        "paint_code": "A22",
+        "slug": "lemon-a22",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/lemon-a22/",
+        "source_label": "PaintScratch 1987 Lotus",
+        "hex_value": "#C8BC38"
+      },
+      {
+        "display_name": "Monaco White",
+        "paint_code": "A25",
+        "slug": "monaco-white-a25",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/monaco-white-a25/",
+        "source_label": "PaintScratch 1987 Lotus",
+        "hex_value": "#FFFBFB"
+      }
+    ],
+    "1988": [
+      {
+        "display_name": "Calypso Red",
+        "paint_code": "A23",
+        "slug": "calypso-red-a23",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/calypso-red-a23/",
+        "source_label": "PaintScratch 1988 Lotus",
+        "hex_value": "#B61410"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "A02",
+        "slug": "black-a02",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/black-a02/",
+        "source_label": "PaintScratch 1988 Lotus",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Monaco White",
+        "paint_code": "A21",
+        "slug": "monaco-white-a21",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/monaco-white-a21/",
+        "source_label": "PaintScratch 1988 Lotus",
+        "hex_value": "#FFFBFB"
+      },
+      {
+        "display_name": "Lemon",
+        "paint_code": "A22",
+        "slug": "lemon-a22",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/lemon-a22/",
+        "source_label": "PaintScratch 1988 Lotus",
+        "hex_value": "#C8BC38"
+      },
+      {
+        "display_name": "Monaco White",
+        "paint_code": "A25",
+        "slug": "monaco-white-a25",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/monaco-white-a25/",
+        "source_label": "PaintScratch 1988 Lotus",
+        "hex_value": "#FFFBFB"
+      },
+      {
+        "display_name": "Midnight Blue",
+        "paint_code": "A51",
+        "slug": "midnight-blue-a51",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/midnight-blue-a51/",
+        "source_label": "PaintScratch 1988 Lotus",
+        "hex_value": "#091231"
+      },
+      {
+        "display_name": "Claret Red Metallic",
+        "paint_code": "A62",
+        "slug": "claret-red-metallic-a62",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/claret-red-metallic-a62/",
+        "source_label": "PaintScratch 1988 Lotus",
+        "hex_value": "#92121E"
+      }
+    ],
+    "1989": [
+      {
+        "display_name": "Calypso Red",
+        "paint_code": "A23",
+        "slug": "calypso-red-a23",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/calypso-red-a23/",
+        "source_label": "PaintScratch 1989 Lotus",
+        "hex_value": "#B61410"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "A02",
+        "slug": "black-a02",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/black-a02/",
+        "source_label": "PaintScratch 1989 Lotus",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Monaco White",
+        "paint_code": "A21",
+        "slug": "monaco-white-a21",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/monaco-white-a21/",
+        "source_label": "PaintScratch 1989 Lotus",
+        "hex_value": "#FFFBFB"
+      },
+      {
+        "display_name": "Lemon",
+        "paint_code": "A22",
+        "slug": "lemon-a22",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/lemon-a22/",
+        "source_label": "PaintScratch 1989 Lotus",
+        "hex_value": "#C8BC38"
+      },
+      {
+        "display_name": "Monaco White",
+        "paint_code": "A25",
+        "slug": "monaco-white-a25",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/monaco-white-a25/",
+        "source_label": "PaintScratch 1989 Lotus",
+        "hex_value": "#FFFBFB"
+      }
+    ],
+    "1990": [
+      {
+        "display_name": "Calypso Red",
+        "paint_code": "A23",
+        "slug": "calypso-red-a23",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/calypso-red-a23/",
+        "source_label": "PaintScratch 1990 Lotus",
+        "hex_value": "#B61410"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "A02",
+        "slug": "black-a02",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/black-a02/",
+        "source_label": "PaintScratch 1990 Lotus",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Monaco White",
+        "paint_code": "A21",
+        "slug": "monaco-white-a21",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/monaco-white-a21/",
+        "source_label": "PaintScratch 1990 Lotus",
+        "hex_value": "#FFFBFB"
+      },
+      {
+        "display_name": "Lemon",
+        "paint_code": "A22",
+        "slug": "lemon-a22",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/lemon-a22/",
+        "source_label": "PaintScratch 1990 Lotus",
+        "hex_value": "#C8BC38"
+      },
+      {
+        "display_name": "Monaco White",
+        "paint_code": "A25",
+        "slug": "monaco-white-a25",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/monaco-white-a25/",
+        "source_label": "PaintScratch 1990 Lotus",
+        "hex_value": "#FFFBFB"
+      },
+      {
+        "display_name": "Glacier Blue Metallic",
+        "paint_code": "A44",
+        "slug": "glacier-blue-metallic-a44",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/glacier-blue-metallic-a44/",
+        "source_label": "PaintScratch 1990 Lotus",
+        "hex_value": "#7C99AA"
+      }
+    ],
+    "1991": [
+      {
+        "display_name": "Calypso Red",
+        "paint_code": "A23",
+        "slug": "calypso-red-a23",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/calypso-red-a23/",
+        "source_label": "PaintScratch 1991 Lotus",
+        "hex_value": "#B61410"
+      },
+      {
+        "display_name": "British Racing Green",
+        "paint_code": "B04",
+        "slug": "british-racing-green-b04",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/british-racing-green-b04/",
+        "source_label": "PaintScratch 1991 Lotus",
+        "hex_value": "#2F4628"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "A02",
+        "slug": "black-a02",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/black-a02/",
+        "source_label": "PaintScratch 1991 Lotus",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Monaco White",
+        "paint_code": "A21",
+        "slug": "monaco-white-a21",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/monaco-white-a21/",
+        "source_label": "PaintScratch 1991 Lotus",
+        "hex_value": "#FFFBFB"
+      },
+      {
+        "display_name": "Lemon",
+        "paint_code": "A22",
+        "slug": "lemon-a22",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/lemon-a22/",
+        "source_label": "PaintScratch 1991 Lotus",
+        "hex_value": "#C8BC38"
+      },
+      {
+        "display_name": "Monaco White",
+        "paint_code": "A25",
+        "slug": "monaco-white-a25",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/monaco-white-a25/",
+        "source_label": "PaintScratch 1991 Lotus",
+        "hex_value": "#FFFBFB"
+      },
+      {
+        "display_name": "Glacier Blue Metallic",
+        "paint_code": "A44",
+        "slug": "glacier-blue-metallic-a44",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/glacier-blue-metallic-a44/",
+        "source_label": "PaintScratch 1991 Lotus",
+        "hex_value": "#7C99AA"
+      },
+      {
+        "display_name": "Steel Blue Metallic",
+        "paint_code": "A59",
+        "slug": "steel-blue-metallic-a59",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/steel-blue-metallic-a59/",
+        "source_label": "PaintScratch 1991 Lotus",
+        "hex_value": "#2D566D"
+      },
+      {
+        "display_name": "British Racing Green",
+        "paint_code": "A63",
+        "slug": "british-racing-green-a63",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/british-racing-green-a63/",
+        "source_label": "PaintScratch 1991 Lotus",
+        "hex_value": "#2F4628"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "B02",
+        "slug": "black-b02",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/black-b02/",
+        "source_label": "PaintScratch 1991 Lotus",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Aqua Blue Metallic",
+        "paint_code": "B06",
+        "slug": "aqua-blue-metallic-b06",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/aqua-blue-metallic-b06/",
+        "source_label": "PaintScratch 1991 Lotus",
+        "hex_value": "#667C7B"
+      },
+      {
+        "display_name": "Silk Red Pearl Metallic",
+        "paint_code": "B07",
+        "slug": "silk-red-pearl-metallic-b07",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/silk-red-pearl-metallic-b07/",
+        "source_label": "PaintScratch 1991 Lotus",
+        "hex_value": "#9F2D13"
+      },
+      {
+        "display_name": "White Pearl Tricoat",
+        "paint_code": "P02",
+        "slug": "white-pearl-tricoat-p02",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/white-pearl-tricoat-p02/",
+        "source_label": "PaintScratch 1991 Lotus",
+        "hex_value": "#FFFEF1"
+      }
+    ],
+    "1992": [
+      {
+        "display_name": "Calypso Red",
+        "paint_code": "A23",
+        "slug": "calypso-red-a23",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/calypso-red-a23/",
+        "source_label": "PaintScratch 1992 Lotus",
+        "hex_value": "#B61410"
+      },
+      {
+        "display_name": "British Racing Green",
+        "paint_code": "B04",
+        "slug": "british-racing-green-b04",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/british-racing-green-b04/",
+        "source_label": "PaintScratch 1992 Lotus",
+        "hex_value": "#2F4628"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "A02",
+        "slug": "black-a02",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/black-a02/",
+        "source_label": "PaintScratch 1992 Lotus",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Monaco White",
+        "paint_code": "A21",
+        "slug": "monaco-white-a21",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/monaco-white-a21/",
+        "source_label": "PaintScratch 1992 Lotus",
+        "hex_value": "#FFFBFB"
+      },
+      {
+        "display_name": "Lemon",
+        "paint_code": "A22",
+        "slug": "lemon-a22",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/lemon-a22/",
+        "source_label": "PaintScratch 1992 Lotus",
+        "hex_value": "#C8BC38"
+      },
+      {
+        "display_name": "Monaco White",
+        "paint_code": "A25",
+        "slug": "monaco-white-a25",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/monaco-white-a25/",
+        "source_label": "PaintScratch 1992 Lotus",
+        "hex_value": "#FFFBFB"
+      },
+      {
+        "display_name": "Glacier Blue Metallic",
+        "paint_code": "A44",
+        "slug": "glacier-blue-metallic-a44",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/glacier-blue-metallic-a44/",
+        "source_label": "PaintScratch 1992 Lotus",
+        "hex_value": "#7C99AA"
+      },
+      {
+        "display_name": "Steel Blue Metallic",
+        "paint_code": "A59",
+        "slug": "steel-blue-metallic-a59",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/steel-blue-metallic-a59/",
+        "source_label": "PaintScratch 1992 Lotus",
+        "hex_value": "#2D566D"
+      },
+      {
+        "display_name": "British Racing Green",
+        "paint_code": "A63",
+        "slug": "british-racing-green-a63",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/british-racing-green-a63/",
+        "source_label": "PaintScratch 1992 Lotus",
+        "hex_value": "#2F4628"
+      },
+      {
+        "display_name": "Norfolk Mustard",
+        "paint_code": "B05",
+        "slug": "norfolk-mustard-b05",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/norfolk-mustard-b05/",
+        "source_label": "PaintScratch 1992 Lotus",
+        "hex_value": "#DCAD1E"
+      },
+      {
+        "display_name": "Aqua Blue Metallic",
+        "paint_code": "B06",
+        "slug": "aqua-blue-metallic-b06",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/aqua-blue-metallic-b06/",
+        "source_label": "PaintScratch 1992 Lotus",
+        "hex_value": "#667C7B"
+      },
+      {
+        "display_name": "White Pearl Tricoat",
+        "paint_code": "P02",
+        "slug": "white-pearl-tricoat-p02",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/white-pearl-tricoat-p02/",
+        "source_label": "PaintScratch 1992 Lotus",
+        "hex_value": "#FFFEF1"
+      }
+    ],
+    "1993": [
+      {
+        "display_name": "Calypso Red",
+        "paint_code": "A23",
+        "slug": "calypso-red-a23",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/calypso-red-a23/",
+        "source_label": "PaintScratch 1993 Lotus",
+        "hex_value": "#B61410"
+      },
+      {
+        "display_name": "British Racing Green",
+        "paint_code": "B04",
+        "slug": "british-racing-green-b04",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/british-racing-green-b04/",
+        "source_label": "PaintScratch 1993 Lotus",
+        "hex_value": "#2F4628"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "A02",
+        "slug": "black-a02",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/black-a02/",
+        "source_label": "PaintScratch 1993 Lotus",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Monaco White",
+        "paint_code": "A21",
+        "slug": "monaco-white-a21",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/monaco-white-a21/",
+        "source_label": "PaintScratch 1993 Lotus",
+        "hex_value": "#FFFBFB"
+      },
+      {
+        "display_name": "Lemon",
+        "paint_code": "A22",
+        "slug": "lemon-a22",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/lemon-a22/",
+        "source_label": "PaintScratch 1993 Lotus",
+        "hex_value": "#C8BC38"
+      },
+      {
+        "display_name": "Monaco White",
+        "paint_code": "A25",
+        "slug": "monaco-white-a25",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/monaco-white-a25/",
+        "source_label": "PaintScratch 1993 Lotus",
+        "hex_value": "#FFFBFB"
+      },
+      {
+        "display_name": "Glacier Blue Metallic",
+        "paint_code": "A44",
+        "slug": "glacier-blue-metallic-a44",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/glacier-blue-metallic-a44/",
+        "source_label": "PaintScratch 1993 Lotus",
+        "hex_value": "#7C99AA"
+      },
+      {
+        "display_name": "Steel Blue Metallic",
+        "paint_code": "A59",
+        "slug": "steel-blue-metallic-a59",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/steel-blue-metallic-a59/",
+        "source_label": "PaintScratch 1993 Lotus",
+        "hex_value": "#2D566D"
+      },
+      {
+        "display_name": "British Racing Green",
+        "paint_code": "A63",
+        "slug": "british-racing-green-a63",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/british-racing-green-a63/",
+        "source_label": "PaintScratch 1993 Lotus",
+        "hex_value": "#2F4628"
+      },
+      {
+        "display_name": "White Pearl Tricoat",
+        "paint_code": "P02",
+        "slug": "white-pearl-tricoat-p02",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/white-pearl-tricoat-p02/",
+        "source_label": "PaintScratch 1993 Lotus",
+        "hex_value": "#FFFEF1"
+      }
+    ],
+    "1994": [
+      {
+        "display_name": "Calypso Red",
+        "paint_code": "A23",
+        "slug": "calypso-red-a23",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/calypso-red-a23/",
+        "source_label": "PaintScratch 1994 Lotus",
+        "hex_value": "#B61410"
+      },
+      {
+        "display_name": "British Racing Green",
+        "paint_code": "B04",
+        "slug": "british-racing-green-b04",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/british-racing-green-b04/",
+        "source_label": "PaintScratch 1994 Lotus",
+        "hex_value": "#2F4628"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "A02",
+        "slug": "black-a02",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/black-a02/",
+        "source_label": "PaintScratch 1994 Lotus",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Monaco White",
+        "paint_code": "A21",
+        "slug": "monaco-white-a21",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/monaco-white-a21/",
+        "source_label": "PaintScratch 1994 Lotus",
+        "hex_value": "#FFFBFB"
+      },
+      {
+        "display_name": "Lemon",
+        "paint_code": "A22",
+        "slug": "lemon-a22",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/lemon-a22/",
+        "source_label": "PaintScratch 1994 Lotus",
+        "hex_value": "#C8BC38"
+      },
+      {
+        "display_name": "Monaco White",
+        "paint_code": "A25",
+        "slug": "monaco-white-a25",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/monaco-white-a25/",
+        "source_label": "PaintScratch 1994 Lotus",
+        "hex_value": "#FFFBFB"
+      },
+      {
+        "display_name": "Glacier Blue Metallic",
+        "paint_code": "A44",
+        "slug": "glacier-blue-metallic-a44",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/glacier-blue-metallic-a44/",
+        "source_label": "PaintScratch 1994 Lotus",
+        "hex_value": "#7C99AA"
+      },
+      {
+        "display_name": "Steel Blue Metallic",
+        "paint_code": "A59",
+        "slug": "steel-blue-metallic-a59",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/steel-blue-metallic-a59/",
+        "source_label": "PaintScratch 1994 Lotus",
+        "hex_value": "#2D566D"
+      },
+      {
+        "display_name": "British Racing Green",
+        "paint_code": "A63",
+        "slug": "british-racing-green-a63",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/british-racing-green-a63/",
+        "source_label": "PaintScratch 1994 Lotus",
+        "hex_value": "#2F4628"
+      },
+      {
+        "display_name": "Monaco White",
+        "paint_code": "B01",
+        "slug": "monaco-white-b01",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/monaco-white-b01/",
+        "source_label": "PaintScratch 1994 Lotus",
+        "hex_value": "#FFFBFB"
+      },
+      {
+        "display_name": "Norfolk Mustard",
+        "paint_code": "B05",
+        "slug": "norfolk-mustard-b05",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/norfolk-mustard-b05/",
+        "source_label": "PaintScratch 1994 Lotus",
+        "hex_value": "#DCAD1E"
+      },
+      {
+        "display_name": "Silver Frost Metallic",
+        "paint_code": "B09",
+        "slug": "silver-frost-metallic-b09",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/silver-frost-metallic-b09/",
+        "source_label": "PaintScratch 1994 Lotus",
+        "hex_value": "#C2BCAC"
+      },
+      {
+        "display_name": "White Pearl Tricoat",
+        "paint_code": "P02",
+        "slug": "white-pearl-tricoat-p02",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/white-pearl-tricoat-p02/",
+        "source_label": "PaintScratch 1994 Lotus",
+        "hex_value": "#FFFEF1"
+      }
+    ],
+    "1995": [
+      {
+        "display_name": "Calypso Red",
+        "paint_code": "A23",
+        "slug": "calypso-red-a23",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/calypso-red-a23/",
+        "source_label": "PaintScratch 1995 Lotus",
+        "hex_value": "#B61410"
+      },
+      {
+        "display_name": "British Racing Green",
+        "paint_code": "B04",
+        "slug": "british-racing-green-b04",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/british-racing-green-b04/",
+        "source_label": "PaintScratch 1995 Lotus",
+        "hex_value": "#2F4628"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "A02",
+        "slug": "black-a02",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/black-a02/",
+        "source_label": "PaintScratch 1995 Lotus",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Monaco White",
+        "paint_code": "A21",
+        "slug": "monaco-white-a21",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/monaco-white-a21/",
+        "source_label": "PaintScratch 1995 Lotus",
+        "hex_value": "#FFFBFB"
+      },
+      {
+        "display_name": "Lemon",
+        "paint_code": "A22",
+        "slug": "lemon-a22",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/lemon-a22/",
+        "source_label": "PaintScratch 1995 Lotus",
+        "hex_value": "#C8BC38"
+      },
+      {
+        "display_name": "Monaco White",
+        "paint_code": "A25",
+        "slug": "monaco-white-a25",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/monaco-white-a25/",
+        "source_label": "PaintScratch 1995 Lotus",
+        "hex_value": "#FFFBFB"
+      },
+      {
+        "display_name": "Glacier Blue Metallic",
+        "paint_code": "A44",
+        "slug": "glacier-blue-metallic-a44",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/glacier-blue-metallic-a44/",
+        "source_label": "PaintScratch 1995 Lotus",
+        "hex_value": "#7C99AA"
+      },
+      {
+        "display_name": "Steel Blue Metallic",
+        "paint_code": "A59",
+        "slug": "steel-blue-metallic-a59",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/steel-blue-metallic-a59/",
+        "source_label": "PaintScratch 1995 Lotus",
+        "hex_value": "#2D566D"
+      },
+      {
+        "display_name": "British Racing Green",
+        "paint_code": "A63",
+        "slug": "british-racing-green-a63",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/british-racing-green-a63/",
+        "source_label": "PaintScratch 1995 Lotus",
+        "hex_value": "#2F4628"
+      },
+      {
+        "display_name": "Norfolk Mustard",
+        "paint_code": "B05",
+        "slug": "norfolk-mustard-b05",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/norfolk-mustard-b05/",
+        "source_label": "PaintScratch 1995 Lotus",
+        "hex_value": "#DCAD1E"
+      },
+      {
+        "display_name": "White Pearl Tricoat",
+        "paint_code": "P02",
+        "slug": "white-pearl-tricoat-p02",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/white-pearl-tricoat-p02/",
+        "source_label": "PaintScratch 1995 Lotus",
+        "hex_value": "#FFFEF1"
+      }
+    ],
+    "1996": [
+      {
+        "display_name": "British Racing Green",
+        "paint_code": "B04",
+        "slug": "british-racing-green-b04",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/british-racing-green-b04/",
+        "source_label": "PaintScratch 1996 Lotus",
+        "hex_value": "#2F4628"
+      },
+      {
+        "display_name": "Bright Red",
+        "paint_code": "L05",
+        "slug": "bright-red-l05",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/bright-red-l05/",
+        "source_label": "PaintScratch 1996 Lotus",
+        "hex_value": "#F31515"
+      }
+    ],
+    "1997": [
+      {
+        "display_name": "British Racing Green",
+        "paint_code": "B04",
+        "slug": "british-racing-green-b04",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/british-racing-green-b04/",
+        "source_label": "PaintScratch 1997 Lotus",
+        "hex_value": "#2F4628"
+      },
+      {
+        "display_name": "Midnight Blue Metallic",
+        "paint_code": "B42",
+        "slug": "midnight-blue-metallic-b42",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/midnight-blue-metallic-b42/",
+        "source_label": "PaintScratch 1997 Lotus",
+        "hex_value": "#0D2D97"
+      }
+    ],
+    "1998": [
+      {
+        "display_name": "British Racing Green",
+        "paint_code": "B04",
+        "slug": "british-racing-green-b04",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/british-racing-green-b04/",
+        "source_label": "PaintScratch 1998 Lotus",
+        "hex_value": "#2F4628"
+      },
+      {
+        "display_name": "New Mustard Metallic",
+        "paint_code": "B36",
+        "slug": "new-mustard-metallic-b36",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/new-mustard-metallic-b36/",
+        "source_label": "PaintScratch 1998 Lotus",
+        "hex_value": "#E4D184"
+      }
+    ],
+    "1999": [
+      {
+        "display_name": "British Racing Green",
+        "paint_code": "B04",
+        "slug": "british-racing-green-b04",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/british-racing-green-b04/",
+        "source_label": "PaintScratch 1999 Lotus",
+        "hex_value": "#2F4628"
+      },
+      {
+        "display_name": "New Mustard Metallic",
+        "paint_code": "B36",
+        "slug": "new-mustard-metallic-b36",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/new-mustard-metallic-b36/",
+        "source_label": "PaintScratch 1999 Lotus",
+        "hex_value": "#E4D184"
+      }
+    ],
+    "2000": [
+      {
+        "display_name": "British Racing Green",
+        "paint_code": "B04",
+        "slug": "british-racing-green-b04",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/british-racing-green-b04/",
+        "source_label": "PaintScratch 2000 Lotus",
+        "hex_value": "#2F4628"
+      },
+      {
+        "display_name": "Calypso Red (No Formula Available)",
+        "paint_code": "B03/A23",
+        "slug": "calypso-red-no-formula-available-b03a23",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/calypso-red-no-formula-available-b03a23/",
+        "source_label": "PaintScratch 2000 Lotus",
+        "hex_value": "#B61410"
+      },
+      {
+        "display_name": "New Mustard Metallic",
+        "paint_code": "B36",
+        "slug": "new-mustard-metallic-b36",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/new-mustard-metallic-b36/",
+        "source_label": "PaintScratch 2000 Lotus",
+        "hex_value": "#E4D184"
+      }
+    ],
+    "2001": [
+      {
+        "display_name": "British Racing Green",
+        "paint_code": "B04",
+        "slug": "british-racing-green-b04",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/british-racing-green-b04/",
+        "source_label": "PaintScratch 2001 Lotus",
+        "hex_value": "#2F4628"
+      },
+      {
+        "display_name": "New Mustard Metallic",
+        "paint_code": "B36",
+        "slug": "new-mustard-metallic-b36",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/new-mustard-metallic-b36/",
+        "source_label": "PaintScratch 2001 Lotus",
+        "hex_value": "#E4D184"
+      }
+    ],
+    "2002": [
+      {
+        "display_name": "British Racing Green",
+        "paint_code": "B04",
+        "slug": "british-racing-green-b04",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/british-racing-green-b04/",
+        "source_label": "PaintScratch 2002 Lotus",
+        "hex_value": "#2F4628"
+      },
+      {
+        "display_name": "New Mustard Metallic",
+        "paint_code": "B36",
+        "slug": "new-mustard-metallic-b36",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/new-mustard-metallic-b36/",
+        "source_label": "PaintScratch 2002 Lotus",
+        "hex_value": "#E4D184"
+      },
+      {
+        "display_name": "Arctic Silver Metallic",
+        "paint_code": "B92",
+        "slug": "arctic-silver-metallic-b92",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/arctic-silver-metallic-b92/",
+        "source_label": "PaintScratch 2002 Lotus",
+        "hex_value": "#C2BCAC"
+      }
+    ],
+    "2003": [
+      {
+        "display_name": "British Racing Green",
+        "paint_code": "B04",
+        "slug": "british-racing-green-b04",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/british-racing-green-b04/",
+        "source_label": "PaintScratch 2003 Lotus",
+        "hex_value": "#2F4628"
+      },
+      {
+        "display_name": "New Mustard Metallic",
+        "paint_code": "B36",
+        "slug": "new-mustard-metallic-b36",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/new-mustard-metallic-b36/",
+        "source_label": "PaintScratch 2003 Lotus",
+        "hex_value": "#E4D184"
+      },
+      {
+        "display_name": "British Racing Green",
+        "paint_code": "B86",
+        "slug": "british-racing-green-b86",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/british-racing-green-b86/",
+        "source_label": "PaintScratch 2003 Lotus",
+        "hex_value": "#324633"
+      }
+    ],
+    "2004": [
+      {
+        "display_name": "British Racing Green",
+        "paint_code": "B04",
+        "slug": "british-racing-green-b04",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/british-racing-green-b04/",
+        "source_label": "PaintScratch 2004 Lotus",
+        "hex_value": "#2F4628"
+      },
+      {
+        "display_name": "Saffron Yellow",
+        "paint_code": "B106",
+        "slug": "saffron-yellow-b106",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/saffron-yellow-b106/",
+        "source_label": "PaintScratch 2004 Lotus",
+        "hex_value": "#FACE25"
+      },
+      {
+        "display_name": "Aubergine Purple",
+        "paint_code": "B192",
+        "slug": "aubergine-purple-b192",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/aubergine-purple-b192/",
+        "source_label": "PaintScratch 2004 Lotus",
+        "hex_value": "#5A1E43"
+      }
+    ],
+    "2005": [
+      {
+        "display_name": "British Racing Green",
+        "paint_code": "B04",
+        "slug": "british-racing-green-b04",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/british-racing-green-b04/",
+        "source_label": "PaintScratch 2005 Lotus",
+        "hex_value": "#2F4628"
+      },
+      {
+        "display_name": "Chrome Orange Tricoat",
+        "paint_code": "B25",
+        "slug": "chrome-orange-tricoat-b25",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/chrome-orange-tricoat-b25/",
+        "source_label": "PaintScratch 2005 Lotus",
+        "hex_value": "#DA990C"
+      },
+      {
+        "display_name": "Saffron Yellow",
+        "paint_code": "B106",
+        "slug": "saffron-yellow-b106",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/saffron-yellow-b106/",
+        "source_label": "PaintScratch 2005 Lotus",
+        "hex_value": "#FACE25"
+      },
+      {
+        "display_name": "Storm Titanium",
+        "paint_code": "B89",
+        "slug": "storm-titanium-b89",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/storm-titanium-b89/",
+        "source_label": "PaintScratch 2005 Lotus",
+        "hex_value": "#B8B3AC"
+      },
+      {
+        "display_name": "Arctic Silver Metallic",
+        "paint_code": "B92",
+        "slug": "arctic-silver-metallic-b92",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/arctic-silver-metallic-b92/",
+        "source_label": "PaintScratch 2005 Lotus",
+        "hex_value": "#C2BCAC"
+      },
+      {
+        "display_name": "Starlight Black Metallic",
+        "paint_code": "B93",
+        "slug": "starlight-black-metallic-b93",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/starlight-black-metallic-b93/",
+        "source_label": "PaintScratch 2005 Lotus",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Bright Red",
+        "paint_code": "B94",
+        "slug": "bright-red-b94",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/bright-red-b94/",
+        "source_label": "PaintScratch 2005 Lotus",
+        "hex_value": "#F31515"
+      },
+      {
+        "display_name": "Aztec Bronze Metallic",
+        "paint_code": "B99",
+        "slug": "aztec-bronze-metallic-b99",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/aztec-bronze-metallic-b99/",
+        "source_label": "PaintScratch 2005 Lotus",
+        "hex_value": "#E3BD25"
+      },
+      {
+        "display_name": "Graphite Grey",
+        "paint_code": "B108",
+        "slug": "graphite-grey-b108",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/graphite-grey-b108/",
+        "source_label": "PaintScratch 2005 Lotus",
+        "hex_value": "#494743"
+      }
+    ],
+    "2006": [
+      {
+        "display_name": "British Racing Green",
+        "paint_code": "B04",
+        "slug": "british-racing-green-b04",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/british-racing-green-b04/",
+        "source_label": "PaintScratch 2006 Lotus",
+        "hex_value": "#2F4628"
+      },
+      {
+        "display_name": "Chrome Orange Tricoat",
+        "paint_code": "B25",
+        "slug": "chrome-orange-tricoat-b25",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/chrome-orange-tricoat-b25/",
+        "source_label": "PaintScratch 2006 Lotus",
+        "hex_value": "#DA990C"
+      },
+      {
+        "display_name": "Storm Titanium",
+        "paint_code": "B89",
+        "slug": "storm-titanium-b89",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/storm-titanium-b89/",
+        "source_label": "PaintScratch 2006 Lotus",
+        "hex_value": "#B8B3AC"
+      },
+      {
+        "display_name": "Arctic Silver Metallic",
+        "paint_code": "B92",
+        "slug": "arctic-silver-metallic-b92",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/arctic-silver-metallic-b92/",
+        "source_label": "PaintScratch 2006 Lotus",
+        "hex_value": "#C2BCAC"
+      },
+      {
+        "display_name": "Starlight Black Metallic",
+        "paint_code": "B93",
+        "slug": "starlight-black-metallic-b93",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/starlight-black-metallic-b93/",
+        "source_label": "PaintScratch 2006 Lotus",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Aztec Bronze Metallic",
+        "paint_code": "B99",
+        "slug": "aztec-bronze-metallic-b99",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/aztec-bronze-metallic-b99/",
+        "source_label": "PaintScratch 2006 Lotus",
+        "hex_value": "#E3BD25"
+      },
+      {
+        "display_name": "Graphite Grey",
+        "paint_code": "B108",
+        "slug": "graphite-grey-b108",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/graphite-grey-b108/",
+        "source_label": "PaintScratch 2006 Lotus",
+        "hex_value": "#494743"
+      },
+      {
+        "display_name": "Bright Red Tricoat",
+        "paint_code": "B118",
+        "slug": "bright-red-tricoat-b118",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/bright-red-tricoat-b118/",
+        "source_label": "PaintScratch 2006 Lotus",
+        "hex_value": "#F31515"
+      },
+      {
+        "display_name": "Phantom Black",
+        "paint_code": "B123",
+        "slug": "phantom-black-b123",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/phantom-black-b123/",
+        "source_label": "PaintScratch 2006 Lotus",
+        "hex_value": "#000000"
+      }
+    ],
+    "2007": [
+      {
+        "display_name": "British Racing Green",
+        "paint_code": "B04",
+        "slug": "british-racing-green-b04",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/british-racing-green-b04/",
+        "source_label": "PaintScratch 2007 Lotus",
+        "hex_value": "#2F4628"
+      },
+      {
+        "display_name": "Chrome Orange Tricoat",
+        "paint_code": "B25",
+        "slug": "chrome-orange-tricoat-b25",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/chrome-orange-tricoat-b25/",
+        "source_label": "PaintScratch 2007 Lotus",
+        "hex_value": "#DA990C"
+      },
+      {
+        "display_name": "Storm Titanium",
+        "paint_code": "B89",
+        "slug": "storm-titanium-b89",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/storm-titanium-b89/",
+        "source_label": "PaintScratch 2007 Lotus",
+        "hex_value": "#B8B3AC"
+      },
+      {
+        "display_name": "Arctic Silver Metallic",
+        "paint_code": "B92",
+        "slug": "arctic-silver-metallic-b92",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/arctic-silver-metallic-b92/",
+        "source_label": "PaintScratch 2007 Lotus",
+        "hex_value": "#C2BCAC"
+      },
+      {
+        "display_name": "Starlight Black Metallic",
+        "paint_code": "B93",
+        "slug": "starlight-black-metallic-b93",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/starlight-black-metallic-b93/",
+        "source_label": "PaintScratch 2007 Lotus",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Aztec Bronze Metallic",
+        "paint_code": "B99",
+        "slug": "aztec-bronze-metallic-b99",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/aztec-bronze-metallic-b99/",
+        "source_label": "PaintScratch 2007 Lotus",
+        "hex_value": "#E3BD25"
+      },
+      {
+        "display_name": "Graphite Grey",
+        "paint_code": "B108",
+        "slug": "graphite-grey-b108",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/graphite-grey-b108/",
+        "source_label": "PaintScratch 2007 Lotus",
+        "hex_value": "#494743"
+      },
+      {
+        "display_name": "Bright Green",
+        "paint_code": "B109",
+        "slug": "bright-green-b109",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/bright-green-b109/",
+        "source_label": "PaintScratch 2007 Lotus",
+        "hex_value": "#37B515"
+      },
+      {
+        "display_name": "Laser Blue",
+        "paint_code": "B120",
+        "slug": "laser-blue-b120",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/laser-blue-b120/",
+        "source_label": "PaintScratch 2007 Lotus",
+        "hex_value": "#0D2D97"
+      }
+    ],
+    "2008": [
+      {
+        "display_name": "British Racing Green",
+        "paint_code": "B04",
+        "slug": "british-racing-green-b04",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/british-racing-green-b04/",
+        "source_label": "PaintScratch 2008 Lotus",
+        "hex_value": "#2F4628"
+      },
+      {
+        "display_name": "Chrome Orange Tricoat",
+        "paint_code": "B25",
+        "slug": "chrome-orange-tricoat-b25",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/chrome-orange-tricoat-b25/",
+        "source_label": "PaintScratch 2008 Lotus",
+        "hex_value": "#DA990C"
+      },
+      {
+        "display_name": "Starlight Black Metallic",
+        "paint_code": "B93",
+        "slug": "starlight-black-metallic-b93",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/starlight-black-metallic-b93/",
+        "source_label": "PaintScratch 2008 Lotus",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Bright Yellow Metallic Tricoat",
+        "paint_code": "B114",
+        "slug": "bright-yellow-metallic-tricoat-b114",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/bright-yellow-metallic-tricoat-b114/",
+        "source_label": "PaintScratch 2008 Lotus",
+        "hex_value": "#F6E026"
+      },
+      {
+        "display_name": "Arctic Silver",
+        "paint_code": "B130",
+        "slug": "arctic-silver-b130",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/arctic-silver-b130/",
+        "source_label": "PaintScratch 2008 Lotus",
+        "hex_value": "#CAD1D8"
+      }
+    ],
+    "2009": [
+      {
+        "display_name": "British Racing Green",
+        "paint_code": "B04",
+        "slug": "british-racing-green-b04",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/british-racing-green-b04/",
+        "source_label": "PaintScratch 2009 Lotus",
+        "hex_value": "#2F4628"
+      },
+      {
+        "display_name": "Starlight Black Metallic",
+        "paint_code": "B93",
+        "slug": "starlight-black-metallic-b93",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/starlight-black-metallic-b93/",
+        "source_label": "PaintScratch 2009 Lotus",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Bright Yellow Metallic Tricoat",
+        "paint_code": "B114",
+        "slug": "bright-yellow-metallic-tricoat-b114",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/bright-yellow-metallic-tricoat-b114/",
+        "source_label": "PaintScratch 2009 Lotus",
+        "hex_value": "#F6E026"
+      }
+    ],
+    "2010": [
+      {
+        "display_name": "Starlight Black Metallic",
+        "paint_code": "B93",
+        "slug": "starlight-black-metallic-b93",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/starlight-black-metallic-b93/",
+        "source_label": "PaintScratch 2010 Lotus",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Bright Yellow Metallic Tricoat",
+        "paint_code": "B114",
+        "slug": "bright-yellow-metallic-tricoat-b114",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/bright-yellow-metallic-tricoat-b114/",
+        "source_label": "PaintScratch 2010 Lotus",
+        "hex_value": "#F6E026"
+      },
+      {
+        "display_name": "Carbon Grey",
+        "paint_code": "B137",
+        "slug": "carbon-grey-b137",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/carbon-grey-b137/",
+        "source_label": "PaintScratch 2010 Lotus",
+        "hex_value": "#494743"
+      }
+    ],
+    "2011": [
+      {
+        "display_name": "Starlight Black Metallic",
+        "paint_code": "B93",
+        "slug": "starlight-black-metallic-b93",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/starlight-black-metallic-b93/",
+        "source_label": "PaintScratch 2011 Lotus",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Bright Yellow Metallic Tricoat",
+        "paint_code": "B114",
+        "slug": "bright-yellow-metallic-tricoat-b114",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/bright-yellow-metallic-tricoat-b114/",
+        "source_label": "PaintScratch 2011 Lotus",
+        "hex_value": "#F6E026"
+      },
+      {
+        "display_name": "Medium Blue",
+        "paint_code": "B131",
+        "slug": "medium-blue-b131",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/medium-blue-b131/",
+        "source_label": "PaintScratch 2011 Lotus",
+        "hex_value": "#597DF3"
+      },
+      {
+        "display_name": "Carbon Grey",
+        "paint_code": "B137",
+        "slug": "carbon-grey-b137",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/carbon-grey-b137/",
+        "source_label": "PaintScratch 2011 Lotus",
+        "hex_value": "#494743"
+      }
+    ],
+    "2012": [
+      {
+        "display_name": "Starlight Black Metallic",
+        "paint_code": "B93",
+        "slug": "starlight-black-metallic-b93",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/starlight-black-metallic-b93/",
+        "source_label": "PaintScratch 2012 Lotus",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Bright Yellow Metallic Tricoat",
+        "paint_code": "B114",
+        "slug": "bright-yellow-metallic-tricoat-b114",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/bright-yellow-metallic-tricoat-b114/",
+        "source_label": "PaintScratch 2012 Lotus",
+        "hex_value": "#F6E026"
+      },
+      {
+        "display_name": "Carbon Grey",
+        "paint_code": "B137",
+        "slug": "carbon-grey-b137",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/carbon-grey-b137/",
+        "source_label": "PaintScratch 2012 Lotus",
+        "hex_value": "#494743"
+      },
+      {
+        "display_name": "Motor Sport Green",
+        "paint_code": "B142",
+        "slug": "motor-sport-green-b142",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/motor-sport-green-b142/",
+        "source_label": "PaintScratch 2012 Lotus",
+        "hex_value": "#37B515"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "C152",
+        "slug": "black-c152",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/black-c152/",
+        "source_label": "PaintScratch 2012 Lotus",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Military Grey",
+        "paint_code": "C158",
+        "slug": "military-grey-c158",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/military-grey-c158/",
+        "source_label": "PaintScratch 2012 Lotus",
+        "hex_value": "#9C8C08"
+      }
+    ],
+    "2013": [
+      {
+        "display_name": "Bright Yellow Metallic Tricoat",
+        "paint_code": "B114",
+        "slug": "bright-yellow-metallic-tricoat-b114",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/bright-yellow-metallic-tricoat-b114/",
+        "source_label": "PaintScratch 2013 Lotus",
+        "hex_value": "#F6E026"
+      },
+      {
+        "display_name": "Carbon Grey",
+        "paint_code": "B137",
+        "slug": "carbon-grey-b137",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/carbon-grey-b137/",
+        "source_label": "PaintScratch 2013 Lotus",
+        "hex_value": "#494743"
+      },
+      {
+        "display_name": "Solar Yellow Metallic",
+        "paint_code": "C114",
+        "slug": "solar-yellow-metallic-c114",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/solar-yellow-metallic-c114/",
+        "source_label": "PaintScratch 2013 Lotus",
+        "hex_value": "#FFFF00"
+      }
+    ],
+    "2014": [
+      {
+        "display_name": "Chrome Orange Tricoat",
+        "paint_code": "C25",
+        "slug": "chrome-orange-tricoat-c25",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/chrome-orange-tricoat-c25/",
+        "source_label": "PaintScratch 2014 Lotus",
+        "hex_value": "#D8790A"
+      },
+      {
+        "display_name": "Alpine White Metallic Tricoat",
+        "paint_code": "C113",
+        "slug": "alpine-white-metallic-tricoat-c113",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/alpine-white-metallic-tricoat-c113/",
+        "source_label": "PaintScratch 2014 Lotus",
+        "hex_value": "#F6F6F0"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "C123",
+        "slug": "black-c123",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/black-c123/",
+        "source_label": "PaintScratch 2014 Lotus",
+        "hex_value": "#000000"
+      }
+    ],
+    "2015": [
+      {
+        "display_name": "Chrome Orange Tricoat",
+        "paint_code": "C25",
+        "slug": "chrome-orange-tricoat-c25",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/chrome-orange-tricoat-c25/",
+        "source_label": "PaintScratch 2015 Lotus",
+        "hex_value": "#D8790A"
+      },
+      {
+        "display_name": "Isotope Green Tricoat",
+        "paint_code": "C132",
+        "slug": "isotope-green-tricoat-c132",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/isotope-green-tricoat-c132/",
+        "source_label": "PaintScratch 2015 Lotus",
+        "hex_value": "#FFDE01"
+      }
+    ],
+    "2016": [
+      {
+        "display_name": "Chrome Orange Tricoat",
+        "paint_code": "C25",
+        "slug": "chrome-orange-tricoat-c25",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/chrome-orange-tricoat-c25/",
+        "source_label": "PaintScratch 2016 Lotus",
+        "hex_value": "#D8790A"
+      }
+    ],
+    "2017": [
+      {
+        "display_name": "Chrome Orange Tricoat",
+        "paint_code": "C25",
+        "slug": "chrome-orange-tricoat-c25",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/chrome-orange-tricoat-c25/",
+        "source_label": "PaintScratch 2017 Lotus",
+        "hex_value": "#D8790A"
+      },
+      {
+        "display_name": "Green",
+        "paint_code": "C203",
+        "slug": "green-c203",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/green-c203/",
+        "source_label": "PaintScratch 2017 Lotus",
+        "hex_value": "#2E6D1F"
+      }
+    ],
+    "2018": [
+      {
+        "display_name": "Chrome Orange Tricoat",
+        "paint_code": "C25",
+        "slug": "chrome-orange-tricoat-c25",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/chrome-orange-tricoat-c25/",
+        "source_label": "PaintScratch 2018 Lotus",
+        "hex_value": "#D8790A"
+      }
+    ],
+    "2019": [
+      {
+        "display_name": "Chrome Orange Tricoat",
+        "paint_code": "C25",
+        "slug": "chrome-orange-tricoat-c25",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/chrome-orange-tricoat-c25/",
+        "source_label": "PaintScratch 2019 Lotus",
+        "hex_value": "#D8790A"
+      }
+    ],
+    "2020": [
+      {
+        "display_name": "Chrome Orange Tricoat",
+        "paint_code": "C25",
+        "slug": "chrome-orange-tricoat-c25",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/chrome-orange-tricoat-c25/",
+        "source_label": "PaintScratch 2020 Lotus",
+        "hex_value": "#D8790A"
+      }
+    ],
+    "2021": [
+      {
+        "display_name": "Chrome Orange Tricoat",
+        "paint_code": "C25",
+        "slug": "chrome-orange-tricoat-c25",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/chrome-orange-tricoat-c25/",
+        "source_label": "PaintScratch 2021 Lotus",
+        "hex_value": "#D8790A"
+      }
+    ],
+    "2022": [
+      {
+        "display_name": "Chrome Orange Tricoat",
+        "paint_code": "C25",
+        "slug": "chrome-orange-tricoat-c25",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/chrome-orange-tricoat-c25/",
+        "source_label": "PaintScratch 2022 Lotus",
+        "hex_value": "#D8790A"
+      }
+    ],
+    "2023": [
+      {
+        "display_name": "Chrome Orange Tricoat",
+        "paint_code": "C25",
+        "slug": "chrome-orange-tricoat-c25",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/chrome-orange-tricoat-c25/",
+        "source_label": "PaintScratch 2023 Lotus",
+        "hex_value": "#D8790A"
+      }
+    ],
+    "2024": [
+      {
+        "display_name": "Chrome Orange Tricoat",
+        "paint_code": "C25",
+        "slug": "chrome-orange-tricoat-c25",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/chrome-orange-tricoat-c25/",
+        "source_label": "PaintScratch 2024 Lotus",
+        "hex_value": "#D8790A"
+      }
+    ],
+    "2025": [
+      {
+        "display_name": "Atlantis Blue",
+        "paint_code": "LOT.M507",
+        "slug": "atlantis-blue-lotm507",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/atlantis-blue-lotm507/",
+        "source_label": "PaintScratch 2025 Lotus",
+        "hex_value": "#0D2D97"
+      },
+      {
+        "display_name": "Chrome Orange Tricoat",
+        "paint_code": "C25",
+        "slug": "chrome-orange-tricoat-c25",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/chrome-orange-tricoat-c25/",
+        "source_label": "PaintScratch 2025 Lotus",
+        "hex_value": "#D8790A"
+      }
+    ],
+    "2026": [
+      {
+        "display_name": "Chrome Orange Tricoat",
+        "paint_code": "C25",
+        "slug": "chrome-orange-tricoat-c25",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/chrome-orange-tricoat-c25/",
+        "source_label": "PaintScratch 2026 Lotus",
+        "hex_value": "#D8790A"
+      }
+    ],
+    "2027": [
+      {
+        "display_name": "Chrome Orange Tricoat",
+        "paint_code": "C25",
+        "slug": "chrome-orange-tricoat-c25",
+        "reference_url": "https://www.paintscratch.com/colors/lotus/chrome-orange-tricoat-c25/",
+        "source_label": "PaintScratch 2027 Lotus",
+        "hex_value": "#D8790A"
+      }
+    ]
+  }
+}

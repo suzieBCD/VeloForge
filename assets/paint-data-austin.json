@@ -1,0 +1,654 @@
+{
+  "All Models": {
+    "1955": [
+      {
+        "display_name": "Olde English White",
+        "paint_code": "8177",
+        "slug": "olde-english-white-8177",
+        "reference_url": "https://www.paintscratch.com/colors/austin/olde-english-white-8177/",
+        "source_label": "PaintScratch 1955 Austin",
+        "hex_value": "#F0F0E8"
+      },
+      {
+        "display_name": "White",
+        "paint_code": "GR1",
+        "slug": "white-gr1",
+        "reference_url": "https://www.paintscratch.com/colors/austin/white-gr1/",
+        "source_label": "PaintScratch 1955 Austin",
+        "hex_value": "#F6F6F0"
+      }
+    ],
+    "1956": [
+      {
+        "display_name": "Olde English White",
+        "paint_code": "8177",
+        "slug": "olde-english-white-8177",
+        "reference_url": "https://www.paintscratch.com/colors/austin/olde-english-white-8177/",
+        "source_label": "PaintScratch 1956 Austin",
+        "hex_value": "#F0F0E8"
+      },
+      {
+        "display_name": "Old English White",
+        "paint_code": "P1319",
+        "slug": "old-english-white-p1319",
+        "reference_url": "https://www.paintscratch.com/colors/austin/old-english-white-p1319/",
+        "source_label": "PaintScratch 1956 Austin",
+        "hex_value": "#F0F0E8"
+      }
+    ],
+    "1957": [
+      {
+        "display_name": "Old English White No. 2",
+        "paint_code": "BLW T3",
+        "slug": "old-english-white-no-2-blw-t3",
+        "reference_url": "https://www.paintscratch.com/colors/austin/old-english-white-no-2-blw-t3/",
+        "source_label": "PaintScratch 1957 Austin",
+        "hex_value": "#E0E5EB"
+      },
+      {
+        "display_name": "Maltese White",
+        "paint_code": "BLWT3",
+        "slug": "maltese-white-blwt3",
+        "reference_url": "https://www.paintscratch.com/colors/austin/maltese-white-blwt3/",
+        "source_label": "PaintScratch 1957 Austin",
+        "hex_value": "#FFFEF5"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "BLBK1",
+        "slug": "black-blbk1",
+        "reference_url": "https://www.paintscratch.com/colors/austin/black-blbk1/",
+        "source_label": "PaintScratch 1957 Austin",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Island Blue",
+        "paint_code": "BLBU8",
+        "slug": "island-blue-blbu8",
+        "reference_url": "https://www.paintscratch.com/colors/austin/island-blue-blbu8/",
+        "source_label": "PaintScratch 1957 Austin",
+        "hex_value": "#7191B5"
+      }
+    ],
+    "1958": [
+      {
+        "display_name": "Old English White No. 2",
+        "paint_code": "BLW T3",
+        "slug": "old-english-white-no-2-blw-t3",
+        "reference_url": "https://www.paintscratch.com/colors/austin/old-english-white-no-2-blw-t3/",
+        "source_label": "PaintScratch 1958 Austin",
+        "hex_value": "#E0E5EB"
+      },
+      {
+        "display_name": "Maltese White",
+        "paint_code": "BLWT3",
+        "slug": "maltese-white-blwt3",
+        "reference_url": "https://www.paintscratch.com/colors/austin/maltese-white-blwt3/",
+        "source_label": "PaintScratch 1958 Austin",
+        "hex_value": "#FFFEF5"
+      },
+      {
+        "display_name": "Sandy Beige",
+        "paint_code": "BLBG15",
+        "slug": "sandy-beige-blbg15",
+        "reference_url": "https://www.paintscratch.com/colors/austin/sandy-beige-blbg15/",
+        "source_label": "PaintScratch 1958 Austin",
+        "hex_value": "#AB9F7B"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "BLBK1",
+        "slug": "black-blbk1",
+        "reference_url": "https://www.paintscratch.com/colors/austin/black-blbk1/",
+        "source_label": "PaintScratch 1958 Austin",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Deep Green",
+        "paint_code": "BLGN41",
+        "slug": "deep-green-blgn41",
+        "reference_url": "https://www.paintscratch.com/colors/austin/deep-green-blgn41/",
+        "source_label": "PaintScratch 1958 Austin",
+        "hex_value": "#184822"
+      },
+      {
+        "display_name": "Tweed Gray",
+        "paint_code": "BLGR4",
+        "slug": "tweed-gray-blgr4",
+        "reference_url": "https://www.paintscratch.com/colors/austin/tweed-gray-blgr4/",
+        "source_label": "PaintScratch 1958 Austin",
+        "hex_value": "#59635B"
+      },
+      {
+        "display_name": "Colorado Red",
+        "paint_code": "BLRD2",
+        "slug": "colorado-red-blrd2",
+        "reference_url": "https://www.paintscratch.com/colors/austin/colorado-red-blrd2/",
+        "source_label": "PaintScratch 1958 Austin",
+        "hex_value": "#892B1B"
+      },
+      {
+        "display_name": "Green",
+        "paint_code": "GN13",
+        "slug": "green-gn13",
+        "reference_url": "https://www.paintscratch.com/colors/austin/green-gn13/",
+        "source_label": "PaintScratch 1958 Austin",
+        "hex_value": "#2E6D1F"
+      }
+    ],
+    "1959": [
+      {
+        "display_name": "Old English White No. 2",
+        "paint_code": "BLW T3",
+        "slug": "old-english-white-no-2-blw-t3",
+        "reference_url": "https://www.paintscratch.com/colors/austin/old-english-white-no-2-blw-t3/",
+        "source_label": "PaintScratch 1959 Austin",
+        "hex_value": "#E0E5EB"
+      },
+      {
+        "display_name": "Maltese White",
+        "paint_code": "BLWT3",
+        "slug": "maltese-white-blwt3",
+        "reference_url": "https://www.paintscratch.com/colors/austin/maltese-white-blwt3/",
+        "source_label": "PaintScratch 1959 Austin",
+        "hex_value": "#FFFEF5"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "BLBK1",
+        "slug": "black-blbk1",
+        "reference_url": "https://www.paintscratch.com/colors/austin/black-blbk1/",
+        "source_label": "PaintScratch 1959 Austin",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Smoke Gray",
+        "paint_code": "BLBU15",
+        "slug": "smoke-gray-blbu15",
+        "reference_url": "https://www.paintscratch.com/colors/austin/smoke-gray-blbu15/",
+        "source_label": "PaintScratch 1959 Austin",
+        "hex_value": "#41484F"
+      }
+    ],
+    "1960": [
+      {
+        "display_name": "Old English White No. 2",
+        "paint_code": "BLW T3",
+        "slug": "old-english-white-no-2-blw-t3",
+        "reference_url": "https://www.paintscratch.com/colors/austin/old-english-white-no-2-blw-t3/",
+        "source_label": "PaintScratch 1960 Austin",
+        "hex_value": "#E0E5EB"
+      },
+      {
+        "display_name": "Maltese White",
+        "paint_code": "BLWT3",
+        "slug": "maltese-white-blwt3",
+        "reference_url": "https://www.paintscratch.com/colors/austin/maltese-white-blwt3/",
+        "source_label": "PaintScratch 1960 Austin",
+        "hex_value": "#FFFEF5"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "BLBK1",
+        "slug": "black-blbk1",
+        "reference_url": "https://www.paintscratch.com/colors/austin/black-blbk1/",
+        "source_label": "PaintScratch 1960 Austin",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Dove Gray",
+        "paint_code": "BLGR26",
+        "slug": "dove-gray-blgr26",
+        "reference_url": "https://www.paintscratch.com/colors/austin/dove-gray-blgr26/",
+        "source_label": "PaintScratch 1960 Austin",
+        "hex_value": "#C3C2C7"
+      },
+      {
+        "display_name": "Iris Blue",
+        "paint_code": "BU-12",
+        "slug": "iris-blue-bu-12",
+        "reference_url": "https://www.paintscratch.com/colors/austin/iris-blue-bu-12/",
+        "source_label": "PaintScratch 1960 Austin",
+        "hex_value": "#597DF3"
+      }
+    ],
+    "1961": [
+      {
+        "display_name": "Old English White No. 2",
+        "paint_code": "BLW T3",
+        "slug": "old-english-white-no-2-blw-t3",
+        "reference_url": "https://www.paintscratch.com/colors/austin/old-english-white-no-2-blw-t3/",
+        "source_label": "PaintScratch 1961 Austin",
+        "hex_value": "#E0E5EB"
+      },
+      {
+        "display_name": "Tartan Red",
+        "paint_code": "BLRD9",
+        "slug": "tartan-red-blrd9",
+        "reference_url": "https://www.paintscratch.com/colors/austin/tartan-red-blrd9/",
+        "source_label": "PaintScratch 1961 Austin",
+        "hex_value": "#960E0E"
+      },
+      {
+        "display_name": "Maltese White",
+        "paint_code": "BLWT3",
+        "slug": "maltese-white-blwt3",
+        "reference_url": "https://www.paintscratch.com/colors/austin/maltese-white-blwt3/",
+        "source_label": "PaintScratch 1961 Austin",
+        "hex_value": "#FFFEF5"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "BLBK1",
+        "slug": "black-blbk1",
+        "reference_url": "https://www.paintscratch.com/colors/austin/black-blbk1/",
+        "source_label": "PaintScratch 1961 Austin",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "British Racing Green No 1",
+        "paint_code": "BLGN29",
+        "slug": "british-racing-green-no-1-blgn29",
+        "reference_url": "https://www.paintscratch.com/colors/austin/british-racing-green-no-1-blgn29/",
+        "source_label": "PaintScratch 1961 Austin",
+        "hex_value": "#1A5036"
+      }
+    ],
+    "1962": [
+      {
+        "display_name": "Old English White No. 2",
+        "paint_code": "BLW T3",
+        "slug": "old-english-white-no-2-blw-t3",
+        "reference_url": "https://www.paintscratch.com/colors/austin/old-english-white-no-2-blw-t3/",
+        "source_label": "PaintScratch 1962 Austin",
+        "hex_value": "#E0E5EB"
+      },
+      {
+        "display_name": "Tartan Red",
+        "paint_code": "BLRD9",
+        "slug": "tartan-red-blrd9",
+        "reference_url": "https://www.paintscratch.com/colors/austin/tartan-red-blrd9/",
+        "source_label": "PaintScratch 1962 Austin",
+        "hex_value": "#960E0E"
+      },
+      {
+        "display_name": "Maltese White",
+        "paint_code": "BLWT3",
+        "slug": "maltese-white-blwt3",
+        "reference_url": "https://www.paintscratch.com/colors/austin/maltese-white-blwt3/",
+        "source_label": "PaintScratch 1962 Austin",
+        "hex_value": "#FFFEF5"
+      },
+      {
+        "display_name": "British Racing Green",
+        "paint_code": "8461",
+        "slug": "british-racing-green-8461",
+        "reference_url": "https://www.paintscratch.com/colors/austin/british-racing-green-8461/",
+        "source_label": "PaintScratch 1962 Austin",
+        "hex_value": "#364F29"
+      },
+      {
+        "display_name": "Stone",
+        "paint_code": "BLBG14",
+        "slug": "stone-blbg14",
+        "reference_url": "https://www.paintscratch.com/colors/austin/stone-blbg14/",
+        "source_label": "PaintScratch 1962 Austin",
+        "hex_value": "#8C8A78"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "BLBK1",
+        "slug": "black-blbk1",
+        "reference_url": "https://www.paintscratch.com/colors/austin/black-blbk1/",
+        "source_label": "PaintScratch 1962 Austin",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Surf Blue",
+        "paint_code": "BLBU35",
+        "slug": "surf-blue-blbu35",
+        "reference_url": "https://www.paintscratch.com/colors/austin/surf-blue-blbu35/",
+        "source_label": "PaintScratch 1962 Austin",
+        "hex_value": "#496E81"
+      },
+      {
+        "display_name": "Connaught Green",
+        "paint_code": "BLGN18",
+        "slug": "connaught-green-blgn18",
+        "reference_url": "https://www.paintscratch.com/colors/austin/connaught-green-blgn18/",
+        "source_label": "PaintScratch 1962 Austin",
+        "hex_value": "#183E2C"
+      },
+      {
+        "display_name": "British Racing Green No 1",
+        "paint_code": "BLGN29",
+        "slug": "british-racing-green-no-1-blgn29",
+        "reference_url": "https://www.paintscratch.com/colors/austin/british-racing-green-no-1-blgn29/",
+        "source_label": "PaintScratch 1962 Austin",
+        "hex_value": "#1A5036"
+      },
+      {
+        "display_name": "Almond Green",
+        "paint_code": "BLGN37",
+        "slug": "almond-green-blgn37",
+        "reference_url": "https://www.paintscratch.com/colors/austin/almond-green-blgn37/",
+        "source_label": "PaintScratch 1962 Austin",
+        "hex_value": "#3D4E30"
+      },
+      {
+        "display_name": "Peat",
+        "paint_code": "BLGR30",
+        "slug": "peat-blgr30",
+        "reference_url": "https://www.paintscratch.com/colors/austin/peat-blgr30/",
+        "source_label": "PaintScratch 1962 Austin",
+        "hex_value": "#525A4A"
+      },
+      {
+        "display_name": "Maroon",
+        "paint_code": "BLRD23",
+        "slug": "maroon-blrd23",
+        "reference_url": "https://www.paintscratch.com/colors/austin/maroon-blrd23/",
+        "source_label": "PaintScratch 1962 Austin",
+        "hex_value": "#550707"
+      },
+      {
+        "display_name": "Fiesta Yellow (No Formula Available)",
+        "paint_code": "BLYL11",
+        "slug": "fiesta-yellow-no-formula-available-blyl11",
+        "reference_url": "https://www.paintscratch.com/colors/austin/fiesta-yellow-no-formula-available-blyl11/",
+        "source_label": "PaintScratch 1962 Austin",
+        "hex_value": "#FBFA8F"
+      }
+    ],
+    "1963": [
+      {
+        "display_name": "Tartan Red",
+        "paint_code": "BLRD9",
+        "slug": "tartan-red-blrd9",
+        "reference_url": "https://www.paintscratch.com/colors/austin/tartan-red-blrd9/",
+        "source_label": "PaintScratch 1963 Austin",
+        "hex_value": "#960E0E"
+      },
+      {
+        "display_name": "Maltese White",
+        "paint_code": "BLWT3",
+        "slug": "maltese-white-blwt3",
+        "reference_url": "https://www.paintscratch.com/colors/austin/maltese-white-blwt3/",
+        "source_label": "PaintScratch 1963 Austin",
+        "hex_value": "#FFFEF5"
+      }
+    ],
+    "1964": [
+      {
+        "display_name": "Tartan Red",
+        "paint_code": "BLRD9",
+        "slug": "tartan-red-blrd9",
+        "reference_url": "https://www.paintscratch.com/colors/austin/tartan-red-blrd9/",
+        "source_label": "PaintScratch 1964 Austin",
+        "hex_value": "#960E0E"
+      },
+      {
+        "display_name": "Maltese White",
+        "paint_code": "BLWT3",
+        "slug": "maltese-white-blwt3",
+        "reference_url": "https://www.paintscratch.com/colors/austin/maltese-white-blwt3/",
+        "source_label": "PaintScratch 1964 Austin",
+        "hex_value": "#FFFEF5"
+      },
+      {
+        "display_name": "Colorado Red",
+        "paint_code": "RD-2",
+        "slug": "colorado-red-rd-2",
+        "reference_url": "https://www.paintscratch.com/colors/austin/colorado-red-rd-2/",
+        "source_label": "PaintScratch 1964 Austin",
+        "hex_value": "#822229"
+      }
+    ],
+    "1965": [
+      {
+        "display_name": "Tartan Red",
+        "paint_code": "BLRD9",
+        "slug": "tartan-red-blrd9",
+        "reference_url": "https://www.paintscratch.com/colors/austin/tartan-red-blrd9/",
+        "source_label": "PaintScratch 1965 Austin",
+        "hex_value": "#960E0E"
+      },
+      {
+        "display_name": "Maltese White",
+        "paint_code": "BLWT3",
+        "slug": "maltese-white-blwt3",
+        "reference_url": "https://www.paintscratch.com/colors/austin/maltese-white-blwt3/",
+        "source_label": "PaintScratch 1965 Austin",
+        "hex_value": "#FFFEF5"
+      },
+      {
+        "display_name": "White",
+        "paint_code": "WT3",
+        "slug": "white-wt3",
+        "reference_url": "https://www.paintscratch.com/colors/austin/white-wt3/",
+        "source_label": "PaintScratch 1965 Austin",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Florida Green",
+        "paint_code": "GN1",
+        "slug": "florida-green-gn1",
+        "reference_url": "https://www.paintscratch.com/colors/austin/florida-green-gn1/",
+        "source_label": "PaintScratch 1965 Austin",
+        "hex_value": "#468D8E"
+      },
+      {
+        "display_name": "Colorado Red",
+        "paint_code": "RD-2",
+        "slug": "colorado-red-rd-2",
+        "reference_url": "https://www.paintscratch.com/colors/austin/colorado-red-rd-2/",
+        "source_label": "PaintScratch 1965 Austin",
+        "hex_value": "#822229"
+      }
+    ],
+    "1966": [
+      {
+        "display_name": "Tartan Red",
+        "paint_code": "BLRD9",
+        "slug": "tartan-red-blrd9",
+        "reference_url": "https://www.paintscratch.com/colors/austin/tartan-red-blrd9/",
+        "source_label": "PaintScratch 1966 Austin",
+        "hex_value": "#960E0E"
+      },
+      {
+        "display_name": "Maltese White",
+        "paint_code": "BLWT3",
+        "slug": "maltese-white-blwt3",
+        "reference_url": "https://www.paintscratch.com/colors/austin/maltese-white-blwt3/",
+        "source_label": "PaintScratch 1966 Austin",
+        "hex_value": "#FFFEF5"
+      },
+      {
+        "display_name": "Medium Blue",
+        "paint_code": "DAU14711",
+        "slug": "medium-blue-dau14711",
+        "reference_url": "https://www.paintscratch.com/colors/austin/medium-blue-dau14711/",
+        "source_label": "PaintScratch 1966 Austin",
+        "hex_value": "#0D2D97"
+      },
+      {
+        "display_name": "Colorado Red",
+        "paint_code": "RD-2",
+        "slug": "colorado-red-rd-2",
+        "reference_url": "https://www.paintscratch.com/colors/austin/colorado-red-rd-2/",
+        "source_label": "PaintScratch 1966 Austin",
+        "hex_value": "#822229"
+      }
+    ],
+    "1967": [
+      {
+        "display_name": "Tartan Red",
+        "paint_code": "BLRD9",
+        "slug": "tartan-red-blrd9",
+        "reference_url": "https://www.paintscratch.com/colors/austin/tartan-red-blrd9/",
+        "source_label": "PaintScratch 1967 Austin",
+        "hex_value": "#960E0E"
+      },
+      {
+        "display_name": "Maltese White",
+        "paint_code": "BLWT3",
+        "slug": "maltese-white-blwt3",
+        "reference_url": "https://www.paintscratch.com/colors/austin/maltese-white-blwt3/",
+        "source_label": "PaintScratch 1967 Austin",
+        "hex_value": "#FFFEF5"
+      },
+      {
+        "display_name": "Azure Blue",
+        "paint_code": "DBC16357",
+        "slug": "azure-blue-dbc16357",
+        "reference_url": "https://www.paintscratch.com/colors/austin/azure-blue-dbc16357/",
+        "source_label": "PaintScratch 1967 Austin",
+        "hex_value": "#CAD1D8"
+      },
+      {
+        "display_name": "Colorado Red",
+        "paint_code": "RD-2",
+        "slug": "colorado-red-rd-2",
+        "reference_url": "https://www.paintscratch.com/colors/austin/colorado-red-rd-2/",
+        "source_label": "PaintScratch 1967 Austin",
+        "hex_value": "#822229"
+      }
+    ],
+    "1968": [
+      {
+        "display_name": "Tartan Red",
+        "paint_code": "BLRD9",
+        "slug": "tartan-red-blrd9",
+        "reference_url": "https://www.paintscratch.com/colors/austin/tartan-red-blrd9/",
+        "source_label": "PaintScratch 1968 Austin",
+        "hex_value": "#960E0E"
+      },
+      {
+        "display_name": "Maltese White",
+        "paint_code": "BLWT3",
+        "slug": "maltese-white-blwt3",
+        "reference_url": "https://www.paintscratch.com/colors/austin/maltese-white-blwt3/",
+        "source_label": "PaintScratch 1968 Austin",
+        "hex_value": "#FFFEF5"
+      },
+      {
+        "display_name": "Basilica Blue",
+        "paint_code": "BLBU11",
+        "slug": "basilica-blue-blbu11",
+        "reference_url": "https://www.paintscratch.com/colors/austin/basilica-blue-blbu11/",
+        "source_label": "PaintScratch 1968 Austin",
+        "hex_value": "#2F4C6A"
+      },
+      {
+        "display_name": "Medium Red",
+        "paint_code": "RD5",
+        "slug": "medium-red-rd5",
+        "reference_url": "https://www.paintscratch.com/colors/austin/medium-red-rd5/",
+        "source_label": "PaintScratch 1968 Austin",
+        "hex_value": "#AC2222"
+      }
+    ],
+    "1969": [
+      {
+        "display_name": "Tartan Red",
+        "paint_code": "BLRD9",
+        "slug": "tartan-red-blrd9",
+        "reference_url": "https://www.paintscratch.com/colors/austin/tartan-red-blrd9/",
+        "source_label": "PaintScratch 1969 Austin",
+        "hex_value": "#960E0E"
+      },
+      {
+        "display_name": "Maltese White",
+        "paint_code": "BLWT3",
+        "slug": "maltese-white-blwt3",
+        "reference_url": "https://www.paintscratch.com/colors/austin/maltese-white-blwt3/",
+        "source_label": "PaintScratch 1969 Austin",
+        "hex_value": "#FFFEF5"
+      },
+      {
+        "display_name": "Silver Leaf",
+        "paint_code": "BLVC421",
+        "slug": "silver-leaf-blvc421",
+        "reference_url": "https://www.paintscratch.com/colors/austin/silver-leaf-blvc421/",
+        "source_label": "PaintScratch 1969 Austin",
+        "hex_value": "#C0C0C0"
+      }
+    ],
+    "1984": [
+      {
+        "display_name": "Silver Leaf",
+        "paint_code": "BLVC421",
+        "slug": "silver-leaf-blvc421",
+        "reference_url": "https://www.paintscratch.com/colors/austin/silver-leaf-blvc421/",
+        "source_label": "PaintScratch 1984 Austin",
+        "hex_value": "#C0C0C0"
+      }
+    ],
+    "1985": [
+      {
+        "display_name": "Silver Leaf",
+        "paint_code": "BLVC421",
+        "slug": "silver-leaf-blvc421",
+        "reference_url": "https://www.paintscratch.com/colors/austin/silver-leaf-blvc421/",
+        "source_label": "PaintScratch 1985 Austin",
+        "hex_value": "#C0C0C0"
+      }
+    ],
+    "1986": [
+      {
+        "display_name": "Silver Leaf",
+        "paint_code": "BLVC421",
+        "slug": "silver-leaf-blvc421",
+        "reference_url": "https://www.paintscratch.com/colors/austin/silver-leaf-blvc421/",
+        "source_label": "PaintScratch 1986 Austin",
+        "hex_value": "#C0C0C0"
+      }
+    ],
+    "1987": [
+      {
+        "display_name": "Silver Leaf",
+        "paint_code": "BLVC421",
+        "slug": "silver-leaf-blvc421",
+        "reference_url": "https://www.paintscratch.com/colors/austin/silver-leaf-blvc421/",
+        "source_label": "PaintScratch 1987 Austin",
+        "hex_value": "#C0C0C0"
+      }
+    ],
+    "1988": [
+      {
+        "display_name": "Silver Leaf",
+        "paint_code": "BLVC421",
+        "slug": "silver-leaf-blvc421",
+        "reference_url": "https://www.paintscratch.com/colors/austin/silver-leaf-blvc421/",
+        "source_label": "PaintScratch 1988 Austin",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Bright Red",
+        "paint_code": "CNE",
+        "slug": "bright-red-cne",
+        "reference_url": "https://www.paintscratch.com/colors/austin/bright-red-cne/",
+        "source_label": "PaintScratch 1988 Austin",
+        "hex_value": "#F31515"
+      }
+    ],
+    "1998": [
+      {
+        "display_name": "Bright Red",
+        "paint_code": "CNE",
+        "slug": "bright-red-cne",
+        "reference_url": "https://www.paintscratch.com/colors/austin/bright-red-cne/",
+        "source_label": "PaintScratch 1998 Austin",
+        "hex_value": "#F31515"
+      },
+      {
+        "display_name": "Mystic Blue Pearl Effect",
+        "paint_code": "LC5L",
+        "slug": "mystic-blue-pearl-effect-lc5l",
+        "reference_url": "https://www.paintscratch.com/colors/austin/mystic-blue-pearl-effect-lc5l/",
+        "source_label": "PaintScratch 1998 Austin",
+        "hex_value": "#213E79"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1506 @@
+{
+  "All Models": {
+    "2009": [
+      {
+        "display_name": "River Silver Metallic",
+        "paint_code": "EAD/C50L",
+        "slug": "river-silver-metallic-eadc50l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/river-silver-metallic-eadc50l/",
+        "source_label": "PaintScratch 2009 Smart",
+        "hex_value": "#D9D7CF"
+      },
+      {
+        "display_name": "Black (trim)",
+        "paint_code": "C46L",
+        "slug": "black-trim-c46l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/black-trim-c46l/",
+        "source_label": "PaintScratch 2009 Smart",
+        "hex_value": "#16181A"
+      },
+      {
+        "display_name": "Light Yellow",
+        "paint_code": "EAL/CA6L",
+        "slug": "light-yellow-ealca6l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/light-yellow-ealca6l/",
+        "source_label": "PaintScratch 2009 Smart",
+        "hex_value": "#DEE933"
+      },
+      {
+        "display_name": "Red Metallic",
+        "paint_code": "EAY/CA3L",
+        "slug": "red-metallic-eayca3l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/red-metallic-eayca3l/",
+        "source_label": "PaintScratch 2009 Smart",
+        "hex_value": "#9B2313"
+      },
+      {
+        "display_name": "Crystal White",
+        "paint_code": "EAZ/CA8L",
+        "slug": "crystal-white-eazca8l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/crystal-white-eazca8l/",
+        "source_label": "PaintScratch 2009 Smart",
+        "hex_value": "#FFFBFB"
+      },
+      {
+        "display_name": "Tridion Silver Metallic (trim)",
+        "paint_code": "EB2/C48L",
+        "slug": "tridion-silver-metallic-trim-eb2c48l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/tridion-silver-metallic-trim-eb2c48l/",
+        "source_label": "PaintScratch 2009 Smart",
+        "hex_value": "#E1DED9"
+      },
+      {
+        "display_name": "Deep Black",
+        "paint_code": "ECA/CA7L",
+        "slug": "deep-black-ecaca7l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/deep-black-ecaca7l/",
+        "source_label": "PaintScratch 2009 Smart",
+        "hex_value": "#070707"
+      },
+      {
+        "display_name": "Grey Metallic Tricoat",
+        "paint_code": "ECB/C78L",
+        "slug": "grey-metallic-tricoat-ecbc78l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/grey-metallic-tricoat-ecbc78l/",
+        "source_label": "PaintScratch 2009 Smart",
+        "hex_value": "#8F8171"
+      },
+      {
+        "display_name": "Blue Metallic",
+        "paint_code": "ECC/CA9L",
+        "slug": "blue-metallic-eccca9l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/blue-metallic-eccca9l/",
+        "source_label": "PaintScratch 2009 Smart",
+        "hex_value": "#365480"
+      }
+    ],
+    "2010": [
+      {
+        "display_name": "River Silver Metallic",
+        "paint_code": "EAD/C50L",
+        "slug": "river-silver-metallic-eadc50l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/river-silver-metallic-eadc50l/",
+        "source_label": "PaintScratch 2010 Smart",
+        "hex_value": "#D9D7CF"
+      },
+      {
+        "display_name": "Crystal White",
+        "paint_code": "EAZ/CA8L",
+        "slug": "crystal-white-eazca8l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/crystal-white-eazca8l/",
+        "source_label": "PaintScratch 2010 Smart",
+        "hex_value": "#FFFBFB"
+      },
+      {
+        "display_name": "Black (trim)",
+        "paint_code": "EB1/C47L",
+        "slug": "black-trim-eb1c47l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/black-trim-eb1c47l/",
+        "source_label": "PaintScratch 2010 Smart",
+        "hex_value": "#16181A"
+      },
+      {
+        "display_name": "Tridion Silver Metallic (trim)",
+        "paint_code": "EB2/C49L",
+        "slug": "tridion-silver-metallic-trim-eb2c49l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/tridion-silver-metallic-trim-eb2c49l/",
+        "source_label": "PaintScratch 2010 Smart",
+        "hex_value": "#E1DED9"
+      },
+      {
+        "display_name": "Deep Black",
+        "paint_code": "ECA/CA7L",
+        "slug": "deep-black-ecaca7l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/deep-black-ecaca7l/",
+        "source_label": "PaintScratch 2010 Smart",
+        "hex_value": "#070707"
+      },
+      {
+        "display_name": "Blue Metallic",
+        "paint_code": "ECC/CA9L",
+        "slug": "blue-metallic-eccca9l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/blue-metallic-eccca9l/",
+        "source_label": "PaintScratch 2010 Smart",
+        "hex_value": "#365480"
+      },
+      {
+        "display_name": "Rally Red",
+        "paint_code": "ECF/CC0L",
+        "slug": "rally-red-ecfcc0l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/rally-red-ecfcc0l/",
+        "source_label": "PaintScratch 2010 Smart",
+        "hex_value": "#D33B1D"
+      },
+      {
+        "display_name": "Gray Metallic",
+        "paint_code": "ECG/CC2L",
+        "slug": "gray-metallic-ecgcc2l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/gray-metallic-ecgcc2l/",
+        "source_label": "PaintScratch 2010 Smart",
+        "hex_value": "#CDC5A1"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "PPG 9423",
+        "slug": "black-ppg-9423",
+        "reference_url": "https://www.paintscratch.com/colors/smart/black-ppg-9423/",
+        "source_label": "PaintScratch 2010 Smart",
+        "hex_value": "#222222"
+      }
+    ],
+    "2011": [
+      {
+        "display_name": "River Silver Metallic",
+        "paint_code": "EAD/C50L",
+        "slug": "river-silver-metallic-eadc50l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/river-silver-metallic-eadc50l/",
+        "source_label": "PaintScratch 2011 Smart",
+        "hex_value": "#D9D7CF"
+      },
+      {
+        "display_name": "Light Blue Metallic",
+        "paint_code": "EAA/CC6L",
+        "slug": "light-blue-metallic-eaacc6l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/light-blue-metallic-eaacc6l/",
+        "source_label": "PaintScratch 2011 Smart",
+        "hex_value": "#566678"
+      },
+      {
+        "display_name": "Orange Metallic",
+        "paint_code": "EAK/CD3L",
+        "slug": "orange-metallic-eakcd3l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/orange-metallic-eakcd3l/",
+        "source_label": "PaintScratch 2011 Smart",
+        "hex_value": "#F78617"
+      },
+      {
+        "display_name": "Crystal White",
+        "paint_code": "EAZ/CA8L",
+        "slug": "crystal-white-eazca8l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/crystal-white-eazca8l/",
+        "source_label": "PaintScratch 2011 Smart",
+        "hex_value": "#FFFBFB"
+      },
+      {
+        "display_name": "Black (trim)",
+        "paint_code": "EB1/C47L",
+        "slug": "black-trim-eb1c47l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/black-trim-eb1c47l/",
+        "source_label": "PaintScratch 2011 Smart",
+        "hex_value": "#16181A"
+      },
+      {
+        "display_name": "Tridion Silver Metallic (trim)",
+        "paint_code": "EB2/C49L",
+        "slug": "tridion-silver-metallic-trim-eb2c49l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/tridion-silver-metallic-trim-eb2c49l/",
+        "source_label": "PaintScratch 2011 Smart",
+        "hex_value": "#E1DED9"
+      },
+      {
+        "display_name": "Deep Black",
+        "paint_code": "ECA/CA7L",
+        "slug": "deep-black-ecaca7l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/deep-black-ecaca7l/",
+        "source_label": "PaintScratch 2011 Smart",
+        "hex_value": "#070707"
+      },
+      {
+        "display_name": "Blue Metallic",
+        "paint_code": "ECC/CA9L",
+        "slug": "blue-metallic-eccca9l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/blue-metallic-eccca9l/",
+        "source_label": "PaintScratch 2011 Smart",
+        "hex_value": "#365480"
+      },
+      {
+        "display_name": "Light Green Metallic (matt)",
+        "paint_code": "ECD/CC5L",
+        "slug": "light-green-metallic-matt-ecdcc5l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/light-green-metallic-matt-ecdcc5l/",
+        "source_label": "PaintScratch 2011 Smart",
+        "hex_value": "#D8F181"
+      },
+      {
+        "display_name": "Rally Red",
+        "paint_code": "ECF/CC0L",
+        "slug": "rally-red-ecfcc0l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/rally-red-ecfcc0l/",
+        "source_label": "PaintScratch 2011 Smart",
+        "hex_value": "#D33B1D"
+      },
+      {
+        "display_name": "Gray Metallic",
+        "paint_code": "ECG/CC2L",
+        "slug": "gray-metallic-ecgcc2l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/gray-metallic-ecgcc2l/",
+        "source_label": "PaintScratch 2011 Smart",
+        "hex_value": "#CDC5A1"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "PPG 9423",
+        "slug": "black-ppg-9423",
+        "reference_url": "https://www.paintscratch.com/colors/smart/black-ppg-9423/",
+        "source_label": "PaintScratch 2011 Smart",
+        "hex_value": "#222222"
+      }
+    ],
+    "2012": [
+      {
+        "display_name": "River Silver Metallic",
+        "paint_code": "EAD/C50L",
+        "slug": "river-silver-metallic-eadc50l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/river-silver-metallic-eadc50l/",
+        "source_label": "PaintScratch 2012 Smart",
+        "hex_value": "#D9D7CF"
+      },
+      {
+        "display_name": "Light Blue Metallic",
+        "paint_code": "EAA/CC6L",
+        "slug": "light-blue-metallic-eaacc6l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/light-blue-metallic-eaacc6l/",
+        "source_label": "PaintScratch 2012 Smart",
+        "hex_value": "#566678"
+      },
+      {
+        "display_name": "Crystal White",
+        "paint_code": "EAZ/CA8L",
+        "slug": "crystal-white-eazca8l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/crystal-white-eazca8l/",
+        "source_label": "PaintScratch 2012 Smart",
+        "hex_value": "#FFFBFB"
+      },
+      {
+        "display_name": "Black (trim)",
+        "paint_code": "EB1/C47L",
+        "slug": "black-trim-eb1c47l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/black-trim-eb1c47l/",
+        "source_label": "PaintScratch 2012 Smart",
+        "hex_value": "#16181A"
+      },
+      {
+        "display_name": "Tridion Silver Metallic (trim)",
+        "paint_code": "EB2/C49L",
+        "slug": "tridion-silver-metallic-trim-eb2c49l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/tridion-silver-metallic-trim-eb2c49l/",
+        "source_label": "PaintScratch 2012 Smart",
+        "hex_value": "#E1DED9"
+      },
+      {
+        "display_name": "Deep Black",
+        "paint_code": "ECA/CA7L",
+        "slug": "deep-black-ecaca7l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/deep-black-ecaca7l/",
+        "source_label": "PaintScratch 2012 Smart",
+        "hex_value": "#070707"
+      },
+      {
+        "display_name": "Light Green Metallic (matt)",
+        "paint_code": "ECD/CC5L",
+        "slug": "light-green-metallic-matt-ecdcc5l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/light-green-metallic-matt-ecdcc5l/",
+        "source_label": "PaintScratch 2012 Smart",
+        "hex_value": "#D8F181"
+      },
+      {
+        "display_name": "Rally Red",
+        "paint_code": "ECF/CC0L",
+        "slug": "rally-red-ecfcc0l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/rally-red-ecfcc0l/",
+        "source_label": "PaintScratch 2012 Smart",
+        "hex_value": "#D33B1D"
+      },
+      {
+        "display_name": "Gray Metallic",
+        "paint_code": "ECG/CC2L",
+        "slug": "gray-metallic-ecgcc2l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/gray-metallic-ecgcc2l/",
+        "source_label": "PaintScratch 2012 Smart",
+        "hex_value": "#CDC5A1"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "PPG 9423",
+        "slug": "black-ppg-9423",
+        "reference_url": "https://www.paintscratch.com/colors/smart/black-ppg-9423/",
+        "source_label": "PaintScratch 2012 Smart",
+        "hex_value": "#222222"
+      }
+    ],
+    "2013": [
+      {
+        "display_name": "River Silver Metallic",
+        "paint_code": "EAD/C50L",
+        "slug": "river-silver-metallic-eadc50l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/river-silver-metallic-eadc50l/",
+        "source_label": "PaintScratch 2013 Smart",
+        "hex_value": "#D9D7CF"
+      },
+      {
+        "display_name": "Dark Gray Metallic (matt)",
+        "paint_code": "EAI/CC8L",
+        "slug": "dark-gray-metallic-matt-eaicc8l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/dark-gray-metallic-matt-eaicc8l/",
+        "source_label": "PaintScratch 2013 Smart",
+        "hex_value": "#79745F"
+      },
+      {
+        "display_name": "Light Blue Metallic",
+        "paint_code": "EAA/CC6L",
+        "slug": "light-blue-metallic-eaacc6l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/light-blue-metallic-eaacc6l/",
+        "source_label": "PaintScratch 2013 Smart",
+        "hex_value": "#566678"
+      },
+      {
+        "display_name": "Crystal White",
+        "paint_code": "EAZ/CA8L",
+        "slug": "crystal-white-eazca8l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/crystal-white-eazca8l/",
+        "source_label": "PaintScratch 2013 Smart",
+        "hex_value": "#FFFBFB"
+      },
+      {
+        "display_name": "Black (trim)",
+        "paint_code": "EB1/C47L",
+        "slug": "black-trim-eb1c47l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/black-trim-eb1c47l/",
+        "source_label": "PaintScratch 2013 Smart",
+        "hex_value": "#16181A"
+      },
+      {
+        "display_name": "Tridion Silver Metallic (trim)",
+        "paint_code": "EB2/C49L",
+        "slug": "tridion-silver-metallic-trim-eb2c49l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/tridion-silver-metallic-trim-eb2c49l/",
+        "source_label": "PaintScratch 2013 Smart",
+        "hex_value": "#E1DED9"
+      },
+      {
+        "display_name": "Deep Black",
+        "paint_code": "ECA/CA7L",
+        "slug": "deep-black-ecaca7l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/deep-black-ecaca7l/",
+        "source_label": "PaintScratch 2013 Smart",
+        "hex_value": "#070707"
+      },
+      {
+        "display_name": "Light Green Metallic (matt)",
+        "paint_code": "ECD/CC5L",
+        "slug": "light-green-metallic-matt-ecdcc5l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/light-green-metallic-matt-ecdcc5l/",
+        "source_label": "PaintScratch 2013 Smart",
+        "hex_value": "#D8F181"
+      },
+      {
+        "display_name": "Rally Red",
+        "paint_code": "ECF/CC0L",
+        "slug": "rally-red-ecfcc0l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/rally-red-ecfcc0l/",
+        "source_label": "PaintScratch 2013 Smart",
+        "hex_value": "#D33B1D"
+      },
+      {
+        "display_name": "Gray Metallic",
+        "paint_code": "ECG/CC2L",
+        "slug": "gray-metallic-ecgcc2l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/gray-metallic-ecgcc2l/",
+        "source_label": "PaintScratch 2013 Smart",
+        "hex_value": "#CDC5A1"
+      }
+    ],
+    "2014": [
+      {
+        "display_name": "River Silver Metallic",
+        "paint_code": "EAD/C50L",
+        "slug": "river-silver-metallic-eadc50l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/river-silver-metallic-eadc50l/",
+        "source_label": "PaintScratch 2014 Smart",
+        "hex_value": "#D9D7CF"
+      },
+      {
+        "display_name": "Dark Gray Metallic (matt)",
+        "paint_code": "EAI/CC8L",
+        "slug": "dark-gray-metallic-matt-eaicc8l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/dark-gray-metallic-matt-eaicc8l/",
+        "source_label": "PaintScratch 2014 Smart",
+        "hex_value": "#79745F"
+      },
+      {
+        "display_name": "Light Blue Metallic",
+        "paint_code": "EAA/CC6L",
+        "slug": "light-blue-metallic-eaacc6l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/light-blue-metallic-eaacc6l/",
+        "source_label": "PaintScratch 2014 Smart",
+        "hex_value": "#566678"
+      },
+      {
+        "display_name": "Orange Metallic",
+        "paint_code": "EAK/CD3L",
+        "slug": "orange-metallic-eakcd3l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/orange-metallic-eakcd3l/",
+        "source_label": "PaintScratch 2014 Smart",
+        "hex_value": "#F78617"
+      },
+      {
+        "display_name": "Crystal White",
+        "paint_code": "EAZ/CA8L",
+        "slug": "crystal-white-eazca8l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/crystal-white-eazca8l/",
+        "source_label": "PaintScratch 2014 Smart",
+        "hex_value": "#FFFBFB"
+      },
+      {
+        "display_name": "Black (trim)",
+        "paint_code": "EB1/C47L",
+        "slug": "black-trim-eb1c47l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/black-trim-eb1c47l/",
+        "source_label": "PaintScratch 2014 Smart",
+        "hex_value": "#16181A"
+      },
+      {
+        "display_name": "Tridion Silver Metallic (trim)",
+        "paint_code": "EB2/C49L",
+        "slug": "tridion-silver-metallic-trim-eb2c49l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/tridion-silver-metallic-trim-eb2c49l/",
+        "source_label": "PaintScratch 2014 Smart",
+        "hex_value": "#E1DED9"
+      },
+      {
+        "display_name": "Green Pearl Metallic (trim)",
+        "paint_code": "EB7/CE0L",
+        "slug": "green-pearl-metallic-trim-eb7ce0l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/green-pearl-metallic-trim-eb7ce0l/",
+        "source_label": "PaintScratch 2014 Smart",
+        "hex_value": "#1D9128"
+      },
+      {
+        "display_name": "Deep Black",
+        "paint_code": "ECA/CA7L",
+        "slug": "deep-black-ecaca7l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/deep-black-ecaca7l/",
+        "source_label": "PaintScratch 2014 Smart",
+        "hex_value": "#070707"
+      },
+      {
+        "display_name": "Light Green Metallic (matt)",
+        "paint_code": "ECD/CC5L",
+        "slug": "light-green-metallic-matt-ecdcc5l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/light-green-metallic-matt-ecdcc5l/",
+        "source_label": "PaintScratch 2014 Smart",
+        "hex_value": "#D8F181"
+      },
+      {
+        "display_name": "Rally Red",
+        "paint_code": "ECF/CC0L",
+        "slug": "rally-red-ecfcc0l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/rally-red-ecfcc0l/",
+        "source_label": "PaintScratch 2014 Smart",
+        "hex_value": "#D33B1D"
+      },
+      {
+        "display_name": "Gray Metallic",
+        "paint_code": "ECG/CC2L",
+        "slug": "gray-metallic-ecgcc2l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/gray-metallic-ecgcc2l/",
+        "source_label": "PaintScratch 2014 Smart",
+        "hex_value": "#CDC5A1"
+      },
+      {
+        "display_name": "Flame Yellow Tricoat",
+        "paint_code": "ECJ/CE7L",
+        "slug": "flame-yellow-tricoat-ecjce7l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/flame-yellow-tricoat-ecjce7l/",
+        "source_label": "PaintScratch 2014 Smart",
+        "hex_value": "#FFF10F"
+      }
+    ],
+    "2015": [
+      {
+        "display_name": "River Silver Metallic",
+        "paint_code": "EAD/C50L",
+        "slug": "river-silver-metallic-eadc50l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/river-silver-metallic-eadc50l/",
+        "source_label": "PaintScratch 2015 Smart",
+        "hex_value": "#D9D7CF"
+      },
+      {
+        "display_name": "Dark Gray Metallic (matt)",
+        "paint_code": "EAI/CC8L",
+        "slug": "dark-gray-metallic-matt-eaicc8l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/dark-gray-metallic-matt-eaicc8l/",
+        "source_label": "PaintScratch 2015 Smart",
+        "hex_value": "#79745F"
+      },
+      {
+        "display_name": "Light Blue Metallic",
+        "paint_code": "EAA/CC6L",
+        "slug": "light-blue-metallic-eaacc6l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/light-blue-metallic-eaacc6l/",
+        "source_label": "PaintScratch 2015 Smart",
+        "hex_value": "#566678"
+      },
+      {
+        "display_name": "Orange Metallic",
+        "paint_code": "EAK/CD3L",
+        "slug": "orange-metallic-eakcd3l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/orange-metallic-eakcd3l/",
+        "source_label": "PaintScratch 2015 Smart",
+        "hex_value": "#F78617"
+      },
+      {
+        "display_name": "Crystal White",
+        "paint_code": "EAZ/CA8L",
+        "slug": "crystal-white-eazca8l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/crystal-white-eazca8l/",
+        "source_label": "PaintScratch 2015 Smart",
+        "hex_value": "#FFFBFB"
+      },
+      {
+        "display_name": "Black (trim)",
+        "paint_code": "EB1/C47L",
+        "slug": "black-trim-eb1c47l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/black-trim-eb1c47l/",
+        "source_label": "PaintScratch 2015 Smart",
+        "hex_value": "#16181A"
+      },
+      {
+        "display_name": "Tridion Silver Metallic (trim)",
+        "paint_code": "EB2/C49L",
+        "slug": "tridion-silver-metallic-trim-eb2c49l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/tridion-silver-metallic-trim-eb2c49l/",
+        "source_label": "PaintScratch 2015 Smart",
+        "hex_value": "#E1DED9"
+      },
+      {
+        "display_name": "Crystal White (trim)",
+        "paint_code": "EB3/C48L/C49L",
+        "slug": "crystal-white-trim-eb3c48lc49l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/crystal-white-trim-eb3c48lc49l/",
+        "source_label": "PaintScratch 2015 Smart",
+        "hex_value": "#F9F4E3"
+      },
+      {
+        "display_name": "Night Run Red (trim)",
+        "paint_code": "EB6/CD7L/CD8L",
+        "slug": "night-run-red-trim-eb6cd7lcd8l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/night-run-red-trim-eb6cd7lcd8l/",
+        "source_label": "PaintScratch 2015 Smart",
+        "hex_value": "#D11F1F"
+      },
+      {
+        "display_name": "Green Pearl Metallic (trim)",
+        "paint_code": "EB7/CE0L",
+        "slug": "green-pearl-metallic-trim-eb7ce0l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/green-pearl-metallic-trim-eb7ce0l/",
+        "source_label": "PaintScratch 2015 Smart",
+        "hex_value": "#1D9128"
+      },
+      {
+        "display_name": "Deep Black",
+        "paint_code": "ECA/CA7L",
+        "slug": "deep-black-ecaca7l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/deep-black-ecaca7l/",
+        "source_label": "PaintScratch 2015 Smart",
+        "hex_value": "#070707"
+      },
+      {
+        "display_name": "Light Green Metallic (matt)",
+        "paint_code": "ECD/CC5L",
+        "slug": "light-green-metallic-matt-ecdcc5l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/light-green-metallic-matt-ecdcc5l/",
+        "source_label": "PaintScratch 2015 Smart",
+        "hex_value": "#D8F181"
+      },
+      {
+        "display_name": "Rally Red",
+        "paint_code": "ECF/CC0L",
+        "slug": "rally-red-ecfcc0l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/rally-red-ecfcc0l/",
+        "source_label": "PaintScratch 2015 Smart",
+        "hex_value": "#D33B1D"
+      },
+      {
+        "display_name": "Gray Metallic",
+        "paint_code": "ECG/CC2L",
+        "slug": "gray-metallic-ecgcc2l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/gray-metallic-ecgcc2l/",
+        "source_label": "PaintScratch 2015 Smart",
+        "hex_value": "#CDC5A1"
+      },
+      {
+        "display_name": "Graphite Pearl",
+        "paint_code": "ECH/CD6L",
+        "slug": "graphite-pearl-echcd6l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/graphite-pearl-echcd6l/",
+        "source_label": "PaintScratch 2015 Smart",
+        "hex_value": "#515A44"
+      },
+      {
+        "display_name": "Flame Yellow Tricoat",
+        "paint_code": "ECJ/CE7L",
+        "slug": "flame-yellow-tricoat-ecjce7l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/flame-yellow-tricoat-ecjce7l/",
+        "source_label": "PaintScratch 2015 Smart",
+        "hex_value": "#FFF10F"
+      }
+    ],
+    "2016": [
+      {
+        "display_name": "River Silver Metallic",
+        "paint_code": "EAD/C50L",
+        "slug": "river-silver-metallic-eadc50l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/river-silver-metallic-eadc50l/",
+        "source_label": "PaintScratch 2016 Smart",
+        "hex_value": "#D9D7CF"
+      },
+      {
+        "display_name": "Dark Gray Metallic (matt)",
+        "paint_code": "EAI/CC8L",
+        "slug": "dark-gray-metallic-matt-eaicc8l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/dark-gray-metallic-matt-eaicc8l/",
+        "source_label": "PaintScratch 2016 Smart",
+        "hex_value": "#79745F"
+      },
+      {
+        "display_name": "Light Blue Metallic",
+        "paint_code": "EAA/CC6L",
+        "slug": "light-blue-metallic-eaacc6l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/light-blue-metallic-eaacc6l/",
+        "source_label": "PaintScratch 2016 Smart",
+        "hex_value": "#566678"
+      },
+      {
+        "display_name": "Orange Metallic",
+        "paint_code": "EAK/CD3L",
+        "slug": "orange-metallic-eakcd3l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/orange-metallic-eakcd3l/",
+        "source_label": "PaintScratch 2016 Smart",
+        "hex_value": "#F78617"
+      },
+      {
+        "display_name": "Crystal White",
+        "paint_code": "EAZ/CA8L",
+        "slug": "crystal-white-eazca8l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/crystal-white-eazca8l/",
+        "source_label": "PaintScratch 2016 Smart",
+        "hex_value": "#FFFBFB"
+      },
+      {
+        "display_name": "Deep Black",
+        "paint_code": "ECA/CA7L",
+        "slug": "deep-black-ecaca7l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/deep-black-ecaca7l/",
+        "source_label": "PaintScratch 2016 Smart",
+        "hex_value": "#070707"
+      },
+      {
+        "display_name": "Light Green Metallic (matt)",
+        "paint_code": "ECD/CC5L",
+        "slug": "light-green-metallic-matt-ecdcc5l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/light-green-metallic-matt-ecdcc5l/",
+        "source_label": "PaintScratch 2016 Smart",
+        "hex_value": "#D8F181"
+      },
+      {
+        "display_name": "Rally Red",
+        "paint_code": "ECF/CC0L",
+        "slug": "rally-red-ecfcc0l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/rally-red-ecfcc0l/",
+        "source_label": "PaintScratch 2016 Smart",
+        "hex_value": "#D33B1D"
+      },
+      {
+        "display_name": "Gray Metallic",
+        "paint_code": "ECG/CC2L",
+        "slug": "gray-metallic-ecgcc2l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/gray-metallic-ecgcc2l/",
+        "source_label": "PaintScratch 2016 Smart",
+        "hex_value": "#CDC5A1"
+      },
+      {
+        "display_name": "Graphite Pearl",
+        "paint_code": "ECH/CD6L",
+        "slug": "graphite-pearl-echcd6l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/graphite-pearl-echcd6l/",
+        "source_label": "PaintScratch 2016 Smart",
+        "hex_value": "#515A44"
+      },
+      {
+        "display_name": "Flame Yellow Tricoat",
+        "paint_code": "ECJ/CE7L",
+        "slug": "flame-yellow-tricoat-ecjce7l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/flame-yellow-tricoat-ecjce7l/",
+        "source_label": "PaintScratch 2016 Smart",
+        "hex_value": "#FFF10F"
+      },
+      {
+        "display_name": "Orange",
+        "paint_code": "ECK/CE6L",
+        "slug": "orange-eckce6l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/orange-eckce6l/",
+        "source_label": "PaintScratch 2016 Smart",
+        "hex_value": "#F3C00D"
+      },
+      {
+        "display_name": "Crystal White (matt)",
+        "paint_code": "ECM/CF6L",
+        "slug": "crystal-white-matt-ecmcf6l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/crystal-white-matt-ecmcf6l/",
+        "source_label": "PaintScratch 2016 Smart",
+        "hex_value": "#ECE8D8"
+      },
+      {
+        "display_name": "Orange",
+        "paint_code": "EDBO",
+        "slug": "orange-edbo",
+        "reference_url": "https://www.paintscratch.com/colors/smart/orange-edbo/",
+        "source_label": "PaintScratch 2016 Smart",
+        "hex_value": "#EB9D23"
+      }
+    ],
+    "2017": [
+      {
+        "display_name": "Dark Gray Metallic (matt)",
+        "paint_code": "EAI",
+        "slug": "dark-gray-metallic-matt-eai",
+        "reference_url": "https://www.paintscratch.com/colors/smart/dark-gray-metallic-matt-eai/",
+        "source_label": "PaintScratch 2017 Smart",
+        "hex_value": "#79745F"
+      },
+      {
+        "display_name": "Crystal White",
+        "paint_code": "EAZ",
+        "slug": "crystal-white-eaz",
+        "reference_url": "https://www.paintscratch.com/colors/smart/crystal-white-eaz/",
+        "source_label": "PaintScratch 2017 Smart",
+        "hex_value": "#FFFBFB"
+      },
+      {
+        "display_name": "Terra Brown Pearl",
+        "paint_code": "EBB",
+        "slug": "terra-brown-pearl-ebb",
+        "reference_url": "https://www.paintscratch.com/colors/smart/terra-brown-pearl-ebb/",
+        "source_label": "PaintScratch 2017 Smart",
+        "hex_value": "#B19049"
+      },
+      {
+        "display_name": "Deep Black",
+        "paint_code": "ECA",
+        "slug": "deep-black-eca",
+        "reference_url": "https://www.paintscratch.com/colors/smart/deep-black-eca/",
+        "source_label": "PaintScratch 2017 Smart",
+        "hex_value": "#070707"
+      },
+      {
+        "display_name": "Rally Red",
+        "paint_code": "ECF",
+        "slug": "rally-red-ecf",
+        "reference_url": "https://www.paintscratch.com/colors/smart/rally-red-ecf/",
+        "source_label": "PaintScratch 2017 Smart",
+        "hex_value": "#D33B1D"
+      },
+      {
+        "display_name": "Cool Silver Metallic",
+        "paint_code": "EDA",
+        "slug": "cool-silver-metallic-eda",
+        "reference_url": "https://www.paintscratch.com/colors/smart/cool-silver-metallic-eda/",
+        "source_label": "PaintScratch 2017 Smart",
+        "hex_value": "#F5FCEA"
+      },
+      {
+        "display_name": "Lava Orange Metallic",
+        "paint_code": "EDB",
+        "slug": "lava-orange-metallic-edb",
+        "reference_url": "https://www.paintscratch.com/colors/smart/lava-orange-metallic-edb/",
+        "source_label": "PaintScratch 2017 Smart",
+        "hex_value": "#C65720"
+      },
+      {
+        "display_name": "Midnight Blue Metallic",
+        "paint_code": "EDD",
+        "slug": "midnight-blue-metallic-edd",
+        "reference_url": "https://www.paintscratch.com/colors/smart/midnight-blue-metallic-edd/",
+        "source_label": "PaintScratch 2017 Smart",
+        "hex_value": "#243C6C"
+      },
+      {
+        "display_name": "Moon White Metallic",
+        "paint_code": "EDE",
+        "slug": "moon-white-metallic-ede",
+        "reference_url": "https://www.paintscratch.com/colors/smart/moon-white-metallic-ede/",
+        "source_label": "PaintScratch 2017 Smart",
+        "hex_value": "#FCFDFE"
+      },
+      {
+        "display_name": "Indian Yellow Tricoat",
+        "paint_code": "EDF",
+        "slug": "indian-yellow-tricoat-edf",
+        "reference_url": "https://www.paintscratch.com/colors/smart/indian-yellow-tricoat-edf/",
+        "source_label": "PaintScratch 2017 Smart",
+        "hex_value": "#EAD232"
+      }
+    ],
+    "2018": [
+      {
+        "display_name": "Dark Gray Metallic (matt)",
+        "paint_code": "EAI",
+        "slug": "dark-gray-metallic-matt-eai",
+        "reference_url": "https://www.paintscratch.com/colors/smart/dark-gray-metallic-matt-eai/",
+        "source_label": "PaintScratch 2018 Smart",
+        "hex_value": "#79745F"
+      },
+      {
+        "display_name": "Crystal White",
+        "paint_code": "EAZ",
+        "slug": "crystal-white-eaz",
+        "reference_url": "https://www.paintscratch.com/colors/smart/crystal-white-eaz/",
+        "source_label": "PaintScratch 2018 Smart",
+        "hex_value": "#FFFBFB"
+      },
+      {
+        "display_name": "Terra Brown Pearl",
+        "paint_code": "EBB",
+        "slug": "terra-brown-pearl-ebb",
+        "reference_url": "https://www.paintscratch.com/colors/smart/terra-brown-pearl-ebb/",
+        "source_label": "PaintScratch 2018 Smart",
+        "hex_value": "#B19049"
+      },
+      {
+        "display_name": "Deep Black",
+        "paint_code": "ECA",
+        "slug": "deep-black-eca",
+        "reference_url": "https://www.paintscratch.com/colors/smart/deep-black-eca/",
+        "source_label": "PaintScratch 2018 Smart",
+        "hex_value": "#070707"
+      },
+      {
+        "display_name": "Rally Red",
+        "paint_code": "ECF",
+        "slug": "rally-red-ecf",
+        "reference_url": "https://www.paintscratch.com/colors/smart/rally-red-ecf/",
+        "source_label": "PaintScratch 2018 Smart",
+        "hex_value": "#D33B1D"
+      },
+      {
+        "display_name": "Cool Silver Metallic",
+        "paint_code": "EDA",
+        "slug": "cool-silver-metallic-eda",
+        "reference_url": "https://www.paintscratch.com/colors/smart/cool-silver-metallic-eda/",
+        "source_label": "PaintScratch 2018 Smart",
+        "hex_value": "#F5FCEA"
+      },
+      {
+        "display_name": "Lava Orange Metallic",
+        "paint_code": "EDB",
+        "slug": "lava-orange-metallic-edb",
+        "reference_url": "https://www.paintscratch.com/colors/smart/lava-orange-metallic-edb/",
+        "source_label": "PaintScratch 2018 Smart",
+        "hex_value": "#C65720"
+      },
+      {
+        "display_name": "Midnight Blue Metallic",
+        "paint_code": "EDD",
+        "slug": "midnight-blue-metallic-edd",
+        "reference_url": "https://www.paintscratch.com/colors/smart/midnight-blue-metallic-edd/",
+        "source_label": "PaintScratch 2018 Smart",
+        "hex_value": "#243C6C"
+      },
+      {
+        "display_name": "Moon White Metallic",
+        "paint_code": "EDE",
+        "slug": "moon-white-metallic-ede",
+        "reference_url": "https://www.paintscratch.com/colors/smart/moon-white-metallic-ede/",
+        "source_label": "PaintScratch 2018 Smart",
+        "hex_value": "#FCFDFE"
+      },
+      {
+        "display_name": "Indian Yellow Tricoat",
+        "paint_code": "EDF",
+        "slug": "indian-yellow-tricoat-edf",
+        "reference_url": "https://www.paintscratch.com/colors/smart/indian-yellow-tricoat-edf/",
+        "source_label": "PaintScratch 2018 Smart",
+        "hex_value": "#EAD232"
+      }
+    ],
+    "2019": [
+      {
+        "display_name": "Midnight Blue Metallic",
+        "paint_code": "EDD/ECZ",
+        "slug": "midnight-blue-metallic-eddecz",
+        "reference_url": "https://www.paintscratch.com/colors/smart/midnight-blue-metallic-eddecz/",
+        "source_label": "PaintScratch 2019 Smart",
+        "hex_value": "#243C6C"
+      },
+      {
+        "display_name": "Dark Gray Metallic (matt)",
+        "paint_code": "EAI/EM1/CC8L",
+        "slug": "dark-gray-metallic-matt-eaiem1cc8l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/dark-gray-metallic-matt-eaiem1cc8l/",
+        "source_label": "PaintScratch 2019 Smart",
+        "hex_value": "#79745F"
+      },
+      {
+        "display_name": "Crystal White",
+        "paint_code": "EAZ/CA8L",
+        "slug": "crystal-white-eazca8l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/crystal-white-eazca8l/",
+        "source_label": "PaintScratch 2019 Smart",
+        "hex_value": "#FFFBFB"
+      },
+      {
+        "display_name": "Terra Brown Pearl",
+        "paint_code": "EBB/CNK",
+        "slug": "terra-brown-pearl-ebbcnk",
+        "reference_url": "https://www.paintscratch.com/colors/smart/terra-brown-pearl-ebbcnk/",
+        "source_label": "PaintScratch 2019 Smart",
+        "hex_value": "#B19049"
+      },
+      {
+        "display_name": "Deep Black",
+        "paint_code": "ECA/CA7L",
+        "slug": "deep-black-ecaca7l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/deep-black-ecaca7l/",
+        "source_label": "PaintScratch 2019 Smart",
+        "hex_value": "#070707"
+      },
+      {
+        "display_name": "Rally Red",
+        "paint_code": "ECF/CC0L",
+        "slug": "rally-red-ecfcc0l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/rally-red-ecfcc0l/",
+        "source_label": "PaintScratch 2019 Smart",
+        "hex_value": "#D33B1D"
+      },
+      {
+        "display_name": "Cool Silver Metallic",
+        "paint_code": "EDA/EN2/CF1L",
+        "slug": "cool-silver-metallic-edaen2cf1l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/cool-silver-metallic-edaen2cf1l/",
+        "source_label": "PaintScratch 2019 Smart",
+        "hex_value": "#F5FCEA"
+      },
+      {
+        "display_name": "Lava Orange Metallic",
+        "paint_code": "EDB/EPP/EN5",
+        "slug": "lava-orange-metallic-edbeppen5",
+        "reference_url": "https://www.paintscratch.com/colors/smart/lava-orange-metallic-edbeppen5/",
+        "source_label": "PaintScratch 2019 Smart",
+        "hex_value": "#C65720"
+      },
+      {
+        "display_name": "Moon White Metallic",
+        "paint_code": "EDE/ECM/CF5L",
+        "slug": "moon-white-metallic-edeecmcf5l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/moon-white-metallic-edeecmcf5l/",
+        "source_label": "PaintScratch 2019 Smart",
+        "hex_value": "#FCFDFE"
+      },
+      {
+        "display_name": "Indian Yellow Tricoat",
+        "paint_code": "EDF/EPQ",
+        "slug": "indian-yellow-tricoat-edfepq",
+        "reference_url": "https://www.paintscratch.com/colors/smart/indian-yellow-tricoat-edfepq/",
+        "source_label": "PaintScratch 2019 Smart",
+        "hex_value": "#EAD232"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "EN1/EB1/C46L/C47L",
+        "slug": "black-en1eb1c46lc47l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/black-en1eb1c46lc47l/",
+        "source_label": "PaintScratch 2019 Smart",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "White",
+        "paint_code": "EN3/EN6/CD4L/CD5L",
+        "slug": "white-en3en6cd4lcd5l",
+        "reference_url": "https://www.paintscratch.com/colors/smart/white-en3en6cd4lcd5l/",
+        "source_label": "PaintScratch 2019 Smart",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Electric Green Metallic",
+        "paint_code": "EN7",
+        "slug": "electric-green-metallic-en7",
+        "reference_url": "https://www.paintscratch.com/colors/smart/electric-green-metallic-en7/",
+        "source_label": "PaintScratch 2019 Smart",
+        "hex_value": "#39EC26"
+      },
+      {
+        "display_name": "Jupiter Red",
+        "paint_code": "EN8",
+        "slug": "jupiter-red-en8",
+        "reference_url": "https://www.paintscratch.com/colors/smart/jupiter-red-en8/",
+        "source_label": "PaintScratch 2019 Smart",
+        "hex_value": "#C00000"
+      }
+    ],
+    "2020": [
+      {
+        "display_name": "Gold Beige Metallic",
+        "paint_code": "1802",
+        "slug": "gold-beige-metallic-1802",
+        "reference_url": "https://www.paintscratch.com/colors/smart/gold-beige-metallic-1802/",
+        "source_label": "PaintScratch 2020 Smart",
+        "hex_value": "#F7F1BB"
+      },
+      {
+        "display_name": "Carmin Red Tricoat",
+        "paint_code": "3998",
+        "slug": "carmin-red-tricoat-3998",
+        "reference_url": "https://www.paintscratch.com/colors/smart/carmin-red-tricoat-3998/",
+        "source_label": "PaintScratch 2020 Smart",
+        "hex_value": "#D92F13"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "EN1",
+        "slug": "black-en1",
+        "reference_url": "https://www.paintscratch.com/colors/smart/black-en1/",
+        "source_label": "PaintScratch 2020 Smart",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "EN2",
+        "slug": "black-en2",
+        "reference_url": "https://www.paintscratch.com/colors/smart/black-en2/",
+        "source_label": "PaintScratch 2020 Smart",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "White",
+        "paint_code": "EN3",
+        "slug": "white-en3",
+        "reference_url": "https://www.paintscratch.com/colors/smart/white-en3/",
+        "source_label": "PaintScratch 2020 Smart",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Orange Pigment Metallic",
+        "paint_code": "EN5",
+        "slug": "orange-pigment-metallic-en5",
+        "reference_url": "https://www.paintscratch.com/colors/smart/orange-pigment-metallic-en5/",
+        "source_label": "PaintScratch 2020 Smart",
+        "hex_value": "#FFBC09"
+      },
+      {
+        "display_name": "Jupiter Red",
+        "paint_code": "EN8",
+        "slug": "jupiter-red-en8",
+        "reference_url": "https://www.paintscratch.com/colors/smart/jupiter-red-en8/",
+        "source_label": "PaintScratch 2020 Smart",
+        "hex_value": "#C00000"
+      },
+      {
+        "display_name": "Mountain Gray Metallic",
+        "paint_code": "EN9",
+        "slug": "mountain-gray-metallic-en9",
+        "reference_url": "https://www.paintscratch.com/colors/smart/mountain-gray-metallic-en9/",
+        "source_label": "PaintScratch 2020 Smart",
+        "hex_value": "#DEDCD8"
+      }
+    ],
+    "2021": [
+      {
+        "display_name": "Gold Beige Metallic",
+        "paint_code": "1802",
+        "slug": "gold-beige-metallic-1802",
+        "reference_url": "https://www.paintscratch.com/colors/smart/gold-beige-metallic-1802/",
+        "source_label": "PaintScratch 2021 Smart",
+        "hex_value": "#F7F1BB"
+      },
+      {
+        "display_name": "Carmin Red Tricoat",
+        "paint_code": "3998",
+        "slug": "carmin-red-tricoat-3998",
+        "reference_url": "https://www.paintscratch.com/colors/smart/carmin-red-tricoat-3998/",
+        "source_label": "PaintScratch 2021 Smart",
+        "hex_value": "#D92F13"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "EN1",
+        "slug": "black-en1",
+        "reference_url": "https://www.paintscratch.com/colors/smart/black-en1/",
+        "source_label": "PaintScratch 2021 Smart",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "EN2",
+        "slug": "black-en2",
+        "reference_url": "https://www.paintscratch.com/colors/smart/black-en2/",
+        "source_label": "PaintScratch 2021 Smart",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "White",
+        "paint_code": "EN3",
+        "slug": "white-en3",
+        "reference_url": "https://www.paintscratch.com/colors/smart/white-en3/",
+        "source_label": "PaintScratch 2021 Smart",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Orange Pigment Metallic",
+        "paint_code": "EN5",
+        "slug": "orange-pigment-metallic-en5",
+        "reference_url": "https://www.paintscratch.com/colors/smart/orange-pigment-metallic-en5/",
+        "source_label": "PaintScratch 2021 Smart",
+        "hex_value": "#FFBC09"
+      },
+      {
+        "display_name": "Jupiter Red",
+        "paint_code": "EN8",
+        "slug": "jupiter-red-en8",
+        "reference_url": "https://www.paintscratch.com/colors/smart/jupiter-red-en8/",
+        "source_label": "PaintScratch 2021 Smart",
+        "hex_value": "#C00000"
+      },
+      {
+        "display_name": "Mountain Gray Metallic",
+        "paint_code": "EN9",
+        "slug": "mountain-gray-metallic-en9",
+        "reference_url": "https://www.paintscratch.com/colors/smart/mountain-gray-metallic-en9/",
+        "source_label": "PaintScratch 2021 Smart",
+        "hex_value": "#DEDCD8"
+      }
+    ],
+    "2022": [
+      {
+        "display_name": "Gold Beige Metallic",
+        "paint_code": "1802",
+        "slug": "gold-beige-metallic-1802",
+        "reference_url": "https://www.paintscratch.com/colors/smart/gold-beige-metallic-1802/",
+        "source_label": "PaintScratch 2022 Smart",
+        "hex_value": "#F7F1BB"
+      },
+      {
+        "display_name": "Carmin Red Tricoat",
+        "paint_code": "3998",
+        "slug": "carmin-red-tricoat-3998",
+        "reference_url": "https://www.paintscratch.com/colors/smart/carmin-red-tricoat-3998/",
+        "source_label": "PaintScratch 2022 Smart",
+        "hex_value": "#D92F13"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "EN1",
+        "slug": "black-en1",
+        "reference_url": "https://www.paintscratch.com/colors/smart/black-en1/",
+        "source_label": "PaintScratch 2022 Smart",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "EN2",
+        "slug": "black-en2",
+        "reference_url": "https://www.paintscratch.com/colors/smart/black-en2/",
+        "source_label": "PaintScratch 2022 Smart",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "White",
+        "paint_code": "EN3",
+        "slug": "white-en3",
+        "reference_url": "https://www.paintscratch.com/colors/smart/white-en3/",
+        "source_label": "PaintScratch 2022 Smart",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Orange Pigment Metallic",
+        "paint_code": "EN5",
+        "slug": "orange-pigment-metallic-en5",
+        "reference_url": "https://www.paintscratch.com/colors/smart/orange-pigment-metallic-en5/",
+        "source_label": "PaintScratch 2022 Smart",
+        "hex_value": "#FFBC09"
+      },
+      {
+        "display_name": "Jupiter Red",
+        "paint_code": "EN8",
+        "slug": "jupiter-red-en8",
+        "reference_url": "https://www.paintscratch.com/colors/smart/jupiter-red-en8/",
+        "source_label": "PaintScratch 2022 Smart",
+        "hex_value": "#C00000"
+      },
+      {
+        "display_name": "Mountain Gray Metallic",
+        "paint_code": "EN9",
+        "slug": "mountain-gray-metallic-en9",
+        "reference_url": "https://www.paintscratch.com/colors/smart/mountain-gray-metallic-en9/",
+        "source_label": "PaintScratch 2022 Smart",
+        "hex_value": "#DEDCD8"
+      }
+    ],
+    "2023": [
+      {
+        "display_name": "Gold Beige Metallic",
+        "paint_code": "1802",
+        "slug": "gold-beige-metallic-1802",
+        "reference_url": "https://www.paintscratch.com/colors/smart/gold-beige-metallic-1802/",
+        "source_label": "PaintScratch 2023 Smart",
+        "hex_value": "#F7F1BB"
+      },
+      {
+        "display_name": "Carmin Red Tricoat",
+        "paint_code": "3998",
+        "slug": "carmin-red-tricoat-3998",
+        "reference_url": "https://www.paintscratch.com/colors/smart/carmin-red-tricoat-3998/",
+        "source_label": "PaintScratch 2023 Smart",
+        "hex_value": "#D92F13"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "EN1",
+        "slug": "black-en1",
+        "reference_url": "https://www.paintscratch.com/colors/smart/black-en1/",
+        "source_label": "PaintScratch 2023 Smart",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "EN2",
+        "slug": "black-en2",
+        "reference_url": "https://www.paintscratch.com/colors/smart/black-en2/",
+        "source_label": "PaintScratch 2023 Smart",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "White",
+        "paint_code": "EN3",
+        "slug": "white-en3",
+        "reference_url": "https://www.paintscratch.com/colors/smart/white-en3/",
+        "source_label": "PaintScratch 2023 Smart",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Orange Pigment Metallic",
+        "paint_code": "EN5",
+        "slug": "orange-pigment-metallic-en5",
+        "reference_url": "https://www.paintscratch.com/colors/smart/orange-pigment-metallic-en5/",
+        "source_label": "PaintScratch 2023 Smart",
+        "hex_value": "#FFBC09"
+      },
+      {
+        "display_name": "Jupiter Red",
+        "paint_code": "EN8",
+        "slug": "jupiter-red-en8",
+        "reference_url": "https://www.paintscratch.com/colors/smart/jupiter-red-en8/",
+        "source_label": "PaintScratch 2023 Smart",
+        "hex_value": "#C00000"
+      },
+      {
+        "display_name": "Mountain Gray Metallic",
+        "paint_code": "EN9",
+        "slug": "mountain-gray-metallic-en9",
+        "reference_url": "https://www.paintscratch.com/colors/smart/mountain-gray-metallic-en9/",
+        "source_label": "PaintScratch 2023 Smart",
+        "hex_value": "#DEDCD8"
+      }
+    ],
+    "2024": [
+      {
+        "display_name": "Gold Beige Metallic",
+        "paint_code": "1802",
+        "slug": "gold-beige-metallic-1802",
+        "reference_url": "https://www.paintscratch.com/colors/smart/gold-beige-metallic-1802/",
+        "source_label": "PaintScratch 2024 Smart",
+        "hex_value": "#F7F1BB"
+      },
+      {
+        "display_name": "Carmin Red Tricoat",
+        "paint_code": "3998",
+        "slug": "carmin-red-tricoat-3998",
+        "reference_url": "https://www.paintscratch.com/colors/smart/carmin-red-tricoat-3998/",
+        "source_label": "PaintScratch 2024 Smart",
+        "hex_value": "#D92F13"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "EN1",
+        "slug": "black-en1",
+        "reference_url": "https://www.paintscratch.com/colors/smart/black-en1/",
+        "source_label": "PaintScratch 2024 Smart",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "EN2",
+        "slug": "black-en2",
+        "reference_url": "https://www.paintscratch.com/colors/smart/black-en2/",
+        "source_label": "PaintScratch 2024 Smart",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "White",
+        "paint_code": "EN3",
+        "slug": "white-en3",
+        "reference_url": "https://www.paintscratch.com/colors/smart/white-en3/",
+        "source_label": "PaintScratch 2024 Smart",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Orange Pigment Metallic",
+        "paint_code": "EN5",
+        "slug": "orange-pigment-metallic-en5",
+        "reference_url": "https://www.paintscratch.com/colors/smart/orange-pigment-metallic-en5/",
+        "source_label": "PaintScratch 2024 Smart",
+        "hex_value": "#FFBC09"
+      },
+      {
+        "display_name": "Jupiter Red",
+        "paint_code": "EN8",
+        "slug": "jupiter-red-en8",
+        "reference_url": "https://www.paintscratch.com/colors/smart/jupiter-red-en8/",
+        "source_label": "PaintScratch 2024 Smart",
+        "hex_value": "#C00000"
+      },
+      {
+        "display_name": "Mountain Gray Metallic",
+        "paint_code": "EN9",
+        "slug": "mountain-gray-metallic-en9",
+        "reference_url": "https://www.paintscratch.com/colors/smart/mountain-gray-metallic-en9/",
+        "source_label": "PaintScratch 2024 Smart",
+        "hex_value": "#DEDCD8"
+      }
+    ],
+    "2025": [
+      {
+        "display_name": "Gold Beige Metallic",
+        "paint_code": "1802",
+        "slug": "gold-beige-metallic-1802",
+        "reference_url": "https://www.paintscratch.com/colors/smart/gold-beige-metallic-1802/",
+        "source_label": "PaintScratch 2025 Smart",
+        "hex_value": "#F7F1BB"
+      },
+      {
+        "display_name": "Carmin Red Tricoat",
+        "paint_code": "3998",
+        "slug": "carmin-red-tricoat-3998",
+        "reference_url": "https://www.paintscratch.com/colors/smart/carmin-red-tricoat-3998/",
+        "source_label": "PaintScratch 2025 Smart",
+        "hex_value": "#D92F13"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "EN1",
+        "slug": "black-en1",
+        "reference_url": "https://www.paintscratch.com/colors/smart/black-en1/",
+        "source_label": "PaintScratch 2025 Smart",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "EN2",
+        "slug": "black-en2",
+        "reference_url": "https://www.paintscratch.com/colors/smart/black-en2/",
+        "source_label": "PaintScratch 2025 Smart",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "White",
+        "paint_code": "EN3",
+        "slug": "white-en3",
+        "reference_url": "https://www.paintscratch.com/colors/smart/white-en3/",
+        "source_label": "PaintScratch 2025 Smart",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Orange Pigment Metallic",
+        "paint_code": "EN5",
+        "slug": "orange-pigment-metallic-en5",
+        "reference_url": "https://www.paintscratch.com/colors/smart/orange-pigment-metallic-en5/",
+        "source_label": "PaintScratch 2025 Smart",
+        "hex_value": "#FFBC09"
+      },
+      {
+        "display_name": "Jupiter Red",
+        "paint_code": "EN8",
+        "slug": "jupiter-red-en8",
+        "reference_url": "https://www.paintscratch.com/colors/smart/jupiter-red-en8/",
+        "source_label": "PaintScratch 2025 Smart",
+        "hex_value": "#C00000"
+      },
+      {
+        "display_name": "Mountain Gray Metallic",
+        "paint_code": "EN9",
+        "slug": "mountain-gray-metallic-en9",
+        "reference_url": "https://www.paintscratch.com/colors/smart/mountain-gray-metallic-en9/",
+        "source_label": "PaintScratch 2025 Smart",
+        "hex_value": "#DEDCD8"
+      }
+    ],
+    "2026": [
+      {
+        "display_name": "Matte jet black",
+        "paint_code": "B20",
+        "slug": "matte-jet-black-b20",
+        "reference_url": "https://www.paintscratch.com/colors/smart/matte-jet-black-b20/",
+        "source_label": "PaintScratch 2026 Smart",
+        "hex_value": "#0B0D10"
+      },
+      {
+        "display_name": "Cangyan grey",
+        "paint_code": "C63",
+        "slug": "cangyan-grey-c63",
+        "reference_url": "https://www.paintscratch.com/colors/smart/cangyan-grey-c63/",
+        "source_label": "PaintScratch 2026 Smart",
+        "hex_value": "#3D3F3F"
+      },
+      {
+        "display_name": "Navy blue",
+        "paint_code": "G03",
+        "slug": "navy-blue-g03",
+        "reference_url": "https://www.paintscratch.com/colors/smart/navy-blue-g03/",
+        "source_label": "PaintScratch 2026 Smart",
+        "hex_value": "#0B0E13"
+      },
+      {
+        "display_name": "Terra Green Matte",
+        "paint_code": "I48",
+        "slug": "terra-green-matte-i48",
+        "reference_url": "https://www.paintscratch.com/colors/smart/terra-green-matte-i48/",
+        "source_label": "PaintScratch 2026 Smart",
+        "hex_value": "#46413A"
+      }
+    ],
+    "2027": [
+      {
+        "display_name": "Matte jet black",
+        "paint_code": "B20",
+        "slug": "matte-jet-black-b20",
+        "reference_url": "https://www.paintscratch.com/colors/smart/matte-jet-black-b20/",
+        "source_label": "PaintScratch 2027 Smart",
+        "hex_value": "#0B0D10"
+      },
+      {
+        "display_name": "Cangyan grey",
+        "paint_code": "C63",
+        "slug": "cangyan-grey-c63",
+        "reference_url": "https://www.paintscratch.com/colors/smart/cangyan-grey-c63/",
+        "source_label": "PaintScratch 2027 Smart",
+        "hex_value": "#3D3F3F"
+      },
+      {
+        "display_name": "Navy blue",
+        "paint_code": "G03",
+        "slug": "navy-blue-g03",
+        "reference_url": "https://www.paintscratch.com/colors/smart/navy-blue-g03/",
+        "source_label": "PaintScratch 2027 Smart",
+        "hex_value": "#0B0E13"
+      },
+      {
+        "display_name": "Terra Green Matte",
+        "paint_code": "I48",
+        "slug": "terra-green-matte-i48",
+        "reference_url": "https://www.paintscratch.com/colors/smart/terra-green-matte-i48/",
+        "source_label": "PaintScratch 2027 Smart",
+        "hex_value": "#46413A"
+      }
+    ]
+  }
+}

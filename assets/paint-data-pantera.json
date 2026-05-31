@@ -1,0 +1,132 @@
+{
+  "All Models": {
+    "1971": [
+      {
+        "display_name": "Yellow",
+        "paint_code": "38807",
+        "slug": "yellow-38807",
+        "reference_url": "https://www.paintscratch.com/colors/pantera/yellow-38807/",
+        "source_label": "PaintScratch 1971 Pantera",
+        "hex_value": "#FFDE01"
+      },
+      {
+        "display_name": "Red",
+        "paint_code": "V108",
+        "slug": "red-v108",
+        "reference_url": "https://www.paintscratch.com/colors/pantera/red-v108/",
+        "source_label": "PaintScratch 1971 Pantera",
+        "hex_value": "#A40A0A"
+      },
+      {
+        "display_name": "Yellow",
+        "paint_code": "V502",
+        "slug": "yellow-v502",
+        "reference_url": "https://www.paintscratch.com/colors/pantera/yellow-v502/",
+        "source_label": "PaintScratch 1971 Pantera",
+        "hex_value": "#E5FB4D"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "V613",
+        "slug": "silver-metallic-v613",
+        "reference_url": "https://www.paintscratch.com/colors/pantera/silver-metallic-v613/",
+        "source_label": "PaintScratch 1971 Pantera",
+        "hex_value": "#CECACA"
+      }
+    ],
+    "1972": [
+      {
+        "display_name": "Yellow",
+        "paint_code": "38807",
+        "slug": "yellow-38807",
+        "reference_url": "https://www.paintscratch.com/colors/pantera/yellow-38807/",
+        "source_label": "PaintScratch 1972 Pantera",
+        "hex_value": "#FFDE01"
+      },
+      {
+        "display_name": "Red",
+        "paint_code": "V108",
+        "slug": "red-v108",
+        "reference_url": "https://www.paintscratch.com/colors/pantera/red-v108/",
+        "source_label": "PaintScratch 1972 Pantera",
+        "hex_value": "#A40A0A"
+      },
+      {
+        "display_name": "Yellow",
+        "paint_code": "V502",
+        "slug": "yellow-v502",
+        "reference_url": "https://www.paintscratch.com/colors/pantera/yellow-v502/",
+        "source_label": "PaintScratch 1972 Pantera",
+        "hex_value": "#E5FB4D"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "V613",
+        "slug": "silver-metallic-v613",
+        "reference_url": "https://www.paintscratch.com/colors/pantera/silver-metallic-v613/",
+        "source_label": "PaintScratch 1972 Pantera",
+        "hex_value": "#CECACA"
+      }
+    ],
+    "1973": [
+      {
+        "display_name": "Yellow",
+        "paint_code": "38807",
+        "slug": "yellow-38807",
+        "reference_url": "https://www.paintscratch.com/colors/pantera/yellow-38807/",
+        "source_label": "PaintScratch 1973 Pantera",
+        "hex_value": "#FFDE01"
+      },
+      {
+        "display_name": "Red",
+        "paint_code": "V108",
+        "slug": "red-v108",
+        "reference_url": "https://www.paintscratch.com/colors/pantera/red-v108/",
+        "source_label": "PaintScratch 1973 Pantera",
+        "hex_value": "#A40A0A"
+      },
+      {
+        "display_name": "Yellow",
+        "paint_code": "V502",
+        "slug": "yellow-v502",
+        "reference_url": "https://www.paintscratch.com/colors/pantera/yellow-v502/",
+        "source_label": "PaintScratch 1973 Pantera",
+        "hex_value": "#E5FB4D"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "V613",
+        "slug": "silver-metallic-v613",
+        "reference_url": "https://www.paintscratch.com/colors/pantera/silver-metallic-v613/",
+        "source_label": "PaintScratch 1973 Pantera",
+        "hex_value": "#CECACA"
+      }
+    ],
+    "1974": [
+      {
+        "display_name": "Yellow",
+        "paint_code": "38807",
+        "slug": "yellow-38807",
+        "reference_url": "https://www.paintscratch.com/colors/pantera/yellow-38807/",
+        "source_label": "PaintScratch 1974 Pantera",
+        "hex_value": "#FFDE01"
+      },
+      {
+        "display_name": "Red",
+        "paint_code": "V108",
+        "slug": "red-v108",
+        "reference_url": "https://www.paintscratch.com/colors/pantera/red-v108/",
+        "source_label": "PaintScratch 1974 Pantera",
+        "hex_value": "#A40A0A"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "V613",
+        "slug": "silver-metallic-v613",
+        "reference_url": "https://www.paintscratch.com/colors/pantera/silver-metallic-v613/",
+        "source_label": "PaintScratch 1974 Pantera",
+        "hex_value": "#CECACA"
+      }
+    ]
+  }
+}

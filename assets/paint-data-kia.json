@@ -1,0 +1,4176 @@
+{
+  "All Models": {
+    "1994": [
+      {
+        "display_name": "Ebony Black",
+        "paint_code": "EB",
+        "slug": "ebony-black-eb",
+        "reference_url": "https://www.paintscratch.com/colors/kia/ebony-black-eb/",
+        "source_label": "PaintScratch 1994 Kia",
+        "hex_value": "#0E1407"
+      },
+      {
+        "display_name": "Whisper Green Pearl",
+        "paint_code": "5L",
+        "slug": "whisper-green-pearl-5l",
+        "reference_url": "https://www.paintscratch.com/colors/kia/whisper-green-pearl-5l/",
+        "source_label": "PaintScratch 1994 Kia",
+        "hex_value": "#083608"
+      },
+      {
+        "display_name": "Brave Blue Pearl",
+        "paint_code": "B4",
+        "slug": "brave-blue-pearl-b4",
+        "reference_url": "https://www.paintscratch.com/colors/kia/brave-blue-pearl-b4/",
+        "source_label": "PaintScratch 1994 Kia",
+        "hex_value": "#000040"
+      },
+      {
+        "display_name": "Jean Blue Metallic",
+        "paint_code": "B9",
+        "slug": "jean-blue-metallic-b9",
+        "reference_url": "https://www.paintscratch.com/colors/kia/jean-blue-metallic-b9/",
+        "source_label": "PaintScratch 1994 Kia",
+        "hex_value": "#7879A4"
+      },
+      {
+        "display_name": "Beet Silver Metallic",
+        "paint_code": "C2",
+        "slug": "beet-silver-metallic-c2",
+        "reference_url": "https://www.paintscratch.com/colors/kia/beet-silver-metallic-c2/",
+        "source_label": "PaintScratch 1994 Kia",
+        "hex_value": "#96A3AC"
+      },
+      {
+        "display_name": "Elegant Beige Metallic",
+        "paint_code": "D1",
+        "slug": "elegant-beige-metallic-d1",
+        "reference_url": "https://www.paintscratch.com/colors/kia/elegant-beige-metallic-d1/",
+        "source_label": "PaintScratch 1994 Kia",
+        "hex_value": "#9F9179"
+      },
+      {
+        "display_name": "Turquoise Blue Metallic",
+        "paint_code": "L2",
+        "slug": "turquoise-blue-metallic-l2",
+        "reference_url": "https://www.paintscratch.com/colors/kia/turquoise-blue-metallic-l2/",
+        "source_label": "PaintScratch 1994 Kia",
+        "hex_value": "#07707F"
+      },
+      {
+        "display_name": "Hot Red Pearl",
+        "paint_code": "R7",
+        "slug": "hot-red-pearl-r7",
+        "reference_url": "https://www.paintscratch.com/colors/kia/hot-red-pearl-r7/",
+        "source_label": "PaintScratch 1994 Kia",
+        "hex_value": "#800000"
+      },
+      {
+        "display_name": "Blaze Red",
+        "paint_code": "SQ",
+        "slug": "blaze-red-sq",
+        "reference_url": "https://www.paintscratch.com/colors/kia/blaze-red-sq/",
+        "source_label": "PaintScratch 1994 Kia",
+        "hex_value": "#DE0000"
+      },
+      {
+        "display_name": "Crystal White",
+        "paint_code": "UC",
+        "slug": "crystal-white-uc",
+        "reference_url": "https://www.paintscratch.com/colors/kia/crystal-white-uc/",
+        "source_label": "PaintScratch 1994 Kia",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Dove Gray Pearl Metallic",
+        "paint_code": "V2",
+        "slug": "dove-gray-pearl-metallic-v2",
+        "reference_url": "https://www.paintscratch.com/colors/kia/dove-gray-pearl-metallic-v2/",
+        "source_label": "PaintScratch 1994 Kia",
+        "hex_value": "#929398"
+      }
+    ],
+    "1995": [
+      {
+        "display_name": "Ebony Black",
+        "paint_code": "EB",
+        "slug": "ebony-black-eb",
+        "reference_url": "https://www.paintscratch.com/colors/kia/ebony-black-eb/",
+        "source_label": "PaintScratch 1995 Kia",
+        "hex_value": "#0E1407"
+      },
+      {
+        "display_name": "Gray",
+        "paint_code": "1A",
+        "slug": "gray-1a",
+        "reference_url": "https://www.paintscratch.com/colors/kia/gray-1a/",
+        "source_label": "PaintScratch 1995 Kia",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Red Pearl",
+        "paint_code": "1B",
+        "slug": "red-pearl-1b",
+        "reference_url": "https://www.paintscratch.com/colors/kia/red-pearl-1b/",
+        "source_label": "PaintScratch 1995 Kia",
+        "hex_value": "#8F0F0F"
+      },
+      {
+        "display_name": "Navy Blue Pearl",
+        "paint_code": "2A",
+        "slug": "navy-blue-pearl-2a",
+        "reference_url": "https://www.paintscratch.com/colors/kia/navy-blue-pearl-2a/",
+        "source_label": "PaintScratch 1995 Kia",
+        "hex_value": "#040652"
+      },
+      {
+        "display_name": "Olive Green Pearl",
+        "paint_code": "5C",
+        "slug": "olive-green-pearl-5c",
+        "reference_url": "https://www.paintscratch.com/colors/kia/olive-green-pearl-5c/",
+        "source_label": "PaintScratch 1995 Kia",
+        "hex_value": "#044404"
+      },
+      {
+        "display_name": "Brave Blue Pearl",
+        "paint_code": "B4",
+        "slug": "brave-blue-pearl-b4",
+        "reference_url": "https://www.paintscratch.com/colors/kia/brave-blue-pearl-b4/",
+        "source_label": "PaintScratch 1995 Kia",
+        "hex_value": "#000040"
+      },
+      {
+        "display_name": "Beet Silver Metallic",
+        "paint_code": "C2",
+        "slug": "beet-silver-metallic-c2",
+        "reference_url": "https://www.paintscratch.com/colors/kia/beet-silver-metallic-c2/",
+        "source_label": "PaintScratch 1995 Kia",
+        "hex_value": "#96A3AC"
+      },
+      {
+        "display_name": "Elegant Beige Metallic",
+        "paint_code": "D1",
+        "slug": "elegant-beige-metallic-d1",
+        "reference_url": "https://www.paintscratch.com/colors/kia/elegant-beige-metallic-d1/",
+        "source_label": "PaintScratch 1995 Kia",
+        "hex_value": "#9F9179"
+      },
+      {
+        "display_name": "Iris Metallic",
+        "paint_code": "E4",
+        "slug": "iris-metallic-e4",
+        "reference_url": "https://www.paintscratch.com/colors/kia/iris-metallic-e4/",
+        "source_label": "PaintScratch 1995 Kia",
+        "hex_value": "#BA0C3D"
+      },
+      {
+        "display_name": "Turquoise Blue Metallic",
+        "paint_code": "L2",
+        "slug": "turquoise-blue-metallic-l2",
+        "reference_url": "https://www.paintscratch.com/colors/kia/turquoise-blue-metallic-l2/",
+        "source_label": "PaintScratch 1995 Kia",
+        "hex_value": "#07707F"
+      },
+      {
+        "display_name": "Blaze Red",
+        "paint_code": "SQ",
+        "slug": "blaze-red-sq",
+        "reference_url": "https://www.paintscratch.com/colors/kia/blaze-red-sq/",
+        "source_label": "PaintScratch 1995 Kia",
+        "hex_value": "#DE0000"
+      },
+      {
+        "display_name": "Pop Yellow",
+        "paint_code": "TN",
+        "slug": "pop-yellow-tn",
+        "reference_url": "https://www.paintscratch.com/colors/kia/pop-yellow-tn/",
+        "source_label": "PaintScratch 1995 Kia",
+        "hex_value": "#FFC21D"
+      },
+      {
+        "display_name": "Crystal White",
+        "paint_code": "UC",
+        "slug": "crystal-white-uc",
+        "reference_url": "https://www.paintscratch.com/colors/kia/crystal-white-uc/",
+        "source_label": "PaintScratch 1995 Kia",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Cobalt Blue Pearl",
+        "paint_code": "Z7",
+        "slug": "cobalt-blue-pearl-z7",
+        "reference_url": "https://www.paintscratch.com/colors/kia/cobalt-blue-pearl-z7/",
+        "source_label": "PaintScratch 1995 Kia",
+        "hex_value": "#5F6EA5"
+      }
+    ],
+    "1996": [
+      {
+        "display_name": "Ebony Black",
+        "paint_code": "EB",
+        "slug": "ebony-black-eb",
+        "reference_url": "https://www.paintscratch.com/colors/kia/ebony-black-eb/",
+        "source_label": "PaintScratch 1996 Kia",
+        "hex_value": "#0E1407"
+      },
+      {
+        "display_name": "Red Pearl",
+        "paint_code": "1B",
+        "slug": "red-pearl-1b",
+        "reference_url": "https://www.paintscratch.com/colors/kia/red-pearl-1b/",
+        "source_label": "PaintScratch 1996 Kia",
+        "hex_value": "#8F0F0F"
+      },
+      {
+        "display_name": "Navy Blue Pearl",
+        "paint_code": "2A",
+        "slug": "navy-blue-pearl-2a",
+        "reference_url": "https://www.paintscratch.com/colors/kia/navy-blue-pearl-2a/",
+        "source_label": "PaintScratch 1996 Kia",
+        "hex_value": "#040652"
+      },
+      {
+        "display_name": "Olive Green Pearl",
+        "paint_code": "5C",
+        "slug": "olive-green-pearl-5c",
+        "reference_url": "https://www.paintscratch.com/colors/kia/olive-green-pearl-5c/",
+        "source_label": "PaintScratch 1996 Kia",
+        "hex_value": "#044404"
+      },
+      {
+        "display_name": "Whisper Green Pearl",
+        "paint_code": "5L",
+        "slug": "whisper-green-pearl-5l",
+        "reference_url": "https://www.paintscratch.com/colors/kia/whisper-green-pearl-5l/",
+        "source_label": "PaintScratch 1996 Kia",
+        "hex_value": "#083608"
+      },
+      {
+        "display_name": "Brave Blue Pearl",
+        "paint_code": "B4",
+        "slug": "brave-blue-pearl-b4",
+        "reference_url": "https://www.paintscratch.com/colors/kia/brave-blue-pearl-b4/",
+        "source_label": "PaintScratch 1996 Kia",
+        "hex_value": "#000040"
+      },
+      {
+        "display_name": "Beet Silver Metallic",
+        "paint_code": "C2",
+        "slug": "beet-silver-metallic-c2",
+        "reference_url": "https://www.paintscratch.com/colors/kia/beet-silver-metallic-c2/",
+        "source_label": "PaintScratch 1996 Kia",
+        "hex_value": "#96A3AC"
+      },
+      {
+        "display_name": "Elegant Beige Metallic",
+        "paint_code": "D1",
+        "slug": "elegant-beige-metallic-d1",
+        "reference_url": "https://www.paintscratch.com/colors/kia/elegant-beige-metallic-d1/",
+        "source_label": "PaintScratch 1996 Kia",
+        "hex_value": "#9F9179"
+      },
+      {
+        "display_name": "Iris Metallic",
+        "paint_code": "E4",
+        "slug": "iris-metallic-e4",
+        "reference_url": "https://www.paintscratch.com/colors/kia/iris-metallic-e4/",
+        "source_label": "PaintScratch 1996 Kia",
+        "hex_value": "#BA0C3D"
+      },
+      {
+        "display_name": "Turquoise Blue Metallic",
+        "paint_code": "L2",
+        "slug": "turquoise-blue-metallic-l2",
+        "reference_url": "https://www.paintscratch.com/colors/kia/turquoise-blue-metallic-l2/",
+        "source_label": "PaintScratch 1996 Kia",
+        "hex_value": "#07707F"
+      },
+      {
+        "display_name": "Blaze Red",
+        "paint_code": "SQ",
+        "slug": "blaze-red-sq",
+        "reference_url": "https://www.paintscratch.com/colors/kia/blaze-red-sq/",
+        "source_label": "PaintScratch 1996 Kia",
+        "hex_value": "#DE0000"
+      },
+      {
+        "display_name": "Pop Yellow",
+        "paint_code": "TN",
+        "slug": "pop-yellow-tn",
+        "reference_url": "https://www.paintscratch.com/colors/kia/pop-yellow-tn/",
+        "source_label": "PaintScratch 1996 Kia",
+        "hex_value": "#FFC21D"
+      },
+      {
+        "display_name": "Crystal White",
+        "paint_code": "UC",
+        "slug": "crystal-white-uc",
+        "reference_url": "https://www.paintscratch.com/colors/kia/crystal-white-uc/",
+        "source_label": "PaintScratch 1996 Kia",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Cobalt Blue Pearl",
+        "paint_code": "Z7",
+        "slug": "cobalt-blue-pearl-z7",
+        "reference_url": "https://www.paintscratch.com/colors/kia/cobalt-blue-pearl-z7/",
+        "source_label": "PaintScratch 1996 Kia",
+        "hex_value": "#5F6EA5"
+      }
+    ],
+    "1997": [
+      {
+        "display_name": "Ebony Black",
+        "paint_code": "EB",
+        "slug": "ebony-black-eb",
+        "reference_url": "https://www.paintscratch.com/colors/kia/ebony-black-eb/",
+        "source_label": "PaintScratch 1997 Kia",
+        "hex_value": "#0E1407"
+      },
+      {
+        "display_name": "Red Pearl",
+        "paint_code": "1B",
+        "slug": "red-pearl-1b",
+        "reference_url": "https://www.paintscratch.com/colors/kia/red-pearl-1b/",
+        "source_label": "PaintScratch 1997 Kia",
+        "hex_value": "#8F0F0F"
+      },
+      {
+        "display_name": "Navy Blue Pearl",
+        "paint_code": "2A",
+        "slug": "navy-blue-pearl-2a",
+        "reference_url": "https://www.paintscratch.com/colors/kia/navy-blue-pearl-2a/",
+        "source_label": "PaintScratch 1997 Kia",
+        "hex_value": "#040652"
+      },
+      {
+        "display_name": "Olive Green Pearl",
+        "paint_code": "5C",
+        "slug": "olive-green-pearl-5c",
+        "reference_url": "https://www.paintscratch.com/colors/kia/olive-green-pearl-5c/",
+        "source_label": "PaintScratch 1997 Kia",
+        "hex_value": "#044404"
+      },
+      {
+        "display_name": "Whisper Green Pearl",
+        "paint_code": "5L",
+        "slug": "whisper-green-pearl-5l",
+        "reference_url": "https://www.paintscratch.com/colors/kia/whisper-green-pearl-5l/",
+        "source_label": "PaintScratch 1997 Kia",
+        "hex_value": "#083608"
+      },
+      {
+        "display_name": "Brave Blue Pearl",
+        "paint_code": "B4",
+        "slug": "brave-blue-pearl-b4",
+        "reference_url": "https://www.paintscratch.com/colors/kia/brave-blue-pearl-b4/",
+        "source_label": "PaintScratch 1997 Kia",
+        "hex_value": "#000040"
+      },
+      {
+        "display_name": "Beet Silver Metallic",
+        "paint_code": "C2",
+        "slug": "beet-silver-metallic-c2",
+        "reference_url": "https://www.paintscratch.com/colors/kia/beet-silver-metallic-c2/",
+        "source_label": "PaintScratch 1997 Kia",
+        "hex_value": "#96A3AC"
+      },
+      {
+        "display_name": "Elegant Beige Metallic",
+        "paint_code": "D1",
+        "slug": "elegant-beige-metallic-d1",
+        "reference_url": "https://www.paintscratch.com/colors/kia/elegant-beige-metallic-d1/",
+        "source_label": "PaintScratch 1997 Kia",
+        "hex_value": "#9F9179"
+      },
+      {
+        "display_name": "Iris Metallic",
+        "paint_code": "E4",
+        "slug": "iris-metallic-e4",
+        "reference_url": "https://www.paintscratch.com/colors/kia/iris-metallic-e4/",
+        "source_label": "PaintScratch 1997 Kia",
+        "hex_value": "#BA0C3D"
+      },
+      {
+        "display_name": "Turquoise Blue Metallic",
+        "paint_code": "L2",
+        "slug": "turquoise-blue-metallic-l2",
+        "reference_url": "https://www.paintscratch.com/colors/kia/turquoise-blue-metallic-l2/",
+        "source_label": "PaintScratch 1997 Kia",
+        "hex_value": "#07707F"
+      },
+      {
+        "display_name": "Blaze Red",
+        "paint_code": "SQ",
+        "slug": "blaze-red-sq",
+        "reference_url": "https://www.paintscratch.com/colors/kia/blaze-red-sq/",
+        "source_label": "PaintScratch 1997 Kia",
+        "hex_value": "#DE0000"
+      },
+      {
+        "display_name": "Pop Yellow",
+        "paint_code": "TN",
+        "slug": "pop-yellow-tn",
+        "reference_url": "https://www.paintscratch.com/colors/kia/pop-yellow-tn/",
+        "source_label": "PaintScratch 1997 Kia",
+        "hex_value": "#FFC21D"
+      },
+      {
+        "display_name": "Crystal White",
+        "paint_code": "UC",
+        "slug": "crystal-white-uc",
+        "reference_url": "https://www.paintscratch.com/colors/kia/crystal-white-uc/",
+        "source_label": "PaintScratch 1997 Kia",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Cobalt Blue Pearl",
+        "paint_code": "Z7",
+        "slug": "cobalt-blue-pearl-z7",
+        "reference_url": "https://www.paintscratch.com/colors/kia/cobalt-blue-pearl-z7/",
+        "source_label": "PaintScratch 1997 Kia",
+        "hex_value": "#5F6EA5"
+      }
+    ],
+    "1998": [
+      {
+        "display_name": "Ebony Black",
+        "paint_code": "EB",
+        "slug": "ebony-black-eb",
+        "reference_url": "https://www.paintscratch.com/colors/kia/ebony-black-eb/",
+        "source_label": "PaintScratch 1998 Kia",
+        "hex_value": "#0E1407"
+      },
+      {
+        "display_name": "Garnet Red Pearl",
+        "paint_code": "4R",
+        "slug": "garnet-red-pearl-4r",
+        "reference_url": "https://www.paintscratch.com/colors/kia/garnet-red-pearl-4r/",
+        "source_label": "PaintScratch 1998 Kia",
+        "hex_value": "#951F13"
+      },
+      {
+        "display_name": "Evergreen Metallic",
+        "paint_code": "5E",
+        "slug": "evergreen-metallic-5e",
+        "reference_url": "https://www.paintscratch.com/colors/kia/evergreen-metallic-5e/",
+        "source_label": "PaintScratch 1998 Kia",
+        "hex_value": "#196564"
+      },
+      {
+        "display_name": "Mica Blue Metallic",
+        "paint_code": "B3",
+        "slug": "mica-blue-metallic-b3",
+        "reference_url": "https://www.paintscratch.com/colors/kia/mica-blue-metallic-b3/",
+        "source_label": "PaintScratch 1998 Kia",
+        "hex_value": "#133A9B"
+      },
+      {
+        "display_name": "Wheat Silver Metallic",
+        "paint_code": "C3",
+        "slug": "wheat-silver-metallic-c3",
+        "reference_url": "https://www.paintscratch.com/colors/kia/wheat-silver-metallic-c3/",
+        "source_label": "PaintScratch 1998 Kia",
+        "hex_value": "#D8D5C0"
+      },
+      {
+        "display_name": "Clear White",
+        "paint_code": "UD",
+        "slug": "clear-white-ud",
+        "reference_url": "https://www.paintscratch.com/colors/kia/clear-white-ud/",
+        "source_label": "PaintScratch 1998 Kia",
+        "hex_value": "#F8FDF6"
+      },
+      {
+        "display_name": "Aurora Grey Metallic",
+        "paint_code": "V6",
+        "slug": "aurora-grey-metallic-v6",
+        "reference_url": "https://www.paintscratch.com/colors/kia/aurora-grey-metallic-v6/",
+        "source_label": "PaintScratch 1998 Kia",
+        "hex_value": "#726474"
+      },
+      {
+        "display_name": "Classic Red",
+        "paint_code": "VR",
+        "slug": "classic-red-vr",
+        "reference_url": "https://www.paintscratch.com/colors/kia/classic-red-vr/",
+        "source_label": "PaintScratch 1998 Kia",
+        "hex_value": "#991A19"
+      },
+      {
+        "display_name": "Cobalt Blue Pearl",
+        "paint_code": "Z7",
+        "slug": "cobalt-blue-pearl-z7",
+        "reference_url": "https://www.paintscratch.com/colors/kia/cobalt-blue-pearl-z7/",
+        "source_label": "PaintScratch 1998 Kia",
+        "hex_value": "#5F6EA5"
+      }
+    ],
+    "1999": [
+      {
+        "display_name": "Ebony Black",
+        "paint_code": "EB",
+        "slug": "ebony-black-eb",
+        "reference_url": "https://www.paintscratch.com/colors/kia/ebony-black-eb/",
+        "source_label": "PaintScratch 1999 Kia",
+        "hex_value": "#0E1407"
+      },
+      {
+        "display_name": "Garnet Red Pearl",
+        "paint_code": "4R",
+        "slug": "garnet-red-pearl-4r",
+        "reference_url": "https://www.paintscratch.com/colors/kia/garnet-red-pearl-4r/",
+        "source_label": "PaintScratch 1999 Kia",
+        "hex_value": "#951F13"
+      },
+      {
+        "display_name": "Evergreen Metallic",
+        "paint_code": "5E",
+        "slug": "evergreen-metallic-5e",
+        "reference_url": "https://www.paintscratch.com/colors/kia/evergreen-metallic-5e/",
+        "source_label": "PaintScratch 1999 Kia",
+        "hex_value": "#196564"
+      },
+      {
+        "display_name": "Mica Blue Metallic",
+        "paint_code": "B3",
+        "slug": "mica-blue-metallic-b3",
+        "reference_url": "https://www.paintscratch.com/colors/kia/mica-blue-metallic-b3/",
+        "source_label": "PaintScratch 1999 Kia",
+        "hex_value": "#133A9B"
+      },
+      {
+        "display_name": "Wheat Silver Metallic",
+        "paint_code": "C3",
+        "slug": "wheat-silver-metallic-c3",
+        "reference_url": "https://www.paintscratch.com/colors/kia/wheat-silver-metallic-c3/",
+        "source_label": "PaintScratch 1999 Kia",
+        "hex_value": "#D8D5C0"
+      },
+      {
+        "display_name": "Clear White",
+        "paint_code": "UD",
+        "slug": "clear-white-ud",
+        "reference_url": "https://www.paintscratch.com/colors/kia/clear-white-ud/",
+        "source_label": "PaintScratch 1999 Kia",
+        "hex_value": "#F8FDF6"
+      },
+      {
+        "display_name": "Aurora Grey Metallic",
+        "paint_code": "V6",
+        "slug": "aurora-grey-metallic-v6",
+        "reference_url": "https://www.paintscratch.com/colors/kia/aurora-grey-metallic-v6/",
+        "source_label": "PaintScratch 1999 Kia",
+        "hex_value": "#726474"
+      },
+      {
+        "display_name": "Classic Red",
+        "paint_code": "VR",
+        "slug": "classic-red-vr",
+        "reference_url": "https://www.paintscratch.com/colors/kia/classic-red-vr/",
+        "source_label": "PaintScratch 1999 Kia",
+        "hex_value": "#991A19"
+      },
+      {
+        "display_name": "Cobalt Blue Pearl",
+        "paint_code": "Z7",
+        "slug": "cobalt-blue-pearl-z7",
+        "reference_url": "https://www.paintscratch.com/colors/kia/cobalt-blue-pearl-z7/",
+        "source_label": "PaintScratch 1999 Kia",
+        "hex_value": "#5F6EA5"
+      }
+    ],
+    "2000": [
+      {
+        "display_name": "Ebony Black",
+        "paint_code": "EB",
+        "slug": "ebony-black-eb",
+        "reference_url": "https://www.paintscratch.com/colors/kia/ebony-black-eb/",
+        "source_label": "PaintScratch 2000 Kia",
+        "hex_value": "#0E1407"
+      },
+      {
+        "display_name": "Jade Green Metallic",
+        "paint_code": "3G",
+        "slug": "jade-green-metallic-3g",
+        "reference_url": "https://www.paintscratch.com/colors/kia/jade-green-metallic-3g/",
+        "source_label": "PaintScratch 2000 Kia",
+        "hex_value": "#86A491"
+      },
+      {
+        "display_name": "Garnet Red Pearl",
+        "paint_code": "4R",
+        "slug": "garnet-red-pearl-4r",
+        "reference_url": "https://www.paintscratch.com/colors/kia/garnet-red-pearl-4r/",
+        "source_label": "PaintScratch 2000 Kia",
+        "hex_value": "#951F13"
+      },
+      {
+        "display_name": "Evergreen Metallic",
+        "paint_code": "5E",
+        "slug": "evergreen-metallic-5e",
+        "reference_url": "https://www.paintscratch.com/colors/kia/evergreen-metallic-5e/",
+        "source_label": "PaintScratch 2000 Kia",
+        "hex_value": "#196564"
+      },
+      {
+        "display_name": "Sport Blue Pearl",
+        "paint_code": "6A",
+        "slug": "sport-blue-pearl-6a",
+        "reference_url": "https://www.paintscratch.com/colors/kia/sport-blue-pearl-6a/",
+        "source_label": "PaintScratch 2000 Kia",
+        "hex_value": "#2A54A0"
+      },
+      {
+        "display_name": "Mica Blue Metallic",
+        "paint_code": "B3",
+        "slug": "mica-blue-metallic-b3",
+        "reference_url": "https://www.paintscratch.com/colors/kia/mica-blue-metallic-b3/",
+        "source_label": "PaintScratch 2000 Kia",
+        "hex_value": "#133A9B"
+      },
+      {
+        "display_name": "Wheat Silver Metallic",
+        "paint_code": "C3",
+        "slug": "wheat-silver-metallic-c3",
+        "reference_url": "https://www.paintscratch.com/colors/kia/wheat-silver-metallic-c3/",
+        "source_label": "PaintScratch 2000 Kia",
+        "hex_value": "#D8D5C0"
+      },
+      {
+        "display_name": "Clear White",
+        "paint_code": "UD",
+        "slug": "clear-white-ud",
+        "reference_url": "https://www.paintscratch.com/colors/kia/clear-white-ud/",
+        "source_label": "PaintScratch 2000 Kia",
+        "hex_value": "#F8FDF6"
+      },
+      {
+        "display_name": "Aurora Grey Metallic",
+        "paint_code": "V6",
+        "slug": "aurora-grey-metallic-v6",
+        "reference_url": "https://www.paintscratch.com/colors/kia/aurora-grey-metallic-v6/",
+        "source_label": "PaintScratch 2000 Kia",
+        "hex_value": "#726474"
+      },
+      {
+        "display_name": "Classic Red",
+        "paint_code": "VR",
+        "slug": "classic-red-vr",
+        "reference_url": "https://www.paintscratch.com/colors/kia/classic-red-vr/",
+        "source_label": "PaintScratch 2000 Kia",
+        "hex_value": "#991A19"
+      }
+    ],
+    "2001": [
+      {
+        "display_name": "Ebony Black",
+        "paint_code": "EB",
+        "slug": "ebony-black-eb",
+        "reference_url": "https://www.paintscratch.com/colors/kia/ebony-black-eb/",
+        "source_label": "PaintScratch 2001 Kia",
+        "hex_value": "#0E1407"
+      },
+      {
+        "display_name": "Emerald Green Metallic",
+        "paint_code": "2G",
+        "slug": "emerald-green-metallic-2g",
+        "reference_url": "https://www.paintscratch.com/colors/kia/emerald-green-metallic-2g/",
+        "source_label": "PaintScratch 2001 Kia",
+        "hex_value": "#5F918D"
+      },
+      {
+        "display_name": "Sunburst Gold Metallic",
+        "paint_code": "2Y",
+        "slug": "sunburst-gold-metallic-2y",
+        "reference_url": "https://www.paintscratch.com/colors/kia/sunburst-gold-metallic-2y/",
+        "source_label": "PaintScratch 2001 Kia",
+        "hex_value": "#B08D4A"
+      },
+      {
+        "display_name": "Steel Blue Metallic",
+        "paint_code": "3B",
+        "slug": "steel-blue-metallic-3b",
+        "reference_url": "https://www.paintscratch.com/colors/kia/steel-blue-metallic-3b/",
+        "source_label": "PaintScratch 2001 Kia",
+        "hex_value": "#98A1AA"
+      },
+      {
+        "display_name": "Jade Green Metallic",
+        "paint_code": "3G",
+        "slug": "jade-green-metallic-3g",
+        "reference_url": "https://www.paintscratch.com/colors/kia/jade-green-metallic-3g/",
+        "source_label": "PaintScratch 2001 Kia",
+        "hex_value": "#86A491"
+      },
+      {
+        "display_name": "Candy Red Metallic",
+        "paint_code": "3R",
+        "slug": "candy-red-metallic-3r",
+        "reference_url": "https://www.paintscratch.com/colors/kia/candy-red-metallic-3r/",
+        "source_label": "PaintScratch 2001 Kia",
+        "hex_value": "#EB155C"
+      },
+      {
+        "display_name": "Olive Green Pearl",
+        "paint_code": "5C",
+        "slug": "olive-green-pearl-5c",
+        "reference_url": "https://www.paintscratch.com/colors/kia/olive-green-pearl-5c/",
+        "source_label": "PaintScratch 2001 Kia",
+        "hex_value": "#044404"
+      },
+      {
+        "display_name": "Evergreen Metallic",
+        "paint_code": "5E",
+        "slug": "evergreen-metallic-5e",
+        "reference_url": "https://www.paintscratch.com/colors/kia/evergreen-metallic-5e/",
+        "source_label": "PaintScratch 2001 Kia",
+        "hex_value": "#196564"
+      },
+      {
+        "display_name": "Slate Blue Metallic",
+        "paint_code": "6B",
+        "slug": "slate-blue-metallic-6b",
+        "reference_url": "https://www.paintscratch.com/colors/kia/slate-blue-metallic-6b/",
+        "source_label": "PaintScratch 2001 Kia",
+        "hex_value": "#5E7688"
+      },
+      {
+        "display_name": "Forest Green Metallic",
+        "paint_code": "6G",
+        "slug": "forest-green-metallic-6g",
+        "reference_url": "https://www.paintscratch.com/colors/kia/forest-green-metallic-6g/",
+        "source_label": "PaintScratch 2001 Kia",
+        "hex_value": "#436F4E"
+      },
+      {
+        "display_name": "Light Gold Metallic",
+        "paint_code": "6Y",
+        "slug": "light-gold-metallic-6y",
+        "reference_url": "https://www.paintscratch.com/colors/kia/light-gold-metallic-6y/",
+        "source_label": "PaintScratch 2001 Kia",
+        "hex_value": "#D5BF8B"
+      },
+      {
+        "display_name": "Magenta Red Pearl",
+        "paint_code": "7R",
+        "slug": "magenta-red-pearl-7r",
+        "reference_url": "https://www.paintscratch.com/colors/kia/magenta-red-pearl-7r/",
+        "source_label": "PaintScratch 2001 Kia",
+        "hex_value": "#A11B37"
+      },
+      {
+        "display_name": "Gold Beige Metallic",
+        "paint_code": "7Y",
+        "slug": "gold-beige-metallic-7y",
+        "reference_url": "https://www.paintscratch.com/colors/kia/gold-beige-metallic-7y/",
+        "source_label": "PaintScratch 2001 Kia",
+        "hex_value": "#E5D39B"
+      },
+      {
+        "display_name": "Stone Beige Metallic",
+        "paint_code": "8Y",
+        "slug": "stone-beige-metallic-8y",
+        "reference_url": "https://www.paintscratch.com/colors/kia/stone-beige-metallic-8y/",
+        "source_label": "PaintScratch 2001 Kia",
+        "hex_value": "#AEAAA8"
+      },
+      {
+        "display_name": "Midnight Black Metallic",
+        "paint_code": "9B",
+        "slug": "midnight-black-metallic-9b",
+        "reference_url": "https://www.paintscratch.com/colors/kia/midnight-black-metallic-9b/",
+        "source_label": "PaintScratch 2001 Kia",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Steel Blue Metallic",
+        "paint_code": "B1",
+        "slug": "steel-blue-metallic-b1",
+        "reference_url": "https://www.paintscratch.com/colors/kia/steel-blue-metallic-b1/",
+        "source_label": "PaintScratch 2001 Kia",
+        "hex_value": "#2A546C"
+      }
+    ],
+    "2002": [
+      {
+        "display_name": "Ebony Black",
+        "paint_code": "EB",
+        "slug": "ebony-black-eb",
+        "reference_url": "https://www.paintscratch.com/colors/kia/ebony-black-eb/",
+        "source_label": "PaintScratch 2002 Kia",
+        "hex_value": "#0E1407"
+      },
+      {
+        "display_name": "Emerald Green Metallic",
+        "paint_code": "2G",
+        "slug": "emerald-green-metallic-2g",
+        "reference_url": "https://www.paintscratch.com/colors/kia/emerald-green-metallic-2g/",
+        "source_label": "PaintScratch 2002 Kia",
+        "hex_value": "#5F918D"
+      },
+      {
+        "display_name": "Sunburst Gold Metallic",
+        "paint_code": "2Y",
+        "slug": "sunburst-gold-metallic-2y",
+        "reference_url": "https://www.paintscratch.com/colors/kia/sunburst-gold-metallic-2y/",
+        "source_label": "PaintScratch 2002 Kia",
+        "hex_value": "#B08D4A"
+      },
+      {
+        "display_name": "Steel Blue Metallic",
+        "paint_code": "3B",
+        "slug": "steel-blue-metallic-3b",
+        "reference_url": "https://www.paintscratch.com/colors/kia/steel-blue-metallic-3b/",
+        "source_label": "PaintScratch 2002 Kia",
+        "hex_value": "#98A1AA"
+      },
+      {
+        "display_name": "Jade Green Metallic",
+        "paint_code": "3G",
+        "slug": "jade-green-metallic-3g",
+        "reference_url": "https://www.paintscratch.com/colors/kia/jade-green-metallic-3g/",
+        "source_label": "PaintScratch 2002 Kia",
+        "hex_value": "#86A491"
+      },
+      {
+        "display_name": "Olive Green Pearl",
+        "paint_code": "5C",
+        "slug": "olive-green-pearl-5c",
+        "reference_url": "https://www.paintscratch.com/colors/kia/olive-green-pearl-5c/",
+        "source_label": "PaintScratch 2002 Kia",
+        "hex_value": "#044404"
+      },
+      {
+        "display_name": "Evergreen Metallic",
+        "paint_code": "5E",
+        "slug": "evergreen-metallic-5e",
+        "reference_url": "https://www.paintscratch.com/colors/kia/evergreen-metallic-5e/",
+        "source_label": "PaintScratch 2002 Kia",
+        "hex_value": "#196564"
+      },
+      {
+        "display_name": "Slate Blue Metallic",
+        "paint_code": "6B",
+        "slug": "slate-blue-metallic-6b",
+        "reference_url": "https://www.paintscratch.com/colors/kia/slate-blue-metallic-6b/",
+        "source_label": "PaintScratch 2002 Kia",
+        "hex_value": "#5E7688"
+      },
+      {
+        "display_name": "Forest Green Metallic",
+        "paint_code": "6G",
+        "slug": "forest-green-metallic-6g",
+        "reference_url": "https://www.paintscratch.com/colors/kia/forest-green-metallic-6g/",
+        "source_label": "PaintScratch 2002 Kia",
+        "hex_value": "#436F4E"
+      },
+      {
+        "display_name": "Light Gold Metallic",
+        "paint_code": "6Y",
+        "slug": "light-gold-metallic-6y",
+        "reference_url": "https://www.paintscratch.com/colors/kia/light-gold-metallic-6y/",
+        "source_label": "PaintScratch 2002 Kia",
+        "hex_value": "#D5BF8B"
+      },
+      {
+        "display_name": "Magenta Red Pearl",
+        "paint_code": "7R",
+        "slug": "magenta-red-pearl-7r",
+        "reference_url": "https://www.paintscratch.com/colors/kia/magenta-red-pearl-7r/",
+        "source_label": "PaintScratch 2002 Kia",
+        "hex_value": "#A11B37"
+      },
+      {
+        "display_name": "Gold Beige Metallic",
+        "paint_code": "7Y",
+        "slug": "gold-beige-metallic-7y",
+        "reference_url": "https://www.paintscratch.com/colors/kia/gold-beige-metallic-7y/",
+        "source_label": "PaintScratch 2002 Kia",
+        "hex_value": "#E5D39B"
+      },
+      {
+        "display_name": "Stone Beige Metallic",
+        "paint_code": "8Y",
+        "slug": "stone-beige-metallic-8y",
+        "reference_url": "https://www.paintscratch.com/colors/kia/stone-beige-metallic-8y/",
+        "source_label": "PaintScratch 2002 Kia",
+        "hex_value": "#AEAAA8"
+      },
+      {
+        "display_name": "Midnight Black Metallic",
+        "paint_code": "9B",
+        "slug": "midnight-black-metallic-9b",
+        "reference_url": "https://www.paintscratch.com/colors/kia/midnight-black-metallic-9b/",
+        "source_label": "PaintScratch 2002 Kia",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Steel Blue Metallic",
+        "paint_code": "B1",
+        "slug": "steel-blue-metallic-b1",
+        "reference_url": "https://www.paintscratch.com/colors/kia/steel-blue-metallic-b1/",
+        "source_label": "PaintScratch 2002 Kia",
+        "hex_value": "#2A546C"
+      },
+      {
+        "display_name": "Atlantic Blue Metallic",
+        "paint_code": "B2",
+        "slug": "atlantic-blue-metallic-b2",
+        "reference_url": "https://www.paintscratch.com/colors/kia/atlantic-blue-metallic-b2/",
+        "source_label": "PaintScratch 2002 Kia",
+        "hex_value": "#3E507E"
+      }
+    ],
+    "2003": [
+      {
+        "display_name": "Willow Green Pearl",
+        "paint_code": "3W",
+        "slug": "willow-green-pearl-3w",
+        "reference_url": "https://www.paintscratch.com/colors/kia/willow-green-pearl-3w/",
+        "source_label": "PaintScratch 2003 Kia",
+        "hex_value": "#45775D"
+      },
+      {
+        "display_name": "Ebony Black",
+        "paint_code": "EB",
+        "slug": "ebony-black-eb",
+        "reference_url": "https://www.paintscratch.com/colors/kia/ebony-black-eb/",
+        "source_label": "PaintScratch 2003 Kia",
+        "hex_value": "#0E1407"
+      },
+      {
+        "display_name": "White Pearl II Tricoat",
+        "paint_code": "U3",
+        "slug": "white-pearl-ii-tricoat-u3",
+        "reference_url": "https://www.paintscratch.com/colors/kia/white-pearl-ii-tricoat-u3/",
+        "source_label": "PaintScratch 2003 Kia",
+        "hex_value": "#F3EED7"
+      },
+      {
+        "display_name": "Imperial Blue Pearl",
+        "paint_code": "1C",
+        "slug": "imperial-blue-pearl-1c",
+        "reference_url": "https://www.paintscratch.com/colors/kia/imperial-blue-pearl-1c/",
+        "source_label": "PaintScratch 2003 Kia",
+        "hex_value": "#3A4C6A"
+      },
+      {
+        "display_name": "Ivy Green Metallic",
+        "paint_code": "3N",
+        "slug": "ivy-green-metallic-3n",
+        "reference_url": "https://www.paintscratch.com/colors/kia/ivy-green-metallic-3n/",
+        "source_label": "PaintScratch 2003 Kia",
+        "hex_value": "#7D8C48"
+      },
+      {
+        "display_name": "Blue Berry Metallic",
+        "paint_code": "4T",
+        "slug": "blue-berry-metallic-4t",
+        "reference_url": "https://www.paintscratch.com/colors/kia/blue-berry-metallic-4t/",
+        "source_label": "PaintScratch 2003 Kia",
+        "hex_value": "#B8A7C1"
+      },
+      {
+        "display_name": "Olive Green Pearl",
+        "paint_code": "5C",
+        "slug": "olive-green-pearl-5c",
+        "reference_url": "https://www.paintscratch.com/colors/kia/olive-green-pearl-5c/",
+        "source_label": "PaintScratch 2003 Kia",
+        "hex_value": "#044404"
+      },
+      {
+        "display_name": "Evergreen Metallic",
+        "paint_code": "5E",
+        "slug": "evergreen-metallic-5e",
+        "reference_url": "https://www.paintscratch.com/colors/kia/evergreen-metallic-5e/",
+        "source_label": "PaintScratch 2003 Kia",
+        "hex_value": "#196564"
+      },
+      {
+        "display_name": "Light Gold Metallic",
+        "paint_code": "6Y",
+        "slug": "light-gold-metallic-6y",
+        "reference_url": "https://www.paintscratch.com/colors/kia/light-gold-metallic-6y/",
+        "source_label": "PaintScratch 2003 Kia",
+        "hex_value": "#D5BF8B"
+      },
+      {
+        "display_name": "Gold Beige Metallic",
+        "paint_code": "7Y",
+        "slug": "gold-beige-metallic-7y",
+        "reference_url": "https://www.paintscratch.com/colors/kia/gold-beige-metallic-7y/",
+        "source_label": "PaintScratch 2003 Kia",
+        "hex_value": "#E5D39B"
+      },
+      {
+        "display_name": "Stone Beige Metallic",
+        "paint_code": "8Y",
+        "slug": "stone-beige-metallic-8y",
+        "reference_url": "https://www.paintscratch.com/colors/kia/stone-beige-metallic-8y/",
+        "source_label": "PaintScratch 2003 Kia",
+        "hex_value": "#AEAAA8"
+      },
+      {
+        "display_name": "Midnight Black Metallic",
+        "paint_code": "9B",
+        "slug": "midnight-black-metallic-9b",
+        "reference_url": "https://www.paintscratch.com/colors/kia/midnight-black-metallic-9b/",
+        "source_label": "PaintScratch 2003 Kia",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Rally Blue Metallic",
+        "paint_code": "B7",
+        "slug": "rally-blue-metallic-b7",
+        "reference_url": "https://www.paintscratch.com/colors/kia/rally-blue-metallic-b7/",
+        "source_label": "PaintScratch 2003 Kia",
+        "hex_value": "#3382AF"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "C5",
+        "slug": "silver-metallic-c5",
+        "reference_url": "https://www.paintscratch.com/colors/kia/silver-metallic-c5/",
+        "source_label": "PaintScratch 2003 Kia",
+        "hex_value": "#C8CAD0"
+      },
+      {
+        "display_name": "Bright Platinum Metallic",
+        "paint_code": "C7",
+        "slug": "bright-platinum-metallic-c7",
+        "reference_url": "https://www.paintscratch.com/colors/kia/bright-platinum-metallic-c7/",
+        "source_label": "PaintScratch 2003 Kia",
+        "hex_value": "#DCD9D6"
+      },
+      {
+        "display_name": "Silky Beige Metallic",
+        "paint_code": "D3",
+        "slug": "silky-beige-metallic-d3",
+        "reference_url": "https://www.paintscratch.com/colors/kia/silky-beige-metallic-d3/",
+        "source_label": "PaintScratch 2003 Kia",
+        "hex_value": "#DAD3B0"
+      }
+    ],
+    "2004": [
+      {
+        "display_name": "Willow Green Pearl",
+        "paint_code": "3W",
+        "slug": "willow-green-pearl-3w",
+        "reference_url": "https://www.paintscratch.com/colors/kia/willow-green-pearl-3w/",
+        "source_label": "PaintScratch 2004 Kia",
+        "hex_value": "#45775D"
+      },
+      {
+        "display_name": "Gold Beige Metallic",
+        "paint_code": "4Y",
+        "slug": "gold-beige-metallic-4y",
+        "reference_url": "https://www.paintscratch.com/colors/kia/gold-beige-metallic-4y/",
+        "source_label": "PaintScratch 2004 Kia",
+        "hex_value": "#CABC90"
+      },
+      {
+        "display_name": "Clear Silver Metallic",
+        "paint_code": "6C",
+        "slug": "clear-silver-metallic-6c",
+        "reference_url": "https://www.paintscratch.com/colors/kia/clear-silver-metallic-6c/",
+        "source_label": "PaintScratch 2004 Kia",
+        "hex_value": "#E7E6E3"
+      },
+      {
+        "display_name": "Ebony Black",
+        "paint_code": "EB",
+        "slug": "ebony-black-eb",
+        "reference_url": "https://www.paintscratch.com/colors/kia/ebony-black-eb/",
+        "source_label": "PaintScratch 2004 Kia",
+        "hex_value": "#0E1407"
+      },
+      {
+        "display_name": "White Pearl II Tricoat",
+        "paint_code": "U3",
+        "slug": "white-pearl-ii-tricoat-u3",
+        "reference_url": "https://www.paintscratch.com/colors/kia/white-pearl-ii-tricoat-u3/",
+        "source_label": "PaintScratch 2004 Kia",
+        "hex_value": "#F3EED7"
+      },
+      {
+        "display_name": "Imperial Blue Pearl",
+        "paint_code": "1C",
+        "slug": "imperial-blue-pearl-1c",
+        "reference_url": "https://www.paintscratch.com/colors/kia/imperial-blue-pearl-1c/",
+        "source_label": "PaintScratch 2004 Kia",
+        "hex_value": "#3A4C6A"
+      },
+      {
+        "display_name": "Ivy Green Metallic",
+        "paint_code": "3N",
+        "slug": "ivy-green-metallic-3n",
+        "reference_url": "https://www.paintscratch.com/colors/kia/ivy-green-metallic-3n/",
+        "source_label": "PaintScratch 2004 Kia",
+        "hex_value": "#7D8C48"
+      },
+      {
+        "display_name": "Cobalt Blue Pearl",
+        "paint_code": "4C",
+        "slug": "cobalt-blue-pearl-4c",
+        "reference_url": "https://www.paintscratch.com/colors/kia/cobalt-blue-pearl-4c/",
+        "source_label": "PaintScratch 2004 Kia",
+        "hex_value": "#425C70"
+      },
+      {
+        "display_name": "Blue Berry Metallic",
+        "paint_code": "4T",
+        "slug": "blue-berry-metallic-4t",
+        "reference_url": "https://www.paintscratch.com/colors/kia/blue-berry-metallic-4t/",
+        "source_label": "PaintScratch 2004 Kia",
+        "hex_value": "#B8A7C1"
+      },
+      {
+        "display_name": "Olive Green Pearl",
+        "paint_code": "5C",
+        "slug": "olive-green-pearl-5c",
+        "reference_url": "https://www.paintscratch.com/colors/kia/olive-green-pearl-5c/",
+        "source_label": "PaintScratch 2004 Kia",
+        "hex_value": "#044404"
+      },
+      {
+        "display_name": "Evergreen Metallic",
+        "paint_code": "5E",
+        "slug": "evergreen-metallic-5e",
+        "reference_url": "https://www.paintscratch.com/colors/kia/evergreen-metallic-5e/",
+        "source_label": "PaintScratch 2004 Kia",
+        "hex_value": "#196564"
+      },
+      {
+        "display_name": "Slate Blue Metallic",
+        "paint_code": "6B",
+        "slug": "slate-blue-metallic-6b",
+        "reference_url": "https://www.paintscratch.com/colors/kia/slate-blue-metallic-6b/",
+        "source_label": "PaintScratch 2004 Kia",
+        "hex_value": "#5E7688"
+      },
+      {
+        "display_name": "Warm Gray Metallic",
+        "paint_code": "6W",
+        "slug": "warm-gray-metallic-6w",
+        "reference_url": "https://www.paintscratch.com/colors/kia/warm-gray-metallic-6w/",
+        "source_label": "PaintScratch 2004 Kia",
+        "hex_value": "#A09886"
+      },
+      {
+        "display_name": "Light Gold Metallic",
+        "paint_code": "6Y",
+        "slug": "light-gold-metallic-6y",
+        "reference_url": "https://www.paintscratch.com/colors/kia/light-gold-metallic-6y/",
+        "source_label": "PaintScratch 2004 Kia",
+        "hex_value": "#D5BF8B"
+      },
+      {
+        "display_name": "Gold Beige Metallic",
+        "paint_code": "7Y",
+        "slug": "gold-beige-metallic-7y",
+        "reference_url": "https://www.paintscratch.com/colors/kia/gold-beige-metallic-7y/",
+        "source_label": "PaintScratch 2004 Kia",
+        "hex_value": "#E5D39B"
+      },
+      {
+        "display_name": "Stone Beige Metallic",
+        "paint_code": "8Y",
+        "slug": "stone-beige-metallic-8y",
+        "reference_url": "https://www.paintscratch.com/colors/kia/stone-beige-metallic-8y/",
+        "source_label": "PaintScratch 2004 Kia",
+        "hex_value": "#AEAAA8"
+      }
+    ],
+    "2005": [
+      {
+        "display_name": "Black Cherry Pearl",
+        "paint_code": "9P/9H",
+        "slug": "black-cherry-pearl-9p9h",
+        "reference_url": "https://www.paintscratch.com/colors/kia/black-cherry-pearl-9p9h/",
+        "source_label": "PaintScratch 2005 Kia",
+        "hex_value": "#432E27"
+      },
+      {
+        "display_name": "Spark Blue Metallic",
+        "paint_code": "1S",
+        "slug": "spark-blue-metallic-1s",
+        "reference_url": "https://www.paintscratch.com/colors/kia/spark-blue-metallic-1s/",
+        "source_label": "PaintScratch 2005 Kia",
+        "hex_value": "#2B5083"
+      },
+      {
+        "display_name": "Willow Green Pearl",
+        "paint_code": "3W",
+        "slug": "willow-green-pearl-3w",
+        "reference_url": "https://www.paintscratch.com/colors/kia/willow-green-pearl-3w/",
+        "source_label": "PaintScratch 2005 Kia",
+        "hex_value": "#45775D"
+      },
+      {
+        "display_name": "Gold Beige Metallic",
+        "paint_code": "4Y",
+        "slug": "gold-beige-metallic-4y",
+        "reference_url": "https://www.paintscratch.com/colors/kia/gold-beige-metallic-4y/",
+        "source_label": "PaintScratch 2005 Kia",
+        "hex_value": "#CABC90"
+      },
+      {
+        "display_name": "Clear Silver Metallic",
+        "paint_code": "6C",
+        "slug": "clear-silver-metallic-6c",
+        "reference_url": "https://www.paintscratch.com/colors/kia/clear-silver-metallic-6c/",
+        "source_label": "PaintScratch 2005 Kia",
+        "hex_value": "#E7E6E3"
+      },
+      {
+        "display_name": "Ebony Black",
+        "paint_code": "EB",
+        "slug": "ebony-black-eb",
+        "reference_url": "https://www.paintscratch.com/colors/kia/ebony-black-eb/",
+        "source_label": "PaintScratch 2005 Kia",
+        "hex_value": "#0E1407"
+      },
+      {
+        "display_name": "Ice Blue Metallic",
+        "paint_code": "L1",
+        "slug": "ice-blue-metallic-l1",
+        "reference_url": "https://www.paintscratch.com/colors/kia/ice-blue-metallic-l1/",
+        "source_label": "PaintScratch 2005 Kia",
+        "hex_value": "#A2A4A6"
+      },
+      {
+        "display_name": "White Pearl II Tricoat",
+        "paint_code": "U3",
+        "slug": "white-pearl-ii-tricoat-u3",
+        "reference_url": "https://www.paintscratch.com/colors/kia/white-pearl-ii-tricoat-u3/",
+        "source_label": "PaintScratch 2005 Kia",
+        "hex_value": "#F3EED7"
+      },
+      {
+        "display_name": "Imperial Blue Pearl",
+        "paint_code": "1C",
+        "slug": "imperial-blue-pearl-1c",
+        "reference_url": "https://www.paintscratch.com/colors/kia/imperial-blue-pearl-1c/",
+        "source_label": "PaintScratch 2005 Kia",
+        "hex_value": "#3A4C6A"
+      },
+      {
+        "display_name": "Vert Jade Pearl Metallic",
+        "paint_code": "1L",
+        "slug": "vert-jade-pearl-metallic-1l",
+        "reference_url": "https://www.paintscratch.com/colors/kia/vert-jade-pearl-metallic-1l/",
+        "source_label": "PaintScratch 2005 Kia",
+        "hex_value": "#909F8B"
+      },
+      {
+        "display_name": "Ivy Green Metallic",
+        "paint_code": "3N",
+        "slug": "ivy-green-metallic-3n",
+        "reference_url": "https://www.paintscratch.com/colors/kia/ivy-green-metallic-3n/",
+        "source_label": "PaintScratch 2005 Kia",
+        "hex_value": "#7D8C48"
+      },
+      {
+        "display_name": "Volcanic Red Pearl",
+        "paint_code": "3P",
+        "slug": "volcanic-red-pearl-3p",
+        "reference_url": "https://www.paintscratch.com/colors/kia/volcanic-red-pearl-3p/",
+        "source_label": "PaintScratch 2005 Kia",
+        "hex_value": "#841616"
+      },
+      {
+        "display_name": "Cobalt Blue Pearl",
+        "paint_code": "4C",
+        "slug": "cobalt-blue-pearl-4c",
+        "reference_url": "https://www.paintscratch.com/colors/kia/cobalt-blue-pearl-4c/",
+        "source_label": "PaintScratch 2005 Kia",
+        "hex_value": "#425C70"
+      },
+      {
+        "display_name": "Blue Berry Metallic",
+        "paint_code": "4T",
+        "slug": "blue-berry-metallic-4t",
+        "reference_url": "https://www.paintscratch.com/colors/kia/blue-berry-metallic-4t/",
+        "source_label": "PaintScratch 2005 Kia",
+        "hex_value": "#B8A7C1"
+      },
+      {
+        "display_name": "Olive Green Pearl",
+        "paint_code": "5C",
+        "slug": "olive-green-pearl-5c",
+        "reference_url": "https://www.paintscratch.com/colors/kia/olive-green-pearl-5c/",
+        "source_label": "PaintScratch 2005 Kia",
+        "hex_value": "#044404"
+      },
+      {
+        "display_name": "Smokey Brown Pearl Metallic",
+        "paint_code": "6D",
+        "slug": "smokey-brown-pearl-metallic-6d",
+        "reference_url": "https://www.paintscratch.com/colors/kia/smokey-brown-pearl-metallic-6d/",
+        "source_label": "PaintScratch 2005 Kia",
+        "hex_value": "#826D52"
+      }
+    ],
+    "2006": [
+      {
+        "display_name": "Black Cherry Pearl",
+        "paint_code": "9P/9H",
+        "slug": "black-cherry-pearl-9p9h",
+        "reference_url": "https://www.paintscratch.com/colors/kia/black-cherry-pearl-9p9h/",
+        "source_label": "PaintScratch 2006 Kia",
+        "hex_value": "#432E27"
+      },
+      {
+        "display_name": "Spark Blue Metallic",
+        "paint_code": "1S",
+        "slug": "spark-blue-metallic-1s",
+        "reference_url": "https://www.paintscratch.com/colors/kia/spark-blue-metallic-1s/",
+        "source_label": "PaintScratch 2006 Kia",
+        "hex_value": "#2B5083"
+      },
+      {
+        "display_name": "Gold Beige Metallic",
+        "paint_code": "4Y",
+        "slug": "gold-beige-metallic-4y",
+        "reference_url": "https://www.paintscratch.com/colors/kia/gold-beige-metallic-4y/",
+        "source_label": "PaintScratch 2006 Kia",
+        "hex_value": "#CABC90"
+      },
+      {
+        "display_name": "Clear Silver Metallic",
+        "paint_code": "6C",
+        "slug": "clear-silver-metallic-6c",
+        "reference_url": "https://www.paintscratch.com/colors/kia/clear-silver-metallic-6c/",
+        "source_label": "PaintScratch 2006 Kia",
+        "hex_value": "#E7E6E3"
+      },
+      {
+        "display_name": "Claret Red Metallic",
+        "paint_code": "7P",
+        "slug": "claret-red-metallic-7p",
+        "reference_url": "https://www.paintscratch.com/colors/kia/claret-red-metallic-7p/",
+        "source_label": "PaintScratch 2006 Kia",
+        "hex_value": "#851127"
+      },
+      {
+        "display_name": "Ebony Black",
+        "paint_code": "EB",
+        "slug": "ebony-black-eb",
+        "reference_url": "https://www.paintscratch.com/colors/kia/ebony-black-eb/",
+        "source_label": "PaintScratch 2006 Kia",
+        "hex_value": "#0E1407"
+      },
+      {
+        "display_name": "Polar Blue Silver Metallic",
+        "paint_code": "J1",
+        "slug": "polar-blue-silver-metallic-j1",
+        "reference_url": "https://www.paintscratch.com/colors/kia/polar-blue-silver-metallic-j1/",
+        "source_label": "PaintScratch 2006 Kia",
+        "hex_value": "#BECFD6"
+      },
+      {
+        "display_name": "Lt. Almond Beige Metallic",
+        "paint_code": "J6",
+        "slug": "lt-almond-beige-metallic-j6",
+        "reference_url": "https://www.paintscratch.com/colors/kia/lt-almond-beige-metallic-j6/",
+        "source_label": "PaintScratch 2006 Kia",
+        "hex_value": "#EAE5AA"
+      },
+      {
+        "display_name": "Ice Blue Metallic",
+        "paint_code": "L1",
+        "slug": "ice-blue-metallic-l1",
+        "reference_url": "https://www.paintscratch.com/colors/kia/ice-blue-metallic-l1/",
+        "source_label": "PaintScratch 2006 Kia",
+        "hex_value": "#A2A4A6"
+      },
+      {
+        "display_name": "Sunset Orange Metallic",
+        "paint_code": "O6",
+        "slug": "sunset-orange-metallic-o6",
+        "reference_url": "https://www.paintscratch.com/colors/kia/sunset-orange-metallic-o6/",
+        "source_label": "PaintScratch 2006 Kia",
+        "hex_value": "#DF8340"
+      },
+      {
+        "display_name": "Sapphire Blue Metallic",
+        "paint_code": "T5",
+        "slug": "sapphire-blue-metallic-t5",
+        "reference_url": "https://www.paintscratch.com/colors/kia/sapphire-blue-metallic-t5/",
+        "source_label": "PaintScratch 2006 Kia",
+        "hex_value": "#5678DC"
+      },
+      {
+        "display_name": "Imperial Blue Pearl",
+        "paint_code": "1C",
+        "slug": "imperial-blue-pearl-1c",
+        "reference_url": "https://www.paintscratch.com/colors/kia/imperial-blue-pearl-1c/",
+        "source_label": "PaintScratch 2006 Kia",
+        "hex_value": "#3A4C6A"
+      },
+      {
+        "display_name": "Vert Jade Pearl Metallic",
+        "paint_code": "1L",
+        "slug": "vert-jade-pearl-metallic-1l",
+        "reference_url": "https://www.paintscratch.com/colors/kia/vert-jade-pearl-metallic-1l/",
+        "source_label": "PaintScratch 2006 Kia",
+        "hex_value": "#909F8B"
+      },
+      {
+        "display_name": "Ivy Green Metallic",
+        "paint_code": "3N",
+        "slug": "ivy-green-metallic-3n",
+        "reference_url": "https://www.paintscratch.com/colors/kia/ivy-green-metallic-3n/",
+        "source_label": "PaintScratch 2006 Kia",
+        "hex_value": "#7D8C48"
+      },
+      {
+        "display_name": "Volcanic Red Pearl",
+        "paint_code": "3P",
+        "slug": "volcanic-red-pearl-3p",
+        "reference_url": "https://www.paintscratch.com/colors/kia/volcanic-red-pearl-3p/",
+        "source_label": "PaintScratch 2006 Kia",
+        "hex_value": "#841616"
+      },
+      {
+        "display_name": "Cobalt Blue Pearl",
+        "paint_code": "4C",
+        "slug": "cobalt-blue-pearl-4c",
+        "reference_url": "https://www.paintscratch.com/colors/kia/cobalt-blue-pearl-4c/",
+        "source_label": "PaintScratch 2006 Kia",
+        "hex_value": "#425C70"
+      }
+    ],
+    "2007": [
+      {
+        "display_name": "Black Cherry Pearl",
+        "paint_code": "9P/9H",
+        "slug": "black-cherry-pearl-9p9h",
+        "reference_url": "https://www.paintscratch.com/colors/kia/black-cherry-pearl-9p9h/",
+        "source_label": "PaintScratch 2007 Kia",
+        "hex_value": "#432E27"
+      },
+      {
+        "display_name": "Clear White",
+        "paint_code": "1D/UD",
+        "slug": "clear-white-1dud",
+        "reference_url": "https://www.paintscratch.com/colors/kia/clear-white-1dud/",
+        "source_label": "PaintScratch 2007 Kia",
+        "hex_value": "#FBFBF9"
+      },
+      {
+        "display_name": "Tomato Red",
+        "paint_code": "1E",
+        "slug": "tomato-red-1e",
+        "reference_url": "https://www.paintscratch.com/colors/kia/tomato-red-1e/",
+        "source_label": "PaintScratch 2007 Kia",
+        "hex_value": "#A1211B"
+      },
+      {
+        "display_name": "Spark Blue Metallic",
+        "paint_code": "1S",
+        "slug": "spark-blue-metallic-1s",
+        "reference_url": "https://www.paintscratch.com/colors/kia/spark-blue-metallic-1s/",
+        "source_label": "PaintScratch 2007 Kia",
+        "hex_value": "#2B5083"
+      },
+      {
+        "display_name": "Gold Beige Metallic",
+        "paint_code": "4Y",
+        "slug": "gold-beige-metallic-4y",
+        "reference_url": "https://www.paintscratch.com/colors/kia/gold-beige-metallic-4y/",
+        "source_label": "PaintScratch 2007 Kia",
+        "hex_value": "#CABC90"
+      },
+      {
+        "display_name": "Clear Silver Metallic",
+        "paint_code": "6C",
+        "slug": "clear-silver-metallic-6c",
+        "reference_url": "https://www.paintscratch.com/colors/kia/clear-silver-metallic-6c/",
+        "source_label": "PaintScratch 2007 Kia",
+        "hex_value": "#E7E6E3"
+      },
+      {
+        "display_name": "Claret Red Metallic",
+        "paint_code": "7P",
+        "slug": "claret-red-metallic-7p",
+        "reference_url": "https://www.paintscratch.com/colors/kia/claret-red-metallic-7p/",
+        "source_label": "PaintScratch 2007 Kia",
+        "hex_value": "#851127"
+      },
+      {
+        "display_name": "Ebony Black",
+        "paint_code": "EB",
+        "slug": "ebony-black-eb",
+        "reference_url": "https://www.paintscratch.com/colors/kia/ebony-black-eb/",
+        "source_label": "PaintScratch 2007 Kia",
+        "hex_value": "#0E1407"
+      },
+      {
+        "display_name": "Polar Blue Silver Metallic",
+        "paint_code": "J1",
+        "slug": "polar-blue-silver-metallic-j1",
+        "reference_url": "https://www.paintscratch.com/colors/kia/polar-blue-silver-metallic-j1/",
+        "source_label": "PaintScratch 2007 Kia",
+        "hex_value": "#BECFD6"
+      },
+      {
+        "display_name": "Lt. Almond Beige Metallic",
+        "paint_code": "J6",
+        "slug": "lt-almond-beige-metallic-j6",
+        "reference_url": "https://www.paintscratch.com/colors/kia/lt-almond-beige-metallic-j6/",
+        "source_label": "PaintScratch 2007 Kia",
+        "hex_value": "#EAE5AA"
+      },
+      {
+        "display_name": "Ice Blue Metallic",
+        "paint_code": "L1",
+        "slug": "ice-blue-metallic-l1",
+        "reference_url": "https://www.paintscratch.com/colors/kia/ice-blue-metallic-l1/",
+        "source_label": "PaintScratch 2007 Kia",
+        "hex_value": "#A2A4A6"
+      },
+      {
+        "display_name": "Sunset Orange Metallic",
+        "paint_code": "O6",
+        "slug": "sunset-orange-metallic-o6",
+        "reference_url": "https://www.paintscratch.com/colors/kia/sunset-orange-metallic-o6/",
+        "source_label": "PaintScratch 2007 Kia",
+        "hex_value": "#DF8340"
+      },
+      {
+        "display_name": "Sapphire Blue Metallic",
+        "paint_code": "T5",
+        "slug": "sapphire-blue-metallic-t5",
+        "reference_url": "https://www.paintscratch.com/colors/kia/sapphire-blue-metallic-t5/",
+        "source_label": "PaintScratch 2007 Kia",
+        "hex_value": "#5678DC"
+      },
+      {
+        "display_name": "Imperial Blue Pearl",
+        "paint_code": "1C",
+        "slug": "imperial-blue-pearl-1c",
+        "reference_url": "https://www.paintscratch.com/colors/kia/imperial-blue-pearl-1c/",
+        "source_label": "PaintScratch 2007 Kia",
+        "hex_value": "#3A4C6A"
+      },
+      {
+        "display_name": "Vert Jade Pearl Metallic",
+        "paint_code": "1L",
+        "slug": "vert-jade-pearl-metallic-1l",
+        "reference_url": "https://www.paintscratch.com/colors/kia/vert-jade-pearl-metallic-1l/",
+        "source_label": "PaintScratch 2007 Kia",
+        "hex_value": "#909F8B"
+      },
+      {
+        "display_name": "Urban Gray Metallic",
+        "paint_code": "1U",
+        "slug": "urban-gray-metallic-1u",
+        "reference_url": "https://www.paintscratch.com/colors/kia/urban-gray-metallic-1u/",
+        "source_label": "PaintScratch 2007 Kia",
+        "hex_value": "#4A4942"
+      }
+    ],
+    "2008": [
+      {
+        "display_name": "Black Cherry Pearl",
+        "paint_code": "9P/9H",
+        "slug": "black-cherry-pearl-9p9h",
+        "reference_url": "https://www.paintscratch.com/colors/kia/black-cherry-pearl-9p9h/",
+        "source_label": "PaintScratch 2008 Kia",
+        "hex_value": "#432E27"
+      },
+      {
+        "display_name": "Clear White",
+        "paint_code": "1D/UD",
+        "slug": "clear-white-1dud",
+        "reference_url": "https://www.paintscratch.com/colors/kia/clear-white-1dud/",
+        "source_label": "PaintScratch 2008 Kia",
+        "hex_value": "#FBFBF9"
+      },
+      {
+        "display_name": "Spark Blue Metallic",
+        "paint_code": "1S",
+        "slug": "spark-blue-metallic-1s",
+        "reference_url": "https://www.paintscratch.com/colors/kia/spark-blue-metallic-1s/",
+        "source_label": "PaintScratch 2008 Kia",
+        "hex_value": "#2B5083"
+      },
+      {
+        "display_name": "Gold Beige Metallic",
+        "paint_code": "4Y",
+        "slug": "gold-beige-metallic-4y",
+        "reference_url": "https://www.paintscratch.com/colors/kia/gold-beige-metallic-4y/",
+        "source_label": "PaintScratch 2008 Kia",
+        "hex_value": "#CABC90"
+      },
+      {
+        "display_name": "Clear Silver Metallic",
+        "paint_code": "6C",
+        "slug": "clear-silver-metallic-6c",
+        "reference_url": "https://www.paintscratch.com/colors/kia/clear-silver-metallic-6c/",
+        "source_label": "PaintScratch 2008 Kia",
+        "hex_value": "#E7E6E3"
+      },
+      {
+        "display_name": "Claret Red Metallic",
+        "paint_code": "7P",
+        "slug": "claret-red-metallic-7p",
+        "reference_url": "https://www.paintscratch.com/colors/kia/claret-red-metallic-7p/",
+        "source_label": "PaintScratch 2008 Kia",
+        "hex_value": "#851127"
+      },
+      {
+        "display_name": "Ebony Black",
+        "paint_code": "EB",
+        "slug": "ebony-black-eb",
+        "reference_url": "https://www.paintscratch.com/colors/kia/ebony-black-eb/",
+        "source_label": "PaintScratch 2008 Kia",
+        "hex_value": "#0E1407"
+      },
+      {
+        "display_name": "Polar Blue Silver Metallic",
+        "paint_code": "J1",
+        "slug": "polar-blue-silver-metallic-j1",
+        "reference_url": "https://www.paintscratch.com/colors/kia/polar-blue-silver-metallic-j1/",
+        "source_label": "PaintScratch 2008 Kia",
+        "hex_value": "#BECFD6"
+      },
+      {
+        "display_name": "Lt. Almond Beige Metallic",
+        "paint_code": "J6",
+        "slug": "lt-almond-beige-metallic-j6",
+        "reference_url": "https://www.paintscratch.com/colors/kia/lt-almond-beige-metallic-j6/",
+        "source_label": "PaintScratch 2008 Kia",
+        "hex_value": "#EAE5AA"
+      },
+      {
+        "display_name": "Ice Blue Metallic",
+        "paint_code": "L1",
+        "slug": "ice-blue-metallic-l1",
+        "reference_url": "https://www.paintscratch.com/colors/kia/ice-blue-metallic-l1/",
+        "source_label": "PaintScratch 2008 Kia",
+        "hex_value": "#A2A4A6"
+      },
+      {
+        "display_name": "Sunset Orange Metallic",
+        "paint_code": "O6",
+        "slug": "sunset-orange-metallic-o6",
+        "reference_url": "https://www.paintscratch.com/colors/kia/sunset-orange-metallic-o6/",
+        "source_label": "PaintScratch 2008 Kia",
+        "hex_value": "#DF8340"
+      },
+      {
+        "display_name": "Sapphire Blue Metallic",
+        "paint_code": "T5",
+        "slug": "sapphire-blue-metallic-t5",
+        "reference_url": "https://www.paintscratch.com/colors/kia/sapphire-blue-metallic-t5/",
+        "source_label": "PaintScratch 2008 Kia",
+        "hex_value": "#5678DC"
+      },
+      {
+        "display_name": "Vert Jade Pearl Metallic",
+        "paint_code": "1L",
+        "slug": "vert-jade-pearl-metallic-1l",
+        "reference_url": "https://www.paintscratch.com/colors/kia/vert-jade-pearl-metallic-1l/",
+        "source_label": "PaintScratch 2008 Kia",
+        "hex_value": "#909F8B"
+      },
+      {
+        "display_name": "Urban Gray Metallic",
+        "paint_code": "1U",
+        "slug": "urban-gray-metallic-1u",
+        "reference_url": "https://www.paintscratch.com/colors/kia/urban-gray-metallic-1u/",
+        "source_label": "PaintScratch 2008 Kia",
+        "hex_value": "#4A4942"
+      },
+      {
+        "display_name": "Bright Silver Metallic",
+        "paint_code": "3D",
+        "slug": "bright-silver-metallic-3d",
+        "reference_url": "https://www.paintscratch.com/colors/kia/bright-silver-metallic-3d/",
+        "source_label": "PaintScratch 2008 Kia",
+        "hex_value": "#F5F4F1"
+      },
+      {
+        "display_name": "Volcanic Red Pearl Metallic",
+        "paint_code": "3H/3P",
+        "slug": "volcanic-red-pearl-metallic-3h3p",
+        "reference_url": "https://www.paintscratch.com/colors/kia/volcanic-red-pearl-metallic-3h3p/",
+        "source_label": "PaintScratch 2008 Kia",
+        "hex_value": "#841616"
+      }
+    ],
+    "2009": [
+      {
+        "display_name": "Titanium Silver Metallic",
+        "paint_code": "IM",
+        "slug": "titanium-silver-metallic-im",
+        "reference_url": "https://www.paintscratch.com/colors/kia/titanium-silver-metallic-im/",
+        "source_label": "PaintScratch 2009 Kia",
+        "hex_value": "#E2DBBC"
+      },
+      {
+        "display_name": "Black Cherry Pearl",
+        "paint_code": "9P/9H",
+        "slug": "black-cherry-pearl-9p9h",
+        "reference_url": "https://www.paintscratch.com/colors/kia/black-cherry-pearl-9p9h/",
+        "source_label": "PaintScratch 2009 Kia",
+        "hex_value": "#432E27"
+      },
+      {
+        "display_name": "Clear White",
+        "paint_code": "1D/UD",
+        "slug": "clear-white-1dud",
+        "reference_url": "https://www.paintscratch.com/colors/kia/clear-white-1dud/",
+        "source_label": "PaintScratch 2009 Kia",
+        "hex_value": "#FBFBF9"
+      },
+      {
+        "display_name": "Tomato Red",
+        "paint_code": "1E",
+        "slug": "tomato-red-1e",
+        "reference_url": "https://www.paintscratch.com/colors/kia/tomato-red-1e/",
+        "source_label": "PaintScratch 2009 Kia",
+        "hex_value": "#A1211B"
+      },
+      {
+        "display_name": "Gold Beige Metallic",
+        "paint_code": "4Y",
+        "slug": "gold-beige-metallic-4y",
+        "reference_url": "https://www.paintscratch.com/colors/kia/gold-beige-metallic-4y/",
+        "source_label": "PaintScratch 2009 Kia",
+        "hex_value": "#CABC90"
+      },
+      {
+        "display_name": "Clear Silver Metallic",
+        "paint_code": "6C",
+        "slug": "clear-silver-metallic-6c",
+        "reference_url": "https://www.paintscratch.com/colors/kia/clear-silver-metallic-6c/",
+        "source_label": "PaintScratch 2009 Kia",
+        "hex_value": "#E7E6E3"
+      },
+      {
+        "display_name": "Claret Red Metallic",
+        "paint_code": "7P",
+        "slug": "claret-red-metallic-7p",
+        "reference_url": "https://www.paintscratch.com/colors/kia/claret-red-metallic-7p/",
+        "source_label": "PaintScratch 2009 Kia",
+        "hex_value": "#851127"
+      },
+      {
+        "display_name": "Metal Bronze Metallic",
+        "paint_code": "D0",
+        "slug": "metal-bronze-metallic-d0",
+        "reference_url": "https://www.paintscratch.com/colors/kia/metal-bronze-metallic-d0/",
+        "source_label": "PaintScratch 2009 Kia",
+        "hex_value": "#B7A67D"
+      },
+      {
+        "display_name": "Ebony Black",
+        "paint_code": "EB",
+        "slug": "ebony-black-eb",
+        "reference_url": "https://www.paintscratch.com/colors/kia/ebony-black-eb/",
+        "source_label": "PaintScratch 2009 Kia",
+        "hex_value": "#0E1407"
+      },
+      {
+        "display_name": "Moonlight Blue Metallic",
+        "paint_code": "I2",
+        "slug": "moonlight-blue-metallic-i2",
+        "reference_url": "https://www.paintscratch.com/colors/kia/moonlight-blue-metallic-i2/",
+        "source_label": "PaintScratch 2009 Kia",
+        "hex_value": "#5C7872"
+      },
+      {
+        "display_name": "Polar Blue Silver Metallic",
+        "paint_code": "J1",
+        "slug": "polar-blue-silver-metallic-j1",
+        "reference_url": "https://www.paintscratch.com/colors/kia/polar-blue-silver-metallic-j1/",
+        "source_label": "PaintScratch 2009 Kia",
+        "hex_value": "#BECFD6"
+      },
+      {
+        "display_name": "Lt. Almond Beige Metallic",
+        "paint_code": "J6",
+        "slug": "lt-almond-beige-metallic-j6",
+        "reference_url": "https://www.paintscratch.com/colors/kia/lt-almond-beige-metallic-j6/",
+        "source_label": "PaintScratch 2009 Kia",
+        "hex_value": "#EAE5AA"
+      },
+      {
+        "display_name": "Ice Blue Metallic",
+        "paint_code": "L1",
+        "slug": "ice-blue-metallic-l1",
+        "reference_url": "https://www.paintscratch.com/colors/kia/ice-blue-metallic-l1/",
+        "source_label": "PaintScratch 2009 Kia",
+        "hex_value": "#A2A4A6"
+      },
+      {
+        "display_name": "Sunset Orange Metallic",
+        "paint_code": "O6",
+        "slug": "sunset-orange-metallic-o6",
+        "reference_url": "https://www.paintscratch.com/colors/kia/sunset-orange-metallic-o6/",
+        "source_label": "PaintScratch 2009 Kia",
+        "hex_value": "#DF8340"
+      },
+      {
+        "display_name": "Sapphire Blue Metallic",
+        "paint_code": "T5",
+        "slug": "sapphire-blue-metallic-t5",
+        "reference_url": "https://www.paintscratch.com/colors/kia/sapphire-blue-metallic-t5/",
+        "source_label": "PaintScratch 2009 Kia",
+        "hex_value": "#5678DC"
+      },
+      {
+        "display_name": "Bright Silver Metallic",
+        "paint_code": "3D",
+        "slug": "bright-silver-metallic-3d",
+        "reference_url": "https://www.paintscratch.com/colors/kia/bright-silver-metallic-3d/",
+        "source_label": "PaintScratch 2009 Kia",
+        "hex_value": "#F5F4F1"
+      }
+    ],
+    "2010": [
+      {
+        "display_name": "Snow White Tricoat",
+        "paint_code": "SWP/SWA",
+        "slug": "snow-white-tricoat-swpswa",
+        "reference_url": "https://www.paintscratch.com/colors/kia/snow-white-tricoat-swpswa/",
+        "source_label": "PaintScratch 2010 Kia",
+        "hex_value": "#F5F3ED"
+      },
+      {
+        "display_name": "Titanium Silver Metallic",
+        "paint_code": "IM",
+        "slug": "titanium-silver-metallic-im",
+        "reference_url": "https://www.paintscratch.com/colors/kia/titanium-silver-metallic-im/",
+        "source_label": "PaintScratch 2010 Kia",
+        "hex_value": "#E2DBBC"
+      },
+      {
+        "display_name": "Black Cherry Pearl",
+        "paint_code": "9P/9H",
+        "slug": "black-cherry-pearl-9p9h",
+        "reference_url": "https://www.paintscratch.com/colors/kia/black-cherry-pearl-9p9h/",
+        "source_label": "PaintScratch 2010 Kia",
+        "hex_value": "#432E27"
+      },
+      {
+        "display_name": "Clear White",
+        "paint_code": "1D/UD",
+        "slug": "clear-white-1dud",
+        "reference_url": "https://www.paintscratch.com/colors/kia/clear-white-1dud/",
+        "source_label": "PaintScratch 2010 Kia",
+        "hex_value": "#FBFBF9"
+      },
+      {
+        "display_name": "Silky Silver Metallic",
+        "paint_code": "4SS",
+        "slug": "silky-silver-metallic-4ss",
+        "reference_url": "https://www.paintscratch.com/colors/kia/silky-silver-metallic-4ss/",
+        "source_label": "PaintScratch 2010 Kia",
+        "hex_value": "#E8E2DC"
+      },
+      {
+        "display_name": "Aurora Black Pearl",
+        "paint_code": "ABP",
+        "slug": "aurora-black-pearl-abp",
+        "reference_url": "https://www.paintscratch.com/colors/kia/aurora-black-pearl-abp/",
+        "source_label": "PaintScratch 2010 Kia",
+        "hex_value": "#3B3B4B"
+      },
+      {
+        "display_name": "Platinum Graphite Metallic",
+        "paint_code": "ABT",
+        "slug": "platinum-graphite-metallic-abt",
+        "reference_url": "https://www.paintscratch.com/colors/kia/platinum-graphite-metallic-abt/",
+        "source_label": "PaintScratch 2010 Kia",
+        "hex_value": "#777261"
+      },
+      {
+        "display_name": "Smokey Blue Pearl Metallic",
+        "paint_code": "B3U",
+        "slug": "smokey-blue-pearl-metallic-b3u",
+        "reference_url": "https://www.paintscratch.com/colors/kia/smokey-blue-pearl-metallic-b3u/",
+        "source_label": "PaintScratch 2010 Kia",
+        "hex_value": "#485060"
+      },
+      {
+        "display_name": "Tomato Red",
+        "paint_code": "1E",
+        "slug": "tomato-red-1e",
+        "reference_url": "https://www.paintscratch.com/colors/kia/tomato-red-1e/",
+        "source_label": "PaintScratch 2010 Kia",
+        "hex_value": "#A1211B"
+      },
+      {
+        "display_name": "Clear Silver Metallic",
+        "paint_code": "6C",
+        "slug": "clear-silver-metallic-6c",
+        "reference_url": "https://www.paintscratch.com/colors/kia/clear-silver-metallic-6c/",
+        "source_label": "PaintScratch 2010 Kia",
+        "hex_value": "#E7E6E3"
+      },
+      {
+        "display_name": "Claret Red Metallic",
+        "paint_code": "7P",
+        "slug": "claret-red-metallic-7p",
+        "reference_url": "https://www.paintscratch.com/colors/kia/claret-red-metallic-7p/",
+        "source_label": "PaintScratch 2010 Kia",
+        "hex_value": "#851127"
+      },
+      {
+        "display_name": "Metal Bronze Metallic",
+        "paint_code": "D0",
+        "slug": "metal-bronze-metallic-d0",
+        "reference_url": "https://www.paintscratch.com/colors/kia/metal-bronze-metallic-d0/",
+        "source_label": "PaintScratch 2010 Kia",
+        "hex_value": "#B7A67D"
+      },
+      {
+        "display_name": "Ebony Black",
+        "paint_code": "EB",
+        "slug": "ebony-black-eb",
+        "reference_url": "https://www.paintscratch.com/colors/kia/ebony-black-eb/",
+        "source_label": "PaintScratch 2010 Kia",
+        "hex_value": "#0E1407"
+      },
+      {
+        "display_name": "Moonlight Blue Metallic",
+        "paint_code": "I2",
+        "slug": "moonlight-blue-metallic-i2",
+        "reference_url": "https://www.paintscratch.com/colors/kia/moonlight-blue-metallic-i2/",
+        "source_label": "PaintScratch 2010 Kia",
+        "hex_value": "#5C7872"
+      },
+      {
+        "display_name": "Dark Cherry Pearl",
+        "paint_code": "IR/IRR",
+        "slug": "dark-cherry-pearl-irirr",
+        "reference_url": "https://www.paintscratch.com/colors/kia/dark-cherry-pearl-irirr/",
+        "source_label": "PaintScratch 2010 Kia",
+        "hex_value": "#90261E"
+      },
+      {
+        "display_name": "Sparkling Silver",
+        "paint_code": "KCS",
+        "slug": "sparkling-silver-kcs",
+        "reference_url": "https://www.paintscratch.com/colors/kia/sparkling-silver-kcs/",
+        "source_label": "PaintScratch 2010 Kia",
+        "hex_value": "#CAD1D8"
+      }
+    ],
+    "2011": [
+      {
+        "display_name": "Titanium Silver Metallic",
+        "paint_code": "IM",
+        "slug": "titanium-silver-metallic-im",
+        "reference_url": "https://www.paintscratch.com/colors/kia/titanium-silver-metallic-im/",
+        "source_label": "PaintScratch 2011 Kia",
+        "hex_value": "#E2DBBC"
+      },
+      {
+        "display_name": "Black Cherry Pearl",
+        "paint_code": "9P/9H",
+        "slug": "black-cherry-pearl-9p9h",
+        "reference_url": "https://www.paintscratch.com/colors/kia/black-cherry-pearl-9p9h/",
+        "source_label": "PaintScratch 2011 Kia",
+        "hex_value": "#432E27"
+      },
+      {
+        "display_name": "Clear White",
+        "paint_code": "1D/UD",
+        "slug": "clear-white-1dud",
+        "reference_url": "https://www.paintscratch.com/colors/kia/clear-white-1dud/",
+        "source_label": "PaintScratch 2011 Kia",
+        "hex_value": "#FBFBF9"
+      },
+      {
+        "display_name": "Bright Silver Metallic",
+        "paint_code": "3D/A3D",
+        "slug": "bright-silver-metallic-3da3d",
+        "reference_url": "https://www.paintscratch.com/colors/kia/bright-silver-metallic-3da3d/",
+        "source_label": "PaintScratch 2011 Kia",
+        "hex_value": "#F5F4F1"
+      },
+      {
+        "display_name": "Platinum Graphite Metallic",
+        "paint_code": "ABT",
+        "slug": "platinum-graphite-metallic-abt",
+        "reference_url": "https://www.paintscratch.com/colors/kia/platinum-graphite-metallic-abt/",
+        "source_label": "PaintScratch 2011 Kia",
+        "hex_value": "#777261"
+      },
+      {
+        "display_name": "Tomato Red",
+        "paint_code": "1E",
+        "slug": "tomato-red-1e",
+        "reference_url": "https://www.paintscratch.com/colors/kia/tomato-red-1e/",
+        "source_label": "PaintScratch 2011 Kia",
+        "hex_value": "#A1211B"
+      },
+      {
+        "display_name": "Clear Silver Metallic",
+        "paint_code": "6C",
+        "slug": "clear-silver-metallic-6c",
+        "reference_url": "https://www.paintscratch.com/colors/kia/clear-silver-metallic-6c/",
+        "source_label": "PaintScratch 2011 Kia",
+        "hex_value": "#E7E6E3"
+      },
+      {
+        "display_name": "Claret Red Metallic",
+        "paint_code": "7P",
+        "slug": "claret-red-metallic-7p",
+        "reference_url": "https://www.paintscratch.com/colors/kia/claret-red-metallic-7p/",
+        "source_label": "PaintScratch 2011 Kia",
+        "hex_value": "#851127"
+      },
+      {
+        "display_name": "Signal Red Pearl",
+        "paint_code": "BEG",
+        "slug": "signal-red-pearl-beg",
+        "reference_url": "https://www.paintscratch.com/colors/kia/signal-red-pearl-beg/",
+        "source_label": "PaintScratch 2011 Kia",
+        "hex_value": "#A41212"
+      },
+      {
+        "display_name": "Metal Bronze Metallic",
+        "paint_code": "D0",
+        "slug": "metal-bronze-metallic-d0",
+        "reference_url": "https://www.paintscratch.com/colors/kia/metal-bronze-metallic-d0/",
+        "source_label": "PaintScratch 2011 Kia",
+        "hex_value": "#B7A67D"
+      },
+      {
+        "display_name": "Mineral Silver Metallic",
+        "paint_code": "E6S",
+        "slug": "mineral-silver-metallic-e6s",
+        "reference_url": "https://www.paintscratch.com/colors/kia/mineral-silver-metallic-e6s/",
+        "source_label": "PaintScratch 2011 Kia",
+        "hex_value": "#E6E6C6"
+      },
+      {
+        "display_name": "Ebony Black",
+        "paint_code": "EB",
+        "slug": "ebony-black-eb",
+        "reference_url": "https://www.paintscratch.com/colors/kia/ebony-black-eb/",
+        "source_label": "PaintScratch 2011 Kia",
+        "hex_value": "#0E1407"
+      },
+      {
+        "display_name": "Moonlight Blue Metallic",
+        "paint_code": "I2",
+        "slug": "moonlight-blue-metallic-i2",
+        "reference_url": "https://www.paintscratch.com/colors/kia/moonlight-blue-metallic-i2/",
+        "source_label": "PaintScratch 2011 Kia",
+        "hex_value": "#5C7872"
+      },
+      {
+        "display_name": "Dark Cherry Pearl",
+        "paint_code": "IR/IRR",
+        "slug": "dark-cherry-pearl-irirr",
+        "reference_url": "https://www.paintscratch.com/colors/kia/dark-cherry-pearl-irirr/",
+        "source_label": "PaintScratch 2011 Kia",
+        "hex_value": "#90261E"
+      },
+      {
+        "display_name": "Sunset Orange Metallic",
+        "paint_code": "O6",
+        "slug": "sunset-orange-metallic-o6",
+        "reference_url": "https://www.paintscratch.com/colors/kia/sunset-orange-metallic-o6/",
+        "source_label": "PaintScratch 2011 Kia",
+        "hex_value": "#DF8340"
+      },
+      {
+        "display_name": "Snow White Tricoat",
+        "paint_code": "SWP",
+        "slug": "snow-white-tricoat-swp",
+        "reference_url": "https://www.paintscratch.com/colors/kia/snow-white-tricoat-swp/",
+        "source_label": "PaintScratch 2011 Kia",
+        "hex_value": "#F5F3ED"
+      }
+    ],
+    "2012": [
+      {
+        "display_name": "Snow White Tricoat",
+        "paint_code": "SWP/SWA",
+        "slug": "snow-white-tricoat-swpswa",
+        "reference_url": "https://www.paintscratch.com/colors/kia/snow-white-tricoat-swpswa/",
+        "source_label": "PaintScratch 2012 Kia",
+        "hex_value": "#F5F3ED"
+      },
+      {
+        "display_name": "Titanium Silver Metallic",
+        "paint_code": "IM",
+        "slug": "titanium-silver-metallic-im",
+        "reference_url": "https://www.paintscratch.com/colors/kia/titanium-silver-metallic-im/",
+        "source_label": "PaintScratch 2012 Kia",
+        "hex_value": "#E2DBBC"
+      },
+      {
+        "display_name": "Black Cherry Pearl",
+        "paint_code": "9P/9H",
+        "slug": "black-cherry-pearl-9p9h",
+        "reference_url": "https://www.paintscratch.com/colors/kia/black-cherry-pearl-9p9h/",
+        "source_label": "PaintScratch 2012 Kia",
+        "hex_value": "#432E27"
+      },
+      {
+        "display_name": "Clear White",
+        "paint_code": "1D/UD",
+        "slug": "clear-white-1dud",
+        "reference_url": "https://www.paintscratch.com/colors/kia/clear-white-1dud/",
+        "source_label": "PaintScratch 2012 Kia",
+        "hex_value": "#FBFBF9"
+      },
+      {
+        "display_name": "Bright Silver Metallic",
+        "paint_code": "3D/A3D",
+        "slug": "bright-silver-metallic-3da3d",
+        "reference_url": "https://www.paintscratch.com/colors/kia/bright-silver-metallic-3da3d/",
+        "source_label": "PaintScratch 2012 Kia",
+        "hex_value": "#F5F4F1"
+      },
+      {
+        "display_name": "Aurora Black Pearl",
+        "paint_code": "ABP",
+        "slug": "aurora-black-pearl-abp",
+        "reference_url": "https://www.paintscratch.com/colors/kia/aurora-black-pearl-abp/",
+        "source_label": "PaintScratch 2012 Kia",
+        "hex_value": "#3B3B4B"
+      },
+      {
+        "display_name": "Platinum Graphite Metallic",
+        "paint_code": "ABT",
+        "slug": "platinum-graphite-metallic-abt",
+        "reference_url": "https://www.paintscratch.com/colors/kia/platinum-graphite-metallic-abt/",
+        "source_label": "PaintScratch 2012 Kia",
+        "hex_value": "#777261"
+      },
+      {
+        "display_name": "Tomato Red",
+        "paint_code": "1E",
+        "slug": "tomato-red-1e",
+        "reference_url": "https://www.paintscratch.com/colors/kia/tomato-red-1e/",
+        "source_label": "PaintScratch 2012 Kia",
+        "hex_value": "#A1211B"
+      },
+      {
+        "display_name": "Clear Silver Metallic",
+        "paint_code": "6C",
+        "slug": "clear-silver-metallic-6c",
+        "reference_url": "https://www.paintscratch.com/colors/kia/clear-silver-metallic-6c/",
+        "source_label": "PaintScratch 2012 Kia",
+        "hex_value": "#E7E6E3"
+      },
+      {
+        "display_name": "Claret Red Metallic",
+        "paint_code": "7P",
+        "slug": "claret-red-metallic-7p",
+        "reference_url": "https://www.paintscratch.com/colors/kia/claret-red-metallic-7p/",
+        "source_label": "PaintScratch 2012 Kia",
+        "hex_value": "#851127"
+      },
+      {
+        "display_name": "Signal Red Pearl",
+        "paint_code": "BEG",
+        "slug": "signal-red-pearl-beg",
+        "reference_url": "https://www.paintscratch.com/colors/kia/signal-red-pearl-beg/",
+        "source_label": "PaintScratch 2012 Kia",
+        "hex_value": "#A41212"
+      },
+      {
+        "display_name": "Formal Deep Blue Pearl",
+        "paint_code": "BLA",
+        "slug": "formal-deep-blue-pearl-bla",
+        "reference_url": "https://www.paintscratch.com/colors/kia/formal-deep-blue-pearl-bla/",
+        "source_label": "PaintScratch 2012 Kia",
+        "hex_value": "#3C4354"
+      },
+      {
+        "display_name": "Metal Bronze Metallic",
+        "paint_code": "D0",
+        "slug": "metal-bronze-metallic-d0",
+        "reference_url": "https://www.paintscratch.com/colors/kia/metal-bronze-metallic-d0/",
+        "source_label": "PaintScratch 2012 Kia",
+        "hex_value": "#B7A67D"
+      },
+      {
+        "display_name": "Mineral Silver Metallic",
+        "paint_code": "E6S",
+        "slug": "mineral-silver-metallic-e6s",
+        "reference_url": "https://www.paintscratch.com/colors/kia/mineral-silver-metallic-e6s/",
+        "source_label": "PaintScratch 2012 Kia",
+        "hex_value": "#E6E6C6"
+      },
+      {
+        "display_name": "Ebony Black",
+        "paint_code": "EB",
+        "slug": "ebony-black-eb",
+        "reference_url": "https://www.paintscratch.com/colors/kia/ebony-black-eb/",
+        "source_label": "PaintScratch 2012 Kia",
+        "hex_value": "#0E1407"
+      },
+      {
+        "display_name": "Moonlight Blue Metallic",
+        "paint_code": "I2",
+        "slug": "moonlight-blue-metallic-i2",
+        "reference_url": "https://www.paintscratch.com/colors/kia/moonlight-blue-metallic-i2/",
+        "source_label": "PaintScratch 2012 Kia",
+        "hex_value": "#5C7872"
+      }
+    ],
+    "2013": [
+      {
+        "display_name": "Snow White Tricoat",
+        "paint_code": "SWP/SWA",
+        "slug": "snow-white-tricoat-swpswa",
+        "reference_url": "https://www.paintscratch.com/colors/kia/snow-white-tricoat-swpswa/",
+        "source_label": "PaintScratch 2013 Kia",
+        "hex_value": "#F5F3ED"
+      },
+      {
+        "display_name": "Titanium Silver Metallic",
+        "paint_code": "IM",
+        "slug": "titanium-silver-metallic-im",
+        "reference_url": "https://www.paintscratch.com/colors/kia/titanium-silver-metallic-im/",
+        "source_label": "PaintScratch 2013 Kia",
+        "hex_value": "#E2DBBC"
+      },
+      {
+        "display_name": "Black Cherry Pearl",
+        "paint_code": "9P/9H",
+        "slug": "black-cherry-pearl-9p9h",
+        "reference_url": "https://www.paintscratch.com/colors/kia/black-cherry-pearl-9p9h/",
+        "source_label": "PaintScratch 2013 Kia",
+        "hex_value": "#432E27"
+      },
+      {
+        "display_name": "Clear White",
+        "paint_code": "1D/UD",
+        "slug": "clear-white-1dud",
+        "reference_url": "https://www.paintscratch.com/colors/kia/clear-white-1dud/",
+        "source_label": "PaintScratch 2013 Kia",
+        "hex_value": "#FBFBF9"
+      },
+      {
+        "display_name": "Bright Silver Metallic",
+        "paint_code": "3D/A3D",
+        "slug": "bright-silver-metallic-3da3d",
+        "reference_url": "https://www.paintscratch.com/colors/kia/bright-silver-metallic-3da3d/",
+        "source_label": "PaintScratch 2013 Kia",
+        "hex_value": "#F5F4F1"
+      },
+      {
+        "display_name": "Aurora Black Pearl",
+        "paint_code": "ABP",
+        "slug": "aurora-black-pearl-abp",
+        "reference_url": "https://www.paintscratch.com/colors/kia/aurora-black-pearl-abp/",
+        "source_label": "PaintScratch 2013 Kia",
+        "hex_value": "#3B3B4B"
+      },
+      {
+        "display_name": "Platinum Graphite Metallic",
+        "paint_code": "ABT",
+        "slug": "platinum-graphite-metallic-abt",
+        "reference_url": "https://www.paintscratch.com/colors/kia/platinum-graphite-metallic-abt/",
+        "source_label": "PaintScratch 2013 Kia",
+        "hex_value": "#777261"
+      },
+      {
+        "display_name": "Tomato Red",
+        "paint_code": "1E",
+        "slug": "tomato-red-1e",
+        "reference_url": "https://www.paintscratch.com/colors/kia/tomato-red-1e/",
+        "source_label": "PaintScratch 2013 Kia",
+        "hex_value": "#A1211B"
+      },
+      {
+        "display_name": "Signal Red Pearl",
+        "paint_code": "BEG",
+        "slug": "signal-red-pearl-beg",
+        "reference_url": "https://www.paintscratch.com/colors/kia/signal-red-pearl-beg/",
+        "source_label": "PaintScratch 2013 Kia",
+        "hex_value": "#A41212"
+      },
+      {
+        "display_name": "Formal Deep Blue Pearl",
+        "paint_code": "BLA",
+        "slug": "formal-deep-blue-pearl-bla",
+        "reference_url": "https://www.paintscratch.com/colors/kia/formal-deep-blue-pearl-bla/",
+        "source_label": "PaintScratch 2013 Kia",
+        "hex_value": "#3C4354"
+      },
+      {
+        "display_name": "Metal Bronze Metallic",
+        "paint_code": "D0",
+        "slug": "metal-bronze-metallic-d0",
+        "reference_url": "https://www.paintscratch.com/colors/kia/metal-bronze-metallic-d0/",
+        "source_label": "PaintScratch 2013 Kia",
+        "hex_value": "#B7A67D"
+      },
+      {
+        "display_name": "Mineral Silver Metallic",
+        "paint_code": "E6S",
+        "slug": "mineral-silver-metallic-e6s",
+        "reference_url": "https://www.paintscratch.com/colors/kia/mineral-silver-metallic-e6s/",
+        "source_label": "PaintScratch 2013 Kia",
+        "hex_value": "#E6E6C6"
+      },
+      {
+        "display_name": "Ebony Black",
+        "paint_code": "EB",
+        "slug": "ebony-black-eb",
+        "reference_url": "https://www.paintscratch.com/colors/kia/ebony-black-eb/",
+        "source_label": "PaintScratch 2013 Kia",
+        "hex_value": "#0E1407"
+      },
+      {
+        "display_name": "Moonlight Blue Metallic",
+        "paint_code": "I2",
+        "slug": "moonlight-blue-metallic-i2",
+        "reference_url": "https://www.paintscratch.com/colors/kia/moonlight-blue-metallic-i2/",
+        "source_label": "PaintScratch 2013 Kia",
+        "hex_value": "#5C7872"
+      },
+      {
+        "display_name": "Dark Cherry Pearl",
+        "paint_code": "IR/IRR",
+        "slug": "dark-cherry-pearl-irirr",
+        "reference_url": "https://www.paintscratch.com/colors/kia/dark-cherry-pearl-irirr/",
+        "source_label": "PaintScratch 2013 Kia",
+        "hex_value": "#90261E"
+      },
+      {
+        "display_name": "Spicy Red Metallic",
+        "paint_code": "IY/IYR",
+        "slug": "spicy-red-metallic-iyiyr",
+        "reference_url": "https://www.paintscratch.com/colors/kia/spicy-red-metallic-iyiyr/",
+        "source_label": "PaintScratch 2013 Kia",
+        "hex_value": "#8D2F34"
+      }
+    ],
+    "2014": [
+      {
+        "display_name": "Snow White Tricoat",
+        "paint_code": "SWP/SWA",
+        "slug": "snow-white-tricoat-swpswa",
+        "reference_url": "https://www.paintscratch.com/colors/kia/snow-white-tricoat-swpswa/",
+        "source_label": "PaintScratch 2014 Kia",
+        "hex_value": "#F5F3ED"
+      },
+      {
+        "display_name": "Titanium Silver Metallic",
+        "paint_code": "IM",
+        "slug": "titanium-silver-metallic-im",
+        "reference_url": "https://www.paintscratch.com/colors/kia/titanium-silver-metallic-im/",
+        "source_label": "PaintScratch 2014 Kia",
+        "hex_value": "#E2DBBC"
+      },
+      {
+        "display_name": "Black Cherry Pearl",
+        "paint_code": "9P/9H",
+        "slug": "black-cherry-pearl-9p9h",
+        "reference_url": "https://www.paintscratch.com/colors/kia/black-cherry-pearl-9p9h/",
+        "source_label": "PaintScratch 2014 Kia",
+        "hex_value": "#432E27"
+      },
+      {
+        "display_name": "Clear White",
+        "paint_code": "1D/UD",
+        "slug": "clear-white-1dud",
+        "reference_url": "https://www.paintscratch.com/colors/kia/clear-white-1dud/",
+        "source_label": "PaintScratch 2014 Kia",
+        "hex_value": "#FBFBF9"
+      },
+      {
+        "display_name": "Bright Silver Metallic",
+        "paint_code": "3D/A3D",
+        "slug": "bright-silver-metallic-3da3d",
+        "reference_url": "https://www.paintscratch.com/colors/kia/bright-silver-metallic-3da3d/",
+        "source_label": "PaintScratch 2014 Kia",
+        "hex_value": "#F5F4F1"
+      },
+      {
+        "display_name": "Aurora Black Pearl",
+        "paint_code": "ABP",
+        "slug": "aurora-black-pearl-abp",
+        "reference_url": "https://www.paintscratch.com/colors/kia/aurora-black-pearl-abp/",
+        "source_label": "PaintScratch 2014 Kia",
+        "hex_value": "#3B3B4B"
+      },
+      {
+        "display_name": "Platinum Graphite Metallic",
+        "paint_code": "ABT",
+        "slug": "platinum-graphite-metallic-abt",
+        "reference_url": "https://www.paintscratch.com/colors/kia/platinum-graphite-metallic-abt/",
+        "source_label": "PaintScratch 2014 Kia",
+        "hex_value": "#777261"
+      },
+      {
+        "display_name": "Smokey Blue Pearl Metallic",
+        "paint_code": "B3U",
+        "slug": "smokey-blue-pearl-metallic-b3u",
+        "reference_url": "https://www.paintscratch.com/colors/kia/smokey-blue-pearl-metallic-b3u/",
+        "source_label": "PaintScratch 2014 Kia",
+        "hex_value": "#485060"
+      },
+      {
+        "display_name": "Claret Red Metallic",
+        "paint_code": "7P",
+        "slug": "claret-red-metallic-7p",
+        "reference_url": "https://www.paintscratch.com/colors/kia/claret-red-metallic-7p/",
+        "source_label": "PaintScratch 2014 Kia",
+        "hex_value": "#851127"
+      },
+      {
+        "display_name": "Inferno Red Metallic",
+        "paint_code": "AJR",
+        "slug": "inferno-red-metallic-ajr",
+        "reference_url": "https://www.paintscratch.com/colors/kia/inferno-red-metallic-ajr/",
+        "source_label": "PaintScratch 2014 Kia",
+        "hex_value": "#A01912"
+      },
+      {
+        "display_name": "Solar Yellow",
+        "paint_code": "AYE",
+        "slug": "solar-yellow-aye",
+        "reference_url": "https://www.paintscratch.com/colors/kia/solar-yellow-aye/",
+        "source_label": "PaintScratch 2014 Kia",
+        "hex_value": "#CBBC39"
+      },
+      {
+        "display_name": "Signal Red Pearl",
+        "paint_code": "BEG",
+        "slug": "signal-red-pearl-beg",
+        "reference_url": "https://www.paintscratch.com/colors/kia/signal-red-pearl-beg/",
+        "source_label": "PaintScratch 2014 Kia",
+        "hex_value": "#A41212"
+      },
+      {
+        "display_name": "Formal Deep Blue Pearl",
+        "paint_code": "BLA",
+        "slug": "formal-deep-blue-pearl-bla",
+        "reference_url": "https://www.paintscratch.com/colors/kia/formal-deep-blue-pearl-bla/",
+        "source_label": "PaintScratch 2014 Kia",
+        "hex_value": "#3C4354"
+      },
+      {
+        "display_name": "Metal Bronze Metallic",
+        "paint_code": "D0",
+        "slug": "metal-bronze-metallic-d0",
+        "reference_url": "https://www.paintscratch.com/colors/kia/metal-bronze-metallic-d0/",
+        "source_label": "PaintScratch 2014 Kia",
+        "hex_value": "#B7A67D"
+      },
+      {
+        "display_name": "Planet Blue Pearl",
+        "paint_code": "D7U",
+        "slug": "planet-blue-pearl-d7u",
+        "reference_url": "https://www.paintscratch.com/colors/kia/planet-blue-pearl-d7u/",
+        "source_label": "PaintScratch 2014 Kia",
+        "hex_value": "#5E7188"
+      },
+      {
+        "display_name": "Mineral Silver Metallic",
+        "paint_code": "E6S",
+        "slug": "mineral-silver-metallic-e6s",
+        "reference_url": "https://www.paintscratch.com/colors/kia/mineral-silver-metallic-e6s/",
+        "source_label": "PaintScratch 2014 Kia",
+        "hex_value": "#E6E6C6"
+      }
+    ],
+    "2015": [
+      {
+        "display_name": "Snow White Tricoat",
+        "paint_code": "SWP/SWA",
+        "slug": "snow-white-tricoat-swpswa",
+        "reference_url": "https://www.paintscratch.com/colors/kia/snow-white-tricoat-swpswa/",
+        "source_label": "PaintScratch 2015 Kia",
+        "hex_value": "#F5F3ED"
+      },
+      {
+        "display_name": "Titanium Silver Metallic",
+        "paint_code": "IM",
+        "slug": "titanium-silver-metallic-im",
+        "reference_url": "https://www.paintscratch.com/colors/kia/titanium-silver-metallic-im/",
+        "source_label": "PaintScratch 2015 Kia",
+        "hex_value": "#E2DBBC"
+      },
+      {
+        "display_name": "Clear White",
+        "paint_code": "1D/UD",
+        "slug": "clear-white-1dud",
+        "reference_url": "https://www.paintscratch.com/colors/kia/clear-white-1dud/",
+        "source_label": "PaintScratch 2015 Kia",
+        "hex_value": "#FBFBF9"
+      },
+      {
+        "display_name": "Bright Silver Metallic",
+        "paint_code": "3D/A3D",
+        "slug": "bright-silver-metallic-3da3d",
+        "reference_url": "https://www.paintscratch.com/colors/kia/bright-silver-metallic-3da3d/",
+        "source_label": "PaintScratch 2015 Kia",
+        "hex_value": "#F5F4F1"
+      },
+      {
+        "display_name": "Silky Silver Metallic",
+        "paint_code": "4SS",
+        "slug": "silky-silver-metallic-4ss",
+        "reference_url": "https://www.paintscratch.com/colors/kia/silky-silver-metallic-4ss/",
+        "source_label": "PaintScratch 2015 Kia",
+        "hex_value": "#E8E2DC"
+      },
+      {
+        "display_name": "Aurora Black Pearl",
+        "paint_code": "ABP",
+        "slug": "aurora-black-pearl-abp",
+        "reference_url": "https://www.paintscratch.com/colors/kia/aurora-black-pearl-abp/",
+        "source_label": "PaintScratch 2015 Kia",
+        "hex_value": "#3B3B4B"
+      },
+      {
+        "display_name": "Platinum Graphite Metallic",
+        "paint_code": "ABT",
+        "slug": "platinum-graphite-metallic-abt",
+        "reference_url": "https://www.paintscratch.com/colors/kia/platinum-graphite-metallic-abt/",
+        "source_label": "PaintScratch 2015 Kia",
+        "hex_value": "#777261"
+      },
+      {
+        "display_name": "Smokey Blue Pearl Metallic",
+        "paint_code": "B3U",
+        "slug": "smokey-blue-pearl-metallic-b3u",
+        "reference_url": "https://www.paintscratch.com/colors/kia/smokey-blue-pearl-metallic-b3u/",
+        "source_label": "PaintScratch 2015 Kia",
+        "hex_value": "#485060"
+      },
+      {
+        "display_name": "Black Berry Pearl",
+        "paint_code": "BGD",
+        "slug": "black-berry-pearl-bgd",
+        "reference_url": "https://www.paintscratch.com/colors/kia/black-berry-pearl-bgd/",
+        "source_label": "PaintScratch 2015 Kia",
+        "hex_value": "#510F22"
+      },
+      {
+        "display_name": "Sangria",
+        "paint_code": "M2R",
+        "slug": "sangria-m2r",
+        "reference_url": "https://www.paintscratch.com/colors/kia/sangria-m2r/",
+        "source_label": "PaintScratch 2015 Kia",
+        "hex_value": "#765F62"
+      },
+      {
+        "display_name": "Black Cherry Pearl",
+        "paint_code": "9H",
+        "slug": "black-cherry-pearl-9h",
+        "reference_url": "https://www.paintscratch.com/colors/kia/black-cherry-pearl-9h/",
+        "source_label": "PaintScratch 2015 Kia",
+        "hex_value": "#432E27"
+      },
+      {
+        "display_name": "Black Cherry Pearl",
+        "paint_code": "9P",
+        "slug": "black-cherry-pearl-9p",
+        "reference_url": "https://www.paintscratch.com/colors/kia/black-cherry-pearl-9p/",
+        "source_label": "PaintScratch 2015 Kia",
+        "hex_value": "#432E27"
+      },
+      {
+        "display_name": "Carribean Blue Metallic",
+        "paint_code": "AUB",
+        "slug": "carribean-blue-metallic-aub",
+        "reference_url": "https://www.paintscratch.com/colors/kia/carribean-blue-metallic-aub/",
+        "source_label": "PaintScratch 2015 Kia",
+        "hex_value": "#239BB1"
+      },
+      {
+        "display_name": "Solar Yellow",
+        "paint_code": "AYE",
+        "slug": "solar-yellow-aye",
+        "reference_url": "https://www.paintscratch.com/colors/kia/solar-yellow-aye/",
+        "source_label": "PaintScratch 2015 Kia",
+        "hex_value": "#CBBC39"
+      },
+      {
+        "display_name": "Signal Red Pearl",
+        "paint_code": "BEG",
+        "slug": "signal-red-pearl-beg",
+        "reference_url": "https://www.paintscratch.com/colors/kia/signal-red-pearl-beg/",
+        "source_label": "PaintScratch 2015 Kia",
+        "hex_value": "#A41212"
+      },
+      {
+        "display_name": "Formal Deep Blue Pearl",
+        "paint_code": "BLA",
+        "slug": "formal-deep-blue-pearl-bla",
+        "reference_url": "https://www.paintscratch.com/colors/kia/formal-deep-blue-pearl-bla/",
+        "source_label": "PaintScratch 2015 Kia",
+        "hex_value": "#3C4354"
+      }
+    ],
+    "2016": [
+      {
+        "display_name": "Snow White Tricoat",
+        "paint_code": "SWP/SWA",
+        "slug": "snow-white-tricoat-swpswa",
+        "reference_url": "https://www.paintscratch.com/colors/kia/snow-white-tricoat-swpswa/",
+        "source_label": "PaintScratch 2016 Kia",
+        "hex_value": "#F5F3ED"
+      },
+      {
+        "display_name": "Titanium Silver Metallic",
+        "paint_code": "IM",
+        "slug": "titanium-silver-metallic-im",
+        "reference_url": "https://www.paintscratch.com/colors/kia/titanium-silver-metallic-im/",
+        "source_label": "PaintScratch 2016 Kia",
+        "hex_value": "#E2DBBC"
+      },
+      {
+        "display_name": "Black Cherry Pearl",
+        "paint_code": "9P/9H",
+        "slug": "black-cherry-pearl-9p9h",
+        "reference_url": "https://www.paintscratch.com/colors/kia/black-cherry-pearl-9p9h/",
+        "source_label": "PaintScratch 2016 Kia",
+        "hex_value": "#432E27"
+      },
+      {
+        "display_name": "Clear White",
+        "paint_code": "1D/UD",
+        "slug": "clear-white-1dud",
+        "reference_url": "https://www.paintscratch.com/colors/kia/clear-white-1dud/",
+        "source_label": "PaintScratch 2016 Kia",
+        "hex_value": "#FBFBF9"
+      },
+      {
+        "display_name": "Bright Silver Metallic",
+        "paint_code": "3D/A3D",
+        "slug": "bright-silver-metallic-3da3d",
+        "reference_url": "https://www.paintscratch.com/colors/kia/bright-silver-metallic-3da3d/",
+        "source_label": "PaintScratch 2016 Kia",
+        "hex_value": "#F5F4F1"
+      },
+      {
+        "display_name": "Silky Silver Metallic",
+        "paint_code": "4SS",
+        "slug": "silky-silver-metallic-4ss",
+        "reference_url": "https://www.paintscratch.com/colors/kia/silky-silver-metallic-4ss/",
+        "source_label": "PaintScratch 2016 Kia",
+        "hex_value": "#E8E2DC"
+      },
+      {
+        "display_name": "Aurora Black Pearl",
+        "paint_code": "ABP",
+        "slug": "aurora-black-pearl-abp",
+        "reference_url": "https://www.paintscratch.com/colors/kia/aurora-black-pearl-abp/",
+        "source_label": "PaintScratch 2016 Kia",
+        "hex_value": "#3B3B4B"
+      },
+      {
+        "display_name": "Platinum Graphite Metallic",
+        "paint_code": "ABT",
+        "slug": "platinum-graphite-metallic-abt",
+        "reference_url": "https://www.paintscratch.com/colors/kia/platinum-graphite-metallic-abt/",
+        "source_label": "PaintScratch 2016 Kia",
+        "hex_value": "#777261"
+      },
+      {
+        "display_name": "Smokey Blue Pearl Metallic",
+        "paint_code": "B3U",
+        "slug": "smokey-blue-pearl-metallic-b3u",
+        "reference_url": "https://www.paintscratch.com/colors/kia/smokey-blue-pearl-metallic-b3u/",
+        "source_label": "PaintScratch 2016 Kia",
+        "hex_value": "#485060"
+      },
+      {
+        "display_name": "Black Berry Pearl",
+        "paint_code": "BGD",
+        "slug": "black-berry-pearl-bgd",
+        "reference_url": "https://www.paintscratch.com/colors/kia/black-berry-pearl-bgd/",
+        "source_label": "PaintScratch 2016 Kia",
+        "hex_value": "#510F22"
+      },
+      {
+        "display_name": "Sangria",
+        "paint_code": "M2R",
+        "slug": "sangria-m2r",
+        "reference_url": "https://www.paintscratch.com/colors/kia/sangria-m2r/",
+        "source_label": "PaintScratch 2016 Kia",
+        "hex_value": "#765F62"
+      },
+      {
+        "display_name": "Carribean Blue Metallic",
+        "paint_code": "AUB",
+        "slug": "carribean-blue-metallic-aub",
+        "reference_url": "https://www.paintscratch.com/colors/kia/carribean-blue-metallic-aub/",
+        "source_label": "PaintScratch 2016 Kia",
+        "hex_value": "#239BB1"
+      },
+      {
+        "display_name": "Solar Yellow",
+        "paint_code": "AYE",
+        "slug": "solar-yellow-aye",
+        "reference_url": "https://www.paintscratch.com/colors/kia/solar-yellow-aye/",
+        "source_label": "PaintScratch 2016 Kia",
+        "hex_value": "#CBBC39"
+      },
+      {
+        "display_name": "Deep Sea Blue Metallic",
+        "paint_code": "B2R",
+        "slug": "deep-sea-blue-metallic-b2r",
+        "reference_url": "https://www.paintscratch.com/colors/kia/deep-sea-blue-metallic-b2r/",
+        "source_label": "PaintScratch 2016 Kia",
+        "hex_value": "#071663"
+      },
+      {
+        "display_name": "Signal Red Pearl",
+        "paint_code": "BEG",
+        "slug": "signal-red-pearl-beg",
+        "reference_url": "https://www.paintscratch.com/colors/kia/signal-red-pearl-beg/",
+        "source_label": "PaintScratch 2016 Kia",
+        "hex_value": "#A41212"
+      },
+      {
+        "display_name": "Formal Deep Blue Pearl",
+        "paint_code": "BLA",
+        "slug": "formal-deep-blue-pearl-bla",
+        "reference_url": "https://www.paintscratch.com/colors/kia/formal-deep-blue-pearl-bla/",
+        "source_label": "PaintScratch 2016 Kia",
+        "hex_value": "#3C4354"
+      }
+    ],
+    "2017": [
+      {
+        "display_name": "Snow White Tricoat",
+        "paint_code": "SWP/SWA",
+        "slug": "snow-white-tricoat-swpswa",
+        "reference_url": "https://www.paintscratch.com/colors/kia/snow-white-tricoat-swpswa/",
+        "source_label": "PaintScratch 2017 Kia",
+        "hex_value": "#F5F3ED"
+      },
+      {
+        "display_name": "Titanium Silver Metallic",
+        "paint_code": "IM",
+        "slug": "titanium-silver-metallic-im",
+        "reference_url": "https://www.paintscratch.com/colors/kia/titanium-silver-metallic-im/",
+        "source_label": "PaintScratch 2017 Kia",
+        "hex_value": "#E2DBBC"
+      },
+      {
+        "display_name": "Black Cherry Pearl",
+        "paint_code": "9P/9H",
+        "slug": "black-cherry-pearl-9p9h",
+        "reference_url": "https://www.paintscratch.com/colors/kia/black-cherry-pearl-9p9h/",
+        "source_label": "PaintScratch 2017 Kia",
+        "hex_value": "#432E27"
+      },
+      {
+        "display_name": "Clear White",
+        "paint_code": "1D/UD",
+        "slug": "clear-white-1dud",
+        "reference_url": "https://www.paintscratch.com/colors/kia/clear-white-1dud/",
+        "source_label": "PaintScratch 2017 Kia",
+        "hex_value": "#FBFBF9"
+      },
+      {
+        "display_name": "Bright Silver Metallic",
+        "paint_code": "3D/A3D",
+        "slug": "bright-silver-metallic-3da3d",
+        "reference_url": "https://www.paintscratch.com/colors/kia/bright-silver-metallic-3da3d/",
+        "source_label": "PaintScratch 2017 Kia",
+        "hex_value": "#F5F4F1"
+      },
+      {
+        "display_name": "Silky Silver Metallic",
+        "paint_code": "4SS",
+        "slug": "silky-silver-metallic-4ss",
+        "reference_url": "https://www.paintscratch.com/colors/kia/silky-silver-metallic-4ss/",
+        "source_label": "PaintScratch 2017 Kia",
+        "hex_value": "#E8E2DC"
+      },
+      {
+        "display_name": "Aurora Black Pearl",
+        "paint_code": "ABP",
+        "slug": "aurora-black-pearl-abp",
+        "reference_url": "https://www.paintscratch.com/colors/kia/aurora-black-pearl-abp/",
+        "source_label": "PaintScratch 2017 Kia",
+        "hex_value": "#3B3B4B"
+      },
+      {
+        "display_name": "Platinum Graphite Metallic",
+        "paint_code": "ABT",
+        "slug": "platinum-graphite-metallic-abt",
+        "reference_url": "https://www.paintscratch.com/colors/kia/platinum-graphite-metallic-abt/",
+        "source_label": "PaintScratch 2017 Kia",
+        "hex_value": "#777261"
+      },
+      {
+        "display_name": "Black Berry Pearl",
+        "paint_code": "BGD",
+        "slug": "black-berry-pearl-bgd",
+        "reference_url": "https://www.paintscratch.com/colors/kia/black-berry-pearl-bgd/",
+        "source_label": "PaintScratch 2017 Kia",
+        "hex_value": "#510F22"
+      },
+      {
+        "display_name": "Sangria",
+        "paint_code": "M2R",
+        "slug": "sangria-m2r",
+        "reference_url": "https://www.paintscratch.com/colors/kia/sangria-m2r/",
+        "source_label": "PaintScratch 2017 Kia",
+        "hex_value": "#765F62"
+      },
+      {
+        "display_name": "Deep Sea Blue Metallic",
+        "paint_code": "B2R",
+        "slug": "deep-sea-blue-metallic-b2r",
+        "reference_url": "https://www.paintscratch.com/colors/kia/deep-sea-blue-metallic-b2r/",
+        "source_label": "PaintScratch 2017 Kia",
+        "hex_value": "#071663"
+      },
+      {
+        "display_name": "Garnet Red Metallic",
+        "paint_code": "B4N",
+        "slug": "garnet-red-metallic-b4n",
+        "reference_url": "https://www.paintscratch.com/colors/kia/garnet-red-metallic-b4n/",
+        "source_label": "PaintScratch 2017 Kia",
+        "hex_value": "#58241C"
+      },
+      {
+        "display_name": "Gravity Blue Pearl",
+        "paint_code": "B4U",
+        "slug": "gravity-blue-pearl-b4u",
+        "reference_url": "https://www.paintscratch.com/colors/kia/gravity-blue-pearl-b4u/",
+        "source_label": "PaintScratch 2017 Kia",
+        "hex_value": "#1E2B3E"
+      },
+      {
+        "display_name": "Signal Red Pearl",
+        "paint_code": "BEG",
+        "slug": "signal-red-pearl-beg",
+        "reference_url": "https://www.paintscratch.com/colors/kia/signal-red-pearl-beg/",
+        "source_label": "PaintScratch 2017 Kia",
+        "hex_value": "#A41212"
+      },
+      {
+        "display_name": "Formal Deep Blue Pearl",
+        "paint_code": "BLA",
+        "slug": "formal-deep-blue-pearl-bla",
+        "reference_url": "https://www.paintscratch.com/colors/kia/formal-deep-blue-pearl-bla/",
+        "source_label": "PaintScratch 2017 Kia",
+        "hex_value": "#3C4354"
+      },
+      {
+        "display_name": "Mineral Silver Metallic",
+        "paint_code": "E6S",
+        "slug": "mineral-silver-metallic-e6s",
+        "reference_url": "https://www.paintscratch.com/colors/kia/mineral-silver-metallic-e6s/",
+        "source_label": "PaintScratch 2017 Kia",
+        "hex_value": "#E6E6C6"
+      }
+    ],
+    "2018": [
+      {
+        "display_name": "Titanium Silver Metallic",
+        "paint_code": "IM",
+        "slug": "titanium-silver-metallic-im",
+        "reference_url": "https://www.paintscratch.com/colors/kia/titanium-silver-metallic-im/",
+        "source_label": "PaintScratch 2018 Kia",
+        "hex_value": "#E2DBBC"
+      },
+      {
+        "display_name": "Black Cherry Pearl",
+        "paint_code": "9P/9H",
+        "slug": "black-cherry-pearl-9p9h",
+        "reference_url": "https://www.paintscratch.com/colors/kia/black-cherry-pearl-9p9h/",
+        "source_label": "PaintScratch 2018 Kia",
+        "hex_value": "#432E27"
+      },
+      {
+        "display_name": "Clear White",
+        "paint_code": "1D/UD",
+        "slug": "clear-white-1dud",
+        "reference_url": "https://www.paintscratch.com/colors/kia/clear-white-1dud/",
+        "source_label": "PaintScratch 2018 Kia",
+        "hex_value": "#FBFBF9"
+      },
+      {
+        "display_name": "Bright Silver Metallic",
+        "paint_code": "3D/A3D",
+        "slug": "bright-silver-metallic-3da3d",
+        "reference_url": "https://www.paintscratch.com/colors/kia/bright-silver-metallic-3da3d/",
+        "source_label": "PaintScratch 2018 Kia",
+        "hex_value": "#F5F4F1"
+      },
+      {
+        "display_name": "Silky Silver Metallic",
+        "paint_code": "4SS",
+        "slug": "silky-silver-metallic-4ss",
+        "reference_url": "https://www.paintscratch.com/colors/kia/silky-silver-metallic-4ss/",
+        "source_label": "PaintScratch 2018 Kia",
+        "hex_value": "#E8E2DC"
+      },
+      {
+        "display_name": "Aurora Black Pearl",
+        "paint_code": "ABP",
+        "slug": "aurora-black-pearl-abp",
+        "reference_url": "https://www.paintscratch.com/colors/kia/aurora-black-pearl-abp/",
+        "source_label": "PaintScratch 2018 Kia",
+        "hex_value": "#3B3B4B"
+      },
+      {
+        "display_name": "Platinum Graphite Metallic",
+        "paint_code": "ABT",
+        "slug": "platinum-graphite-metallic-abt",
+        "reference_url": "https://www.paintscratch.com/colors/kia/platinum-graphite-metallic-abt/",
+        "source_label": "PaintScratch 2018 Kia",
+        "hex_value": "#777261"
+      },
+      {
+        "display_name": "Black Berry Pearl",
+        "paint_code": "BGD",
+        "slug": "black-berry-pearl-bgd",
+        "reference_url": "https://www.paintscratch.com/colors/kia/black-berry-pearl-bgd/",
+        "source_label": "PaintScratch 2018 Kia",
+        "hex_value": "#510F22"
+      },
+      {
+        "display_name": "Sangria",
+        "paint_code": "M2R",
+        "slug": "sangria-m2r",
+        "reference_url": "https://www.paintscratch.com/colors/kia/sangria-m2r/",
+        "source_label": "PaintScratch 2018 Kia",
+        "hex_value": "#765F62"
+      },
+      {
+        "display_name": "Bright Red",
+        "paint_code": "ADR",
+        "slug": "bright-red-adr",
+        "reference_url": "https://www.paintscratch.com/colors/kia/bright-red-adr/",
+        "source_label": "PaintScratch 2018 Kia",
+        "hex_value": "#F31515"
+      },
+      {
+        "display_name": "Inferno Red Metallic",
+        "paint_code": "AJR",
+        "slug": "inferno-red-metallic-ajr",
+        "reference_url": "https://www.paintscratch.com/colors/kia/inferno-red-metallic-ajr/",
+        "source_label": "PaintScratch 2018 Kia",
+        "hex_value": "#A01912"
+      },
+      {
+        "display_name": "Carribean Blue Metallic",
+        "paint_code": "AUB",
+        "slug": "carribean-blue-metallic-aub",
+        "reference_url": "https://www.paintscratch.com/colors/kia/carribean-blue-metallic-aub/",
+        "source_label": "PaintScratch 2018 Kia",
+        "hex_value": "#239BB1"
+      },
+      {
+        "display_name": "Deep Sea Blue Metallic",
+        "paint_code": "B2R",
+        "slug": "deep-sea-blue-metallic-b2r",
+        "reference_url": "https://www.paintscratch.com/colors/kia/deep-sea-blue-metallic-b2r/",
+        "source_label": "PaintScratch 2018 Kia",
+        "hex_value": "#071663"
+      },
+      {
+        "display_name": "Garnet Red Metallic",
+        "paint_code": "B4N",
+        "slug": "garnet-red-metallic-b4n",
+        "reference_url": "https://www.paintscratch.com/colors/kia/garnet-red-metallic-b4n/",
+        "source_label": "PaintScratch 2018 Kia",
+        "hex_value": "#58241C"
+      },
+      {
+        "display_name": "Gravity Blue Pearl",
+        "paint_code": "B4U",
+        "slug": "gravity-blue-pearl-b4u",
+        "reference_url": "https://www.paintscratch.com/colors/kia/gravity-blue-pearl-b4u/",
+        "source_label": "PaintScratch 2018 Kia",
+        "hex_value": "#1E2B3E"
+      },
+      {
+        "display_name": "Signal Red Pearl",
+        "paint_code": "BEG",
+        "slug": "signal-red-pearl-beg",
+        "reference_url": "https://www.paintscratch.com/colors/kia/signal-red-pearl-beg/",
+        "source_label": "PaintScratch 2018 Kia",
+        "hex_value": "#A41212"
+      }
+    ],
+    "2019": [
+      {
+        "display_name": "Titanium Silver Metallic",
+        "paint_code": "IM",
+        "slug": "titanium-silver-metallic-im",
+        "reference_url": "https://www.paintscratch.com/colors/kia/titanium-silver-metallic-im/",
+        "source_label": "PaintScratch 2019 Kia",
+        "hex_value": "#E2DBBC"
+      },
+      {
+        "display_name": "Panthera Metal Metallic",
+        "paint_code": "P2M",
+        "slug": "panthera-metal-metallic-p2m",
+        "reference_url": "https://www.paintscratch.com/colors/kia/panthera-metal-metallic-p2m/",
+        "source_label": "PaintScratch 2019 Kia",
+        "hex_value": "#534D47"
+      },
+      {
+        "display_name": "Black Cherry Pearl",
+        "paint_code": "9P/9H",
+        "slug": "black-cherry-pearl-9p9h",
+        "reference_url": "https://www.paintscratch.com/colors/kia/black-cherry-pearl-9p9h/",
+        "source_label": "PaintScratch 2019 Kia",
+        "hex_value": "#432E27"
+      },
+      {
+        "display_name": "Clear White",
+        "paint_code": "1D/UD",
+        "slug": "clear-white-1dud",
+        "reference_url": "https://www.paintscratch.com/colors/kia/clear-white-1dud/",
+        "source_label": "PaintScratch 2019 Kia",
+        "hex_value": "#FBFBF9"
+      },
+      {
+        "display_name": "Silky Silver Metallic",
+        "paint_code": "4SS",
+        "slug": "silky-silver-metallic-4ss",
+        "reference_url": "https://www.paintscratch.com/colors/kia/silky-silver-metallic-4ss/",
+        "source_label": "PaintScratch 2019 Kia",
+        "hex_value": "#E8E2DC"
+      },
+      {
+        "display_name": "Aurora Black Pearl",
+        "paint_code": "ABP",
+        "slug": "aurora-black-pearl-abp",
+        "reference_url": "https://www.paintscratch.com/colors/kia/aurora-black-pearl-abp/",
+        "source_label": "PaintScratch 2019 Kia",
+        "hex_value": "#3B3B4B"
+      },
+      {
+        "display_name": "Platinum Graphite Metallic",
+        "paint_code": "ABT",
+        "slug": "platinum-graphite-metallic-abt",
+        "reference_url": "https://www.paintscratch.com/colors/kia/platinum-graphite-metallic-abt/",
+        "source_label": "PaintScratch 2019 Kia",
+        "hex_value": "#777261"
+      },
+      {
+        "display_name": "Black Berry Pearl",
+        "paint_code": "BGD",
+        "slug": "black-berry-pearl-bgd",
+        "reference_url": "https://www.paintscratch.com/colors/kia/black-berry-pearl-bgd/",
+        "source_label": "PaintScratch 2019 Kia",
+        "hex_value": "#510F22"
+      },
+      {
+        "display_name": "Silver Blue",
+        "paint_code": "KLG",
+        "slug": "silver-blue-klg",
+        "reference_url": "https://www.paintscratch.com/colors/kia/silver-blue-klg/",
+        "source_label": "PaintScratch 2019 Kia",
+        "hex_value": "#CAD1D8"
+      },
+      {
+        "display_name": "Sangria",
+        "paint_code": "M2R",
+        "slug": "sangria-m2r",
+        "reference_url": "https://www.paintscratch.com/colors/kia/sangria-m2r/",
+        "source_label": "PaintScratch 2019 Kia",
+        "hex_value": "#765F62"
+      },
+      {
+        "display_name": "Bright Red",
+        "paint_code": "ADR",
+        "slug": "bright-red-adr",
+        "reference_url": "https://www.paintscratch.com/colors/kia/bright-red-adr/",
+        "source_label": "PaintScratch 2019 Kia",
+        "hex_value": "#F31515"
+      },
+      {
+        "display_name": "Inferno Red Metallic",
+        "paint_code": "AJR",
+        "slug": "inferno-red-metallic-ajr",
+        "reference_url": "https://www.paintscratch.com/colors/kia/inferno-red-metallic-ajr/",
+        "source_label": "PaintScratch 2019 Kia",
+        "hex_value": "#A01912"
+      },
+      {
+        "display_name": "Carribean Blue Metallic",
+        "paint_code": "AUB",
+        "slug": "carribean-blue-metallic-aub",
+        "reference_url": "https://www.paintscratch.com/colors/kia/carribean-blue-metallic-aub/",
+        "source_label": "PaintScratch 2019 Kia",
+        "hex_value": "#239BB1"
+      },
+      {
+        "display_name": "Deep Sea Blue Metallic",
+        "paint_code": "B2R",
+        "slug": "deep-sea-blue-metallic-b2r",
+        "reference_url": "https://www.paintscratch.com/colors/kia/deep-sea-blue-metallic-b2r/",
+        "source_label": "PaintScratch 2019 Kia",
+        "hex_value": "#071663"
+      },
+      {
+        "display_name": "Gravity Blue Pearl",
+        "paint_code": "B4U",
+        "slug": "gravity-blue-pearl-b4u",
+        "reference_url": "https://www.paintscratch.com/colors/kia/gravity-blue-pearl-b4u/",
+        "source_label": "PaintScratch 2019 Kia",
+        "hex_value": "#1E2B3E"
+      },
+      {
+        "display_name": "Ceramic Silver Metallic",
+        "paint_code": "C4S",
+        "slug": "ceramic-silver-metallic-c4s",
+        "reference_url": "https://www.paintscratch.com/colors/kia/ceramic-silver-metallic-c4s/",
+        "source_label": "PaintScratch 2019 Kia",
+        "hex_value": "#817E75"
+      }
+    ],
+    "2020": [
+      {
+        "display_name": "Panthera Metal Metallic",
+        "paint_code": "P2M",
+        "slug": "panthera-metal-metallic-p2m",
+        "reference_url": "https://www.paintscratch.com/colors/kia/panthera-metal-metallic-p2m/",
+        "source_label": "PaintScratch 2020 Kia",
+        "hex_value": "#534D47"
+      },
+      {
+        "display_name": "Black Cherry Pearl",
+        "paint_code": "9P/9H",
+        "slug": "black-cherry-pearl-9p9h",
+        "reference_url": "https://www.paintscratch.com/colors/kia/black-cherry-pearl-9p9h/",
+        "source_label": "PaintScratch 2020 Kia",
+        "hex_value": "#432E27"
+      },
+      {
+        "display_name": "Clear White",
+        "paint_code": "1D/UD",
+        "slug": "clear-white-1dud",
+        "reference_url": "https://www.paintscratch.com/colors/kia/clear-white-1dud/",
+        "source_label": "PaintScratch 2020 Kia",
+        "hex_value": "#FBFBF9"
+      },
+      {
+        "display_name": "Silky Silver Metallic",
+        "paint_code": "4SS",
+        "slug": "silky-silver-metallic-4ss",
+        "reference_url": "https://www.paintscratch.com/colors/kia/silky-silver-metallic-4ss/",
+        "source_label": "PaintScratch 2020 Kia",
+        "hex_value": "#E8E2DC"
+      },
+      {
+        "display_name": "Aurora Black Pearl",
+        "paint_code": "ABP",
+        "slug": "aurora-black-pearl-abp",
+        "reference_url": "https://www.paintscratch.com/colors/kia/aurora-black-pearl-abp/",
+        "source_label": "PaintScratch 2020 Kia",
+        "hex_value": "#3B3B4B"
+      },
+      {
+        "display_name": "Dark Moss Metallic",
+        "paint_code": "GMS",
+        "slug": "dark-moss-metallic-gms",
+        "reference_url": "https://www.paintscratch.com/colors/kia/dark-moss-metallic-gms/",
+        "source_label": "PaintScratch 2020 Kia",
+        "hex_value": "#91812B"
+      },
+      {
+        "display_name": "Black Berry Pearl",
+        "paint_code": "BGD",
+        "slug": "black-berry-pearl-bgd",
+        "reference_url": "https://www.paintscratch.com/colors/kia/black-berry-pearl-bgd/",
+        "source_label": "PaintScratch 2020 Kia",
+        "hex_value": "#510F22"
+      },
+      {
+        "display_name": "Gravity Grey Pearl",
+        "paint_code": "KDG/KDT",
+        "slug": "gravity-grey-pearl-kdgkdt",
+        "reference_url": "https://www.paintscratch.com/colors/kia/gravity-grey-pearl-kdgkdt/",
+        "source_label": "PaintScratch 2020 Kia",
+        "hex_value": "#829763"
+      },
+      {
+        "display_name": "Silver Blue",
+        "paint_code": "KLG",
+        "slug": "silver-blue-klg",
+        "reference_url": "https://www.paintscratch.com/colors/kia/silver-blue-klg/",
+        "source_label": "PaintScratch 2020 Kia",
+        "hex_value": "#CAD1D8"
+      },
+      {
+        "display_name": "Sangria",
+        "paint_code": "M2R",
+        "slug": "sangria-m2r",
+        "reference_url": "https://www.paintscratch.com/colors/kia/sangria-m2r/",
+        "source_label": "PaintScratch 2020 Kia",
+        "hex_value": "#765F62"
+      },
+      {
+        "display_name": "Bright Red",
+        "paint_code": "ADR",
+        "slug": "bright-red-adr",
+        "reference_url": "https://www.paintscratch.com/colors/kia/bright-red-adr/",
+        "source_label": "PaintScratch 2020 Kia",
+        "hex_value": "#F31515"
+      },
+      {
+        "display_name": "Inferno Red Metallic",
+        "paint_code": "AJR",
+        "slug": "inferno-red-metallic-ajr",
+        "reference_url": "https://www.paintscratch.com/colors/kia/inferno-red-metallic-ajr/",
+        "source_label": "PaintScratch 2020 Kia",
+        "hex_value": "#A01912"
+      },
+      {
+        "display_name": "Deep Sea Blue Metallic",
+        "paint_code": "B2R",
+        "slug": "deep-sea-blue-metallic-b2r",
+        "reference_url": "https://www.paintscratch.com/colors/kia/deep-sea-blue-metallic-b2r/",
+        "source_label": "PaintScratch 2020 Kia",
+        "hex_value": "#071663"
+      },
+      {
+        "display_name": "Gravity Blue Pearl",
+        "paint_code": "B4U",
+        "slug": "gravity-blue-pearl-b4u",
+        "reference_url": "https://www.paintscratch.com/colors/kia/gravity-blue-pearl-b4u/",
+        "source_label": "PaintScratch 2020 Kia",
+        "hex_value": "#1E2B3E"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "BCP",
+        "slug": "black-bcp",
+        "reference_url": "https://www.paintscratch.com/colors/kia/black-bcp/",
+        "source_label": "PaintScratch 2020 Kia",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Signal Red Pearl",
+        "paint_code": "BEG",
+        "slug": "signal-red-pearl-beg",
+        "reference_url": "https://www.paintscratch.com/colors/kia/signal-red-pearl-beg/",
+        "source_label": "PaintScratch 2020 Kia",
+        "hex_value": "#A41212"
+      }
+    ],
+    "2021": [
+      {
+        "display_name": "Wolf Gray Metallic",
+        "paint_code": "C7S",
+        "slug": "wolf-gray-metallic-c7s",
+        "reference_url": "https://www.paintscratch.com/colors/kia/wolf-gray-metallic-c7s/",
+        "source_label": "PaintScratch 2021 Kia",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Panthera Metal Metallic",
+        "paint_code": "P2M",
+        "slug": "panthera-metal-metallic-p2m",
+        "reference_url": "https://www.paintscratch.com/colors/kia/panthera-metal-metallic-p2m/",
+        "source_label": "PaintScratch 2021 Kia",
+        "hex_value": "#534D47"
+      },
+      {
+        "display_name": "Silky Silver Metallic",
+        "paint_code": "4SS",
+        "slug": "silky-silver-metallic-4ss",
+        "reference_url": "https://www.paintscratch.com/colors/kia/silky-silver-metallic-4ss/",
+        "source_label": "PaintScratch 2021 Kia",
+        "hex_value": "#E8E2DC"
+      },
+      {
+        "display_name": "Aurora Black Pearl",
+        "paint_code": "ABP",
+        "slug": "aurora-black-pearl-abp",
+        "reference_url": "https://www.paintscratch.com/colors/kia/aurora-black-pearl-abp/",
+        "source_label": "PaintScratch 2021 Kia",
+        "hex_value": "#3B3B4B"
+      },
+      {
+        "display_name": "Dark Moss Metallic",
+        "paint_code": "GMS",
+        "slug": "dark-moss-metallic-gms",
+        "reference_url": "https://www.paintscratch.com/colors/kia/dark-moss-metallic-gms/",
+        "source_label": "PaintScratch 2021 Kia",
+        "hex_value": "#91812B"
+      },
+      {
+        "display_name": "White Tricoat",
+        "paint_code": "GWP",
+        "slug": "white-tricoat-gwp",
+        "reference_url": "https://www.paintscratch.com/colors/kia/white-tricoat-gwp/",
+        "source_label": "PaintScratch 2021 Kia",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Starbright Yellow",
+        "paint_code": "B4Y",
+        "slug": "starbright-yellow-b4y",
+        "reference_url": "https://www.paintscratch.com/colors/kia/starbright-yellow-b4y/",
+        "source_label": "PaintScratch 2021 Kia",
+        "hex_value": "#FFDE01"
+      },
+      {
+        "display_name": "Gravity Grey Pearl",
+        "paint_code": "KDG/KDT",
+        "slug": "gravity-grey-pearl-kdgkdt",
+        "reference_url": "https://www.paintscratch.com/colors/kia/gravity-grey-pearl-kdgkdt/",
+        "source_label": "PaintScratch 2021 Kia",
+        "hex_value": "#829763"
+      },
+      {
+        "display_name": "Silver Blue",
+        "paint_code": "KLG",
+        "slug": "silver-blue-klg",
+        "reference_url": "https://www.paintscratch.com/colors/kia/silver-blue-klg/",
+        "source_label": "PaintScratch 2021 Kia",
+        "hex_value": "#CAD1D8"
+      },
+      {
+        "display_name": "Sangria",
+        "paint_code": "M2R",
+        "slug": "sangria-m2r",
+        "reference_url": "https://www.paintscratch.com/colors/kia/sangria-m2r/",
+        "source_label": "PaintScratch 2021 Kia",
+        "hex_value": "#765F62"
+      },
+      {
+        "display_name": "Clear White",
+        "paint_code": "1D",
+        "slug": "clear-white-1d",
+        "reference_url": "https://www.paintscratch.com/colors/kia/clear-white-1d/",
+        "source_label": "PaintScratch 2021 Kia",
+        "hex_value": "#FBFBF9"
+      },
+      {
+        "display_name": "Black Cherry Pearl",
+        "paint_code": "9H",
+        "slug": "black-cherry-pearl-9h",
+        "reference_url": "https://www.paintscratch.com/colors/kia/black-cherry-pearl-9h/",
+        "source_label": "PaintScratch 2021 Kia",
+        "hex_value": "#432E27"
+      },
+      {
+        "display_name": "Black Cherry Pearl",
+        "paint_code": "9P",
+        "slug": "black-cherry-pearl-9p",
+        "reference_url": "https://www.paintscratch.com/colors/kia/black-cherry-pearl-9p/",
+        "source_label": "PaintScratch 2021 Kia",
+        "hex_value": "#432E27"
+      },
+      {
+        "display_name": "Bright Red",
+        "paint_code": "ADR",
+        "slug": "bright-red-adr",
+        "reference_url": "https://www.paintscratch.com/colors/kia/bright-red-adr/",
+        "source_label": "PaintScratch 2021 Kia",
+        "hex_value": "#F31515"
+      },
+      {
+        "display_name": "Graphite Gray",
+        "paint_code": "AGT",
+        "slug": "graphite-gray-agt",
+        "reference_url": "https://www.paintscratch.com/colors/kia/graphite-gray-agt/",
+        "source_label": "PaintScratch 2021 Kia",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Inferno Red Metallic",
+        "paint_code": "AJR",
+        "slug": "inferno-red-metallic-ajr",
+        "reference_url": "https://www.paintscratch.com/colors/kia/inferno-red-metallic-ajr/",
+        "source_label": "PaintScratch 2021 Kia",
+        "hex_value": "#A01912"
+      }
+    ],
+    "2022": [
+      {
+        "display_name": "Wolf Gray Metallic",
+        "paint_code": "C7S",
+        "slug": "wolf-gray-metallic-c7s",
+        "reference_url": "https://www.paintscratch.com/colors/kia/wolf-gray-metallic-c7s/",
+        "source_label": "PaintScratch 2022 Kia",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Panthera Metal Metallic",
+        "paint_code": "P2M",
+        "slug": "panthera-metal-metallic-p2m",
+        "reference_url": "https://www.paintscratch.com/colors/kia/panthera-metal-metallic-p2m/",
+        "source_label": "PaintScratch 2022 Kia",
+        "hex_value": "#534D47"
+      },
+      {
+        "display_name": "Silky Silver Metallic",
+        "paint_code": "4SS",
+        "slug": "silky-silver-metallic-4ss",
+        "reference_url": "https://www.paintscratch.com/colors/kia/silky-silver-metallic-4ss/",
+        "source_label": "PaintScratch 2022 Kia",
+        "hex_value": "#E8E2DC"
+      },
+      {
+        "display_name": "Aurora Black Pearl",
+        "paint_code": "ABP",
+        "slug": "aurora-black-pearl-abp",
+        "reference_url": "https://www.paintscratch.com/colors/kia/aurora-black-pearl-abp/",
+        "source_label": "PaintScratch 2022 Kia",
+        "hex_value": "#3B3B4B"
+      },
+      {
+        "display_name": "Dark Moss Metallic",
+        "paint_code": "GMS",
+        "slug": "dark-moss-metallic-gms",
+        "reference_url": "https://www.paintscratch.com/colors/kia/dark-moss-metallic-gms/",
+        "source_label": "PaintScratch 2022 Kia",
+        "hex_value": "#91812B"
+      },
+      {
+        "display_name": "White Tricoat",
+        "paint_code": "GWP",
+        "slug": "white-tricoat-gwp",
+        "reference_url": "https://www.paintscratch.com/colors/kia/white-tricoat-gwp/",
+        "source_label": "PaintScratch 2022 Kia",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Platinum Graphite Metallic",
+        "paint_code": "ABT",
+        "slug": "platinum-graphite-metallic-abt",
+        "reference_url": "https://www.paintscratch.com/colors/kia/platinum-graphite-metallic-abt/",
+        "source_label": "PaintScratch 2022 Kia",
+        "hex_value": "#777261"
+      },
+      {
+        "display_name": "Starbright Yellow",
+        "paint_code": "B4Y",
+        "slug": "starbright-yellow-b4y",
+        "reference_url": "https://www.paintscratch.com/colors/kia/starbright-yellow-b4y/",
+        "source_label": "PaintScratch 2022 Kia",
+        "hex_value": "#FFDE01"
+      },
+      {
+        "display_name": "Gravity Grey Pearl",
+        "paint_code": "KDG/KDT",
+        "slug": "gravity-grey-pearl-kdgkdt",
+        "reference_url": "https://www.paintscratch.com/colors/kia/gravity-grey-pearl-kdgkdt/",
+        "source_label": "PaintScratch 2022 Kia",
+        "hex_value": "#829763"
+      },
+      {
+        "display_name": "Silver Blue",
+        "paint_code": "KLG",
+        "slug": "silver-blue-klg",
+        "reference_url": "https://www.paintscratch.com/colors/kia/silver-blue-klg/",
+        "source_label": "PaintScratch 2022 Kia",
+        "hex_value": "#CAD1D8"
+      },
+      {
+        "display_name": "Sangria",
+        "paint_code": "M2R",
+        "slug": "sangria-m2r",
+        "reference_url": "https://www.paintscratch.com/colors/kia/sangria-m2r/",
+        "source_label": "PaintScratch 2022 Kia",
+        "hex_value": "#765F62"
+      },
+      {
+        "display_name": "Clear White",
+        "paint_code": "1D",
+        "slug": "clear-white-1d",
+        "reference_url": "https://www.paintscratch.com/colors/kia/clear-white-1d/",
+        "source_label": "PaintScratch 2022 Kia",
+        "hex_value": "#FBFBF9"
+      },
+      {
+        "display_name": "Black Cherry Pearl",
+        "paint_code": "9H",
+        "slug": "black-cherry-pearl-9h",
+        "reference_url": "https://www.paintscratch.com/colors/kia/black-cherry-pearl-9h/",
+        "source_label": "PaintScratch 2022 Kia",
+        "hex_value": "#432E27"
+      },
+      {
+        "display_name": "Black Cherry Pearl",
+        "paint_code": "9P",
+        "slug": "black-cherry-pearl-9p",
+        "reference_url": "https://www.paintscratch.com/colors/kia/black-cherry-pearl-9p/",
+        "source_label": "PaintScratch 2022 Kia",
+        "hex_value": "#432E27"
+      },
+      {
+        "display_name": "Ascot Green Pearl",
+        "paint_code": "ACG",
+        "slug": "ascot-green-pearl-acg",
+        "reference_url": "https://www.paintscratch.com/colors/kia/ascot-green-pearl-acg/",
+        "source_label": "PaintScratch 2022 Kia",
+        "hex_value": "#527541"
+      },
+      {
+        "display_name": "Bright Red",
+        "paint_code": "ADR",
+        "slug": "bright-red-adr",
+        "reference_url": "https://www.paintscratch.com/colors/kia/bright-red-adr/",
+        "source_label": "PaintScratch 2022 Kia",
+        "hex_value": "#F31515"
+      }
+    ],
+    "2023": [
+      {
+        "display_name": "Wolf Gray Metallic",
+        "paint_code": "C7S",
+        "slug": "wolf-gray-metallic-c7s",
+        "reference_url": "https://www.paintscratch.com/colors/kia/wolf-gray-metallic-c7s/",
+        "source_label": "PaintScratch 2023 Kia",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Panthera Metal Metallic",
+        "paint_code": "P2M",
+        "slug": "panthera-metal-metallic-p2m",
+        "reference_url": "https://www.paintscratch.com/colors/kia/panthera-metal-metallic-p2m/",
+        "source_label": "PaintScratch 2023 Kia",
+        "hex_value": "#534D47"
+      },
+      {
+        "display_name": "Midnight Lake Blue",
+        "paint_code": "MLB",
+        "slug": "midnight-lake-blue-mlb",
+        "reference_url": "https://www.paintscratch.com/colors/kia/midnight-lake-blue-mlb/",
+        "source_label": "PaintScratch 2023 Kia",
+        "hex_value": "#23384B"
+      },
+      {
+        "display_name": "Silky Silver Metallic",
+        "paint_code": "4SS",
+        "slug": "silky-silver-metallic-4ss",
+        "reference_url": "https://www.paintscratch.com/colors/kia/silky-silver-metallic-4ss/",
+        "source_label": "PaintScratch 2023 Kia",
+        "hex_value": "#E8E2DC"
+      },
+      {
+        "display_name": "Aurora Black Pearl",
+        "paint_code": "ABP",
+        "slug": "aurora-black-pearl-abp",
+        "reference_url": "https://www.paintscratch.com/colors/kia/aurora-black-pearl-abp/",
+        "source_label": "PaintScratch 2023 Kia",
+        "hex_value": "#3B3B4B"
+      },
+      {
+        "display_name": "Dark Moss Metallic",
+        "paint_code": "GMS",
+        "slug": "dark-moss-metallic-gms",
+        "reference_url": "https://www.paintscratch.com/colors/kia/dark-moss-metallic-gms/",
+        "source_label": "PaintScratch 2023 Kia",
+        "hex_value": "#91812B"
+      },
+      {
+        "display_name": "Platinum Graphite Metallic",
+        "paint_code": "ABT",
+        "slug": "platinum-graphite-metallic-abt",
+        "reference_url": "https://www.paintscratch.com/colors/kia/platinum-graphite-metallic-abt/",
+        "source_label": "PaintScratch 2023 Kia",
+        "hex_value": "#777261"
+      },
+      {
+        "display_name": "Vesta Blue",
+        "paint_code": "BB2",
+        "slug": "vesta-blue-bb2",
+        "reference_url": "https://www.paintscratch.com/colors/kia/vesta-blue-bb2/",
+        "source_label": "PaintScratch 2023 Kia",
+        "hex_value": "#3C73CB"
+      },
+      {
+        "display_name": "Cityscape Green",
+        "paint_code": "CGE",
+        "slug": "cityscape-green-cge",
+        "reference_url": "https://www.paintscratch.com/colors/kia/cityscape-green-cge/",
+        "source_label": "PaintScratch 2023 Kia",
+        "hex_value": "#5E6B5B"
+      },
+      {
+        "display_name": "Glacial White Tricoat",
+        "paint_code": "GWP/US1",
+        "slug": "glacial-white-tricoat-gwpus1",
+        "reference_url": "https://www.paintscratch.com/colors/kia/glacial-white-tricoat-gwpus1/",
+        "source_label": "PaintScratch 2023 Kia",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Gravity Grey Pearl",
+        "paint_code": "KDG/KDT",
+        "slug": "gravity-grey-pearl-kdgkdt",
+        "reference_url": "https://www.paintscratch.com/colors/kia/gravity-grey-pearl-kdgkdt/",
+        "source_label": "PaintScratch 2023 Kia",
+        "hex_value": "#829763"
+      },
+      {
+        "display_name": "Silver Blue",
+        "paint_code": "KLG",
+        "slug": "silver-blue-klg",
+        "reference_url": "https://www.paintscratch.com/colors/kia/silver-blue-klg/",
+        "source_label": "PaintScratch 2023 Kia",
+        "hex_value": "#CAD1D8"
+      },
+      {
+        "display_name": "Mineral Blue",
+        "paint_code": "M4B",
+        "slug": "mineral-blue-m4b",
+        "reference_url": "https://www.paintscratch.com/colors/kia/mineral-blue-m4b/",
+        "source_label": "PaintScratch 2023 Kia",
+        "hex_value": "#4E79A2"
+      },
+      {
+        "display_name": "Ascot Green Pearl",
+        "paint_code": "ACG",
+        "slug": "ascot-green-pearl-acg",
+        "reference_url": "https://www.paintscratch.com/colors/kia/ascot-green-pearl-acg/",
+        "source_label": "PaintScratch 2023 Kia",
+        "hex_value": "#527541"
+      },
+      {
+        "display_name": "Bright Red",
+        "paint_code": "ADR",
+        "slug": "bright-red-adr",
+        "reference_url": "https://www.paintscratch.com/colors/kia/bright-red-adr/",
+        "source_label": "PaintScratch 2023 Kia",
+        "hex_value": "#F31515"
+      },
+      {
+        "display_name": "Graphite Gray",
+        "paint_code": "AGT",
+        "slug": "graphite-gray-agt",
+        "reference_url": "https://www.paintscratch.com/colors/kia/graphite-gray-agt/",
+        "source_label": "PaintScratch 2023 Kia",
+        "hex_value": "#808080"
+      }
+    ],
+    "2024": [
+      {
+        "display_name": "Wolf Gray Metallic",
+        "paint_code": "C7S",
+        "slug": "wolf-gray-metallic-c7s",
+        "reference_url": "https://www.paintscratch.com/colors/kia/wolf-gray-metallic-c7s/",
+        "source_label": "PaintScratch 2024 Kia",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Panthera Metal Metallic",
+        "paint_code": "P2M",
+        "slug": "panthera-metal-metallic-p2m",
+        "reference_url": "https://www.paintscratch.com/colors/kia/panthera-metal-metallic-p2m/",
+        "source_label": "PaintScratch 2024 Kia",
+        "hex_value": "#534D47"
+      },
+      {
+        "display_name": "Midnight Lake Blue",
+        "paint_code": "MLB",
+        "slug": "midnight-lake-blue-mlb",
+        "reference_url": "https://www.paintscratch.com/colors/kia/midnight-lake-blue-mlb/",
+        "source_label": "PaintScratch 2024 Kia",
+        "hex_value": "#23384B"
+      },
+      {
+        "display_name": "Silky Silver Metallic",
+        "paint_code": "4SS",
+        "slug": "silky-silver-metallic-4ss",
+        "reference_url": "https://www.paintscratch.com/colors/kia/silky-silver-metallic-4ss/",
+        "source_label": "PaintScratch 2024 Kia",
+        "hex_value": "#E8E2DC"
+      },
+      {
+        "display_name": "Ebony Black",
+        "paint_code": "4002",
+        "slug": "ebony-black-4002",
+        "reference_url": "https://www.paintscratch.com/colors/kia/ebony-black-4002/",
+        "source_label": "PaintScratch 2024 Kia",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Aurora Black Pearl",
+        "paint_code": "ABP",
+        "slug": "aurora-black-pearl-abp",
+        "reference_url": "https://www.paintscratch.com/colors/kia/aurora-black-pearl-abp/",
+        "source_label": "PaintScratch 2024 Kia",
+        "hex_value": "#3B3B4B"
+      },
+      {
+        "display_name": "Black High Glossy",
+        "paint_code": "AHV",
+        "slug": "black-high-glossy-ahv",
+        "reference_url": "https://www.paintscratch.com/colors/kia/black-high-glossy-ahv/",
+        "source_label": "PaintScratch 2024 Kia",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Dark Moss Metallic",
+        "paint_code": "GMS",
+        "slug": "dark-moss-metallic-gms",
+        "reference_url": "https://www.paintscratch.com/colors/kia/dark-moss-metallic-gms/",
+        "source_label": "PaintScratch 2024 Kia",
+        "hex_value": "#91812B"
+      },
+      {
+        "display_name": "White Tricoat",
+        "paint_code": "GWP",
+        "slug": "white-tricoat-gwp",
+        "reference_url": "https://www.paintscratch.com/colors/kia/white-tricoat-gwp/",
+        "source_label": "PaintScratch 2024 Kia",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Ivory Silver",
+        "paint_code": "ISG",
+        "slug": "ivory-silver-isg",
+        "reference_url": "https://www.paintscratch.com/colors/kia/ivory-silver-isg/",
+        "source_label": "PaintScratch 2024 Kia",
+        "hex_value": "#BCBBB6"
+      },
+      {
+        "display_name": "Vesta Blue",
+        "paint_code": "BB2",
+        "slug": "vesta-blue-bb2",
+        "reference_url": "https://www.paintscratch.com/colors/kia/vesta-blue-bb2/",
+        "source_label": "PaintScratch 2024 Kia",
+        "hex_value": "#3C73CB"
+      },
+      {
+        "display_name": "Cityscape Green",
+        "paint_code": "CGE",
+        "slug": "cityscape-green-cge",
+        "reference_url": "https://www.paintscratch.com/colors/kia/cityscape-green-cge/",
+        "source_label": "PaintScratch 2024 Kia",
+        "hex_value": "#5E6B5B"
+      },
+      {
+        "display_name": "Silver Blue",
+        "paint_code": "KLG",
+        "slug": "silver-blue-klg",
+        "reference_url": "https://www.paintscratch.com/colors/kia/silver-blue-klg/",
+        "source_label": "PaintScratch 2024 Kia",
+        "hex_value": "#CAD1D8"
+      },
+      {
+        "display_name": "Mineral Blue",
+        "paint_code": "M4B",
+        "slug": "mineral-blue-m4b",
+        "reference_url": "https://www.paintscratch.com/colors/kia/mineral-blue-m4b/",
+        "source_label": "PaintScratch 2024 Kia",
+        "hex_value": "#4E79A2"
+      },
+      {
+        "display_name": "Snow White Tricoat",
+        "paint_code": "9413",
+        "slug": "snow-white-tricoat-9413",
+        "reference_url": "https://www.paintscratch.com/colors/kia/snow-white-tricoat-9413/",
+        "source_label": "PaintScratch 2024 Kia",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Silver Semi Gloss",
+        "paint_code": "A2L",
+        "slug": "silver-semi-gloss-a2l",
+        "reference_url": "https://www.paintscratch.com/colors/kia/silver-semi-gloss-a2l/",
+        "source_label": "PaintScratch 2024 Kia",
+        "hex_value": "#A3A19B"
+      }
+    ],
+    "2025": [
+      {
+        "display_name": "Wolf Gray Metallic",
+        "paint_code": "C7S",
+        "slug": "wolf-gray-metallic-c7s",
+        "reference_url": "https://www.paintscratch.com/colors/kia/wolf-gray-metallic-c7s/",
+        "source_label": "PaintScratch 2025 Kia",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Panthera Metal Metallic",
+        "paint_code": "P2M",
+        "slug": "panthera-metal-metallic-p2m",
+        "reference_url": "https://www.paintscratch.com/colors/kia/panthera-metal-metallic-p2m/",
+        "source_label": "PaintScratch 2025 Kia",
+        "hex_value": "#534D47"
+      },
+      {
+        "display_name": "Heritage Blue",
+        "paint_code": "HRB",
+        "slug": "heritage-blue-hrb",
+        "reference_url": "https://www.paintscratch.com/colors/kia/heritage-blue-hrb/",
+        "source_label": "PaintScratch 2025 Kia",
+        "hex_value": "#27448F"
+      },
+      {
+        "display_name": "Midnight Lake Blue",
+        "paint_code": "MLB",
+        "slug": "midnight-lake-blue-mlb",
+        "reference_url": "https://www.paintscratch.com/colors/kia/midnight-lake-blue-mlb/",
+        "source_label": "PaintScratch 2025 Kia",
+        "hex_value": "#23384B"
+      },
+      {
+        "display_name": "Silky Silver Metallic",
+        "paint_code": "4SS",
+        "slug": "silky-silver-metallic-4ss",
+        "reference_url": "https://www.paintscratch.com/colors/kia/silky-silver-metallic-4ss/",
+        "source_label": "PaintScratch 2025 Kia",
+        "hex_value": "#E8E2DC"
+      },
+      {
+        "display_name": "Ebony Black",
+        "paint_code": "4002",
+        "slug": "ebony-black-4002",
+        "reference_url": "https://www.paintscratch.com/colors/kia/ebony-black-4002/",
+        "source_label": "PaintScratch 2025 Kia",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Aurora Black Pearl",
+        "paint_code": "ABP",
+        "slug": "aurora-black-pearl-abp",
+        "reference_url": "https://www.paintscratch.com/colors/kia/aurora-black-pearl-abp/",
+        "source_label": "PaintScratch 2025 Kia",
+        "hex_value": "#3B3B4B"
+      },
+      {
+        "display_name": "Black High Glossy",
+        "paint_code": "AHV",
+        "slug": "black-high-glossy-ahv",
+        "reference_url": "https://www.paintscratch.com/colors/kia/black-high-glossy-ahv/",
+        "source_label": "PaintScratch 2025 Kia",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Morning Haze",
+        "paint_code": "DM4",
+        "slug": "morning-haze-dm4",
+        "reference_url": "https://www.paintscratch.com/colors/kia/morning-haze-dm4/",
+        "source_label": "PaintScratch 2025 Kia",
+        "hex_value": "#9FA2A3"
+      },
+      {
+        "display_name": "Dark Moss Metallic",
+        "paint_code": "GMS",
+        "slug": "dark-moss-metallic-gms",
+        "reference_url": "https://www.paintscratch.com/colors/kia/dark-moss-metallic-gms/",
+        "source_label": "PaintScratch 2025 Kia",
+        "hex_value": "#91812B"
+      },
+      {
+        "display_name": "White Tricoat",
+        "paint_code": "GWP",
+        "slug": "white-tricoat-gwp",
+        "reference_url": "https://www.paintscratch.com/colors/kia/white-tricoat-gwp/",
+        "source_label": "PaintScratch 2025 Kia",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Ivory Silver",
+        "paint_code": "ISG",
+        "slug": "ivory-silver-isg",
+        "reference_url": "https://www.paintscratch.com/colors/kia/ivory-silver-isg/",
+        "source_label": "PaintScratch 2025 Kia",
+        "hex_value": "#BCBBB6"
+      },
+      {
+        "display_name": "Vesta Blue",
+        "paint_code": "BB2",
+        "slug": "vesta-blue-bb2",
+        "reference_url": "https://www.paintscratch.com/colors/kia/vesta-blue-bb2/",
+        "source_label": "PaintScratch 2025 Kia",
+        "hex_value": "#3C73CB"
+      },
+      {
+        "display_name": "Cityscape Green",
+        "paint_code": "CGE",
+        "slug": "cityscape-green-cge",
+        "reference_url": "https://www.paintscratch.com/colors/kia/cityscape-green-cge/",
+        "source_label": "PaintScratch 2025 Kia",
+        "hex_value": "#5E6B5B"
+      },
+      {
+        "display_name": "Silver Blue",
+        "paint_code": "KLG",
+        "slug": "silver-blue-klg",
+        "reference_url": "https://www.paintscratch.com/colors/kia/silver-blue-klg/",
+        "source_label": "PaintScratch 2025 Kia",
+        "hex_value": "#CAD1D8"
+      },
+      {
+        "display_name": "Mineral Blue",
+        "paint_code": "M4B",
+        "slug": "mineral-blue-m4b",
+        "reference_url": "https://www.paintscratch.com/colors/kia/mineral-blue-m4b/",
+        "source_label": "PaintScratch 2025 Kia",
+        "hex_value": "#4E79A2"
+      }
+    ],
+    "2026": [
+      {
+        "display_name": "Wolf Gray Metallic",
+        "paint_code": "C7S",
+        "slug": "wolf-gray-metallic-c7s",
+        "reference_url": "https://www.paintscratch.com/colors/kia/wolf-gray-metallic-c7s/",
+        "source_label": "PaintScratch 2026 Kia",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Panthera Metal Metallic",
+        "paint_code": "P2M",
+        "slug": "panthera-metal-metallic-p2m",
+        "reference_url": "https://www.paintscratch.com/colors/kia/panthera-metal-metallic-p2m/",
+        "source_label": "PaintScratch 2026 Kia",
+        "hex_value": "#534D47"
+      },
+      {
+        "display_name": "Heritage Blue",
+        "paint_code": "HRB",
+        "slug": "heritage-blue-hrb",
+        "reference_url": "https://www.paintscratch.com/colors/kia/heritage-blue-hrb/",
+        "source_label": "PaintScratch 2026 Kia",
+        "hex_value": "#27448F"
+      },
+      {
+        "display_name": "Midnight Lake Blue",
+        "paint_code": "MLB",
+        "slug": "midnight-lake-blue-mlb",
+        "reference_url": "https://www.paintscratch.com/colors/kia/midnight-lake-blue-mlb/",
+        "source_label": "PaintScratch 2026 Kia",
+        "hex_value": "#23384B"
+      },
+      {
+        "display_name": "Silky Silver Metallic",
+        "paint_code": "4SS",
+        "slug": "silky-silver-metallic-4ss",
+        "reference_url": "https://www.paintscratch.com/colors/kia/silky-silver-metallic-4ss/",
+        "source_label": "PaintScratch 2026 Kia",
+        "hex_value": "#E8E2DC"
+      },
+      {
+        "display_name": "Ebony Black",
+        "paint_code": "4002",
+        "slug": "ebony-black-4002",
+        "reference_url": "https://www.paintscratch.com/colors/kia/ebony-black-4002/",
+        "source_label": "PaintScratch 2026 Kia",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Aurora Black Pearl",
+        "paint_code": "ABP",
+        "slug": "aurora-black-pearl-abp",
+        "reference_url": "https://www.paintscratch.com/colors/kia/aurora-black-pearl-abp/",
+        "source_label": "PaintScratch 2026 Kia",
+        "hex_value": "#3B3B4B"
+      },
+      {
+        "display_name": "Morning Haze",
+        "paint_code": "DM4",
+        "slug": "morning-haze-dm4",
+        "reference_url": "https://www.paintscratch.com/colors/kia/morning-haze-dm4/",
+        "source_label": "PaintScratch 2026 Kia",
+        "hex_value": "#9FA2A3"
+      },
+      {
+        "display_name": "White Tricoat",
+        "paint_code": "GWP",
+        "slug": "white-tricoat-gwp",
+        "reference_url": "https://www.paintscratch.com/colors/kia/white-tricoat-gwp/",
+        "source_label": "PaintScratch 2026 Kia",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Ivory Silver",
+        "paint_code": "ISG",
+        "slug": "ivory-silver-isg",
+        "reference_url": "https://www.paintscratch.com/colors/kia/ivory-silver-isg/",
+        "source_label": "PaintScratch 2026 Kia",
+        "hex_value": "#BCBBB6"
+      },
+      {
+        "display_name": "Vesta Blue",
+        "paint_code": "BB2",
+        "slug": "vesta-blue-bb2",
+        "reference_url": "https://www.paintscratch.com/colors/kia/vesta-blue-bb2/",
+        "source_label": "PaintScratch 2026 Kia",
+        "hex_value": "#3C73CB"
+      },
+      {
+        "display_name": "Cityscape Green",
+        "paint_code": "CGE",
+        "slug": "cityscape-green-cge",
+        "reference_url": "https://www.paintscratch.com/colors/kia/cityscape-green-cge/",
+        "source_label": "PaintScratch 2026 Kia",
+        "hex_value": "#5E6B5B"
+      },
+      {
+        "display_name": "Silver Blue",
+        "paint_code": "KLG",
+        "slug": "silver-blue-klg",
+        "reference_url": "https://www.paintscratch.com/colors/kia/silver-blue-klg/",
+        "source_label": "PaintScratch 2026 Kia",
+        "hex_value": "#CAD1D8"
+      },
+      {
+        "display_name": "Mineral Blue",
+        "paint_code": "M4B",
+        "slug": "mineral-blue-m4b",
+        "reference_url": "https://www.paintscratch.com/colors/kia/mineral-blue-m4b/",
+        "source_label": "PaintScratch 2026 Kia",
+        "hex_value": "#4E79A2"
+      },
+      {
+        "display_name": "Snow White Tricoat",
+        "paint_code": "9413",
+        "slug": "snow-white-tricoat-9413",
+        "reference_url": "https://www.paintscratch.com/colors/kia/snow-white-tricoat-9413/",
+        "source_label": "PaintScratch 2026 Kia",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Graphite Gray",
+        "paint_code": "AGT",
+        "slug": "graphite-gray-agt",
+        "reference_url": "https://www.paintscratch.com/colors/kia/graphite-gray-agt/",
+        "source_label": "PaintScratch 2026 Kia",
+        "hex_value": "#808080"
+      }
+    ],
+    "2027": [
+      {
+        "display_name": "Wolf Gray Metallic",
+        "paint_code": "C7S",
+        "slug": "wolf-gray-metallic-c7s",
+        "reference_url": "https://www.paintscratch.com/colors/kia/wolf-gray-metallic-c7s/",
+        "source_label": "PaintScratch 2027 Kia",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Panthera Metal Metallic",
+        "paint_code": "P2M",
+        "slug": "panthera-metal-metallic-p2m",
+        "reference_url": "https://www.paintscratch.com/colors/kia/panthera-metal-metallic-p2m/",
+        "source_label": "PaintScratch 2027 Kia",
+        "hex_value": "#534D47"
+      },
+      {
+        "display_name": "Heritage Blue",
+        "paint_code": "HRB",
+        "slug": "heritage-blue-hrb",
+        "reference_url": "https://www.paintscratch.com/colors/kia/heritage-blue-hrb/",
+        "source_label": "PaintScratch 2027 Kia",
+        "hex_value": "#27448F"
+      },
+      {
+        "display_name": "Midnight Lake Blue",
+        "paint_code": "MLB",
+        "slug": "midnight-lake-blue-mlb",
+        "reference_url": "https://www.paintscratch.com/colors/kia/midnight-lake-blue-mlb/",
+        "source_label": "PaintScratch 2027 Kia",
+        "hex_value": "#23384B"
+      },
+      {
+        "display_name": "Silky Silver Metallic",
+        "paint_code": "4SS",
+        "slug": "silky-silver-metallic-4ss",
+        "reference_url": "https://www.paintscratch.com/colors/kia/silky-silver-metallic-4ss/",
+        "source_label": "PaintScratch 2027 Kia",
+        "hex_value": "#E8E2DC"
+      },
+      {
+        "display_name": "Ebony Black",
+        "paint_code": "4002",
+        "slug": "ebony-black-4002",
+        "reference_url": "https://www.paintscratch.com/colors/kia/ebony-black-4002/",
+        "source_label": "PaintScratch 2027 Kia",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Aurora Black Pearl",
+        "paint_code": "ABP",
+        "slug": "aurora-black-pearl-abp",
+        "reference_url": "https://www.paintscratch.com/colors/kia/aurora-black-pearl-abp/",
+        "source_label": "PaintScratch 2027 Kia",
+        "hex_value": "#3B3B4B"
+      },
+      {
+        "display_name": "Morning Haze",
+        "paint_code": "DM4",
+        "slug": "morning-haze-dm4",
+        "reference_url": "https://www.paintscratch.com/colors/kia/morning-haze-dm4/",
+        "source_label": "PaintScratch 2027 Kia",
+        "hex_value": "#9FA2A3"
+      },
+      {
+        "display_name": "White Tricoat",
+        "paint_code": "GWP",
+        "slug": "white-tricoat-gwp",
+        "reference_url": "https://www.paintscratch.com/colors/kia/white-tricoat-gwp/",
+        "source_label": "PaintScratch 2027 Kia",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Ivory Silver",
+        "paint_code": "ISG",
+        "slug": "ivory-silver-isg",
+        "reference_url": "https://www.paintscratch.com/colors/kia/ivory-silver-isg/",
+        "source_label": "PaintScratch 2027 Kia",
+        "hex_value": "#BCBBB6"
+      },
+      {
+        "display_name": "Vesta Blue",
+        "paint_code": "BB2",
+        "slug": "vesta-blue-bb2",
+        "reference_url": "https://www.paintscratch.com/colors/kia/vesta-blue-bb2/",
+        "source_label": "PaintScratch 2027 Kia",
+        "hex_value": "#3C73CB"
+      },
+      {
+        "display_name": "Cityscape Green",
+        "paint_code": "CGE",
+        "slug": "cityscape-green-cge",
+        "reference_url": "https://www.paintscratch.com/colors/kia/cityscape-green-cge/",
+        "source_label": "PaintScratch 2027 Kia",
+        "hex_value": "#5E6B5B"
+      },
+      {
+        "display_name": "Silver Blue",
+        "paint_code": "KLG",
+        "slug": "silver-blue-klg",
+        "reference_url": "https://www.paintscratch.com/colors/kia/silver-blue-klg/",
+        "source_label": "PaintScratch 2027 Kia",
+        "hex_value": "#CAD1D8"
+      },
+      {
+        "display_name": "Mineral Blue",
+        "paint_code": "M4B",
+        "slug": "mineral-blue-m4b",
+        "reference_url": "https://www.paintscratch.com/colors/kia/mineral-blue-m4b/",
+        "source_label": "PaintScratch 2027 Kia",
+        "hex_value": "#4E79A2"
+      },
+      {
+        "display_name": "Snow White Tricoat",
+        "paint_code": "9413",
+        "slug": "snow-white-tricoat-9413",
+        "reference_url": "https://www.paintscratch.com/colors/kia/snow-white-tricoat-9413/",
+        "source_label": "PaintScratch 2027 Kia",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Graphite Gray",
+        "paint_code": "AGT",
+        "slug": "graphite-gray-agt",
+        "reference_url": "https://www.paintscratch.com/colors/kia/graphite-gray-agt/",
+        "source_label": "PaintScratch 2027 Kia",
+        "hex_value": "#808080"
+      }
+    ]
+  }
+}

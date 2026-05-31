@@ -1,0 +1,1088 @@
+{
+  "All Models": {
+    "1987": [
+      {
+        "display_name": "Grey (PPG 34927)",
+        "paint_code": "82L",
+        "slug": "grey-ppg-34927-82l",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/grey-ppg-34927-82l/",
+        "source_label": "PaintScratch 1987 Daewoo",
+        "hex_value": "#7F8582"
+      }
+    ],
+    "1998": [
+      {
+        "display_name": "Deep Bluish Green Metallic",
+        "paint_code": "42U",
+        "slug": "deep-bluish-green-metallic-42u",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/deep-bluish-green-metallic-42u/",
+        "source_label": "PaintScratch 1998 Daewoo",
+        "hex_value": "#225C57"
+      },
+      {
+        "display_name": "Golden Beige Metallic",
+        "paint_code": "64L",
+        "slug": "golden-beige-metallic-64l",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/golden-beige-metallic-64l/",
+        "source_label": "PaintScratch 1998 Daewoo",
+        "hex_value": "#D1C9AF"
+      },
+      {
+        "display_name": "Spinel Red Pearl",
+        "paint_code": "74U",
+        "slug": "spinel-red-pearl-74u",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/spinel-red-pearl-74u/",
+        "source_label": "PaintScratch 1998 Daewoo",
+        "hex_value": "#800000"
+      },
+      {
+        "display_name": "Granada Black Pearl",
+        "paint_code": "83L",
+        "slug": "granada-black-pearl-83l",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/granada-black-pearl-83l/",
+        "source_label": "PaintScratch 1998 Daewoo",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Poly Silver Metallic",
+        "paint_code": "92U",
+        "slug": "poly-silver-metallic-92u",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/poly-silver-metallic-92u/",
+        "source_label": "PaintScratch 1998 Daewoo",
+        "hex_value": "#C0C6C1"
+      },
+      {
+        "display_name": "Olive Silver Metallic",
+        "paint_code": "93U",
+        "slug": "olive-silver-metallic-93u",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/olive-silver-metallic-93u/",
+        "source_label": "PaintScratch 1998 Daewoo",
+        "hex_value": "#B6C1B1"
+      }
+    ],
+    "1999": [
+      {
+        "display_name": "Galaxy White",
+        "paint_code": "11U",
+        "slug": "galaxy-white-11u",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/galaxy-white-11u/",
+        "source_label": "PaintScratch 1999 Daewoo",
+        "hex_value": "#F7F5EB"
+      },
+      {
+        "display_name": "Azurite Blue Metallic",
+        "paint_code": "21U",
+        "slug": "azurite-blue-metallic-21u",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/azurite-blue-metallic-21u/",
+        "source_label": "PaintScratch 1999 Daewoo",
+        "hex_value": "#1C7B96"
+      },
+      {
+        "display_name": "Regatta Blue Pearl",
+        "paint_code": "24U",
+        "slug": "regatta-blue-pearl-24u",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/regatta-blue-pearl-24u/",
+        "source_label": "PaintScratch 1999 Daewoo",
+        "hex_value": "#072155"
+      },
+      {
+        "display_name": "Deep Bluish Green Metallic",
+        "paint_code": "42U",
+        "slug": "deep-bluish-green-metallic-42u",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/deep-bluish-green-metallic-42u/",
+        "source_label": "PaintScratch 1999 Daewoo",
+        "hex_value": "#225C57"
+      },
+      {
+        "display_name": "Light Green",
+        "paint_code": "43U",
+        "slug": "light-green-43u",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/light-green-43u/",
+        "source_label": "PaintScratch 1999 Daewoo",
+        "hex_value": "#A4CAB1"
+      },
+      {
+        "display_name": "Khaki Beige Metallic",
+        "paint_code": "62U",
+        "slug": "khaki-beige-metallic-62u",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/khaki-beige-metallic-62u/",
+        "source_label": "PaintScratch 1999 Daewoo",
+        "hex_value": "#CBC57D"
+      },
+      {
+        "display_name": "Golden Beige Metallic",
+        "paint_code": "64L",
+        "slug": "golden-beige-metallic-64l",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/golden-beige-metallic-64l/",
+        "source_label": "PaintScratch 1999 Daewoo",
+        "hex_value": "#D1C9AF"
+      },
+      {
+        "display_name": "Spinel Red Pearl",
+        "paint_code": "74U",
+        "slug": "spinel-red-pearl-74u",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/spinel-red-pearl-74u/",
+        "source_label": "PaintScratch 1999 Daewoo",
+        "hex_value": "#800000"
+      },
+      {
+        "display_name": "Pewter Metallic",
+        "paint_code": "81U",
+        "slug": "pewter-metallic-81u",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/pewter-metallic-81u/",
+        "source_label": "PaintScratch 1999 Daewoo",
+        "hex_value": "#554F45"
+      },
+      {
+        "display_name": "Granada Black Pearl",
+        "paint_code": "83L",
+        "slug": "granada-black-pearl-83l",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/granada-black-pearl-83l/",
+        "source_label": "PaintScratch 1999 Daewoo",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Poly Silver Metallic",
+        "paint_code": "92U",
+        "slug": "poly-silver-metallic-92u",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/poly-silver-metallic-92u/",
+        "source_label": "PaintScratch 1999 Daewoo",
+        "hex_value": "#C0C6C1"
+      },
+      {
+        "display_name": "Olive Silver Metallic",
+        "paint_code": "93U",
+        "slug": "olive-silver-metallic-93u",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/olive-silver-metallic-93u/",
+        "source_label": "PaintScratch 1999 Daewoo",
+        "hex_value": "#B6C1B1"
+      }
+    ],
+    "2000": [
+      {
+        "display_name": "Galaxy White",
+        "paint_code": "11U",
+        "slug": "galaxy-white-11u",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/galaxy-white-11u/",
+        "source_label": "PaintScratch 2000 Daewoo",
+        "hex_value": "#F7F5EB"
+      },
+      {
+        "display_name": "White Pearl",
+        "paint_code": "13U",
+        "slug": "white-pearl-13u",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/white-pearl-13u/",
+        "source_label": "PaintScratch 2000 Daewoo",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Pacific Blue Metallic",
+        "paint_code": "20U",
+        "slug": "pacific-blue-metallic-20u",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/pacific-blue-metallic-20u/",
+        "source_label": "PaintScratch 2000 Daewoo",
+        "hex_value": "#1B355D"
+      },
+      {
+        "display_name": "Azurite Blue Metallic",
+        "paint_code": "21U",
+        "slug": "azurite-blue-metallic-21u",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/azurite-blue-metallic-21u/",
+        "source_label": "PaintScratch 2000 Daewoo",
+        "hex_value": "#1C7B96"
+      },
+      {
+        "display_name": "Regatta Blue Pearl",
+        "paint_code": "24U",
+        "slug": "regatta-blue-pearl-24u",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/regatta-blue-pearl-24u/",
+        "source_label": "PaintScratch 2000 Daewoo",
+        "hex_value": "#072155"
+      },
+      {
+        "display_name": "Midnight Blue",
+        "paint_code": "30U",
+        "slug": "midnight-blue-30u",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/midnight-blue-30u/",
+        "source_label": "PaintScratch 2000 Daewoo",
+        "hex_value": "#102C64"
+      },
+      {
+        "display_name": "Sherwood Green Metallic",
+        "paint_code": "40U",
+        "slug": "sherwood-green-metallic-40u",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/sherwood-green-metallic-40u/",
+        "source_label": "PaintScratch 2000 Daewoo",
+        "hex_value": "#04660B"
+      },
+      {
+        "display_name": "Deep Bluish Green Metallic",
+        "paint_code": "42U",
+        "slug": "deep-bluish-green-metallic-42u",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/deep-bluish-green-metallic-42u/",
+        "source_label": "PaintScratch 2000 Daewoo",
+        "hex_value": "#225C57"
+      },
+      {
+        "display_name": "Brighton Gold Metallic",
+        "paint_code": "60U",
+        "slug": "brighton-gold-metallic-60u",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/brighton-gold-metallic-60u/",
+        "source_label": "PaintScratch 2000 Daewoo",
+        "hex_value": "#C7C46D"
+      },
+      {
+        "display_name": "Red Brown Metallic",
+        "paint_code": "64U",
+        "slug": "red-brown-metallic-64u",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/red-brown-metallic-64u/",
+        "source_label": "PaintScratch 2000 Daewoo",
+        "hex_value": "#BD0D0D"
+      },
+      {
+        "display_name": "Red Rock Metallic",
+        "paint_code": "70U",
+        "slug": "red-rock-metallic-70u",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/red-rock-metallic-70u/",
+        "source_label": "PaintScratch 2000 Daewoo",
+        "hex_value": "#BD0D0D"
+      },
+      {
+        "display_name": "Super Red",
+        "paint_code": "73L",
+        "slug": "super-red-73l",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/super-red-73l/",
+        "source_label": "PaintScratch 2000 Daewoo",
+        "hex_value": "#FF0000"
+      },
+      {
+        "display_name": "Dark Wine Purple",
+        "paint_code": "73U",
+        "slug": "dark-wine-purple-73u",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/dark-wine-purple-73u/",
+        "source_label": "PaintScratch 2000 Daewoo",
+        "hex_value": "#551F5F"
+      },
+      {
+        "display_name": "Spinel Red Pearl",
+        "paint_code": "74U",
+        "slug": "spinel-red-pearl-74u",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/spinel-red-pearl-74u/",
+        "source_label": "PaintScratch 2000 Daewoo",
+        "hex_value": "#800000"
+      },
+      {
+        "display_name": "Granada Black Pearl",
+        "paint_code": "83L",
+        "slug": "granada-black-pearl-83l",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/granada-black-pearl-83l/",
+        "source_label": "PaintScratch 2000 Daewoo",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Sky Grey",
+        "paint_code": "83U",
+        "slug": "sky-grey-83u",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/sky-grey-83u/",
+        "source_label": "PaintScratch 2000 Daewoo",
+        "hex_value": "#96B2A6"
+      }
+    ],
+    "2001": [
+      {
+        "display_name": "Galaxy White",
+        "paint_code": "11U",
+        "slug": "galaxy-white-11u",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/galaxy-white-11u/",
+        "source_label": "PaintScratch 2001 Daewoo",
+        "hex_value": "#F7F5EB"
+      },
+      {
+        "display_name": "Pacific Blue Metallic",
+        "paint_code": "20U",
+        "slug": "pacific-blue-metallic-20u",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/pacific-blue-metallic-20u/",
+        "source_label": "PaintScratch 2001 Daewoo",
+        "hex_value": "#1B355D"
+      },
+      {
+        "display_name": "Regatta Blue Pearl",
+        "paint_code": "24U",
+        "slug": "regatta-blue-pearl-24u",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/regatta-blue-pearl-24u/",
+        "source_label": "PaintScratch 2001 Daewoo",
+        "hex_value": "#072155"
+      },
+      {
+        "display_name": "Midnight Blue",
+        "paint_code": "30U",
+        "slug": "midnight-blue-30u",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/midnight-blue-30u/",
+        "source_label": "PaintScratch 2001 Daewoo",
+        "hex_value": "#102C64"
+      },
+      {
+        "display_name": "Deep Bluish Green Metallic",
+        "paint_code": "42U",
+        "slug": "deep-bluish-green-metallic-42u",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/deep-bluish-green-metallic-42u/",
+        "source_label": "PaintScratch 2001 Daewoo",
+        "hex_value": "#225C57"
+      },
+      {
+        "display_name": "Lemon Yellow",
+        "paint_code": "56U",
+        "slug": "lemon-yellow-56u",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/lemon-yellow-56u/",
+        "source_label": "PaintScratch 2001 Daewoo",
+        "hex_value": "#A1AF51"
+      },
+      {
+        "display_name": "Brighton Gold Metallic",
+        "paint_code": "60U",
+        "slug": "brighton-gold-metallic-60u",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/brighton-gold-metallic-60u/",
+        "source_label": "PaintScratch 2001 Daewoo",
+        "hex_value": "#C7C46D"
+      },
+      {
+        "display_name": "Red Brown Metallic",
+        "paint_code": "64U",
+        "slug": "red-brown-metallic-64u",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/red-brown-metallic-64u/",
+        "source_label": "PaintScratch 2001 Daewoo",
+        "hex_value": "#BD0D0D"
+      },
+      {
+        "display_name": "Elegant Beige Metallic",
+        "paint_code": "65U",
+        "slug": "elegant-beige-metallic-65u",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/elegant-beige-metallic-65u/",
+        "source_label": "PaintScratch 2001 Daewoo",
+        "hex_value": "#E6DDAE"
+      },
+      {
+        "display_name": "Red Rock Metallic",
+        "paint_code": "70U",
+        "slug": "red-rock-metallic-70u",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/red-rock-metallic-70u/",
+        "source_label": "PaintScratch 2001 Daewoo",
+        "hex_value": "#BD0D0D"
+      },
+      {
+        "display_name": "Super Red",
+        "paint_code": "73L",
+        "slug": "super-red-73l",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/super-red-73l/",
+        "source_label": "PaintScratch 2001 Daewoo",
+        "hex_value": "#FF0000"
+      },
+      {
+        "display_name": "Light Opel Grey Metallic",
+        "paint_code": "80U",
+        "slug": "light-opel-grey-metallic-80u",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/light-opel-grey-metallic-80u/",
+        "source_label": "PaintScratch 2001 Daewoo",
+        "hex_value": "#BCC7CE"
+      },
+      {
+        "display_name": "Granada Black Pearl",
+        "paint_code": "83L",
+        "slug": "granada-black-pearl-83l",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/granada-black-pearl-83l/",
+        "source_label": "PaintScratch 2001 Daewoo",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Sky Grey",
+        "paint_code": "83U",
+        "slug": "sky-grey-83u",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/sky-grey-83u/",
+        "source_label": "PaintScratch 2001 Daewoo",
+        "hex_value": "#96B2A6"
+      },
+      {
+        "display_name": "Poly Silver Metallic",
+        "paint_code": "92U",
+        "slug": "poly-silver-metallic-92u",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/poly-silver-metallic-92u/",
+        "source_label": "PaintScratch 2001 Daewoo",
+        "hex_value": "#C0C6C1"
+      },
+      {
+        "display_name": "Olive Silver Metallic",
+        "paint_code": "93U",
+        "slug": "olive-silver-metallic-93u",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/olive-silver-metallic-93u/",
+        "source_label": "PaintScratch 2001 Daewoo",
+        "hex_value": "#B6C1B1"
+      }
+    ],
+    "2002": [
+      {
+        "display_name": "Galaxy White",
+        "paint_code": "11U",
+        "slug": "galaxy-white-11u",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/galaxy-white-11u/",
+        "source_label": "PaintScratch 2002 Daewoo",
+        "hex_value": "#F7F5EB"
+      },
+      {
+        "display_name": "Pacific Blue Metallic",
+        "paint_code": "20U",
+        "slug": "pacific-blue-metallic-20u",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/pacific-blue-metallic-20u/",
+        "source_label": "PaintScratch 2002 Daewoo",
+        "hex_value": "#1B355D"
+      },
+      {
+        "display_name": "Regatta Blue Pearl",
+        "paint_code": "24U",
+        "slug": "regatta-blue-pearl-24u",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/regatta-blue-pearl-24u/",
+        "source_label": "PaintScratch 2002 Daewoo",
+        "hex_value": "#072155"
+      },
+      {
+        "display_name": "Midnight Blue",
+        "paint_code": "30U",
+        "slug": "midnight-blue-30u",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/midnight-blue-30u/",
+        "source_label": "PaintScratch 2002 Daewoo",
+        "hex_value": "#102C64"
+      },
+      {
+        "display_name": "Pastel Blue Metallic",
+        "paint_code": "32U",
+        "slug": "pastel-blue-metallic-32u",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/pastel-blue-metallic-32u/",
+        "source_label": "PaintScratch 2002 Daewoo",
+        "hex_value": "#9AAEC6"
+      },
+      {
+        "display_name": "Modern Green Metallic",
+        "paint_code": "34U",
+        "slug": "modern-green-metallic-34u",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/modern-green-metallic-34u/",
+        "source_label": "PaintScratch 2002 Daewoo",
+        "hex_value": "#57AD77"
+      },
+      {
+        "display_name": "Danube Green Metallic",
+        "paint_code": "37U",
+        "slug": "danube-green-metallic-37u",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/danube-green-metallic-37u/",
+        "source_label": "PaintScratch 2002 Daewoo",
+        "hex_value": "#5A7056"
+      },
+      {
+        "display_name": "Deep Bluish Green Metallic",
+        "paint_code": "42U",
+        "slug": "deep-bluish-green-metallic-42u",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/deep-bluish-green-metallic-42u/",
+        "source_label": "PaintScratch 2002 Daewoo",
+        "hex_value": "#225C57"
+      },
+      {
+        "display_name": "Brilliant Green Metallic",
+        "paint_code": "48U/WA226L",
+        "slug": "brilliant-green-metallic-48uwa226l",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/brilliant-green-metallic-48uwa226l/",
+        "source_label": "PaintScratch 2002 Daewoo",
+        "hex_value": "#95B369"
+      },
+      {
+        "display_name": "Yellow Green Metallic",
+        "paint_code": "49U",
+        "slug": "yellow-green-metallic-49u",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/yellow-green-metallic-49u/",
+        "source_label": "PaintScratch 2002 Daewoo",
+        "hex_value": "#B8C763"
+      },
+      {
+        "display_name": "Lemon Yellow",
+        "paint_code": "56U",
+        "slug": "lemon-yellow-56u",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/lemon-yellow-56u/",
+        "source_label": "PaintScratch 2002 Daewoo",
+        "hex_value": "#A1AF51"
+      },
+      {
+        "display_name": "Brighton Gold Metallic",
+        "paint_code": "60U",
+        "slug": "brighton-gold-metallic-60u",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/brighton-gold-metallic-60u/",
+        "source_label": "PaintScratch 2002 Daewoo",
+        "hex_value": "#C7C46D"
+      },
+      {
+        "display_name": "Red Brown Metallic",
+        "paint_code": "64U",
+        "slug": "red-brown-metallic-64u",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/red-brown-metallic-64u/",
+        "source_label": "PaintScratch 2002 Daewoo",
+        "hex_value": "#BD0D0D"
+      },
+      {
+        "display_name": "Elegant Beige Metallic",
+        "paint_code": "65U",
+        "slug": "elegant-beige-metallic-65u",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/elegant-beige-metallic-65u/",
+        "source_label": "PaintScratch 2002 Daewoo",
+        "hex_value": "#E6DDAE"
+      },
+      {
+        "display_name": "Red Rock Metallic",
+        "paint_code": "70U",
+        "slug": "red-rock-metallic-70u",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/red-rock-metallic-70u/",
+        "source_label": "PaintScratch 2002 Daewoo",
+        "hex_value": "#BD0D0D"
+      },
+      {
+        "display_name": "Super Red",
+        "paint_code": "73L",
+        "slug": "super-red-73l",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/super-red-73l/",
+        "source_label": "PaintScratch 2002 Daewoo",
+        "hex_value": "#FF0000"
+      }
+    ],
+    "2003": [
+      {
+        "display_name": "Galaxy White",
+        "paint_code": "11U",
+        "slug": "galaxy-white-11u",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/galaxy-white-11u/",
+        "source_label": "PaintScratch 2003 Daewoo",
+        "hex_value": "#F7F5EB"
+      },
+      {
+        "display_name": "Pacific Blue Metallic",
+        "paint_code": "20U",
+        "slug": "pacific-blue-metallic-20u",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/pacific-blue-metallic-20u/",
+        "source_label": "PaintScratch 2003 Daewoo",
+        "hex_value": "#1B355D"
+      },
+      {
+        "display_name": "Regatta Blue Pearl",
+        "paint_code": "24U",
+        "slug": "regatta-blue-pearl-24u",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/regatta-blue-pearl-24u/",
+        "source_label": "PaintScratch 2003 Daewoo",
+        "hex_value": "#072155"
+      },
+      {
+        "display_name": "Harvard Blue Mica",
+        "paint_code": "26U",
+        "slug": "harvard-blue-mica-26u",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/harvard-blue-mica-26u/",
+        "source_label": "PaintScratch 2003 Daewoo",
+        "hex_value": "#0D2D97"
+      },
+      {
+        "display_name": "Midnight Blue",
+        "paint_code": "30U",
+        "slug": "midnight-blue-30u",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/midnight-blue-30u/",
+        "source_label": "PaintScratch 2003 Daewoo",
+        "hex_value": "#102C64"
+      },
+      {
+        "display_name": "Pastel Blue Metallic",
+        "paint_code": "32U",
+        "slug": "pastel-blue-metallic-32u",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/pastel-blue-metallic-32u/",
+        "source_label": "PaintScratch 2003 Daewoo",
+        "hex_value": "#9AAEC6"
+      },
+      {
+        "display_name": "Modern Green Metallic",
+        "paint_code": "34U",
+        "slug": "modern-green-metallic-34u",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/modern-green-metallic-34u/",
+        "source_label": "PaintScratch 2003 Daewoo",
+        "hex_value": "#57AD77"
+      },
+      {
+        "display_name": "Danube Green Metallic",
+        "paint_code": "37U",
+        "slug": "danube-green-metallic-37u",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/danube-green-metallic-37u/",
+        "source_label": "PaintScratch 2003 Daewoo",
+        "hex_value": "#5A7056"
+      },
+      {
+        "display_name": "Tropic Green Metallic",
+        "paint_code": "39U",
+        "slug": "tropic-green-metallic-39u",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/tropic-green-metallic-39u/",
+        "source_label": "PaintScratch 2003 Daewoo",
+        "hex_value": "#226E37"
+      },
+      {
+        "display_name": "Deep Bluish Green Metallic",
+        "paint_code": "42U",
+        "slug": "deep-bluish-green-metallic-42u",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/deep-bluish-green-metallic-42u/",
+        "source_label": "PaintScratch 2003 Daewoo",
+        "hex_value": "#225C57"
+      },
+      {
+        "display_name": "Yellow Green Metallic",
+        "paint_code": "49U",
+        "slug": "yellow-green-metallic-49u",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/yellow-green-metallic-49u/",
+        "source_label": "PaintScratch 2003 Daewoo",
+        "hex_value": "#B8C763"
+      },
+      {
+        "display_name": "Lemon Yellow",
+        "paint_code": "56U",
+        "slug": "lemon-yellow-56u",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/lemon-yellow-56u/",
+        "source_label": "PaintScratch 2003 Daewoo",
+        "hex_value": "#A1AF51"
+      },
+      {
+        "display_name": "Brighton Gold Metallic",
+        "paint_code": "60U",
+        "slug": "brighton-gold-metallic-60u",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/brighton-gold-metallic-60u/",
+        "source_label": "PaintScratch 2003 Daewoo",
+        "hex_value": "#C7C46D"
+      },
+      {
+        "display_name": "Red Brown Metallic",
+        "paint_code": "64U",
+        "slug": "red-brown-metallic-64u",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/red-brown-metallic-64u/",
+        "source_label": "PaintScratch 2003 Daewoo",
+        "hex_value": "#BD0D0D"
+      },
+      {
+        "display_name": "Elegant Beige Metallic",
+        "paint_code": "65U",
+        "slug": "elegant-beige-metallic-65u",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/elegant-beige-metallic-65u/",
+        "source_label": "PaintScratch 2003 Daewoo",
+        "hex_value": "#E6DDAE"
+      },
+      {
+        "display_name": "Red Rock Metallic",
+        "paint_code": "70U",
+        "slug": "red-rock-metallic-70u",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/red-rock-metallic-70u/",
+        "source_label": "PaintScratch 2003 Daewoo",
+        "hex_value": "#BD0D0D"
+      }
+    ],
+    "2004": [
+      {
+        "display_name": "Casablanca White C;learcoat",
+        "paint_code": "10U/WA142L",
+        "slug": "casablanca-white-clearcoat-10uwa142l",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/casablanca-white-clearcoat-10uwa142l/",
+        "source_label": "PaintScratch 2004 Daewoo",
+        "hex_value": "#F9F9F1"
+      },
+      {
+        "display_name": "Galaxy White",
+        "paint_code": "11U/WA143L",
+        "slug": "galaxy-white-11uwa143l",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/galaxy-white-11uwa143l/",
+        "source_label": "PaintScratch 2004 Daewoo",
+        "hex_value": "#F9F9F7"
+      },
+      {
+        "display_name": "Cobalt Blue",
+        "paint_code": "25U/WA150L",
+        "slug": "cobalt-blue-25uwa150l",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/cobalt-blue-25uwa150l/",
+        "source_label": "PaintScratch 2004 Daewoo",
+        "hex_value": "#143BBA"
+      },
+      {
+        "display_name": "Pastel Blue Metallic",
+        "paint_code": "32U/WA155L",
+        "slug": "pastel-blue-metallic-32uwa155l",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/pastel-blue-metallic-32uwa155l/",
+        "source_label": "PaintScratch 2004 Daewoo",
+        "hex_value": "#C3D5E5"
+      },
+      {
+        "display_name": "Sports Blue Metallic",
+        "paint_code": "33U/WA156L",
+        "slug": "sports-blue-metallic-33uwa156l",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/sports-blue-metallic-33uwa156l/",
+        "source_label": "PaintScratch 2004 Daewoo",
+        "hex_value": "#4D76AD"
+      },
+      {
+        "display_name": "Modern Green Metallic",
+        "paint_code": "34U/WA157L",
+        "slug": "modern-green-metallic-34uwa157l",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/modern-green-metallic-34uwa157l/",
+        "source_label": "PaintScratch 2004 Daewoo",
+        "hex_value": "#78B16F"
+      },
+      {
+        "display_name": "Cyber Green Metallic",
+        "paint_code": "38U/WA220L",
+        "slug": "cyber-green-metallic-38uwa220l",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/cyber-green-metallic-38uwa220l/",
+        "source_label": "PaintScratch 2004 Daewoo",
+        "hex_value": "#A3BF61"
+      },
+      {
+        "display_name": "Tropic Green Pearl Metallic",
+        "paint_code": "39U/WA221L",
+        "slug": "tropic-green-pearl-metallic-39uwa221l",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/tropic-green-pearl-metallic-39uwa221l/",
+        "source_label": "PaintScratch 2004 Daewoo",
+        "hex_value": "#3AAA2E"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "41/WA8555",
+        "slug": "black-41wa8555",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/black-41wa8555/",
+        "source_label": "PaintScratch 2004 Daewoo",
+        "hex_value": "#020202"
+      },
+      {
+        "display_name": "Brilliant Green Metallic",
+        "paint_code": "48U/WA226L",
+        "slug": "brilliant-green-metallic-48uwa226l",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/brilliant-green-metallic-48uwa226l/",
+        "source_label": "PaintScratch 2004 Daewoo",
+        "hex_value": "#95B369"
+      },
+      {
+        "display_name": "Yellow Green Metallic",
+        "paint_code": "49U",
+        "slug": "yellow-green-metallic-49u",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/yellow-green-metallic-49u/",
+        "source_label": "PaintScratch 2004 Daewoo",
+        "hex_value": "#B8C763"
+      },
+      {
+        "display_name": "Golden Yellow Pearl Metallic",
+        "paint_code": "51U/WA228L",
+        "slug": "golden-yellow-pearl-metallic-51uwa228l",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/golden-yellow-pearl-metallic-51uwa228l/",
+        "source_label": "PaintScratch 2004 Daewoo",
+        "hex_value": "#DCC258"
+      },
+      {
+        "display_name": "Highway Yellow",
+        "paint_code": "52U/WA229L",
+        "slug": "highway-yellow-52uwa229l",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/highway-yellow-52uwa229l/",
+        "source_label": "PaintScratch 2004 Daewoo",
+        "hex_value": "#F7F025"
+      },
+      {
+        "display_name": "Orange Metallic",
+        "paint_code": "57U/WA230L",
+        "slug": "orange-metallic-57uwa230l",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/orange-metallic-57uwa230l/",
+        "source_label": "PaintScratch 2004 Daewoo",
+        "hex_value": "#F49B3C"
+      },
+      {
+        "display_name": "Satin Beige Metallic",
+        "paint_code": "63U/WA233L",
+        "slug": "satin-beige-metallic-63uwa233l",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/satin-beige-metallic-63uwa233l/",
+        "source_label": "PaintScratch 2004 Daewoo",
+        "hex_value": "#CFAE87"
+      },
+      {
+        "display_name": "Red Brown Mica",
+        "paint_code": "64U/WA234L",
+        "slug": "red-brown-mica-64uwa234l",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/red-brown-mica-64uwa234l/",
+        "source_label": "PaintScratch 2004 Daewoo",
+        "hex_value": "#D73755"
+      }
+    ],
+    "2005": [
+      {
+        "display_name": "Aqua Green Metallic",
+        "paint_code": "03/WA321M",
+        "slug": "aqua-green-metallic-03wa321m",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/aqua-green-metallic-03wa321m/",
+        "source_label": "PaintScratch 2005 Daewoo",
+        "hex_value": "#6DABA0"
+      },
+      {
+        "display_name": "Casablanca White C;learcoat",
+        "paint_code": "10U/WA142L",
+        "slug": "casablanca-white-clearcoat-10uwa142l",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/casablanca-white-clearcoat-10uwa142l/",
+        "source_label": "PaintScratch 2005 Daewoo",
+        "hex_value": "#F9F9F1"
+      },
+      {
+        "display_name": "Galaxy White",
+        "paint_code": "11U/WA143L",
+        "slug": "galaxy-white-11uwa143l",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/galaxy-white-11uwa143l/",
+        "source_label": "PaintScratch 2005 Daewoo",
+        "hex_value": "#F9F9F7"
+      },
+      {
+        "display_name": "Cobalt Blue",
+        "paint_code": "25U/WA150L",
+        "slug": "cobalt-blue-25uwa150l",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/cobalt-blue-25uwa150l/",
+        "source_label": "PaintScratch 2005 Daewoo",
+        "hex_value": "#143BBA"
+      },
+      {
+        "display_name": "Pastel Blue Metallic",
+        "paint_code": "32U/WA155L",
+        "slug": "pastel-blue-metallic-32uwa155l",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/pastel-blue-metallic-32uwa155l/",
+        "source_label": "PaintScratch 2005 Daewoo",
+        "hex_value": "#C3D5E5"
+      },
+      {
+        "display_name": "Sports Blue Metallic",
+        "paint_code": "33U/WA156L",
+        "slug": "sports-blue-metallic-33uwa156l",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/sports-blue-metallic-33uwa156l/",
+        "source_label": "PaintScratch 2005 Daewoo",
+        "hex_value": "#4D76AD"
+      },
+      {
+        "display_name": "Modern Green Metallic",
+        "paint_code": "34U/WA157L",
+        "slug": "modern-green-metallic-34uwa157l",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/modern-green-metallic-34uwa157l/",
+        "source_label": "PaintScratch 2005 Daewoo",
+        "hex_value": "#78B16F"
+      },
+      {
+        "display_name": "Cyber Green Metallic",
+        "paint_code": "38U/WA220L",
+        "slug": "cyber-green-metallic-38uwa220l",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/cyber-green-metallic-38uwa220l/",
+        "source_label": "PaintScratch 2005 Daewoo",
+        "hex_value": "#A3BF61"
+      },
+      {
+        "display_name": "Tropic Green Pearl Metallic",
+        "paint_code": "39U/WA221L",
+        "slug": "tropic-green-pearl-metallic-39uwa221l",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/tropic-green-pearl-metallic-39uwa221l/",
+        "source_label": "PaintScratch 2005 Daewoo",
+        "hex_value": "#3AAA2E"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "41/WA8555",
+        "slug": "black-41wa8555",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/black-41wa8555/",
+        "source_label": "PaintScratch 2005 Daewoo",
+        "hex_value": "#020202"
+      },
+      {
+        "display_name": "Brilliant Green Metallic",
+        "paint_code": "48U/WA226L",
+        "slug": "brilliant-green-metallic-48uwa226l",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/brilliant-green-metallic-48uwa226l/",
+        "source_label": "PaintScratch 2005 Daewoo",
+        "hex_value": "#95B369"
+      },
+      {
+        "display_name": "Yellow Green Effect",
+        "paint_code": "49U/WA227L",
+        "slug": "yellow-green-effect-49uwa227l",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/yellow-green-effect-49uwa227l/",
+        "source_label": "PaintScratch 2005 Daewoo",
+        "hex_value": "#D6F47A"
+      },
+      {
+        "display_name": "Golden Yellow Pearl Metallic",
+        "paint_code": "51U/WA228L",
+        "slug": "golden-yellow-pearl-metallic-51uwa228l",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/golden-yellow-pearl-metallic-51uwa228l/",
+        "source_label": "PaintScratch 2005 Daewoo",
+        "hex_value": "#DCC258"
+      },
+      {
+        "display_name": "Highway Yellow",
+        "paint_code": "52U/WA229L",
+        "slug": "highway-yellow-52uwa229l",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/highway-yellow-52uwa229l/",
+        "source_label": "PaintScratch 2005 Daewoo",
+        "hex_value": "#F7F025"
+      },
+      {
+        "display_name": "Sunset Orange Mica",
+        "paint_code": "54/WA258L",
+        "slug": "sunset-orange-mica-54wa258l",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/sunset-orange-mica-54wa258l/",
+        "source_label": "PaintScratch 2005 Daewoo",
+        "hex_value": "#DA8326"
+      },
+      {
+        "display_name": "Orange Metallic",
+        "paint_code": "57U/WA230L",
+        "slug": "orange-metallic-57uwa230l",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/orange-metallic-57uwa230l/",
+        "source_label": "PaintScratch 2005 Daewoo",
+        "hex_value": "#F49B3C"
+      }
+    ],
+    "2006": [
+      {
+        "display_name": "Aqua Green Metallic",
+        "paint_code": "03/WA321M",
+        "slug": "aqua-green-metallic-03wa321m",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/aqua-green-metallic-03wa321m/",
+        "source_label": "PaintScratch 2006 Daewoo",
+        "hex_value": "#6DABA0"
+      },
+      {
+        "display_name": "Urban Gray Metallic",
+        "paint_code": "04/WA402N",
+        "slug": "urban-gray-metallic-04wa402n",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/urban-gray-metallic-04wa402n/",
+        "source_label": "PaintScratch 2006 Daewoo",
+        "hex_value": "#706D68"
+      },
+      {
+        "display_name": "Misty Blue Metallic",
+        "paint_code": "05/WA404N",
+        "slug": "misty-blue-metallic-05wa404n",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/misty-blue-metallic-05wa404n/",
+        "source_label": "PaintScratch 2006 Daewoo",
+        "hex_value": "#435A73"
+      },
+      {
+        "display_name": "Flame Red Metallic",
+        "paint_code": "06/WA403N",
+        "slug": "flame-red-metallic-06wa403n",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/flame-red-metallic-06wa403n/",
+        "source_label": "PaintScratch 2006 Daewoo",
+        "hex_value": "#AD1105"
+      },
+      {
+        "display_name": "Galaxy White",
+        "paint_code": "11U/WA143L",
+        "slug": "galaxy-white-11uwa143l",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/galaxy-white-11uwa143l/",
+        "source_label": "PaintScratch 2006 Daewoo",
+        "hex_value": "#F9F9F7"
+      },
+      {
+        "display_name": "Sports Blue Metallic",
+        "paint_code": "33U/WA156L",
+        "slug": "sports-blue-metallic-33uwa156l",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/sports-blue-metallic-33uwa156l/",
+        "source_label": "PaintScratch 2006 Daewoo",
+        "hex_value": "#4D76AD"
+      },
+      {
+        "display_name": "Highway Yellow",
+        "paint_code": "52U/WA229L",
+        "slug": "highway-yellow-52uwa229l",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/highway-yellow-52uwa229l/",
+        "source_label": "PaintScratch 2006 Daewoo",
+        "hex_value": "#F7F025"
+      }
+    ],
+    "2007": [
+      {
+        "display_name": "Aqua Green Metallic",
+        "paint_code": "03/WA321M",
+        "slug": "aqua-green-metallic-03wa321m",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/aqua-green-metallic-03wa321m/",
+        "source_label": "PaintScratch 2007 Daewoo",
+        "hex_value": "#6DABA0"
+      }
+    ],
+    "2008": [
+      {
+        "display_name": "Aqua Green Metallic",
+        "paint_code": "03/WA321M",
+        "slug": "aqua-green-metallic-03wa321m",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/aqua-green-metallic-03wa321m/",
+        "source_label": "PaintScratch 2008 Daewoo",
+        "hex_value": "#6DABA0"
+      }
+    ],
+    "2009": [
+      {
+        "display_name": "Aqua Green Metallic",
+        "paint_code": "03/WA321M",
+        "slug": "aqua-green-metallic-03wa321m",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/aqua-green-metallic-03wa321m/",
+        "source_label": "PaintScratch 2009 Daewoo",
+        "hex_value": "#6DABA0"
+      }
+    ],
+    "2010": [
+      {
+        "display_name": "Aqua Green Metallic",
+        "paint_code": "03/WA321M",
+        "slug": "aqua-green-metallic-03wa321m",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/aqua-green-metallic-03wa321m/",
+        "source_label": "PaintScratch 2010 Daewoo",
+        "hex_value": "#6DABA0"
+      }
+    ],
+    "2011": [
+      {
+        "display_name": "Aqua Green Metallic",
+        "paint_code": "03/WA321M",
+        "slug": "aqua-green-metallic-03wa321m",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/aqua-green-metallic-03wa321m/",
+        "source_label": "PaintScratch 2011 Daewoo",
+        "hex_value": "#6DABA0"
+      }
+    ],
+    "2012": [
+      {
+        "display_name": "Aqua Green Metallic",
+        "paint_code": "03/WA321M",
+        "slug": "aqua-green-metallic-03wa321m",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/aqua-green-metallic-03wa321m/",
+        "source_label": "PaintScratch 2012 Daewoo",
+        "hex_value": "#6DABA0"
+      },
+      {
+        "display_name": "Natural",
+        "paint_code": "12U",
+        "slug": "natural-12u",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/natural-12u/",
+        "source_label": "PaintScratch 2012 Daewoo",
+        "hex_value": "#FEF6AE"
+      }
+    ],
+    "2013": [
+      {
+        "display_name": "Aqua Green Metallic",
+        "paint_code": "03/WA321M",
+        "slug": "aqua-green-metallic-03wa321m",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/aqua-green-metallic-03wa321m/",
+        "source_label": "PaintScratch 2013 Daewoo",
+        "hex_value": "#6DABA0"
+      }
+    ],
+    "2014": [
+      {
+        "display_name": "Aqua Green Metallic",
+        "paint_code": "03/WA321M",
+        "slug": "aqua-green-metallic-03wa321m",
+        "reference_url": "https://www.paintscratch.com/colors/daewoo/aqua-green-metallic-03wa321m/",
+        "source_label": "PaintScratch 2014 Daewoo",
+        "hex_value": "#6DABA0"
+      }
+    ]
+  }
+}

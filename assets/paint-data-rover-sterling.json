@@ -1,0 +1,442 @@
+{
+  "All Models": {
+    "1970": [
+      {
+        "display_name": "Tobacco Leaf",
+        "paint_code": "27636",
+        "slug": "tobacco-leaf-27636",
+        "reference_url": "https://www.paintscratch.com/colors/rover-sterling/tobacco-leaf-27636/",
+        "source_label": "PaintScratch 1970 Rover-Sterling",
+        "hex_value": "#705434"
+      }
+    ],
+    "1980": [
+      {
+        "display_name": "Pendelican White",
+        "paint_code": "BLVC215",
+        "slug": "pendelican-white-blvc215",
+        "reference_url": "https://www.paintscratch.com/colors/rover-sterling/pendelican-white-blvc215/",
+        "source_label": "PaintScratch 1980 Rover-Sterling",
+        "hex_value": "#EBEDE1"
+      }
+    ],
+    "1982": [
+      {
+        "display_name": "Sylvan Green",
+        "paint_code": "8558",
+        "slug": "sylvan-green-8558",
+        "reference_url": "https://www.paintscratch.com/colors/rover-sterling/sylvan-green-8558/",
+        "source_label": "PaintScratch 1982 Rover-Sterling",
+        "hex_value": "#3B6E3A"
+      }
+    ],
+    "1985": [
+      {
+        "display_name": "Lipari Blue",
+        "paint_code": "JPE/666",
+        "slug": "lipari-blue-jpe666",
+        "reference_url": "https://www.paintscratch.com/colors/rover-sterling/lipari-blue-jpe666/",
+        "source_label": "PaintScratch 1985 Rover-Sterling",
+        "hex_value": "#BECAD2"
+      },
+      {
+        "display_name": "Silver Semi Metallic",
+        "paint_code": "MME",
+        "slug": "silver-semi-metallic-mme",
+        "reference_url": "https://www.paintscratch.com/colors/rover-sterling/silver-semi-metallic-mme/",
+        "source_label": "PaintScratch 1985 Rover-Sterling",
+        "hex_value": "#C0C0C0"
+      }
+    ],
+    "1986": [
+      {
+        "display_name": "Lipari Blue",
+        "paint_code": "JPE/666",
+        "slug": "lipari-blue-jpe666",
+        "reference_url": "https://www.paintscratch.com/colors/rover-sterling/lipari-blue-jpe666/",
+        "source_label": "PaintScratch 1986 Rover-Sterling",
+        "hex_value": "#BECAD2"
+      },
+      {
+        "display_name": "Silver Semi Metallic",
+        "paint_code": "MME",
+        "slug": "silver-semi-metallic-mme",
+        "reference_url": "https://www.paintscratch.com/colors/rover-sterling/silver-semi-metallic-mme/",
+        "source_label": "PaintScratch 1986 Rover-Sterling",
+        "hex_value": "#C0C0C0"
+      }
+    ],
+    "1987": [
+      {
+        "display_name": "Lipari Blue",
+        "paint_code": "JPE/666",
+        "slug": "lipari-blue-jpe666",
+        "reference_url": "https://www.paintscratch.com/colors/rover-sterling/lipari-blue-jpe666/",
+        "source_label": "PaintScratch 1987 Rover-Sterling",
+        "hex_value": "#BECAD2"
+      },
+      {
+        "display_name": "Silver Semi Metallic",
+        "paint_code": "MME",
+        "slug": "silver-semi-metallic-mme",
+        "reference_url": "https://www.paintscratch.com/colors/rover-sterling/silver-semi-metallic-mme/",
+        "source_label": "PaintScratch 1987 Rover-Sterling",
+        "hex_value": "#C0C0C0"
+      }
+    ],
+    "1988": [
+      {
+        "display_name": "Lynx Bronze Metallic",
+        "paint_code": "BMF/674",
+        "slug": "lynx-bronze-metallic-bmf674",
+        "reference_url": "https://www.paintscratch.com/colors/rover-sterling/lynx-bronze-metallic-bmf674/",
+        "source_label": "PaintScratch 1988 Rover-Sterling",
+        "hex_value": "#876F4D"
+      },
+      {
+        "display_name": "Lipari Blue",
+        "paint_code": "JPE/666",
+        "slug": "lipari-blue-jpe666",
+        "reference_url": "https://www.paintscratch.com/colors/rover-sterling/lipari-blue-jpe666/",
+        "source_label": "PaintScratch 1988 Rover-Sterling",
+        "hex_value": "#BECAD2"
+      },
+      {
+        "display_name": "Silver Semi Metallic",
+        "paint_code": "MME",
+        "slug": "silver-semi-metallic-mme",
+        "reference_url": "https://www.paintscratch.com/colors/rover-sterling/silver-semi-metallic-mme/",
+        "source_label": "PaintScratch 1988 Rover-Sterling",
+        "hex_value": "#C0C0C0"
+      }
+    ],
+    "1989": [
+      {
+        "display_name": "British Racing Green 3",
+        "paint_code": "HFF",
+        "slug": "british-racing-green-3-hff",
+        "reference_url": "https://www.paintscratch.com/colors/rover-sterling/british-racing-green-3-hff/",
+        "source_label": "PaintScratch 1989 Rover-Sterling",
+        "hex_value": "#3D5D39"
+      },
+      {
+        "display_name": "Henley Blue",
+        "paint_code": "JPD",
+        "slug": "henley-blue-jpd",
+        "reference_url": "https://www.paintscratch.com/colors/rover-sterling/henley-blue-jpd/",
+        "source_label": "PaintScratch 1989 Rover-Sterling",
+        "hex_value": "#597DF3"
+      },
+      {
+        "display_name": "Lipari Blue",
+        "paint_code": "JPE/666",
+        "slug": "lipari-blue-jpe666",
+        "reference_url": "https://www.paintscratch.com/colors/rover-sterling/lipari-blue-jpe666/",
+        "source_label": "PaintScratch 1989 Rover-Sterling",
+        "hex_value": "#BECAD2"
+      },
+      {
+        "display_name": "Silver Semi Metallic",
+        "paint_code": "MME",
+        "slug": "silver-semi-metallic-mme",
+        "reference_url": "https://www.paintscratch.com/colors/rover-sterling/silver-semi-metallic-mme/",
+        "source_label": "PaintScratch 1989 Rover-Sterling",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "QuickSilver Metallic",
+        "paint_code": "MNF",
+        "slug": "quicksilver-metallic-mnf",
+        "reference_url": "https://www.paintscratch.com/colors/rover-sterling/quicksilver-metallic-mnf/",
+        "source_label": "PaintScratch 1989 Rover-Sterling",
+        "hex_value": "#BDC7CD"
+      }
+    ],
+    "1990": [
+      {
+        "display_name": "British Racing Green 3",
+        "paint_code": "HFF",
+        "slug": "british-racing-green-3-hff",
+        "reference_url": "https://www.paintscratch.com/colors/rover-sterling/british-racing-green-3-hff/",
+        "source_label": "PaintScratch 1990 Rover-Sterling",
+        "hex_value": "#3D5D39"
+      },
+      {
+        "display_name": "Lipari Blue",
+        "paint_code": "JPE/666",
+        "slug": "lipari-blue-jpe666",
+        "reference_url": "https://www.paintscratch.com/colors/rover-sterling/lipari-blue-jpe666/",
+        "source_label": "PaintScratch 1990 Rover-Sterling",
+        "hex_value": "#BECAD2"
+      },
+      {
+        "display_name": "Silver Semi Metallic",
+        "paint_code": "MME",
+        "slug": "silver-semi-metallic-mme",
+        "reference_url": "https://www.paintscratch.com/colors/rover-sterling/silver-semi-metallic-mme/",
+        "source_label": "PaintScratch 1990 Rover-Sterling",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "QuickSilver Metallic",
+        "paint_code": "MNF",
+        "slug": "quicksilver-metallic-mnf",
+        "reference_url": "https://www.paintscratch.com/colors/rover-sterling/quicksilver-metallic-mnf/",
+        "source_label": "PaintScratch 1990 Rover-Sterling",
+        "hex_value": "#BDC7CD"
+      }
+    ],
+    "1991": [
+      {
+        "display_name": "British Racing Green 3",
+        "paint_code": "HFF",
+        "slug": "british-racing-green-3-hff",
+        "reference_url": "https://www.paintscratch.com/colors/rover-sterling/british-racing-green-3-hff/",
+        "source_label": "PaintScratch 1991 Rover-Sterling",
+        "hex_value": "#3D5D39"
+      },
+      {
+        "display_name": "Lipari Blue",
+        "paint_code": "JPE/666",
+        "slug": "lipari-blue-jpe666",
+        "reference_url": "https://www.paintscratch.com/colors/rover-sterling/lipari-blue-jpe666/",
+        "source_label": "PaintScratch 1991 Rover-Sterling",
+        "hex_value": "#BECAD2"
+      },
+      {
+        "display_name": "Silver Semi Metallic",
+        "paint_code": "MME",
+        "slug": "silver-semi-metallic-mme",
+        "reference_url": "https://www.paintscratch.com/colors/rover-sterling/silver-semi-metallic-mme/",
+        "source_label": "PaintScratch 1991 Rover-Sterling",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "QuickSilver Metallic",
+        "paint_code": "MNF",
+        "slug": "quicksilver-metallic-mnf",
+        "reference_url": "https://www.paintscratch.com/colors/rover-sterling/quicksilver-metallic-mnf/",
+        "source_label": "PaintScratch 1991 Rover-Sterling",
+        "hex_value": "#BDC7CD"
+      }
+    ],
+    "1992": [
+      {
+        "display_name": "British Racing Green 3",
+        "paint_code": "HFF",
+        "slug": "british-racing-green-3-hff",
+        "reference_url": "https://www.paintscratch.com/colors/rover-sterling/british-racing-green-3-hff/",
+        "source_label": "PaintScratch 1992 Rover-Sterling",
+        "hex_value": "#3D5D39"
+      },
+      {
+        "display_name": "QuickSilver Metallic",
+        "paint_code": "MNF",
+        "slug": "quicksilver-metallic-mnf",
+        "reference_url": "https://www.paintscratch.com/colors/rover-sterling/quicksilver-metallic-mnf/",
+        "source_label": "PaintScratch 1992 Rover-Sterling",
+        "hex_value": "#BDC7CD"
+      }
+    ],
+    "1993": [
+      {
+        "display_name": "British Racing Green 3",
+        "paint_code": "HFF",
+        "slug": "british-racing-green-3-hff",
+        "reference_url": "https://www.paintscratch.com/colors/rover-sterling/british-racing-green-3-hff/",
+        "source_label": "PaintScratch 1993 Rover-Sterling",
+        "hex_value": "#3D5D39"
+      },
+      {
+        "display_name": "QuickSilver Metallic",
+        "paint_code": "MNF",
+        "slug": "quicksilver-metallic-mnf",
+        "reference_url": "https://www.paintscratch.com/colors/rover-sterling/quicksilver-metallic-mnf/",
+        "source_label": "PaintScratch 1993 Rover-Sterling",
+        "hex_value": "#BDC7CD"
+      }
+    ],
+    "1994": [
+      {
+        "display_name": "Carribean Blue",
+        "paint_code": "BLVC911",
+        "slug": "carribean-blue-blvc911",
+        "reference_url": "https://www.paintscratch.com/colors/rover-sterling/carribean-blue-blvc911/",
+        "source_label": "PaintScratch 1994 Rover-Sterling",
+        "hex_value": "#557F97"
+      },
+      {
+        "display_name": "British Racing Green 3",
+        "paint_code": "HFF",
+        "slug": "british-racing-green-3-hff",
+        "reference_url": "https://www.paintscratch.com/colors/rover-sterling/british-racing-green-3-hff/",
+        "source_label": "PaintScratch 1994 Rover-Sterling",
+        "hex_value": "#3D5D39"
+      },
+      {
+        "display_name": "QuickSilver Metallic",
+        "paint_code": "MNF",
+        "slug": "quicksilver-metallic-mnf",
+        "reference_url": "https://www.paintscratch.com/colors/rover-sterling/quicksilver-metallic-mnf/",
+        "source_label": "PaintScratch 1994 Rover-Sterling",
+        "hex_value": "#BDC7CD"
+      }
+    ],
+    "1995": [
+      {
+        "display_name": "British Racing Green 3",
+        "paint_code": "HFF",
+        "slug": "british-racing-green-3-hff",
+        "reference_url": "https://www.paintscratch.com/colors/rover-sterling/british-racing-green-3-hff/",
+        "source_label": "PaintScratch 1995 Rover-Sterling",
+        "hex_value": "#3D5D39"
+      },
+      {
+        "display_name": "Odyssey Blue Metallic",
+        "paint_code": "JGA",
+        "slug": "odyssey-blue-metallic-jga",
+        "reference_url": "https://www.paintscratch.com/colors/rover-sterling/odyssey-blue-metallic-jga/",
+        "source_label": "PaintScratch 1995 Rover-Sterling",
+        "hex_value": "#495685"
+      },
+      {
+        "display_name": "QuickSilver Metallic",
+        "paint_code": "MNF",
+        "slug": "quicksilver-metallic-mnf",
+        "reference_url": "https://www.paintscratch.com/colors/rover-sterling/quicksilver-metallic-mnf/",
+        "source_label": "PaintScratch 1995 Rover-Sterling",
+        "hex_value": "#BDC7CD"
+      }
+    ],
+    "1996": [
+      {
+        "display_name": "British Racing Green 3",
+        "paint_code": "HFF",
+        "slug": "british-racing-green-3-hff",
+        "reference_url": "https://www.paintscratch.com/colors/rover-sterling/british-racing-green-3-hff/",
+        "source_label": "PaintScratch 1996 Rover-Sterling",
+        "hex_value": "#3D5D39"
+      },
+      {
+        "display_name": "Odyssey Blue Metallic",
+        "paint_code": "JGA",
+        "slug": "odyssey-blue-metallic-jga",
+        "reference_url": "https://www.paintscratch.com/colors/rover-sterling/odyssey-blue-metallic-jga/",
+        "source_label": "PaintScratch 1996 Rover-Sterling",
+        "hex_value": "#495685"
+      },
+      {
+        "display_name": "QuickSilver Metallic",
+        "paint_code": "MNF",
+        "slug": "quicksilver-metallic-mnf",
+        "reference_url": "https://www.paintscratch.com/colors/rover-sterling/quicksilver-metallic-mnf/",
+        "source_label": "PaintScratch 1996 Rover-Sterling",
+        "hex_value": "#BDC7CD"
+      }
+    ],
+    "1997": [
+      {
+        "display_name": "Odyssey Blue Metallic",
+        "paint_code": "JGA",
+        "slug": "odyssey-blue-metallic-jga",
+        "reference_url": "https://www.paintscratch.com/colors/rover-sterling/odyssey-blue-metallic-jga/",
+        "source_label": "PaintScratch 1997 Rover-Sterling",
+        "hex_value": "#495685"
+      }
+    ],
+    "1998": [
+      {
+        "display_name": "Tahiti Blue",
+        "paint_code": "BLVC965",
+        "slug": "tahiti-blue-blvc965",
+        "reference_url": "https://www.paintscratch.com/colors/rover-sterling/tahiti-blue-blvc965/",
+        "source_label": "PaintScratch 1998 Rover-Sterling",
+        "hex_value": "#0D2D97"
+      },
+      {
+        "display_name": "Odyssey Blue Metallic",
+        "paint_code": "JGA",
+        "slug": "odyssey-blue-metallic-jga",
+        "reference_url": "https://www.paintscratch.com/colors/rover-sterling/odyssey-blue-metallic-jga/",
+        "source_label": "PaintScratch 1998 Rover-Sterling",
+        "hex_value": "#495685"
+      }
+    ],
+    "1999": [
+      {
+        "display_name": "Bronze Metallic",
+        "paint_code": "EAB",
+        "slug": "bronze-metallic-eab",
+        "reference_url": "https://www.paintscratch.com/colors/rover-sterling/bronze-metallic-eab/",
+        "source_label": "PaintScratch 1999 Rover-Sterling",
+        "hex_value": "#AD7A43"
+      },
+      {
+        "display_name": "Odyssey Blue Metallic",
+        "paint_code": "JGA",
+        "slug": "odyssey-blue-metallic-jga",
+        "reference_url": "https://www.paintscratch.com/colors/rover-sterling/odyssey-blue-metallic-jga/",
+        "source_label": "PaintScratch 1999 Rover-Sterling",
+        "hex_value": "#495685"
+      }
+    ],
+    "2000": [
+      {
+        "display_name": "Tahiti Blue",
+        "paint_code": "BLVC965",
+        "slug": "tahiti-blue-blvc965",
+        "reference_url": "https://www.paintscratch.com/colors/rover-sterling/tahiti-blue-blvc965/",
+        "source_label": "PaintScratch 2000 Rover-Sterling",
+        "hex_value": "#0D2D97"
+      },
+      {
+        "display_name": "Odyssey Blue Metallic",
+        "paint_code": "JGA",
+        "slug": "odyssey-blue-metallic-jga",
+        "reference_url": "https://www.paintscratch.com/colors/rover-sterling/odyssey-blue-metallic-jga/",
+        "source_label": "PaintScratch 2000 Rover-Sterling",
+        "hex_value": "#495685"
+      }
+    ],
+    "2001": [
+      {
+        "display_name": "Odyssey Blue Metallic",
+        "paint_code": "JGA",
+        "slug": "odyssey-blue-metallic-jga",
+        "reference_url": "https://www.paintscratch.com/colors/rover-sterling/odyssey-blue-metallic-jga/",
+        "source_label": "PaintScratch 2001 Rover-Sterling",
+        "hex_value": "#495685"
+      }
+    ],
+    "2002": [
+      {
+        "display_name": "Odyssey Blue Metallic",
+        "paint_code": "JGA",
+        "slug": "odyssey-blue-metallic-jga",
+        "reference_url": "https://www.paintscratch.com/colors/rover-sterling/odyssey-blue-metallic-jga/",
+        "source_label": "PaintScratch 2002 Rover-Sterling",
+        "hex_value": "#495685"
+      }
+    ],
+    "2003": [
+      {
+        "display_name": "Odyssey Blue Metallic",
+        "paint_code": "JGA",
+        "slug": "odyssey-blue-metallic-jga",
+        "reference_url": "https://www.paintscratch.com/colors/rover-sterling/odyssey-blue-metallic-jga/",
+        "source_label": "PaintScratch 2003 Rover-Sterling",
+        "hex_value": "#495685"
+      }
+    ],
+    "2004": [
+      {
+        "display_name": "Odyssey Blue Metallic",
+        "paint_code": "JGA",
+        "slug": "odyssey-blue-metallic-jga",
+        "reference_url": "https://www.paintscratch.com/colors/rover-sterling/odyssey-blue-metallic-jga/",
+        "source_label": "PaintScratch 2004 Rover-Sterling",
+        "hex_value": "#495685"
+      }
+    ]
+  }
+}

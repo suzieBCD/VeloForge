@@ -1,0 +1,2792 @@
+{
+  "All Models": {
+    "1961": [
+      {
+        "display_name": "Grecian Gray",
+        "paint_code": "AC-102",
+        "slug": "grecian-gray-ac-102",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/grecian-gray-ac-102/",
+        "source_label": "PaintScratch 1961 Citroen",
+        "hex_value": "#84837C"
+      }
+    ],
+    "1962": [
+      {
+        "display_name": "Grecian Gray",
+        "paint_code": "AC-102",
+        "slug": "grecian-gray-ac-102",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/grecian-gray-ac-102/",
+        "source_label": "PaintScratch 1962 Citroen",
+        "hex_value": "#84837C"
+      }
+    ],
+    "1963": [
+      {
+        "display_name": "Gray",
+        "paint_code": "AC-140",
+        "slug": "gray-ac-140",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/gray-ac-140/",
+        "source_label": "PaintScratch 1963 Citroen",
+        "hex_value": "#6F6D65"
+      },
+      {
+        "display_name": "Erable Beige",
+        "paint_code": "AC-090",
+        "slug": "erable-beige-ac-090",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/erable-beige-ac-090/",
+        "source_label": "PaintScratch 1963 Citroen",
+        "hex_value": "#AEA69A"
+      },
+      {
+        "display_name": "Beige Agate",
+        "paint_code": "AC-091",
+        "slug": "beige-agate-ac-091",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/beige-agate-ac-091/",
+        "source_label": "PaintScratch 1963 Citroen",
+        "hex_value": "#969A82"
+      },
+      {
+        "display_name": "Brumaire Gray",
+        "paint_code": "AC-092",
+        "slug": "brumaire-gray-ac-092",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/brumaire-gray-ac-092/",
+        "source_label": "PaintScratch 1963 Citroen",
+        "hex_value": "#606254"
+      },
+      {
+        "display_name": "Everest White",
+        "paint_code": "AC-098",
+        "slug": "everest-white-ac-098",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/everest-white-ac-098/",
+        "source_label": "PaintScratch 1963 Citroen",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Anthracite",
+        "paint_code": "AC-101",
+        "slug": "anthracite-ac-101",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/anthracite-ac-101/",
+        "source_label": "PaintScratch 1963 Citroen",
+        "hex_value": "#474537"
+      },
+      {
+        "display_name": "Grecian Gray",
+        "paint_code": "AC-102",
+        "slug": "grecian-gray-ac-102",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/grecian-gray-ac-102/",
+        "source_label": "PaintScratch 1963 Citroen",
+        "hex_value": "#84837C"
+      },
+      {
+        "display_name": "Gray Metallic",
+        "paint_code": "AC-109",
+        "slug": "gray-metallic-ac-109",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/gray-metallic-ac-109/",
+        "source_label": "PaintScratch 1963 Citroen",
+        "hex_value": "#555659"
+      },
+      {
+        "display_name": "Black Sable Metallic",
+        "paint_code": "AC-110",
+        "slug": "black-sable-metallic-ac-110",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/black-sable-metallic-ac-110/",
+        "source_label": "PaintScratch 1963 Citroen",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Sahara Gray Metallic",
+        "paint_code": "AC-111",
+        "slug": "sahara-gray-metallic-ac-111",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/sahara-gray-metallic-ac-111/",
+        "source_label": "PaintScratch 1963 Citroen",
+        "hex_value": "#878373"
+      },
+      {
+        "display_name": "Imperial Gray Metallic",
+        "paint_code": "AC-112",
+        "slug": "imperial-gray-metallic-ac-112",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/imperial-gray-metallic-ac-112/",
+        "source_label": "PaintScratch 1963 Citroen",
+        "hex_value": "#494843"
+      },
+      {
+        "display_name": "Pearl Gray Metallic",
+        "paint_code": "AC-113",
+        "slug": "pearl-gray-metallic-ac-113",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/pearl-gray-metallic-ac-113/",
+        "source_label": "PaintScratch 1963 Citroen",
+        "hex_value": "#908D82"
+      },
+      {
+        "display_name": "Silver Gray Metallic",
+        "paint_code": "AC-114",
+        "slug": "silver-gray-metallic-ac-114",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/silver-gray-metallic-ac-114/",
+        "source_label": "PaintScratch 1963 Citroen",
+        "hex_value": "#828990"
+      },
+      {
+        "display_name": "Blue",
+        "paint_code": "AC-117",
+        "slug": "blue-ac-117",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/blue-ac-117/",
+        "source_label": "PaintScratch 1963 Citroen",
+        "hex_value": "#4F647B"
+      },
+      {
+        "display_name": "Etna Gray",
+        "paint_code": "AC-118",
+        "slug": "etna-gray-ac-118",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/etna-gray-ac-118/",
+        "source_label": "PaintScratch 1963 Citroen",
+        "hex_value": "#7E848A"
+      },
+      {
+        "display_name": "Cyclone Gray",
+        "paint_code": "AC-119",
+        "slug": "cyclone-gray-ac-119",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/cyclone-gray-ac-119/",
+        "source_label": "PaintScratch 1963 Citroen",
+        "hex_value": "#505458"
+      }
+    ],
+    "1964": [
+      {
+        "display_name": "Gray",
+        "paint_code": "AC-140",
+        "slug": "gray-ac-140",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/gray-ac-140/",
+        "source_label": "PaintScratch 1964 Citroen",
+        "hex_value": "#6F6D65"
+      },
+      {
+        "display_name": "Erable Beige",
+        "paint_code": "AC-090",
+        "slug": "erable-beige-ac-090",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/erable-beige-ac-090/",
+        "source_label": "PaintScratch 1964 Citroen",
+        "hex_value": "#AEA69A"
+      },
+      {
+        "display_name": "Beige Agate",
+        "paint_code": "AC-091",
+        "slug": "beige-agate-ac-091",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/beige-agate-ac-091/",
+        "source_label": "PaintScratch 1964 Citroen",
+        "hex_value": "#969A82"
+      },
+      {
+        "display_name": "Brumaire Gray",
+        "paint_code": "AC-092",
+        "slug": "brumaire-gray-ac-092",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/brumaire-gray-ac-092/",
+        "source_label": "PaintScratch 1964 Citroen",
+        "hex_value": "#606254"
+      },
+      {
+        "display_name": "Everest White",
+        "paint_code": "AC-098",
+        "slug": "everest-white-ac-098",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/everest-white-ac-098/",
+        "source_label": "PaintScratch 1964 Citroen",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Anthracite",
+        "paint_code": "AC-101",
+        "slug": "anthracite-ac-101",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/anthracite-ac-101/",
+        "source_label": "PaintScratch 1964 Citroen",
+        "hex_value": "#474537"
+      },
+      {
+        "display_name": "Grecian Gray",
+        "paint_code": "AC-102",
+        "slug": "grecian-gray-ac-102",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/grecian-gray-ac-102/",
+        "source_label": "PaintScratch 1964 Citroen",
+        "hex_value": "#84837C"
+      },
+      {
+        "display_name": "Gray Metallic",
+        "paint_code": "AC-109",
+        "slug": "gray-metallic-ac-109",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/gray-metallic-ac-109/",
+        "source_label": "PaintScratch 1964 Citroen",
+        "hex_value": "#555659"
+      },
+      {
+        "display_name": "Black Sable Metallic",
+        "paint_code": "AC-110",
+        "slug": "black-sable-metallic-ac-110",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/black-sable-metallic-ac-110/",
+        "source_label": "PaintScratch 1964 Citroen",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Sahara Gray Metallic",
+        "paint_code": "AC-111",
+        "slug": "sahara-gray-metallic-ac-111",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/sahara-gray-metallic-ac-111/",
+        "source_label": "PaintScratch 1964 Citroen",
+        "hex_value": "#878373"
+      },
+      {
+        "display_name": "Imperial Gray Metallic",
+        "paint_code": "AC-112",
+        "slug": "imperial-gray-metallic-ac-112",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/imperial-gray-metallic-ac-112/",
+        "source_label": "PaintScratch 1964 Citroen",
+        "hex_value": "#494843"
+      },
+      {
+        "display_name": "Pearl Gray Metallic",
+        "paint_code": "AC-113",
+        "slug": "pearl-gray-metallic-ac-113",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/pearl-gray-metallic-ac-113/",
+        "source_label": "PaintScratch 1964 Citroen",
+        "hex_value": "#908D82"
+      },
+      {
+        "display_name": "Silver Gray Metallic",
+        "paint_code": "AC-114",
+        "slug": "silver-gray-metallic-ac-114",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/silver-gray-metallic-ac-114/",
+        "source_label": "PaintScratch 1964 Citroen",
+        "hex_value": "#828990"
+      },
+      {
+        "display_name": "Blue",
+        "paint_code": "AC-117",
+        "slug": "blue-ac-117",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/blue-ac-117/",
+        "source_label": "PaintScratch 1964 Citroen",
+        "hex_value": "#4F647B"
+      },
+      {
+        "display_name": "Etna Gray",
+        "paint_code": "AC-118",
+        "slug": "etna-gray-ac-118",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/etna-gray-ac-118/",
+        "source_label": "PaintScratch 1964 Citroen",
+        "hex_value": "#7E848A"
+      },
+      {
+        "display_name": "Cyclone Gray",
+        "paint_code": "AC-119",
+        "slug": "cyclone-gray-ac-119",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/cyclone-gray-ac-119/",
+        "source_label": "PaintScratch 1964 Citroen",
+        "hex_value": "#505458"
+      }
+    ],
+    "1965": [
+      {
+        "display_name": "Gray",
+        "paint_code": "AC-140",
+        "slug": "gray-ac-140",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/gray-ac-140/",
+        "source_label": "PaintScratch 1965 Citroen",
+        "hex_value": "#6F6D65"
+      },
+      {
+        "display_name": "Erable Beige",
+        "paint_code": "AC-090",
+        "slug": "erable-beige-ac-090",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/erable-beige-ac-090/",
+        "source_label": "PaintScratch 1965 Citroen",
+        "hex_value": "#AEA69A"
+      },
+      {
+        "display_name": "Beige Agate",
+        "paint_code": "AC-091",
+        "slug": "beige-agate-ac-091",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/beige-agate-ac-091/",
+        "source_label": "PaintScratch 1965 Citroen",
+        "hex_value": "#969A82"
+      },
+      {
+        "display_name": "Brumaire Gray",
+        "paint_code": "AC-092",
+        "slug": "brumaire-gray-ac-092",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/brumaire-gray-ac-092/",
+        "source_label": "PaintScratch 1965 Citroen",
+        "hex_value": "#606254"
+      },
+      {
+        "display_name": "Everest White",
+        "paint_code": "AC-098",
+        "slug": "everest-white-ac-098",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/everest-white-ac-098/",
+        "source_label": "PaintScratch 1965 Citroen",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Anthracite",
+        "paint_code": "AC-101",
+        "slug": "anthracite-ac-101",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/anthracite-ac-101/",
+        "source_label": "PaintScratch 1965 Citroen",
+        "hex_value": "#474537"
+      },
+      {
+        "display_name": "Grecian Gray",
+        "paint_code": "AC-102",
+        "slug": "grecian-gray-ac-102",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/grecian-gray-ac-102/",
+        "source_label": "PaintScratch 1965 Citroen",
+        "hex_value": "#84837C"
+      },
+      {
+        "display_name": "Gray Metallic",
+        "paint_code": "AC-109",
+        "slug": "gray-metallic-ac-109",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/gray-metallic-ac-109/",
+        "source_label": "PaintScratch 1965 Citroen",
+        "hex_value": "#555659"
+      },
+      {
+        "display_name": "Black Sable Metallic",
+        "paint_code": "AC-110",
+        "slug": "black-sable-metallic-ac-110",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/black-sable-metallic-ac-110/",
+        "source_label": "PaintScratch 1965 Citroen",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Sahara Gray Metallic",
+        "paint_code": "AC-111",
+        "slug": "sahara-gray-metallic-ac-111",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/sahara-gray-metallic-ac-111/",
+        "source_label": "PaintScratch 1965 Citroen",
+        "hex_value": "#878373"
+      },
+      {
+        "display_name": "Imperial Gray Metallic",
+        "paint_code": "AC-112",
+        "slug": "imperial-gray-metallic-ac-112",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/imperial-gray-metallic-ac-112/",
+        "source_label": "PaintScratch 1965 Citroen",
+        "hex_value": "#494843"
+      },
+      {
+        "display_name": "Pearl Gray Metallic",
+        "paint_code": "AC-113",
+        "slug": "pearl-gray-metallic-ac-113",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/pearl-gray-metallic-ac-113/",
+        "source_label": "PaintScratch 1965 Citroen",
+        "hex_value": "#908D82"
+      },
+      {
+        "display_name": "Silver Gray Metallic",
+        "paint_code": "AC-114",
+        "slug": "silver-gray-metallic-ac-114",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/silver-gray-metallic-ac-114/",
+        "source_label": "PaintScratch 1965 Citroen",
+        "hex_value": "#828990"
+      },
+      {
+        "display_name": "Blue",
+        "paint_code": "AC-117",
+        "slug": "blue-ac-117",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/blue-ac-117/",
+        "source_label": "PaintScratch 1965 Citroen",
+        "hex_value": "#4F647B"
+      },
+      {
+        "display_name": "Etna Gray",
+        "paint_code": "AC-118",
+        "slug": "etna-gray-ac-118",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/etna-gray-ac-118/",
+        "source_label": "PaintScratch 1965 Citroen",
+        "hex_value": "#7E848A"
+      },
+      {
+        "display_name": "Cyclone Gray",
+        "paint_code": "AC-119",
+        "slug": "cyclone-gray-ac-119",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/cyclone-gray-ac-119/",
+        "source_label": "PaintScratch 1965 Citroen",
+        "hex_value": "#505458"
+      }
+    ],
+    "1966": [
+      {
+        "display_name": "Gray",
+        "paint_code": "AC-140",
+        "slug": "gray-ac-140",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/gray-ac-140/",
+        "source_label": "PaintScratch 1966 Citroen",
+        "hex_value": "#6F6D65"
+      },
+      {
+        "display_name": "Erable Beige",
+        "paint_code": "AC-090",
+        "slug": "erable-beige-ac-090",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/erable-beige-ac-090/",
+        "source_label": "PaintScratch 1966 Citroen",
+        "hex_value": "#AEA69A"
+      },
+      {
+        "display_name": "Beige Agate",
+        "paint_code": "AC-091",
+        "slug": "beige-agate-ac-091",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/beige-agate-ac-091/",
+        "source_label": "PaintScratch 1966 Citroen",
+        "hex_value": "#969A82"
+      },
+      {
+        "display_name": "Brumaire Gray",
+        "paint_code": "AC-092",
+        "slug": "brumaire-gray-ac-092",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/brumaire-gray-ac-092/",
+        "source_label": "PaintScratch 1966 Citroen",
+        "hex_value": "#606254"
+      },
+      {
+        "display_name": "Everest White",
+        "paint_code": "AC-098",
+        "slug": "everest-white-ac-098",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/everest-white-ac-098/",
+        "source_label": "PaintScratch 1966 Citroen",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Anthracite",
+        "paint_code": "AC-101",
+        "slug": "anthracite-ac-101",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/anthracite-ac-101/",
+        "source_label": "PaintScratch 1966 Citroen",
+        "hex_value": "#474537"
+      },
+      {
+        "display_name": "Grecian Gray",
+        "paint_code": "AC-102",
+        "slug": "grecian-gray-ac-102",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/grecian-gray-ac-102/",
+        "source_label": "PaintScratch 1966 Citroen",
+        "hex_value": "#84837C"
+      },
+      {
+        "display_name": "Gray Metallic",
+        "paint_code": "AC-109",
+        "slug": "gray-metallic-ac-109",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/gray-metallic-ac-109/",
+        "source_label": "PaintScratch 1966 Citroen",
+        "hex_value": "#555659"
+      },
+      {
+        "display_name": "Black Sable Metallic",
+        "paint_code": "AC-110",
+        "slug": "black-sable-metallic-ac-110",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/black-sable-metallic-ac-110/",
+        "source_label": "PaintScratch 1966 Citroen",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Sahara Gray Metallic",
+        "paint_code": "AC-111",
+        "slug": "sahara-gray-metallic-ac-111",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/sahara-gray-metallic-ac-111/",
+        "source_label": "PaintScratch 1966 Citroen",
+        "hex_value": "#878373"
+      },
+      {
+        "display_name": "Imperial Gray Metallic",
+        "paint_code": "AC-112",
+        "slug": "imperial-gray-metallic-ac-112",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/imperial-gray-metallic-ac-112/",
+        "source_label": "PaintScratch 1966 Citroen",
+        "hex_value": "#494843"
+      },
+      {
+        "display_name": "Pearl Gray Metallic",
+        "paint_code": "AC-113",
+        "slug": "pearl-gray-metallic-ac-113",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/pearl-gray-metallic-ac-113/",
+        "source_label": "PaintScratch 1966 Citroen",
+        "hex_value": "#908D82"
+      },
+      {
+        "display_name": "Silver Gray Metallic",
+        "paint_code": "AC-114",
+        "slug": "silver-gray-metallic-ac-114",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/silver-gray-metallic-ac-114/",
+        "source_label": "PaintScratch 1966 Citroen",
+        "hex_value": "#828990"
+      },
+      {
+        "display_name": "Blue",
+        "paint_code": "AC-117",
+        "slug": "blue-ac-117",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/blue-ac-117/",
+        "source_label": "PaintScratch 1966 Citroen",
+        "hex_value": "#4F647B"
+      },
+      {
+        "display_name": "Etna Gray",
+        "paint_code": "AC-118",
+        "slug": "etna-gray-ac-118",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/etna-gray-ac-118/",
+        "source_label": "PaintScratch 1966 Citroen",
+        "hex_value": "#7E848A"
+      },
+      {
+        "display_name": "Cyclone Gray",
+        "paint_code": "AC-119",
+        "slug": "cyclone-gray-ac-119",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/cyclone-gray-ac-119/",
+        "source_label": "PaintScratch 1966 Citroen",
+        "hex_value": "#505458"
+      }
+    ],
+    "1967": [
+      {
+        "display_name": "Gray",
+        "paint_code": "AC-140",
+        "slug": "gray-ac-140",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/gray-ac-140/",
+        "source_label": "PaintScratch 1967 Citroen",
+        "hex_value": "#6F6D65"
+      },
+      {
+        "display_name": "Erable Beige",
+        "paint_code": "AC-090",
+        "slug": "erable-beige-ac-090",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/erable-beige-ac-090/",
+        "source_label": "PaintScratch 1967 Citroen",
+        "hex_value": "#AEA69A"
+      },
+      {
+        "display_name": "Beige Agate",
+        "paint_code": "AC-091",
+        "slug": "beige-agate-ac-091",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/beige-agate-ac-091/",
+        "source_label": "PaintScratch 1967 Citroen",
+        "hex_value": "#969A82"
+      },
+      {
+        "display_name": "Brumaire Gray",
+        "paint_code": "AC-092",
+        "slug": "brumaire-gray-ac-092",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/brumaire-gray-ac-092/",
+        "source_label": "PaintScratch 1967 Citroen",
+        "hex_value": "#606254"
+      },
+      {
+        "display_name": "Everest White",
+        "paint_code": "AC-098",
+        "slug": "everest-white-ac-098",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/everest-white-ac-098/",
+        "source_label": "PaintScratch 1967 Citroen",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Anthracite",
+        "paint_code": "AC-101",
+        "slug": "anthracite-ac-101",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/anthracite-ac-101/",
+        "source_label": "PaintScratch 1967 Citroen",
+        "hex_value": "#474537"
+      },
+      {
+        "display_name": "Grecian Gray",
+        "paint_code": "AC-102",
+        "slug": "grecian-gray-ac-102",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/grecian-gray-ac-102/",
+        "source_label": "PaintScratch 1967 Citroen",
+        "hex_value": "#84837C"
+      },
+      {
+        "display_name": "Gray Metallic",
+        "paint_code": "AC-109",
+        "slug": "gray-metallic-ac-109",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/gray-metallic-ac-109/",
+        "source_label": "PaintScratch 1967 Citroen",
+        "hex_value": "#555659"
+      },
+      {
+        "display_name": "Black Sable Metallic",
+        "paint_code": "AC-110",
+        "slug": "black-sable-metallic-ac-110",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/black-sable-metallic-ac-110/",
+        "source_label": "PaintScratch 1967 Citroen",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Sahara Gray Metallic",
+        "paint_code": "AC-111",
+        "slug": "sahara-gray-metallic-ac-111",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/sahara-gray-metallic-ac-111/",
+        "source_label": "PaintScratch 1967 Citroen",
+        "hex_value": "#878373"
+      },
+      {
+        "display_name": "Imperial Gray Metallic",
+        "paint_code": "AC-112",
+        "slug": "imperial-gray-metallic-ac-112",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/imperial-gray-metallic-ac-112/",
+        "source_label": "PaintScratch 1967 Citroen",
+        "hex_value": "#494843"
+      },
+      {
+        "display_name": "Pearl Gray Metallic",
+        "paint_code": "AC-113",
+        "slug": "pearl-gray-metallic-ac-113",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/pearl-gray-metallic-ac-113/",
+        "source_label": "PaintScratch 1967 Citroen",
+        "hex_value": "#908D82"
+      },
+      {
+        "display_name": "Silver Gray Metallic",
+        "paint_code": "AC-114",
+        "slug": "silver-gray-metallic-ac-114",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/silver-gray-metallic-ac-114/",
+        "source_label": "PaintScratch 1967 Citroen",
+        "hex_value": "#828990"
+      },
+      {
+        "display_name": "Blue",
+        "paint_code": "AC-117",
+        "slug": "blue-ac-117",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/blue-ac-117/",
+        "source_label": "PaintScratch 1967 Citroen",
+        "hex_value": "#4F647B"
+      },
+      {
+        "display_name": "Etna Gray",
+        "paint_code": "AC-118",
+        "slug": "etna-gray-ac-118",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/etna-gray-ac-118/",
+        "source_label": "PaintScratch 1967 Citroen",
+        "hex_value": "#7E848A"
+      },
+      {
+        "display_name": "Cyclone Gray",
+        "paint_code": "AC-119",
+        "slug": "cyclone-gray-ac-119",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/cyclone-gray-ac-119/",
+        "source_label": "PaintScratch 1967 Citroen",
+        "hex_value": "#505458"
+      }
+    ],
+    "1968": [
+      {
+        "display_name": "Gray",
+        "paint_code": "AC-140",
+        "slug": "gray-ac-140",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/gray-ac-140/",
+        "source_label": "PaintScratch 1968 Citroen",
+        "hex_value": "#6F6D65"
+      },
+      {
+        "display_name": "Erable Beige",
+        "paint_code": "AC-090",
+        "slug": "erable-beige-ac-090",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/erable-beige-ac-090/",
+        "source_label": "PaintScratch 1968 Citroen",
+        "hex_value": "#AEA69A"
+      },
+      {
+        "display_name": "Beige Agate",
+        "paint_code": "AC-091",
+        "slug": "beige-agate-ac-091",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/beige-agate-ac-091/",
+        "source_label": "PaintScratch 1968 Citroen",
+        "hex_value": "#969A82"
+      },
+      {
+        "display_name": "Brumaire Gray",
+        "paint_code": "AC-092",
+        "slug": "brumaire-gray-ac-092",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/brumaire-gray-ac-092/",
+        "source_label": "PaintScratch 1968 Citroen",
+        "hex_value": "#606254"
+      },
+      {
+        "display_name": "Everest White",
+        "paint_code": "AC-098",
+        "slug": "everest-white-ac-098",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/everest-white-ac-098/",
+        "source_label": "PaintScratch 1968 Citroen",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Anthracite",
+        "paint_code": "AC-101",
+        "slug": "anthracite-ac-101",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/anthracite-ac-101/",
+        "source_label": "PaintScratch 1968 Citroen",
+        "hex_value": "#474537"
+      },
+      {
+        "display_name": "Grecian Gray",
+        "paint_code": "AC-102",
+        "slug": "grecian-gray-ac-102",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/grecian-gray-ac-102/",
+        "source_label": "PaintScratch 1968 Citroen",
+        "hex_value": "#84837C"
+      },
+      {
+        "display_name": "Palladium Gray Metallic",
+        "paint_code": "AC-108",
+        "slug": "palladium-gray-metallic-ac-108",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/palladium-gray-metallic-ac-108/",
+        "source_label": "PaintScratch 1968 Citroen",
+        "hex_value": "#6C6D72"
+      },
+      {
+        "display_name": "Gray Metallic",
+        "paint_code": "AC-109",
+        "slug": "gray-metallic-ac-109",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/gray-metallic-ac-109/",
+        "source_label": "PaintScratch 1968 Citroen",
+        "hex_value": "#555659"
+      },
+      {
+        "display_name": "Black Sable Metallic",
+        "paint_code": "AC-110",
+        "slug": "black-sable-metallic-ac-110",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/black-sable-metallic-ac-110/",
+        "source_label": "PaintScratch 1968 Citroen",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Sahara Gray Metallic",
+        "paint_code": "AC-111",
+        "slug": "sahara-gray-metallic-ac-111",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/sahara-gray-metallic-ac-111/",
+        "source_label": "PaintScratch 1968 Citroen",
+        "hex_value": "#878373"
+      },
+      {
+        "display_name": "Imperial Gray Metallic",
+        "paint_code": "AC-112",
+        "slug": "imperial-gray-metallic-ac-112",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/imperial-gray-metallic-ac-112/",
+        "source_label": "PaintScratch 1968 Citroen",
+        "hex_value": "#494843"
+      },
+      {
+        "display_name": "Pearl Gray Metallic",
+        "paint_code": "AC-113",
+        "slug": "pearl-gray-metallic-ac-113",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/pearl-gray-metallic-ac-113/",
+        "source_label": "PaintScratch 1968 Citroen",
+        "hex_value": "#908D82"
+      },
+      {
+        "display_name": "Silver Gray Metallic",
+        "paint_code": "AC-114",
+        "slug": "silver-gray-metallic-ac-114",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/silver-gray-metallic-ac-114/",
+        "source_label": "PaintScratch 1968 Citroen",
+        "hex_value": "#828990"
+      },
+      {
+        "display_name": "Blue",
+        "paint_code": "AC-117",
+        "slug": "blue-ac-117",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/blue-ac-117/",
+        "source_label": "PaintScratch 1968 Citroen",
+        "hex_value": "#4F647B"
+      },
+      {
+        "display_name": "Etna Gray",
+        "paint_code": "AC-118",
+        "slug": "etna-gray-ac-118",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/etna-gray-ac-118/",
+        "source_label": "PaintScratch 1968 Citroen",
+        "hex_value": "#7E848A"
+      }
+    ],
+    "1969": [
+      {
+        "display_name": "Gray",
+        "paint_code": "AC-140",
+        "slug": "gray-ac-140",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/gray-ac-140/",
+        "source_label": "PaintScratch 1969 Citroen",
+        "hex_value": "#6F6D65"
+      },
+      {
+        "display_name": "Erable Beige",
+        "paint_code": "AC-090",
+        "slug": "erable-beige-ac-090",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/erable-beige-ac-090/",
+        "source_label": "PaintScratch 1969 Citroen",
+        "hex_value": "#AEA69A"
+      },
+      {
+        "display_name": "Beige Agate",
+        "paint_code": "AC-091",
+        "slug": "beige-agate-ac-091",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/beige-agate-ac-091/",
+        "source_label": "PaintScratch 1969 Citroen",
+        "hex_value": "#969A82"
+      },
+      {
+        "display_name": "Brumaire Gray",
+        "paint_code": "AC-092",
+        "slug": "brumaire-gray-ac-092",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/brumaire-gray-ac-092/",
+        "source_label": "PaintScratch 1969 Citroen",
+        "hex_value": "#606254"
+      },
+      {
+        "display_name": "Silver Gray Metallic",
+        "paint_code": "AC-095",
+        "slug": "silver-gray-metallic-ac-095",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/silver-gray-metallic-ac-095/",
+        "source_label": "PaintScratch 1969 Citroen",
+        "hex_value": "#B4B9BE"
+      },
+      {
+        "display_name": "Alabaster White",
+        "paint_code": "AC-096",
+        "slug": "alabaster-white-ac-096",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/alabaster-white-ac-096/",
+        "source_label": "PaintScratch 1969 Citroen",
+        "hex_value": "#FEFBEC"
+      },
+      {
+        "display_name": "Everest White",
+        "paint_code": "AC-098",
+        "slug": "everest-white-ac-098",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/everest-white-ac-098/",
+        "source_label": "PaintScratch 1969 Citroen",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Anthracite",
+        "paint_code": "AC-101",
+        "slug": "anthracite-ac-101",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/anthracite-ac-101/",
+        "source_label": "PaintScratch 1969 Citroen",
+        "hex_value": "#474537"
+      },
+      {
+        "display_name": "Grecian Gray",
+        "paint_code": "AC-102",
+        "slug": "grecian-gray-ac-102",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/grecian-gray-ac-102/",
+        "source_label": "PaintScratch 1969 Citroen",
+        "hex_value": "#84837C"
+      },
+      {
+        "display_name": "Palladium Gray Metallic",
+        "paint_code": "AC-108",
+        "slug": "palladium-gray-metallic-ac-108",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/palladium-gray-metallic-ac-108/",
+        "source_label": "PaintScratch 1969 Citroen",
+        "hex_value": "#6C6D72"
+      },
+      {
+        "display_name": "Gray Metallic",
+        "paint_code": "AC-109",
+        "slug": "gray-metallic-ac-109",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/gray-metallic-ac-109/",
+        "source_label": "PaintScratch 1969 Citroen",
+        "hex_value": "#555659"
+      },
+      {
+        "display_name": "Black Sable Metallic",
+        "paint_code": "AC-110",
+        "slug": "black-sable-metallic-ac-110",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/black-sable-metallic-ac-110/",
+        "source_label": "PaintScratch 1969 Citroen",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Sahara Gray Metallic",
+        "paint_code": "AC-111",
+        "slug": "sahara-gray-metallic-ac-111",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/sahara-gray-metallic-ac-111/",
+        "source_label": "PaintScratch 1969 Citroen",
+        "hex_value": "#878373"
+      },
+      {
+        "display_name": "Imperial Gray Metallic",
+        "paint_code": "AC-112",
+        "slug": "imperial-gray-metallic-ac-112",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/imperial-gray-metallic-ac-112/",
+        "source_label": "PaintScratch 1969 Citroen",
+        "hex_value": "#494843"
+      },
+      {
+        "display_name": "Pearl Gray Metallic",
+        "paint_code": "AC-113",
+        "slug": "pearl-gray-metallic-ac-113",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/pearl-gray-metallic-ac-113/",
+        "source_label": "PaintScratch 1969 Citroen",
+        "hex_value": "#908D82"
+      },
+      {
+        "display_name": "Silver Gray Metallic",
+        "paint_code": "AC-114",
+        "slug": "silver-gray-metallic-ac-114",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/silver-gray-metallic-ac-114/",
+        "source_label": "PaintScratch 1969 Citroen",
+        "hex_value": "#828990"
+      }
+    ],
+    "1970": [
+      {
+        "display_name": "Gray",
+        "paint_code": "AC-140",
+        "slug": "gray-ac-140",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/gray-ac-140/",
+        "source_label": "PaintScratch 1970 Citroen",
+        "hex_value": "#6F6D65"
+      },
+      {
+        "display_name": "Erable Beige",
+        "paint_code": "AC-090",
+        "slug": "erable-beige-ac-090",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/erable-beige-ac-090/",
+        "source_label": "PaintScratch 1970 Citroen",
+        "hex_value": "#AEA69A"
+      },
+      {
+        "display_name": "Beige Agate",
+        "paint_code": "AC-091",
+        "slug": "beige-agate-ac-091",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/beige-agate-ac-091/",
+        "source_label": "PaintScratch 1970 Citroen",
+        "hex_value": "#969A82"
+      },
+      {
+        "display_name": "Brumaire Gray",
+        "paint_code": "AC-092",
+        "slug": "brumaire-gray-ac-092",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/brumaire-gray-ac-092/",
+        "source_label": "PaintScratch 1970 Citroen",
+        "hex_value": "#606254"
+      },
+      {
+        "display_name": "Swan White",
+        "paint_code": "AC-093",
+        "slug": "swan-white-ac-093",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/swan-white-ac-093/",
+        "source_label": "PaintScratch 1970 Citroen",
+        "hex_value": "#FEFCF2"
+      },
+      {
+        "display_name": "Silver Gray Metallic",
+        "paint_code": "AC-095",
+        "slug": "silver-gray-metallic-ac-095",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/silver-gray-metallic-ac-095/",
+        "source_label": "PaintScratch 1970 Citroen",
+        "hex_value": "#B4B9BE"
+      },
+      {
+        "display_name": "Everest White",
+        "paint_code": "AC-098",
+        "slug": "everest-white-ac-098",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/everest-white-ac-098/",
+        "source_label": "PaintScratch 1970 Citroen",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Anthracite",
+        "paint_code": "AC-101",
+        "slug": "anthracite-ac-101",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/anthracite-ac-101/",
+        "source_label": "PaintScratch 1970 Citroen",
+        "hex_value": "#474537"
+      },
+      {
+        "display_name": "Gray Metallic",
+        "paint_code": "AC-109",
+        "slug": "gray-metallic-ac-109",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/gray-metallic-ac-109/",
+        "source_label": "PaintScratch 1970 Citroen",
+        "hex_value": "#555659"
+      },
+      {
+        "display_name": "Black Sable Metallic",
+        "paint_code": "AC-110",
+        "slug": "black-sable-metallic-ac-110",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/black-sable-metallic-ac-110/",
+        "source_label": "PaintScratch 1970 Citroen",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Sahara Gray Metallic",
+        "paint_code": "AC-111",
+        "slug": "sahara-gray-metallic-ac-111",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/sahara-gray-metallic-ac-111/",
+        "source_label": "PaintScratch 1970 Citroen",
+        "hex_value": "#878373"
+      },
+      {
+        "display_name": "Imperial Gray Metallic",
+        "paint_code": "AC-112",
+        "slug": "imperial-gray-metallic-ac-112",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/imperial-gray-metallic-ac-112/",
+        "source_label": "PaintScratch 1970 Citroen",
+        "hex_value": "#494843"
+      },
+      {
+        "display_name": "Pearl Gray Metallic",
+        "paint_code": "AC-113",
+        "slug": "pearl-gray-metallic-ac-113",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/pearl-gray-metallic-ac-113/",
+        "source_label": "PaintScratch 1970 Citroen",
+        "hex_value": "#908D82"
+      },
+      {
+        "display_name": "Silver Gray Metallic",
+        "paint_code": "AC-114",
+        "slug": "silver-gray-metallic-ac-114",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/silver-gray-metallic-ac-114/",
+        "source_label": "PaintScratch 1970 Citroen",
+        "hex_value": "#828990"
+      },
+      {
+        "display_name": "Blue",
+        "paint_code": "AC-117",
+        "slug": "blue-ac-117",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/blue-ac-117/",
+        "source_label": "PaintScratch 1970 Citroen",
+        "hex_value": "#4F647B"
+      },
+      {
+        "display_name": "Etna Gray",
+        "paint_code": "AC-118",
+        "slug": "etna-gray-ac-118",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/etna-gray-ac-118/",
+        "source_label": "PaintScratch 1970 Citroen",
+        "hex_value": "#7E848A"
+      }
+    ],
+    "1971": [
+      {
+        "display_name": "Gray",
+        "paint_code": "AC-140",
+        "slug": "gray-ac-140",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/gray-ac-140/",
+        "source_label": "PaintScratch 1971 Citroen",
+        "hex_value": "#6F6D65"
+      },
+      {
+        "display_name": "Anjou Gray",
+        "paint_code": "AC-086",
+        "slug": "anjou-gray-ac-086",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/anjou-gray-ac-086/",
+        "source_label": "PaintScratch 1971 Citroen",
+        "hex_value": "#79766D"
+      },
+      {
+        "display_name": "Albatross Beige",
+        "paint_code": "AC-087",
+        "slug": "albatross-beige-ac-087",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/albatross-beige-ac-087/",
+        "source_label": "PaintScratch 1971 Citroen",
+        "hex_value": "#635837"
+      },
+      {
+        "display_name": "Meije White",
+        "paint_code": "AC-088",
+        "slug": "meije-white-ac-088",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/meije-white-ac-088/",
+        "source_label": "PaintScratch 1971 Citroen",
+        "hex_value": "#FFF9E7"
+      },
+      {
+        "display_name": "Erable Beige",
+        "paint_code": "AC-090",
+        "slug": "erable-beige-ac-090",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/erable-beige-ac-090/",
+        "source_label": "PaintScratch 1971 Citroen",
+        "hex_value": "#AEA69A"
+      },
+      {
+        "display_name": "Beige Agate",
+        "paint_code": "AC-091",
+        "slug": "beige-agate-ac-091",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/beige-agate-ac-091/",
+        "source_label": "PaintScratch 1971 Citroen",
+        "hex_value": "#969A82"
+      },
+      {
+        "display_name": "Brumaire Gray",
+        "paint_code": "AC-092",
+        "slug": "brumaire-gray-ac-092",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/brumaire-gray-ac-092/",
+        "source_label": "PaintScratch 1971 Citroen",
+        "hex_value": "#606254"
+      },
+      {
+        "display_name": "Silver Gray Metallic",
+        "paint_code": "AC-095",
+        "slug": "silver-gray-metallic-ac-095",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/silver-gray-metallic-ac-095/",
+        "source_label": "PaintScratch 1971 Citroen",
+        "hex_value": "#B4B9BE"
+      },
+      {
+        "display_name": "Everest White",
+        "paint_code": "AC-098",
+        "slug": "everest-white-ac-098",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/everest-white-ac-098/",
+        "source_label": "PaintScratch 1971 Citroen",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Anthracite",
+        "paint_code": "AC-101",
+        "slug": "anthracite-ac-101",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/anthracite-ac-101/",
+        "source_label": "PaintScratch 1971 Citroen",
+        "hex_value": "#474537"
+      },
+      {
+        "display_name": "Gray Metallic",
+        "paint_code": "AC-109",
+        "slug": "gray-metallic-ac-109",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/gray-metallic-ac-109/",
+        "source_label": "PaintScratch 1971 Citroen",
+        "hex_value": "#555659"
+      },
+      {
+        "display_name": "Black Sable Metallic",
+        "paint_code": "AC-110",
+        "slug": "black-sable-metallic-ac-110",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/black-sable-metallic-ac-110/",
+        "source_label": "PaintScratch 1971 Citroen",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Sahara Gray Metallic",
+        "paint_code": "AC-111",
+        "slug": "sahara-gray-metallic-ac-111",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/sahara-gray-metallic-ac-111/",
+        "source_label": "PaintScratch 1971 Citroen",
+        "hex_value": "#878373"
+      },
+      {
+        "display_name": "Imperial Gray Metallic",
+        "paint_code": "AC-112",
+        "slug": "imperial-gray-metallic-ac-112",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/imperial-gray-metallic-ac-112/",
+        "source_label": "PaintScratch 1971 Citroen",
+        "hex_value": "#494843"
+      },
+      {
+        "display_name": "Pearl Gray Metallic",
+        "paint_code": "AC-113",
+        "slug": "pearl-gray-metallic-ac-113",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/pearl-gray-metallic-ac-113/",
+        "source_label": "PaintScratch 1971 Citroen",
+        "hex_value": "#908D82"
+      },
+      {
+        "display_name": "Silver Gray Metallic",
+        "paint_code": "AC-114",
+        "slug": "silver-gray-metallic-ac-114",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/silver-gray-metallic-ac-114/",
+        "source_label": "PaintScratch 1971 Citroen",
+        "hex_value": "#828990"
+      }
+    ],
+    "1972": [
+      {
+        "display_name": "Gray",
+        "paint_code": "AC-140",
+        "slug": "gray-ac-140",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/gray-ac-140/",
+        "source_label": "PaintScratch 1972 Citroen",
+        "hex_value": "#6F6D65"
+      },
+      {
+        "display_name": "Anjou Gray",
+        "paint_code": "AC-086",
+        "slug": "anjou-gray-ac-086",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/anjou-gray-ac-086/",
+        "source_label": "PaintScratch 1972 Citroen",
+        "hex_value": "#79766D"
+      },
+      {
+        "display_name": "Albatross Beige",
+        "paint_code": "AC-087",
+        "slug": "albatross-beige-ac-087",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/albatross-beige-ac-087/",
+        "source_label": "PaintScratch 1972 Citroen",
+        "hex_value": "#635837"
+      },
+      {
+        "display_name": "Meije White",
+        "paint_code": "AC-088",
+        "slug": "meije-white-ac-088",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/meije-white-ac-088/",
+        "source_label": "PaintScratch 1972 Citroen",
+        "hex_value": "#FFF9E7"
+      },
+      {
+        "display_name": "Erable Beige",
+        "paint_code": "AC-090",
+        "slug": "erable-beige-ac-090",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/erable-beige-ac-090/",
+        "source_label": "PaintScratch 1972 Citroen",
+        "hex_value": "#AEA69A"
+      },
+      {
+        "display_name": "Beige Agate",
+        "paint_code": "AC-091",
+        "slug": "beige-agate-ac-091",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/beige-agate-ac-091/",
+        "source_label": "PaintScratch 1972 Citroen",
+        "hex_value": "#969A82"
+      },
+      {
+        "display_name": "Brumaire Gray",
+        "paint_code": "AC-092",
+        "slug": "brumaire-gray-ac-092",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/brumaire-gray-ac-092/",
+        "source_label": "PaintScratch 1972 Citroen",
+        "hex_value": "#606254"
+      },
+      {
+        "display_name": "Silver Gray Metallic",
+        "paint_code": "AC-095",
+        "slug": "silver-gray-metallic-ac-095",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/silver-gray-metallic-ac-095/",
+        "source_label": "PaintScratch 1972 Citroen",
+        "hex_value": "#B4B9BE"
+      },
+      {
+        "display_name": "Everest White",
+        "paint_code": "AC-098",
+        "slug": "everest-white-ac-098",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/everest-white-ac-098/",
+        "source_label": "PaintScratch 1972 Citroen",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Anthracite",
+        "paint_code": "AC-101",
+        "slug": "anthracite-ac-101",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/anthracite-ac-101/",
+        "source_label": "PaintScratch 1972 Citroen",
+        "hex_value": "#474537"
+      },
+      {
+        "display_name": "Gray Metallic",
+        "paint_code": "AC-109",
+        "slug": "gray-metallic-ac-109",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/gray-metallic-ac-109/",
+        "source_label": "PaintScratch 1972 Citroen",
+        "hex_value": "#555659"
+      },
+      {
+        "display_name": "Black Sable Metallic",
+        "paint_code": "AC-110",
+        "slug": "black-sable-metallic-ac-110",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/black-sable-metallic-ac-110/",
+        "source_label": "PaintScratch 1972 Citroen",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Sahara Gray Metallic",
+        "paint_code": "AC-111",
+        "slug": "sahara-gray-metallic-ac-111",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/sahara-gray-metallic-ac-111/",
+        "source_label": "PaintScratch 1972 Citroen",
+        "hex_value": "#878373"
+      },
+      {
+        "display_name": "Imperial Gray Metallic",
+        "paint_code": "AC-112",
+        "slug": "imperial-gray-metallic-ac-112",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/imperial-gray-metallic-ac-112/",
+        "source_label": "PaintScratch 1972 Citroen",
+        "hex_value": "#494843"
+      },
+      {
+        "display_name": "Pearl Gray Metallic",
+        "paint_code": "AC-113",
+        "slug": "pearl-gray-metallic-ac-113",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/pearl-gray-metallic-ac-113/",
+        "source_label": "PaintScratch 1972 Citroen",
+        "hex_value": "#908D82"
+      },
+      {
+        "display_name": "Silver Gray Metallic",
+        "paint_code": "AC-114",
+        "slug": "silver-gray-metallic-ac-114",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/silver-gray-metallic-ac-114/",
+        "source_label": "PaintScratch 1972 Citroen",
+        "hex_value": "#828990"
+      }
+    ],
+    "1973": [
+      {
+        "display_name": "Gray",
+        "paint_code": "AC-140",
+        "slug": "gray-ac-140",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/gray-ac-140/",
+        "source_label": "PaintScratch 1973 Citroen",
+        "hex_value": "#6F6D65"
+      },
+      {
+        "display_name": "Borely Ivory",
+        "paint_code": "AC-084",
+        "slug": "borely-ivory-ac-084",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/borely-ivory-ac-084/",
+        "source_label": "PaintScratch 1973 Citroen",
+        "hex_value": "#F7F5D3"
+      },
+      {
+        "display_name": "Tholonet Beige Metallic",
+        "paint_code": "AC-085",
+        "slug": "tholonet-beige-metallic-ac-085",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/tholonet-beige-metallic-ac-085/",
+        "source_label": "PaintScratch 1973 Citroen",
+        "hex_value": "#B6AC8C"
+      },
+      {
+        "display_name": "Anjou Gray",
+        "paint_code": "AC-086",
+        "slug": "anjou-gray-ac-086",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/anjou-gray-ac-086/",
+        "source_label": "PaintScratch 1973 Citroen",
+        "hex_value": "#79766D"
+      },
+      {
+        "display_name": "Albatross Beige",
+        "paint_code": "AC-087",
+        "slug": "albatross-beige-ac-087",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/albatross-beige-ac-087/",
+        "source_label": "PaintScratch 1973 Citroen",
+        "hex_value": "#635837"
+      },
+      {
+        "display_name": "Erable Beige",
+        "paint_code": "AC-090",
+        "slug": "erable-beige-ac-090",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/erable-beige-ac-090/",
+        "source_label": "PaintScratch 1973 Citroen",
+        "hex_value": "#AEA69A"
+      },
+      {
+        "display_name": "Beige Agate",
+        "paint_code": "AC-091",
+        "slug": "beige-agate-ac-091",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/beige-agate-ac-091/",
+        "source_label": "PaintScratch 1973 Citroen",
+        "hex_value": "#969A82"
+      },
+      {
+        "display_name": "Brumaire Gray",
+        "paint_code": "AC-092",
+        "slug": "brumaire-gray-ac-092",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/brumaire-gray-ac-092/",
+        "source_label": "PaintScratch 1973 Citroen",
+        "hex_value": "#606254"
+      },
+      {
+        "display_name": "Everest White",
+        "paint_code": "AC-098",
+        "slug": "everest-white-ac-098",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/everest-white-ac-098/",
+        "source_label": "PaintScratch 1973 Citroen",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Anthracite",
+        "paint_code": "AC-101",
+        "slug": "anthracite-ac-101",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/anthracite-ac-101/",
+        "source_label": "PaintScratch 1973 Citroen",
+        "hex_value": "#474537"
+      },
+      {
+        "display_name": "Gray Metallic",
+        "paint_code": "AC-109",
+        "slug": "gray-metallic-ac-109",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/gray-metallic-ac-109/",
+        "source_label": "PaintScratch 1973 Citroen",
+        "hex_value": "#555659"
+      },
+      {
+        "display_name": "Black Sable Metallic",
+        "paint_code": "AC-110",
+        "slug": "black-sable-metallic-ac-110",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/black-sable-metallic-ac-110/",
+        "source_label": "PaintScratch 1973 Citroen",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Sahara Gray Metallic",
+        "paint_code": "AC-111",
+        "slug": "sahara-gray-metallic-ac-111",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/sahara-gray-metallic-ac-111/",
+        "source_label": "PaintScratch 1973 Citroen",
+        "hex_value": "#878373"
+      },
+      {
+        "display_name": "Imperial Gray Metallic",
+        "paint_code": "AC-112",
+        "slug": "imperial-gray-metallic-ac-112",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/imperial-gray-metallic-ac-112/",
+        "source_label": "PaintScratch 1973 Citroen",
+        "hex_value": "#494843"
+      },
+      {
+        "display_name": "Pearl Gray Metallic",
+        "paint_code": "AC-113",
+        "slug": "pearl-gray-metallic-ac-113",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/pearl-gray-metallic-ac-113/",
+        "source_label": "PaintScratch 1973 Citroen",
+        "hex_value": "#908D82"
+      },
+      {
+        "display_name": "Silver Gray Metallic",
+        "paint_code": "AC-114",
+        "slug": "silver-gray-metallic-ac-114",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/silver-gray-metallic-ac-114/",
+        "source_label": "PaintScratch 1973 Citroen",
+        "hex_value": "#828990"
+      }
+    ],
+    "1974": [
+      {
+        "display_name": "Gray",
+        "paint_code": "AC-140",
+        "slug": "gray-ac-140",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/gray-ac-140/",
+        "source_label": "PaintScratch 1974 Citroen",
+        "hex_value": "#6F6D65"
+      },
+      {
+        "display_name": "Largentiniere Gray Metallic",
+        "paint_code": "AC-082",
+        "slug": "largentiniere-gray-metallic-ac-082",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/largentiniere-gray-metallic-ac-082/",
+        "source_label": "PaintScratch 1974 Citroen",
+        "hex_value": "#5C5448"
+      },
+      {
+        "display_name": "Vanneau Beige",
+        "paint_code": "AC-083",
+        "slug": "vanneau-beige-ac-083",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/vanneau-beige-ac-083/",
+        "source_label": "PaintScratch 1974 Citroen",
+        "hex_value": "#A79D97"
+      },
+      {
+        "display_name": "Erable Beige",
+        "paint_code": "AC-090",
+        "slug": "erable-beige-ac-090",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/erable-beige-ac-090/",
+        "source_label": "PaintScratch 1974 Citroen",
+        "hex_value": "#AEA69A"
+      },
+      {
+        "display_name": "Beige Agate",
+        "paint_code": "AC-091",
+        "slug": "beige-agate-ac-091",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/beige-agate-ac-091/",
+        "source_label": "PaintScratch 1974 Citroen",
+        "hex_value": "#969A82"
+      },
+      {
+        "display_name": "Brumaire Gray",
+        "paint_code": "AC-092",
+        "slug": "brumaire-gray-ac-092",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/brumaire-gray-ac-092/",
+        "source_label": "PaintScratch 1974 Citroen",
+        "hex_value": "#606254"
+      },
+      {
+        "display_name": "Everest White",
+        "paint_code": "AC-098",
+        "slug": "everest-white-ac-098",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/everest-white-ac-098/",
+        "source_label": "PaintScratch 1974 Citroen",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Anthracite",
+        "paint_code": "AC-101",
+        "slug": "anthracite-ac-101",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/anthracite-ac-101/",
+        "source_label": "PaintScratch 1974 Citroen",
+        "hex_value": "#474537"
+      },
+      {
+        "display_name": "Gray Metallic",
+        "paint_code": "AC-109",
+        "slug": "gray-metallic-ac-109",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/gray-metallic-ac-109/",
+        "source_label": "PaintScratch 1974 Citroen",
+        "hex_value": "#555659"
+      },
+      {
+        "display_name": "Black Sable Metallic",
+        "paint_code": "AC-110",
+        "slug": "black-sable-metallic-ac-110",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/black-sable-metallic-ac-110/",
+        "source_label": "PaintScratch 1974 Citroen",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Sahara Gray Metallic",
+        "paint_code": "AC-111",
+        "slug": "sahara-gray-metallic-ac-111",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/sahara-gray-metallic-ac-111/",
+        "source_label": "PaintScratch 1974 Citroen",
+        "hex_value": "#878373"
+      },
+      {
+        "display_name": "Imperial Gray Metallic",
+        "paint_code": "AC-112",
+        "slug": "imperial-gray-metallic-ac-112",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/imperial-gray-metallic-ac-112/",
+        "source_label": "PaintScratch 1974 Citroen",
+        "hex_value": "#494843"
+      },
+      {
+        "display_name": "Pearl Gray Metallic",
+        "paint_code": "AC-113",
+        "slug": "pearl-gray-metallic-ac-113",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/pearl-gray-metallic-ac-113/",
+        "source_label": "PaintScratch 1974 Citroen",
+        "hex_value": "#908D82"
+      },
+      {
+        "display_name": "Silver Gray Metallic",
+        "paint_code": "AC-114",
+        "slug": "silver-gray-metallic-ac-114",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/silver-gray-metallic-ac-114/",
+        "source_label": "PaintScratch 1974 Citroen",
+        "hex_value": "#828990"
+      },
+      {
+        "display_name": "Blue",
+        "paint_code": "AC-117",
+        "slug": "blue-ac-117",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/blue-ac-117/",
+        "source_label": "PaintScratch 1974 Citroen",
+        "hex_value": "#4F647B"
+      },
+      {
+        "display_name": "Etna Gray",
+        "paint_code": "AC-118",
+        "slug": "etna-gray-ac-118",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/etna-gray-ac-118/",
+        "source_label": "PaintScratch 1974 Citroen",
+        "hex_value": "#7E848A"
+      }
+    ],
+    "1975": [
+      {
+        "display_name": "Gray",
+        "paint_code": "AC-140",
+        "slug": "gray-ac-140",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/gray-ac-140/",
+        "source_label": "PaintScratch 1975 Citroen",
+        "hex_value": "#6F6D65"
+      },
+      {
+        "display_name": "Erable Beige",
+        "paint_code": "AC-090",
+        "slug": "erable-beige-ac-090",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/erable-beige-ac-090/",
+        "source_label": "PaintScratch 1975 Citroen",
+        "hex_value": "#AEA69A"
+      },
+      {
+        "display_name": "Beige Agate",
+        "paint_code": "AC-091",
+        "slug": "beige-agate-ac-091",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/beige-agate-ac-091/",
+        "source_label": "PaintScratch 1975 Citroen",
+        "hex_value": "#969A82"
+      },
+      {
+        "display_name": "Brumaire Gray",
+        "paint_code": "AC-092",
+        "slug": "brumaire-gray-ac-092",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/brumaire-gray-ac-092/",
+        "source_label": "PaintScratch 1975 Citroen",
+        "hex_value": "#606254"
+      },
+      {
+        "display_name": "Everest White",
+        "paint_code": "AC-098",
+        "slug": "everest-white-ac-098",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/everest-white-ac-098/",
+        "source_label": "PaintScratch 1975 Citroen",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Anthracite",
+        "paint_code": "AC-101",
+        "slug": "anthracite-ac-101",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/anthracite-ac-101/",
+        "source_label": "PaintScratch 1975 Citroen",
+        "hex_value": "#474537"
+      },
+      {
+        "display_name": "Gray Metallic",
+        "paint_code": "AC-109",
+        "slug": "gray-metallic-ac-109",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/gray-metallic-ac-109/",
+        "source_label": "PaintScratch 1975 Citroen",
+        "hex_value": "#555659"
+      },
+      {
+        "display_name": "Black Sable Metallic",
+        "paint_code": "AC-110",
+        "slug": "black-sable-metallic-ac-110",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/black-sable-metallic-ac-110/",
+        "source_label": "PaintScratch 1975 Citroen",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Sahara Gray Metallic",
+        "paint_code": "AC-111",
+        "slug": "sahara-gray-metallic-ac-111",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/sahara-gray-metallic-ac-111/",
+        "source_label": "PaintScratch 1975 Citroen",
+        "hex_value": "#878373"
+      },
+      {
+        "display_name": "Imperial Gray Metallic",
+        "paint_code": "AC-112",
+        "slug": "imperial-gray-metallic-ac-112",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/imperial-gray-metallic-ac-112/",
+        "source_label": "PaintScratch 1975 Citroen",
+        "hex_value": "#494843"
+      },
+      {
+        "display_name": "Pearl Gray Metallic",
+        "paint_code": "AC-113",
+        "slug": "pearl-gray-metallic-ac-113",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/pearl-gray-metallic-ac-113/",
+        "source_label": "PaintScratch 1975 Citroen",
+        "hex_value": "#908D82"
+      },
+      {
+        "display_name": "Silver Gray Metallic",
+        "paint_code": "AC-114",
+        "slug": "silver-gray-metallic-ac-114",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/silver-gray-metallic-ac-114/",
+        "source_label": "PaintScratch 1975 Citroen",
+        "hex_value": "#828990"
+      },
+      {
+        "display_name": "Blue",
+        "paint_code": "AC-117",
+        "slug": "blue-ac-117",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/blue-ac-117/",
+        "source_label": "PaintScratch 1975 Citroen",
+        "hex_value": "#4F647B"
+      },
+      {
+        "display_name": "Etna Gray",
+        "paint_code": "AC-118",
+        "slug": "etna-gray-ac-118",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/etna-gray-ac-118/",
+        "source_label": "PaintScratch 1975 Citroen",
+        "hex_value": "#7E848A"
+      },
+      {
+        "display_name": "Cyclone Gray",
+        "paint_code": "AC-119",
+        "slug": "cyclone-gray-ac-119",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/cyclone-gray-ac-119/",
+        "source_label": "PaintScratch 1975 Citroen",
+        "hex_value": "#505458"
+      },
+      {
+        "display_name": "Beige",
+        "paint_code": "AC-126",
+        "slug": "beige-ac-126",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/beige-ac-126/",
+        "source_label": "PaintScratch 1975 Citroen",
+        "hex_value": "#8E8568"
+      }
+    ],
+    "1976": [
+      {
+        "display_name": "Gray",
+        "paint_code": "AC-140",
+        "slug": "gray-ac-140",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/gray-ac-140/",
+        "source_label": "PaintScratch 1976 Citroen",
+        "hex_value": "#6F6D65"
+      },
+      {
+        "display_name": "Gray",
+        "paint_code": "AC-081",
+        "slug": "gray-ac-081",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/gray-ac-081/",
+        "source_label": "PaintScratch 1976 Citroen",
+        "hex_value": "#5A5958"
+      },
+      {
+        "display_name": "Erable Beige",
+        "paint_code": "AC-090",
+        "slug": "erable-beige-ac-090",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/erable-beige-ac-090/",
+        "source_label": "PaintScratch 1976 Citroen",
+        "hex_value": "#AEA69A"
+      },
+      {
+        "display_name": "Beige Agate",
+        "paint_code": "AC-091",
+        "slug": "beige-agate-ac-091",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/beige-agate-ac-091/",
+        "source_label": "PaintScratch 1976 Citroen",
+        "hex_value": "#969A82"
+      },
+      {
+        "display_name": "Brumaire Gray",
+        "paint_code": "AC-092",
+        "slug": "brumaire-gray-ac-092",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/brumaire-gray-ac-092/",
+        "source_label": "PaintScratch 1976 Citroen",
+        "hex_value": "#606254"
+      },
+      {
+        "display_name": "Everest White",
+        "paint_code": "AC-098",
+        "slug": "everest-white-ac-098",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/everest-white-ac-098/",
+        "source_label": "PaintScratch 1976 Citroen",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Anthracite",
+        "paint_code": "AC-101",
+        "slug": "anthracite-ac-101",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/anthracite-ac-101/",
+        "source_label": "PaintScratch 1976 Citroen",
+        "hex_value": "#474537"
+      },
+      {
+        "display_name": "Gray Metallic",
+        "paint_code": "AC-109",
+        "slug": "gray-metallic-ac-109",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/gray-metallic-ac-109/",
+        "source_label": "PaintScratch 1976 Citroen",
+        "hex_value": "#555659"
+      },
+      {
+        "display_name": "Black Sable Metallic",
+        "paint_code": "AC-110",
+        "slug": "black-sable-metallic-ac-110",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/black-sable-metallic-ac-110/",
+        "source_label": "PaintScratch 1976 Citroen",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Sahara Gray Metallic",
+        "paint_code": "AC-111",
+        "slug": "sahara-gray-metallic-ac-111",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/sahara-gray-metallic-ac-111/",
+        "source_label": "PaintScratch 1976 Citroen",
+        "hex_value": "#878373"
+      },
+      {
+        "display_name": "Imperial Gray Metallic",
+        "paint_code": "AC-112",
+        "slug": "imperial-gray-metallic-ac-112",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/imperial-gray-metallic-ac-112/",
+        "source_label": "PaintScratch 1976 Citroen",
+        "hex_value": "#494843"
+      },
+      {
+        "display_name": "Pearl Gray Metallic",
+        "paint_code": "AC-113",
+        "slug": "pearl-gray-metallic-ac-113",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/pearl-gray-metallic-ac-113/",
+        "source_label": "PaintScratch 1976 Citroen",
+        "hex_value": "#908D82"
+      },
+      {
+        "display_name": "Silver Gray Metallic",
+        "paint_code": "AC-114",
+        "slug": "silver-gray-metallic-ac-114",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/silver-gray-metallic-ac-114/",
+        "source_label": "PaintScratch 1976 Citroen",
+        "hex_value": "#828990"
+      },
+      {
+        "display_name": "Blue",
+        "paint_code": "AC-117",
+        "slug": "blue-ac-117",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/blue-ac-117/",
+        "source_label": "PaintScratch 1976 Citroen",
+        "hex_value": "#4F647B"
+      },
+      {
+        "display_name": "Etna Gray",
+        "paint_code": "AC-118",
+        "slug": "etna-gray-ac-118",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/etna-gray-ac-118/",
+        "source_label": "PaintScratch 1976 Citroen",
+        "hex_value": "#7E848A"
+      },
+      {
+        "display_name": "Cyclone Gray",
+        "paint_code": "AC-119",
+        "slug": "cyclone-gray-ac-119",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/cyclone-gray-ac-119/",
+        "source_label": "PaintScratch 1976 Citroen",
+        "hex_value": "#505458"
+      }
+    ],
+    "1977": [
+      {
+        "display_name": "Gray",
+        "paint_code": "AC-140",
+        "slug": "gray-ac-140",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/gray-ac-140/",
+        "source_label": "PaintScratch 1977 Citroen",
+        "hex_value": "#6F6D65"
+      },
+      {
+        "display_name": "Beige Metallic",
+        "paint_code": "AC-070",
+        "slug": "beige-metallic-ac-070",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/beige-metallic-ac-070/",
+        "source_label": "PaintScratch 1977 Citroen",
+        "hex_value": "#B7B2A9"
+      },
+      {
+        "display_name": "Beige Gazelle",
+        "paint_code": "AC-079",
+        "slug": "beige-gazelle-ac-079",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/beige-gazelle-ac-079/",
+        "source_label": "PaintScratch 1977 Citroen",
+        "hex_value": "#CBB99D"
+      },
+      {
+        "display_name": "Erable Beige",
+        "paint_code": "AC-090",
+        "slug": "erable-beige-ac-090",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/erable-beige-ac-090/",
+        "source_label": "PaintScratch 1977 Citroen",
+        "hex_value": "#AEA69A"
+      },
+      {
+        "display_name": "Beige Agate",
+        "paint_code": "AC-091",
+        "slug": "beige-agate-ac-091",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/beige-agate-ac-091/",
+        "source_label": "PaintScratch 1977 Citroen",
+        "hex_value": "#969A82"
+      },
+      {
+        "display_name": "Brumaire Gray",
+        "paint_code": "AC-092",
+        "slug": "brumaire-gray-ac-092",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/brumaire-gray-ac-092/",
+        "source_label": "PaintScratch 1977 Citroen",
+        "hex_value": "#606254"
+      },
+      {
+        "display_name": "Everest White",
+        "paint_code": "AC-098",
+        "slug": "everest-white-ac-098",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/everest-white-ac-098/",
+        "source_label": "PaintScratch 1977 Citroen",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Anthracite",
+        "paint_code": "AC-101",
+        "slug": "anthracite-ac-101",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/anthracite-ac-101/",
+        "source_label": "PaintScratch 1977 Citroen",
+        "hex_value": "#474537"
+      },
+      {
+        "display_name": "Gray Metallic",
+        "paint_code": "AC-109",
+        "slug": "gray-metallic-ac-109",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/gray-metallic-ac-109/",
+        "source_label": "PaintScratch 1977 Citroen",
+        "hex_value": "#555659"
+      },
+      {
+        "display_name": "Black Sable Metallic",
+        "paint_code": "AC-110",
+        "slug": "black-sable-metallic-ac-110",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/black-sable-metallic-ac-110/",
+        "source_label": "PaintScratch 1977 Citroen",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Sahara Gray Metallic",
+        "paint_code": "AC-111",
+        "slug": "sahara-gray-metallic-ac-111",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/sahara-gray-metallic-ac-111/",
+        "source_label": "PaintScratch 1977 Citroen",
+        "hex_value": "#878373"
+      },
+      {
+        "display_name": "Imperial Gray Metallic",
+        "paint_code": "AC-112",
+        "slug": "imperial-gray-metallic-ac-112",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/imperial-gray-metallic-ac-112/",
+        "source_label": "PaintScratch 1977 Citroen",
+        "hex_value": "#494843"
+      },
+      {
+        "display_name": "Pearl Gray Metallic",
+        "paint_code": "AC-113",
+        "slug": "pearl-gray-metallic-ac-113",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/pearl-gray-metallic-ac-113/",
+        "source_label": "PaintScratch 1977 Citroen",
+        "hex_value": "#908D82"
+      },
+      {
+        "display_name": "Silver Gray Metallic",
+        "paint_code": "AC-114",
+        "slug": "silver-gray-metallic-ac-114",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/silver-gray-metallic-ac-114/",
+        "source_label": "PaintScratch 1977 Citroen",
+        "hex_value": "#828990"
+      },
+      {
+        "display_name": "Blue",
+        "paint_code": "AC-117",
+        "slug": "blue-ac-117",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/blue-ac-117/",
+        "source_label": "PaintScratch 1977 Citroen",
+        "hex_value": "#4F647B"
+      },
+      {
+        "display_name": "Etna Gray",
+        "paint_code": "AC-118",
+        "slug": "etna-gray-ac-118",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/etna-gray-ac-118/",
+        "source_label": "PaintScratch 1977 Citroen",
+        "hex_value": "#7E848A"
+      }
+    ],
+    "1978": [
+      {
+        "display_name": "Gray",
+        "paint_code": "AC-140",
+        "slug": "gray-ac-140",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/gray-ac-140/",
+        "source_label": "PaintScratch 1978 Citroen",
+        "hex_value": "#6F6D65"
+      },
+      {
+        "display_name": "Nevada Beige",
+        "paint_code": "AC-074",
+        "slug": "nevada-beige-ac-074",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/nevada-beige-ac-074/",
+        "source_label": "PaintScratch 1978 Citroen",
+        "hex_value": "#BCAC94"
+      },
+      {
+        "display_name": "Erable Beige",
+        "paint_code": "AC-090",
+        "slug": "erable-beige-ac-090",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/erable-beige-ac-090/",
+        "source_label": "PaintScratch 1978 Citroen",
+        "hex_value": "#AEA69A"
+      },
+      {
+        "display_name": "Beige Agate",
+        "paint_code": "AC-091",
+        "slug": "beige-agate-ac-091",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/beige-agate-ac-091/",
+        "source_label": "PaintScratch 1978 Citroen",
+        "hex_value": "#969A82"
+      },
+      {
+        "display_name": "Brumaire Gray",
+        "paint_code": "AC-092",
+        "slug": "brumaire-gray-ac-092",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/brumaire-gray-ac-092/",
+        "source_label": "PaintScratch 1978 Citroen",
+        "hex_value": "#606254"
+      },
+      {
+        "display_name": "Everest White",
+        "paint_code": "AC-098",
+        "slug": "everest-white-ac-098",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/everest-white-ac-098/",
+        "source_label": "PaintScratch 1978 Citroen",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Anthracite",
+        "paint_code": "AC-101",
+        "slug": "anthracite-ac-101",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/anthracite-ac-101/",
+        "source_label": "PaintScratch 1978 Citroen",
+        "hex_value": "#474537"
+      },
+      {
+        "display_name": "Gray Metallic",
+        "paint_code": "AC-109",
+        "slug": "gray-metallic-ac-109",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/gray-metallic-ac-109/",
+        "source_label": "PaintScratch 1978 Citroen",
+        "hex_value": "#555659"
+      },
+      {
+        "display_name": "Black Sable Metallic",
+        "paint_code": "AC-110",
+        "slug": "black-sable-metallic-ac-110",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/black-sable-metallic-ac-110/",
+        "source_label": "PaintScratch 1978 Citroen",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Sahara Gray Metallic",
+        "paint_code": "AC-111",
+        "slug": "sahara-gray-metallic-ac-111",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/sahara-gray-metallic-ac-111/",
+        "source_label": "PaintScratch 1978 Citroen",
+        "hex_value": "#878373"
+      },
+      {
+        "display_name": "Imperial Gray Metallic",
+        "paint_code": "AC-112",
+        "slug": "imperial-gray-metallic-ac-112",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/imperial-gray-metallic-ac-112/",
+        "source_label": "PaintScratch 1978 Citroen",
+        "hex_value": "#494843"
+      },
+      {
+        "display_name": "Pearl Gray Metallic",
+        "paint_code": "AC-113",
+        "slug": "pearl-gray-metallic-ac-113",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/pearl-gray-metallic-ac-113/",
+        "source_label": "PaintScratch 1978 Citroen",
+        "hex_value": "#908D82"
+      },
+      {
+        "display_name": "Silver Gray Metallic",
+        "paint_code": "AC-114",
+        "slug": "silver-gray-metallic-ac-114",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/silver-gray-metallic-ac-114/",
+        "source_label": "PaintScratch 1978 Citroen",
+        "hex_value": "#828990"
+      },
+      {
+        "display_name": "Blue",
+        "paint_code": "AC-117",
+        "slug": "blue-ac-117",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/blue-ac-117/",
+        "source_label": "PaintScratch 1978 Citroen",
+        "hex_value": "#4F647B"
+      },
+      {
+        "display_name": "Etna Gray",
+        "paint_code": "AC-118",
+        "slug": "etna-gray-ac-118",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/etna-gray-ac-118/",
+        "source_label": "PaintScratch 1978 Citroen",
+        "hex_value": "#7E848A"
+      },
+      {
+        "display_name": "Cyclone Gray",
+        "paint_code": "AC-119",
+        "slug": "cyclone-gray-ac-119",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/cyclone-gray-ac-119/",
+        "source_label": "PaintScratch 1978 Citroen",
+        "hex_value": "#505458"
+      }
+    ],
+    "1979": [
+      {
+        "display_name": "Volcan Gray Metallic",
+        "paint_code": "AC-080",
+        "slug": "volcan-gray-metallic-ac-080",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/volcan-gray-metallic-ac-080/",
+        "source_label": "PaintScratch 1979 Citroen",
+        "hex_value": "#7A7164"
+      },
+      {
+        "display_name": "Scarabee Brown Metallic",
+        "paint_code": "AC-427",
+        "slug": "scarabee-brown-metallic-ac-427",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/scarabee-brown-metallic-ac-427/",
+        "source_label": "PaintScratch 1979 Citroen",
+        "hex_value": "#6D4F3B"
+      },
+      {
+        "display_name": "Green Metallic",
+        "paint_code": "AC-538",
+        "slug": "green-metallic-ac-538",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/green-metallic-ac-538/",
+        "source_label": "PaintScratch 1979 Citroen",
+        "hex_value": "#547A5E"
+      },
+      {
+        "display_name": "Regate Blue Metallic",
+        "paint_code": "AC-644",
+        "slug": "regate-blue-metallic-ac-644",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/regate-blue-metallic-ac-644/",
+        "source_label": "PaintScratch 1979 Citroen",
+        "hex_value": "#2E6584"
+      }
+    ],
+    "1980": [
+      {
+        "display_name": "Rouge Delage",
+        "paint_code": "AC-446",
+        "slug": "rouge-delage-ac-446",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/rouge-delage-ac-446/",
+        "source_label": "PaintScratch 1980 Citroen",
+        "hex_value": "#962E20"
+      },
+      {
+        "display_name": "Rouge de Garance",
+        "paint_code": "AC-449",
+        "slug": "rouge-de-garance-ac-449",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/rouge-de-garance-ac-449/",
+        "source_label": "PaintScratch 1980 Citroen",
+        "hex_value": "#A53D2F"
+      }
+    ],
+    "1981": [
+      {
+        "display_name": "Rouge Delage",
+        "paint_code": "AC-446",
+        "slug": "rouge-delage-ac-446",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/rouge-delage-ac-446/",
+        "source_label": "PaintScratch 1981 Citroen",
+        "hex_value": "#962E20"
+      },
+      {
+        "display_name": "Rouge de Garance",
+        "paint_code": "AC-449",
+        "slug": "rouge-de-garance-ac-449",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/rouge-de-garance-ac-449/",
+        "source_label": "PaintScratch 1981 Citroen",
+        "hex_value": "#A53D2F"
+      }
+    ],
+    "1982": [
+      {
+        "display_name": "Rouge Delage",
+        "paint_code": "AC-446",
+        "slug": "rouge-delage-ac-446",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/rouge-delage-ac-446/",
+        "source_label": "PaintScratch 1982 Citroen",
+        "hex_value": "#962E20"
+      },
+      {
+        "display_name": "Rouge de Garance",
+        "paint_code": "AC-449",
+        "slug": "rouge-de-garance-ac-449",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/rouge-de-garance-ac-449/",
+        "source_label": "PaintScratch 1982 Citroen",
+        "hex_value": "#A53D2F"
+      }
+    ],
+    "1983": [
+      {
+        "display_name": "Rouge Delage",
+        "paint_code": "AC-446",
+        "slug": "rouge-delage-ac-446",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/rouge-delage-ac-446/",
+        "source_label": "PaintScratch 1983 Citroen",
+        "hex_value": "#962E20"
+      },
+      {
+        "display_name": "Rouge de Garance",
+        "paint_code": "AC-449",
+        "slug": "rouge-de-garance-ac-449",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/rouge-de-garance-ac-449/",
+        "source_label": "PaintScratch 1983 Citroen",
+        "hex_value": "#A53D2F"
+      }
+    ],
+    "1984": [
+      {
+        "display_name": "Rouge Delage",
+        "paint_code": "AC-446",
+        "slug": "rouge-delage-ac-446",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/rouge-delage-ac-446/",
+        "source_label": "PaintScratch 1984 Citroen",
+        "hex_value": "#962E20"
+      },
+      {
+        "display_name": "Rouge de Garance",
+        "paint_code": "AC-449",
+        "slug": "rouge-de-garance-ac-449",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/rouge-de-garance-ac-449/",
+        "source_label": "PaintScratch 1984 Citroen",
+        "hex_value": "#A53D2F"
+      },
+      {
+        "display_name": "Camarque Blue Metallic (Catalyzed Spray Only)",
+        "paint_code": "AC-635",
+        "slug": "camarque-blue-metallic-catalyzed-spray-only-ac-635",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/camarque-blue-metallic-catalyzed-spray-only-ac-635/",
+        "source_label": "PaintScratch 1984 Citroen",
+        "hex_value": "#3E5766"
+      }
+    ],
+    "1985": [
+      {
+        "display_name": "Rouge Delage",
+        "paint_code": "AC-446",
+        "slug": "rouge-delage-ac-446",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/rouge-delage-ac-446/",
+        "source_label": "PaintScratch 1985 Citroen",
+        "hex_value": "#962E20"
+      },
+      {
+        "display_name": "Rouge de Garance",
+        "paint_code": "AC-449",
+        "slug": "rouge-de-garance-ac-449",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/rouge-de-garance-ac-449/",
+        "source_label": "PaintScratch 1985 Citroen",
+        "hex_value": "#A53D2F"
+      }
+    ],
+    "1986": [
+      {
+        "display_name": "Blanc",
+        "paint_code": "FWT",
+        "slug": "blanc-fwt",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/blanc-fwt/",
+        "source_label": "PaintScratch 1986 Citroen",
+        "hex_value": "#FEFCF2"
+      }
+    ],
+    "1987": [
+      {
+        "display_name": "Gris Cormoran",
+        "paint_code": "EVP",
+        "slug": "gris-cormoran-evp",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/gris-cormoran-evp/",
+        "source_label": "PaintScratch 1987 Citroen",
+        "hex_value": "#CDCDC3"
+      },
+      {
+        "display_name": "Gris Nocturne",
+        "paint_code": "EVR",
+        "slug": "gris-nocturne-evr",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/gris-nocturne-evr/",
+        "source_label": "PaintScratch 1987 Citroen",
+        "hex_value": "#202020"
+      },
+      {
+        "display_name": "Blanc",
+        "paint_code": "FWT",
+        "slug": "blanc-fwt",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/blanc-fwt/",
+        "source_label": "PaintScratch 1987 Citroen",
+        "hex_value": "#FEFCF2"
+      }
+    ],
+    "1988": [
+      {
+        "display_name": "Silver Gray Metallic",
+        "paint_code": "AC-095",
+        "slug": "silver-gray-metallic-ac-095",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/silver-gray-metallic-ac-095/",
+        "source_label": "PaintScratch 1988 Citroen",
+        "hex_value": "#B4B9BE"
+      },
+      {
+        "display_name": "Rouge Delage",
+        "paint_code": "AC-446",
+        "slug": "rouge-delage-ac-446",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/rouge-delage-ac-446/",
+        "source_label": "PaintScratch 1988 Citroen",
+        "hex_value": "#962E20"
+      },
+      {
+        "display_name": "Juane Rialto",
+        "paint_code": "AC-EAA",
+        "slug": "juane-rialto-ac-eaa",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/juane-rialto-ac-eaa/",
+        "source_label": "PaintScratch 1988 Citroen",
+        "hex_value": "#EB9D23"
+      },
+      {
+        "display_name": "Blanc",
+        "paint_code": "FWT",
+        "slug": "blanc-fwt",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/blanc-fwt/",
+        "source_label": "PaintScratch 1988 Citroen",
+        "hex_value": "#FEFCF2"
+      }
+    ],
+    "1989": [
+      {
+        "display_name": "Blanc",
+        "paint_code": "FWT",
+        "slug": "blanc-fwt",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/blanc-fwt/",
+        "source_label": "PaintScratch 1989 Citroen",
+        "hex_value": "#FEFCF2"
+      }
+    ],
+    "1990": [
+      {
+        "display_name": "Blanc",
+        "paint_code": "FWT",
+        "slug": "blanc-fwt",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/blanc-fwt/",
+        "source_label": "PaintScratch 1990 Citroen",
+        "hex_value": "#FEFCF2"
+      }
+    ],
+    "1991": [
+      {
+        "display_name": "Blanc",
+        "paint_code": "FWT",
+        "slug": "blanc-fwt",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/blanc-fwt/",
+        "source_label": "PaintScratch 1991 Citroen",
+        "hex_value": "#FEFCF2"
+      }
+    ],
+    "1992": [
+      {
+        "display_name": "Blanc",
+        "paint_code": "FWT",
+        "slug": "blanc-fwt",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/blanc-fwt/",
+        "source_label": "PaintScratch 1992 Citroen",
+        "hex_value": "#FEFCF2"
+      }
+    ],
+    "1993": [
+      {
+        "display_name": "Blanc",
+        "paint_code": "FWT",
+        "slug": "blanc-fwt",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/blanc-fwt/",
+        "source_label": "PaintScratch 1993 Citroen",
+        "hex_value": "#FEFCF2"
+      }
+    ],
+    "1994": [
+      {
+        "display_name": "Blanc",
+        "paint_code": "FWT",
+        "slug": "blanc-fwt",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/blanc-fwt/",
+        "source_label": "PaintScratch 1994 Citroen",
+        "hex_value": "#FEFCF2"
+      }
+    ],
+    "1995": [
+      {
+        "display_name": "Blanc",
+        "paint_code": "FWT",
+        "slug": "blanc-fwt",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/blanc-fwt/",
+        "source_label": "PaintScratch 1995 Citroen",
+        "hex_value": "#FEFCF2"
+      }
+    ],
+    "1996": [
+      {
+        "display_name": "Blanc",
+        "paint_code": "FWT",
+        "slug": "blanc-fwt",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/blanc-fwt/",
+        "source_label": "PaintScratch 1996 Citroen",
+        "hex_value": "#FEFCF2"
+      }
+    ],
+    "1997": [
+      {
+        "display_name": "Blanc",
+        "paint_code": "FWT",
+        "slug": "blanc-fwt",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/blanc-fwt/",
+        "source_label": "PaintScratch 1997 Citroen",
+        "hex_value": "#FEFCF2"
+      }
+    ],
+    "1998": [
+      {
+        "display_name": "Blanc",
+        "paint_code": "FWT",
+        "slug": "blanc-fwt",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/blanc-fwt/",
+        "source_label": "PaintScratch 1998 Citroen",
+        "hex_value": "#FEFCF2"
+      }
+    ],
+    "1999": [
+      {
+        "display_name": "Med Red 700006",
+        "paint_code": "EKQ",
+        "slug": "med-red-700006-ekq",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/med-red-700006-ekq/",
+        "source_label": "PaintScratch 1999 Citroen",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "Orange Mango",
+        "paint_code": "KHN",
+        "slug": "orange-mango-khn",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/orange-mango-khn/",
+        "source_label": "PaintScratch 1999 Citroen",
+        "hex_value": "#D86F36"
+      },
+      {
+        "display_name": "Medium Purple",
+        "paint_code": "KKJC",
+        "slug": "medium-purple-kkjc",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/medium-purple-kkjc/",
+        "source_label": "PaintScratch 1999 Citroen",
+        "hex_value": "#DC3272"
+      },
+      {
+        "display_name": "Mauritius Blue",
+        "paint_code": "KPKD",
+        "slug": "mauritius-blue-kpkd",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/mauritius-blue-kpkd/",
+        "source_label": "PaintScratch 1999 Citroen",
+        "hex_value": "#403987"
+      }
+    ],
+    "2000": [
+      {
+        "display_name": "Mauritius Blue",
+        "paint_code": "KPKD",
+        "slug": "mauritius-blue-kpkd",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/mauritius-blue-kpkd/",
+        "source_label": "PaintScratch 2000 Citroen",
+        "hex_value": "#403987"
+      }
+    ],
+    "2001": [
+      {
+        "display_name": "Mauritius Blue",
+        "paint_code": "KPKD",
+        "slug": "mauritius-blue-kpkd",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/mauritius-blue-kpkd/",
+        "source_label": "PaintScratch 2001 Citroen",
+        "hex_value": "#403987"
+      },
+      {
+        "display_name": "Vert Galant Metallic",
+        "paint_code": "KRS",
+        "slug": "vert-galant-metallic-krs",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/vert-galant-metallic-krs/",
+        "source_label": "PaintScratch 2001 Citroen",
+        "hex_value": "#B7CCCF"
+      }
+    ],
+    "2002": [
+      {
+        "display_name": "Gris Aluminum Metallic",
+        "paint_code": "EZR",
+        "slug": "gris-aluminum-metallic-ezr",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/gris-aluminum-metallic-ezr/",
+        "source_label": "PaintScratch 2002 Citroen",
+        "hex_value": "#B4B9BE"
+      }
+    ],
+    "2003": [
+      {
+        "display_name": "Gris Aluminum Metallic",
+        "paint_code": "EZR",
+        "slug": "gris-aluminum-metallic-ezr",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/gris-aluminum-metallic-ezr/",
+        "source_label": "PaintScratch 2003 Citroen",
+        "hex_value": "#B4B9BE"
+      }
+    ],
+    "2004": [
+      {
+        "display_name": "Pewter",
+        "paint_code": "EYP",
+        "slug": "pewter-eyp",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/pewter-eyp/",
+        "source_label": "PaintScratch 2004 Citroen",
+        "hex_value": "#404040"
+      },
+      {
+        "display_name": "Gris Aluminum Metallic",
+        "paint_code": "EZR",
+        "slug": "gris-aluminum-metallic-ezr",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/gris-aluminum-metallic-ezr/",
+        "source_label": "PaintScratch 2004 Citroen",
+        "hex_value": "#B4B9BE"
+      }
+    ],
+    "2005": [
+      {
+        "display_name": "Gris Aluminum Metallic",
+        "paint_code": "EZR",
+        "slug": "gris-aluminum-metallic-ezr",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/gris-aluminum-metallic-ezr/",
+        "source_label": "PaintScratch 2005 Citroen",
+        "hex_value": "#B4B9BE"
+      },
+      {
+        "display_name": "Beige",
+        "paint_code": "KCW",
+        "slug": "beige-kcw",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/beige-kcw/",
+        "source_label": "PaintScratch 2005 Citroen",
+        "hex_value": "#E9D9A1"
+      }
+    ],
+    "2006": [
+      {
+        "display_name": "Gris Aluminum Metallic",
+        "paint_code": "EZR",
+        "slug": "gris-aluminum-metallic-ezr",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/gris-aluminum-metallic-ezr/",
+        "source_label": "PaintScratch 2006 Citroen",
+        "hex_value": "#B4B9BE"
+      },
+      {
+        "display_name": "Medium Blue (Water-Based Only)",
+        "paint_code": "KPU",
+        "slug": "medium-blue-water-based-only-kpu",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/medium-blue-water-based-only-kpu/",
+        "source_label": "PaintScratch 2006 Citroen",
+        "hex_value": "#0D2D97"
+      }
+    ],
+    "2007": [
+      {
+        "display_name": "Gris Aluminum Metallic",
+        "paint_code": "EZR",
+        "slug": "gris-aluminum-metallic-ezr",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/gris-aluminum-metallic-ezr/",
+        "source_label": "PaintScratch 2007 Citroen",
+        "hex_value": "#B4B9BE"
+      }
+    ],
+    "2008": [
+      {
+        "display_name": "Gris Aluminum Metallic",
+        "paint_code": "EZR",
+        "slug": "gris-aluminum-metallic-ezr",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/gris-aluminum-metallic-ezr/",
+        "source_label": "PaintScratch 2008 Citroen",
+        "hex_value": "#B4B9BE"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "KTV",
+        "slug": "black-ktv",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/black-ktv/",
+        "source_label": "PaintScratch 2008 Citroen",
+        "hex_value": "#000000"
+      }
+    ],
+    "2009": [
+      {
+        "display_name": "Gris Aluminum Metallic",
+        "paint_code": "EZR",
+        "slug": "gris-aluminum-metallic-ezr",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/gris-aluminum-metallic-ezr/",
+        "source_label": "PaintScratch 2009 Citroen",
+        "hex_value": "#B4B9BE"
+      }
+    ],
+    "2010": [
+      {
+        "display_name": "Gris Aluminum Metallic",
+        "paint_code": "EZR",
+        "slug": "gris-aluminum-metallic-ezr",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/gris-aluminum-metallic-ezr/",
+        "source_label": "PaintScratch 2010 Citroen",
+        "hex_value": "#B4B9BE"
+      }
+    ],
+    "2011": [
+      {
+        "display_name": "Gris Aluminum Metallic",
+        "paint_code": "EZR",
+        "slug": "gris-aluminum-metallic-ezr",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/gris-aluminum-metallic-ezr/",
+        "source_label": "PaintScratch 2011 Citroen",
+        "hex_value": "#B4B9BE"
+      }
+    ],
+    "2012": [
+      {
+        "display_name": "Gris Aluminum Metallic",
+        "paint_code": "EZR",
+        "slug": "gris-aluminum-metallic-ezr",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/gris-aluminum-metallic-ezr/",
+        "source_label": "PaintScratch 2012 Citroen",
+        "hex_value": "#B4B9BE"
+      }
+    ],
+    "2013": [
+      {
+        "display_name": "Gris Aluminum Metallic",
+        "paint_code": "EZR",
+        "slug": "gris-aluminum-metallic-ezr",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/gris-aluminum-metallic-ezr/",
+        "source_label": "PaintScratch 2013 Citroen",
+        "hex_value": "#B4B9BE"
+      },
+      {
+        "display_name": "Pewter",
+        "paint_code": "KTA",
+        "slug": "pewter-kta",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/pewter-kta/",
+        "source_label": "PaintScratch 2013 Citroen",
+        "hex_value": "#404040"
+      },
+      {
+        "display_name": "Pewter (Water-Based Only)",
+        "paint_code": "KTP",
+        "slug": "pewter-water-based-only-ktp",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/pewter-water-based-only-ktp/",
+        "source_label": "PaintScratch 2013 Citroen",
+        "hex_value": "#404040"
+      }
+    ],
+    "2014": [
+      {
+        "display_name": "Blanc Pearl Tricoat",
+        "paint_code": "DS3",
+        "slug": "blanc-pearl-tricoat-ds3",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/blanc-pearl-tricoat-ds3/",
+        "source_label": "PaintScratch 2014 Citroen",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Gris Aluminum Metallic",
+        "paint_code": "EZR",
+        "slug": "gris-aluminum-metallic-ezr",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/gris-aluminum-metallic-ezr/",
+        "source_label": "PaintScratch 2014 Citroen",
+        "hex_value": "#B4B9BE"
+      }
+    ],
+    "2015": [
+      {
+        "display_name": "Gris Aluminum Metallic",
+        "paint_code": "EZR",
+        "slug": "gris-aluminum-metallic-ezr",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/gris-aluminum-metallic-ezr/",
+        "source_label": "PaintScratch 2015 Citroen",
+        "hex_value": "#B4B9BE"
+      }
+    ],
+    "2016": [
+      {
+        "display_name": "Gris Aluminum Metallic",
+        "paint_code": "EZR",
+        "slug": "gris-aluminum-metallic-ezr",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/gris-aluminum-metallic-ezr/",
+        "source_label": "PaintScratch 2016 Citroen",
+        "hex_value": "#B4B9BE"
+      }
+    ],
+    "2017": [
+      {
+        "display_name": "Gris Aluminum Metallic",
+        "paint_code": "EZR",
+        "slug": "gris-aluminum-metallic-ezr",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/gris-aluminum-metallic-ezr/",
+        "source_label": "PaintScratch 2017 Citroen",
+        "hex_value": "#B4B9BE"
+      }
+    ],
+    "2018": [
+      {
+        "display_name": "Gris Aluminum Metallic",
+        "paint_code": "EZR",
+        "slug": "gris-aluminum-metallic-ezr",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/gris-aluminum-metallic-ezr/",
+        "source_label": "PaintScratch 2018 Citroen",
+        "hex_value": "#B4B9BE"
+      }
+    ],
+    "2019": [
+      {
+        "display_name": "Gris Aluminum Metallic",
+        "paint_code": "EZR",
+        "slug": "gris-aluminum-metallic-ezr",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/gris-aluminum-metallic-ezr/",
+        "source_label": "PaintScratch 2019 Citroen",
+        "hex_value": "#B4B9BE"
+      }
+    ],
+    "2020": [
+      {
+        "display_name": "Gris Aluminum Metallic",
+        "paint_code": "EZR",
+        "slug": "gris-aluminum-metallic-ezr",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/gris-aluminum-metallic-ezr/",
+        "source_label": "PaintScratch 2020 Citroen",
+        "hex_value": "#B4B9BE"
+      }
+    ],
+    "2021": [
+      {
+        "display_name": "Gris Aluminum Metallic",
+        "paint_code": "EZR",
+        "slug": "gris-aluminum-metallic-ezr",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/gris-aluminum-metallic-ezr/",
+        "source_label": "PaintScratch 2021 Citroen",
+        "hex_value": "#B4B9BE"
+      }
+    ],
+    "2022": [
+      {
+        "display_name": "Gris Aluminum Metallic",
+        "paint_code": "EZR",
+        "slug": "gris-aluminum-metallic-ezr",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/gris-aluminum-metallic-ezr/",
+        "source_label": "PaintScratch 2022 Citroen",
+        "hex_value": "#B4B9BE"
+      }
+    ],
+    "2023": [
+      {
+        "display_name": "Gris Aluminum Metallic",
+        "paint_code": "EZR",
+        "slug": "gris-aluminum-metallic-ezr",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/gris-aluminum-metallic-ezr/",
+        "source_label": "PaintScratch 2023 Citroen",
+        "hex_value": "#B4B9BE"
+      }
+    ],
+    "2024": [
+      {
+        "display_name": "Gris Aluminum Metallic",
+        "paint_code": "EZR",
+        "slug": "gris-aluminum-metallic-ezr",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/gris-aluminum-metallic-ezr/",
+        "source_label": "PaintScratch 2024 Citroen",
+        "hex_value": "#B4B9BE"
+      }
+    ],
+    "2025": [
+      {
+        "display_name": "Gris Aluminum Metallic",
+        "paint_code": "EZR",
+        "slug": "gris-aluminum-metallic-ezr",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/gris-aluminum-metallic-ezr/",
+        "source_label": "PaintScratch 2025 Citroen",
+        "hex_value": "#B4B9BE"
+      }
+    ],
+    "2026": [
+      {
+        "display_name": "Gris Aluminum Metallic",
+        "paint_code": "EZR",
+        "slug": "gris-aluminum-metallic-ezr",
+        "reference_url": "https://www.paintscratch.com/colors/citroen/gris-aluminum-metallic-ezr/",
+        "source_label": "PaintScratch 2026 Citroen",
+        "hex_value": "#B4B9BE"
+      }
+    ]
+  }
+}

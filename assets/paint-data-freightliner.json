@@ -1,0 +1,3008 @@
+{
+  "All Models": {
+    "1998": [
+      {
+        "display_name": "Platinum (Catalyzed Spray Can Only)",
+        "paint_code": "N0006E",
+        "slug": "platinum-catalyzed-spray-can-only-n0006e",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/platinum-catalyzed-spray-can-only-n0006e/",
+        "source_label": "PaintScratch 1998 Freightliner",
+        "hex_value": "#F4F6F6"
+      }
+    ],
+    "1999": [
+      {
+        "display_name": "Platinum (Catalyzed Spray Can Only)",
+        "paint_code": "N0006E",
+        "slug": "platinum-catalyzed-spray-can-only-n0006e",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/platinum-catalyzed-spray-can-only-n0006e/",
+        "source_label": "PaintScratch 1999 Freightliner",
+        "hex_value": "#F4F6F6"
+      },
+      {
+        "display_name": "White (Catalyzed Spray Can Only)",
+        "paint_code": "N0007EA",
+        "slug": "white-catalyzed-spray-can-only-n0007ea",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/white-catalyzed-spray-can-only-n0007ea/",
+        "source_label": "PaintScratch 1999 Freightliner",
+        "hex_value": "#FFFFFF"
+      }
+    ],
+    "2000": [
+      {
+        "display_name": "Medium Blue (Catalyzed Spray Can Only)",
+        "paint_code": "L0347EB",
+        "slug": "medium-blue-catalyzed-spray-can-only-l0347eb",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/medium-blue-catalyzed-spray-can-only-l0347eb/",
+        "source_label": "PaintScratch 2000 Freightliner",
+        "hex_value": "#0D2D97"
+      },
+      {
+        "display_name": "White Elite (Catalyzed Spray Can Only)",
+        "paint_code": "L3501EB",
+        "slug": "white-elite-catalyzed-spray-can-only-l3501eb",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/white-elite-catalyzed-spray-can-only-l3501eb/",
+        "source_label": "PaintScratch 2000 Freightliner",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Bright Red (Catalyzed Spray Can Only)",
+        "paint_code": "N3781EA",
+        "slug": "bright-red-catalyzed-spray-can-only-n3781ea",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/bright-red-catalyzed-spray-can-only-n3781ea/",
+        "source_label": "PaintScratch 2000 Freightliner",
+        "hex_value": "#F31515"
+      }
+    ],
+    "2001": [
+      {
+        "display_name": "Violet Effect (Catalyzed Spray Can Only)",
+        "paint_code": "L2318 HL",
+        "slug": "violet-effect-catalyzed-spray-can-only-l2318-hl",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/violet-effect-catalyzed-spray-can-only-l2318-hl/",
+        "source_label": "PaintScratch 2001 Freightliner",
+        "hex_value": "#792F65"
+      }
+    ],
+    "2002": [
+      {
+        "display_name": "Violet Effect (Catalyzed Spray Can Only)",
+        "paint_code": "L2318 HL",
+        "slug": "violet-effect-catalyzed-spray-can-only-l2318-hl",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/violet-effect-catalyzed-spray-can-only-l2318-hl/",
+        "source_label": "PaintScratch 2002 Freightliner",
+        "hex_value": "#792F65"
+      }
+    ],
+    "2003": [
+      {
+        "display_name": "Violet Effect (Catalyzed Spray Can Only)",
+        "paint_code": "L2318 HL",
+        "slug": "violet-effect-catalyzed-spray-can-only-l2318-hl",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/violet-effect-catalyzed-spray-can-only-l2318-hl/",
+        "source_label": "PaintScratch 2003 Freightliner",
+        "hex_value": "#792F65"
+      }
+    ],
+    "2004": [
+      {
+        "display_name": "White (Catalyzed Spray Can Only)",
+        "paint_code": "L0007HL",
+        "slug": "white-catalyzed-spray-can-only-l0007hl",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/white-catalyzed-spray-can-only-l0007hl/",
+        "source_label": "PaintScratch 2004 Freightliner",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Violet Effect (Catalyzed Spray Can Only)",
+        "paint_code": "L2318 HL",
+        "slug": "violet-effect-catalyzed-spray-can-only-l2318-hl",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/violet-effect-catalyzed-spray-can-only-l2318-hl/",
+        "source_label": "PaintScratch 2004 Freightliner",
+        "hex_value": "#792F65"
+      },
+      {
+        "display_name": "White (Catalyzed Spray Can Only)",
+        "paint_code": "N0006EA",
+        "slug": "white-catalyzed-spray-can-only-n0006ea",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/white-catalyzed-spray-can-only-n0006ea/",
+        "source_label": "PaintScratch 2004 Freightliner",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Medium Blue (Catalyzed Spray Can Only)",
+        "paint_code": "N0347EA",
+        "slug": "medium-blue-catalyzed-spray-can-only-n0347ea",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/medium-blue-catalyzed-spray-can-only-n0347ea/",
+        "source_label": "PaintScratch 2004 Freightliner",
+        "hex_value": "#0D2D97"
+      }
+    ],
+    "2005": [
+      {
+        "display_name": "Bright Red (Catalyzed Spray Can Only)",
+        "paint_code": "L0214EY",
+        "slug": "bright-red-catalyzed-spray-can-only-l0214ey",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/bright-red-catalyzed-spray-can-only-l0214ey/",
+        "source_label": "PaintScratch 2005 Freightliner",
+        "hex_value": "#F31515"
+      },
+      {
+        "display_name": "Violet Effect (Catalyzed Spray Can Only)",
+        "paint_code": "L2318 HL",
+        "slug": "violet-effect-catalyzed-spray-can-only-l2318-hl",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/violet-effect-catalyzed-spray-can-only-l2318-hl/",
+        "source_label": "PaintScratch 2005 Freightliner",
+        "hex_value": "#792F65"
+      },
+      {
+        "display_name": "White (Catalyzed Spray Can Only)",
+        "paint_code": "N0007EA",
+        "slug": "white-catalyzed-spray-can-only-n0007ea",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/white-catalyzed-spray-can-only-n0007ea/",
+        "source_label": "PaintScratch 2005 Freightliner",
+        "hex_value": "#FFFFFF"
+      }
+    ],
+    "2006": [
+      {
+        "display_name": "Dark Blue (Catalyzed Spray Can Only)",
+        "paint_code": "LO348EB",
+        "slug": "dark-blue-catalyzed-spray-can-only-lo348eb",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/dark-blue-catalyzed-spray-can-only-lo348eb/",
+        "source_label": "PaintScratch 2006 Freightliner",
+        "hex_value": "#0D2D97"
+      },
+      {
+        "display_name": "Midnight Black (Catalyzed Spray Can Only)",
+        "paint_code": "914054",
+        "slug": "midnight-black-catalyzed-spray-can-only-914054",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/midnight-black-catalyzed-spray-can-only-914054/",
+        "source_label": "PaintScratch 2006 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Ebony (Catalyzed Spray Can Only)",
+        "paint_code": "914056",
+        "slug": "ebony-catalyzed-spray-can-only-914056",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/ebony-catalyzed-spray-can-only-914056/",
+        "source_label": "PaintScratch 2006 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915367",
+        "slug": "black-catalyzed-spray-can-only-915367",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915367/",
+        "source_label": "PaintScratch 2006 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Jet Black (Catalyzed Spray Can Only)",
+        "paint_code": "915482",
+        "slug": "jet-black-catalyzed-spray-can-only-915482",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/jet-black-catalyzed-spray-can-only-915482/",
+        "source_label": "PaintScratch 2006 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915738",
+        "slug": "black-catalyzed-spray-can-only-915738",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915738/",
+        "source_label": "PaintScratch 2006 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915801",
+        "slug": "black-catalyzed-spray-can-only-915801",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915801/",
+        "source_label": "PaintScratch 2006 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915877",
+        "slug": "black-catalyzed-spray-can-only-915877",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915877/",
+        "source_label": "PaintScratch 2006 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915955",
+        "slug": "black-catalyzed-spray-can-only-915955",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915955/",
+        "source_label": "PaintScratch 2006 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "916128",
+        "slug": "black-catalyzed-spray-can-only-916128",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-916128/",
+        "source_label": "PaintScratch 2006 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Beige (Catalyzed Spray Can Only)",
+        "paint_code": "916273",
+        "slug": "beige-catalyzed-spray-can-only-916273",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/beige-catalyzed-spray-can-only-916273/",
+        "source_label": "PaintScratch 2006 Freightliner",
+        "hex_value": "#E1DBBD"
+      },
+      {
+        "display_name": "Beige (Catalyzed Spray Can Only)",
+        "paint_code": "917008",
+        "slug": "beige-catalyzed-spray-can-only-917008",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/beige-catalyzed-spray-can-only-917008/",
+        "source_label": "PaintScratch 2006 Freightliner",
+        "hex_value": "#E1DBBD"
+      },
+      {
+        "display_name": "Cashmere (Catalyzed Spray Can Only)",
+        "paint_code": "917516",
+        "slug": "cashmere-catalyzed-spray-can-only-917516",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/cashmere-catalyzed-spray-can-only-917516/",
+        "source_label": "PaintScratch 2006 Freightliner",
+        "hex_value": "#EBE2AD"
+      },
+      {
+        "display_name": "Champagne (Catalyzed Spray Can Only)",
+        "paint_code": "917790",
+        "slug": "champagne-catalyzed-spray-can-only-917790",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/champagne-catalyzed-spray-can-only-917790/",
+        "source_label": "PaintScratch 2006 Freightliner",
+        "hex_value": "#F9F4D9"
+      },
+      {
+        "display_name": "Light Chestnut (Catalyzed Spray Can Only)",
+        "paint_code": "917847",
+        "slug": "light-chestnut-catalyzed-spray-can-only-917847",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/light-chestnut-catalyzed-spray-can-only-917847/",
+        "source_label": "PaintScratch 2006 Freightliner",
+        "hex_value": "#E3D277"
+      },
+      {
+        "display_name": "Samana Beige (Catalyzed Spray Can Only)",
+        "paint_code": "F0117EB",
+        "slug": "samana-beige-catalyzed-spray-can-only-f0117eb",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/samana-beige-catalyzed-spray-can-only-f0117eb/",
+        "source_label": "PaintScratch 2006 Freightliner",
+        "hex_value": "#F0EBD0"
+      }
+    ],
+    "2007": [
+      {
+        "display_name": "School Bus Yellow (Catalyzed Spray Can Only)",
+        "paint_code": "785683EA",
+        "slug": "school-bus-yellow-catalyzed-spray-can-only-785683ea",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/school-bus-yellow-catalyzed-spray-can-only-785683ea/",
+        "source_label": "PaintScratch 2007 Freightliner",
+        "hex_value": "#F1E305"
+      },
+      {
+        "display_name": "Black Sapphire (Catalyzed Spray Can Only)",
+        "paint_code": "919078",
+        "slug": "black-sapphire-catalyzed-spray-can-only-919078",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-sapphire-catalyzed-spray-can-only-919078/",
+        "source_label": "PaintScratch 2007 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Dandelion Yellow (Catalyzed Spray Can Only)",
+        "paint_code": "B9333EA",
+        "slug": "dandelion-yellow-catalyzed-spray-can-only-b9333ea",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/dandelion-yellow-catalyzed-spray-can-only-b9333ea/",
+        "source_label": "PaintScratch 2007 Freightliner",
+        "hex_value": "#EEF048"
+      },
+      {
+        "display_name": "Medium Red (Catalyzed Spray Can Only)",
+        "paint_code": "759295EA",
+        "slug": "medium-red-catalyzed-spray-can-only-759295ea",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/medium-red-catalyzed-spray-can-only-759295ea/",
+        "source_label": "PaintScratch 2007 Freightliner",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "Power Vac Yellow (Catalyzed Spray Can Only)",
+        "paint_code": "763324FB",
+        "slug": "power-vac-yellow-catalyzed-spray-can-only-763324fb",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/power-vac-yellow-catalyzed-spray-can-only-763324fb/",
+        "source_label": "PaintScratch 2007 Freightliner",
+        "hex_value": "#F1E305"
+      },
+      {
+        "display_name": "Midnight Black (Catalyzed Spray Can Only)",
+        "paint_code": "914054",
+        "slug": "midnight-black-catalyzed-spray-can-only-914054",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/midnight-black-catalyzed-spray-can-only-914054/",
+        "source_label": "PaintScratch 2007 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Ebony (Catalyzed Spray Can Only)",
+        "paint_code": "914056",
+        "slug": "ebony-catalyzed-spray-can-only-914056",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/ebony-catalyzed-spray-can-only-914056/",
+        "source_label": "PaintScratch 2007 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915367",
+        "slug": "black-catalyzed-spray-can-only-915367",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915367/",
+        "source_label": "PaintScratch 2007 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Jet Black (Catalyzed Spray Can Only)",
+        "paint_code": "915482",
+        "slug": "jet-black-catalyzed-spray-can-only-915482",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/jet-black-catalyzed-spray-can-only-915482/",
+        "source_label": "PaintScratch 2007 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915738",
+        "slug": "black-catalyzed-spray-can-only-915738",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915738/",
+        "source_label": "PaintScratch 2007 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915801",
+        "slug": "black-catalyzed-spray-can-only-915801",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915801/",
+        "source_label": "PaintScratch 2007 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915877",
+        "slug": "black-catalyzed-spray-can-only-915877",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915877/",
+        "source_label": "PaintScratch 2007 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915955",
+        "slug": "black-catalyzed-spray-can-only-915955",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915955/",
+        "source_label": "PaintScratch 2007 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "916128",
+        "slug": "black-catalyzed-spray-can-only-916128",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-916128/",
+        "source_label": "PaintScratch 2007 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Beige (Catalyzed Spray Can Only)",
+        "paint_code": "916273",
+        "slug": "beige-catalyzed-spray-can-only-916273",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/beige-catalyzed-spray-can-only-916273/",
+        "source_label": "PaintScratch 2007 Freightliner",
+        "hex_value": "#E1DBBD"
+      },
+      {
+        "display_name": "Beige (Catalyzed Spray Can Only)",
+        "paint_code": "917008",
+        "slug": "beige-catalyzed-spray-can-only-917008",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/beige-catalyzed-spray-can-only-917008/",
+        "source_label": "PaintScratch 2007 Freightliner",
+        "hex_value": "#E1DBBD"
+      }
+    ],
+    "2008": [
+      {
+        "display_name": "School Bus Yellow (Catalyzed Spray Can Only)",
+        "paint_code": "785683EA",
+        "slug": "school-bus-yellow-catalyzed-spray-can-only-785683ea",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/school-bus-yellow-catalyzed-spray-can-only-785683ea/",
+        "source_label": "PaintScratch 2008 Freightliner",
+        "hex_value": "#F1E305"
+      },
+      {
+        "display_name": "Black Sapphire (Catalyzed Spray Can Only)",
+        "paint_code": "919078",
+        "slug": "black-sapphire-catalyzed-spray-can-only-919078",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-sapphire-catalyzed-spray-can-only-919078/",
+        "source_label": "PaintScratch 2008 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Dandelion Yellow (Catalyzed Spray Can Only)",
+        "paint_code": "B9333EA",
+        "slug": "dandelion-yellow-catalyzed-spray-can-only-b9333ea",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/dandelion-yellow-catalyzed-spray-can-only-b9333ea/",
+        "source_label": "PaintScratch 2008 Freightliner",
+        "hex_value": "#EEF048"
+      },
+      {
+        "display_name": "Power Vac Yellow (Catalyzed Spray Can Only)",
+        "paint_code": "763324FB",
+        "slug": "power-vac-yellow-catalyzed-spray-can-only-763324fb",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/power-vac-yellow-catalyzed-spray-can-only-763324fb/",
+        "source_label": "PaintScratch 2008 Freightliner",
+        "hex_value": "#F1E305"
+      },
+      {
+        "display_name": "Midnight Black (Catalyzed Spray Can Only)",
+        "paint_code": "914054",
+        "slug": "midnight-black-catalyzed-spray-can-only-914054",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/midnight-black-catalyzed-spray-can-only-914054/",
+        "source_label": "PaintScratch 2008 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Ebony (Catalyzed Spray Can Only)",
+        "paint_code": "914056",
+        "slug": "ebony-catalyzed-spray-can-only-914056",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/ebony-catalyzed-spray-can-only-914056/",
+        "source_label": "PaintScratch 2008 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915367",
+        "slug": "black-catalyzed-spray-can-only-915367",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915367/",
+        "source_label": "PaintScratch 2008 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Jet Black (Catalyzed Spray Can Only)",
+        "paint_code": "915482",
+        "slug": "jet-black-catalyzed-spray-can-only-915482",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/jet-black-catalyzed-spray-can-only-915482/",
+        "source_label": "PaintScratch 2008 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915738",
+        "slug": "black-catalyzed-spray-can-only-915738",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915738/",
+        "source_label": "PaintScratch 2008 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915801",
+        "slug": "black-catalyzed-spray-can-only-915801",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915801/",
+        "source_label": "PaintScratch 2008 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915877",
+        "slug": "black-catalyzed-spray-can-only-915877",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915877/",
+        "source_label": "PaintScratch 2008 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915955",
+        "slug": "black-catalyzed-spray-can-only-915955",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915955/",
+        "source_label": "PaintScratch 2008 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "916128",
+        "slug": "black-catalyzed-spray-can-only-916128",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-916128/",
+        "source_label": "PaintScratch 2008 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Beige (Catalyzed Spray Can Only)",
+        "paint_code": "916273",
+        "slug": "beige-catalyzed-spray-can-only-916273",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/beige-catalyzed-spray-can-only-916273/",
+        "source_label": "PaintScratch 2008 Freightliner",
+        "hex_value": "#E1DBBD"
+      },
+      {
+        "display_name": "Beige (Catalyzed Spray Can Only)",
+        "paint_code": "917008",
+        "slug": "beige-catalyzed-spray-can-only-917008",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/beige-catalyzed-spray-can-only-917008/",
+        "source_label": "PaintScratch 2008 Freightliner",
+        "hex_value": "#E1DBBD"
+      },
+      {
+        "display_name": "Black Cherry (Catalyzed Spray Can Only)",
+        "paint_code": "917224",
+        "slug": "black-cherry-catalyzed-spray-can-only-917224",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-cherry-catalyzed-spray-can-only-917224/",
+        "source_label": "PaintScratch 2008 Freightliner",
+        "hex_value": "#000000"
+      }
+    ],
+    "2009": [
+      {
+        "display_name": "School Bus Yellow (Catalyzed Spray Can Only)",
+        "paint_code": "785683EA",
+        "slug": "school-bus-yellow-catalyzed-spray-can-only-785683ea",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/school-bus-yellow-catalyzed-spray-can-only-785683ea/",
+        "source_label": "PaintScratch 2009 Freightliner",
+        "hex_value": "#F1E305"
+      },
+      {
+        "display_name": "Black Sapphire (Catalyzed Spray Can Only)",
+        "paint_code": "919078",
+        "slug": "black-sapphire-catalyzed-spray-can-only-919078",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-sapphire-catalyzed-spray-can-only-919078/",
+        "source_label": "PaintScratch 2009 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Dandelion Yellow (Catalyzed Spray Can Only)",
+        "paint_code": "B9333EA",
+        "slug": "dandelion-yellow-catalyzed-spray-can-only-b9333ea",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/dandelion-yellow-catalyzed-spray-can-only-b9333ea/",
+        "source_label": "PaintScratch 2009 Freightliner",
+        "hex_value": "#EEF048"
+      },
+      {
+        "display_name": "Medium Blue (Catalyzed Spray Can Only)",
+        "paint_code": "L0347EB",
+        "slug": "medium-blue-catalyzed-spray-can-only-l0347eb",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/medium-blue-catalyzed-spray-can-only-l0347eb/",
+        "source_label": "PaintScratch 2009 Freightliner",
+        "hex_value": "#0D2D97"
+      },
+      {
+        "display_name": "Power Vac Yellow (Catalyzed Spray Can Only)",
+        "paint_code": "763324FB",
+        "slug": "power-vac-yellow-catalyzed-spray-can-only-763324fb",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/power-vac-yellow-catalyzed-spray-can-only-763324fb/",
+        "source_label": "PaintScratch 2009 Freightliner",
+        "hex_value": "#F1E305"
+      },
+      {
+        "display_name": "Midnight Black (Catalyzed Spray Can Only)",
+        "paint_code": "914054",
+        "slug": "midnight-black-catalyzed-spray-can-only-914054",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/midnight-black-catalyzed-spray-can-only-914054/",
+        "source_label": "PaintScratch 2009 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Ebony (Catalyzed Spray Can Only)",
+        "paint_code": "914056",
+        "slug": "ebony-catalyzed-spray-can-only-914056",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/ebony-catalyzed-spray-can-only-914056/",
+        "source_label": "PaintScratch 2009 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915367",
+        "slug": "black-catalyzed-spray-can-only-915367",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915367/",
+        "source_label": "PaintScratch 2009 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Jet Black (Catalyzed Spray Can Only)",
+        "paint_code": "915482",
+        "slug": "jet-black-catalyzed-spray-can-only-915482",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/jet-black-catalyzed-spray-can-only-915482/",
+        "source_label": "PaintScratch 2009 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915738",
+        "slug": "black-catalyzed-spray-can-only-915738",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915738/",
+        "source_label": "PaintScratch 2009 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915801",
+        "slug": "black-catalyzed-spray-can-only-915801",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915801/",
+        "source_label": "PaintScratch 2009 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915877",
+        "slug": "black-catalyzed-spray-can-only-915877",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915877/",
+        "source_label": "PaintScratch 2009 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915955",
+        "slug": "black-catalyzed-spray-can-only-915955",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915955/",
+        "source_label": "PaintScratch 2009 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "916128",
+        "slug": "black-catalyzed-spray-can-only-916128",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-916128/",
+        "source_label": "PaintScratch 2009 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Beige (Catalyzed Spray Can Only)",
+        "paint_code": "916273",
+        "slug": "beige-catalyzed-spray-can-only-916273",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/beige-catalyzed-spray-can-only-916273/",
+        "source_label": "PaintScratch 2009 Freightliner",
+        "hex_value": "#E1DBBD"
+      },
+      {
+        "display_name": "Beige (Catalyzed Spray Can Only)",
+        "paint_code": "917008",
+        "slug": "beige-catalyzed-spray-can-only-917008",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/beige-catalyzed-spray-can-only-917008/",
+        "source_label": "PaintScratch 2009 Freightliner",
+        "hex_value": "#E1DBBD"
+      }
+    ],
+    "2010": [
+      {
+        "display_name": "School Bus Yellow (Catalyzed Spray Can Only)",
+        "paint_code": "785683EA",
+        "slug": "school-bus-yellow-catalyzed-spray-can-only-785683ea",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/school-bus-yellow-catalyzed-spray-can-only-785683ea/",
+        "source_label": "PaintScratch 2010 Freightliner",
+        "hex_value": "#F1E305"
+      },
+      {
+        "display_name": "Black Sapphire (Catalyzed Spray Can Only)",
+        "paint_code": "919078",
+        "slug": "black-sapphire-catalyzed-spray-can-only-919078",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-sapphire-catalyzed-spray-can-only-919078/",
+        "source_label": "PaintScratch 2010 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Dandelion Yellow (Catalyzed Spray Can Only)",
+        "paint_code": "B9333EA",
+        "slug": "dandelion-yellow-catalyzed-spray-can-only-b9333ea",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/dandelion-yellow-catalyzed-spray-can-only-b9333ea/",
+        "source_label": "PaintScratch 2010 Freightliner",
+        "hex_value": "#EEF048"
+      },
+      {
+        "display_name": "Medium Blue (Catalyzed Spray Can Only)",
+        "paint_code": "L0347EB",
+        "slug": "medium-blue-catalyzed-spray-can-only-l0347eb",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/medium-blue-catalyzed-spray-can-only-l0347eb/",
+        "source_label": "PaintScratch 2010 Freightliner",
+        "hex_value": "#0D2D97"
+      },
+      {
+        "display_name": "Power Vac Yellow (Catalyzed Spray Can Only)",
+        "paint_code": "763324FB",
+        "slug": "power-vac-yellow-catalyzed-spray-can-only-763324fb",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/power-vac-yellow-catalyzed-spray-can-only-763324fb/",
+        "source_label": "PaintScratch 2010 Freightliner",
+        "hex_value": "#F1E305"
+      },
+      {
+        "display_name": "Midnight Black (Catalyzed Spray Can Only)",
+        "paint_code": "914054",
+        "slug": "midnight-black-catalyzed-spray-can-only-914054",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/midnight-black-catalyzed-spray-can-only-914054/",
+        "source_label": "PaintScratch 2010 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Ebony (Catalyzed Spray Can Only)",
+        "paint_code": "914056",
+        "slug": "ebony-catalyzed-spray-can-only-914056",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/ebony-catalyzed-spray-can-only-914056/",
+        "source_label": "PaintScratch 2010 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915367",
+        "slug": "black-catalyzed-spray-can-only-915367",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915367/",
+        "source_label": "PaintScratch 2010 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Jet Black (Catalyzed Spray Can Only)",
+        "paint_code": "915482",
+        "slug": "jet-black-catalyzed-spray-can-only-915482",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/jet-black-catalyzed-spray-can-only-915482/",
+        "source_label": "PaintScratch 2010 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915738",
+        "slug": "black-catalyzed-spray-can-only-915738",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915738/",
+        "source_label": "PaintScratch 2010 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915801",
+        "slug": "black-catalyzed-spray-can-only-915801",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915801/",
+        "source_label": "PaintScratch 2010 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915877",
+        "slug": "black-catalyzed-spray-can-only-915877",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915877/",
+        "source_label": "PaintScratch 2010 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915955",
+        "slug": "black-catalyzed-spray-can-only-915955",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915955/",
+        "source_label": "PaintScratch 2010 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "916128",
+        "slug": "black-catalyzed-spray-can-only-916128",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-916128/",
+        "source_label": "PaintScratch 2010 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Beige (Catalyzed Spray Can Only)",
+        "paint_code": "916273",
+        "slug": "beige-catalyzed-spray-can-only-916273",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/beige-catalyzed-spray-can-only-916273/",
+        "source_label": "PaintScratch 2010 Freightliner",
+        "hex_value": "#E1DBBD"
+      },
+      {
+        "display_name": "Beige (Catalyzed Spray Can Only)",
+        "paint_code": "917008",
+        "slug": "beige-catalyzed-spray-can-only-917008",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/beige-catalyzed-spray-can-only-917008/",
+        "source_label": "PaintScratch 2010 Freightliner",
+        "hex_value": "#E1DBBD"
+      }
+    ],
+    "2011": [
+      {
+        "display_name": "School Bus Yellow (Catalyzed Spray Can Only)",
+        "paint_code": "785683EA",
+        "slug": "school-bus-yellow-catalyzed-spray-can-only-785683ea",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/school-bus-yellow-catalyzed-spray-can-only-785683ea/",
+        "source_label": "PaintScratch 2011 Freightliner",
+        "hex_value": "#F1E305"
+      },
+      {
+        "display_name": "Black Sapphire (Catalyzed Spray Can Only)",
+        "paint_code": "919078",
+        "slug": "black-sapphire-catalyzed-spray-can-only-919078",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-sapphire-catalyzed-spray-can-only-919078/",
+        "source_label": "PaintScratch 2011 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Dandelion Yellow (Catalyzed Spray Can Only)",
+        "paint_code": "B9333EA",
+        "slug": "dandelion-yellow-catalyzed-spray-can-only-b9333ea",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/dandelion-yellow-catalyzed-spray-can-only-b9333ea/",
+        "source_label": "PaintScratch 2011 Freightliner",
+        "hex_value": "#EEF048"
+      },
+      {
+        "display_name": "Medium Blue (Catalyzed Spray Can Only)",
+        "paint_code": "L0347EB",
+        "slug": "medium-blue-catalyzed-spray-can-only-l0347eb",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/medium-blue-catalyzed-spray-can-only-l0347eb/",
+        "source_label": "PaintScratch 2011 Freightliner",
+        "hex_value": "#0D2D97"
+      },
+      {
+        "display_name": "Power Vac Yellow (Catalyzed Spray Can Only)",
+        "paint_code": "763324FB",
+        "slug": "power-vac-yellow-catalyzed-spray-can-only-763324fb",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/power-vac-yellow-catalyzed-spray-can-only-763324fb/",
+        "source_label": "PaintScratch 2011 Freightliner",
+        "hex_value": "#F1E305"
+      },
+      {
+        "display_name": "Midnight Black (Catalyzed Spray Can Only)",
+        "paint_code": "914054",
+        "slug": "midnight-black-catalyzed-spray-can-only-914054",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/midnight-black-catalyzed-spray-can-only-914054/",
+        "source_label": "PaintScratch 2011 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Ebony (Catalyzed Spray Can Only)",
+        "paint_code": "914056",
+        "slug": "ebony-catalyzed-spray-can-only-914056",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/ebony-catalyzed-spray-can-only-914056/",
+        "source_label": "PaintScratch 2011 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915367",
+        "slug": "black-catalyzed-spray-can-only-915367",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915367/",
+        "source_label": "PaintScratch 2011 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Jet Black (Catalyzed Spray Can Only)",
+        "paint_code": "915482",
+        "slug": "jet-black-catalyzed-spray-can-only-915482",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/jet-black-catalyzed-spray-can-only-915482/",
+        "source_label": "PaintScratch 2011 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915738",
+        "slug": "black-catalyzed-spray-can-only-915738",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915738/",
+        "source_label": "PaintScratch 2011 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915801",
+        "slug": "black-catalyzed-spray-can-only-915801",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915801/",
+        "source_label": "PaintScratch 2011 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915877",
+        "slug": "black-catalyzed-spray-can-only-915877",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915877/",
+        "source_label": "PaintScratch 2011 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915955",
+        "slug": "black-catalyzed-spray-can-only-915955",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915955/",
+        "source_label": "PaintScratch 2011 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "916128",
+        "slug": "black-catalyzed-spray-can-only-916128",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-916128/",
+        "source_label": "PaintScratch 2011 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Beige (Catalyzed Spray Can Only)",
+        "paint_code": "916273",
+        "slug": "beige-catalyzed-spray-can-only-916273",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/beige-catalyzed-spray-can-only-916273/",
+        "source_label": "PaintScratch 2011 Freightliner",
+        "hex_value": "#E1DBBD"
+      },
+      {
+        "display_name": "Beige (Catalyzed Spray Can Only)",
+        "paint_code": "917008",
+        "slug": "beige-catalyzed-spray-can-only-917008",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/beige-catalyzed-spray-can-only-917008/",
+        "source_label": "PaintScratch 2011 Freightliner",
+        "hex_value": "#E1DBBD"
+      }
+    ],
+    "2012": [
+      {
+        "display_name": "School Bus Yellow (Catalyzed Spray Can Only)",
+        "paint_code": "785683EA",
+        "slug": "school-bus-yellow-catalyzed-spray-can-only-785683ea",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/school-bus-yellow-catalyzed-spray-can-only-785683ea/",
+        "source_label": "PaintScratch 2012 Freightliner",
+        "hex_value": "#F1E305"
+      },
+      {
+        "display_name": "Black Sapphire (Catalyzed Spray Can Only)",
+        "paint_code": "919078",
+        "slug": "black-sapphire-catalyzed-spray-can-only-919078",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-sapphire-catalyzed-spray-can-only-919078/",
+        "source_label": "PaintScratch 2012 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Dandelion Yellow (Catalyzed Spray Can Only)",
+        "paint_code": "B9333EA",
+        "slug": "dandelion-yellow-catalyzed-spray-can-only-b9333ea",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/dandelion-yellow-catalyzed-spray-can-only-b9333ea/",
+        "source_label": "PaintScratch 2012 Freightliner",
+        "hex_value": "#EEF048"
+      },
+      {
+        "display_name": "Medium Blue (Catalyzed Spray Can Only)",
+        "paint_code": "L0347EB",
+        "slug": "medium-blue-catalyzed-spray-can-only-l0347eb",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/medium-blue-catalyzed-spray-can-only-l0347eb/",
+        "source_label": "PaintScratch 2012 Freightliner",
+        "hex_value": "#0D2D97"
+      },
+      {
+        "display_name": "Green (Catalyzed Spray Can Only)",
+        "paint_code": "L0368EB",
+        "slug": "green-catalyzed-spray-can-only-l0368eb",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/green-catalyzed-spray-can-only-l0368eb/",
+        "source_label": "PaintScratch 2012 Freightliner",
+        "hex_value": "#2E6D1F"
+      },
+      {
+        "display_name": "Power Vac Yellow (Catalyzed Spray Can Only)",
+        "paint_code": "763324FB",
+        "slug": "power-vac-yellow-catalyzed-spray-can-only-763324fb",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/power-vac-yellow-catalyzed-spray-can-only-763324fb/",
+        "source_label": "PaintScratch 2012 Freightliner",
+        "hex_value": "#F1E305"
+      },
+      {
+        "display_name": "Midnight Black (Catalyzed Spray Can Only)",
+        "paint_code": "914054",
+        "slug": "midnight-black-catalyzed-spray-can-only-914054",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/midnight-black-catalyzed-spray-can-only-914054/",
+        "source_label": "PaintScratch 2012 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Ebony (Catalyzed Spray Can Only)",
+        "paint_code": "914056",
+        "slug": "ebony-catalyzed-spray-can-only-914056",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/ebony-catalyzed-spray-can-only-914056/",
+        "source_label": "PaintScratch 2012 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915367",
+        "slug": "black-catalyzed-spray-can-only-915367",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915367/",
+        "source_label": "PaintScratch 2012 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Jet Black (Catalyzed Spray Can Only)",
+        "paint_code": "915482",
+        "slug": "jet-black-catalyzed-spray-can-only-915482",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/jet-black-catalyzed-spray-can-only-915482/",
+        "source_label": "PaintScratch 2012 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915738",
+        "slug": "black-catalyzed-spray-can-only-915738",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915738/",
+        "source_label": "PaintScratch 2012 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915801",
+        "slug": "black-catalyzed-spray-can-only-915801",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915801/",
+        "source_label": "PaintScratch 2012 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915877",
+        "slug": "black-catalyzed-spray-can-only-915877",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915877/",
+        "source_label": "PaintScratch 2012 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915955",
+        "slug": "black-catalyzed-spray-can-only-915955",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915955/",
+        "source_label": "PaintScratch 2012 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "916128",
+        "slug": "black-catalyzed-spray-can-only-916128",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-916128/",
+        "source_label": "PaintScratch 2012 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Beige (Catalyzed Spray Can Only)",
+        "paint_code": "916273",
+        "slug": "beige-catalyzed-spray-can-only-916273",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/beige-catalyzed-spray-can-only-916273/",
+        "source_label": "PaintScratch 2012 Freightliner",
+        "hex_value": "#E1DBBD"
+      }
+    ],
+    "2013": [
+      {
+        "display_name": "White (Catalyzed Spray Can Only)",
+        "paint_code": "L0006EB",
+        "slug": "white-catalyzed-spray-can-only-l0006eb",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/white-catalyzed-spray-can-only-l0006eb/",
+        "source_label": "PaintScratch 2013 Freightliner",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "School Bus Yellow (Catalyzed Spray Can Only)",
+        "paint_code": "785683EA",
+        "slug": "school-bus-yellow-catalyzed-spray-can-only-785683ea",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/school-bus-yellow-catalyzed-spray-can-only-785683ea/",
+        "source_label": "PaintScratch 2013 Freightliner",
+        "hex_value": "#F1E305"
+      },
+      {
+        "display_name": "Black Sapphire (Catalyzed Spray Can Only)",
+        "paint_code": "919078",
+        "slug": "black-sapphire-catalyzed-spray-can-only-919078",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-sapphire-catalyzed-spray-can-only-919078/",
+        "source_label": "PaintScratch 2013 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Dandelion Yellow (Catalyzed Spray Can Only)",
+        "paint_code": "B9333EA",
+        "slug": "dandelion-yellow-catalyzed-spray-can-only-b9333ea",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/dandelion-yellow-catalyzed-spray-can-only-b9333ea/",
+        "source_label": "PaintScratch 2013 Freightliner",
+        "hex_value": "#EEF048"
+      },
+      {
+        "display_name": "Medium Blue (Catalyzed Spray Can Only)",
+        "paint_code": "L0347EB",
+        "slug": "medium-blue-catalyzed-spray-can-only-l0347eb",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/medium-blue-catalyzed-spray-can-only-l0347eb/",
+        "source_label": "PaintScratch 2013 Freightliner",
+        "hex_value": "#0D2D97"
+      },
+      {
+        "display_name": "Elite Green (Catalyzed Spray Can Only)",
+        "paint_code": "L0817EY",
+        "slug": "elite-green-catalyzed-spray-can-only-l0817ey",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/elite-green-catalyzed-spray-can-only-l0817ey/",
+        "source_label": "PaintScratch 2013 Freightliner",
+        "hex_value": "#15350F"
+      },
+      {
+        "display_name": "Power Vac Yellow (Catalyzed Spray Can Only)",
+        "paint_code": "763324FB",
+        "slug": "power-vac-yellow-catalyzed-spray-can-only-763324fb",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/power-vac-yellow-catalyzed-spray-can-only-763324fb/",
+        "source_label": "PaintScratch 2013 Freightliner",
+        "hex_value": "#F1E305"
+      },
+      {
+        "display_name": "Midnight Black (Catalyzed Spray Can Only)",
+        "paint_code": "914054",
+        "slug": "midnight-black-catalyzed-spray-can-only-914054",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/midnight-black-catalyzed-spray-can-only-914054/",
+        "source_label": "PaintScratch 2013 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Ebony (Catalyzed Spray Can Only)",
+        "paint_code": "914056",
+        "slug": "ebony-catalyzed-spray-can-only-914056",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/ebony-catalyzed-spray-can-only-914056/",
+        "source_label": "PaintScratch 2013 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915367",
+        "slug": "black-catalyzed-spray-can-only-915367",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915367/",
+        "source_label": "PaintScratch 2013 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Jet Black (Catalyzed Spray Can Only)",
+        "paint_code": "915482",
+        "slug": "jet-black-catalyzed-spray-can-only-915482",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/jet-black-catalyzed-spray-can-only-915482/",
+        "source_label": "PaintScratch 2013 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915738",
+        "slug": "black-catalyzed-spray-can-only-915738",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915738/",
+        "source_label": "PaintScratch 2013 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915801",
+        "slug": "black-catalyzed-spray-can-only-915801",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915801/",
+        "source_label": "PaintScratch 2013 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915877",
+        "slug": "black-catalyzed-spray-can-only-915877",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915877/",
+        "source_label": "PaintScratch 2013 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915955",
+        "slug": "black-catalyzed-spray-can-only-915955",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915955/",
+        "source_label": "PaintScratch 2013 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "916128",
+        "slug": "black-catalyzed-spray-can-only-916128",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-916128/",
+        "source_label": "PaintScratch 2013 Freightliner",
+        "hex_value": "#000000"
+      }
+    ],
+    "2014": [
+      {
+        "display_name": "White Imron (Catalyzed Spray Can Only)",
+        "paint_code": "N0006HN",
+        "slug": "white-imron-catalyzed-spray-can-only-n0006hn",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/white-imron-catalyzed-spray-can-only-n0006hn/",
+        "source_label": "PaintScratch 2014 Freightliner",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "White (Catalyzed Spray Can Only)",
+        "paint_code": "L0006EB",
+        "slug": "white-catalyzed-spray-can-only-l0006eb",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/white-catalyzed-spray-can-only-l0006eb/",
+        "source_label": "PaintScratch 2014 Freightliner",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "School Bus Yellow (Catalyzed Spray Can Only)",
+        "paint_code": "785683EA",
+        "slug": "school-bus-yellow-catalyzed-spray-can-only-785683ea",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/school-bus-yellow-catalyzed-spray-can-only-785683ea/",
+        "source_label": "PaintScratch 2014 Freightliner",
+        "hex_value": "#F1E305"
+      },
+      {
+        "display_name": "Black Sapphire (Catalyzed Spray Can Only)",
+        "paint_code": "919078",
+        "slug": "black-sapphire-catalyzed-spray-can-only-919078",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-sapphire-catalyzed-spray-can-only-919078/",
+        "source_label": "PaintScratch 2014 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Dandelion Yellow (Catalyzed Spray Can Only)",
+        "paint_code": "B9333EA",
+        "slug": "dandelion-yellow-catalyzed-spray-can-only-b9333ea",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/dandelion-yellow-catalyzed-spray-can-only-b9333ea/",
+        "source_label": "PaintScratch 2014 Freightliner",
+        "hex_value": "#EEF048"
+      },
+      {
+        "display_name": "Medium Blue (Catalyzed Spray Can Only)",
+        "paint_code": "L0347EB",
+        "slug": "medium-blue-catalyzed-spray-can-only-l0347eb",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/medium-blue-catalyzed-spray-can-only-l0347eb/",
+        "source_label": "PaintScratch 2014 Freightliner",
+        "hex_value": "#0D2D97"
+      },
+      {
+        "display_name": "Power Vac Yellow (Catalyzed Spray Can Only)",
+        "paint_code": "763324FB",
+        "slug": "power-vac-yellow-catalyzed-spray-can-only-763324fb",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/power-vac-yellow-catalyzed-spray-can-only-763324fb/",
+        "source_label": "PaintScratch 2014 Freightliner",
+        "hex_value": "#F1E305"
+      },
+      {
+        "display_name": "Midnight Black (Catalyzed Spray Can Only)",
+        "paint_code": "914054",
+        "slug": "midnight-black-catalyzed-spray-can-only-914054",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/midnight-black-catalyzed-spray-can-only-914054/",
+        "source_label": "PaintScratch 2014 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Ebony (Catalyzed Spray Can Only)",
+        "paint_code": "914056",
+        "slug": "ebony-catalyzed-spray-can-only-914056",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/ebony-catalyzed-spray-can-only-914056/",
+        "source_label": "PaintScratch 2014 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915367",
+        "slug": "black-catalyzed-spray-can-only-915367",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915367/",
+        "source_label": "PaintScratch 2014 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Jet Black (Catalyzed Spray Can Only)",
+        "paint_code": "915482",
+        "slug": "jet-black-catalyzed-spray-can-only-915482",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/jet-black-catalyzed-spray-can-only-915482/",
+        "source_label": "PaintScratch 2014 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915738",
+        "slug": "black-catalyzed-spray-can-only-915738",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915738/",
+        "source_label": "PaintScratch 2014 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915801",
+        "slug": "black-catalyzed-spray-can-only-915801",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915801/",
+        "source_label": "PaintScratch 2014 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915877",
+        "slug": "black-catalyzed-spray-can-only-915877",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915877/",
+        "source_label": "PaintScratch 2014 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915955",
+        "slug": "black-catalyzed-spray-can-only-915955",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915955/",
+        "source_label": "PaintScratch 2014 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "916128",
+        "slug": "black-catalyzed-spray-can-only-916128",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-916128/",
+        "source_label": "PaintScratch 2014 Freightliner",
+        "hex_value": "#000000"
+      }
+    ],
+    "2015": [
+      {
+        "display_name": "White (Catalyzed Spray Can Only)",
+        "paint_code": "L0006EB",
+        "slug": "white-catalyzed-spray-can-only-l0006eb",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/white-catalyzed-spray-can-only-l0006eb/",
+        "source_label": "PaintScratch 2015 Freightliner",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "White (Catalyzed Spray Can Only)",
+        "paint_code": "L0006EY",
+        "slug": "white-catalyzed-spray-can-only-l0006ey",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/white-catalyzed-spray-can-only-l0006ey/",
+        "source_label": "PaintScratch 2015 Freightliner",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "School Bus Yellow (Catalyzed Spray Can Only)",
+        "paint_code": "785683EA",
+        "slug": "school-bus-yellow-catalyzed-spray-can-only-785683ea",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/school-bus-yellow-catalyzed-spray-can-only-785683ea/",
+        "source_label": "PaintScratch 2015 Freightliner",
+        "hex_value": "#F1E305"
+      },
+      {
+        "display_name": "Black Sapphire (Catalyzed Spray Can Only)",
+        "paint_code": "919078",
+        "slug": "black-sapphire-catalyzed-spray-can-only-919078",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-sapphire-catalyzed-spray-can-only-919078/",
+        "source_label": "PaintScratch 2015 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Dandelion Yellow (Catalyzed Spray Can Only)",
+        "paint_code": "B9333EA",
+        "slug": "dandelion-yellow-catalyzed-spray-can-only-b9333ea",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/dandelion-yellow-catalyzed-spray-can-only-b9333ea/",
+        "source_label": "PaintScratch 2015 Freightliner",
+        "hex_value": "#EEF048"
+      },
+      {
+        "display_name": "White (Catalyzed Spray Can Only)",
+        "paint_code": "L0007EB",
+        "slug": "white-catalyzed-spray-can-only-l0007eb",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/white-catalyzed-spray-can-only-l0007eb/",
+        "source_label": "PaintScratch 2015 Freightliner",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "White Elite (Catalyzed Spray Can Only)",
+        "paint_code": "L0303EY",
+        "slug": "white-elite-catalyzed-spray-can-only-l0303ey",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/white-elite-catalyzed-spray-can-only-l0303ey/",
+        "source_label": "PaintScratch 2015 Freightliner",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Medium Blue (Catalyzed Spray Can Only)",
+        "paint_code": "L0347EB",
+        "slug": "medium-blue-catalyzed-spray-can-only-l0347eb",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/medium-blue-catalyzed-spray-can-only-l0347eb/",
+        "source_label": "PaintScratch 2015 Freightliner",
+        "hex_value": "#0D2D97"
+      },
+      {
+        "display_name": "Medium Blue (Catalyzed Spray Can Only)",
+        "paint_code": "L0348EY",
+        "slug": "medium-blue-catalyzed-spray-can-only-l0348ey",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/medium-blue-catalyzed-spray-can-only-l0348ey/",
+        "source_label": "PaintScratch 2015 Freightliner",
+        "hex_value": "#0D2D97"
+      },
+      {
+        "display_name": "Power Vac Yellow (Catalyzed Spray Can Only)",
+        "paint_code": "763324FB",
+        "slug": "power-vac-yellow-catalyzed-spray-can-only-763324fb",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/power-vac-yellow-catalyzed-spray-can-only-763324fb/",
+        "source_label": "PaintScratch 2015 Freightliner",
+        "hex_value": "#F1E305"
+      },
+      {
+        "display_name": "Midnight Black (Catalyzed Spray Can Only)",
+        "paint_code": "914054",
+        "slug": "midnight-black-catalyzed-spray-can-only-914054",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/midnight-black-catalyzed-spray-can-only-914054/",
+        "source_label": "PaintScratch 2015 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Ebony (Catalyzed Spray Can Only)",
+        "paint_code": "914056",
+        "slug": "ebony-catalyzed-spray-can-only-914056",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/ebony-catalyzed-spray-can-only-914056/",
+        "source_label": "PaintScratch 2015 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915367",
+        "slug": "black-catalyzed-spray-can-only-915367",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915367/",
+        "source_label": "PaintScratch 2015 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Jet Black (Catalyzed Spray Can Only)",
+        "paint_code": "915482",
+        "slug": "jet-black-catalyzed-spray-can-only-915482",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/jet-black-catalyzed-spray-can-only-915482/",
+        "source_label": "PaintScratch 2015 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915738",
+        "slug": "black-catalyzed-spray-can-only-915738",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915738/",
+        "source_label": "PaintScratch 2015 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915801",
+        "slug": "black-catalyzed-spray-can-only-915801",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915801/",
+        "source_label": "PaintScratch 2015 Freightliner",
+        "hex_value": "#000000"
+      }
+    ],
+    "2016": [
+      {
+        "display_name": "White (Catalyzed Spray Can Only)",
+        "paint_code": "L0006EB",
+        "slug": "white-catalyzed-spray-can-only-l0006eb",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/white-catalyzed-spray-can-only-l0006eb/",
+        "source_label": "PaintScratch 2016 Freightliner",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "White (Catalyzed Spray Can Only)",
+        "paint_code": "L0006EY",
+        "slug": "white-catalyzed-spray-can-only-l0006ey",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/white-catalyzed-spray-can-only-l0006ey/",
+        "source_label": "PaintScratch 2016 Freightliner",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "School Bus Yellow (Catalyzed Spray Can Only)",
+        "paint_code": "785683EA",
+        "slug": "school-bus-yellow-catalyzed-spray-can-only-785683ea",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/school-bus-yellow-catalyzed-spray-can-only-785683ea/",
+        "source_label": "PaintScratch 2016 Freightliner",
+        "hex_value": "#F1E305"
+      },
+      {
+        "display_name": "Black Sapphire (Catalyzed Spray Can Only)",
+        "paint_code": "919078",
+        "slug": "black-sapphire-catalyzed-spray-can-only-919078",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-sapphire-catalyzed-spray-can-only-919078/",
+        "source_label": "PaintScratch 2016 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Dandelion Yellow (Catalyzed Spray Can Only)",
+        "paint_code": "B9333EA",
+        "slug": "dandelion-yellow-catalyzed-spray-can-only-b9333ea",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/dandelion-yellow-catalyzed-spray-can-only-b9333ea/",
+        "source_label": "PaintScratch 2016 Freightliner",
+        "hex_value": "#EEF048"
+      },
+      {
+        "display_name": "White (Catalyzed Spray Can Only)",
+        "paint_code": "L0303EB",
+        "slug": "white-catalyzed-spray-can-only-l0303eb",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/white-catalyzed-spray-can-only-l0303eb/",
+        "source_label": "PaintScratch 2016 Freightliner",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Power Vac Yellow (Catalyzed Spray Can Only)",
+        "paint_code": "763324FB",
+        "slug": "power-vac-yellow-catalyzed-spray-can-only-763324fb",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/power-vac-yellow-catalyzed-spray-can-only-763324fb/",
+        "source_label": "PaintScratch 2016 Freightliner",
+        "hex_value": "#F1E305"
+      },
+      {
+        "display_name": "Midnight Black (Catalyzed Spray Can Only)",
+        "paint_code": "914054",
+        "slug": "midnight-black-catalyzed-spray-can-only-914054",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/midnight-black-catalyzed-spray-can-only-914054/",
+        "source_label": "PaintScratch 2016 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Ebony (Catalyzed Spray Can Only)",
+        "paint_code": "914056",
+        "slug": "ebony-catalyzed-spray-can-only-914056",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/ebony-catalyzed-spray-can-only-914056/",
+        "source_label": "PaintScratch 2016 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915367",
+        "slug": "black-catalyzed-spray-can-only-915367",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915367/",
+        "source_label": "PaintScratch 2016 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Jet Black (Catalyzed Spray Can Only)",
+        "paint_code": "915482",
+        "slug": "jet-black-catalyzed-spray-can-only-915482",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/jet-black-catalyzed-spray-can-only-915482/",
+        "source_label": "PaintScratch 2016 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915738",
+        "slug": "black-catalyzed-spray-can-only-915738",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915738/",
+        "source_label": "PaintScratch 2016 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915801",
+        "slug": "black-catalyzed-spray-can-only-915801",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915801/",
+        "source_label": "PaintScratch 2016 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915877",
+        "slug": "black-catalyzed-spray-can-only-915877",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915877/",
+        "source_label": "PaintScratch 2016 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915955",
+        "slug": "black-catalyzed-spray-can-only-915955",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915955/",
+        "source_label": "PaintScratch 2016 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "916128",
+        "slug": "black-catalyzed-spray-can-only-916128",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-916128/",
+        "source_label": "PaintScratch 2016 Freightliner",
+        "hex_value": "#000000"
+      }
+    ],
+    "2017": [
+      {
+        "display_name": "White (Catalyzed Spray Can Only)",
+        "paint_code": "L0006EB",
+        "slug": "white-catalyzed-spray-can-only-l0006eb",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/white-catalyzed-spray-can-only-l0006eb/",
+        "source_label": "PaintScratch 2017 Freightliner",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "White (Catalyzed Spray Can Only)",
+        "paint_code": "L0006EY",
+        "slug": "white-catalyzed-spray-can-only-l0006ey",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/white-catalyzed-spray-can-only-l0006ey/",
+        "source_label": "PaintScratch 2017 Freightliner",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "School Bus Yellow (Catalyzed Spray Can Only)",
+        "paint_code": "785683EA",
+        "slug": "school-bus-yellow-catalyzed-spray-can-only-785683ea",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/school-bus-yellow-catalyzed-spray-can-only-785683ea/",
+        "source_label": "PaintScratch 2017 Freightliner",
+        "hex_value": "#F1E305"
+      },
+      {
+        "display_name": "Black Sapphire (Catalyzed Spray Can Only)",
+        "paint_code": "919078",
+        "slug": "black-sapphire-catalyzed-spray-can-only-919078",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-sapphire-catalyzed-spray-can-only-919078/",
+        "source_label": "PaintScratch 2017 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Dandelion Yellow (Catalyzed Spray Can Only)",
+        "paint_code": "B9333EA",
+        "slug": "dandelion-yellow-catalyzed-spray-can-only-b9333ea",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/dandelion-yellow-catalyzed-spray-can-only-b9333ea/",
+        "source_label": "PaintScratch 2017 Freightliner",
+        "hex_value": "#EEF048"
+      },
+      {
+        "display_name": "Power Vac Yellow (Catalyzed Spray Can Only)",
+        "paint_code": "763324FB",
+        "slug": "power-vac-yellow-catalyzed-spray-can-only-763324fb",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/power-vac-yellow-catalyzed-spray-can-only-763324fb/",
+        "source_label": "PaintScratch 2017 Freightliner",
+        "hex_value": "#F1E305"
+      },
+      {
+        "display_name": "Gray Elite (Catalyzed Spray Can Only)",
+        "paint_code": "00819568EB",
+        "slug": "gray-elite-catalyzed-spray-can-only-00819568eb",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/gray-elite-catalyzed-spray-can-only-00819568eb/",
+        "source_label": "PaintScratch 2017 Freightliner",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Midnight Black (Catalyzed Spray Can Only)",
+        "paint_code": "914054",
+        "slug": "midnight-black-catalyzed-spray-can-only-914054",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/midnight-black-catalyzed-spray-can-only-914054/",
+        "source_label": "PaintScratch 2017 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Ebony (Catalyzed Spray Can Only)",
+        "paint_code": "914056",
+        "slug": "ebony-catalyzed-spray-can-only-914056",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/ebony-catalyzed-spray-can-only-914056/",
+        "source_label": "PaintScratch 2017 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915367",
+        "slug": "black-catalyzed-spray-can-only-915367",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915367/",
+        "source_label": "PaintScratch 2017 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Jet Black (Catalyzed Spray Can Only)",
+        "paint_code": "915482",
+        "slug": "jet-black-catalyzed-spray-can-only-915482",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/jet-black-catalyzed-spray-can-only-915482/",
+        "source_label": "PaintScratch 2017 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915738",
+        "slug": "black-catalyzed-spray-can-only-915738",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915738/",
+        "source_label": "PaintScratch 2017 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915801",
+        "slug": "black-catalyzed-spray-can-only-915801",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915801/",
+        "source_label": "PaintScratch 2017 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915877",
+        "slug": "black-catalyzed-spray-can-only-915877",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915877/",
+        "source_label": "PaintScratch 2017 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915955",
+        "slug": "black-catalyzed-spray-can-only-915955",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915955/",
+        "source_label": "PaintScratch 2017 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "916128",
+        "slug": "black-catalyzed-spray-can-only-916128",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-916128/",
+        "source_label": "PaintScratch 2017 Freightliner",
+        "hex_value": "#000000"
+      }
+    ],
+    "2018": [
+      {
+        "display_name": "White (Catalyzed Spray Can Only)",
+        "paint_code": "L0006EB",
+        "slug": "white-catalyzed-spray-can-only-l0006eb",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/white-catalyzed-spray-can-only-l0006eb/",
+        "source_label": "PaintScratch 2018 Freightliner",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "White (Catalyzed Spray Can Only)",
+        "paint_code": "L0006EY",
+        "slug": "white-catalyzed-spray-can-only-l0006ey",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/white-catalyzed-spray-can-only-l0006ey/",
+        "source_label": "PaintScratch 2018 Freightliner",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "School Bus Yellow (Catalyzed Spray Can Only)",
+        "paint_code": "785683EA",
+        "slug": "school-bus-yellow-catalyzed-spray-can-only-785683ea",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/school-bus-yellow-catalyzed-spray-can-only-785683ea/",
+        "source_label": "PaintScratch 2018 Freightliner",
+        "hex_value": "#F1E305"
+      },
+      {
+        "display_name": "Medium Blue (Catalyzed Spray Can Only)",
+        "paint_code": "909720",
+        "slug": "medium-blue-catalyzed-spray-can-only-909720",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/medium-blue-catalyzed-spray-can-only-909720/",
+        "source_label": "PaintScratch 2018 Freightliner",
+        "hex_value": "#0D2D97"
+      },
+      {
+        "display_name": "Black Sapphire (Catalyzed Spray Can Only)",
+        "paint_code": "919078",
+        "slug": "black-sapphire-catalyzed-spray-can-only-919078",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-sapphire-catalyzed-spray-can-only-919078/",
+        "source_label": "PaintScratch 2018 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Dandelion Yellow (Catalyzed Spray Can Only)",
+        "paint_code": "B9333EA",
+        "slug": "dandelion-yellow-catalyzed-spray-can-only-b9333ea",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/dandelion-yellow-catalyzed-spray-can-only-b9333ea/",
+        "source_label": "PaintScratch 2018 Freightliner",
+        "hex_value": "#EEF048"
+      },
+      {
+        "display_name": "Green (Catalyzed Spray Can Only)",
+        "paint_code": "L0464EB",
+        "slug": "green-catalyzed-spray-can-only-l0464eb",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/green-catalyzed-spray-can-only-l0464eb/",
+        "source_label": "PaintScratch 2018 Freightliner",
+        "hex_value": "#2E6D1F"
+      },
+      {
+        "display_name": "Pewter Gray Pearl Metallic (Catalyzed Spray Can Only)",
+        "paint_code": "466742",
+        "slug": "pewter-gray-pearl-metallic-catalyzed-spray-can-only-466742",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/pewter-gray-pearl-metallic-catalyzed-spray-can-only-466742/",
+        "source_label": "PaintScratch 2018 Freightliner",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Power Vac Yellow (Catalyzed Spray Can Only)",
+        "paint_code": "763324FB",
+        "slug": "power-vac-yellow-catalyzed-spray-can-only-763324fb",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/power-vac-yellow-catalyzed-spray-can-only-763324fb/",
+        "source_label": "PaintScratch 2018 Freightliner",
+        "hex_value": "#F1E305"
+      },
+      {
+        "display_name": "Midnight Black (Catalyzed Spray Can Only)",
+        "paint_code": "914054",
+        "slug": "midnight-black-catalyzed-spray-can-only-914054",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/midnight-black-catalyzed-spray-can-only-914054/",
+        "source_label": "PaintScratch 2018 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Ebony (Catalyzed Spray Can Only)",
+        "paint_code": "914056",
+        "slug": "ebony-catalyzed-spray-can-only-914056",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/ebony-catalyzed-spray-can-only-914056/",
+        "source_label": "PaintScratch 2018 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915367",
+        "slug": "black-catalyzed-spray-can-only-915367",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915367/",
+        "source_label": "PaintScratch 2018 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Jet Black (Catalyzed Spray Can Only)",
+        "paint_code": "915482",
+        "slug": "jet-black-catalyzed-spray-can-only-915482",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/jet-black-catalyzed-spray-can-only-915482/",
+        "source_label": "PaintScratch 2018 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915738",
+        "slug": "black-catalyzed-spray-can-only-915738",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915738/",
+        "source_label": "PaintScratch 2018 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915801",
+        "slug": "black-catalyzed-spray-can-only-915801",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915801/",
+        "source_label": "PaintScratch 2018 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915877",
+        "slug": "black-catalyzed-spray-can-only-915877",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915877/",
+        "source_label": "PaintScratch 2018 Freightliner",
+        "hex_value": "#000000"
+      }
+    ],
+    "2019": [
+      {
+        "display_name": "White (Catalyzed Spray Can Only)",
+        "paint_code": "L0006EB",
+        "slug": "white-catalyzed-spray-can-only-l0006eb",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/white-catalyzed-spray-can-only-l0006eb/",
+        "source_label": "PaintScratch 2019 Freightliner",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "White (Catalyzed Spray Can Only)",
+        "paint_code": "L0006EY",
+        "slug": "white-catalyzed-spray-can-only-l0006ey",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/white-catalyzed-spray-can-only-l0006ey/",
+        "source_label": "PaintScratch 2019 Freightliner",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "School Bus Yellow (Catalyzed Spray Can Only)",
+        "paint_code": "785683EA",
+        "slug": "school-bus-yellow-catalyzed-spray-can-only-785683ea",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/school-bus-yellow-catalyzed-spray-can-only-785683ea/",
+        "source_label": "PaintScratch 2019 Freightliner",
+        "hex_value": "#F1E305"
+      },
+      {
+        "display_name": "Black Sapphire (Catalyzed Spray Can Only)",
+        "paint_code": "919078",
+        "slug": "black-sapphire-catalyzed-spray-can-only-919078",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-sapphire-catalyzed-spray-can-only-919078/",
+        "source_label": "PaintScratch 2019 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Dandelion Yellow (Catalyzed Spray Can Only)",
+        "paint_code": "B9333EA",
+        "slug": "dandelion-yellow-catalyzed-spray-can-only-b9333ea",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/dandelion-yellow-catalyzed-spray-can-only-b9333ea/",
+        "source_label": "PaintScratch 2019 Freightliner",
+        "hex_value": "#EEF048"
+      },
+      {
+        "display_name": "Power Vac Yellow (Catalyzed Spray Can Only)",
+        "paint_code": "763324FB",
+        "slug": "power-vac-yellow-catalyzed-spray-can-only-763324fb",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/power-vac-yellow-catalyzed-spray-can-only-763324fb/",
+        "source_label": "PaintScratch 2019 Freightliner",
+        "hex_value": "#F1E305"
+      },
+      {
+        "display_name": "Midnight Black (Catalyzed Spray Can Only)",
+        "paint_code": "914054",
+        "slug": "midnight-black-catalyzed-spray-can-only-914054",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/midnight-black-catalyzed-spray-can-only-914054/",
+        "source_label": "PaintScratch 2019 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Ebony (Catalyzed Spray Can Only)",
+        "paint_code": "914056",
+        "slug": "ebony-catalyzed-spray-can-only-914056",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/ebony-catalyzed-spray-can-only-914056/",
+        "source_label": "PaintScratch 2019 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915367",
+        "slug": "black-catalyzed-spray-can-only-915367",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915367/",
+        "source_label": "PaintScratch 2019 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Jet Black (Catalyzed Spray Can Only)",
+        "paint_code": "915482",
+        "slug": "jet-black-catalyzed-spray-can-only-915482",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/jet-black-catalyzed-spray-can-only-915482/",
+        "source_label": "PaintScratch 2019 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915738",
+        "slug": "black-catalyzed-spray-can-only-915738",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915738/",
+        "source_label": "PaintScratch 2019 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915801",
+        "slug": "black-catalyzed-spray-can-only-915801",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915801/",
+        "source_label": "PaintScratch 2019 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915877",
+        "slug": "black-catalyzed-spray-can-only-915877",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915877/",
+        "source_label": "PaintScratch 2019 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915955",
+        "slug": "black-catalyzed-spray-can-only-915955",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915955/",
+        "source_label": "PaintScratch 2019 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "916128",
+        "slug": "black-catalyzed-spray-can-only-916128",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-916128/",
+        "source_label": "PaintScratch 2019 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Beige (Catalyzed Spray Can Only)",
+        "paint_code": "916273",
+        "slug": "beige-catalyzed-spray-can-only-916273",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/beige-catalyzed-spray-can-only-916273/",
+        "source_label": "PaintScratch 2019 Freightliner",
+        "hex_value": "#E1DBBD"
+      }
+    ],
+    "2020": [
+      {
+        "display_name": "White (Catalyzed Spray Can Only)",
+        "paint_code": "L0006EY",
+        "slug": "white-catalyzed-spray-can-only-l0006ey",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/white-catalyzed-spray-can-only-l0006ey/",
+        "source_label": "PaintScratch 2020 Freightliner",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "School Bus Yellow (Catalyzed Spray Can Only)",
+        "paint_code": "785683EA",
+        "slug": "school-bus-yellow-catalyzed-spray-can-only-785683ea",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/school-bus-yellow-catalyzed-spray-can-only-785683ea/",
+        "source_label": "PaintScratch 2020 Freightliner",
+        "hex_value": "#F1E305"
+      },
+      {
+        "display_name": "Black Sapphire (Catalyzed Spray Can Only)",
+        "paint_code": "919078",
+        "slug": "black-sapphire-catalyzed-spray-can-only-919078",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-sapphire-catalyzed-spray-can-only-919078/",
+        "source_label": "PaintScratch 2020 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Dandelion Yellow (Catalyzed Spray Can Only)",
+        "paint_code": "B9333EA",
+        "slug": "dandelion-yellow-catalyzed-spray-can-only-b9333ea",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/dandelion-yellow-catalyzed-spray-can-only-b9333ea/",
+        "source_label": "PaintScratch 2020 Freightliner",
+        "hex_value": "#EEF048"
+      },
+      {
+        "display_name": "Power Vac Yellow (Catalyzed Spray Can Only)",
+        "paint_code": "763324FB",
+        "slug": "power-vac-yellow-catalyzed-spray-can-only-763324fb",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/power-vac-yellow-catalyzed-spray-can-only-763324fb/",
+        "source_label": "PaintScratch 2020 Freightliner",
+        "hex_value": "#F1E305"
+      },
+      {
+        "display_name": "Midnight Black (Catalyzed Spray Can Only)",
+        "paint_code": "914054",
+        "slug": "midnight-black-catalyzed-spray-can-only-914054",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/midnight-black-catalyzed-spray-can-only-914054/",
+        "source_label": "PaintScratch 2020 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Ebony (Catalyzed Spray Can Only)",
+        "paint_code": "914056",
+        "slug": "ebony-catalyzed-spray-can-only-914056",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/ebony-catalyzed-spray-can-only-914056/",
+        "source_label": "PaintScratch 2020 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915367",
+        "slug": "black-catalyzed-spray-can-only-915367",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915367/",
+        "source_label": "PaintScratch 2020 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Jet Black (Catalyzed Spray Can Only)",
+        "paint_code": "915482",
+        "slug": "jet-black-catalyzed-spray-can-only-915482",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/jet-black-catalyzed-spray-can-only-915482/",
+        "source_label": "PaintScratch 2020 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915738",
+        "slug": "black-catalyzed-spray-can-only-915738",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915738/",
+        "source_label": "PaintScratch 2020 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915801",
+        "slug": "black-catalyzed-spray-can-only-915801",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915801/",
+        "source_label": "PaintScratch 2020 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915877",
+        "slug": "black-catalyzed-spray-can-only-915877",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915877/",
+        "source_label": "PaintScratch 2020 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915955",
+        "slug": "black-catalyzed-spray-can-only-915955",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915955/",
+        "source_label": "PaintScratch 2020 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "916128",
+        "slug": "black-catalyzed-spray-can-only-916128",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-916128/",
+        "source_label": "PaintScratch 2020 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Beige (Catalyzed Spray Can Only)",
+        "paint_code": "916273",
+        "slug": "beige-catalyzed-spray-can-only-916273",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/beige-catalyzed-spray-can-only-916273/",
+        "source_label": "PaintScratch 2020 Freightliner",
+        "hex_value": "#E1DBBD"
+      },
+      {
+        "display_name": "Beige (Catalyzed Spray Can Only)",
+        "paint_code": "917008",
+        "slug": "beige-catalyzed-spray-can-only-917008",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/beige-catalyzed-spray-can-only-917008/",
+        "source_label": "PaintScratch 2020 Freightliner",
+        "hex_value": "#E1DBBD"
+      }
+    ],
+    "2021": [
+      {
+        "display_name": "White (Catalyzed Spray Can Only)",
+        "paint_code": "L0006EY",
+        "slug": "white-catalyzed-spray-can-only-l0006ey",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/white-catalyzed-spray-can-only-l0006ey/",
+        "source_label": "PaintScratch 2021 Freightliner",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "School Bus Yellow (Catalyzed Spray Can Only)",
+        "paint_code": "785683EA",
+        "slug": "school-bus-yellow-catalyzed-spray-can-only-785683ea",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/school-bus-yellow-catalyzed-spray-can-only-785683ea/",
+        "source_label": "PaintScratch 2021 Freightliner",
+        "hex_value": "#F1E305"
+      },
+      {
+        "display_name": "Black Sapphire (Catalyzed Spray Can Only)",
+        "paint_code": "919078",
+        "slug": "black-sapphire-catalyzed-spray-can-only-919078",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-sapphire-catalyzed-spray-can-only-919078/",
+        "source_label": "PaintScratch 2021 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Dandelion Yellow (Catalyzed Spray Can Only)",
+        "paint_code": "B9333EA",
+        "slug": "dandelion-yellow-catalyzed-spray-can-only-b9333ea",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/dandelion-yellow-catalyzed-spray-can-only-b9333ea/",
+        "source_label": "PaintScratch 2021 Freightliner",
+        "hex_value": "#EEF048"
+      },
+      {
+        "display_name": "Power Vac Yellow (Catalyzed Spray Can Only)",
+        "paint_code": "763324FB",
+        "slug": "power-vac-yellow-catalyzed-spray-can-only-763324fb",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/power-vac-yellow-catalyzed-spray-can-only-763324fb/",
+        "source_label": "PaintScratch 2021 Freightliner",
+        "hex_value": "#F1E305"
+      },
+      {
+        "display_name": "Midnight Black (Catalyzed Spray Can Only)",
+        "paint_code": "914054",
+        "slug": "midnight-black-catalyzed-spray-can-only-914054",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/midnight-black-catalyzed-spray-can-only-914054/",
+        "source_label": "PaintScratch 2021 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Ebony (Catalyzed Spray Can Only)",
+        "paint_code": "914056",
+        "slug": "ebony-catalyzed-spray-can-only-914056",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/ebony-catalyzed-spray-can-only-914056/",
+        "source_label": "PaintScratch 2021 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915367",
+        "slug": "black-catalyzed-spray-can-only-915367",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915367/",
+        "source_label": "PaintScratch 2021 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Jet Black (Catalyzed Spray Can Only)",
+        "paint_code": "915482",
+        "slug": "jet-black-catalyzed-spray-can-only-915482",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/jet-black-catalyzed-spray-can-only-915482/",
+        "source_label": "PaintScratch 2021 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915738",
+        "slug": "black-catalyzed-spray-can-only-915738",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915738/",
+        "source_label": "PaintScratch 2021 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915801",
+        "slug": "black-catalyzed-spray-can-only-915801",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915801/",
+        "source_label": "PaintScratch 2021 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915877",
+        "slug": "black-catalyzed-spray-can-only-915877",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915877/",
+        "source_label": "PaintScratch 2021 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915955",
+        "slug": "black-catalyzed-spray-can-only-915955",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915955/",
+        "source_label": "PaintScratch 2021 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "916128",
+        "slug": "black-catalyzed-spray-can-only-916128",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-916128/",
+        "source_label": "PaintScratch 2021 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Beige (Catalyzed Spray Can Only)",
+        "paint_code": "916273",
+        "slug": "beige-catalyzed-spray-can-only-916273",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/beige-catalyzed-spray-can-only-916273/",
+        "source_label": "PaintScratch 2021 Freightliner",
+        "hex_value": "#E1DBBD"
+      },
+      {
+        "display_name": "Beige (Catalyzed Spray Can Only)",
+        "paint_code": "917008",
+        "slug": "beige-catalyzed-spray-can-only-917008",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/beige-catalyzed-spray-can-only-917008/",
+        "source_label": "PaintScratch 2021 Freightliner",
+        "hex_value": "#E1DBBD"
+      }
+    ],
+    "2022": [
+      {
+        "display_name": "White (Catalyzed Spray Can Only)",
+        "paint_code": "L0006EY",
+        "slug": "white-catalyzed-spray-can-only-l0006ey",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/white-catalyzed-spray-can-only-l0006ey/",
+        "source_label": "PaintScratch 2022 Freightliner",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "School Bus Yellow (Catalyzed Spray Can Only)",
+        "paint_code": "785683EA",
+        "slug": "school-bus-yellow-catalyzed-spray-can-only-785683ea",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/school-bus-yellow-catalyzed-spray-can-only-785683ea/",
+        "source_label": "PaintScratch 2022 Freightliner",
+        "hex_value": "#F1E305"
+      },
+      {
+        "display_name": "Black Sapphire (Catalyzed Spray Can Only)",
+        "paint_code": "919078",
+        "slug": "black-sapphire-catalyzed-spray-can-only-919078",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-sapphire-catalyzed-spray-can-only-919078/",
+        "source_label": "PaintScratch 2022 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Dandelion Yellow (Catalyzed Spray Can Only)",
+        "paint_code": "B9333EA",
+        "slug": "dandelion-yellow-catalyzed-spray-can-only-b9333ea",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/dandelion-yellow-catalyzed-spray-can-only-b9333ea/",
+        "source_label": "PaintScratch 2022 Freightliner",
+        "hex_value": "#EEF048"
+      },
+      {
+        "display_name": "White Elite (Catalyzed Spray Can Only)",
+        "paint_code": "L0303EY",
+        "slug": "white-elite-catalyzed-spray-can-only-l0303ey",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/white-elite-catalyzed-spray-can-only-l0303ey/",
+        "source_label": "PaintScratch 2022 Freightliner",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Medium Gray (Catalyzed Spray Can Only)",
+        "paint_code": "L0323EY",
+        "slug": "medium-gray-catalyzed-spray-can-only-l0323ey",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/medium-gray-catalyzed-spray-can-only-l0323ey/",
+        "source_label": "PaintScratch 2022 Freightliner",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Midnight Blue Elite (Catalyzed Spray Can Only)",
+        "paint_code": "L6495EY",
+        "slug": "midnight-blue-elite-catalyzed-spray-can-only-l6495ey",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/midnight-blue-elite-catalyzed-spray-can-only-l6495ey/",
+        "source_label": "PaintScratch 2022 Freightliner",
+        "hex_value": "#0D2D97"
+      },
+      {
+        "display_name": "Power Vac Yellow (Catalyzed Spray Can Only)",
+        "paint_code": "763324FB",
+        "slug": "power-vac-yellow-catalyzed-spray-can-only-763324fb",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/power-vac-yellow-catalyzed-spray-can-only-763324fb/",
+        "source_label": "PaintScratch 2022 Freightliner",
+        "hex_value": "#F1E305"
+      },
+      {
+        "display_name": "Vibrant Butterscotch (Catalyzed Spray Can Only)",
+        "paint_code": "767605EY",
+        "slug": "vibrant-butterscotch-catalyzed-spray-can-only-767605ey",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/vibrant-butterscotch-catalyzed-spray-can-only-767605ey/",
+        "source_label": "PaintScratch 2022 Freightliner",
+        "hex_value": "#FFA900"
+      },
+      {
+        "display_name": "Midnight Black (Catalyzed Spray Can Only)",
+        "paint_code": "914054",
+        "slug": "midnight-black-catalyzed-spray-can-only-914054",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/midnight-black-catalyzed-spray-can-only-914054/",
+        "source_label": "PaintScratch 2022 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Ebony (Catalyzed Spray Can Only)",
+        "paint_code": "914056",
+        "slug": "ebony-catalyzed-spray-can-only-914056",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/ebony-catalyzed-spray-can-only-914056/",
+        "source_label": "PaintScratch 2022 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915367",
+        "slug": "black-catalyzed-spray-can-only-915367",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915367/",
+        "source_label": "PaintScratch 2022 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Jet Black (Catalyzed Spray Can Only)",
+        "paint_code": "915482",
+        "slug": "jet-black-catalyzed-spray-can-only-915482",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/jet-black-catalyzed-spray-can-only-915482/",
+        "source_label": "PaintScratch 2022 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915738",
+        "slug": "black-catalyzed-spray-can-only-915738",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915738/",
+        "source_label": "PaintScratch 2022 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915801",
+        "slug": "black-catalyzed-spray-can-only-915801",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915801/",
+        "source_label": "PaintScratch 2022 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915877",
+        "slug": "black-catalyzed-spray-can-only-915877",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915877/",
+        "source_label": "PaintScratch 2022 Freightliner",
+        "hex_value": "#000000"
+      }
+    ],
+    "2023": [
+      {
+        "display_name": "School Bus Yellow (Catalyzed Spray Can Only)",
+        "paint_code": "785683EA",
+        "slug": "school-bus-yellow-catalyzed-spray-can-only-785683ea",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/school-bus-yellow-catalyzed-spray-can-only-785683ea/",
+        "source_label": "PaintScratch 2023 Freightliner",
+        "hex_value": "#F1E305"
+      },
+      {
+        "display_name": "Black Sapphire (Catalyzed Spray Can Only)",
+        "paint_code": "919078",
+        "slug": "black-sapphire-catalyzed-spray-can-only-919078",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-sapphire-catalyzed-spray-can-only-919078/",
+        "source_label": "PaintScratch 2023 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Medium Blue (Catalyzed Spray Can Only)",
+        "paint_code": "B9142EY",
+        "slug": "medium-blue-catalyzed-spray-can-only-b9142ey",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/medium-blue-catalyzed-spray-can-only-b9142ey/",
+        "source_label": "PaintScratch 2023 Freightliner",
+        "hex_value": "#0D2D97"
+      },
+      {
+        "display_name": "Dandelion Yellow (Catalyzed Spray Can Only)",
+        "paint_code": "B9333EA",
+        "slug": "dandelion-yellow-catalyzed-spray-can-only-b9333ea",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/dandelion-yellow-catalyzed-spray-can-only-b9333ea/",
+        "source_label": "PaintScratch 2023 Freightliner",
+        "hex_value": "#EEF048"
+      },
+      {
+        "display_name": "Power Vac Yellow (Catalyzed Spray Can Only)",
+        "paint_code": "763324FB",
+        "slug": "power-vac-yellow-catalyzed-spray-can-only-763324fb",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/power-vac-yellow-catalyzed-spray-can-only-763324fb/",
+        "source_label": "PaintScratch 2023 Freightliner",
+        "hex_value": "#F1E305"
+      },
+      {
+        "display_name": "Midnight Black (Catalyzed Spray Can Only)",
+        "paint_code": "914054",
+        "slug": "midnight-black-catalyzed-spray-can-only-914054",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/midnight-black-catalyzed-spray-can-only-914054/",
+        "source_label": "PaintScratch 2023 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Ebony (Catalyzed Spray Can Only)",
+        "paint_code": "914056",
+        "slug": "ebony-catalyzed-spray-can-only-914056",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/ebony-catalyzed-spray-can-only-914056/",
+        "source_label": "PaintScratch 2023 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915367",
+        "slug": "black-catalyzed-spray-can-only-915367",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915367/",
+        "source_label": "PaintScratch 2023 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Jet Black (Catalyzed Spray Can Only)",
+        "paint_code": "915482",
+        "slug": "jet-black-catalyzed-spray-can-only-915482",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/jet-black-catalyzed-spray-can-only-915482/",
+        "source_label": "PaintScratch 2023 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915738",
+        "slug": "black-catalyzed-spray-can-only-915738",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915738/",
+        "source_label": "PaintScratch 2023 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915801",
+        "slug": "black-catalyzed-spray-can-only-915801",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915801/",
+        "source_label": "PaintScratch 2023 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915877",
+        "slug": "black-catalyzed-spray-can-only-915877",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915877/",
+        "source_label": "PaintScratch 2023 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915955",
+        "slug": "black-catalyzed-spray-can-only-915955",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915955/",
+        "source_label": "PaintScratch 2023 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "916128",
+        "slug": "black-catalyzed-spray-can-only-916128",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-916128/",
+        "source_label": "PaintScratch 2023 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Beige (Catalyzed Spray Can Only)",
+        "paint_code": "916273",
+        "slug": "beige-catalyzed-spray-can-only-916273",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/beige-catalyzed-spray-can-only-916273/",
+        "source_label": "PaintScratch 2023 Freightliner",
+        "hex_value": "#E1DBBD"
+      },
+      {
+        "display_name": "Beige (Catalyzed Spray Can Only)",
+        "paint_code": "917008",
+        "slug": "beige-catalyzed-spray-can-only-917008",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/beige-catalyzed-spray-can-only-917008/",
+        "source_label": "PaintScratch 2023 Freightliner",
+        "hex_value": "#E1DBBD"
+      }
+    ],
+    "2024": [
+      {
+        "display_name": "School Bus Yellow (Catalyzed Spray Can Only)",
+        "paint_code": "785683EA",
+        "slug": "school-bus-yellow-catalyzed-spray-can-only-785683ea",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/school-bus-yellow-catalyzed-spray-can-only-785683ea/",
+        "source_label": "PaintScratch 2024 Freightliner",
+        "hex_value": "#F1E305"
+      },
+      {
+        "display_name": "Black Sapphire (Catalyzed Spray Can Only)",
+        "paint_code": "919078",
+        "slug": "black-sapphire-catalyzed-spray-can-only-919078",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-sapphire-catalyzed-spray-can-only-919078/",
+        "source_label": "PaintScratch 2024 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Dandelion Yellow (Catalyzed Spray Can Only)",
+        "paint_code": "B9333EA",
+        "slug": "dandelion-yellow-catalyzed-spray-can-only-b9333ea",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/dandelion-yellow-catalyzed-spray-can-only-b9333ea/",
+        "source_label": "PaintScratch 2024 Freightliner",
+        "hex_value": "#EEF048"
+      },
+      {
+        "display_name": "Yellow (Catalyzed Spray Can Only)",
+        "paint_code": "L0126EY",
+        "slug": "yellow-catalyzed-spray-can-only-l0126ey",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/yellow-catalyzed-spray-can-only-l0126ey/",
+        "source_label": "PaintScratch 2024 Freightliner",
+        "hex_value": "#FFDE01"
+      },
+      {
+        "display_name": "Power Vac Yellow (Catalyzed Spray Can Only)",
+        "paint_code": "763324FB",
+        "slug": "power-vac-yellow-catalyzed-spray-can-only-763324fb",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/power-vac-yellow-catalyzed-spray-can-only-763324fb/",
+        "source_label": "PaintScratch 2024 Freightliner",
+        "hex_value": "#F1E305"
+      },
+      {
+        "display_name": "Midnight Black (Catalyzed Spray Can Only)",
+        "paint_code": "914054",
+        "slug": "midnight-black-catalyzed-spray-can-only-914054",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/midnight-black-catalyzed-spray-can-only-914054/",
+        "source_label": "PaintScratch 2024 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Ebony (Catalyzed Spray Can Only)",
+        "paint_code": "914056",
+        "slug": "ebony-catalyzed-spray-can-only-914056",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/ebony-catalyzed-spray-can-only-914056/",
+        "source_label": "PaintScratch 2024 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915367",
+        "slug": "black-catalyzed-spray-can-only-915367",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915367/",
+        "source_label": "PaintScratch 2024 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Jet Black (Catalyzed Spray Can Only)",
+        "paint_code": "915482",
+        "slug": "jet-black-catalyzed-spray-can-only-915482",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/jet-black-catalyzed-spray-can-only-915482/",
+        "source_label": "PaintScratch 2024 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915738",
+        "slug": "black-catalyzed-spray-can-only-915738",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915738/",
+        "source_label": "PaintScratch 2024 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915801",
+        "slug": "black-catalyzed-spray-can-only-915801",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915801/",
+        "source_label": "PaintScratch 2024 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915877",
+        "slug": "black-catalyzed-spray-can-only-915877",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915877/",
+        "source_label": "PaintScratch 2024 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915955",
+        "slug": "black-catalyzed-spray-can-only-915955",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915955/",
+        "source_label": "PaintScratch 2024 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "916128",
+        "slug": "black-catalyzed-spray-can-only-916128",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-916128/",
+        "source_label": "PaintScratch 2024 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Beige (Catalyzed Spray Can Only)",
+        "paint_code": "916273",
+        "slug": "beige-catalyzed-spray-can-only-916273",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/beige-catalyzed-spray-can-only-916273/",
+        "source_label": "PaintScratch 2024 Freightliner",
+        "hex_value": "#E1DBBD"
+      },
+      {
+        "display_name": "Beige (Catalyzed Spray Can Only)",
+        "paint_code": "917008",
+        "slug": "beige-catalyzed-spray-can-only-917008",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/beige-catalyzed-spray-can-only-917008/",
+        "source_label": "PaintScratch 2024 Freightliner",
+        "hex_value": "#E1DBBD"
+      }
+    ],
+    "2025": [
+      {
+        "display_name": "School Bus Yellow (Catalyzed Spray Can Only)",
+        "paint_code": "785683EA",
+        "slug": "school-bus-yellow-catalyzed-spray-can-only-785683ea",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/school-bus-yellow-catalyzed-spray-can-only-785683ea/",
+        "source_label": "PaintScratch 2025 Freightliner",
+        "hex_value": "#F1E305"
+      },
+      {
+        "display_name": "Black Sapphire (Catalyzed Spray Can Only)",
+        "paint_code": "919078",
+        "slug": "black-sapphire-catalyzed-spray-can-only-919078",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-sapphire-catalyzed-spray-can-only-919078/",
+        "source_label": "PaintScratch 2025 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Dandelion Yellow (Catalyzed Spray Can Only)",
+        "paint_code": "B9333EA",
+        "slug": "dandelion-yellow-catalyzed-spray-can-only-b9333ea",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/dandelion-yellow-catalyzed-spray-can-only-b9333ea/",
+        "source_label": "PaintScratch 2025 Freightliner",
+        "hex_value": "#EEF048"
+      },
+      {
+        "display_name": "Power Vac Yellow (Catalyzed Spray Can Only)",
+        "paint_code": "763324FB",
+        "slug": "power-vac-yellow-catalyzed-spray-can-only-763324fb",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/power-vac-yellow-catalyzed-spray-can-only-763324fb/",
+        "source_label": "PaintScratch 2025 Freightliner",
+        "hex_value": "#F1E305"
+      },
+      {
+        "display_name": "Midnight Black (Catalyzed Spray Can Only)",
+        "paint_code": "914054",
+        "slug": "midnight-black-catalyzed-spray-can-only-914054",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/midnight-black-catalyzed-spray-can-only-914054/",
+        "source_label": "PaintScratch 2025 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Ebony (Catalyzed Spray Can Only)",
+        "paint_code": "914056",
+        "slug": "ebony-catalyzed-spray-can-only-914056",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/ebony-catalyzed-spray-can-only-914056/",
+        "source_label": "PaintScratch 2025 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915367",
+        "slug": "black-catalyzed-spray-can-only-915367",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915367/",
+        "source_label": "PaintScratch 2025 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Jet Black (Catalyzed Spray Can Only)",
+        "paint_code": "915482",
+        "slug": "jet-black-catalyzed-spray-can-only-915482",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/jet-black-catalyzed-spray-can-only-915482/",
+        "source_label": "PaintScratch 2025 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915738",
+        "slug": "black-catalyzed-spray-can-only-915738",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915738/",
+        "source_label": "PaintScratch 2025 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915801",
+        "slug": "black-catalyzed-spray-can-only-915801",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915801/",
+        "source_label": "PaintScratch 2025 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915877",
+        "slug": "black-catalyzed-spray-can-only-915877",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915877/",
+        "source_label": "PaintScratch 2025 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915955",
+        "slug": "black-catalyzed-spray-can-only-915955",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915955/",
+        "source_label": "PaintScratch 2025 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "916128",
+        "slug": "black-catalyzed-spray-can-only-916128",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-916128/",
+        "source_label": "PaintScratch 2025 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Beige (Catalyzed Spray Can Only)",
+        "paint_code": "916273",
+        "slug": "beige-catalyzed-spray-can-only-916273",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/beige-catalyzed-spray-can-only-916273/",
+        "source_label": "PaintScratch 2025 Freightliner",
+        "hex_value": "#E1DBBD"
+      },
+      {
+        "display_name": "Beige (Catalyzed Spray Can Only)",
+        "paint_code": "917008",
+        "slug": "beige-catalyzed-spray-can-only-917008",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/beige-catalyzed-spray-can-only-917008/",
+        "source_label": "PaintScratch 2025 Freightliner",
+        "hex_value": "#E1DBBD"
+      },
+      {
+        "display_name": "Black Cherry (Catalyzed Spray Can Only)",
+        "paint_code": "917224",
+        "slug": "black-cherry-catalyzed-spray-can-only-917224",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-cherry-catalyzed-spray-can-only-917224/",
+        "source_label": "PaintScratch 2025 Freightliner",
+        "hex_value": "#000000"
+      }
+    ],
+    "2026": [
+      {
+        "display_name": "School Bus Yellow (Catalyzed Spray Can Only)",
+        "paint_code": "785683EA",
+        "slug": "school-bus-yellow-catalyzed-spray-can-only-785683ea",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/school-bus-yellow-catalyzed-spray-can-only-785683ea/",
+        "source_label": "PaintScratch 2026 Freightliner",
+        "hex_value": "#F1E305"
+      },
+      {
+        "display_name": "Black Sapphire (Catalyzed Spray Can Only)",
+        "paint_code": "919078",
+        "slug": "black-sapphire-catalyzed-spray-can-only-919078",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-sapphire-catalyzed-spray-can-only-919078/",
+        "source_label": "PaintScratch 2026 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Dandelion Yellow (Catalyzed Spray Can Only)",
+        "paint_code": "B9333EA",
+        "slug": "dandelion-yellow-catalyzed-spray-can-only-b9333ea",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/dandelion-yellow-catalyzed-spray-can-only-b9333ea/",
+        "source_label": "PaintScratch 2026 Freightliner",
+        "hex_value": "#EEF048"
+      },
+      {
+        "display_name": "Power Vac Yellow (Catalyzed Spray Can Only)",
+        "paint_code": "763324FB",
+        "slug": "power-vac-yellow-catalyzed-spray-can-only-763324fb",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/power-vac-yellow-catalyzed-spray-can-only-763324fb/",
+        "source_label": "PaintScratch 2026 Freightliner",
+        "hex_value": "#F1E305"
+      },
+      {
+        "display_name": "Midnight Black (Catalyzed Spray Can Only)",
+        "paint_code": "914054",
+        "slug": "midnight-black-catalyzed-spray-can-only-914054",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/midnight-black-catalyzed-spray-can-only-914054/",
+        "source_label": "PaintScratch 2026 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Ebony (Catalyzed Spray Can Only)",
+        "paint_code": "914056",
+        "slug": "ebony-catalyzed-spray-can-only-914056",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/ebony-catalyzed-spray-can-only-914056/",
+        "source_label": "PaintScratch 2026 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915367",
+        "slug": "black-catalyzed-spray-can-only-915367",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915367/",
+        "source_label": "PaintScratch 2026 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Jet Black (Catalyzed Spray Can Only)",
+        "paint_code": "915482",
+        "slug": "jet-black-catalyzed-spray-can-only-915482",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/jet-black-catalyzed-spray-can-only-915482/",
+        "source_label": "PaintScratch 2026 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915738",
+        "slug": "black-catalyzed-spray-can-only-915738",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915738/",
+        "source_label": "PaintScratch 2026 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915801",
+        "slug": "black-catalyzed-spray-can-only-915801",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915801/",
+        "source_label": "PaintScratch 2026 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915877",
+        "slug": "black-catalyzed-spray-can-only-915877",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915877/",
+        "source_label": "PaintScratch 2026 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915955",
+        "slug": "black-catalyzed-spray-can-only-915955",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915955/",
+        "source_label": "PaintScratch 2026 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "916128",
+        "slug": "black-catalyzed-spray-can-only-916128",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-916128/",
+        "source_label": "PaintScratch 2026 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Beige (Catalyzed Spray Can Only)",
+        "paint_code": "916273",
+        "slug": "beige-catalyzed-spray-can-only-916273",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/beige-catalyzed-spray-can-only-916273/",
+        "source_label": "PaintScratch 2026 Freightliner",
+        "hex_value": "#E1DBBD"
+      },
+      {
+        "display_name": "Beige (Catalyzed Spray Can Only)",
+        "paint_code": "917008",
+        "slug": "beige-catalyzed-spray-can-only-917008",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/beige-catalyzed-spray-can-only-917008/",
+        "source_label": "PaintScratch 2026 Freightliner",
+        "hex_value": "#E1DBBD"
+      },
+      {
+        "display_name": "Black Cherry (Catalyzed Spray Can Only)",
+        "paint_code": "917224",
+        "slug": "black-cherry-catalyzed-spray-can-only-917224",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-cherry-catalyzed-spray-can-only-917224/",
+        "source_label": "PaintScratch 2026 Freightliner",
+        "hex_value": "#000000"
+      }
+    ],
+    "2027": [
+      {
+        "display_name": "School Bus Yellow (Catalyzed Spray Can Only)",
+        "paint_code": "785683EA",
+        "slug": "school-bus-yellow-catalyzed-spray-can-only-785683ea",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/school-bus-yellow-catalyzed-spray-can-only-785683ea/",
+        "source_label": "PaintScratch 2027 Freightliner",
+        "hex_value": "#F1E305"
+      },
+      {
+        "display_name": "Black Sapphire (Catalyzed Spray Can Only)",
+        "paint_code": "919078",
+        "slug": "black-sapphire-catalyzed-spray-can-only-919078",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-sapphire-catalyzed-spray-can-only-919078/",
+        "source_label": "PaintScratch 2027 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Dandelion Yellow (Catalyzed Spray Can Only)",
+        "paint_code": "B9333EA",
+        "slug": "dandelion-yellow-catalyzed-spray-can-only-b9333ea",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/dandelion-yellow-catalyzed-spray-can-only-b9333ea/",
+        "source_label": "PaintScratch 2027 Freightliner",
+        "hex_value": "#EEF048"
+      },
+      {
+        "display_name": "Power Vac Yellow (Catalyzed Spray Can Only)",
+        "paint_code": "763324FB",
+        "slug": "power-vac-yellow-catalyzed-spray-can-only-763324fb",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/power-vac-yellow-catalyzed-spray-can-only-763324fb/",
+        "source_label": "PaintScratch 2027 Freightliner",
+        "hex_value": "#F1E305"
+      },
+      {
+        "display_name": "Midnight Black (Catalyzed Spray Can Only)",
+        "paint_code": "914054",
+        "slug": "midnight-black-catalyzed-spray-can-only-914054",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/midnight-black-catalyzed-spray-can-only-914054/",
+        "source_label": "PaintScratch 2027 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Ebony (Catalyzed Spray Can Only)",
+        "paint_code": "914056",
+        "slug": "ebony-catalyzed-spray-can-only-914056",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/ebony-catalyzed-spray-can-only-914056/",
+        "source_label": "PaintScratch 2027 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915367",
+        "slug": "black-catalyzed-spray-can-only-915367",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915367/",
+        "source_label": "PaintScratch 2027 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Jet Black (Catalyzed Spray Can Only)",
+        "paint_code": "915482",
+        "slug": "jet-black-catalyzed-spray-can-only-915482",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/jet-black-catalyzed-spray-can-only-915482/",
+        "source_label": "PaintScratch 2027 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915738",
+        "slug": "black-catalyzed-spray-can-only-915738",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915738/",
+        "source_label": "PaintScratch 2027 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915801",
+        "slug": "black-catalyzed-spray-can-only-915801",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915801/",
+        "source_label": "PaintScratch 2027 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915877",
+        "slug": "black-catalyzed-spray-can-only-915877",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915877/",
+        "source_label": "PaintScratch 2027 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "915955",
+        "slug": "black-catalyzed-spray-can-only-915955",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-915955/",
+        "source_label": "PaintScratch 2027 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "916128",
+        "slug": "black-catalyzed-spray-can-only-916128",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-catalyzed-spray-can-only-916128/",
+        "source_label": "PaintScratch 2027 Freightliner",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Beige (Catalyzed Spray Can Only)",
+        "paint_code": "916273",
+        "slug": "beige-catalyzed-spray-can-only-916273",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/beige-catalyzed-spray-can-only-916273/",
+        "source_label": "PaintScratch 2027 Freightliner",
+        "hex_value": "#E1DBBD"
+      },
+      {
+        "display_name": "Beige (Catalyzed Spray Can Only)",
+        "paint_code": "917008",
+        "slug": "beige-catalyzed-spray-can-only-917008",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/beige-catalyzed-spray-can-only-917008/",
+        "source_label": "PaintScratch 2027 Freightliner",
+        "hex_value": "#E1DBBD"
+      },
+      {
+        "display_name": "Black Cherry (Catalyzed Spray Can Only)",
+        "paint_code": "917224",
+        "slug": "black-cherry-catalyzed-spray-can-only-917224",
+        "reference_url": "https://www.paintscratch.com/colors/freightliner/black-cherry-catalyzed-spray-can-only-917224/",
+        "source_label": "PaintScratch 2027 Freightliner",
+        "hex_value": "#000000"
+      }
+    ]
+  }
+}

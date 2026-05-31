@@ -1,0 +1,1906 @@
+{
+  "All Models": {
+    "1998": [
+      {
+        "display_name": "Smoke Metallic (745474K)",
+        "paint_code": "49625",
+        "slug": "smoke-metallic-745474k-49625",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/smoke-metallic-745474k-49625/",
+        "source_label": "PaintScratch 1998 American-Coach",
+        "hex_value": "#3C2E2E"
+      },
+      {
+        "display_name": "Elegant Beige (G9574K)",
+        "paint_code": "51477",
+        "slug": "elegant-beige-g9574k-51477",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/elegant-beige-g9574k-51477/",
+        "source_label": "PaintScratch 1998 American-Coach",
+        "hex_value": "#E8DEB6"
+      },
+      {
+        "display_name": "Cashmere Beige (G9562K)",
+        "paint_code": "54671",
+        "slug": "cashmere-beige-g9562k-54671",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/cashmere-beige-g9562k-54671/",
+        "source_label": "PaintScratch 1998 American-Coach",
+        "hex_value": "#D8CC9A"
+      },
+      {
+        "display_name": "Odsidian Black Metallic (745478K)",
+        "paint_code": "56680",
+        "slug": "odsidian-black-metallic-745478k-56680",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/odsidian-black-metallic-745478k-56680/",
+        "source_label": "PaintScratch 1998 American-Coach",
+        "hex_value": "#141212"
+      },
+      {
+        "display_name": "Parchment Gold (748536K)",
+        "paint_code": "57338",
+        "slug": "parchment-gold-748536k-57338",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/parchment-gold-748536k-57338/",
+        "source_label": "PaintScratch 1998 American-Coach",
+        "hex_value": "#E6C170"
+      },
+      {
+        "display_name": "Grey Bronze Metallic (745502K)",
+        "paint_code": "57451",
+        "slug": "grey-bronze-metallic-745502k-57451",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/grey-bronze-metallic-745502k-57451/",
+        "source_label": "PaintScratch 1998 American-Coach",
+        "hex_value": "#816C3F"
+      },
+      {
+        "display_name": "Med.Fern (748531K)",
+        "paint_code": "54682",
+        "slug": "medfern-748531k-54682",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/medfern-748531k-54682/",
+        "source_label": "PaintScratch 1998 American-Coach",
+        "hex_value": "#177F3C"
+      },
+      {
+        "display_name": "Bright Silver Metallic (745479K)",
+        "paint_code": "58829",
+        "slug": "bright-silver-metallic-745479k-58829",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/bright-silver-metallic-745479k-58829/",
+        "source_label": "PaintScratch 1998 American-Coach",
+        "hex_value": "#F5F2ED"
+      }
+    ],
+    "1999": [
+      {
+        "display_name": "Smoke Metallic (745474K)",
+        "paint_code": "49625",
+        "slug": "smoke-metallic-745474k-49625",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/smoke-metallic-745474k-49625/",
+        "source_label": "PaintScratch 1999 American-Coach",
+        "hex_value": "#3C2E2E"
+      },
+      {
+        "display_name": "Elegant Beige (G9574K)",
+        "paint_code": "51477",
+        "slug": "elegant-beige-g9574k-51477",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/elegant-beige-g9574k-51477/",
+        "source_label": "PaintScratch 1999 American-Coach",
+        "hex_value": "#E8DEB6"
+      },
+      {
+        "display_name": "Cashmere Beige (G9562K)",
+        "paint_code": "54671",
+        "slug": "cashmere-beige-g9562k-54671",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/cashmere-beige-g9562k-54671/",
+        "source_label": "PaintScratch 1999 American-Coach",
+        "hex_value": "#D8CC9A"
+      },
+      {
+        "display_name": "Odsidian Black Metallic (745478K)",
+        "paint_code": "56680",
+        "slug": "odsidian-black-metallic-745478k-56680",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/odsidian-black-metallic-745478k-56680/",
+        "source_label": "PaintScratch 1999 American-Coach",
+        "hex_value": "#141212"
+      },
+      {
+        "display_name": "Parchment Gold (748536K)",
+        "paint_code": "57338",
+        "slug": "parchment-gold-748536k-57338",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/parchment-gold-748536k-57338/",
+        "source_label": "PaintScratch 1999 American-Coach",
+        "hex_value": "#E6C170"
+      },
+      {
+        "display_name": "Grey Bronze Metallic (745502K)",
+        "paint_code": "57451",
+        "slug": "grey-bronze-metallic-745502k-57451",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/grey-bronze-metallic-745502k-57451/",
+        "source_label": "PaintScratch 1999 American-Coach",
+        "hex_value": "#816C3F"
+      },
+      {
+        "display_name": "Med.Fern (748531K)",
+        "paint_code": "54682",
+        "slug": "medfern-748531k-54682",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/medfern-748531k-54682/",
+        "source_label": "PaintScratch 1999 American-Coach",
+        "hex_value": "#177F3C"
+      },
+      {
+        "display_name": "Light Chestnut Metallic(748556k)",
+        "paint_code": "58732",
+        "slug": "light-chestnut-metallic748556k-58732",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/light-chestnut-metallic748556k-58732/",
+        "source_label": "PaintScratch 1999 American-Coach",
+        "hex_value": "#E9D9A1"
+      },
+      {
+        "display_name": "Bright Silver Metallic (745479K)",
+        "paint_code": "58829",
+        "slug": "bright-silver-metallic-745479k-58829",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/bright-silver-metallic-745479k-58829/",
+        "source_label": "PaintScratch 1999 American-Coach",
+        "hex_value": "#F5F2ED"
+      }
+    ],
+    "2000": [
+      {
+        "display_name": "Smoke Metallic (745474K)",
+        "paint_code": "49625",
+        "slug": "smoke-metallic-745474k-49625",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/smoke-metallic-745474k-49625/",
+        "source_label": "PaintScratch 2000 American-Coach",
+        "hex_value": "#3C2E2E"
+      },
+      {
+        "display_name": "Elegant Beige (G9574K)",
+        "paint_code": "51477",
+        "slug": "elegant-beige-g9574k-51477",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/elegant-beige-g9574k-51477/",
+        "source_label": "PaintScratch 2000 American-Coach",
+        "hex_value": "#E8DEB6"
+      },
+      {
+        "display_name": "Cashmere Beige (G9562K)",
+        "paint_code": "54671",
+        "slug": "cashmere-beige-g9562k-54671",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/cashmere-beige-g9562k-54671/",
+        "source_label": "PaintScratch 2000 American-Coach",
+        "hex_value": "#D8CC9A"
+      },
+      {
+        "display_name": "Odsidian Black Metallic (745478K)",
+        "paint_code": "56680",
+        "slug": "odsidian-black-metallic-745478k-56680",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/odsidian-black-metallic-745478k-56680/",
+        "source_label": "PaintScratch 2000 American-Coach",
+        "hex_value": "#141212"
+      },
+      {
+        "display_name": "Parchment Gold (748536K)",
+        "paint_code": "57338",
+        "slug": "parchment-gold-748536k-57338",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/parchment-gold-748536k-57338/",
+        "source_label": "PaintScratch 2000 American-Coach",
+        "hex_value": "#E6C170"
+      },
+      {
+        "display_name": "Grey Bronze Metallic (745502K)",
+        "paint_code": "57451",
+        "slug": "grey-bronze-metallic-745502k-57451",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/grey-bronze-metallic-745502k-57451/",
+        "source_label": "PaintScratch 2000 American-Coach",
+        "hex_value": "#816C3F"
+      },
+      {
+        "display_name": "Medium Mocha Metallic",
+        "paint_code": "54661",
+        "slug": "medium-mocha-metallic-54661",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/medium-mocha-metallic-54661/",
+        "source_label": "PaintScratch 2000 American-Coach",
+        "hex_value": "#B27B3A"
+      },
+      {
+        "display_name": "Med.Fern (748531K)",
+        "paint_code": "54682",
+        "slug": "medfern-748531k-54682",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/medfern-748531k-54682/",
+        "source_label": "PaintScratch 2000 American-Coach",
+        "hex_value": "#177F3C"
+      },
+      {
+        "display_name": "Bright Silver Metallic (745479K)",
+        "paint_code": "58829",
+        "slug": "bright-silver-metallic-745479k-58829",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/bright-silver-metallic-745479k-58829/",
+        "source_label": "PaintScratch 2000 American-Coach",
+        "hex_value": "#F5F2ED"
+      },
+      {
+        "display_name": "Mocha Metallic",
+        "paint_code": "CV54659R-G",
+        "slug": "mocha-metallic-cv54659r-g",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/mocha-metallic-cv54659r-g/",
+        "source_label": "PaintScratch 2000 American-Coach",
+        "hex_value": "#C8A04A"
+      },
+      {
+        "display_name": "Lt. Mocha Metallic",
+        "paint_code": "CV54660R-G",
+        "slug": "lt-mocha-metallic-cv54660r-g",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/lt-mocha-metallic-cv54660r-g/",
+        "source_label": "PaintScratch 2000 American-Coach",
+        "hex_value": "#DFBF7B"
+      },
+      {
+        "display_name": "Mocha Metallic",
+        "paint_code": "U7-54659",
+        "slug": "mocha-metallic-u7-54659",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/mocha-metallic-u7-54659/",
+        "source_label": "PaintScratch 2000 American-Coach",
+        "hex_value": "#C57E3F"
+      },
+      {
+        "display_name": "Gray-748544K",
+        "paint_code": "U7-54674-E",
+        "slug": "gray-748544k-u7-54674-e",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/gray-748544k-u7-54674-e/",
+        "source_label": "PaintScratch 2000 American-Coach",
+        "hex_value": "#C0C0C0"
+      }
+    ],
+    "2001": [
+      {
+        "display_name": "Smoke Metallic (745474K)",
+        "paint_code": "49625",
+        "slug": "smoke-metallic-745474k-49625",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/smoke-metallic-745474k-49625/",
+        "source_label": "PaintScratch 2001 American-Coach",
+        "hex_value": "#3C2E2E"
+      },
+      {
+        "display_name": "Elegant Beige (G9574K)",
+        "paint_code": "51477",
+        "slug": "elegant-beige-g9574k-51477",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/elegant-beige-g9574k-51477/",
+        "source_label": "PaintScratch 2001 American-Coach",
+        "hex_value": "#E8DEB6"
+      },
+      {
+        "display_name": "Cashmere Beige (G9562K)",
+        "paint_code": "54671",
+        "slug": "cashmere-beige-g9562k-54671",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/cashmere-beige-g9562k-54671/",
+        "source_label": "PaintScratch 2001 American-Coach",
+        "hex_value": "#D8CC9A"
+      },
+      {
+        "display_name": "Odsidian Black Metallic (745478K)",
+        "paint_code": "56680",
+        "slug": "odsidian-black-metallic-745478k-56680",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/odsidian-black-metallic-745478k-56680/",
+        "source_label": "PaintScratch 2001 American-Coach",
+        "hex_value": "#141212"
+      },
+      {
+        "display_name": "Parchment Gold (748536K)",
+        "paint_code": "57338",
+        "slug": "parchment-gold-748536k-57338",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/parchment-gold-748536k-57338/",
+        "source_label": "PaintScratch 2001 American-Coach",
+        "hex_value": "#E6C170"
+      },
+      {
+        "display_name": "Grey Bronze Metallic (745502K)",
+        "paint_code": "57451",
+        "slug": "grey-bronze-metallic-745502k-57451",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/grey-bronze-metallic-745502k-57451/",
+        "source_label": "PaintScratch 2001 American-Coach",
+        "hex_value": "#816C3F"
+      },
+      {
+        "display_name": "Medium Mocha Metallic",
+        "paint_code": "54661",
+        "slug": "medium-mocha-metallic-54661",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/medium-mocha-metallic-54661/",
+        "source_label": "PaintScratch 2001 American-Coach",
+        "hex_value": "#B27B3A"
+      },
+      {
+        "display_name": "Med.Fern (748531K)",
+        "paint_code": "54682",
+        "slug": "medfern-748531k-54682",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/medfern-748531k-54682/",
+        "source_label": "PaintScratch 2001 American-Coach",
+        "hex_value": "#177F3C"
+      },
+      {
+        "display_name": "Bright Silver Metallic (745479K)",
+        "paint_code": "58829",
+        "slug": "bright-silver-metallic-745479k-58829",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/bright-silver-metallic-745479k-58829/",
+        "source_label": "PaintScratch 2001 American-Coach",
+        "hex_value": "#F5F2ED"
+      },
+      {
+        "display_name": "Solid Black",
+        "paint_code": "U7-54649E",
+        "slug": "solid-black-u7-54649e",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/solid-black-u7-54649e/",
+        "source_label": "PaintScratch 2001 American-Coach",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Lite Mocha Metalic",
+        "paint_code": "U7-54660Y",
+        "slug": "lite-mocha-metalic-u7-54660y",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/lite-mocha-metalic-u7-54660y/",
+        "source_label": "PaintScratch 2001 American-Coach",
+        "hex_value": "#D1A341"
+      },
+      {
+        "display_name": "Sport Gold",
+        "paint_code": "U7-58738",
+        "slug": "sport-gold-u7-58738",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/sport-gold-u7-58738/",
+        "source_label": "PaintScratch 2001 American-Coach",
+        "hex_value": "#E3BD25"
+      }
+    ],
+    "2002": [
+      {
+        "display_name": "Smoke Metallic (745474K)",
+        "paint_code": "49625",
+        "slug": "smoke-metallic-745474k-49625",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/smoke-metallic-745474k-49625/",
+        "source_label": "PaintScratch 2002 American-Coach",
+        "hex_value": "#3C2E2E"
+      },
+      {
+        "display_name": "Elegant Beige (G9574K)",
+        "paint_code": "51477",
+        "slug": "elegant-beige-g9574k-51477",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/elegant-beige-g9574k-51477/",
+        "source_label": "PaintScratch 2002 American-Coach",
+        "hex_value": "#E8DEB6"
+      },
+      {
+        "display_name": "Cashmere Beige (G9562K)",
+        "paint_code": "54671",
+        "slug": "cashmere-beige-g9562k-54671",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/cashmere-beige-g9562k-54671/",
+        "source_label": "PaintScratch 2002 American-Coach",
+        "hex_value": "#D8CC9A"
+      },
+      {
+        "display_name": "Odsidian Black Metallic (745478K)",
+        "paint_code": "56680",
+        "slug": "odsidian-black-metallic-745478k-56680",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/odsidian-black-metallic-745478k-56680/",
+        "source_label": "PaintScratch 2002 American-Coach",
+        "hex_value": "#141212"
+      },
+      {
+        "display_name": "Parchment Gold (748536K)",
+        "paint_code": "57338",
+        "slug": "parchment-gold-748536k-57338",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/parchment-gold-748536k-57338/",
+        "source_label": "PaintScratch 2002 American-Coach",
+        "hex_value": "#E6C170"
+      },
+      {
+        "display_name": "Grey Bronze Metallic (745502K)",
+        "paint_code": "57451",
+        "slug": "grey-bronze-metallic-745502k-57451",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/grey-bronze-metallic-745502k-57451/",
+        "source_label": "PaintScratch 2002 American-Coach",
+        "hex_value": "#816C3F"
+      },
+      {
+        "display_name": "Med.Fern (748531K)",
+        "paint_code": "54682",
+        "slug": "medfern-748531k-54682",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/medfern-748531k-54682/",
+        "source_label": "PaintScratch 2002 American-Coach",
+        "hex_value": "#177F3C"
+      },
+      {
+        "display_name": "Bright Silver Metallic (745479K)",
+        "paint_code": "58829",
+        "slug": "bright-silver-metallic-745479k-58829",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/bright-silver-metallic-745479k-58829/",
+        "source_label": "PaintScratch 2002 American-Coach",
+        "hex_value": "#F5F2ED"
+      }
+    ],
+    "2003": [
+      {
+        "display_name": "Smoke Metallic (745474K)",
+        "paint_code": "49625",
+        "slug": "smoke-metallic-745474k-49625",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/smoke-metallic-745474k-49625/",
+        "source_label": "PaintScratch 2003 American-Coach",
+        "hex_value": "#3C2E2E"
+      },
+      {
+        "display_name": "Elegant Beige (G9574K)",
+        "paint_code": "51477",
+        "slug": "elegant-beige-g9574k-51477",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/elegant-beige-g9574k-51477/",
+        "source_label": "PaintScratch 2003 American-Coach",
+        "hex_value": "#E8DEB6"
+      },
+      {
+        "display_name": "Cashmere Beige (G9562K)",
+        "paint_code": "54671",
+        "slug": "cashmere-beige-g9562k-54671",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/cashmere-beige-g9562k-54671/",
+        "source_label": "PaintScratch 2003 American-Coach",
+        "hex_value": "#D8CC9A"
+      },
+      {
+        "display_name": "Odsidian Black Metallic (745478K)",
+        "paint_code": "56680",
+        "slug": "odsidian-black-metallic-745478k-56680",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/odsidian-black-metallic-745478k-56680/",
+        "source_label": "PaintScratch 2003 American-Coach",
+        "hex_value": "#141212"
+      },
+      {
+        "display_name": "Parchment Gold (748536K)",
+        "paint_code": "57338",
+        "slug": "parchment-gold-748536k-57338",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/parchment-gold-748536k-57338/",
+        "source_label": "PaintScratch 2003 American-Coach",
+        "hex_value": "#E6C170"
+      },
+      {
+        "display_name": "Grey Bronze Metallic (745502K)",
+        "paint_code": "57451",
+        "slug": "grey-bronze-metallic-745502k-57451",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/grey-bronze-metallic-745502k-57451/",
+        "source_label": "PaintScratch 2003 American-Coach",
+        "hex_value": "#816C3F"
+      },
+      {
+        "display_name": "Westminster Blue Metallic",
+        "paint_code": "CV-60543",
+        "slug": "westminster-blue-metallic-cv-60543",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/westminster-blue-metallic-cv-60543/",
+        "source_label": "PaintScratch 2003 American-Coach",
+        "hex_value": "#0D2D97"
+      },
+      {
+        "display_name": "Light Brown",
+        "paint_code": "CV56098G",
+        "slug": "light-brown-cv56098g",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/light-brown-cv56098g/",
+        "source_label": "PaintScratch 2003 American-Coach",
+        "hex_value": "#D1A341"
+      },
+      {
+        "display_name": "Obsidian Black Metallic",
+        "paint_code": "CV56680",
+        "slug": "obsidian-black-metallic-cv56680",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/obsidian-black-metallic-cv56680/",
+        "source_label": "PaintScratch 2003 American-Coach",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Medium Mocha Metallic",
+        "paint_code": "54661",
+        "slug": "medium-mocha-metallic-54661",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/medium-mocha-metallic-54661/",
+        "source_label": "PaintScratch 2003 American-Coach",
+        "hex_value": "#B27B3A"
+      },
+      {
+        "display_name": "Med.Fern (748531K)",
+        "paint_code": "54682",
+        "slug": "medfern-748531k-54682",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/medfern-748531k-54682/",
+        "source_label": "PaintScratch 2003 American-Coach",
+        "hex_value": "#177F3C"
+      },
+      {
+        "display_name": "Viper Steel Gray Pearl",
+        "paint_code": "55731",
+        "slug": "viper-steel-gray-pearl-55731",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/viper-steel-gray-pearl-55731/",
+        "source_label": "PaintScratch 2003 American-Coach",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Bright Silver Metallic (745479K)",
+        "paint_code": "58829",
+        "slug": "bright-silver-metallic-745479k-58829",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/bright-silver-metallic-745479k-58829/",
+        "source_label": "PaintScratch 2003 American-Coach",
+        "hex_value": "#F5F2ED"
+      },
+      {
+        "display_name": "Medium Mocha",
+        "paint_code": "745476-K",
+        "slug": "medium-mocha-745476-k",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/medium-mocha-745476-k/",
+        "source_label": "PaintScratch 2003 American-Coach",
+        "hex_value": "#985636"
+      },
+      {
+        "display_name": "Coral Grey Metallic",
+        "paint_code": "747531K",
+        "slug": "coral-grey-metallic-747531k",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/coral-grey-metallic-747531k/",
+        "source_label": "PaintScratch 2003 American-Coach",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Garnett Red Metal",
+        "paint_code": "748550K",
+        "slug": "garnett-red-metal-748550k",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/garnett-red-metal-748550k/",
+        "source_label": "PaintScratch 2003 American-Coach",
+        "hex_value": "#761C1A"
+      }
+    ],
+    "2004": [
+      {
+        "display_name": "Smoke Metallic (745474K)",
+        "paint_code": "49625",
+        "slug": "smoke-metallic-745474k-49625",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/smoke-metallic-745474k-49625/",
+        "source_label": "PaintScratch 2004 American-Coach",
+        "hex_value": "#3C2E2E"
+      },
+      {
+        "display_name": "Elegant Beige (G9574K)",
+        "paint_code": "51477",
+        "slug": "elegant-beige-g9574k-51477",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/elegant-beige-g9574k-51477/",
+        "source_label": "PaintScratch 2004 American-Coach",
+        "hex_value": "#E8DEB6"
+      },
+      {
+        "display_name": "Cashmere Beige (G9562K)",
+        "paint_code": "54671",
+        "slug": "cashmere-beige-g9562k-54671",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/cashmere-beige-g9562k-54671/",
+        "source_label": "PaintScratch 2004 American-Coach",
+        "hex_value": "#D8CC9A"
+      },
+      {
+        "display_name": "Odsidian Black Metallic (745478K)",
+        "paint_code": "56680",
+        "slug": "odsidian-black-metallic-745478k-56680",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/odsidian-black-metallic-745478k-56680/",
+        "source_label": "PaintScratch 2004 American-Coach",
+        "hex_value": "#141212"
+      },
+      {
+        "display_name": "Parchment Gold (748536K)",
+        "paint_code": "57338",
+        "slug": "parchment-gold-748536k-57338",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/parchment-gold-748536k-57338/",
+        "source_label": "PaintScratch 2004 American-Coach",
+        "hex_value": "#E6C170"
+      },
+      {
+        "display_name": "Grey Bronze Metallic (745502K)",
+        "paint_code": "57451",
+        "slug": "grey-bronze-metallic-745502k-57451",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/grey-bronze-metallic-745502k-57451/",
+        "source_label": "PaintScratch 2004 American-Coach",
+        "hex_value": "#816C3F"
+      },
+      {
+        "display_name": "Cashmere Silver",
+        "paint_code": "CV54674",
+        "slug": "cashmere-silver-cv54674",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/cashmere-silver-cv54674/",
+        "source_label": "PaintScratch 2004 American-Coach",
+        "hex_value": "#CAD1D8"
+      },
+      {
+        "display_name": "Silver",
+        "paint_code": "CV58829",
+        "slug": "silver-cv58829",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/silver-cv58829/",
+        "source_label": "PaintScratch 2004 American-Coach",
+        "hex_value": "#CAD1D8"
+      },
+      {
+        "display_name": "Green",
+        "paint_code": "CV60749",
+        "slug": "green-cv60749",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/green-cv60749/",
+        "source_label": "PaintScratch 2004 American-Coach",
+        "hex_value": "#2E6D1F"
+      },
+      {
+        "display_name": "Medium Mocha Metallic",
+        "paint_code": "54661",
+        "slug": "medium-mocha-metallic-54661",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/medium-mocha-metallic-54661/",
+        "source_label": "PaintScratch 2004 American-Coach",
+        "hex_value": "#B27B3A"
+      },
+      {
+        "display_name": "Med.Fern (748531K)",
+        "paint_code": "54682",
+        "slug": "medfern-748531k-54682",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/medfern-748531k-54682/",
+        "source_label": "PaintScratch 2004 American-Coach",
+        "hex_value": "#177F3C"
+      },
+      {
+        "display_name": "Bright Silver Metallic (745479K)",
+        "paint_code": "58829",
+        "slug": "bright-silver-metallic-745479k-58829",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/bright-silver-metallic-745479k-58829/",
+        "source_label": "PaintScratch 2004 American-Coach",
+        "hex_value": "#F5F2ED"
+      },
+      {
+        "display_name": "Medium Cypress Green Metallic",
+        "paint_code": "747528K",
+        "slug": "medium-cypress-green-metallic-747528k",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/medium-cypress-green-metallic-747528k/",
+        "source_label": "PaintScratch 2004 American-Coach",
+        "hex_value": "#2E6D1F"
+      },
+      {
+        "display_name": "Mocha Metallic",
+        "paint_code": "CV54659R-G",
+        "slug": "mocha-metallic-cv54659r-g",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/mocha-metallic-cv54659r-g/",
+        "source_label": "PaintScratch 2004 American-Coach",
+        "hex_value": "#C8A04A"
+      },
+      {
+        "display_name": "Lt. Mocha Metallic",
+        "paint_code": "CV54660R-G",
+        "slug": "lt-mocha-metallic-cv54660r-g",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/lt-mocha-metallic-cv54660r-g/",
+        "source_label": "PaintScratch 2004 American-Coach",
+        "hex_value": "#DFBF7B"
+      },
+      {
+        "display_name": "Medium Gray (745477k)",
+        "paint_code": "CV54675",
+        "slug": "medium-gray-745477k-cv54675",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/medium-gray-745477k-cv54675/",
+        "source_label": "PaintScratch 2004 American-Coach",
+        "hex_value": "#808080"
+      }
+    ],
+    "2005": [
+      {
+        "display_name": "Smoke Metallic (745474K)",
+        "paint_code": "49625",
+        "slug": "smoke-metallic-745474k-49625",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/smoke-metallic-745474k-49625/",
+        "source_label": "PaintScratch 2005 American-Coach",
+        "hex_value": "#3C2E2E"
+      },
+      {
+        "display_name": "Elegant Beige (G9574K)",
+        "paint_code": "51477",
+        "slug": "elegant-beige-g9574k-51477",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/elegant-beige-g9574k-51477/",
+        "source_label": "PaintScratch 2005 American-Coach",
+        "hex_value": "#E8DEB6"
+      },
+      {
+        "display_name": "Cashmere Beige (G9562K)",
+        "paint_code": "54671",
+        "slug": "cashmere-beige-g9562k-54671",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/cashmere-beige-g9562k-54671/",
+        "source_label": "PaintScratch 2005 American-Coach",
+        "hex_value": "#D8CC9A"
+      },
+      {
+        "display_name": "Odsidian Black Metallic (745478K)",
+        "paint_code": "56680",
+        "slug": "odsidian-black-metallic-745478k-56680",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/odsidian-black-metallic-745478k-56680/",
+        "source_label": "PaintScratch 2005 American-Coach",
+        "hex_value": "#141212"
+      },
+      {
+        "display_name": "Parchment Gold (748536K)",
+        "paint_code": "57338",
+        "slug": "parchment-gold-748536k-57338",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/parchment-gold-748536k-57338/",
+        "source_label": "PaintScratch 2005 American-Coach",
+        "hex_value": "#E6C170"
+      },
+      {
+        "display_name": "Grey Bronze Metallic (745502K)",
+        "paint_code": "57451",
+        "slug": "grey-bronze-metallic-745502k-57451",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/grey-bronze-metallic-745502k-57451/",
+        "source_label": "PaintScratch 2005 American-Coach",
+        "hex_value": "#816C3F"
+      },
+      {
+        "display_name": "Med.Fern (748531K)",
+        "paint_code": "54682",
+        "slug": "medfern-748531k-54682",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/medfern-748531k-54682/",
+        "source_label": "PaintScratch 2005 American-Coach",
+        "hex_value": "#177F3C"
+      },
+      {
+        "display_name": "Bright Silver Metallic (745479K)",
+        "paint_code": "58829",
+        "slug": "bright-silver-metallic-745479k-58829",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/bright-silver-metallic-745479k-58829/",
+        "source_label": "PaintScratch 2005 American-Coach",
+        "hex_value": "#F5F2ED"
+      },
+      {
+        "display_name": "Cashmere Beige",
+        "paint_code": "748543-K",
+        "slug": "cashmere-beige-748543-k",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/cashmere-beige-748543-k/",
+        "source_label": "PaintScratch 2005 American-Coach",
+        "hex_value": "#D8CC9A"
+      },
+      {
+        "display_name": "Charcoal",
+        "paint_code": "751046-K",
+        "slug": "charcoal-751046-k",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/charcoal-751046-k/",
+        "source_label": "PaintScratch 2005 American-Coach",
+        "hex_value": "#202020"
+      },
+      {
+        "display_name": "Java White Metallic",
+        "paint_code": "751051-K",
+        "slug": "java-white-metallic-751051-k",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/java-white-metallic-751051-k/",
+        "source_label": "PaintScratch 2005 American-Coach",
+        "hex_value": "#EEEAEA"
+      }
+    ],
+    "2006": [
+      {
+        "display_name": "Smoke Metallic (745474K)",
+        "paint_code": "49625",
+        "slug": "smoke-metallic-745474k-49625",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/smoke-metallic-745474k-49625/",
+        "source_label": "PaintScratch 2006 American-Coach",
+        "hex_value": "#3C2E2E"
+      },
+      {
+        "display_name": "Elegant Beige (G9574K)",
+        "paint_code": "51477",
+        "slug": "elegant-beige-g9574k-51477",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/elegant-beige-g9574k-51477/",
+        "source_label": "PaintScratch 2006 American-Coach",
+        "hex_value": "#E8DEB6"
+      },
+      {
+        "display_name": "Cashmere Beige (G9562K)",
+        "paint_code": "54671",
+        "slug": "cashmere-beige-g9562k-54671",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/cashmere-beige-g9562k-54671/",
+        "source_label": "PaintScratch 2006 American-Coach",
+        "hex_value": "#D8CC9A"
+      },
+      {
+        "display_name": "Odsidian Black Metallic (745478K)",
+        "paint_code": "56680",
+        "slug": "odsidian-black-metallic-745478k-56680",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/odsidian-black-metallic-745478k-56680/",
+        "source_label": "PaintScratch 2006 American-Coach",
+        "hex_value": "#141212"
+      },
+      {
+        "display_name": "Parchment Gold (748536K)",
+        "paint_code": "57338",
+        "slug": "parchment-gold-748536k-57338",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/parchment-gold-748536k-57338/",
+        "source_label": "PaintScratch 2006 American-Coach",
+        "hex_value": "#E6C170"
+      },
+      {
+        "display_name": "Grey Bronze Metallic (745502K)",
+        "paint_code": "57451",
+        "slug": "grey-bronze-metallic-745502k-57451",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/grey-bronze-metallic-745502k-57451/",
+        "source_label": "PaintScratch 2006 American-Coach",
+        "hex_value": "#816C3F"
+      },
+      {
+        "display_name": "Med.Fern (748531K)",
+        "paint_code": "54682",
+        "slug": "medfern-748531k-54682",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/medfern-748531k-54682/",
+        "source_label": "PaintScratch 2006 American-Coach",
+        "hex_value": "#177F3C"
+      },
+      {
+        "display_name": "Bright Silver Metallic (745479K)",
+        "paint_code": "58829",
+        "slug": "bright-silver-metallic-745479k-58829",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/bright-silver-metallic-745479k-58829/",
+        "source_label": "PaintScratch 2006 American-Coach",
+        "hex_value": "#F5F2ED"
+      },
+      {
+        "display_name": "Medium Mocha",
+        "paint_code": "745476-K",
+        "slug": "medium-mocha-745476-k",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/medium-mocha-745476-k/",
+        "source_label": "PaintScratch 2006 American-Coach",
+        "hex_value": "#985636"
+      },
+      {
+        "display_name": "Bright Silver Metallic",
+        "paint_code": "745479-K",
+        "slug": "bright-silver-metallic-745479-k",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/bright-silver-metallic-745479-k/",
+        "source_label": "PaintScratch 2006 American-Coach",
+        "hex_value": "#CAD1D8"
+      },
+      {
+        "display_name": "Dark Brown",
+        "paint_code": "750167-K",
+        "slug": "dark-brown-750167-k",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/dark-brown-750167-k/",
+        "source_label": "PaintScratch 2006 American-Coach",
+        "hex_value": "#985636"
+      },
+      {
+        "display_name": "Gold",
+        "paint_code": "B9812K",
+        "slug": "gold-b9812k",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/gold-b9812k/",
+        "source_label": "PaintScratch 2006 American-Coach",
+        "hex_value": "#E3BD25"
+      }
+    ],
+    "2007": [
+      {
+        "display_name": "Smoke Metallic (745474K)",
+        "paint_code": "49625",
+        "slug": "smoke-metallic-745474k-49625",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/smoke-metallic-745474k-49625/",
+        "source_label": "PaintScratch 2007 American-Coach",
+        "hex_value": "#3C2E2E"
+      },
+      {
+        "display_name": "Elegant Beige (G9574K)",
+        "paint_code": "51477",
+        "slug": "elegant-beige-g9574k-51477",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/elegant-beige-g9574k-51477/",
+        "source_label": "PaintScratch 2007 American-Coach",
+        "hex_value": "#E8DEB6"
+      },
+      {
+        "display_name": "Cashmere Beige (G9562K)",
+        "paint_code": "54671",
+        "slug": "cashmere-beige-g9562k-54671",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/cashmere-beige-g9562k-54671/",
+        "source_label": "PaintScratch 2007 American-Coach",
+        "hex_value": "#D8CC9A"
+      },
+      {
+        "display_name": "Odsidian Black Metallic (745478K)",
+        "paint_code": "56680",
+        "slug": "odsidian-black-metallic-745478k-56680",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/odsidian-black-metallic-745478k-56680/",
+        "source_label": "PaintScratch 2007 American-Coach",
+        "hex_value": "#141212"
+      },
+      {
+        "display_name": "Parchment Gold (748536K)",
+        "paint_code": "57338",
+        "slug": "parchment-gold-748536k-57338",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/parchment-gold-748536k-57338/",
+        "source_label": "PaintScratch 2007 American-Coach",
+        "hex_value": "#E6C170"
+      },
+      {
+        "display_name": "Grey Bronze Metallic (745502K)",
+        "paint_code": "57451",
+        "slug": "grey-bronze-metallic-745502k-57451",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/grey-bronze-metallic-745502k-57451/",
+        "source_label": "PaintScratch 2007 American-Coach",
+        "hex_value": "#816C3F"
+      },
+      {
+        "display_name": "Med.Fern (748531K)",
+        "paint_code": "54682",
+        "slug": "medfern-748531k-54682",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/medfern-748531k-54682/",
+        "source_label": "PaintScratch 2007 American-Coach",
+        "hex_value": "#177F3C"
+      },
+      {
+        "display_name": "Bright Silver Metallic (745479K)",
+        "paint_code": "58829",
+        "slug": "bright-silver-metallic-745479k-58829",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/bright-silver-metallic-745479k-58829/",
+        "source_label": "PaintScratch 2007 American-Coach",
+        "hex_value": "#F5F2ED"
+      },
+      {
+        "display_name": "Smoke Metallic",
+        "paint_code": "745474-K",
+        "slug": "smoke-metallic-745474-k",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/smoke-metallic-745474-k/",
+        "source_label": "PaintScratch 2007 American-Coach",
+        "hex_value": "#404040"
+      },
+      {
+        "display_name": "Gray",
+        "paint_code": "745477-K",
+        "slug": "gray-745477-k",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/gray-745477-k/",
+        "source_label": "PaintScratch 2007 American-Coach",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Bright Silver Metallic",
+        "paint_code": "745479-K",
+        "slug": "bright-silver-metallic-745479-k",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/bright-silver-metallic-745479-k/",
+        "source_label": "PaintScratch 2007 American-Coach",
+        "hex_value": "#CAD1D8"
+      },
+      {
+        "display_name": "Gray Bronze Metallic",
+        "paint_code": "745502-K",
+        "slug": "gray-bronze-metallic-745502-k",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/gray-bronze-metallic-745502-k/",
+        "source_label": "PaintScratch 2007 American-Coach",
+        "hex_value": "#9C8C08"
+      },
+      {
+        "display_name": "Medium Sage Green Metallic",
+        "paint_code": "748535-K",
+        "slug": "medium-sage-green-metallic-748535-k",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/medium-sage-green-metallic-748535-k/",
+        "source_label": "PaintScratch 2007 American-Coach",
+        "hex_value": "#37B515"
+      },
+      {
+        "display_name": "Silver Green",
+        "paint_code": "776870-K",
+        "slug": "silver-green-776870-k",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/silver-green-776870-k/",
+        "source_label": "PaintScratch 2007 American-Coach",
+        "hex_value": "#D6E0F8"
+      }
+    ],
+    "2008": [
+      {
+        "display_name": "Smoke Metallic (745474K)",
+        "paint_code": "49625",
+        "slug": "smoke-metallic-745474k-49625",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/smoke-metallic-745474k-49625/",
+        "source_label": "PaintScratch 2008 American-Coach",
+        "hex_value": "#3C2E2E"
+      },
+      {
+        "display_name": "Elegant Beige (G9574K)",
+        "paint_code": "51477",
+        "slug": "elegant-beige-g9574k-51477",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/elegant-beige-g9574k-51477/",
+        "source_label": "PaintScratch 2008 American-Coach",
+        "hex_value": "#E8DEB6"
+      },
+      {
+        "display_name": "Cashmere Beige (G9562K)",
+        "paint_code": "54671",
+        "slug": "cashmere-beige-g9562k-54671",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/cashmere-beige-g9562k-54671/",
+        "source_label": "PaintScratch 2008 American-Coach",
+        "hex_value": "#D8CC9A"
+      },
+      {
+        "display_name": "Odsidian Black Metallic (745478K)",
+        "paint_code": "56680",
+        "slug": "odsidian-black-metallic-745478k-56680",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/odsidian-black-metallic-745478k-56680/",
+        "source_label": "PaintScratch 2008 American-Coach",
+        "hex_value": "#141212"
+      },
+      {
+        "display_name": "Parchment Gold (748536K)",
+        "paint_code": "57338",
+        "slug": "parchment-gold-748536k-57338",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/parchment-gold-748536k-57338/",
+        "source_label": "PaintScratch 2008 American-Coach",
+        "hex_value": "#E6C170"
+      },
+      {
+        "display_name": "Grey Bronze Metallic (745502K)",
+        "paint_code": "57451",
+        "slug": "grey-bronze-metallic-745502k-57451",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/grey-bronze-metallic-745502k-57451/",
+        "source_label": "PaintScratch 2008 American-Coach",
+        "hex_value": "#816C3F"
+      },
+      {
+        "display_name": "Med.Fern (748531K)",
+        "paint_code": "54682",
+        "slug": "medfern-748531k-54682",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/medfern-748531k-54682/",
+        "source_label": "PaintScratch 2008 American-Coach",
+        "hex_value": "#177F3C"
+      },
+      {
+        "display_name": "Bright Silver Metallic (745479K)",
+        "paint_code": "58829",
+        "slug": "bright-silver-metallic-745479k-58829",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/bright-silver-metallic-745479k-58829/",
+        "source_label": "PaintScratch 2008 American-Coach",
+        "hex_value": "#F5F2ED"
+      },
+      {
+        "display_name": "Cashmere Beige",
+        "paint_code": "748543-K",
+        "slug": "cashmere-beige-748543-k",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/cashmere-beige-748543-k/",
+        "source_label": "PaintScratch 2008 American-Coach",
+        "hex_value": "#D8CC9A"
+      },
+      {
+        "display_name": "Lt. Champagne Metallic",
+        "paint_code": "751052-K",
+        "slug": "lt-champagne-metallic-751052-k",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/lt-champagne-metallic-751052-k/",
+        "source_label": "PaintScratch 2008 American-Coach",
+        "hex_value": "#EDE6BF"
+      },
+      {
+        "display_name": "Light Beige",
+        "paint_code": "G9562K",
+        "slug": "light-beige-g9562k",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/light-beige-g9562k/",
+        "source_label": "PaintScratch 2008 American-Coach",
+        "hex_value": "#E7DFC5"
+      }
+    ],
+    "2009": [
+      {
+        "display_name": "Smoke Metallic (745474K)",
+        "paint_code": "49625",
+        "slug": "smoke-metallic-745474k-49625",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/smoke-metallic-745474k-49625/",
+        "source_label": "PaintScratch 2009 American-Coach",
+        "hex_value": "#3C2E2E"
+      },
+      {
+        "display_name": "Elegant Beige (G9574K)",
+        "paint_code": "51477",
+        "slug": "elegant-beige-g9574k-51477",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/elegant-beige-g9574k-51477/",
+        "source_label": "PaintScratch 2009 American-Coach",
+        "hex_value": "#E8DEB6"
+      },
+      {
+        "display_name": "Cashmere Beige (G9562K)",
+        "paint_code": "54671",
+        "slug": "cashmere-beige-g9562k-54671",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/cashmere-beige-g9562k-54671/",
+        "source_label": "PaintScratch 2009 American-Coach",
+        "hex_value": "#D8CC9A"
+      },
+      {
+        "display_name": "Odsidian Black Metallic (745478K)",
+        "paint_code": "56680",
+        "slug": "odsidian-black-metallic-745478k-56680",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/odsidian-black-metallic-745478k-56680/",
+        "source_label": "PaintScratch 2009 American-Coach",
+        "hex_value": "#141212"
+      },
+      {
+        "display_name": "Parchment Gold (748536K)",
+        "paint_code": "57338",
+        "slug": "parchment-gold-748536k-57338",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/parchment-gold-748536k-57338/",
+        "source_label": "PaintScratch 2009 American-Coach",
+        "hex_value": "#E6C170"
+      },
+      {
+        "display_name": "Grey Bronze Metallic (745502K)",
+        "paint_code": "57451",
+        "slug": "grey-bronze-metallic-745502k-57451",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/grey-bronze-metallic-745502k-57451/",
+        "source_label": "PaintScratch 2009 American-Coach",
+        "hex_value": "#816C3F"
+      },
+      {
+        "display_name": "Med.Fern (748531K)",
+        "paint_code": "54682",
+        "slug": "medfern-748531k-54682",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/medfern-748531k-54682/",
+        "source_label": "PaintScratch 2009 American-Coach",
+        "hex_value": "#177F3C"
+      },
+      {
+        "display_name": "Bright Silver Metallic (745479K)",
+        "paint_code": "58829",
+        "slug": "bright-silver-metallic-745479k-58829",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/bright-silver-metallic-745479k-58829/",
+        "source_label": "PaintScratch 2009 American-Coach",
+        "hex_value": "#F5F2ED"
+      },
+      {
+        "display_name": "Cashmere Beige",
+        "paint_code": "748543-K",
+        "slug": "cashmere-beige-748543-k",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/cashmere-beige-748543-k/",
+        "source_label": "PaintScratch 2009 American-Coach",
+        "hex_value": "#D8CC9A"
+      },
+      {
+        "display_name": "Java White Metallic",
+        "paint_code": "751051-K",
+        "slug": "java-white-metallic-751051-k",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/java-white-metallic-751051-k/",
+        "source_label": "PaintScratch 2009 American-Coach",
+        "hex_value": "#EEEAEA"
+      },
+      {
+        "display_name": "Lt. Champagne Metallic",
+        "paint_code": "751052-K",
+        "slug": "lt-champagne-metallic-751052-k",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/lt-champagne-metallic-751052-k/",
+        "source_label": "PaintScratch 2009 American-Coach",
+        "hex_value": "#EDE6BF"
+      },
+      {
+        "display_name": "Medium Red",
+        "paint_code": "776869-K",
+        "slug": "medium-red-776869-k",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/medium-red-776869-k/",
+        "source_label": "PaintScratch 2009 American-Coach",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "Silver Green",
+        "paint_code": "776870-K",
+        "slug": "silver-green-776870-k",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/silver-green-776870-k/",
+        "source_label": "PaintScratch 2009 American-Coach",
+        "hex_value": "#D6E0F8"
+      },
+      {
+        "display_name": "Beige",
+        "paint_code": "776871-K",
+        "slug": "beige-776871-k",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/beige-776871-k/",
+        "source_label": "PaintScratch 2009 American-Coach",
+        "hex_value": "#E9D9A1"
+      },
+      {
+        "display_name": "Dream White",
+        "paint_code": "778687-K",
+        "slug": "dream-white-778687-k",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/dream-white-778687-k/",
+        "source_label": "PaintScratch 2009 American-Coach",
+        "hex_value": "#FFFFFF"
+      }
+    ],
+    "2010": [
+      {
+        "display_name": "Smoke Metallic (745474K)",
+        "paint_code": "49625",
+        "slug": "smoke-metallic-745474k-49625",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/smoke-metallic-745474k-49625/",
+        "source_label": "PaintScratch 2010 American-Coach",
+        "hex_value": "#3C2E2E"
+      },
+      {
+        "display_name": "Elegant Beige (G9574K)",
+        "paint_code": "51477",
+        "slug": "elegant-beige-g9574k-51477",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/elegant-beige-g9574k-51477/",
+        "source_label": "PaintScratch 2010 American-Coach",
+        "hex_value": "#E8DEB6"
+      },
+      {
+        "display_name": "Cashmere Beige (G9562K)",
+        "paint_code": "54671",
+        "slug": "cashmere-beige-g9562k-54671",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/cashmere-beige-g9562k-54671/",
+        "source_label": "PaintScratch 2010 American-Coach",
+        "hex_value": "#D8CC9A"
+      },
+      {
+        "display_name": "Odsidian Black Metallic (745478K)",
+        "paint_code": "56680",
+        "slug": "odsidian-black-metallic-745478k-56680",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/odsidian-black-metallic-745478k-56680/",
+        "source_label": "PaintScratch 2010 American-Coach",
+        "hex_value": "#141212"
+      },
+      {
+        "display_name": "Parchment Gold (748536K)",
+        "paint_code": "57338",
+        "slug": "parchment-gold-748536k-57338",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/parchment-gold-748536k-57338/",
+        "source_label": "PaintScratch 2010 American-Coach",
+        "hex_value": "#E6C170"
+      },
+      {
+        "display_name": "Grey Bronze Metallic (745502K)",
+        "paint_code": "57451",
+        "slug": "grey-bronze-metallic-745502k-57451",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/grey-bronze-metallic-745502k-57451/",
+        "source_label": "PaintScratch 2010 American-Coach",
+        "hex_value": "#816C3F"
+      },
+      {
+        "display_name": "Med.Fern (748531K)",
+        "paint_code": "54682",
+        "slug": "medfern-748531k-54682",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/medfern-748531k-54682/",
+        "source_label": "PaintScratch 2010 American-Coach",
+        "hex_value": "#177F3C"
+      },
+      {
+        "display_name": "Bright Silver Metallic (745479K)",
+        "paint_code": "58829",
+        "slug": "bright-silver-metallic-745479k-58829",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/bright-silver-metallic-745479k-58829/",
+        "source_label": "PaintScratch 2010 American-Coach",
+        "hex_value": "#F5F2ED"
+      },
+      {
+        "display_name": "Creme Brulee",
+        "paint_code": "784856-K",
+        "slug": "creme-brulee-784856-k",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/creme-brulee-784856-k/",
+        "source_label": "PaintScratch 2010 American-Coach",
+        "hex_value": "#E7DFC5"
+      }
+    ],
+    "2011": [
+      {
+        "display_name": "Smoke Metallic (745474K)",
+        "paint_code": "49625",
+        "slug": "smoke-metallic-745474k-49625",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/smoke-metallic-745474k-49625/",
+        "source_label": "PaintScratch 2011 American-Coach",
+        "hex_value": "#3C2E2E"
+      },
+      {
+        "display_name": "Elegant Beige (G9574K)",
+        "paint_code": "51477",
+        "slug": "elegant-beige-g9574k-51477",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/elegant-beige-g9574k-51477/",
+        "source_label": "PaintScratch 2011 American-Coach",
+        "hex_value": "#E8DEB6"
+      },
+      {
+        "display_name": "Cashmere Beige (G9562K)",
+        "paint_code": "54671",
+        "slug": "cashmere-beige-g9562k-54671",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/cashmere-beige-g9562k-54671/",
+        "source_label": "PaintScratch 2011 American-Coach",
+        "hex_value": "#D8CC9A"
+      },
+      {
+        "display_name": "Odsidian Black Metallic (745478K)",
+        "paint_code": "56680",
+        "slug": "odsidian-black-metallic-745478k-56680",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/odsidian-black-metallic-745478k-56680/",
+        "source_label": "PaintScratch 2011 American-Coach",
+        "hex_value": "#141212"
+      },
+      {
+        "display_name": "Parchment Gold (748536K)",
+        "paint_code": "57338",
+        "slug": "parchment-gold-748536k-57338",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/parchment-gold-748536k-57338/",
+        "source_label": "PaintScratch 2011 American-Coach",
+        "hex_value": "#E6C170"
+      },
+      {
+        "display_name": "Grey Bronze Metallic (745502K)",
+        "paint_code": "57451",
+        "slug": "grey-bronze-metallic-745502k-57451",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/grey-bronze-metallic-745502k-57451/",
+        "source_label": "PaintScratch 2011 American-Coach",
+        "hex_value": "#816C3F"
+      },
+      {
+        "display_name": "Champagne Pearl",
+        "paint_code": "748547-K",
+        "slug": "champagne-pearl-748547-k",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/champagne-pearl-748547-k/",
+        "source_label": "PaintScratch 2011 American-Coach",
+        "hex_value": "#F6F6F0"
+      },
+      {
+        "display_name": "Med.Fern (748531K)",
+        "paint_code": "54682",
+        "slug": "medfern-748531k-54682",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/medfern-748531k-54682/",
+        "source_label": "PaintScratch 2011 American-Coach",
+        "hex_value": "#177F3C"
+      },
+      {
+        "display_name": "Bright Silver Metallic (745479K)",
+        "paint_code": "58829",
+        "slug": "bright-silver-metallic-745479k-58829",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/bright-silver-metallic-745479k-58829/",
+        "source_label": "PaintScratch 2011 American-Coach",
+        "hex_value": "#F5F2ED"
+      },
+      {
+        "display_name": "Pearl White Tricoat",
+        "paint_code": "568351-K",
+        "slug": "pearl-white-tricoat-568351-k",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/pearl-white-tricoat-568351-k/",
+        "source_label": "PaintScratch 2011 American-Coach",
+        "hex_value": "#F6F6F0"
+      },
+      {
+        "display_name": "Cashmere Beige",
+        "paint_code": "748543-K",
+        "slug": "cashmere-beige-748543-k",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/cashmere-beige-748543-k/",
+        "source_label": "PaintScratch 2011 American-Coach",
+        "hex_value": "#D8CC9A"
+      },
+      {
+        "display_name": "Java White Metallic",
+        "paint_code": "751051-K",
+        "slug": "java-white-metallic-751051-k",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/java-white-metallic-751051-k/",
+        "source_label": "PaintScratch 2011 American-Coach",
+        "hex_value": "#EEEAEA"
+      },
+      {
+        "display_name": "Lt. Champagne Metallic",
+        "paint_code": "751052-K",
+        "slug": "lt-champagne-metallic-751052-k",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/lt-champagne-metallic-751052-k/",
+        "source_label": "PaintScratch 2011 American-Coach",
+        "hex_value": "#EDE6BF"
+      },
+      {
+        "display_name": "Dream White",
+        "paint_code": "778687-K",
+        "slug": "dream-white-778687-k",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/dream-white-778687-k/",
+        "source_label": "PaintScratch 2011 American-Coach",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Creme Brulee",
+        "paint_code": "784856-K",
+        "slug": "creme-brulee-784856-k",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/creme-brulee-784856-k/",
+        "source_label": "PaintScratch 2011 American-Coach",
+        "hex_value": "#E7DFC5"
+      },
+      {
+        "display_name": "Sandrift Gray",
+        "paint_code": "784858K",
+        "slug": "sandrift-gray-784858k",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/sandrift-gray-784858k/",
+        "source_label": "PaintScratch 2011 American-Coach",
+        "hex_value": "#CAD1D8"
+      }
+    ],
+    "2012": [
+      {
+        "display_name": "Smoke Metallic (745474K)",
+        "paint_code": "49625",
+        "slug": "smoke-metallic-745474k-49625",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/smoke-metallic-745474k-49625/",
+        "source_label": "PaintScratch 2012 American-Coach",
+        "hex_value": "#3C2E2E"
+      },
+      {
+        "display_name": "Elegant Beige (G9574K)",
+        "paint_code": "51477",
+        "slug": "elegant-beige-g9574k-51477",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/elegant-beige-g9574k-51477/",
+        "source_label": "PaintScratch 2012 American-Coach",
+        "hex_value": "#E8DEB6"
+      },
+      {
+        "display_name": "Cashmere Beige (G9562K)",
+        "paint_code": "54671",
+        "slug": "cashmere-beige-g9562k-54671",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/cashmere-beige-g9562k-54671/",
+        "source_label": "PaintScratch 2012 American-Coach",
+        "hex_value": "#D8CC9A"
+      },
+      {
+        "display_name": "Odsidian Black Metallic (745478K)",
+        "paint_code": "56680",
+        "slug": "odsidian-black-metallic-745478k-56680",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/odsidian-black-metallic-745478k-56680/",
+        "source_label": "PaintScratch 2012 American-Coach",
+        "hex_value": "#141212"
+      },
+      {
+        "display_name": "Parchment Gold (748536K)",
+        "paint_code": "57338",
+        "slug": "parchment-gold-748536k-57338",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/parchment-gold-748536k-57338/",
+        "source_label": "PaintScratch 2012 American-Coach",
+        "hex_value": "#E6C170"
+      },
+      {
+        "display_name": "Grey Bronze Metallic (745502K)",
+        "paint_code": "57451",
+        "slug": "grey-bronze-metallic-745502k-57451",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/grey-bronze-metallic-745502k-57451/",
+        "source_label": "PaintScratch 2012 American-Coach",
+        "hex_value": "#816C3F"
+      },
+      {
+        "display_name": "Med.Fern (748531K)",
+        "paint_code": "54682",
+        "slug": "medfern-748531k-54682",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/medfern-748531k-54682/",
+        "source_label": "PaintScratch 2012 American-Coach",
+        "hex_value": "#177F3C"
+      },
+      {
+        "display_name": "Bright Silver Metallic (745479K)",
+        "paint_code": "58829",
+        "slug": "bright-silver-metallic-745479k-58829",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/bright-silver-metallic-745479k-58829/",
+        "source_label": "PaintScratch 2012 American-Coach",
+        "hex_value": "#F5F2ED"
+      },
+      {
+        "display_name": "Charcoal",
+        "paint_code": "751046-K",
+        "slug": "charcoal-751046-k",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/charcoal-751046-k/",
+        "source_label": "PaintScratch 2012 American-Coach",
+        "hex_value": "#202020"
+      }
+    ],
+    "2013": [
+      {
+        "display_name": "Smoke Metallic (745474K)",
+        "paint_code": "49625",
+        "slug": "smoke-metallic-745474k-49625",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/smoke-metallic-745474k-49625/",
+        "source_label": "PaintScratch 2013 American-Coach",
+        "hex_value": "#3C2E2E"
+      },
+      {
+        "display_name": "Elegant Beige (G9574K)",
+        "paint_code": "51477",
+        "slug": "elegant-beige-g9574k-51477",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/elegant-beige-g9574k-51477/",
+        "source_label": "PaintScratch 2013 American-Coach",
+        "hex_value": "#E8DEB6"
+      },
+      {
+        "display_name": "Cashmere Beige (G9562K)",
+        "paint_code": "54671",
+        "slug": "cashmere-beige-g9562k-54671",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/cashmere-beige-g9562k-54671/",
+        "source_label": "PaintScratch 2013 American-Coach",
+        "hex_value": "#D8CC9A"
+      },
+      {
+        "display_name": "Odsidian Black Metallic (745478K)",
+        "paint_code": "56680",
+        "slug": "odsidian-black-metallic-745478k-56680",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/odsidian-black-metallic-745478k-56680/",
+        "source_label": "PaintScratch 2013 American-Coach",
+        "hex_value": "#141212"
+      },
+      {
+        "display_name": "Parchment Gold (748536K)",
+        "paint_code": "57338",
+        "slug": "parchment-gold-748536k-57338",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/parchment-gold-748536k-57338/",
+        "source_label": "PaintScratch 2013 American-Coach",
+        "hex_value": "#E6C170"
+      },
+      {
+        "display_name": "Grey Bronze Metallic (745502K)",
+        "paint_code": "57451",
+        "slug": "grey-bronze-metallic-745502k-57451",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/grey-bronze-metallic-745502k-57451/",
+        "source_label": "PaintScratch 2013 American-Coach",
+        "hex_value": "#816C3F"
+      },
+      {
+        "display_name": "Med.Fern (748531K)",
+        "paint_code": "54682",
+        "slug": "medfern-748531k-54682",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/medfern-748531k-54682/",
+        "source_label": "PaintScratch 2013 American-Coach",
+        "hex_value": "#177F3C"
+      },
+      {
+        "display_name": "Bright Silver Metallic (745479K)",
+        "paint_code": "58829",
+        "slug": "bright-silver-metallic-745479k-58829",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/bright-silver-metallic-745479k-58829/",
+        "source_label": "PaintScratch 2013 American-Coach",
+        "hex_value": "#F5F2ED"
+      },
+      {
+        "display_name": "Nimbus Gray Met",
+        "paint_code": "745473K",
+        "slug": "nimbus-gray-met-745473k",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/nimbus-gray-met-745473k/",
+        "source_label": "PaintScratch 2013 American-Coach",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Bright Silver Metallic",
+        "paint_code": "745479-K",
+        "slug": "bright-silver-metallic-745479-k",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/bright-silver-metallic-745479-k/",
+        "source_label": "PaintScratch 2013 American-Coach",
+        "hex_value": "#CAD1D8"
+      },
+      {
+        "display_name": "Merlot Red",
+        "paint_code": "776869-F",
+        "slug": "merlot-red-776869-f",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/merlot-red-776869-f/",
+        "source_label": "PaintScratch 2013 American-Coach",
+        "hex_value": "#761C1A"
+      },
+      {
+        "display_name": "Beige",
+        "paint_code": "776871-K",
+        "slug": "beige-776871-k",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/beige-776871-k/",
+        "source_label": "PaintScratch 2013 American-Coach",
+        "hex_value": "#E9D9A1"
+      }
+    ],
+    "2014": [
+      {
+        "display_name": "Smoke Metallic (745474K)",
+        "paint_code": "49625",
+        "slug": "smoke-metallic-745474k-49625",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/smoke-metallic-745474k-49625/",
+        "source_label": "PaintScratch 2014 American-Coach",
+        "hex_value": "#3C2E2E"
+      },
+      {
+        "display_name": "Elegant Beige (G9574K)",
+        "paint_code": "51477",
+        "slug": "elegant-beige-g9574k-51477",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/elegant-beige-g9574k-51477/",
+        "source_label": "PaintScratch 2014 American-Coach",
+        "hex_value": "#E8DEB6"
+      },
+      {
+        "display_name": "Cashmere Beige (G9562K)",
+        "paint_code": "54671",
+        "slug": "cashmere-beige-g9562k-54671",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/cashmere-beige-g9562k-54671/",
+        "source_label": "PaintScratch 2014 American-Coach",
+        "hex_value": "#D8CC9A"
+      },
+      {
+        "display_name": "Odsidian Black Metallic (745478K)",
+        "paint_code": "56680",
+        "slug": "odsidian-black-metallic-745478k-56680",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/odsidian-black-metallic-745478k-56680/",
+        "source_label": "PaintScratch 2014 American-Coach",
+        "hex_value": "#141212"
+      },
+      {
+        "display_name": "Parchment Gold (748536K)",
+        "paint_code": "57338",
+        "slug": "parchment-gold-748536k-57338",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/parchment-gold-748536k-57338/",
+        "source_label": "PaintScratch 2014 American-Coach",
+        "hex_value": "#E6C170"
+      },
+      {
+        "display_name": "Grey Bronze Metallic (745502K)",
+        "paint_code": "57451",
+        "slug": "grey-bronze-metallic-745502k-57451",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/grey-bronze-metallic-745502k-57451/",
+        "source_label": "PaintScratch 2014 American-Coach",
+        "hex_value": "#816C3F"
+      },
+      {
+        "display_name": "Champagne Pearl",
+        "paint_code": "748547-K",
+        "slug": "champagne-pearl-748547-k",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/champagne-pearl-748547-k/",
+        "source_label": "PaintScratch 2014 American-Coach",
+        "hex_value": "#F6F6F0"
+      },
+      {
+        "display_name": "Platinum Silver",
+        "paint_code": "808656-K",
+        "slug": "platinum-silver-808656-k",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/platinum-silver-808656-k/",
+        "source_label": "PaintScratch 2014 American-Coach",
+        "hex_value": "#CAD1D8"
+      },
+      {
+        "display_name": "Brilliant Black",
+        "paint_code": "P2235-K",
+        "slug": "brilliant-black-p2235-k",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/brilliant-black-p2235-k/",
+        "source_label": "PaintScratch 2014 American-Coach",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Med.Fern (748531K)",
+        "paint_code": "54682",
+        "slug": "medfern-748531k-54682",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/medfern-748531k-54682/",
+        "source_label": "PaintScratch 2014 American-Coach",
+        "hex_value": "#177F3C"
+      },
+      {
+        "display_name": "Bright Silver Metallic (745479K)",
+        "paint_code": "58829",
+        "slug": "bright-silver-metallic-745479k-58829",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/bright-silver-metallic-745479k-58829/",
+        "source_label": "PaintScratch 2014 American-Coach",
+        "hex_value": "#F5F2ED"
+      },
+      {
+        "display_name": "Dolphin Gray",
+        "paint_code": "533203-K",
+        "slug": "dolphin-gray-533203-k",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/dolphin-gray-533203-k/",
+        "source_label": "PaintScratch 2014 American-Coach",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Moccanthrazite",
+        "paint_code": "774689-K",
+        "slug": "moccanthrazite-774689-k",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/moccanthrazite-774689-k/",
+        "source_label": "PaintScratch 2014 American-Coach",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Medium Red",
+        "paint_code": "776869-K",
+        "slug": "medium-red-776869-k",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/medium-red-776869-k/",
+        "source_label": "PaintScratch 2014 American-Coach",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "Roman Bronze",
+        "paint_code": "F9348-K",
+        "slug": "roman-bronze-f9348-k",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/roman-bronze-f9348-k/",
+        "source_label": "PaintScratch 2014 American-Coach",
+        "hex_value": "#E9D9A1"
+      }
+    ],
+    "2015": [
+      {
+        "display_name": "Smoke Metallic (745474K)",
+        "paint_code": "49625",
+        "slug": "smoke-metallic-745474k-49625",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/smoke-metallic-745474k-49625/",
+        "source_label": "PaintScratch 2015 American-Coach",
+        "hex_value": "#3C2E2E"
+      },
+      {
+        "display_name": "Elegant Beige (G9574K)",
+        "paint_code": "51477",
+        "slug": "elegant-beige-g9574k-51477",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/elegant-beige-g9574k-51477/",
+        "source_label": "PaintScratch 2015 American-Coach",
+        "hex_value": "#E8DEB6"
+      },
+      {
+        "display_name": "Cashmere Beige (G9562K)",
+        "paint_code": "54671",
+        "slug": "cashmere-beige-g9562k-54671",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/cashmere-beige-g9562k-54671/",
+        "source_label": "PaintScratch 2015 American-Coach",
+        "hex_value": "#D8CC9A"
+      },
+      {
+        "display_name": "Odsidian Black Metallic (745478K)",
+        "paint_code": "56680",
+        "slug": "odsidian-black-metallic-745478k-56680",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/odsidian-black-metallic-745478k-56680/",
+        "source_label": "PaintScratch 2015 American-Coach",
+        "hex_value": "#141212"
+      },
+      {
+        "display_name": "Parchment Gold (748536K)",
+        "paint_code": "57338",
+        "slug": "parchment-gold-748536k-57338",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/parchment-gold-748536k-57338/",
+        "source_label": "PaintScratch 2015 American-Coach",
+        "hex_value": "#E6C170"
+      },
+      {
+        "display_name": "Grey Bronze Metallic (745502K)",
+        "paint_code": "57451",
+        "slug": "grey-bronze-metallic-745502k-57451",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/grey-bronze-metallic-745502k-57451/",
+        "source_label": "PaintScratch 2015 American-Coach",
+        "hex_value": "#816C3F"
+      },
+      {
+        "display_name": "New Burnshead Burgundy",
+        "paint_code": "725189-K",
+        "slug": "new-burnshead-burgundy-725189-k",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/new-burnshead-burgundy-725189-k/",
+        "source_label": "PaintScratch 2015 American-Coach",
+        "hex_value": "#761C1A"
+      },
+      {
+        "display_name": "Champagne Pearl",
+        "paint_code": "748547-K",
+        "slug": "champagne-pearl-748547-k",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/champagne-pearl-748547-k/",
+        "source_label": "PaintScratch 2015 American-Coach",
+        "hex_value": "#F6F6F0"
+      },
+      {
+        "display_name": "Med.Fern (748531K)",
+        "paint_code": "54682",
+        "slug": "medfern-748531k-54682",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/medfern-748531k-54682/",
+        "source_label": "PaintScratch 2015 American-Coach",
+        "hex_value": "#177F3C"
+      },
+      {
+        "display_name": "Bright Silver Metallic (745479K)",
+        "paint_code": "58829",
+        "slug": "bright-silver-metallic-745479k-58829",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/bright-silver-metallic-745479k-58829/",
+        "source_label": "PaintScratch 2015 American-Coach",
+        "hex_value": "#F5F2ED"
+      },
+      {
+        "display_name": "Loubiere Brown",
+        "paint_code": "745510-K",
+        "slug": "loubiere-brown-745510-k",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/loubiere-brown-745510-k/",
+        "source_label": "PaintScratch 2015 American-Coach",
+        "hex_value": "#985636"
+      },
+      {
+        "display_name": "Dark Bronze",
+        "paint_code": "748548-K",
+        "slug": "dark-bronze-748548-k",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/dark-bronze-748548-k/",
+        "source_label": "PaintScratch 2015 American-Coach",
+        "hex_value": "#E3BD25"
+      },
+      {
+        "display_name": "Dark Brown",
+        "paint_code": "750161-K",
+        "slug": "dark-brown-750161-k",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/dark-brown-750161-k/",
+        "source_label": "PaintScratch 2015 American-Coach",
+        "hex_value": "#985636"
+      },
+      {
+        "display_name": "Silver Green",
+        "paint_code": "776870-K",
+        "slug": "silver-green-776870-k",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/silver-green-776870-k/",
+        "source_label": "PaintScratch 2015 American-Coach",
+        "hex_value": "#D6E0F8"
+      }
+    ],
+    "2016": [
+      {
+        "display_name": "Smoke Metallic (745474K)",
+        "paint_code": "49625",
+        "slug": "smoke-metallic-745474k-49625",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/smoke-metallic-745474k-49625/",
+        "source_label": "PaintScratch 2016 American-Coach",
+        "hex_value": "#3C2E2E"
+      },
+      {
+        "display_name": "Elegant Beige (G9574K)",
+        "paint_code": "51477",
+        "slug": "elegant-beige-g9574k-51477",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/elegant-beige-g9574k-51477/",
+        "source_label": "PaintScratch 2016 American-Coach",
+        "hex_value": "#E8DEB6"
+      },
+      {
+        "display_name": "Cashmere Beige (G9562K)",
+        "paint_code": "54671",
+        "slug": "cashmere-beige-g9562k-54671",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/cashmere-beige-g9562k-54671/",
+        "source_label": "PaintScratch 2016 American-Coach",
+        "hex_value": "#D8CC9A"
+      },
+      {
+        "display_name": "Odsidian Black Metallic (745478K)",
+        "paint_code": "56680",
+        "slug": "odsidian-black-metallic-745478k-56680",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/odsidian-black-metallic-745478k-56680/",
+        "source_label": "PaintScratch 2016 American-Coach",
+        "hex_value": "#141212"
+      },
+      {
+        "display_name": "Parchment Gold (748536K)",
+        "paint_code": "57338",
+        "slug": "parchment-gold-748536k-57338",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/parchment-gold-748536k-57338/",
+        "source_label": "PaintScratch 2016 American-Coach",
+        "hex_value": "#E6C170"
+      },
+      {
+        "display_name": "Grey Bronze Metallic (745502K)",
+        "paint_code": "57451",
+        "slug": "grey-bronze-metallic-745502k-57451",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/grey-bronze-metallic-745502k-57451/",
+        "source_label": "PaintScratch 2016 American-Coach",
+        "hex_value": "#816C3F"
+      },
+      {
+        "display_name": "Med.Fern (748531K)",
+        "paint_code": "54682",
+        "slug": "medfern-748531k-54682",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/medfern-748531k-54682/",
+        "source_label": "PaintScratch 2016 American-Coach",
+        "hex_value": "#177F3C"
+      },
+      {
+        "display_name": "Bright Silver Metallic (745479K)",
+        "paint_code": "58829",
+        "slug": "bright-silver-metallic-745479k-58829",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/bright-silver-metallic-745479k-58829/",
+        "source_label": "PaintScratch 2016 American-Coach",
+        "hex_value": "#F5F2ED"
+      },
+      {
+        "display_name": "Dark Bronze",
+        "paint_code": "748548-K",
+        "slug": "dark-bronze-748548-k",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/dark-bronze-748548-k/",
+        "source_label": "PaintScratch 2016 American-Coach",
+        "hex_value": "#E3BD25"
+      },
+      {
+        "display_name": "Medium Red",
+        "paint_code": "776869-K",
+        "slug": "medium-red-776869-k",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/medium-red-776869-k/",
+        "source_label": "PaintScratch 2016 American-Coach",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "Silver Green",
+        "paint_code": "776870-K",
+        "slug": "silver-green-776870-k",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/silver-green-776870-k/",
+        "source_label": "PaintScratch 2016 American-Coach",
+        "hex_value": "#D6E0F8"
+      },
+      {
+        "display_name": "Polar Silver (Dupont 776870)",
+        "paint_code": "FLNA94965",
+        "slug": "polar-silver-dupont-776870-flna94965",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/polar-silver-dupont-776870-flna94965/",
+        "source_label": "PaintScratch 2016 American-Coach",
+        "hex_value": "#D6E0F8"
+      },
+      {
+        "display_name": "Black Metallic",
+        "paint_code": "FLNA95598",
+        "slug": "black-metallic-flna95598",
+        "reference_url": "https://www.paintscratch.com/colors/american-coach/black-metallic-flna95598/",
+        "source_label": "PaintScratch 2016 American-Coach",
+        "hex_value": "#000000"
+      }
+    ]
+  }
+}

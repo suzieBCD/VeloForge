@@ -1,0 +1,3402 @@
+{
+  "All Models": {
+    "1965": [
+      {
+        "display_name": "Montecatini Rosso",
+        "paint_code": "DDL 71844D",
+        "slug": "montecatini-rosso-ddl-71844d",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/montecatini-rosso-ddl-71844d/",
+        "source_label": "PaintScratch 1965 Alfa-Romeo",
+        "hex_value": "#AE1212"
+      }
+    ],
+    "1966": [
+      {
+        "display_name": "Montecatini Rosso",
+        "paint_code": "DDL 71844D",
+        "slug": "montecatini-rosso-ddl-71844d",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/montecatini-rosso-ddl-71844d/",
+        "source_label": "PaintScratch 1966 Alfa-Romeo",
+        "hex_value": "#AE1212"
+      },
+      {
+        "display_name": "Bianco Spino",
+        "paint_code": "AR013",
+        "slug": "bianco-spino-ar013",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/bianco-spino-ar013/",
+        "source_label": "PaintScratch 1966 Alfa-Romeo",
+        "hex_value": "#FFFFFF"
+      }
+    ],
+    "1967": [
+      {
+        "display_name": "Montecatini Rosso",
+        "paint_code": "DDL 71844D",
+        "slug": "montecatini-rosso-ddl-71844d",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/montecatini-rosso-ddl-71844d/",
+        "source_label": "PaintScratch 1967 Alfa-Romeo",
+        "hex_value": "#AE1212"
+      },
+      {
+        "display_name": "Ivory",
+        "paint_code": "95-C-2374",
+        "slug": "ivory-95-c-2374",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/ivory-95-c-2374/",
+        "source_label": "PaintScratch 1967 Alfa-Romeo",
+        "hex_value": "#F6F6F0"
+      },
+      {
+        "display_name": "Bright Red",
+        "paint_code": "4042",
+        "slug": "bright-red-4042",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/bright-red-4042/",
+        "source_label": "PaintScratch 1967 Alfa-Romeo",
+        "hex_value": "#AE3926"
+      },
+      {
+        "display_name": "Green",
+        "paint_code": "AR216",
+        "slug": "green-ar216",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/green-ar216/",
+        "source_label": "PaintScratch 1967 Alfa-Romeo",
+        "hex_value": "#2E6D1F"
+      },
+      {
+        "display_name": "Burgundy",
+        "paint_code": "AR516",
+        "slug": "burgundy-ar516",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/burgundy-ar516/",
+        "source_label": "PaintScratch 1967 Alfa-Romeo",
+        "hex_value": "#661C1C"
+      }
+    ],
+    "1968": [
+      {
+        "display_name": "Montecatini Rosso",
+        "paint_code": "DDL 71844D",
+        "slug": "montecatini-rosso-ddl-71844d",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/montecatini-rosso-ddl-71844d/",
+        "source_label": "PaintScratch 1968 Alfa-Romeo",
+        "hex_value": "#AE1212"
+      },
+      {
+        "display_name": "Burgundy",
+        "paint_code": "AR516",
+        "slug": "burgundy-ar516",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/burgundy-ar516/",
+        "source_label": "PaintScratch 1968 Alfa-Romeo",
+        "hex_value": "#661C1C"
+      }
+    ],
+    "1969": [
+      {
+        "display_name": "Alfa Red",
+        "paint_code": "AR501",
+        "slug": "alfa-red-ar501",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/alfa-red-ar501/",
+        "source_label": "PaintScratch 1969 Alfa-Romeo",
+        "hex_value": "#AE1212"
+      },
+      {
+        "display_name": "Signal Red",
+        "paint_code": "AR514/304",
+        "slug": "signal-red-ar514304",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/signal-red-ar514304/",
+        "source_label": "PaintScratch 1969 Alfa-Romeo",
+        "hex_value": "#AE3926"
+      },
+      {
+        "display_name": "Montecatini Rosso",
+        "paint_code": "DDL 71844D",
+        "slug": "montecatini-rosso-ddl-71844d",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/montecatini-rosso-ddl-71844d/",
+        "source_label": "PaintScratch 1969 Alfa-Romeo",
+        "hex_value": "#AE1212"
+      },
+      {
+        "display_name": "Green",
+        "paint_code": "AR216",
+        "slug": "green-ar216",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/green-ar216/",
+        "source_label": "PaintScratch 1969 Alfa-Romeo",
+        "hex_value": "#2E6D1F"
+      },
+      {
+        "display_name": "Burgundy",
+        "paint_code": "AR516",
+        "slug": "burgundy-ar516",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/burgundy-ar516/",
+        "source_label": "PaintScratch 1969 Alfa-Romeo",
+        "hex_value": "#661C1C"
+      }
+    ],
+    "1970": [
+      {
+        "display_name": "Alfa Red",
+        "paint_code": "AR501",
+        "slug": "alfa-red-ar501",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/alfa-red-ar501/",
+        "source_label": "PaintScratch 1970 Alfa-Romeo",
+        "hex_value": "#AE1212"
+      },
+      {
+        "display_name": "Signal Red",
+        "paint_code": "AR514/304",
+        "slug": "signal-red-ar514304",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/signal-red-ar514304/",
+        "source_label": "PaintScratch 1970 Alfa-Romeo",
+        "hex_value": "#AE3926"
+      },
+      {
+        "display_name": "Burgundy",
+        "paint_code": "AR516",
+        "slug": "burgundy-ar516",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/burgundy-ar516/",
+        "source_label": "PaintScratch 1970 Alfa-Romeo",
+        "hex_value": "#661C1C"
+      }
+    ],
+    "1971": [
+      {
+        "display_name": "Alfa Red",
+        "paint_code": "AR501",
+        "slug": "alfa-red-ar501",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/alfa-red-ar501/",
+        "source_label": "PaintScratch 1971 Alfa-Romeo",
+        "hex_value": "#AE1212"
+      },
+      {
+        "display_name": "Signal Red",
+        "paint_code": "AR514/304",
+        "slug": "signal-red-ar514304",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/signal-red-ar514304/",
+        "source_label": "PaintScratch 1971 Alfa-Romeo",
+        "hex_value": "#AE3926"
+      },
+      {
+        "display_name": "Canary Yellow",
+        "paint_code": "AR119",
+        "slug": "canary-yellow-ar119",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/canary-yellow-ar119/",
+        "source_label": "PaintScratch 1971 Alfa-Romeo",
+        "hex_value": "#DCDD73"
+      },
+      {
+        "display_name": "English Racing Green",
+        "paint_code": "AR219",
+        "slug": "english-racing-green-ar219",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/english-racing-green-ar219/",
+        "source_label": "PaintScratch 1971 Alfa-Romeo",
+        "hex_value": "#356141"
+      },
+      {
+        "display_name": "Rosso Amaranto",
+        "paint_code": "AR509",
+        "slug": "rosso-amaranto-ar509",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/rosso-amaranto-ar509/",
+        "source_label": "PaintScratch 1971 Alfa-Romeo",
+        "hex_value": "#761C1A"
+      },
+      {
+        "display_name": "Gray Metallic",
+        "paint_code": "AR737",
+        "slug": "gray-metallic-ar737",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/gray-metallic-ar737/",
+        "source_label": "PaintScratch 1971 Alfa-Romeo",
+        "hex_value": "#686762"
+      }
+    ],
+    "1972": [
+      {
+        "display_name": "Alfa Red",
+        "paint_code": "AR501",
+        "slug": "alfa-red-ar501",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/alfa-red-ar501/",
+        "source_label": "PaintScratch 1972 Alfa-Romeo",
+        "hex_value": "#AE1212"
+      },
+      {
+        "display_name": "Signal Red",
+        "paint_code": "AR514/304",
+        "slug": "signal-red-ar514304",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/signal-red-ar514304/",
+        "source_label": "PaintScratch 1972 Alfa-Romeo",
+        "hex_value": "#AE3926"
+      },
+      {
+        "display_name": "China White",
+        "paint_code": "AR008",
+        "slug": "china-white-ar008",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/china-white-ar008/",
+        "source_label": "PaintScratch 1972 Alfa-Romeo",
+        "hex_value": "#FFFFF5"
+      },
+      {
+        "display_name": "Chalk White",
+        "paint_code": "AR015",
+        "slug": "chalk-white-ar015",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/chalk-white-ar015/",
+        "source_label": "PaintScratch 1972 Alfa-Romeo",
+        "hex_value": "#FFFFF5"
+      },
+      {
+        "display_name": "Canary Yellow",
+        "paint_code": "AR119",
+        "slug": "canary-yellow-ar119",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/canary-yellow-ar119/",
+        "source_label": "PaintScratch 1972 Alfa-Romeo",
+        "hex_value": "#DCDD73"
+      },
+      {
+        "display_name": "English Racing Green",
+        "paint_code": "AR219",
+        "slug": "english-racing-green-ar219",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/english-racing-green-ar219/",
+        "source_label": "PaintScratch 1972 Alfa-Romeo",
+        "hex_value": "#356141"
+      },
+      {
+        "display_name": "Burgundy",
+        "paint_code": "AR516",
+        "slug": "burgundy-ar516",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/burgundy-ar516/",
+        "source_label": "PaintScratch 1972 Alfa-Romeo",
+        "hex_value": "#661C1C"
+      },
+      {
+        "display_name": "Gray Metallic",
+        "paint_code": "AR737",
+        "slug": "gray-metallic-ar737",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/gray-metallic-ar737/",
+        "source_label": "PaintScratch 1972 Alfa-Romeo",
+        "hex_value": "#686762"
+      },
+      {
+        "display_name": "Champagne Metallic",
+        "paint_code": "AR827",
+        "slug": "champagne-metallic-ar827",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/champagne-metallic-ar827/",
+        "source_label": "PaintScratch 1972 Alfa-Romeo",
+        "hex_value": "#BAA77E"
+      }
+    ],
+    "1973": [
+      {
+        "display_name": "Alfa Red",
+        "paint_code": "AR501",
+        "slug": "alfa-red-ar501",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/alfa-red-ar501/",
+        "source_label": "PaintScratch 1973 Alfa-Romeo",
+        "hex_value": "#AE1212"
+      },
+      {
+        "display_name": "Signal Red",
+        "paint_code": "AR514/304",
+        "slug": "signal-red-ar514304",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/signal-red-ar514304/",
+        "source_label": "PaintScratch 1973 Alfa-Romeo",
+        "hex_value": "#AE3926"
+      },
+      {
+        "display_name": "China White",
+        "paint_code": "AR008",
+        "slug": "china-white-ar008",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/china-white-ar008/",
+        "source_label": "PaintScratch 1973 Alfa-Romeo",
+        "hex_value": "#FFFFF5"
+      },
+      {
+        "display_name": "Chalk White",
+        "paint_code": "AR015",
+        "slug": "chalk-white-ar015",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/chalk-white-ar015/",
+        "source_label": "PaintScratch 1973 Alfa-Romeo",
+        "hex_value": "#FFFFF5"
+      },
+      {
+        "display_name": "Pipe Yellow",
+        "paint_code": "AR116",
+        "slug": "pipe-yellow-ar116",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/pipe-yellow-ar116/",
+        "source_label": "PaintScratch 1973 Alfa-Romeo",
+        "hex_value": "#F6EC78"
+      },
+      {
+        "display_name": "Canary Yellow",
+        "paint_code": "AR119",
+        "slug": "canary-yellow-ar119",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/canary-yellow-ar119/",
+        "source_label": "PaintScratch 1973 Alfa-Romeo",
+        "hex_value": "#DCDD73"
+      },
+      {
+        "display_name": "English Racing Green",
+        "paint_code": "AR219",
+        "slug": "english-racing-green-ar219",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/english-racing-green-ar219/",
+        "source_label": "PaintScratch 1973 Alfa-Romeo",
+        "hex_value": "#356141"
+      },
+      {
+        "display_name": "Grigio Indaco",
+        "paint_code": "AR735",
+        "slug": "grigio-indaco-ar735",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/grigio-indaco-ar735/",
+        "source_label": "PaintScratch 1973 Alfa-Romeo",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Gray Metallic",
+        "paint_code": "AR737",
+        "slug": "gray-metallic-ar737",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/gray-metallic-ar737/",
+        "source_label": "PaintScratch 1973 Alfa-Romeo",
+        "hex_value": "#686762"
+      },
+      {
+        "display_name": "Champagne Metallic",
+        "paint_code": "AR827",
+        "slug": "champagne-metallic-ar827",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/champagne-metallic-ar827/",
+        "source_label": "PaintScratch 1973 Alfa-Romeo",
+        "hex_value": "#BAA77E"
+      }
+    ],
+    "1974": [
+      {
+        "display_name": "Alfa Red",
+        "paint_code": "AR501",
+        "slug": "alfa-red-ar501",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/alfa-red-ar501/",
+        "source_label": "PaintScratch 1974 Alfa-Romeo",
+        "hex_value": "#AE1212"
+      },
+      {
+        "display_name": "Signal Red",
+        "paint_code": "AR514/304",
+        "slug": "signal-red-ar514304",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/signal-red-ar514304/",
+        "source_label": "PaintScratch 1974 Alfa-Romeo",
+        "hex_value": "#AE3926"
+      },
+      {
+        "display_name": "China White",
+        "paint_code": "AR008",
+        "slug": "china-white-ar008",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/china-white-ar008/",
+        "source_label": "PaintScratch 1974 Alfa-Romeo",
+        "hex_value": "#FFFFF5"
+      },
+      {
+        "display_name": "Chalk White",
+        "paint_code": "AR015",
+        "slug": "chalk-white-ar015",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/chalk-white-ar015/",
+        "source_label": "PaintScratch 1974 Alfa-Romeo",
+        "hex_value": "#FFFFF5"
+      },
+      {
+        "display_name": "Pipe Yellow",
+        "paint_code": "AR116",
+        "slug": "pipe-yellow-ar116",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/pipe-yellow-ar116/",
+        "source_label": "PaintScratch 1974 Alfa-Romeo",
+        "hex_value": "#F6EC78"
+      },
+      {
+        "display_name": "Canary Yellow",
+        "paint_code": "AR119",
+        "slug": "canary-yellow-ar119",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/canary-yellow-ar119/",
+        "source_label": "PaintScratch 1974 Alfa-Romeo",
+        "hex_value": "#DCDD73"
+      },
+      {
+        "display_name": "English Racing Green",
+        "paint_code": "AR219",
+        "slug": "english-racing-green-ar219",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/english-racing-green-ar219/",
+        "source_label": "PaintScratch 1974 Alfa-Romeo",
+        "hex_value": "#356141"
+      },
+      {
+        "display_name": "Navy Blue",
+        "paint_code": "AR343",
+        "slug": "navy-blue-ar343",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/navy-blue-ar343/",
+        "source_label": "PaintScratch 1974 Alfa-Romeo",
+        "hex_value": "#243450"
+      },
+      {
+        "display_name": "Gray Metallic",
+        "paint_code": "AR737",
+        "slug": "gray-metallic-ar737",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/gray-metallic-ar737/",
+        "source_label": "PaintScratch 1974 Alfa-Romeo",
+        "hex_value": "#686762"
+      },
+      {
+        "display_name": "Champagne Metallic",
+        "paint_code": "AR827",
+        "slug": "champagne-metallic-ar827",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/champagne-metallic-ar827/",
+        "source_label": "PaintScratch 1974 Alfa-Romeo",
+        "hex_value": "#BAA77E"
+      }
+    ],
+    "1975": [
+      {
+        "display_name": "Alfa Red",
+        "paint_code": "AR501",
+        "slug": "alfa-red-ar501",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/alfa-red-ar501/",
+        "source_label": "PaintScratch 1975 Alfa-Romeo",
+        "hex_value": "#AE1212"
+      },
+      {
+        "display_name": "Signal Red",
+        "paint_code": "AR514/304",
+        "slug": "signal-red-ar514304",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/signal-red-ar514304/",
+        "source_label": "PaintScratch 1975 Alfa-Romeo",
+        "hex_value": "#AE3926"
+      },
+      {
+        "display_name": "China White",
+        "paint_code": "AR008",
+        "slug": "china-white-ar008",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/china-white-ar008/",
+        "source_label": "PaintScratch 1975 Alfa-Romeo",
+        "hex_value": "#FFFFF5"
+      },
+      {
+        "display_name": "Bianco Spino",
+        "paint_code": "AR013",
+        "slug": "bianco-spino-ar013",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/bianco-spino-ar013/",
+        "source_label": "PaintScratch 1975 Alfa-Romeo",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Chalk White",
+        "paint_code": "AR015",
+        "slug": "chalk-white-ar015",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/chalk-white-ar015/",
+        "source_label": "PaintScratch 1975 Alfa-Romeo",
+        "hex_value": "#FFFFF5"
+      },
+      {
+        "display_name": "Pipe Yellow",
+        "paint_code": "AR116",
+        "slug": "pipe-yellow-ar116",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/pipe-yellow-ar116/",
+        "source_label": "PaintScratch 1975 Alfa-Romeo",
+        "hex_value": "#F6EC78"
+      },
+      {
+        "display_name": "Canary Yellow",
+        "paint_code": "AR119",
+        "slug": "canary-yellow-ar119",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/canary-yellow-ar119/",
+        "source_label": "PaintScratch 1975 Alfa-Romeo",
+        "hex_value": "#DCDD73"
+      },
+      {
+        "display_name": "Giallo Pozzuoli (yellow) Dupont No. 44396A H",
+        "paint_code": "AR127",
+        "slug": "giallo-pozzuoli-yellow-dupont-no-44396a-h-ar127",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/giallo-pozzuoli-yellow-dupont-no-44396a-h-ar127/",
+        "source_label": "PaintScratch 1975 Alfa-Romeo",
+        "hex_value": "#F0F30D"
+      },
+      {
+        "display_name": "English Racing Green",
+        "paint_code": "AR219",
+        "slug": "english-racing-green-ar219",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/english-racing-green-ar219/",
+        "source_label": "PaintScratch 1975 Alfa-Romeo",
+        "hex_value": "#356141"
+      },
+      {
+        "display_name": "Navy Blue",
+        "paint_code": "AR343",
+        "slug": "navy-blue-ar343",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/navy-blue-ar343/",
+        "source_label": "PaintScratch 1975 Alfa-Romeo",
+        "hex_value": "#243450"
+      },
+      {
+        "display_name": "Medium Blue",
+        "paint_code": "AR349",
+        "slug": "medium-blue-ar349",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/medium-blue-ar349/",
+        "source_label": "PaintScratch 1975 Alfa-Romeo",
+        "hex_value": "#0D2D97"
+      },
+      {
+        "display_name": "Gray Metallic",
+        "paint_code": "AR737",
+        "slug": "gray-metallic-ar737",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/gray-metallic-ar737/",
+        "source_label": "PaintScratch 1975 Alfa-Romeo",
+        "hex_value": "#686762"
+      },
+      {
+        "display_name": "Champagne Metallic",
+        "paint_code": "AR827",
+        "slug": "champagne-metallic-ar827",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/champagne-metallic-ar827/",
+        "source_label": "PaintScratch 1975 Alfa-Romeo",
+        "hex_value": "#BAA77E"
+      }
+    ],
+    "1976": [
+      {
+        "display_name": "Alfa Red",
+        "paint_code": "AR501",
+        "slug": "alfa-red-ar501",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/alfa-red-ar501/",
+        "source_label": "PaintScratch 1976 Alfa-Romeo",
+        "hex_value": "#AE1212"
+      },
+      {
+        "display_name": "Signal Red",
+        "paint_code": "AR514/304",
+        "slug": "signal-red-ar514304",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/signal-red-ar514304/",
+        "source_label": "PaintScratch 1976 Alfa-Romeo",
+        "hex_value": "#AE3926"
+      },
+      {
+        "display_name": "China White",
+        "paint_code": "AR008",
+        "slug": "china-white-ar008",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/china-white-ar008/",
+        "source_label": "PaintScratch 1976 Alfa-Romeo",
+        "hex_value": "#FFFFF5"
+      },
+      {
+        "display_name": "Chalk White",
+        "paint_code": "AR015",
+        "slug": "chalk-white-ar015",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/chalk-white-ar015/",
+        "source_label": "PaintScratch 1976 Alfa-Romeo",
+        "hex_value": "#FFFFF5"
+      },
+      {
+        "display_name": "Pipe Yellow",
+        "paint_code": "AR116",
+        "slug": "pipe-yellow-ar116",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/pipe-yellow-ar116/",
+        "source_label": "PaintScratch 1976 Alfa-Romeo",
+        "hex_value": "#F6EC78"
+      },
+      {
+        "display_name": "Canary Yellow",
+        "paint_code": "AR119",
+        "slug": "canary-yellow-ar119",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/canary-yellow-ar119/",
+        "source_label": "PaintScratch 1976 Alfa-Romeo",
+        "hex_value": "#DCDD73"
+      },
+      {
+        "display_name": "Giallo Pozzuoli (yellow) Dupont No. 44396A H",
+        "paint_code": "AR127",
+        "slug": "giallo-pozzuoli-yellow-dupont-no-44396a-h-ar127",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/giallo-pozzuoli-yellow-dupont-no-44396a-h-ar127/",
+        "source_label": "PaintScratch 1976 Alfa-Romeo",
+        "hex_value": "#F0F30D"
+      },
+      {
+        "display_name": "English Racing Green",
+        "paint_code": "AR219",
+        "slug": "english-racing-green-ar219",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/english-racing-green-ar219/",
+        "source_label": "PaintScratch 1976 Alfa-Romeo",
+        "hex_value": "#356141"
+      },
+      {
+        "display_name": "Farina Blue",
+        "paint_code": "AR323",
+        "slug": "farina-blue-ar323",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/farina-blue-ar323/",
+        "source_label": "PaintScratch 1976 Alfa-Romeo",
+        "hex_value": "#3D4F71"
+      },
+      {
+        "display_name": "Navy Blue",
+        "paint_code": "AR343",
+        "slug": "navy-blue-ar343",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/navy-blue-ar343/",
+        "source_label": "PaintScratch 1976 Alfa-Romeo",
+        "hex_value": "#243450"
+      },
+      {
+        "display_name": "Gray Metallic",
+        "paint_code": "AR737",
+        "slug": "gray-metallic-ar737",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/gray-metallic-ar737/",
+        "source_label": "PaintScratch 1976 Alfa-Romeo",
+        "hex_value": "#686762"
+      },
+      {
+        "display_name": "Champagne Metallic",
+        "paint_code": "AR827",
+        "slug": "champagne-metallic-ar827",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/champagne-metallic-ar827/",
+        "source_label": "PaintScratch 1976 Alfa-Romeo",
+        "hex_value": "#BAA77E"
+      }
+    ],
+    "1977": [
+      {
+        "display_name": "Alfa Red",
+        "paint_code": "AR501",
+        "slug": "alfa-red-ar501",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/alfa-red-ar501/",
+        "source_label": "PaintScratch 1977 Alfa-Romeo",
+        "hex_value": "#AE1212"
+      },
+      {
+        "display_name": "Signal Red",
+        "paint_code": "AR514/304",
+        "slug": "signal-red-ar514304",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/signal-red-ar514304/",
+        "source_label": "PaintScratch 1977 Alfa-Romeo",
+        "hex_value": "#AE3926"
+      },
+      {
+        "display_name": "China White",
+        "paint_code": "AR008",
+        "slug": "china-white-ar008",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/china-white-ar008/",
+        "source_label": "PaintScratch 1977 Alfa-Romeo",
+        "hex_value": "#FFFFF5"
+      },
+      {
+        "display_name": "Chalk White",
+        "paint_code": "AR015",
+        "slug": "chalk-white-ar015",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/chalk-white-ar015/",
+        "source_label": "PaintScratch 1977 Alfa-Romeo",
+        "hex_value": "#FFFFF5"
+      },
+      {
+        "display_name": "Canary Yellow",
+        "paint_code": "AR119",
+        "slug": "canary-yellow-ar119",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/canary-yellow-ar119/",
+        "source_label": "PaintScratch 1977 Alfa-Romeo",
+        "hex_value": "#DCDD73"
+      },
+      {
+        "display_name": "Giallo Pozzuoli (yellow) Dupont No. 44396A H",
+        "paint_code": "AR127",
+        "slug": "giallo-pozzuoli-yellow-dupont-no-44396a-h-ar127",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/giallo-pozzuoli-yellow-dupont-no-44396a-h-ar127/",
+        "source_label": "PaintScratch 1977 Alfa-Romeo",
+        "hex_value": "#F0F30D"
+      },
+      {
+        "display_name": "English Racing Green",
+        "paint_code": "AR219",
+        "slug": "english-racing-green-ar219",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/english-racing-green-ar219/",
+        "source_label": "PaintScratch 1977 Alfa-Romeo",
+        "hex_value": "#356141"
+      },
+      {
+        "display_name": "Navy Blue",
+        "paint_code": "AR343",
+        "slug": "navy-blue-ar343",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/navy-blue-ar343/",
+        "source_label": "PaintScratch 1977 Alfa-Romeo",
+        "hex_value": "#243450"
+      },
+      {
+        "display_name": "Ruby Red Metallic",
+        "paint_code": "AR534",
+        "slug": "ruby-red-metallic-ar534",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/ruby-red-metallic-ar534/",
+        "source_label": "PaintScratch 1977 Alfa-Romeo",
+        "hex_value": "#962020"
+      },
+      {
+        "display_name": "Gray Metallic",
+        "paint_code": "AR737",
+        "slug": "gray-metallic-ar737",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/gray-metallic-ar737/",
+        "source_label": "PaintScratch 1977 Alfa-Romeo",
+        "hex_value": "#686762"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "AR748",
+        "slug": "silver-metallic-ar748",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/silver-metallic-ar748/",
+        "source_label": "PaintScratch 1977 Alfa-Romeo",
+        "hex_value": "#D4D2CE"
+      },
+      {
+        "display_name": "Champagne Metallic",
+        "paint_code": "AR827",
+        "slug": "champagne-metallic-ar827",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/champagne-metallic-ar827/",
+        "source_label": "PaintScratch 1977 Alfa-Romeo",
+        "hex_value": "#BAA77E"
+      }
+    ],
+    "1978": [
+      {
+        "display_name": "Alfa Red",
+        "paint_code": "AR501",
+        "slug": "alfa-red-ar501",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/alfa-red-ar501/",
+        "source_label": "PaintScratch 1978 Alfa-Romeo",
+        "hex_value": "#AE1212"
+      },
+      {
+        "display_name": "Signal Red",
+        "paint_code": "AR514/304",
+        "slug": "signal-red-ar514304",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/signal-red-ar514304/",
+        "source_label": "PaintScratch 1978 Alfa-Romeo",
+        "hex_value": "#AE3926"
+      },
+      {
+        "display_name": "China White",
+        "paint_code": "AR008",
+        "slug": "china-white-ar008",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/china-white-ar008/",
+        "source_label": "PaintScratch 1978 Alfa-Romeo",
+        "hex_value": "#FFFFF5"
+      },
+      {
+        "display_name": "Chalk White",
+        "paint_code": "AR015",
+        "slug": "chalk-white-ar015",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/chalk-white-ar015/",
+        "source_label": "PaintScratch 1978 Alfa-Romeo",
+        "hex_value": "#FFFFF5"
+      },
+      {
+        "display_name": "Straw",
+        "paint_code": "AR103",
+        "slug": "straw-ar103",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/straw-ar103/",
+        "source_label": "PaintScratch 1978 Alfa-Romeo",
+        "hex_value": "#E9E9C9"
+      },
+      {
+        "display_name": "Canary Yellow",
+        "paint_code": "AR119",
+        "slug": "canary-yellow-ar119",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/canary-yellow-ar119/",
+        "source_label": "PaintScratch 1978 Alfa-Romeo",
+        "hex_value": "#DCDD73"
+      },
+      {
+        "display_name": "Giallo Pozzuoli (yellow) Dupont No. 44396A H",
+        "paint_code": "AR127",
+        "slug": "giallo-pozzuoli-yellow-dupont-no-44396a-h-ar127",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/giallo-pozzuoli-yellow-dupont-no-44396a-h-ar127/",
+        "source_label": "PaintScratch 1978 Alfa-Romeo",
+        "hex_value": "#F0F30D"
+      },
+      {
+        "display_name": "English Racing Green",
+        "paint_code": "AR219",
+        "slug": "english-racing-green-ar219",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/english-racing-green-ar219/",
+        "source_label": "PaintScratch 1978 Alfa-Romeo",
+        "hex_value": "#356141"
+      },
+      {
+        "display_name": "Navy Blue",
+        "paint_code": "AR343",
+        "slug": "navy-blue-ar343",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/navy-blue-ar343/",
+        "source_label": "PaintScratch 1978 Alfa-Romeo",
+        "hex_value": "#243450"
+      },
+      {
+        "display_name": "Ruby Red Metallic",
+        "paint_code": "AR534",
+        "slug": "ruby-red-metallic-ar534",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/ruby-red-metallic-ar534/",
+        "source_label": "PaintScratch 1978 Alfa-Romeo",
+        "hex_value": "#962020"
+      },
+      {
+        "display_name": "Gray Metallic",
+        "paint_code": "AR737",
+        "slug": "gray-metallic-ar737",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/gray-metallic-ar737/",
+        "source_label": "PaintScratch 1978 Alfa-Romeo",
+        "hex_value": "#686762"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "AR748",
+        "slug": "silver-metallic-ar748",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/silver-metallic-ar748/",
+        "source_label": "PaintScratch 1978 Alfa-Romeo",
+        "hex_value": "#D4D2CE"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "AR751",
+        "slug": "silver-metallic-ar751",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/silver-metallic-ar751/",
+        "source_label": "PaintScratch 1978 Alfa-Romeo",
+        "hex_value": "#D4D2CE"
+      },
+      {
+        "display_name": "Champagne Metallic",
+        "paint_code": "AR827",
+        "slug": "champagne-metallic-ar827",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/champagne-metallic-ar827/",
+        "source_label": "PaintScratch 1978 Alfa-Romeo",
+        "hex_value": "#BAA77E"
+      },
+      {
+        "display_name": "Chocolate Brown",
+        "paint_code": "AR836",
+        "slug": "chocolate-brown-ar836",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/chocolate-brown-ar836/",
+        "source_label": "PaintScratch 1978 Alfa-Romeo",
+        "hex_value": "#6C513C"
+      }
+    ],
+    "1979": [
+      {
+        "display_name": "Alfa Red",
+        "paint_code": "AR501",
+        "slug": "alfa-red-ar501",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/alfa-red-ar501/",
+        "source_label": "PaintScratch 1979 Alfa-Romeo",
+        "hex_value": "#AE1212"
+      },
+      {
+        "display_name": "Signal Red",
+        "paint_code": "AR514/304",
+        "slug": "signal-red-ar514304",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/signal-red-ar514304/",
+        "source_label": "PaintScratch 1979 Alfa-Romeo",
+        "hex_value": "#AE3926"
+      },
+      {
+        "display_name": "China White",
+        "paint_code": "AR008",
+        "slug": "china-white-ar008",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/china-white-ar008/",
+        "source_label": "PaintScratch 1979 Alfa-Romeo",
+        "hex_value": "#FFFFF5"
+      },
+      {
+        "display_name": "Chalk White",
+        "paint_code": "AR015",
+        "slug": "chalk-white-ar015",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/chalk-white-ar015/",
+        "source_label": "PaintScratch 1979 Alfa-Romeo",
+        "hex_value": "#FFFFF5"
+      },
+      {
+        "display_name": "Straw",
+        "paint_code": "AR103",
+        "slug": "straw-ar103",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/straw-ar103/",
+        "source_label": "PaintScratch 1979 Alfa-Romeo",
+        "hex_value": "#E9E9C9"
+      },
+      {
+        "display_name": "English Racing Green",
+        "paint_code": "AR219",
+        "slug": "english-racing-green-ar219",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/english-racing-green-ar219/",
+        "source_label": "PaintScratch 1979 Alfa-Romeo",
+        "hex_value": "#356141"
+      },
+      {
+        "display_name": "Navy Blue",
+        "paint_code": "AR343",
+        "slug": "navy-blue-ar343",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/navy-blue-ar343/",
+        "source_label": "PaintScratch 1979 Alfa-Romeo",
+        "hex_value": "#243450"
+      },
+      {
+        "display_name": "Ruby Red Metallic",
+        "paint_code": "AR534",
+        "slug": "ruby-red-metallic-ar534",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/ruby-red-metallic-ar534/",
+        "source_label": "PaintScratch 1979 Alfa-Romeo",
+        "hex_value": "#962020"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "AR751",
+        "slug": "silver-metallic-ar751",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/silver-metallic-ar751/",
+        "source_label": "PaintScratch 1979 Alfa-Romeo",
+        "hex_value": "#D4D2CE"
+      },
+      {
+        "display_name": "Chocolate Brown",
+        "paint_code": "AR836",
+        "slug": "chocolate-brown-ar836",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/chocolate-brown-ar836/",
+        "source_label": "PaintScratch 1979 Alfa-Romeo",
+        "hex_value": "#6C513C"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "AR901",
+        "slug": "black-ar901",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/black-ar901/",
+        "source_label": "PaintScratch 1979 Alfa-Romeo",
+        "hex_value": "#191B1A"
+      }
+    ],
+    "1980": [
+      {
+        "display_name": "Alfa Red",
+        "paint_code": "AR501",
+        "slug": "alfa-red-ar501",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/alfa-red-ar501/",
+        "source_label": "PaintScratch 1980 Alfa-Romeo",
+        "hex_value": "#AE1212"
+      },
+      {
+        "display_name": "Signal Red",
+        "paint_code": "AR514/304",
+        "slug": "signal-red-ar514304",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/signal-red-ar514304/",
+        "source_label": "PaintScratch 1980 Alfa-Romeo",
+        "hex_value": "#AE3926"
+      },
+      {
+        "display_name": "China White",
+        "paint_code": "AR008",
+        "slug": "china-white-ar008",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/china-white-ar008/",
+        "source_label": "PaintScratch 1980 Alfa-Romeo",
+        "hex_value": "#FFFFF5"
+      },
+      {
+        "display_name": "Chalk White",
+        "paint_code": "AR015",
+        "slug": "chalk-white-ar015",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/chalk-white-ar015/",
+        "source_label": "PaintScratch 1980 Alfa-Romeo",
+        "hex_value": "#FFFFF5"
+      },
+      {
+        "display_name": "Straw",
+        "paint_code": "AR103",
+        "slug": "straw-ar103",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/straw-ar103/",
+        "source_label": "PaintScratch 1980 Alfa-Romeo",
+        "hex_value": "#E9E9C9"
+      },
+      {
+        "display_name": "English Racing Green",
+        "paint_code": "AR219",
+        "slug": "english-racing-green-ar219",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/english-racing-green-ar219/",
+        "source_label": "PaintScratch 1980 Alfa-Romeo",
+        "hex_value": "#356141"
+      },
+      {
+        "display_name": "Navy Blue",
+        "paint_code": "AR343",
+        "slug": "navy-blue-ar343",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/navy-blue-ar343/",
+        "source_label": "PaintScratch 1980 Alfa-Romeo",
+        "hex_value": "#243450"
+      },
+      {
+        "display_name": "Ruby Red Metallic",
+        "paint_code": "AR534",
+        "slug": "ruby-red-metallic-ar534",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/ruby-red-metallic-ar534/",
+        "source_label": "PaintScratch 1980 Alfa-Romeo",
+        "hex_value": "#962020"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "AR751",
+        "slug": "silver-metallic-ar751",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/silver-metallic-ar751/",
+        "source_label": "PaintScratch 1980 Alfa-Romeo",
+        "hex_value": "#D4D2CE"
+      },
+      {
+        "display_name": "Chocolate Brown",
+        "paint_code": "AR836",
+        "slug": "chocolate-brown-ar836",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/chocolate-brown-ar836/",
+        "source_label": "PaintScratch 1980 Alfa-Romeo",
+        "hex_value": "#6C513C"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "AR901",
+        "slug": "black-ar901",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/black-ar901/",
+        "source_label": "PaintScratch 1980 Alfa-Romeo",
+        "hex_value": "#191B1A"
+      }
+    ],
+    "1981": [
+      {
+        "display_name": "Signal Red",
+        "paint_code": "AR514/304",
+        "slug": "signal-red-ar514304",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/signal-red-ar514304/",
+        "source_label": "PaintScratch 1981 Alfa-Romeo",
+        "hex_value": "#AE3926"
+      },
+      {
+        "display_name": "China White",
+        "paint_code": "AR008",
+        "slug": "china-white-ar008",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/china-white-ar008/",
+        "source_label": "PaintScratch 1981 Alfa-Romeo",
+        "hex_value": "#FFFFF5"
+      },
+      {
+        "display_name": "Chalk White",
+        "paint_code": "AR015",
+        "slug": "chalk-white-ar015",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/chalk-white-ar015/",
+        "source_label": "PaintScratch 1981 Alfa-Romeo",
+        "hex_value": "#FFFFF5"
+      },
+      {
+        "display_name": "Straw",
+        "paint_code": "AR103",
+        "slug": "straw-ar103",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/straw-ar103/",
+        "source_label": "PaintScratch 1981 Alfa-Romeo",
+        "hex_value": "#E9E9C9"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "AR751",
+        "slug": "silver-metallic-ar751",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/silver-metallic-ar751/",
+        "source_label": "PaintScratch 1981 Alfa-Romeo",
+        "hex_value": "#D4D2CE"
+      },
+      {
+        "display_name": "Grigio (Grey) Nube Metallic",
+        "paint_code": "AR759",
+        "slug": "grigio-grey-nube-metallic-ar759",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/grigio-grey-nube-metallic-ar759/",
+        "source_label": "PaintScratch 1981 Alfa-Romeo",
+        "hex_value": "#616A73"
+      },
+      {
+        "display_name": "Chocolate Brown",
+        "paint_code": "AR836",
+        "slug": "chocolate-brown-ar836",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/chocolate-brown-ar836/",
+        "source_label": "PaintScratch 1981 Alfa-Romeo",
+        "hex_value": "#6C513C"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "AR901",
+        "slug": "black-ar901",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/black-ar901/",
+        "source_label": "PaintScratch 1981 Alfa-Romeo",
+        "hex_value": "#191B1A"
+      }
+    ],
+    "1982": [
+      {
+        "display_name": "Signal Red",
+        "paint_code": "AR514/304",
+        "slug": "signal-red-ar514304",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/signal-red-ar514304/",
+        "source_label": "PaintScratch 1982 Alfa-Romeo",
+        "hex_value": "#AE3926"
+      },
+      {
+        "display_name": "China White",
+        "paint_code": "AR008",
+        "slug": "china-white-ar008",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/china-white-ar008/",
+        "source_label": "PaintScratch 1982 Alfa-Romeo",
+        "hex_value": "#FFFFF5"
+      },
+      {
+        "display_name": "Chalk White",
+        "paint_code": "AR015",
+        "slug": "chalk-white-ar015",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/chalk-white-ar015/",
+        "source_label": "PaintScratch 1982 Alfa-Romeo",
+        "hex_value": "#FFFFF5"
+      },
+      {
+        "display_name": "Straw",
+        "paint_code": "AR103",
+        "slug": "straw-ar103",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/straw-ar103/",
+        "source_label": "PaintScratch 1982 Alfa-Romeo",
+        "hex_value": "#E9E9C9"
+      },
+      {
+        "display_name": "Light Aqua Metallic",
+        "paint_code": "AR365",
+        "slug": "light-aqua-metallic-ar365",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/light-aqua-metallic-ar365/",
+        "source_label": "PaintScratch 1982 Alfa-Romeo",
+        "hex_value": "#C5D9D6"
+      },
+      {
+        "display_name": "Red",
+        "paint_code": "AR530",
+        "slug": "red-ar530",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/red-ar530/",
+        "source_label": "PaintScratch 1982 Alfa-Romeo",
+        "hex_value": "#AE3926"
+      },
+      {
+        "display_name": "Grigio (Grey) Nube Metallic",
+        "paint_code": "AR759",
+        "slug": "grigio-grey-nube-metallic-ar759",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/grigio-grey-nube-metallic-ar759/",
+        "source_label": "PaintScratch 1982 Alfa-Romeo",
+        "hex_value": "#616A73"
+      }
+    ],
+    "1983": [
+      {
+        "display_name": "Signal Red",
+        "paint_code": "AR514/304",
+        "slug": "signal-red-ar514304",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/signal-red-ar514304/",
+        "source_label": "PaintScratch 1983 Alfa-Romeo",
+        "hex_value": "#AE3926"
+      },
+      {
+        "display_name": "China White",
+        "paint_code": "AR008",
+        "slug": "china-white-ar008",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/china-white-ar008/",
+        "source_label": "PaintScratch 1983 Alfa-Romeo",
+        "hex_value": "#FFFFF5"
+      },
+      {
+        "display_name": "Chalk White",
+        "paint_code": "AR015",
+        "slug": "chalk-white-ar015",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/chalk-white-ar015/",
+        "source_label": "PaintScratch 1983 Alfa-Romeo",
+        "hex_value": "#FFFFF5"
+      },
+      {
+        "display_name": "Straw",
+        "paint_code": "AR103",
+        "slug": "straw-ar103",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/straw-ar103/",
+        "source_label": "PaintScratch 1983 Alfa-Romeo",
+        "hex_value": "#E9E9C9"
+      },
+      {
+        "display_name": "Grigio (Grey) Nube Metallic",
+        "paint_code": "AR759",
+        "slug": "grigio-grey-nube-metallic-ar759",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/grigio-grey-nube-metallic-ar759/",
+        "source_label": "PaintScratch 1983 Alfa-Romeo",
+        "hex_value": "#616A73"
+      }
+    ],
+    "1984": [
+      {
+        "display_name": "Signal Red",
+        "paint_code": "AR514/304",
+        "slug": "signal-red-ar514304",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/signal-red-ar514304/",
+        "source_label": "PaintScratch 1984 Alfa-Romeo",
+        "hex_value": "#AE3926"
+      },
+      {
+        "display_name": "Ivory",
+        "paint_code": "103",
+        "slug": "ivory-103",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/ivory-103/",
+        "source_label": "PaintScratch 1984 Alfa-Romeo",
+        "hex_value": "#E6E7B7"
+      },
+      {
+        "display_name": "Red Metallic",
+        "paint_code": "143/547",
+        "slug": "red-metallic-143547",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/red-metallic-143547/",
+        "source_label": "PaintScratch 1984 Alfa-Romeo",
+        "hex_value": "#7F1F1F"
+      },
+      {
+        "display_name": "White",
+        "paint_code": "241/008",
+        "slug": "white-241008",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/white-241008/",
+        "source_label": "PaintScratch 1984 Alfa-Romeo",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Freen",
+        "paint_code": "246",
+        "slug": "freen-246",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/freen-246/",
+        "source_label": "PaintScratch 1984 Alfa-Romeo",
+        "hex_value": "#357C2C"
+      },
+      {
+        "display_name": "Alfa Red",
+        "paint_code": "501",
+        "slug": "alfa-red-501",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/alfa-red-501/",
+        "source_label": "PaintScratch 1984 Alfa-Romeo",
+        "hex_value": "#B61E1E"
+      },
+      {
+        "display_name": "Navajo Red",
+        "paint_code": "551",
+        "slug": "navajo-red-551",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/navajo-red-551/",
+        "source_label": "PaintScratch 1984 Alfa-Romeo",
+        "hex_value": "#A04646"
+      },
+      {
+        "display_name": "Grigio Chiaro Metallic",
+        "paint_code": "762",
+        "slug": "grigio-chiaro-metallic-762",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/grigio-chiaro-metallic-762/",
+        "source_label": "PaintScratch 1984 Alfa-Romeo",
+        "hex_value": "#746E64"
+      },
+      {
+        "display_name": "Black Metallic",
+        "paint_code": "907",
+        "slug": "black-metallic-907",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/black-metallic-907/",
+        "source_label": "PaintScratch 1984 Alfa-Romeo",
+        "hex_value": "#070707"
+      },
+      {
+        "display_name": "Black Metallic",
+        "paint_code": "909",
+        "slug": "black-metallic-909",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/black-metallic-909/",
+        "source_label": "PaintScratch 1984 Alfa-Romeo",
+        "hex_value": "#070707"
+      },
+      {
+        "display_name": "China White",
+        "paint_code": "AR008",
+        "slug": "china-white-ar008",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/china-white-ar008/",
+        "source_label": "PaintScratch 1984 Alfa-Romeo",
+        "hex_value": "#FFFFF5"
+      },
+      {
+        "display_name": "Chalk White",
+        "paint_code": "AR015",
+        "slug": "chalk-white-ar015",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/chalk-white-ar015/",
+        "source_label": "PaintScratch 1984 Alfa-Romeo",
+        "hex_value": "#FFFFF5"
+      },
+      {
+        "display_name": "Straw",
+        "paint_code": "AR103",
+        "slug": "straw-ar103",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/straw-ar103/",
+        "source_label": "PaintScratch 1984 Alfa-Romeo",
+        "hex_value": "#E9E9C9"
+      }
+    ],
+    "1985": [
+      {
+        "display_name": "Signal Red",
+        "paint_code": "AR514/304",
+        "slug": "signal-red-ar514304",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/signal-red-ar514304/",
+        "source_label": "PaintScratch 1985 Alfa-Romeo",
+        "hex_value": "#AE3926"
+      },
+      {
+        "display_name": "China White",
+        "paint_code": "AR008",
+        "slug": "china-white-ar008",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/china-white-ar008/",
+        "source_label": "PaintScratch 1985 Alfa-Romeo",
+        "hex_value": "#FFFFF5"
+      },
+      {
+        "display_name": "Chalk White",
+        "paint_code": "AR015",
+        "slug": "chalk-white-ar015",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/chalk-white-ar015/",
+        "source_label": "PaintScratch 1985 Alfa-Romeo",
+        "hex_value": "#FFFFF5"
+      },
+      {
+        "display_name": "Straw",
+        "paint_code": "AR103",
+        "slug": "straw-ar103",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/straw-ar103/",
+        "source_label": "PaintScratch 1985 Alfa-Romeo",
+        "hex_value": "#E9E9C9"
+      }
+    ],
+    "1986": [
+      {
+        "display_name": "Arctic White",
+        "paint_code": "008",
+        "slug": "arctic-white-008",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/arctic-white-008/",
+        "source_label": "PaintScratch 1986 Alfa-Romeo",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Shell White",
+        "paint_code": "015",
+        "slug": "shell-white-015",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/shell-white-015/",
+        "source_label": "PaintScratch 1986 Alfa-Romeo",
+        "hex_value": "#EEEBD6"
+      },
+      {
+        "display_name": "Silver Pearl Metallic",
+        "paint_code": "022",
+        "slug": "silver-pearl-metallic-022",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/silver-pearl-metallic-022/",
+        "source_label": "PaintScratch 1986 Alfa-Romeo",
+        "hex_value": "#E3E7EB"
+      },
+      {
+        "display_name": "Freen",
+        "paint_code": "246",
+        "slug": "freen-246",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/freen-246/",
+        "source_label": "PaintScratch 1986 Alfa-Romeo",
+        "hex_value": "#357C2C"
+      },
+      {
+        "display_name": "Midnight Blue",
+        "paint_code": "369",
+        "slug": "midnight-blue-369",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/midnight-blue-369/",
+        "source_label": "PaintScratch 1986 Alfa-Romeo",
+        "hex_value": "#030553"
+      },
+      {
+        "display_name": "Stellar Blue Metallic",
+        "paint_code": "370",
+        "slug": "stellar-blue-metallic-370",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/stellar-blue-metallic-370/",
+        "source_label": "PaintScratch 1986 Alfa-Romeo",
+        "hex_value": "#5C7E94"
+      },
+      {
+        "display_name": "Alfa Red",
+        "paint_code": "530",
+        "slug": "alfa-red-530",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/alfa-red-530/",
+        "source_label": "PaintScratch 1986 Alfa-Romeo",
+        "hex_value": "#B61E1E"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "767",
+        "slug": "silver-metallic-767",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/silver-metallic-767/",
+        "source_label": "PaintScratch 1986 Alfa-Romeo",
+        "hex_value": "#EBE7E7"
+      },
+      {
+        "display_name": "Champagne Metallic",
+        "paint_code": "843",
+        "slug": "champagne-metallic-843",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/champagne-metallic-843/",
+        "source_label": "PaintScratch 1986 Alfa-Romeo",
+        "hex_value": "#DBC597"
+      },
+      {
+        "display_name": "Champagne Metallic",
+        "paint_code": "855",
+        "slug": "champagne-metallic-855",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/champagne-metallic-855/",
+        "source_label": "PaintScratch 1986 Alfa-Romeo",
+        "hex_value": "#DBC597"
+      },
+      {
+        "display_name": "Jet Black",
+        "paint_code": "913/914",
+        "slug": "jet-black-913914",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/jet-black-913914/",
+        "source_label": "PaintScratch 1986 Alfa-Romeo",
+        "hex_value": "#070707"
+      },
+      {
+        "display_name": "China White",
+        "paint_code": "AR008",
+        "slug": "china-white-ar008",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/china-white-ar008/",
+        "source_label": "PaintScratch 1986 Alfa-Romeo",
+        "hex_value": "#FFFFF5"
+      },
+      {
+        "display_name": "Chalk White",
+        "paint_code": "AR015",
+        "slug": "chalk-white-ar015",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/chalk-white-ar015/",
+        "source_label": "PaintScratch 1986 Alfa-Romeo",
+        "hex_value": "#FFFFF5"
+      },
+      {
+        "display_name": "Straw",
+        "paint_code": "AR103",
+        "slug": "straw-ar103",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/straw-ar103/",
+        "source_label": "PaintScratch 1986 Alfa-Romeo",
+        "hex_value": "#E9E9C9"
+      }
+    ],
+    "1987": [
+      {
+        "display_name": "Beige",
+        "paint_code": "AR856",
+        "slug": "beige-ar856",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/beige-ar856/",
+        "source_label": "PaintScratch 1987 Alfa-Romeo",
+        "hex_value": "#E9D9A1"
+      },
+      {
+        "display_name": "Silver Pearl Metallic",
+        "paint_code": "022",
+        "slug": "silver-pearl-metallic-022",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/silver-pearl-metallic-022/",
+        "source_label": "PaintScratch 1987 Alfa-Romeo",
+        "hex_value": "#E3E7EB"
+      },
+      {
+        "display_name": "Stellar Blue Metallic",
+        "paint_code": "370",
+        "slug": "stellar-blue-metallic-370",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/stellar-blue-metallic-370/",
+        "source_label": "PaintScratch 1987 Alfa-Romeo",
+        "hex_value": "#5C7E94"
+      },
+      {
+        "display_name": "Stellar Blue Metallic",
+        "paint_code": "371",
+        "slug": "stellar-blue-metallic-371",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/stellar-blue-metallic-371/",
+        "source_label": "PaintScratch 1987 Alfa-Romeo",
+        "hex_value": "#5C7E94"
+      },
+      {
+        "display_name": "Mediterranean Blue Metallic",
+        "paint_code": "375",
+        "slug": "mediterranean-blue-metallic-375",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/mediterranean-blue-metallic-375/",
+        "source_label": "PaintScratch 1987 Alfa-Romeo",
+        "hex_value": "#6C849C"
+      },
+      {
+        "display_name": "Alfa Red",
+        "paint_code": "530",
+        "slug": "alfa-red-530",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/alfa-red-530/",
+        "source_label": "PaintScratch 1987 Alfa-Romeo",
+        "hex_value": "#B61E1E"
+      },
+      {
+        "display_name": "Cabernet Red Metallic",
+        "paint_code": "547",
+        "slug": "cabernet-red-metallic-547",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/cabernet-red-metallic-547/",
+        "source_label": "PaintScratch 1987 Alfa-Romeo",
+        "hex_value": "#660E0E"
+      },
+      {
+        "display_name": "Bordeaux Red Metallic",
+        "paint_code": "552",
+        "slug": "bordeaux-red-metallic-552",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/bordeaux-red-metallic-552/",
+        "source_label": "PaintScratch 1987 Alfa-Romeo",
+        "hex_value": "#800000"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "767",
+        "slug": "silver-metallic-767",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/silver-metallic-767/",
+        "source_label": "PaintScratch 1987 Alfa-Romeo",
+        "hex_value": "#EBE7E7"
+      },
+      {
+        "display_name": "Almond (Light Yellow)",
+        "paint_code": "856",
+        "slug": "almond-light-yellow-856",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/almond-light-yellow-856/",
+        "source_label": "PaintScratch 1987 Alfa-Romeo",
+        "hex_value": "#EFEAAF"
+      },
+      {
+        "display_name": "Jet Black",
+        "paint_code": "914",
+        "slug": "jet-black-914",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/jet-black-914/",
+        "source_label": "PaintScratch 1987 Alfa-Romeo",
+        "hex_value": "#070707"
+      },
+      {
+        "display_name": "Blu Chiaro Metallic",
+        "paint_code": "945",
+        "slug": "blu-chiaro-metallic-945",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/blu-chiaro-metallic-945/",
+        "source_label": "PaintScratch 1987 Alfa-Romeo",
+        "hex_value": "#2F718D"
+      }
+    ],
+    "1988": [
+      {
+        "display_name": "Silver Pearl Metallic",
+        "paint_code": "022",
+        "slug": "silver-pearl-metallic-022",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/silver-pearl-metallic-022/",
+        "source_label": "PaintScratch 1988 Alfa-Romeo",
+        "hex_value": "#E3E7EB"
+      },
+      {
+        "display_name": "White",
+        "paint_code": "024",
+        "slug": "white-024",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/white-024/",
+        "source_label": "PaintScratch 1988 Alfa-Romeo",
+        "hex_value": "#F8F9F1"
+      },
+      {
+        "display_name": "Red Metallic",
+        "paint_code": "143/547",
+        "slug": "red-metallic-143547",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/red-metallic-143547/",
+        "source_label": "PaintScratch 1988 Alfa-Romeo",
+        "hex_value": "#7F1F1F"
+      },
+      {
+        "display_name": "Stellar Blue Metallic",
+        "paint_code": "370",
+        "slug": "stellar-blue-metallic-370",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/stellar-blue-metallic-370/",
+        "source_label": "PaintScratch 1988 Alfa-Romeo",
+        "hex_value": "#5C7E94"
+      },
+      {
+        "display_name": "Stellar Blue Metallic",
+        "paint_code": "371",
+        "slug": "stellar-blue-metallic-371",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/stellar-blue-metallic-371/",
+        "source_label": "PaintScratch 1988 Alfa-Romeo",
+        "hex_value": "#5C7E94"
+      },
+      {
+        "display_name": "Light Blue Metallic",
+        "paint_code": "382",
+        "slug": "light-blue-metallic-382",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/light-blue-metallic-382/",
+        "source_label": "PaintScratch 1988 Alfa-Romeo",
+        "hex_value": "#6389A1"
+      },
+      {
+        "display_name": "Alfa Red",
+        "paint_code": "530",
+        "slug": "alfa-red-530",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/alfa-red-530/",
+        "source_label": "PaintScratch 1988 Alfa-Romeo",
+        "hex_value": "#B61E1E"
+      },
+      {
+        "display_name": "Cabernet Red Metallic",
+        "paint_code": "547",
+        "slug": "cabernet-red-metallic-547",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/cabernet-red-metallic-547/",
+        "source_label": "PaintScratch 1988 Alfa-Romeo",
+        "hex_value": "#660E0E"
+      },
+      {
+        "display_name": "Alfa Red",
+        "paint_code": "555",
+        "slug": "alfa-red-555",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/alfa-red-555/",
+        "source_label": "PaintScratch 1988 Alfa-Romeo",
+        "hex_value": "#B61E1E"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "767",
+        "slug": "silver-metallic-767",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/silver-metallic-767/",
+        "source_label": "PaintScratch 1988 Alfa-Romeo",
+        "hex_value": "#EBE7E7"
+      },
+      {
+        "display_name": "Light Gray Metallic",
+        "paint_code": "768",
+        "slug": "light-gray-metallic-768",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/light-gray-metallic-768/",
+        "source_label": "PaintScratch 1988 Alfa-Romeo",
+        "hex_value": "#B9B7B5"
+      },
+      {
+        "display_name": "Metallic Gray",
+        "paint_code": "776",
+        "slug": "metallic-gray-776",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/metallic-gray-776/",
+        "source_label": "PaintScratch 1988 Alfa-Romeo",
+        "hex_value": "#817F79"
+      },
+      {
+        "display_name": "Almond (Light Yellow)",
+        "paint_code": "856",
+        "slug": "almond-light-yellow-856",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/almond-light-yellow-856/",
+        "source_label": "PaintScratch 1988 Alfa-Romeo",
+        "hex_value": "#EFEAAF"
+      },
+      {
+        "display_name": "Jet Black",
+        "paint_code": "913/914",
+        "slug": "jet-black-913914",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/jet-black-913914/",
+        "source_label": "PaintScratch 1988 Alfa-Romeo",
+        "hex_value": "#070707"
+      },
+      {
+        "display_name": "Blu Chiaro Metallic",
+        "paint_code": "945",
+        "slug": "blu-chiaro-metallic-945",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/blu-chiaro-metallic-945/",
+        "source_label": "PaintScratch 1988 Alfa-Romeo",
+        "hex_value": "#2F718D"
+      }
+    ],
+    "1989": [
+      {
+        "display_name": "Nero Black",
+        "paint_code": "817",
+        "slug": "nero-black-817",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/nero-black-817/",
+        "source_label": "PaintScratch 1989 Alfa-Romeo",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Alfa Red",
+        "paint_code": "130",
+        "slug": "alfa-red-130",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/alfa-red-130/",
+        "source_label": "PaintScratch 1989 Alfa-Romeo",
+        "hex_value": "#AE3926"
+      },
+      {
+        "display_name": "Stellar Blue Metallic",
+        "paint_code": "370",
+        "slug": "stellar-blue-metallic-370",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/stellar-blue-metallic-370/",
+        "source_label": "PaintScratch 1989 Alfa-Romeo",
+        "hex_value": "#5C7E94"
+      },
+      {
+        "display_name": "Alfa Red",
+        "paint_code": "555",
+        "slug": "alfa-red-555",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/alfa-red-555/",
+        "source_label": "PaintScratch 1989 Alfa-Romeo",
+        "hex_value": "#B61E1E"
+      },
+      {
+        "display_name": "Blu Chiaro Metallic",
+        "paint_code": "945",
+        "slug": "blu-chiaro-metallic-945",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/blu-chiaro-metallic-945/",
+        "source_label": "PaintScratch 1989 Alfa-Romeo",
+        "hex_value": "#2F718D"
+      },
+      {
+        "display_name": "Gray",
+        "paint_code": "AR776",
+        "slug": "gray-ar776",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/gray-ar776/",
+        "source_label": "PaintScratch 1989 Alfa-Romeo",
+        "hex_value": "#C0C0C0"
+      }
+    ],
+    "1990": [
+      {
+        "display_name": "Alfa Red",
+        "paint_code": "130",
+        "slug": "alfa-red-130",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/alfa-red-130/",
+        "source_label": "PaintScratch 1990 Alfa-Romeo",
+        "hex_value": "#AE3926"
+      },
+      {
+        "display_name": "Blu Chiaro Metallic",
+        "paint_code": "945",
+        "slug": "blu-chiaro-metallic-945",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/blu-chiaro-metallic-945/",
+        "source_label": "PaintScratch 1990 Alfa-Romeo",
+        "hex_value": "#2F718D"
+      }
+    ],
+    "1991": [
+      {
+        "display_name": "Alfa Red",
+        "paint_code": "130",
+        "slug": "alfa-red-130",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/alfa-red-130/",
+        "source_label": "PaintScratch 1991 Alfa-Romeo",
+        "hex_value": "#AE3926"
+      },
+      {
+        "display_name": "Nero",
+        "paint_code": "601",
+        "slug": "nero-601",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/nero-601/",
+        "source_label": "PaintScratch 1991 Alfa-Romeo",
+        "hex_value": "#070707"
+      },
+      {
+        "display_name": "Blu Chiaro Metallic",
+        "paint_code": "945",
+        "slug": "blu-chiaro-metallic-945",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/blu-chiaro-metallic-945/",
+        "source_label": "PaintScratch 1991 Alfa-Romeo",
+        "hex_value": "#2F718D"
+      },
+      {
+        "display_name": "White",
+        "paint_code": "AR230",
+        "slug": "white-ar230",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/white-ar230/",
+        "source_label": "PaintScratch 1991 Alfa-Romeo",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Grigio Chiaro Metallizzato",
+        "paint_code": "AR676",
+        "slug": "grigio-chiaro-metallizzato-ar676",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/grigio-chiaro-metallizzato-ar676/",
+        "source_label": "PaintScratch 1991 Alfa-Romeo",
+        "hex_value": "#B7B6B1"
+      }
+    ],
+    "1992": [
+      {
+        "display_name": "Alfa Red",
+        "paint_code": "130",
+        "slug": "alfa-red-130",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/alfa-red-130/",
+        "source_label": "PaintScratch 1992 Alfa-Romeo",
+        "hex_value": "#AE3926"
+      },
+      {
+        "display_name": "Yellow",
+        "paint_code": "258/A",
+        "slug": "yellow-258a",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/yellow-258a/",
+        "source_label": "PaintScratch 1992 Alfa-Romeo",
+        "hex_value": "#E9E21B"
+      },
+      {
+        "display_name": "Grigio Chiaro Metallizzato",
+        "paint_code": "AR676",
+        "slug": "grigio-chiaro-metallizzato-ar676",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/grigio-chiaro-metallizzato-ar676/",
+        "source_label": "PaintScratch 1992 Alfa-Romeo",
+        "hex_value": "#B7B6B1"
+      }
+    ],
+    "1993": [
+      {
+        "display_name": "Verde Inglese",
+        "paint_code": "306",
+        "slug": "verde-inglese-306",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/verde-inglese-306/",
+        "source_label": "PaintScratch 1993 Alfa-Romeo",
+        "hex_value": "#384D2B"
+      },
+      {
+        "display_name": "Alfa Red",
+        "paint_code": "130",
+        "slug": "alfa-red-130",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/alfa-red-130/",
+        "source_label": "PaintScratch 1993 Alfa-Romeo",
+        "hex_value": "#AE3926"
+      },
+      {
+        "display_name": "White",
+        "paint_code": "AR230",
+        "slug": "white-ar230",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/white-ar230/",
+        "source_label": "PaintScratch 1993 Alfa-Romeo",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Green Metallic",
+        "paint_code": "AR364",
+        "slug": "green-metallic-ar364",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/green-metallic-ar364/",
+        "source_label": "PaintScratch 1993 Alfa-Romeo",
+        "hex_value": "#467D39"
+      },
+      {
+        "display_name": "Grigio Chiaro Metallizzato",
+        "paint_code": "AR676",
+        "slug": "grigio-chiaro-metallizzato-ar676",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/grigio-chiaro-metallizzato-ar676/",
+        "source_label": "PaintScratch 1993 Alfa-Romeo",
+        "hex_value": "#B7B6B1"
+      }
+    ],
+    "1994": [
+      {
+        "display_name": "Verde Inglese",
+        "paint_code": "306",
+        "slug": "verde-inglese-306",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/verde-inglese-306/",
+        "source_label": "PaintScratch 1994 Alfa-Romeo",
+        "hex_value": "#384D2B"
+      },
+      {
+        "display_name": "Alfa Red",
+        "paint_code": "130",
+        "slug": "alfa-red-130",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/alfa-red-130/",
+        "source_label": "PaintScratch 1994 Alfa-Romeo",
+        "hex_value": "#AE3926"
+      },
+      {
+        "display_name": "Bordeaux",
+        "paint_code": "146",
+        "slug": "bordeaux-146",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/bordeaux-146/",
+        "source_label": "PaintScratch 1994 Alfa-Romeo",
+        "hex_value": "#761C1A"
+      },
+      {
+        "display_name": "Bianco (White)",
+        "paint_code": "210",
+        "slug": "bianco-white-210",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/bianco-white-210/",
+        "source_label": "PaintScratch 1994 Alfa-Romeo",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Green Metallic",
+        "paint_code": "AR364",
+        "slug": "green-metallic-ar364",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/green-metallic-ar364/",
+        "source_label": "PaintScratch 1994 Alfa-Romeo",
+        "hex_value": "#467D39"
+      }
+    ],
+    "1995": [
+      {
+        "display_name": "Alfa Red",
+        "paint_code": "130",
+        "slug": "alfa-red-130",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/alfa-red-130/",
+        "source_label": "PaintScratch 1995 Alfa-Romeo",
+        "hex_value": "#AE3926"
+      },
+      {
+        "display_name": "Bordeaux",
+        "paint_code": "146",
+        "slug": "bordeaux-146",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/bordeaux-146/",
+        "source_label": "PaintScratch 1995 Alfa-Romeo",
+        "hex_value": "#761C1A"
+      },
+      {
+        "display_name": "Bianco (White)",
+        "paint_code": "210",
+        "slug": "bianco-white-210",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/bianco-white-210/",
+        "source_label": "PaintScratch 1995 Alfa-Romeo",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Verde Tropico Metallic",
+        "paint_code": "309/A",
+        "slug": "verde-tropico-metallic-309a",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/verde-tropico-metallic-309a/",
+        "source_label": "PaintScratch 1995 Alfa-Romeo",
+        "hex_value": "#659BA7"
+      },
+      {
+        "display_name": "Green Metallic",
+        "paint_code": "AR364",
+        "slug": "green-metallic-ar364",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/green-metallic-ar364/",
+        "source_label": "PaintScratch 1995 Alfa-Romeo",
+        "hex_value": "#467D39"
+      }
+    ],
+    "1996": [
+      {
+        "display_name": "Bianco (White)",
+        "paint_code": "210",
+        "slug": "bianco-white-210",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/bianco-white-210/",
+        "source_label": "PaintScratch 1996 Alfa-Romeo",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Verde Tropico Metallic",
+        "paint_code": "309/A",
+        "slug": "verde-tropico-metallic-309a",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/verde-tropico-metallic-309a/",
+        "source_label": "PaintScratch 1996 Alfa-Romeo",
+        "hex_value": "#659BA7"
+      }
+    ],
+    "1997": [
+      {
+        "display_name": "Alfa Red",
+        "paint_code": "130",
+        "slug": "alfa-red-130",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/alfa-red-130/",
+        "source_label": "PaintScratch 1997 Alfa-Romeo",
+        "hex_value": "#AE3926"
+      },
+      {
+        "display_name": "Bianco (White)",
+        "paint_code": "210",
+        "slug": "bianco-white-210",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/bianco-white-210/",
+        "source_label": "PaintScratch 1997 Alfa-Romeo",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Verde Tropico Metallic",
+        "paint_code": "309/A",
+        "slug": "verde-tropico-metallic-309a",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/verde-tropico-metallic-309a/",
+        "source_label": "PaintScratch 1997 Alfa-Romeo",
+        "hex_value": "#659BA7"
+      },
+      {
+        "display_name": "Azzurro Achille",
+        "paint_code": "AR405A",
+        "slug": "azzurro-achille-ar405a",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/azzurro-achille-ar405a/",
+        "source_label": "PaintScratch 1997 Alfa-Romeo",
+        "hex_value": "#587F98"
+      }
+    ],
+    "1998": [
+      {
+        "display_name": "Bianco (White)",
+        "paint_code": "210",
+        "slug": "bianco-white-210",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/bianco-white-210/",
+        "source_label": "PaintScratch 1998 Alfa-Romeo",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Giallo Zoe Metallic",
+        "paint_code": "513",
+        "slug": "giallo-zoe-metallic-513",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/giallo-zoe-metallic-513/",
+        "source_label": "PaintScratch 1998 Alfa-Romeo",
+        "hex_value": "#FFDE01"
+      },
+      {
+        "display_name": "Chiaro Metallizzato",
+        "paint_code": "821A",
+        "slug": "chiaro-metallizzato-821a",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/chiaro-metallizzato-821a/",
+        "source_label": "PaintScratch 1998 Alfa-Romeo",
+        "hex_value": "#BBB8B3"
+      },
+      {
+        "display_name": "Azzurro Achille",
+        "paint_code": "AR405A",
+        "slug": "azzurro-achille-ar405a",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/azzurro-achille-ar405a/",
+        "source_label": "PaintScratch 1998 Alfa-Romeo",
+        "hex_value": "#587F98"
+      }
+    ],
+    "1999": [
+      {
+        "display_name": "Bianco (White)",
+        "paint_code": "210",
+        "slug": "bianco-white-210",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/bianco-white-210/",
+        "source_label": "PaintScratch 1999 Alfa-Romeo",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Giallo Zoe Metallic",
+        "paint_code": "513",
+        "slug": "giallo-zoe-metallic-513",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/giallo-zoe-metallic-513/",
+        "source_label": "PaintScratch 1999 Alfa-Romeo",
+        "hex_value": "#FFDE01"
+      },
+      {
+        "display_name": "Grigio Africa Metallic",
+        "paint_code": "650A",
+        "slug": "grigio-africa-metallic-650a",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/grigio-africa-metallic-650a/",
+        "source_label": "PaintScratch 1999 Alfa-Romeo",
+        "hex_value": "#807F7A"
+      },
+      {
+        "display_name": "Chiaro Metallizzato",
+        "paint_code": "821A",
+        "slug": "chiaro-metallizzato-821a",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/chiaro-metallizzato-821a/",
+        "source_label": "PaintScratch 1999 Alfa-Romeo",
+        "hex_value": "#BBB8B3"
+      },
+      {
+        "display_name": "Azzurro Achille",
+        "paint_code": "AR405A",
+        "slug": "azzurro-achille-ar405a",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/azzurro-achille-ar405a/",
+        "source_label": "PaintScratch 1999 Alfa-Romeo",
+        "hex_value": "#587F98"
+      }
+    ],
+    "2000": [
+      {
+        "display_name": "Bianco (White)",
+        "paint_code": "210",
+        "slug": "bianco-white-210",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/bianco-white-210/",
+        "source_label": "PaintScratch 2000 Alfa-Romeo",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Grigio Africa Metallic",
+        "paint_code": "650A",
+        "slug": "grigio-africa-metallic-650a",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/grigio-africa-metallic-650a/",
+        "source_label": "PaintScratch 2000 Alfa-Romeo",
+        "hex_value": "#807F7A"
+      },
+      {
+        "display_name": "Chiaro Metallizzato",
+        "paint_code": "821A",
+        "slug": "chiaro-metallizzato-821a",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/chiaro-metallizzato-821a/",
+        "source_label": "PaintScratch 2000 Alfa-Romeo",
+        "hex_value": "#BBB8B3"
+      },
+      {
+        "display_name": "Azzurro Achille",
+        "paint_code": "AR405A",
+        "slug": "azzurro-achille-ar405a",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/azzurro-achille-ar405a/",
+        "source_label": "PaintScratch 2000 Alfa-Romeo",
+        "hex_value": "#587F98"
+      }
+    ],
+    "2001": [
+      {
+        "display_name": "Alfa Red",
+        "paint_code": "130",
+        "slug": "alfa-red-130",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/alfa-red-130/",
+        "source_label": "PaintScratch 2001 Alfa-Romeo",
+        "hex_value": "#AE3926"
+      },
+      {
+        "display_name": "Grigio Africa Metallic",
+        "paint_code": "650A",
+        "slug": "grigio-africa-metallic-650a",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/grigio-africa-metallic-650a/",
+        "source_label": "PaintScratch 2001 Alfa-Romeo",
+        "hex_value": "#807F7A"
+      },
+      {
+        "display_name": "Chiaro Metallizzato",
+        "paint_code": "821A",
+        "slug": "chiaro-metallizzato-821a",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/chiaro-metallizzato-821a/",
+        "source_label": "PaintScratch 2001 Alfa-Romeo",
+        "hex_value": "#BBB8B3"
+      }
+    ],
+    "2002": [
+      {
+        "display_name": "Grigio Africa Metallic",
+        "paint_code": "650A",
+        "slug": "grigio-africa-metallic-650a",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/grigio-africa-metallic-650a/",
+        "source_label": "PaintScratch 2002 Alfa-Romeo",
+        "hex_value": "#807F7A"
+      },
+      {
+        "display_name": "Chiaro Metallizzato",
+        "paint_code": "821A",
+        "slug": "chiaro-metallizzato-821a",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/chiaro-metallizzato-821a/",
+        "source_label": "PaintScratch 2002 Alfa-Romeo",
+        "hex_value": "#BBB8B3"
+      }
+    ],
+    "2003": [
+      {
+        "display_name": "Grigio Africa Metallic",
+        "paint_code": "650A",
+        "slug": "grigio-africa-metallic-650a",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/grigio-africa-metallic-650a/",
+        "source_label": "PaintScratch 2003 Alfa-Romeo",
+        "hex_value": "#807F7A"
+      }
+    ],
+    "2004": [
+      {
+        "display_name": "Grigio Africa Metallic",
+        "paint_code": "650A",
+        "slug": "grigio-africa-metallic-650a",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/grigio-africa-metallic-650a/",
+        "source_label": "PaintScratch 2004 Alfa-Romeo",
+        "hex_value": "#807F7A"
+      }
+    ],
+    "2005": [
+      {
+        "display_name": "Grigio Africa Metallic",
+        "paint_code": "650A",
+        "slug": "grigio-africa-metallic-650a",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/grigio-africa-metallic-650a/",
+        "source_label": "PaintScratch 2005 Alfa-Romeo",
+        "hex_value": "#807F7A"
+      }
+    ],
+    "2006": [
+      {
+        "display_name": "Grigio Africa Metallic",
+        "paint_code": "650A",
+        "slug": "grigio-africa-metallic-650a",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/grigio-africa-metallic-650a/",
+        "source_label": "PaintScratch 2006 Alfa-Romeo",
+        "hex_value": "#807F7A"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "802/B",
+        "slug": "black-802b",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/black-802b/",
+        "source_label": "PaintScratch 2006 Alfa-Romeo",
+        "hex_value": "#000000"
+      }
+    ],
+    "2007": [
+      {
+        "display_name": "Grigio Africa Metallic",
+        "paint_code": "650A",
+        "slug": "grigio-africa-metallic-650a",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/grigio-africa-metallic-650a/",
+        "source_label": "PaintScratch 2007 Alfa-Romeo",
+        "hex_value": "#807F7A"
+      },
+      {
+        "display_name": "Medium Gray",
+        "paint_code": "PPG 568/A",
+        "slug": "medium-gray-ppg-568a",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/medium-gray-ppg-568a/",
+        "source_label": "PaintScratch 2007 Alfa-Romeo",
+        "hex_value": "#808080"
+      }
+    ],
+    "2008": [
+      {
+        "display_name": "Midnight Blue",
+        "paint_code": "428/B",
+        "slug": "midnight-blue-428b",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/midnight-blue-428b/",
+        "source_label": "PaintScratch 2008 Alfa-Romeo",
+        "hex_value": "#091231"
+      },
+      {
+        "display_name": "Grigio Lipari",
+        "paint_code": "639",
+        "slug": "grigio-lipari-639",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/grigio-lipari-639/",
+        "source_label": "PaintScratch 2008 Alfa-Romeo",
+        "hex_value": "#404040"
+      },
+      {
+        "display_name": "Grigio Africa Metallic",
+        "paint_code": "650A",
+        "slug": "grigio-africa-metallic-650a",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/grigio-africa-metallic-650a/",
+        "source_label": "PaintScratch 2008 Alfa-Romeo",
+        "hex_value": "#807F7A"
+      }
+    ],
+    "2009": [
+      {
+        "display_name": "Grigio Africa Metallic",
+        "paint_code": "650A",
+        "slug": "grigio-africa-metallic-650a",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/grigio-africa-metallic-650a/",
+        "source_label": "PaintScratch 2009 Alfa-Romeo",
+        "hex_value": "#807F7A"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "805",
+        "slug": "black-805",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/black-805/",
+        "source_label": "PaintScratch 2009 Alfa-Romeo",
+        "hex_value": "#000000"
+      }
+    ],
+    "2010": [
+      {
+        "display_name": "Grigio Africa Metallic",
+        "paint_code": "650A",
+        "slug": "grigio-africa-metallic-650a",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/grigio-africa-metallic-650a/",
+        "source_label": "PaintScratch 2010 Alfa-Romeo",
+        "hex_value": "#807F7A"
+      }
+    ],
+    "2011": [
+      {
+        "display_name": "Grigio Africa Metallic",
+        "paint_code": "650A",
+        "slug": "grigio-africa-metallic-650a",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/grigio-africa-metallic-650a/",
+        "source_label": "PaintScratch 2011 Alfa-Romeo",
+        "hex_value": "#807F7A"
+      }
+    ],
+    "2012": [
+      {
+        "display_name": "Grigio Africa Metallic",
+        "paint_code": "650A",
+        "slug": "grigio-africa-metallic-650a",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/grigio-africa-metallic-650a/",
+        "source_label": "PaintScratch 2012 Alfa-Romeo",
+        "hex_value": "#807F7A"
+      }
+    ],
+    "2013": [
+      {
+        "display_name": "Medium Red",
+        "paint_code": "289/A",
+        "slug": "medium-red-289a",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/medium-red-289a/",
+        "source_label": "PaintScratch 2013 Alfa-Romeo",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "Grigio Africa Metallic",
+        "paint_code": "650A",
+        "slug": "grigio-africa-metallic-650a",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/grigio-africa-metallic-650a/",
+        "source_label": "PaintScratch 2013 Alfa-Romeo",
+        "hex_value": "#807F7A"
+      }
+    ],
+    "2014": [
+      {
+        "display_name": "Grigio Africa Metallic",
+        "paint_code": "650A",
+        "slug": "grigio-africa-metallic-650a",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/grigio-africa-metallic-650a/",
+        "source_label": "PaintScratch 2014 Alfa-Romeo",
+        "hex_value": "#807F7A"
+      }
+    ],
+    "2015": [
+      {
+        "display_name": "Rosso Competizione Tricoat",
+        "paint_code": "115B",
+        "slug": "rosso-competizione-tricoat-115b",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/rosso-competizione-tricoat-115b/",
+        "source_label": "PaintScratch 2015 Alfa-Romeo",
+        "hex_value": "#F31515"
+      },
+      {
+        "display_name": "Grigio Africa Metallic",
+        "paint_code": "650A",
+        "slug": "grigio-africa-metallic-650a",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/grigio-africa-metallic-650a/",
+        "source_label": "PaintScratch 2015 Alfa-Romeo",
+        "hex_value": "#807F7A"
+      }
+    ],
+    "2016": [
+      {
+        "display_name": "White",
+        "paint_code": "214",
+        "slug": "white-214",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/white-214/",
+        "source_label": "PaintScratch 2016 Alfa-Romeo",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Grigio Africa Metallic",
+        "paint_code": "650A",
+        "slug": "grigio-africa-metallic-650a",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/grigio-africa-metallic-650a/",
+        "source_label": "PaintScratch 2016 Alfa-Romeo",
+        "hex_value": "#807F7A"
+      }
+    ],
+    "2017": [
+      {
+        "display_name": "White",
+        "paint_code": "217",
+        "slug": "white-217",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/white-217/",
+        "source_label": "PaintScratch 2017 Alfa-Romeo",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Medium Red Tricoat",
+        "paint_code": "361/B",
+        "slug": "medium-red-tricoat-361b",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/medium-red-tricoat-361b/",
+        "source_label": "PaintScratch 2017 Alfa-Romeo",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "White Tricoat",
+        "paint_code": "248",
+        "slug": "white-tricoat-248",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/white-tricoat-248/",
+        "source_label": "PaintScratch 2017 Alfa-Romeo",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Magnet Black Pearl",
+        "paint_code": "408-C",
+        "slug": "magnet-black-pearl-408-c",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/magnet-black-pearl-408-c/",
+        "source_label": "PaintScratch 2017 Alfa-Romeo",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Gray",
+        "paint_code": "620/B",
+        "slug": "gray-620b",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/gray-620b/",
+        "source_label": "PaintScratch 2017 Alfa-Romeo",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Grigio Africa Metallic",
+        "paint_code": "650A",
+        "slug": "grigio-africa-metallic-650a",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/grigio-africa-metallic-650a/",
+        "source_label": "PaintScratch 2017 Alfa-Romeo",
+        "hex_value": "#807F7A"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "AR601",
+        "slug": "black-ar601",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/black-ar601/",
+        "source_label": "PaintScratch 2017 Alfa-Romeo",
+        "hex_value": "#000000"
+      }
+    ],
+    "2018": [
+      {
+        "display_name": "White",
+        "paint_code": "217",
+        "slug": "white-217",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/white-217/",
+        "source_label": "PaintScratch 2018 Alfa-Romeo",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Medium Red Tricoat",
+        "paint_code": "361/B",
+        "slug": "medium-red-tricoat-361b",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/medium-red-tricoat-361b/",
+        "source_label": "PaintScratch 2018 Alfa-Romeo",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "Misano Blue Tricoat (Water-Based Only)",
+        "paint_code": "756/A",
+        "slug": "misano-blue-tricoat-water-based-only-756a",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/misano-blue-tricoat-water-based-only-756a/",
+        "source_label": "PaintScratch 2018 Alfa-Romeo",
+        "hex_value": "#597DF3"
+      },
+      {
+        "display_name": "Graphite Gray",
+        "paint_code": "035/PG1",
+        "slug": "graphite-gray-035pg1",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/graphite-gray-035pg1/",
+        "source_label": "PaintScratch 2018 Alfa-Romeo",
+        "hex_value": "#28292A"
+      },
+      {
+        "display_name": "Midnight Blue",
+        "paint_code": "092/A",
+        "slug": "midnight-blue-092a",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/midnight-blue-092a/",
+        "source_label": "PaintScratch 2018 Alfa-Romeo",
+        "hex_value": "#091231"
+      },
+      {
+        "display_name": "Medium Gray",
+        "paint_code": "318/B",
+        "slug": "medium-gray-318b",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/medium-gray-318b/",
+        "source_label": "PaintScratch 2018 Alfa-Romeo",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Magnet Black Pearl",
+        "paint_code": "408-C",
+        "slug": "magnet-black-pearl-408-c",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/magnet-black-pearl-408-c/",
+        "source_label": "PaintScratch 2018 Alfa-Romeo",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Medium Red",
+        "paint_code": "414C",
+        "slug": "medium-red-414c",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/medium-red-414c/",
+        "source_label": "PaintScratch 2018 Alfa-Romeo",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "Blu Anodizzato Effect",
+        "paint_code": "486/PBB",
+        "slug": "blu-anodizzato-effect-486pbb",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/blu-anodizzato-effect-486pbb/",
+        "source_label": "PaintScratch 2018 Alfa-Romeo",
+        "hex_value": "#3B1D91"
+      },
+      {
+        "display_name": "Grigio Africa Metallic",
+        "paint_code": "650A",
+        "slug": "grigio-africa-metallic-650a",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/grigio-africa-metallic-650a/",
+        "source_label": "PaintScratch 2018 Alfa-Romeo",
+        "hex_value": "#807F7A"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "AR601",
+        "slug": "black-ar601",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/black-ar601/",
+        "source_label": "PaintScratch 2018 Alfa-Romeo",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Medium Red Tricoat",
+        "paint_code": "PC9",
+        "slug": "medium-red-tricoat-pc9",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/medium-red-tricoat-pc9/",
+        "source_label": "PaintScratch 2018 Alfa-Romeo",
+        "hex_value": "#AC2222"
+      }
+    ],
+    "2019": [
+      {
+        "display_name": "Misano Blue Tricoat (Water-Based Only)",
+        "paint_code": "756/A",
+        "slug": "misano-blue-tricoat-water-based-only-756a",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/misano-blue-tricoat-water-based-only-756a/",
+        "source_label": "PaintScratch 2019 Alfa-Romeo",
+        "hex_value": "#597DF3"
+      },
+      {
+        "display_name": "Midnight Blue",
+        "paint_code": "092/A",
+        "slug": "midnight-blue-092a",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/midnight-blue-092a/",
+        "source_label": "PaintScratch 2019 Alfa-Romeo",
+        "hex_value": "#091231"
+      },
+      {
+        "display_name": "White Tricoat",
+        "paint_code": "248",
+        "slug": "white-tricoat-248",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/white-tricoat-248/",
+        "source_label": "PaintScratch 2019 Alfa-Romeo",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Medium Gray",
+        "paint_code": "318/B",
+        "slug": "medium-gray-318b",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/medium-gray-318b/",
+        "source_label": "PaintScratch 2019 Alfa-Romeo",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Magnet Black Pearl",
+        "paint_code": "408-C",
+        "slug": "magnet-black-pearl-408-c",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/magnet-black-pearl-408-c/",
+        "source_label": "PaintScratch 2019 Alfa-Romeo",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Iron Grigio Lipari Metallic",
+        "paint_code": "409C",
+        "slug": "iron-grigio-lipari-metallic-409c",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/iron-grigio-lipari-metallic-409c/",
+        "source_label": "PaintScratch 2019 Alfa-Romeo",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Medium Red",
+        "paint_code": "414C",
+        "slug": "medium-red-414c",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/medium-red-414c/",
+        "source_label": "PaintScratch 2019 Alfa-Romeo",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "Grigio Africa Metallic",
+        "paint_code": "650A",
+        "slug": "grigio-africa-metallic-650a",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/grigio-africa-metallic-650a/",
+        "source_label": "PaintScratch 2019 Alfa-Romeo",
+        "hex_value": "#807F7A"
+      },
+      {
+        "display_name": "Circuito Matte Gray",
+        "paint_code": "747",
+        "slug": "circuito-matte-gray-747",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/circuito-matte-gray-747/",
+        "source_label": "PaintScratch 2019 Alfa-Romeo",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Verde Visconti Metallic",
+        "paint_code": "800A/949713",
+        "slug": "verde-visconti-metallic-800a949713",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/verde-visconti-metallic-800a949713/",
+        "source_label": "PaintScratch 2019 Alfa-Romeo",
+        "hex_value": "#15350F"
+      },
+      {
+        "display_name": "Medium Red Tricoat",
+        "paint_code": "PC9",
+        "slug": "medium-red-tricoat-pc9",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/medium-red-tricoat-pc9/",
+        "source_label": "PaintScratch 2019 Alfa-Romeo",
+        "hex_value": "#AC2222"
+      }
+    ],
+    "2020": [
+      {
+        "display_name": "White",
+        "paint_code": "217",
+        "slug": "white-217",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/white-217/",
+        "source_label": "PaintScratch 2020 Alfa-Romeo",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Medium Red Tricoat",
+        "paint_code": "361/B",
+        "slug": "medium-red-tricoat-361b",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/medium-red-tricoat-361b/",
+        "source_label": "PaintScratch 2020 Alfa-Romeo",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "Rosso Alfa",
+        "paint_code": "PRR",
+        "slug": "rosso-alfa-prr",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/rosso-alfa-prr/",
+        "source_label": "PaintScratch 2020 Alfa-Romeo",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "White Tricoat",
+        "paint_code": "248",
+        "slug": "white-tricoat-248",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/white-tricoat-248/",
+        "source_label": "PaintScratch 2020 Alfa-Romeo",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Bianco Lunare Metallic",
+        "paint_code": "764/A",
+        "slug": "bianco-lunare-metallic-764a",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/bianco-lunare-metallic-764a/",
+        "source_label": "PaintScratch 2020 Alfa-Romeo",
+        "hex_value": "#F6F6F0"
+      },
+      {
+        "display_name": "Grigio Argento Metallic",
+        "paint_code": "PAD",
+        "slug": "grigio-argento-metallic-pad",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/grigio-argento-metallic-pad/",
+        "source_label": "PaintScratch 2020 Alfa-Romeo",
+        "hex_value": "#D7D9DB"
+      },
+      {
+        "display_name": "Brilliant White",
+        "paint_code": "PAH",
+        "slug": "brilliant-white-pah",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/brilliant-white-pah/",
+        "source_label": "PaintScratch 2020 Alfa-Romeo",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Deep Blue Pearl",
+        "paint_code": "PBS",
+        "slug": "deep-blue-pearl-pbs",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/deep-blue-pearl-pbs/",
+        "source_label": "PaintScratch 2020 Alfa-Romeo",
+        "hex_value": "#091231"
+      },
+      {
+        "display_name": "Misano Blue Tricoat (Water-Based Only)",
+        "paint_code": "PBX",
+        "slug": "misano-blue-tricoat-water-based-only-pbx",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/misano-blue-tricoat-water-based-only-pbx/",
+        "source_label": "PaintScratch 2020 Alfa-Romeo",
+        "hex_value": "#112289"
+      },
+      {
+        "display_name": "Oxydizen Iron Pearl",
+        "paint_code": "PCX",
+        "slug": "oxydizen-iron-pearl-pcx",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/oxydizen-iron-pearl-pcx/",
+        "source_label": "PaintScratch 2020 Alfa-Romeo",
+        "hex_value": "#5B544D"
+      },
+      {
+        "display_name": "Regray Metallic",
+        "paint_code": "PD3",
+        "slug": "regray-metallic-pd3",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/regray-metallic-pd3/",
+        "source_label": "PaintScratch 2020 Alfa-Romeo",
+        "hex_value": "#9A9FA4"
+      },
+      {
+        "display_name": "Graphite Gray",
+        "paint_code": "PG1",
+        "slug": "graphite-gray-pg1",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/graphite-gray-pg1/",
+        "source_label": "PaintScratch 2020 Alfa-Romeo",
+        "hex_value": "#28292A"
+      },
+      {
+        "display_name": "Dark Green Pearl",
+        "paint_code": "PGB",
+        "slug": "dark-green-pearl-pgb",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/dark-green-pearl-pgb/",
+        "source_label": "PaintScratch 2020 Alfa-Romeo",
+        "hex_value": "#255F1F"
+      },
+      {
+        "display_name": "Gray Magnesio",
+        "paint_code": "PNM",
+        "slug": "gray-magnesio-pnm",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/gray-magnesio-pnm/",
+        "source_label": "PaintScratch 2020 Alfa-Romeo",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Rosso Monza",
+        "paint_code": "PR9",
+        "slug": "rosso-monza-pr9",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/rosso-monza-pr9/",
+        "source_label": "PaintScratch 2020 Alfa-Romeo",
+        "hex_value": "#B75143"
+      },
+      {
+        "display_name": "Maroone Basalto",
+        "paint_code": "PUH",
+        "slug": "maroone-basalto-puh",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/maroone-basalto-puh/",
+        "source_label": "PaintScratch 2020 Alfa-Romeo",
+        "hex_value": "#A0653E"
+      }
+    ],
+    "2021": [
+      {
+        "display_name": "Rosso Alfa",
+        "paint_code": "PRR",
+        "slug": "rosso-alfa-prr",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/rosso-alfa-prr/",
+        "source_label": "PaintScratch 2021 Alfa-Romeo",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "White Tricoat",
+        "paint_code": "248",
+        "slug": "white-tricoat-248",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/white-tricoat-248/",
+        "source_label": "PaintScratch 2021 Alfa-Romeo",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Verde Montreal Tricoat",
+        "paint_code": "646/B",
+        "slug": "verde-montreal-tricoat-646b",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/verde-montreal-tricoat-646b/",
+        "source_label": "PaintScratch 2021 Alfa-Romeo",
+        "hex_value": "#2E6D1F"
+      },
+      {
+        "display_name": "Grigio Argento Metallic",
+        "paint_code": "PAD",
+        "slug": "grigio-argento-metallic-pad",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/grigio-argento-metallic-pad/",
+        "source_label": "PaintScratch 2021 Alfa-Romeo",
+        "hex_value": "#D7D9DB"
+      },
+      {
+        "display_name": "Brilliant White",
+        "paint_code": "PAH",
+        "slug": "brilliant-white-pah",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/brilliant-white-pah/",
+        "source_label": "PaintScratch 2021 Alfa-Romeo",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Deep Blue Pearl",
+        "paint_code": "PBS",
+        "slug": "deep-blue-pearl-pbs",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/deep-blue-pearl-pbs/",
+        "source_label": "PaintScratch 2021 Alfa-Romeo",
+        "hex_value": "#091231"
+      },
+      {
+        "display_name": "Misano Blue Tricoat (Water-Based Only)",
+        "paint_code": "PBX",
+        "slug": "misano-blue-tricoat-water-based-only-pbx",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/misano-blue-tricoat-water-based-only-pbx/",
+        "source_label": "PaintScratch 2021 Alfa-Romeo",
+        "hex_value": "#112289"
+      },
+      {
+        "display_name": "Oxydizen Iron Pearl",
+        "paint_code": "PCX",
+        "slug": "oxydizen-iron-pearl-pcx",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/oxydizen-iron-pearl-pcx/",
+        "source_label": "PaintScratch 2021 Alfa-Romeo",
+        "hex_value": "#5B544D"
+      },
+      {
+        "display_name": "Regray Metallic",
+        "paint_code": "PD3",
+        "slug": "regray-metallic-pd3",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/regray-metallic-pd3/",
+        "source_label": "PaintScratch 2021 Alfa-Romeo",
+        "hex_value": "#9A9FA4"
+      },
+      {
+        "display_name": "Graphite Gray",
+        "paint_code": "PG1",
+        "slug": "graphite-gray-pg1",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/graphite-gray-pg1/",
+        "source_label": "PaintScratch 2021 Alfa-Romeo",
+        "hex_value": "#28292A"
+      },
+      {
+        "display_name": "Dark Green Pearl",
+        "paint_code": "PGB",
+        "slug": "dark-green-pearl-pgb",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/dark-green-pearl-pgb/",
+        "source_label": "PaintScratch 2021 Alfa-Romeo",
+        "hex_value": "#255F1F"
+      },
+      {
+        "display_name": "Gray Magnesio",
+        "paint_code": "PNM",
+        "slug": "gray-magnesio-pnm",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/gray-magnesio-pnm/",
+        "source_label": "PaintScratch 2021 Alfa-Romeo",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Rosso Monza",
+        "paint_code": "PR9",
+        "slug": "rosso-monza-pr9",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/rosso-monza-pr9/",
+        "source_label": "PaintScratch 2021 Alfa-Romeo",
+        "hex_value": "#B75143"
+      },
+      {
+        "display_name": "Maroone Basalto",
+        "paint_code": "PUH",
+        "slug": "maroone-basalto-puh",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/maroone-basalto-puh/",
+        "source_label": "PaintScratch 2021 Alfa-Romeo",
+        "hex_value": "#A0653E"
+      },
+      {
+        "display_name": "Magnet Black Pearl",
+        "paint_code": "PXL",
+        "slug": "magnet-black-pearl-pxl",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/magnet-black-pearl-pxl/",
+        "source_label": "PaintScratch 2021 Alfa-Romeo",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Nero Kyalami",
+        "paint_code": "PXN",
+        "slug": "nero-kyalami-pxn",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/nero-kyalami-pxn/",
+        "source_label": "PaintScratch 2021 Alfa-Romeo",
+        "hex_value": "#070707"
+      }
+    ],
+    "2022": [
+      {
+        "display_name": "Bianco Lunare Effect",
+        "paint_code": "252/PW4",
+        "slug": "bianco-lunare-effect-252pw4",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/bianco-lunare-effect-252pw4/",
+        "source_label": "PaintScratch 2022 Alfa-Romeo",
+        "hex_value": "#F5F0D5"
+      },
+      {
+        "display_name": "Rosso Alfa",
+        "paint_code": "PRR",
+        "slug": "rosso-alfa-prr",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/rosso-alfa-prr/",
+        "source_label": "PaintScratch 2022 Alfa-Romeo",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "White Tricoat",
+        "paint_code": "248",
+        "slug": "white-tricoat-248",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/white-tricoat-248/",
+        "source_label": "PaintScratch 2022 Alfa-Romeo",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Grigio Argento Metallic",
+        "paint_code": "PAD",
+        "slug": "grigio-argento-metallic-pad",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/grigio-argento-metallic-pad/",
+        "source_label": "PaintScratch 2022 Alfa-Romeo",
+        "hex_value": "#D7D9DB"
+      },
+      {
+        "display_name": "Brilliant White",
+        "paint_code": "PAH",
+        "slug": "brilliant-white-pah",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/brilliant-white-pah/",
+        "source_label": "PaintScratch 2022 Alfa-Romeo",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Deep Blue Pearl",
+        "paint_code": "PBS",
+        "slug": "deep-blue-pearl-pbs",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/deep-blue-pearl-pbs/",
+        "source_label": "PaintScratch 2022 Alfa-Romeo",
+        "hex_value": "#091231"
+      },
+      {
+        "display_name": "Misano Blue Tricoat (Water-Based Only)",
+        "paint_code": "PBX",
+        "slug": "misano-blue-tricoat-water-based-only-pbx",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/misano-blue-tricoat-water-based-only-pbx/",
+        "source_label": "PaintScratch 2022 Alfa-Romeo",
+        "hex_value": "#112289"
+      },
+      {
+        "display_name": "Oxydizen Iron Pearl",
+        "paint_code": "PCX",
+        "slug": "oxydizen-iron-pearl-pcx",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/oxydizen-iron-pearl-pcx/",
+        "source_label": "PaintScratch 2022 Alfa-Romeo",
+        "hex_value": "#5B544D"
+      },
+      {
+        "display_name": "Regray Metallic",
+        "paint_code": "PD3",
+        "slug": "regray-metallic-pd3",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/regray-metallic-pd3/",
+        "source_label": "PaintScratch 2022 Alfa-Romeo",
+        "hex_value": "#9A9FA4"
+      },
+      {
+        "display_name": "Graphite Gray",
+        "paint_code": "PG1",
+        "slug": "graphite-gray-pg1",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/graphite-gray-pg1/",
+        "source_label": "PaintScratch 2022 Alfa-Romeo",
+        "hex_value": "#28292A"
+      },
+      {
+        "display_name": "Dark Green Pearl",
+        "paint_code": "PGB",
+        "slug": "dark-green-pearl-pgb",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/dark-green-pearl-pgb/",
+        "source_label": "PaintScratch 2022 Alfa-Romeo",
+        "hex_value": "#255F1F"
+      },
+      {
+        "display_name": "Gray Magnesio",
+        "paint_code": "PNM",
+        "slug": "gray-magnesio-pnm",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/gray-magnesio-pnm/",
+        "source_label": "PaintScratch 2022 Alfa-Romeo",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Rosso Monza",
+        "paint_code": "PR9",
+        "slug": "rosso-monza-pr9",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/rosso-monza-pr9/",
+        "source_label": "PaintScratch 2022 Alfa-Romeo",
+        "hex_value": "#B75143"
+      },
+      {
+        "display_name": "Maroone Basalto",
+        "paint_code": "PUH",
+        "slug": "maroone-basalto-puh",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/maroone-basalto-puh/",
+        "source_label": "PaintScratch 2022 Alfa-Romeo",
+        "hex_value": "#A0653E"
+      },
+      {
+        "display_name": "Magnet Black Pearl",
+        "paint_code": "PXL",
+        "slug": "magnet-black-pearl-pxl",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/magnet-black-pearl-pxl/",
+        "source_label": "PaintScratch 2022 Alfa-Romeo",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Nero Kyalami",
+        "paint_code": "PXN",
+        "slug": "nero-kyalami-pxn",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/nero-kyalami-pxn/",
+        "source_label": "PaintScratch 2022 Alfa-Romeo",
+        "hex_value": "#070707"
+      }
+    ],
+    "2023": [
+      {
+        "display_name": "Brilliant White",
+        "paint_code": "217/PAH",
+        "slug": "brilliant-white-217pah",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/brilliant-white-217pah/",
+        "source_label": "PaintScratch 2023 Alfa-Romeo",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Bianco Lunare Effect",
+        "paint_code": "252/PW4",
+        "slug": "bianco-lunare-effect-252pw4",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/bianco-lunare-effect-252pw4/",
+        "source_label": "PaintScratch 2023 Alfa-Romeo",
+        "hex_value": "#F5F0D5"
+      },
+      {
+        "display_name": "Alfa Red",
+        "paint_code": "414/PRR",
+        "slug": "alfa-red-414prr",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/alfa-red-414prr/",
+        "source_label": "PaintScratch 2023 Alfa-Romeo",
+        "hex_value": "#A81830"
+      },
+      {
+        "display_name": "Rossa Etna Tricoat",
+        "paint_code": "645/PHS",
+        "slug": "rossa-etna-tricoat-645phs",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/rossa-etna-tricoat-645phs/",
+        "source_label": "PaintScratch 2023 Alfa-Romeo",
+        "hex_value": "#BE104D"
+      },
+      {
+        "display_name": "Verde Montreal Effect",
+        "paint_code": "646/PJV",
+        "slug": "verde-montreal-effect-646pjv",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/verde-montreal-effect-646pjv/",
+        "source_label": "PaintScratch 2023 Alfa-Romeo",
+        "hex_value": "#308911"
+      },
+      {
+        "display_name": "Graphite Gray",
+        "paint_code": "035/PG1",
+        "slug": "graphite-gray-035pg1",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/graphite-gray-035pg1/",
+        "source_label": "PaintScratch 2023 Alfa-Romeo",
+        "hex_value": "#28292A"
+      },
+      {
+        "display_name": "Magnet Black Pearl",
+        "paint_code": "408/PXL",
+        "slug": "magnet-black-pearl-408pxl",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/magnet-black-pearl-408pxl/",
+        "source_label": "PaintScratch 2023 Alfa-Romeo",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Ocra Effect",
+        "paint_code": "437/PTC",
+        "slug": "ocra-effect-437ptc",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/ocra-effect-437ptc/",
+        "source_label": "PaintScratch 2023 Alfa-Romeo",
+        "hex_value": "#EBC21D"
+      },
+      {
+        "display_name": "Blu Anodizzato Effect",
+        "paint_code": "486/PBB",
+        "slug": "blu-anodizzato-effect-486pbb",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/blu-anodizzato-effect-486pbb/",
+        "source_label": "PaintScratch 2023 Alfa-Romeo",
+        "hex_value": "#3B1D91"
+      },
+      {
+        "display_name": "Nero",
+        "paint_code": "601/913/PXN",
+        "slug": "nero-601913pxn",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/nero-601913pxn/",
+        "source_label": "PaintScratch 2023 Alfa-Romeo",
+        "hex_value": "#070707"
+      },
+      {
+        "display_name": "Misano Blue Tricoat (Water-Based Only)",
+        "paint_code": "756/PBX",
+        "slug": "misano-blue-tricoat-water-based-only-756pbx",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/misano-blue-tricoat-water-based-only-756pbx/",
+        "source_label": "PaintScratch 2023 Alfa-Romeo",
+        "hex_value": "#112289"
+      }
+    ],
+    "2024": [
+      {
+        "display_name": "Brilliant White",
+        "paint_code": "217/PAH",
+        "slug": "brilliant-white-217pah",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/brilliant-white-217pah/",
+        "source_label": "PaintScratch 2024 Alfa-Romeo",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Bianco Lunare Effect",
+        "paint_code": "252/PW4",
+        "slug": "bianco-lunare-effect-252pw4",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/bianco-lunare-effect-252pw4/",
+        "source_label": "PaintScratch 2024 Alfa-Romeo",
+        "hex_value": "#F5F0D5"
+      },
+      {
+        "display_name": "Alfa Red",
+        "paint_code": "414/PRR",
+        "slug": "alfa-red-414prr",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/alfa-red-414prr/",
+        "source_label": "PaintScratch 2024 Alfa-Romeo",
+        "hex_value": "#A81830"
+      },
+      {
+        "display_name": "Rossa Etna Tricoat",
+        "paint_code": "645/PHS",
+        "slug": "rossa-etna-tricoat-645phs",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/rossa-etna-tricoat-645phs/",
+        "source_label": "PaintScratch 2024 Alfa-Romeo",
+        "hex_value": "#BE104D"
+      },
+      {
+        "display_name": "Verde Montreal Effect",
+        "paint_code": "646/PJV",
+        "slug": "verde-montreal-effect-646pjv",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/verde-montreal-effect-646pjv/",
+        "source_label": "PaintScratch 2024 Alfa-Romeo",
+        "hex_value": "#308911"
+      },
+      {
+        "display_name": "Graphite Gray",
+        "paint_code": "035/PG1",
+        "slug": "graphite-gray-035pg1",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/graphite-gray-035pg1/",
+        "source_label": "PaintScratch 2024 Alfa-Romeo",
+        "hex_value": "#28292A"
+      },
+      {
+        "display_name": "Magnet Black Pearl",
+        "paint_code": "408/PXL",
+        "slug": "magnet-black-pearl-408pxl",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/magnet-black-pearl-408pxl/",
+        "source_label": "PaintScratch 2024 Alfa-Romeo",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Ocra Effect",
+        "paint_code": "437/PTC",
+        "slug": "ocra-effect-437ptc",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/ocra-effect-437ptc/",
+        "source_label": "PaintScratch 2024 Alfa-Romeo",
+        "hex_value": "#EBC21D"
+      },
+      {
+        "display_name": "Blu Anodizzato Effect",
+        "paint_code": "486/PBB",
+        "slug": "blu-anodizzato-effect-486pbb",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/blu-anodizzato-effect-486pbb/",
+        "source_label": "PaintScratch 2024 Alfa-Romeo",
+        "hex_value": "#3B1D91"
+      },
+      {
+        "display_name": "Nero",
+        "paint_code": "601/913/PXN",
+        "slug": "nero-601913pxn",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/nero-601913pxn/",
+        "source_label": "PaintScratch 2024 Alfa-Romeo",
+        "hex_value": "#070707"
+      },
+      {
+        "display_name": "Misano Blue Tricoat (Water-Based Only)",
+        "paint_code": "756/PBX",
+        "slug": "misano-blue-tricoat-water-based-only-756pbx",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/misano-blue-tricoat-water-based-only-756pbx/",
+        "source_label": "PaintScratch 2024 Alfa-Romeo",
+        "hex_value": "#112289"
+      }
+    ],
+    "2025": [
+      {
+        "display_name": "Brilliant White",
+        "paint_code": "217/PAH",
+        "slug": "brilliant-white-217pah",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/brilliant-white-217pah/",
+        "source_label": "PaintScratch 2025 Alfa-Romeo",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Bianco Lunare Effect",
+        "paint_code": "252/PW4",
+        "slug": "bianco-lunare-effect-252pw4",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/bianco-lunare-effect-252pw4/",
+        "source_label": "PaintScratch 2025 Alfa-Romeo",
+        "hex_value": "#F5F0D5"
+      },
+      {
+        "display_name": "Alfa Red",
+        "paint_code": "414/PRR",
+        "slug": "alfa-red-414prr",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/alfa-red-414prr/",
+        "source_label": "PaintScratch 2025 Alfa-Romeo",
+        "hex_value": "#A81830"
+      },
+      {
+        "display_name": "Rossa Etna Tricoat",
+        "paint_code": "645/PHS",
+        "slug": "rossa-etna-tricoat-645phs",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/rossa-etna-tricoat-645phs/",
+        "source_label": "PaintScratch 2025 Alfa-Romeo",
+        "hex_value": "#BE104D"
+      },
+      {
+        "display_name": "Verde Montreal Effect",
+        "paint_code": "646/PJV",
+        "slug": "verde-montreal-effect-646pjv",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/verde-montreal-effect-646pjv/",
+        "source_label": "PaintScratch 2025 Alfa-Romeo",
+        "hex_value": "#308911"
+      },
+      {
+        "display_name": "Graphite Gray",
+        "paint_code": "035/PG1",
+        "slug": "graphite-gray-035pg1",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/graphite-gray-035pg1/",
+        "source_label": "PaintScratch 2025 Alfa-Romeo",
+        "hex_value": "#28292A"
+      },
+      {
+        "display_name": "Magnet Black Pearl",
+        "paint_code": "408/PXL",
+        "slug": "magnet-black-pearl-408pxl",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/magnet-black-pearl-408pxl/",
+        "source_label": "PaintScratch 2025 Alfa-Romeo",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Ocra Effect",
+        "paint_code": "437/PTC",
+        "slug": "ocra-effect-437ptc",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/ocra-effect-437ptc/",
+        "source_label": "PaintScratch 2025 Alfa-Romeo",
+        "hex_value": "#EBC21D"
+      },
+      {
+        "display_name": "Blu Anodizzato Effect",
+        "paint_code": "486/PBB",
+        "slug": "blu-anodizzato-effect-486pbb",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/blu-anodizzato-effect-486pbb/",
+        "source_label": "PaintScratch 2025 Alfa-Romeo",
+        "hex_value": "#3B1D91"
+      },
+      {
+        "display_name": "Nero",
+        "paint_code": "601/913/PXN",
+        "slug": "nero-601913pxn",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/nero-601913pxn/",
+        "source_label": "PaintScratch 2025 Alfa-Romeo",
+        "hex_value": "#070707"
+      },
+      {
+        "display_name": "Misano Blue Tricoat (Water-Based Only)",
+        "paint_code": "756/PBX",
+        "slug": "misano-blue-tricoat-water-based-only-756pbx",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/misano-blue-tricoat-water-based-only-756pbx/",
+        "source_label": "PaintScratch 2025 Alfa-Romeo",
+        "hex_value": "#112289"
+      }
+    ],
+    "2026": [
+      {
+        "display_name": "Rosso Alfa",
+        "paint_code": "15",
+        "slug": "rosso-alfa-15",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/rosso-alfa-15/",
+        "source_label": "PaintScratch 2026 Alfa-Romeo",
+        "hex_value": "#6A000D"
+      },
+      {
+        "display_name": "Ocra Tricoat",
+        "paint_code": "21",
+        "slug": "ocra-tricoat-21",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/ocra-tricoat-21/",
+        "source_label": "PaintScratch 2026 Alfa-Romeo",
+        "hex_value": "#583A08"
+      },
+      {
+        "display_name": "Blue Navigli",
+        "paint_code": "24",
+        "slug": "blue-navigli-24",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/blue-navigli-24/",
+        "source_label": "PaintScratch 2026 Alfa-Romeo",
+        "hex_value": "#001A23"
+      },
+      {
+        "display_name": "Glorious Red",
+        "paint_code": "AR136",
+        "slug": "glorious-red-ar136",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/glorious-red-ar136/",
+        "source_label": "PaintScratch 2026 Alfa-Romeo",
+        "hex_value": "#590006"
+      },
+      {
+        "display_name": "Bianco",
+        "paint_code": "AR268",
+        "slug": "bianco-ar268",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/bianco-ar268/",
+        "source_label": "PaintScratch 2026 Alfa-Romeo",
+        "hex_value": "#E0DDCF"
+      },
+      {
+        "display_name": "Magnet Black",
+        "paint_code": "AR408",
+        "slug": "magnet-black-ar408",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/magnet-black-ar408/",
+        "source_label": "PaintScratch 2026 Alfa-Romeo",
+        "hex_value": "#0B0C0E"
+      },
+      {
+        "display_name": "Galleria Light Grey",
+        "paint_code": "AR636",
+        "slug": "galleria-light-grey-ar636",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/galleria-light-grey-ar636/",
+        "source_label": "PaintScratch 2026 Alfa-Romeo",
+        "hex_value": "#847F79"
+      },
+      {
+        "display_name": "Monte Carlo Verde",
+        "paint_code": "AR646",
+        "slug": "monte-carlo-verde-ar646",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/monte-carlo-verde-ar646/",
+        "source_label": "PaintScratch 2026 Alfa-Romeo",
+        "hex_value": "#003528"
+      }
+    ],
+    "2027": [
+      {
+        "display_name": "Rosso Alfa",
+        "paint_code": "15",
+        "slug": "rosso-alfa-15",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/rosso-alfa-15/",
+        "source_label": "PaintScratch 2027 Alfa-Romeo",
+        "hex_value": "#6A000D"
+      },
+      {
+        "display_name": "Ocra Tricoat",
+        "paint_code": "21",
+        "slug": "ocra-tricoat-21",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/ocra-tricoat-21/",
+        "source_label": "PaintScratch 2027 Alfa-Romeo",
+        "hex_value": "#583A08"
+      },
+      {
+        "display_name": "Blue Navigli",
+        "paint_code": "24",
+        "slug": "blue-navigli-24",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/blue-navigli-24/",
+        "source_label": "PaintScratch 2027 Alfa-Romeo",
+        "hex_value": "#001A23"
+      },
+      {
+        "display_name": "Glorious Red",
+        "paint_code": "AR136",
+        "slug": "glorious-red-ar136",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/glorious-red-ar136/",
+        "source_label": "PaintScratch 2027 Alfa-Romeo",
+        "hex_value": "#590006"
+      },
+      {
+        "display_name": "Bianco",
+        "paint_code": "AR268",
+        "slug": "bianco-ar268",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/bianco-ar268/",
+        "source_label": "PaintScratch 2027 Alfa-Romeo",
+        "hex_value": "#E0DDCF"
+      },
+      {
+        "display_name": "Magnet Black",
+        "paint_code": "AR408",
+        "slug": "magnet-black-ar408",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/magnet-black-ar408/",
+        "source_label": "PaintScratch 2027 Alfa-Romeo",
+        "hex_value": "#0B0C0E"
+      },
+      {
+        "display_name": "Galleria Light Grey",
+        "paint_code": "AR636",
+        "slug": "galleria-light-grey-ar636",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/galleria-light-grey-ar636/",
+        "source_label": "PaintScratch 2027 Alfa-Romeo",
+        "hex_value": "#847F79"
+      },
+      {
+        "display_name": "Monte Carlo Verde",
+        "paint_code": "AR646",
+        "slug": "monte-carlo-verde-ar646",
+        "reference_url": "https://www.paintscratch.com/colors/alfa-romeo/monte-carlo-verde-ar646/",
+        "source_label": "PaintScratch 2027 Alfa-Romeo",
+        "hex_value": "#003528"
+      }
+    ]
+  }
+}

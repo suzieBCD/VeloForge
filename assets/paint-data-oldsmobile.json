@@ -1,0 +1,3388 @@
+{
+  "All Models": {
+    "1954": [
+      {
+        "display_name": "Terrace Blue 72",
+        "paint_code": "1954",
+        "slug": "terrace-blue-72-1954",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/terrace-blue-72-1954/",
+        "source_label": "PaintScratch 1954 Oldsmobile",
+        "hex_value": "#65E3BE"
+      }
+    ],
+    "1955": [
+      {
+        "display_name": "White 60",
+        "paint_code": "1955",
+        "slug": "white-60-1955",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/white-60-1955/",
+        "source_label": "PaintScratch 1955 Oldsmobile",
+        "hex_value": "#FFFFFF"
+      }
+    ],
+    "1956": [
+      {
+        "display_name": "Alcan White 2264",
+        "paint_code": "1956",
+        "slug": "alcan-white-2264-1956",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/alcan-white-2264-1956/",
+        "source_label": "PaintScratch 1956 Oldsmobile",
+        "hex_value": "#FEFEF6"
+      }
+    ],
+    "1957": [
+      {
+        "display_name": "Alcan White 2264",
+        "paint_code": "1957",
+        "slug": "alcan-white-2264-1957",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/alcan-white-2264-1957/",
+        "source_label": "PaintScratch 1957 Oldsmobile",
+        "hex_value": "#FEFEF6"
+      }
+    ],
+    "1958": [
+      {
+        "display_name": "Alaskan White 60",
+        "paint_code": "1958",
+        "slug": "alaskan-white-60-1958",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/alaskan-white-60-1958/",
+        "source_label": "PaintScratch 1958 Oldsmobile",
+        "hex_value": "#FBFAF5"
+      }
+    ],
+    "1959": [
+      {
+        "display_name": "Burgundy Mist Poly N",
+        "paint_code": "1959",
+        "slug": "burgundy-mist-poly-n-1959",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/burgundy-mist-poly-n-1959/",
+        "source_label": "PaintScratch 1959 Oldsmobile",
+        "hex_value": "#CB5B7D"
+      }
+    ],
+    "1960": [
+      {
+        "display_name": "Dresden Blue Poly H",
+        "paint_code": "1960",
+        "slug": "dresden-blue-poly-h-1960",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/dresden-blue-poly-h-1960/",
+        "source_label": "PaintScratch 1960 Oldsmobile",
+        "hex_value": "#A5B8C3"
+      }
+    ],
+    "1961": [
+      {
+        "display_name": "Azure Mist Poly F",
+        "paint_code": "1961",
+        "slug": "azure-mist-poly-f-1961",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/azure-mist-poly-f-1961/",
+        "source_label": "PaintScratch 1961 Oldsmobile",
+        "hex_value": "#7E92A8"
+      }
+    ],
+    "1962": [
+      {
+        "display_name": "Provincial White C",
+        "paint_code": "1962",
+        "slug": "provincial-white-c-1962",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/provincial-white-c-1962/",
+        "source_label": "PaintScratch 1962 Oldsmobile",
+        "hex_value": "#F6F5E6"
+      }
+    ],
+    "1963": [
+      {
+        "display_name": "Ebony Black A",
+        "paint_code": "1963",
+        "slug": "ebony-black-a-1963",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/ebony-black-a-1963/",
+        "source_label": "PaintScratch 1963 Oldsmobile",
+        "hex_value": "#400000"
+      }
+    ],
+    "1964": [
+      {
+        "display_name": "Ferm Mist Poly J",
+        "paint_code": "1964",
+        "slug": "ferm-mist-poly-j-1964",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/ferm-mist-poly-j-1964/",
+        "source_label": "PaintScratch 1964 Oldsmobile",
+        "hex_value": "#749060"
+      }
+    ],
+    "1965": [
+      {
+        "display_name": "Provincial White C",
+        "paint_code": "1965",
+        "slug": "provincial-white-c-1965",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/provincial-white-c-1965/",
+        "source_label": "PaintScratch 1965 Oldsmobile",
+        "hex_value": "#F6F5E6"
+      }
+    ],
+    "1966": [
+      {
+        "display_name": "Champagne Mist Poly S",
+        "paint_code": "1966O",
+        "slug": "champagne-mist-poly-s-1966o",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/champagne-mist-poly-s-1966o/",
+        "source_label": "PaintScratch 1966 Oldsmobile",
+        "hex_value": "#AEA57A"
+      }
+    ],
+    "1967": [
+      {
+        "display_name": "Aquamarine Poly K",
+        "paint_code": "1967",
+        "slug": "aquamarine-poly-k-1967",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/aquamarine-poly-k-1967/",
+        "source_label": "PaintScratch 1967 Oldsmobile",
+        "hex_value": "#BDDBC9"
+      }
+    ],
+    "1968": [
+      {
+        "display_name": "Tuxedo Black A",
+        "paint_code": "1968",
+        "slug": "tuxedo-black-a-1968",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/tuxedo-black-a-1968/",
+        "source_label": "PaintScratch 1968 Oldsmobile",
+        "hex_value": "#070707"
+      }
+    ],
+    "1969": [
+      {
+        "display_name": "Saffron 40",
+        "paint_code": "1969",
+        "slug": "saffron-40-1969",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/saffron-40-1969/",
+        "source_label": "PaintScratch 1969 Oldsmobile",
+        "hex_value": "#FFF199"
+      }
+    ],
+    "1970": [
+      {
+        "display_name": "Azure Blue 20",
+        "paint_code": "1970",
+        "slug": "azure-blue-20-1970",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/azure-blue-20-1970/",
+        "source_label": "PaintScratch 1970 Oldsmobile",
+        "hex_value": "#B2D2D1"
+      }
+    ],
+    "1971": [
+      {
+        "display_name": "Ebony Black 19",
+        "paint_code": "1971",
+        "slug": "ebony-black-19-1971",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/ebony-black-19-1971/",
+        "source_label": "PaintScratch 1971 Oldsmobile",
+        "hex_value": "#1A1A16"
+      }
+    ],
+    "1972": [
+      {
+        "display_name": "Ebony Black 19",
+        "paint_code": "1971",
+        "slug": "ebony-black-19-1971",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/ebony-black-19-1971/",
+        "source_label": "PaintScratch 1972 Oldsmobile",
+        "hex_value": "#1A1A16"
+      },
+      {
+        "display_name": "Pinehurst Green Irid 43",
+        "paint_code": "1972",
+        "slug": "pinehurst-green-irid-43-1972",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/pinehurst-green-irid-43-1972/",
+        "source_label": "PaintScratch 1972 Oldsmobile",
+        "hex_value": "#CAD797"
+      }
+    ],
+    "1973": [
+      {
+        "display_name": "Honey Beige 81",
+        "paint_code": "1973",
+        "slug": "honey-beige-81-1973",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/honey-beige-81-1973/",
+        "source_label": "PaintScratch 1973 Oldsmobile",
+        "hex_value": "#DCDBAE"
+      }
+    ],
+    "1974": [
+      {
+        "display_name": "Cameo White 11",
+        "paint_code": "1974",
+        "slug": "cameo-white-11-1974",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/cameo-white-11-1974/",
+        "source_label": "PaintScratch 1974 Oldsmobile",
+        "hex_value": "#F9F8F1"
+      }
+    ],
+    "1975": [
+      {
+        "display_name": "Cameo White 11",
+        "paint_code": "1975",
+        "slug": "cameo-white-11-1975",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/cameo-white-11-1975/",
+        "source_label": "PaintScratch 1975 Oldsmobile",
+        "hex_value": "#FFFFFF"
+      }
+    ],
+    "1976": [
+      {
+        "display_name": "Mahogany Or Independence Or Cordovan Or Claret Met 37",
+        "paint_code": "1976",
+        "slug": "mahogany-or-independence-or-cordovan-or-claret-met-37-1976",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/mahogany-or-independence-or-cordovan-or-claret-met-37-1976/",
+        "source_label": "PaintScratch 1976 Oldsmobile",
+        "hex_value": "#591111"
+      }
+    ],
+    "1977": [
+      {
+        "display_name": "Firethorn Poly 36",
+        "paint_code": "1977",
+        "slug": "firethorn-poly-36-1977",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/firethorn-poly-36-1977/",
+        "source_label": "PaintScratch 1977 Oldsmobile",
+        "hex_value": "#BB3123"
+      }
+    ],
+    "1978": [
+      {
+        "display_name": "Antique Cameo Cotillionwhite 11",
+        "paint_code": "1978",
+        "slug": "antique-cameo-cotillionwhite-11-1978",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/antique-cameo-cotillionwhite-11-1978/",
+        "source_label": "PaintScratch 1978 Oldsmobile",
+        "hex_value": "#FDF6DF"
+      }
+    ],
+    "1979": [
+      {
+        "display_name": "Black Starlight Sable 19",
+        "paint_code": "1979",
+        "slug": "black-starlight-sable-19-1979",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/black-starlight-sable-19-1979/",
+        "source_label": "PaintScratch 1979 Oldsmobile",
+        "hex_value": "#0A150D"
+      }
+    ],
+    "1980": [
+      {
+        "display_name": "Medium Camel Metallic 69",
+        "paint_code": "1980",
+        "slug": "medium-camel-metallic-69-1980",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/medium-camel-metallic-69-1980/",
+        "source_label": "PaintScratch 1980 Oldsmobile",
+        "hex_value": "#937863"
+      }
+    ],
+    "1981": [
+      {
+        "display_name": "Dark Sandstone Briarwood Brown Metallic 69",
+        "paint_code": "1981",
+        "slug": "dark-sandstone-briarwood-brown-metallic-69-1981",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/dark-sandstone-briarwood-brown-metallic-69-1981/",
+        "source_label": "PaintScratch 1981 Oldsmobile",
+        "hex_value": "#694F35"
+      }
+    ],
+    "1982": [
+      {
+        "display_name": "White (Cotillion)",
+        "paint_code": "11",
+        "slug": "white-cotillion-11",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/white-cotillion-11/",
+        "source_label": "PaintScratch 1982 Oldsmobile",
+        "hex_value": "#FDF6DF"
+      },
+      {
+        "display_name": "Dark Grey Metallic",
+        "paint_code": "16",
+        "slug": "dark-grey-metallic-16",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/dark-grey-metallic-16/",
+        "source_label": "PaintScratch 1982 Oldsmobile",
+        "hex_value": "#375659"
+      },
+      {
+        "display_name": "Sable Black",
+        "paint_code": "19",
+        "slug": "sable-black-19",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/sable-black-19/",
+        "source_label": "PaintScratch 1982 Oldsmobile",
+        "hex_value": "#0A150D"
+      },
+      {
+        "display_name": "Light Blue (Bar Harbor) Metallic",
+        "paint_code": "21",
+        "slug": "light-blue-bar-harbor-metallic-21",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/light-blue-bar-harbor-metallic-21/",
+        "source_label": "PaintScratch 1982 Oldsmobile",
+        "hex_value": "#A1B9C3"
+      },
+      {
+        "display_name": "Bright Blue Metallic",
+        "paint_code": "22",
+        "slug": "bright-blue-metallic-22",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/bright-blue-metallic-22/",
+        "source_label": "PaintScratch 1982 Oldsmobile",
+        "hex_value": "#465F88"
+      },
+      {
+        "display_name": "Dark (Twilight) Blue Metallic",
+        "paint_code": "29",
+        "slug": "dark-twilight-blue-metallic-29",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/dark-twilight-blue-metallic-29/",
+        "source_label": "PaintScratch 1982 Oldsmobile",
+        "hex_value": "#0A1E52"
+      },
+      {
+        "display_name": "Medium Green Metallic",
+        "paint_code": "45",
+        "slug": "medium-green-metallic-45",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/medium-green-metallic-45/",
+        "source_label": "PaintScratch 1982 Oldsmobile",
+        "hex_value": "#869B74"
+      },
+      {
+        "display_name": "Dark Jadestone Metallic",
+        "paint_code": "49",
+        "slug": "dark-jadestone-metallic-49",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/dark-jadestone-metallic-49/",
+        "source_label": "PaintScratch 1982 Oldsmobile",
+        "hex_value": "#374F3C"
+      },
+      {
+        "display_name": "Medium Gold Metallic",
+        "paint_code": "55",
+        "slug": "medium-gold-metallic-55",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/medium-gold-metallic-55/",
+        "source_label": "PaintScratch 1982 Oldsmobile",
+        "hex_value": "#A18D44"
+      },
+      {
+        "display_name": "Marigold",
+        "paint_code": "57",
+        "slug": "marigold-57",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/marigold-57/",
+        "source_label": "PaintScratch 1982 Oldsmobile",
+        "hex_value": "#EDDA5B"
+      },
+      {
+        "display_name": "Light Saddle Metallic",
+        "paint_code": "63",
+        "slug": "light-saddle-metallic-63",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/light-saddle-metallic-63/",
+        "source_label": "PaintScratch 1982 Oldsmobile",
+        "hex_value": "#A89062"
+      },
+      {
+        "display_name": "Castillian Bronze Metallic",
+        "paint_code": "67",
+        "slug": "castillian-bronze-metallic-67",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/castillian-bronze-metallic-67/",
+        "source_label": "PaintScratch 1982 Oldsmobile",
+        "hex_value": "#6F0C06"
+      },
+      {
+        "display_name": "Buckskin Metallic",
+        "paint_code": "68",
+        "slug": "buckskin-metallic-68",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/buckskin-metallic-68/",
+        "source_label": "PaintScratch 1982 Oldsmobile",
+        "hex_value": "#5D3A1A"
+      },
+      {
+        "display_name": "Light Redwood Metallic",
+        "paint_code": "72",
+        "slug": "light-redwood-metallic-72",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/light-redwood-metallic-72/",
+        "source_label": "PaintScratch 1982 Oldsmobile",
+        "hex_value": "#A67650"
+      },
+      {
+        "display_name": "Medium Red Metallic",
+        "paint_code": "74",
+        "slug": "medium-red-metallic-74",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/medium-red-metallic-74/",
+        "source_label": "PaintScratch 1982 Oldsmobile",
+        "hex_value": "#800205"
+      },
+      {
+        "display_name": "Red",
+        "paint_code": "75",
+        "slug": "red-75",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/red-75/",
+        "source_label": "PaintScratch 1982 Oldsmobile",
+        "hex_value": "#8C0B10"
+      }
+    ],
+    "1983": [
+      {
+        "display_name": "White (Cotillion)",
+        "paint_code": "11/WA3967",
+        "slug": "white-cotillion-11wa3967",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/white-cotillion-11wa3967/",
+        "source_label": "PaintScratch 1983 Oldsmobile",
+        "hex_value": "#FDF6DF"
+      },
+      {
+        "display_name": "Light Royal Blue Metallic",
+        "paint_code": "22/WA8238",
+        "slug": "light-royal-blue-metallic-22wa8238",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/light-royal-blue-metallic-22wa8238/",
+        "source_label": "PaintScratch 1983 Oldsmobile",
+        "hex_value": "#A4B7CA"
+      },
+      {
+        "display_name": "Silver Sand Gray Metallic",
+        "paint_code": "15/WA8358",
+        "slug": "silver-sand-gray-metallic-15wa8358",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/silver-sand-gray-metallic-15wa8358/",
+        "source_label": "PaintScratch 1983 Oldsmobile",
+        "hex_value": "#CDD1D5"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "16/WA7448",
+        "slug": "silver-metallic-16wa7448",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/silver-metallic-16wa7448/",
+        "source_label": "PaintScratch 1983 Oldsmobile",
+        "hex_value": "#CDD1D5"
+      },
+      {
+        "display_name": "Medium Dark Royal Blue Metallic",
+        "paint_code": "27/WA7686",
+        "slug": "medium-dark-royal-blue-metallic-27wa7686",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/medium-dark-royal-blue-metallic-27wa7686/",
+        "source_label": "PaintScratch 1983 Oldsmobile",
+        "hex_value": "#4B617F"
+      },
+      {
+        "display_name": "Light Gray Fern Metallic",
+        "paint_code": "42/WA8239",
+        "slug": "light-gray-fern-metallic-42wa8239",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/light-gray-fern-metallic-42wa8239/",
+        "source_label": "PaintScratch 1983 Oldsmobile",
+        "hex_value": "#9FB1A2"
+      },
+      {
+        "display_name": "Dark Gray Fern Metallic",
+        "paint_code": "48/WA7684",
+        "slug": "dark-gray-fern-metallic-48wa7684",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/dark-gray-fern-metallic-48wa7684/",
+        "source_label": "PaintScratch 1983 Oldsmobile",
+        "hex_value": "#47614B"
+      },
+      {
+        "display_name": "Cream (or Frost) Beige",
+        "paint_code": "59/WA8505",
+        "slug": "cream-or-frost-beige-59wa8505",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/cream-or-frost-beige-59wa8505/",
+        "source_label": "PaintScratch 1983 Oldsmobile",
+        "hex_value": "#F9E5C1"
+      },
+      {
+        "display_name": "Light Sand Gray",
+        "paint_code": "60/WA7690",
+        "slug": "light-sand-gray-60wa7690",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/light-sand-gray-60wa7690/",
+        "source_label": "PaintScratch 1983 Oldsmobile",
+        "hex_value": "#C4C0AE"
+      },
+      {
+        "display_name": "Light Briar Brown Metallic",
+        "paint_code": "62/WA8240",
+        "slug": "light-briar-brown-metallic-62wa8240",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/light-briar-brown-metallic-62wa8240/",
+        "source_label": "PaintScratch 1983 Oldsmobile",
+        "hex_value": "#B2895C"
+      },
+      {
+        "display_name": "Dark Briar Brown Metallic",
+        "paint_code": "67/WA7688",
+        "slug": "dark-briar-brown-metallic-67wa7688",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/dark-briar-brown-metallic-67wa7688/",
+        "source_label": "PaintScratch 1983 Oldsmobile",
+        "hex_value": "#684B2E"
+      },
+      {
+        "display_name": "Light Maple Metallic",
+        "paint_code": "73/WA8491",
+        "slug": "light-maple-metallic-73wa8491",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/light-maple-metallic-73wa8491/",
+        "source_label": "PaintScratch 1983 Oldsmobile",
+        "hex_value": "#A33823"
+      },
+      {
+        "display_name": "Autumn Maple F/M Metallic",
+        "paint_code": "74/WA8237",
+        "slug": "autumn-maple-fm-metallic-74wa8237",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/autumn-maple-fm-metallic-74wa8237/",
+        "source_label": "PaintScratch 1983 Oldsmobile",
+        "hex_value": "#A33823"
+      },
+      {
+        "display_name": "Spectra Red",
+        "paint_code": "75/WA7211",
+        "slug": "spectra-red-75wa7211",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/spectra-red-75wa7211/",
+        "source_label": "PaintScratch 1983 Oldsmobile",
+        "hex_value": "#C42222"
+      },
+      {
+        "display_name": "Dark Autumn Maple Metallic",
+        "paint_code": "78/WA8486",
+        "slug": "dark-autumn-maple-metallic-78wa8486",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/dark-autumn-maple-metallic-78wa8486/",
+        "source_label": "PaintScratch 1983 Oldsmobile",
+        "hex_value": "#712B1F"
+      },
+      {
+        "display_name": "Charcoal Metallic",
+        "paint_code": "84/WA7197",
+        "slug": "charcoal-metallic-84wa7197",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/charcoal-metallic-84wa7197/",
+        "source_label": "PaintScratch 1983 Oldsmobile",
+        "hex_value": "#434549"
+      }
+    ],
+    "1984": [
+      {
+        "display_name": "White (Cotillion)",
+        "paint_code": "11/WA3967",
+        "slug": "white-cotillion-11wa3967",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/white-cotillion-11wa3967/",
+        "source_label": "PaintScratch 1984 Oldsmobile",
+        "hex_value": "#FDF6DF"
+      },
+      {
+        "display_name": "Light Royal Blue Metallic",
+        "paint_code": "22/WA8238",
+        "slug": "light-royal-blue-metallic-22wa8238",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/light-royal-blue-metallic-22wa8238/",
+        "source_label": "PaintScratch 1984 Oldsmobile",
+        "hex_value": "#A4B7CA"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "17/WA8536",
+        "slug": "silver-metallic-17wa8536",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/silver-metallic-17wa8536/",
+        "source_label": "PaintScratch 1984 Oldsmobile",
+        "hex_value": "#CDD1D5"
+      },
+      {
+        "display_name": "Black (Interior Color)",
+        "paint_code": "19/WA848",
+        "slug": "black-interior-color-19wa848",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/black-interior-color-19wa848/",
+        "source_label": "PaintScratch 1984 Oldsmobile",
+        "hex_value": "#0A150D"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "19/WA5118",
+        "slug": "black-19wa5118",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/black-19wa5118/",
+        "source_label": "PaintScratch 1984 Oldsmobile",
+        "hex_value": "#0A150D"
+      },
+      {
+        "display_name": "Light Royal Blue Metallic",
+        "paint_code": "21/WA7783",
+        "slug": "light-royal-blue-metallic-21wa7783",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/light-royal-blue-metallic-21wa7783/",
+        "source_label": "PaintScratch 1984 Oldsmobile",
+        "hex_value": "#A4B7CA"
+      },
+      {
+        "display_name": "Light Royal Blue F/M Metallic",
+        "paint_code": "24/WA8261",
+        "slug": "light-royal-blue-fm-metallic-24wa8261",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/light-royal-blue-fm-metallic-24wa8261/",
+        "source_label": "PaintScratch 1984 Oldsmobile",
+        "hex_value": "#96AEB6"
+      },
+      {
+        "display_name": "Medium Dark Royal Blue Metallic",
+        "paint_code": "27/WA7686",
+        "slug": "medium-dark-royal-blue-metallic-27wa7686",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/medium-dark-royal-blue-metallic-27wa7686/",
+        "source_label": "PaintScratch 1984 Oldsmobile",
+        "hex_value": "#4B617F"
+      },
+      {
+        "display_name": "Dark Royal Blue Metallic",
+        "paint_code": "28/WA7784",
+        "slug": "dark-royal-blue-metallic-28wa7784",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/dark-royal-blue-metallic-28wa7784/",
+        "source_label": "PaintScratch 1984 Oldsmobile",
+        "hex_value": "#274E65"
+      },
+      {
+        "display_name": "Sandstone",
+        "paint_code": "39C/WA8558",
+        "slug": "sandstone-39cwa8558",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/sandstone-39cwa8558/",
+        "source_label": "PaintScratch 1984 Oldsmobile",
+        "hex_value": "#C1A477"
+      },
+      {
+        "display_name": "White",
+        "paint_code": "40C/WA8554",
+        "slug": "white-40cwa8554",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/white-40cwa8554/",
+        "source_label": "PaintScratch 1984 Oldsmobile",
+        "hex_value": "#FEF7EC"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "41C/WA8555",
+        "slug": "black-41cwa8555",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/black-41cwa8555/",
+        "source_label": "PaintScratch 1984 Oldsmobile",
+        "hex_value": "#020202"
+      },
+      {
+        "display_name": "Light Gray Fern Metallic",
+        "paint_code": "42/WA8239",
+        "slug": "light-gray-fern-metallic-42wa8239",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/light-gray-fern-metallic-42wa8239/",
+        "source_label": "PaintScratch 1984 Oldsmobile",
+        "hex_value": "#9FB1A2"
+      },
+      {
+        "display_name": "Light Gray Fern Metallic",
+        "paint_code": "44/WA7787",
+        "slug": "light-gray-fern-metallic-44wa7787",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/light-gray-fern-metallic-44wa7787/",
+        "source_label": "PaintScratch 1984 Oldsmobile",
+        "hex_value": "#9FB1A2"
+      },
+      {
+        "display_name": "Dark Green",
+        "paint_code": "46/WA7156",
+        "slug": "dark-green-46wa7156",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/dark-green-46wa7156/",
+        "source_label": "PaintScratch 1984 Oldsmobile",
+        "hex_value": "#2B6A1C"
+      },
+      {
+        "display_name": "Dark Gray Fern Metallic",
+        "paint_code": "48/WA7684",
+        "slug": "dark-gray-fern-metallic-48wa7684",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/dark-gray-fern-metallic-48wa7684/",
+        "source_label": "PaintScratch 1984 Oldsmobile",
+        "hex_value": "#47614B"
+      }
+    ],
+    "1985": [
+      {
+        "display_name": "White (Cotillion)",
+        "paint_code": "11/WA3967",
+        "slug": "white-cotillion-11wa3967",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/white-cotillion-11wa3967/",
+        "source_label": "PaintScratch 1985 Oldsmobile",
+        "hex_value": "#FDF6DF"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "12/WA8535",
+        "slug": "silver-metallic-12wa8535",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/silver-metallic-12wa8535/",
+        "source_label": "PaintScratch 1985 Oldsmobile",
+        "hex_value": "#C7CCD1"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "13/WA7781",
+        "slug": "silver-metallic-13wa7781",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/silver-metallic-13wa7781/",
+        "source_label": "PaintScratch 1985 Oldsmobile",
+        "hex_value": "#C7CCD1"
+      },
+      {
+        "display_name": "Medium Gray Metallic",
+        "paint_code": "15/WA8573",
+        "slug": "medium-gray-metallic-15wa8573",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/medium-gray-metallic-15wa8573/",
+        "source_label": "PaintScratch 1985 Oldsmobile",
+        "hex_value": "#787878"
+      },
+      {
+        "display_name": "Dark Blue Metallic",
+        "paint_code": "31/WA8592",
+        "slug": "dark-blue-metallic-31wa8592",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/dark-blue-metallic-31wa8592/",
+        "source_label": "PaintScratch 1985 Oldsmobile",
+        "hex_value": "#1B3F63"
+      },
+      {
+        "display_name": "Black Metallic",
+        "paint_code": "17/WA8523",
+        "slug": "black-metallic-17wa8523",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/black-metallic-17wa8523/",
+        "source_label": "PaintScratch 1985 Oldsmobile",
+        "hex_value": "#111111"
+      },
+      {
+        "display_name": "Black (Interior Color)",
+        "paint_code": "19/WA848",
+        "slug": "black-interior-color-19wa848",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/black-interior-color-19wa848/",
+        "source_label": "PaintScratch 1985 Oldsmobile",
+        "hex_value": "#0A150D"
+      },
+      {
+        "display_name": "Light Royal Blue Metallic",
+        "paint_code": "21/WA7783",
+        "slug": "light-royal-blue-metallic-21wa7783",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/light-royal-blue-metallic-21wa7783/",
+        "source_label": "PaintScratch 1985 Oldsmobile",
+        "hex_value": "#A4B7CA"
+      },
+      {
+        "display_name": "Light Blue Metallic",
+        "paint_code": "22/WA8533",
+        "slug": "light-blue-metallic-22wa8533",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/light-blue-metallic-22wa8533/",
+        "source_label": "PaintScratch 1985 Oldsmobile",
+        "hex_value": "#A4CACA"
+      },
+      {
+        "display_name": "Light Royal Blue F/M Metallic",
+        "paint_code": "24/WA8261",
+        "slug": "light-royal-blue-fm-metallic-24wa8261",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/light-royal-blue-fm-metallic-24wa8261/",
+        "source_label": "PaintScratch 1985 Oldsmobile",
+        "hex_value": "#96AEB6"
+      },
+      {
+        "display_name": "Light Blue Metallic",
+        "paint_code": "25/WA8574",
+        "slug": "light-blue-metallic-25wa8574",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/light-blue-metallic-25wa8574/",
+        "source_label": "PaintScratch 1985 Oldsmobile",
+        "hex_value": "#8BB4BD"
+      },
+      {
+        "display_name": "Medium Blue Metallic",
+        "paint_code": "27/WA8532",
+        "slug": "medium-blue-metallic-27wa8532",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/medium-blue-metallic-27wa8532/",
+        "source_label": "PaintScratch 1985 Oldsmobile",
+        "hex_value": "#2D6D6C"
+      },
+      {
+        "display_name": "Dark Royal Blue Metallic",
+        "paint_code": "28/WA7784",
+        "slug": "dark-royal-blue-metallic-28wa7784",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/dark-royal-blue-metallic-28wa7784/",
+        "source_label": "PaintScratch 1985 Oldsmobile",
+        "hex_value": "#274E65"
+      },
+      {
+        "display_name": "Dark Blue Metallic",
+        "paint_code": "29/WA8540",
+        "slug": "dark-blue-metallic-29wa8540",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/dark-blue-metallic-29wa8540/",
+        "source_label": "PaintScratch 1985 Oldsmobile",
+        "hex_value": "#275965"
+      },
+      {
+        "display_name": "Sandstone",
+        "paint_code": "39/WA8558",
+        "slug": "sandstone-39wa8558",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/sandstone-39wa8558/",
+        "source_label": "PaintScratch 1985 Oldsmobile",
+        "hex_value": "#C1A477"
+      },
+      {
+        "display_name": "White",
+        "paint_code": "40/WA8554",
+        "slug": "white-40wa8554",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/white-40wa8554/",
+        "source_label": "PaintScratch 1985 Oldsmobile",
+        "hex_value": "#FEF7EC"
+      }
+    ],
+    "1986": [
+      {
+        "display_name": "White (Cotillion)",
+        "paint_code": "11/WA3967",
+        "slug": "white-cotillion-11wa3967",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/white-cotillion-11wa3967/",
+        "source_label": "PaintScratch 1986 Oldsmobile",
+        "hex_value": "#FDF6DF"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "12/WA8535",
+        "slug": "silver-metallic-12wa8535",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/silver-metallic-12wa8535/",
+        "source_label": "PaintScratch 1986 Oldsmobile",
+        "hex_value": "#C7CCD1"
+      },
+      {
+        "display_name": "Medium Gray Metallic",
+        "paint_code": "15/WA8573",
+        "slug": "medium-gray-metallic-15wa8573",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/medium-gray-metallic-15wa8573/",
+        "source_label": "PaintScratch 1986 Oldsmobile",
+        "hex_value": "#787878"
+      },
+      {
+        "display_name": "Dark Blue Metallic",
+        "paint_code": "31/WA8592",
+        "slug": "dark-blue-metallic-31wa8592",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/dark-blue-metallic-31wa8592/",
+        "source_label": "PaintScratch 1986 Oldsmobile",
+        "hex_value": "#1B3F63"
+      },
+      {
+        "display_name": "Light Driftwood",
+        "paint_code": "63/WA8744",
+        "slug": "light-driftwood-63wa8744",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/light-driftwood-63wa8744/",
+        "source_label": "PaintScratch 1986 Oldsmobile",
+        "hex_value": "#D0B990"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "13S/WA9021",
+        "slug": "silver-metallic-13swa9021",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/silver-metallic-13swa9021/",
+        "source_label": "PaintScratch 1986 Oldsmobile",
+        "hex_value": "#DAD8D8"
+      },
+      {
+        "display_name": "Black Metallic",
+        "paint_code": "17/WA8523",
+        "slug": "black-metallic-17wa8523",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/black-metallic-17wa8523/",
+        "source_label": "PaintScratch 1986 Oldsmobile",
+        "hex_value": "#111111"
+      },
+      {
+        "display_name": "Black (Interior Color)",
+        "paint_code": "19/WA848",
+        "slug": "black-interior-color-19wa848",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/black-interior-color-19wa848/",
+        "source_label": "PaintScratch 1986 Oldsmobile",
+        "hex_value": "#0A150D"
+      },
+      {
+        "display_name": "Light Blue Metallic",
+        "paint_code": "22/WA8533",
+        "slug": "light-blue-metallic-22wa8533",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/light-blue-metallic-22wa8533/",
+        "source_label": "PaintScratch 1986 Oldsmobile",
+        "hex_value": "#A4CACA"
+      },
+      {
+        "display_name": "Bright Blue Metallic",
+        "paint_code": "24/WA8928",
+        "slug": "bright-blue-metallic-24wa8928",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/bright-blue-metallic-24wa8928/",
+        "source_label": "PaintScratch 1986 Oldsmobile",
+        "hex_value": "#619EA7"
+      },
+      {
+        "display_name": "Light Blue Metallic",
+        "paint_code": "25/WA8574",
+        "slug": "light-blue-metallic-25wa8574",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/light-blue-metallic-25wa8574/",
+        "source_label": "PaintScratch 1986 Oldsmobile",
+        "hex_value": "#8BB4BD"
+      },
+      {
+        "display_name": "Medium Blue Metallic",
+        "paint_code": "27/WA8532",
+        "slug": "medium-blue-metallic-27wa8532",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/medium-blue-metallic-27wa8532/",
+        "source_label": "PaintScratch 1986 Oldsmobile",
+        "hex_value": "#2D6D6C"
+      },
+      {
+        "display_name": "Dark Blue Metallic",
+        "paint_code": "29/WA8540",
+        "slug": "dark-blue-metallic-29wa8540",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/dark-blue-metallic-29wa8540/",
+        "source_label": "PaintScratch 1986 Oldsmobile",
+        "hex_value": "#275965"
+      },
+      {
+        "display_name": "White",
+        "paint_code": "40/WA8554",
+        "slug": "white-40wa8554",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/white-40wa8554/",
+        "source_label": "PaintScratch 1986 Oldsmobile",
+        "hex_value": "#FEF7EC"
+      },
+      {
+        "display_name": "Light Sage Metallic",
+        "paint_code": "42/WA8521",
+        "slug": "light-sage-metallic-42wa8521",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/light-sage-metallic-42wa8521/",
+        "source_label": "PaintScratch 1986 Oldsmobile",
+        "hex_value": "#9EB8A3"
+      },
+      {
+        "display_name": "Light Sage Metallic",
+        "paint_code": "43/WA8572",
+        "slug": "light-sage-metallic-43wa8572",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/light-sage-metallic-43wa8572/",
+        "source_label": "PaintScratch 1986 Oldsmobile",
+        "hex_value": "#9EB8A3"
+      }
+    ],
+    "1987": [
+      {
+        "display_name": "White (Cotillion)",
+        "paint_code": "11/WA3967",
+        "slug": "white-cotillion-11wa3967",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/white-cotillion-11wa3967/",
+        "source_label": "PaintScratch 1987 Oldsmobile",
+        "hex_value": "#FDF6DF"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "12/WA8535",
+        "slug": "silver-metallic-12wa8535",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/silver-metallic-12wa8535/",
+        "source_label": "PaintScratch 1987 Oldsmobile",
+        "hex_value": "#C7CCD1"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "13/WA7781",
+        "slug": "silver-metallic-13wa7781",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/silver-metallic-13wa7781/",
+        "source_label": "PaintScratch 1987 Oldsmobile",
+        "hex_value": "#C7CCD1"
+      },
+      {
+        "display_name": "Medium Gray Metallic",
+        "paint_code": "15/WA8573",
+        "slug": "medium-gray-metallic-15wa8573",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/medium-gray-metallic-15wa8573/",
+        "source_label": "PaintScratch 1987 Oldsmobile",
+        "hex_value": "#787878"
+      },
+      {
+        "display_name": "Dark Blue Metallic",
+        "paint_code": "31/WA8592",
+        "slug": "dark-blue-metallic-31wa8592",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/dark-blue-metallic-31wa8592/",
+        "source_label": "PaintScratch 1987 Oldsmobile",
+        "hex_value": "#1B3F63"
+      },
+      {
+        "display_name": "Light Driftwood",
+        "paint_code": "63/WA8744",
+        "slug": "light-driftwood-63wa8744",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/light-driftwood-63wa8744/",
+        "source_label": "PaintScratch 1987 Oldsmobile",
+        "hex_value": "#D0B990"
+      },
+      {
+        "display_name": "Medium Sapphire Blue Metallic",
+        "paint_code": "83/WA8993",
+        "slug": "medium-sapphire-blue-metallic-83wa8993",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/medium-sapphire-blue-metallic-83wa8993/",
+        "source_label": "PaintScratch 1987 Oldsmobile",
+        "hex_value": "#62A4AC"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "13S/WA9021",
+        "slug": "silver-metallic-13swa9021",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/silver-metallic-13swa9021/",
+        "source_label": "PaintScratch 1987 Oldsmobile",
+        "hex_value": "#DAD8D8"
+      },
+      {
+        "display_name": "Black Metallic",
+        "paint_code": "14/WA8767",
+        "slug": "black-metallic-14wa8767",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/black-metallic-14wa8767/",
+        "source_label": "PaintScratch 1987 Oldsmobile",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black (Interior Color)",
+        "paint_code": "19/WA848",
+        "slug": "black-interior-color-19wa848",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/black-interior-color-19wa848/",
+        "source_label": "PaintScratch 1987 Oldsmobile",
+        "hex_value": "#0A150D"
+      },
+      {
+        "display_name": "Light Sapphire Metallic",
+        "paint_code": "22/WA8966",
+        "slug": "light-sapphire-metallic-22wa8966",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/light-sapphire-metallic-22wa8966/",
+        "source_label": "PaintScratch 1987 Oldsmobile",
+        "hex_value": "#99B2C1"
+      },
+      {
+        "display_name": "Bright Blue Metallic",
+        "paint_code": "24/WA8928",
+        "slug": "bright-blue-metallic-24wa8928",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/bright-blue-metallic-24wa8928/",
+        "source_label": "PaintScratch 1987 Oldsmobile",
+        "hex_value": "#619EA7"
+      },
+      {
+        "display_name": "Light Blue Metallic",
+        "paint_code": "25/WA8574",
+        "slug": "light-blue-metallic-25wa8574",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/light-blue-metallic-25wa8574/",
+        "source_label": "PaintScratch 1987 Oldsmobile",
+        "hex_value": "#8BB4BD"
+      },
+      {
+        "display_name": "Medium Sapphire Blue Metallic",
+        "paint_code": "27/WA8742",
+        "slug": "medium-sapphire-blue-metallic-27wa8742",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/medium-sapphire-blue-metallic-27wa8742/",
+        "source_label": "PaintScratch 1987 Oldsmobile",
+        "hex_value": "#51939F"
+      },
+      {
+        "display_name": "Black Sapphire Metallic",
+        "paint_code": "28/WA8743",
+        "slug": "black-sapphire-metallic-28wa8743",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/black-sapphire-metallic-28wa8743/",
+        "source_label": "PaintScratch 1987 Oldsmobile",
+        "hex_value": "#0A141A"
+      },
+      {
+        "display_name": "Light Driftwood Metallic",
+        "paint_code": "33/WA9022",
+        "slug": "light-driftwood-metallic-33wa9022",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/light-driftwood-metallic-33wa9022/",
+        "source_label": "PaintScratch 1987 Oldsmobile",
+        "hex_value": "#9E8D74"
+      }
+    ],
+    "1988": [
+      {
+        "display_name": "White (Cotillion)",
+        "paint_code": "11/WA3967",
+        "slug": "white-cotillion-11wa3967",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/white-cotillion-11wa3967/",
+        "source_label": "PaintScratch 1988 Oldsmobile",
+        "hex_value": "#FDF6DF"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "12/WA8535",
+        "slug": "silver-metallic-12wa8535",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/silver-metallic-12wa8535/",
+        "source_label": "PaintScratch 1988 Oldsmobile",
+        "hex_value": "#C7CCD1"
+      },
+      {
+        "display_name": "Medium Gray Metallic",
+        "paint_code": "15/WA8573",
+        "slug": "medium-gray-metallic-15wa8573",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/medium-gray-metallic-15wa8573/",
+        "source_label": "PaintScratch 1988 Oldsmobile",
+        "hex_value": "#787878"
+      },
+      {
+        "display_name": "Medium Sapphire Blue Metallic",
+        "paint_code": "83/WA8993",
+        "slug": "medium-sapphire-blue-metallic-83wa8993",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/medium-sapphire-blue-metallic-83wa8993/",
+        "source_label": "PaintScratch 1988 Oldsmobile",
+        "hex_value": "#62A4AC"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "12C/9284",
+        "slug": "silver-metallic-12c9284",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/silver-metallic-12c9284/",
+        "source_label": "PaintScratch 1988 Oldsmobile",
+        "hex_value": "#C7CCD1"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "13S/WA9021",
+        "slug": "silver-metallic-13swa9021",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/silver-metallic-13swa9021/",
+        "source_label": "PaintScratch 1988 Oldsmobile",
+        "hex_value": "#DAD8D8"
+      },
+      {
+        "display_name": "Black Metallic",
+        "paint_code": "14/WA8767",
+        "slug": "black-metallic-14wa8767",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/black-metallic-14wa8767/",
+        "source_label": "PaintScratch 1988 Oldsmobile",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Medium Gray Metallic",
+        "paint_code": "15C/WA9285",
+        "slug": "medium-gray-metallic-15cwa9285",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/medium-gray-metallic-15cwa9285/",
+        "source_label": "PaintScratch 1988 Oldsmobile",
+        "hex_value": "#787878"
+      },
+      {
+        "display_name": "Black (Interior Color)",
+        "paint_code": "19/WA848",
+        "slug": "black-interior-color-19wa848",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/black-interior-color-19wa848/",
+        "source_label": "PaintScratch 1988 Oldsmobile",
+        "hex_value": "#0A150D"
+      },
+      {
+        "display_name": "Light Sapphire Metallic",
+        "paint_code": "22/WA8966",
+        "slug": "light-sapphire-metallic-22wa8966",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/light-sapphire-metallic-22wa8966/",
+        "source_label": "PaintScratch 1988 Oldsmobile",
+        "hex_value": "#99B2C1"
+      },
+      {
+        "display_name": "Bright Blue Metallic",
+        "paint_code": "24/WA8928",
+        "slug": "bright-blue-metallic-24wa8928",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/bright-blue-metallic-24wa8928/",
+        "source_label": "PaintScratch 1988 Oldsmobile",
+        "hex_value": "#619EA7"
+      },
+      {
+        "display_name": "Light Blue Metallic",
+        "paint_code": "25/WA8574",
+        "slug": "light-blue-metallic-25wa8574",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/light-blue-metallic-25wa8574/",
+        "source_label": "PaintScratch 1988 Oldsmobile",
+        "hex_value": "#8BB4BD"
+      },
+      {
+        "display_name": "Light Sapphire Blue Metallic",
+        "paint_code": "26/WA8964",
+        "slug": "light-sapphire-blue-metallic-26wa8964",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/light-sapphire-blue-metallic-26wa8964/",
+        "source_label": "PaintScratch 1988 Oldsmobile",
+        "hex_value": "#A6B7C2"
+      },
+      {
+        "display_name": "Bright Blue Metallic",
+        "paint_code": "26C/WA9381",
+        "slug": "bright-blue-metallic-26cwa9381",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/bright-blue-metallic-26cwa9381/",
+        "source_label": "PaintScratch 1988 Oldsmobile",
+        "hex_value": "#A6B7C2"
+      },
+      {
+        "display_name": "Medium Sapphire Blue Metallic",
+        "paint_code": "27/WA8742",
+        "slug": "medium-sapphire-blue-metallic-27wa8742",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/medium-sapphire-blue-metallic-27wa8742/",
+        "source_label": "PaintScratch 1988 Oldsmobile",
+        "hex_value": "#51939F"
+      },
+      {
+        "display_name": "Black Sapphire Metallic",
+        "paint_code": "28/WA8743",
+        "slug": "black-sapphire-metallic-28wa8743",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/black-sapphire-metallic-28wa8743/",
+        "source_label": "PaintScratch 1988 Oldsmobile",
+        "hex_value": "#0A141A"
+      }
+    ],
+    "1989": [
+      {
+        "display_name": "White (Cotillion)",
+        "paint_code": "11/WA3967",
+        "slug": "white-cotillion-11wa3967",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/white-cotillion-11wa3967/",
+        "source_label": "PaintScratch 1989 Oldsmobile",
+        "hex_value": "#FDF6DF"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "12/WA8535",
+        "slug": "silver-metallic-12wa8535",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/silver-metallic-12wa8535/",
+        "source_label": "PaintScratch 1989 Oldsmobile",
+        "hex_value": "#C7CCD1"
+      },
+      {
+        "display_name": "Medium Gray Metallic",
+        "paint_code": "15/WA8573",
+        "slug": "medium-gray-metallic-15wa8573",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/medium-gray-metallic-15wa8573/",
+        "source_label": "PaintScratch 1989 Oldsmobile",
+        "hex_value": "#787878"
+      },
+      {
+        "display_name": "Flame Red",
+        "paint_code": "81/WA8774",
+        "slug": "flame-red-81wa8774",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/flame-red-81wa8774/",
+        "source_label": "PaintScratch 1989 Oldsmobile",
+        "hex_value": "#BA1E19"
+      },
+      {
+        "display_name": "Medium Sapphire Blue Metallic",
+        "paint_code": "83/WA8993",
+        "slug": "medium-sapphire-blue-metallic-83wa8993",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/medium-sapphire-blue-metallic-83wa8993/",
+        "source_label": "PaintScratch 1989 Oldsmobile",
+        "hex_value": "#62A4AC"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "12C/WA9284",
+        "slug": "silver-metallic-12cwa9284",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/silver-metallic-12cwa9284/",
+        "source_label": "PaintScratch 1989 Oldsmobile",
+        "hex_value": "#A4A9A7"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "13S/WA9021",
+        "slug": "silver-metallic-13swa9021",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/silver-metallic-13swa9021/",
+        "source_label": "PaintScratch 1989 Oldsmobile",
+        "hex_value": "#DAD8D8"
+      },
+      {
+        "display_name": "Black Metallic",
+        "paint_code": "14/WA8767",
+        "slug": "black-metallic-14wa8767",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/black-metallic-14wa8767/",
+        "source_label": "PaintScratch 1989 Oldsmobile",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Medium Gray Metallic",
+        "paint_code": "15C/WA9285",
+        "slug": "medium-gray-metallic-15cwa9285",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/medium-gray-metallic-15cwa9285/",
+        "source_label": "PaintScratch 1989 Oldsmobile",
+        "hex_value": "#787878"
+      },
+      {
+        "display_name": "Light Pearl Gray",
+        "paint_code": "17/WA9349",
+        "slug": "light-pearl-gray-17wa9349",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/light-pearl-gray-17wa9349/",
+        "source_label": "PaintScratch 1989 Oldsmobile",
+        "hex_value": "#ABB3A8"
+      },
+      {
+        "display_name": "Black (Interior Color)",
+        "paint_code": "19/WA848",
+        "slug": "black-interior-color-19wa848",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/black-interior-color-19wa848/",
+        "source_label": "PaintScratch 1989 Oldsmobile",
+        "hex_value": "#0A150D"
+      },
+      {
+        "display_name": "Very Dark Sapphire (Interior Color)",
+        "paint_code": "20DN/8841",
+        "slug": "very-dark-sapphire-interior-color-20dn8841",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/very-dark-sapphire-interior-color-20dn8841/",
+        "source_label": "PaintScratch 1989 Oldsmobile",
+        "hex_value": "#33464B"
+      },
+      {
+        "display_name": "Light Sapphire Metallic",
+        "paint_code": "22/WA8966",
+        "slug": "light-sapphire-metallic-22wa8966",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/light-sapphire-metallic-22wa8966/",
+        "source_label": "PaintScratch 1989 Oldsmobile",
+        "hex_value": "#99B2C1"
+      },
+      {
+        "display_name": "Light Sapphire Blue Metallic",
+        "paint_code": "26/WA8964",
+        "slug": "light-sapphire-blue-metallic-26wa8964",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/light-sapphire-blue-metallic-26wa8964/",
+        "source_label": "PaintScratch 1989 Oldsmobile",
+        "hex_value": "#A6B7C2"
+      },
+      {
+        "display_name": "Bright Blue Metallic",
+        "paint_code": "26C/WA9381",
+        "slug": "bright-blue-metallic-26cwa9381",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/bright-blue-metallic-26cwa9381/",
+        "source_label": "PaintScratch 1989 Oldsmobile",
+        "hex_value": "#A6B7C2"
+      },
+      {
+        "display_name": "Medium Sapphire Blue Metallic",
+        "paint_code": "27/WA8742",
+        "slug": "medium-sapphire-blue-metallic-27wa8742",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/medium-sapphire-blue-metallic-27wa8742/",
+        "source_label": "PaintScratch 1989 Oldsmobile",
+        "hex_value": "#51939F"
+      }
+    ],
+    "1990": [
+      {
+        "display_name": "Medium Gray Metallic",
+        "paint_code": "15/WA8573",
+        "slug": "medium-gray-metallic-15wa8573",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/medium-gray-metallic-15wa8573/",
+        "source_label": "PaintScratch 1990 Oldsmobile",
+        "hex_value": "#787878"
+      },
+      {
+        "display_name": "Flame Red",
+        "paint_code": "81/WA8774",
+        "slug": "flame-red-81wa8774",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/flame-red-81wa8774/",
+        "source_label": "PaintScratch 1990 Oldsmobile",
+        "hex_value": "#BA1E19"
+      },
+      {
+        "display_name": "Medium Sapphire Blue Metallic",
+        "paint_code": "83/WA8993",
+        "slug": "medium-sapphire-blue-metallic-83wa8993",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/medium-sapphire-blue-metallic-83wa8993/",
+        "source_label": "PaintScratch 1990 Oldsmobile",
+        "hex_value": "#62A4AC"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "12/WA9284",
+        "slug": "silver-metallic-12wa9284",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/silver-metallic-12wa9284/",
+        "source_label": "PaintScratch 1990 Oldsmobile",
+        "hex_value": "#C7CCD1"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "13S/WA9021",
+        "slug": "silver-metallic-13swa9021",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/silver-metallic-13swa9021/",
+        "source_label": "PaintScratch 1990 Oldsmobile",
+        "hex_value": "#DAD8D8"
+      },
+      {
+        "display_name": "Black Metallic",
+        "paint_code": "14/WA8767",
+        "slug": "black-metallic-14wa8767",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/black-metallic-14wa8767/",
+        "source_label": "PaintScratch 1990 Oldsmobile",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Medium Gray Metallic",
+        "paint_code": "15/WA9285",
+        "slug": "medium-gray-metallic-15wa9285",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/medium-gray-metallic-15wa9285/",
+        "source_label": "PaintScratch 1990 Oldsmobile",
+        "hex_value": "#787878"
+      },
+      {
+        "display_name": "Slate Gray",
+        "paint_code": "18/WA9234",
+        "slug": "slate-gray-18wa9234",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/slate-gray-18wa9234/",
+        "source_label": "PaintScratch 1990 Oldsmobile",
+        "hex_value": "#B8BABA"
+      },
+      {
+        "display_name": "Neon Blue Metallic",
+        "paint_code": "21/WA9614",
+        "slug": "neon-blue-metallic-21wa9614",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/neon-blue-metallic-21wa9614/",
+        "source_label": "PaintScratch 1990 Oldsmobile",
+        "hex_value": "#40A5BA"
+      },
+      {
+        "display_name": "Light Sapphire Metallic",
+        "paint_code": "22/WA8966",
+        "slug": "light-sapphire-metallic-22wa8966",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/light-sapphire-metallic-22wa8966/",
+        "source_label": "PaintScratch 1990 Oldsmobile",
+        "hex_value": "#99B2C1"
+      },
+      {
+        "display_name": "Medium Maui Blue Metallic",
+        "paint_code": "23/WA9184",
+        "slug": "medium-maui-blue-metallic-23wa9184",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/medium-maui-blue-metallic-23wa9184/",
+        "source_label": "PaintScratch 1990 Oldsmobile",
+        "hex_value": "#489AA4"
+      },
+      {
+        "display_name": "Light Sapphire Blue Metallic",
+        "paint_code": "26/WA8964",
+        "slug": "light-sapphire-blue-metallic-26wa8964",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/light-sapphire-blue-metallic-26wa8964/",
+        "source_label": "PaintScratch 1990 Oldsmobile",
+        "hex_value": "#A6B7C2"
+      },
+      {
+        "display_name": "Medium Sapphire Blue Metallic",
+        "paint_code": "27/WA8742",
+        "slug": "medium-sapphire-blue-metallic-27wa8742",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/medium-sapphire-blue-metallic-27wa8742/",
+        "source_label": "PaintScratch 1990 Oldsmobile",
+        "hex_value": "#51939F"
+      },
+      {
+        "display_name": "Black Sapphire Metallic",
+        "paint_code": "28/WA8743",
+        "slug": "black-sapphire-metallic-28wa8743",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/black-sapphire-metallic-28wa8743/",
+        "source_label": "PaintScratch 1990 Oldsmobile",
+        "hex_value": "#0A141A"
+      },
+      {
+        "display_name": "Dark Sapphire Blue Metallic",
+        "paint_code": "29/WA8970",
+        "slug": "dark-sapphire-blue-metallic-29wa8970",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/dark-sapphire-blue-metallic-29wa8970/",
+        "source_label": "PaintScratch 1990 Oldsmobile",
+        "hex_value": "#364E5A"
+      },
+      {
+        "display_name": "Dark Sapphire Blue Metallic",
+        "paint_code": "29/WA9382",
+        "slug": "dark-sapphire-blue-metallic-29wa9382",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/dark-sapphire-blue-metallic-29wa9382/",
+        "source_label": "PaintScratch 1990 Oldsmobile",
+        "hex_value": "#417985"
+      }
+    ],
+    "1991": [
+      {
+        "display_name": "Medium Gray Metallic",
+        "paint_code": "15/WA8573",
+        "slug": "medium-gray-metallic-15wa8573",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/medium-gray-metallic-15wa8573/",
+        "source_label": "PaintScratch 1991 Oldsmobile",
+        "hex_value": "#787878"
+      },
+      {
+        "display_name": "Flame Red",
+        "paint_code": "81/WA8774",
+        "slug": "flame-red-81wa8774",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/flame-red-81wa8774/",
+        "source_label": "PaintScratch 1991 Oldsmobile",
+        "hex_value": "#BA1E19"
+      },
+      {
+        "display_name": "Medium Sapphire Blue Metallic",
+        "paint_code": "83/WA8993",
+        "slug": "medium-sapphire-blue-metallic-83wa8993",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/medium-sapphire-blue-metallic-83wa8993/",
+        "source_label": "PaintScratch 1991 Oldsmobile",
+        "hex_value": "#62A4AC"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "12/12C/WA9284",
+        "slug": "silver-metallic-1212cwa9284",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/silver-metallic-1212cwa9284/",
+        "source_label": "PaintScratch 1991 Oldsmobile",
+        "hex_value": "#C2C3C8"
+      },
+      {
+        "display_name": "Graphite (Interior)",
+        "paint_code": "12DN/WA7701",
+        "slug": "graphite-interior-12dnwa7701",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/graphite-interior-12dnwa7701/",
+        "source_label": "PaintScratch 1991 Oldsmobile",
+        "hex_value": "#494D5B"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "13/13S/WA9021",
+        "slug": "silver-metallic-1313swa9021",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/silver-metallic-1313swa9021/",
+        "source_label": "PaintScratch 1991 Oldsmobile",
+        "hex_value": "#A9B1B2"
+      },
+      {
+        "display_name": "Medium Gray Metallic",
+        "paint_code": "15/15C/WA9285",
+        "slug": "medium-gray-metallic-1515cwa9285",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/medium-gray-metallic-1515cwa9285/",
+        "source_label": "PaintScratch 1991 Oldsmobile",
+        "hex_value": "#8D9093"
+      },
+      {
+        "display_name": "Bright White",
+        "paint_code": "16/WA9753",
+        "slug": "bright-white-16wa9753",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/bright-white-16wa9753/",
+        "source_label": "PaintScratch 1991 Oldsmobile",
+        "hex_value": "#F9F8E9"
+      },
+      {
+        "display_name": "Slate Gray",
+        "paint_code": "18/WA9234",
+        "slug": "slate-gray-18wa9234",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/slate-gray-18wa9234/",
+        "source_label": "PaintScratch 1991 Oldsmobile",
+        "hex_value": "#B8BABA"
+      },
+      {
+        "display_name": "Neon Blue Metallic",
+        "paint_code": "21/WA9614",
+        "slug": "neon-blue-metallic-21wa9614",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/neon-blue-metallic-21wa9614/",
+        "source_label": "PaintScratch 1991 Oldsmobile",
+        "hex_value": "#40A5BA"
+      },
+      {
+        "display_name": "Light Sapphire Metallic",
+        "paint_code": "22/WA8966",
+        "slug": "light-sapphire-metallic-22wa8966",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/light-sapphire-metallic-22wa8966/",
+        "source_label": "PaintScratch 1991 Oldsmobile",
+        "hex_value": "#99B2C1"
+      },
+      {
+        "display_name": "Medium Maui Blue Metallic",
+        "paint_code": "23/WA9184",
+        "slug": "medium-maui-blue-metallic-23wa9184",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/medium-maui-blue-metallic-23wa9184/",
+        "source_label": "PaintScratch 1991 Oldsmobile",
+        "hex_value": "#489AA4"
+      },
+      {
+        "display_name": "Medium Sapphire Blue Metallic",
+        "paint_code": "27/WA8742",
+        "slug": "medium-sapphire-blue-metallic-27wa8742",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/medium-sapphire-blue-metallic-27wa8742/",
+        "source_label": "PaintScratch 1991 Oldsmobile",
+        "hex_value": "#51939F"
+      },
+      {
+        "display_name": "Black Sapphire Metallic",
+        "paint_code": "28/WA8743",
+        "slug": "black-sapphire-metallic-28wa8743",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/black-sapphire-metallic-28wa8743/",
+        "source_label": "PaintScratch 1991 Oldsmobile",
+        "hex_value": "#0A141A"
+      },
+      {
+        "display_name": "Dark Sapphire Blue Metallic",
+        "paint_code": "29/29C/WA9382",
+        "slug": "dark-sapphire-blue-metallic-2929cwa9382",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/dark-sapphire-blue-metallic-2929cwa9382/",
+        "source_label": "PaintScratch 1991 Oldsmobile",
+        "hex_value": "#4F6F8F"
+      },
+      {
+        "display_name": "Dark Sapphire Blue Metallic",
+        "paint_code": "29/WA8970",
+        "slug": "dark-sapphire-blue-metallic-29wa8970",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/dark-sapphire-blue-metallic-29wa8970/",
+        "source_label": "PaintScratch 1991 Oldsmobile",
+        "hex_value": "#364E5A"
+      }
+    ],
+    "1992": [
+      {
+        "display_name": "Flame Red",
+        "paint_code": "81/WA8774",
+        "slug": "flame-red-81wa8774",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/flame-red-81wa8774/",
+        "source_label": "PaintScratch 1992 Oldsmobile",
+        "hex_value": "#BA1E19"
+      },
+      {
+        "display_name": "Medium Sapphire Blue Metallic",
+        "paint_code": "83/WA8993",
+        "slug": "medium-sapphire-blue-metallic-83wa8993",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/medium-sapphire-blue-metallic-83wa8993/",
+        "source_label": "PaintScratch 1992 Oldsmobile",
+        "hex_value": "#62A4AC"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "12/12C/WA9284",
+        "slug": "silver-metallic-1212cwa9284",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/silver-metallic-1212cwa9284/",
+        "source_label": "PaintScratch 1992 Oldsmobile",
+        "hex_value": "#C2C3C8"
+      },
+      {
+        "display_name": "Graphite (Interior)",
+        "paint_code": "12DN/WA7701",
+        "slug": "graphite-interior-12dnwa7701",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/graphite-interior-12dnwa7701/",
+        "source_label": "PaintScratch 1992 Oldsmobile",
+        "hex_value": "#494D5B"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "13/13S/WA9021",
+        "slug": "silver-metallic-1313swa9021",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/silver-metallic-1313swa9021/",
+        "source_label": "PaintScratch 1992 Oldsmobile",
+        "hex_value": "#A9B1B2"
+      },
+      {
+        "display_name": "Light Gray Metallic",
+        "paint_code": "14/WA9789",
+        "slug": "light-gray-metallic-14wa9789",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/light-gray-metallic-14wa9789/",
+        "source_label": "PaintScratch 1992 Oldsmobile",
+        "hex_value": "#929894"
+      },
+      {
+        "display_name": "Medium Gray Metallic",
+        "paint_code": "15/15C/WA9285",
+        "slug": "medium-gray-metallic-1515cwa9285",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/medium-gray-metallic-1515cwa9285/",
+        "source_label": "PaintScratch 1992 Oldsmobile",
+        "hex_value": "#8D9093"
+      },
+      {
+        "display_name": "Bright White",
+        "paint_code": "16/WA9753",
+        "slug": "bright-white-16wa9753",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/bright-white-16wa9753/",
+        "source_label": "PaintScratch 1992 Oldsmobile",
+        "hex_value": "#F9F8E9"
+      },
+      {
+        "display_name": "Dark Green Gray Metallic",
+        "paint_code": "18/WA9795",
+        "slug": "dark-green-gray-metallic-18wa9795",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/dark-green-gray-metallic-18wa9795/",
+        "source_label": "PaintScratch 1992 Oldsmobile",
+        "hex_value": "#758B7C"
+      },
+      {
+        "display_name": "Neon Blue Metallic",
+        "paint_code": "21/WA9614",
+        "slug": "neon-blue-metallic-21wa9614",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/neon-blue-metallic-21wa9614/",
+        "source_label": "PaintScratch 1992 Oldsmobile",
+        "hex_value": "#40A5BA"
+      },
+      {
+        "display_name": "Light Sapphire Metallic",
+        "paint_code": "22/WA8966",
+        "slug": "light-sapphire-metallic-22wa8966",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/light-sapphire-metallic-22wa8966/",
+        "source_label": "PaintScratch 1992 Oldsmobile",
+        "hex_value": "#99B2C1"
+      },
+      {
+        "display_name": "Medium Maui Blue Metallic",
+        "paint_code": "23/WA9184",
+        "slug": "medium-maui-blue-metallic-23wa9184",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/medium-maui-blue-metallic-23wa9184/",
+        "source_label": "PaintScratch 1992 Oldsmobile",
+        "hex_value": "#489AA4"
+      },
+      {
+        "display_name": "Medium Sapphire Blue Metallic",
+        "paint_code": "27/WA8742",
+        "slug": "medium-sapphire-blue-metallic-27wa8742",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/medium-sapphire-blue-metallic-27wa8742/",
+        "source_label": "PaintScratch 1992 Oldsmobile",
+        "hex_value": "#51939F"
+      },
+      {
+        "display_name": "Black Sapphire Metallic",
+        "paint_code": "28/WA8743",
+        "slug": "black-sapphire-metallic-28wa8743",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/black-sapphire-metallic-28wa8743/",
+        "source_label": "PaintScratch 1992 Oldsmobile",
+        "hex_value": "#0A141A"
+      },
+      {
+        "display_name": "Dark Sapphire Blue Metallic",
+        "paint_code": "29/29C/WA9382",
+        "slug": "dark-sapphire-blue-metallic-2929cwa9382",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/dark-sapphire-blue-metallic-2929cwa9382/",
+        "source_label": "PaintScratch 1992 Oldsmobile",
+        "hex_value": "#4F6F8F"
+      },
+      {
+        "display_name": "Light Driftwood Metallic",
+        "paint_code": "33/WA5322",
+        "slug": "light-driftwood-metallic-33wa5322",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/light-driftwood-metallic-33wa5322/",
+        "source_label": "PaintScratch 1992 Oldsmobile",
+        "hex_value": "#CFBC87"
+      }
+    ],
+    "1993": [
+      {
+        "display_name": "Flame Red",
+        "paint_code": "81/WA8774",
+        "slug": "flame-red-81wa8774",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/flame-red-81wa8774/",
+        "source_label": "PaintScratch 1993 Oldsmobile",
+        "hex_value": "#BA1E19"
+      },
+      {
+        "display_name": "Medium Sapphire Blue Metallic",
+        "paint_code": "83/WA8993",
+        "slug": "medium-sapphire-blue-metallic-83wa8993",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/medium-sapphire-blue-metallic-83wa8993/",
+        "source_label": "PaintScratch 1993 Oldsmobile",
+        "hex_value": "#62A4AC"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "12/12C/WA9284",
+        "slug": "silver-metallic-1212cwa9284",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/silver-metallic-1212cwa9284/",
+        "source_label": "PaintScratch 1993 Oldsmobile",
+        "hex_value": "#C2C3C8"
+      },
+      {
+        "display_name": "Graphite (Interior)",
+        "paint_code": "12DN/WA7701",
+        "slug": "graphite-interior-12dnwa7701",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/graphite-interior-12dnwa7701/",
+        "source_label": "PaintScratch 1993 Oldsmobile",
+        "hex_value": "#494D5B"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "13/13S/WA9021",
+        "slug": "silver-metallic-1313swa9021",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/silver-metallic-1313swa9021/",
+        "source_label": "PaintScratch 1993 Oldsmobile",
+        "hex_value": "#A9B1B2"
+      },
+      {
+        "display_name": "Light Gray Metallic",
+        "paint_code": "14/WA9789",
+        "slug": "light-gray-metallic-14wa9789",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/light-gray-metallic-14wa9789/",
+        "source_label": "PaintScratch 1993 Oldsmobile",
+        "hex_value": "#929894"
+      },
+      {
+        "display_name": "Medium Gray Metallic",
+        "paint_code": "15/15C/WA9285",
+        "slug": "medium-gray-metallic-1515cwa9285",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/medium-gray-metallic-1515cwa9285/",
+        "source_label": "PaintScratch 1993 Oldsmobile",
+        "hex_value": "#8D9093"
+      },
+      {
+        "display_name": "Bright White",
+        "paint_code": "16/WA9753",
+        "slug": "bright-white-16wa9753",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/bright-white-16wa9753/",
+        "source_label": "PaintScratch 1993 Oldsmobile",
+        "hex_value": "#F9F8E9"
+      },
+      {
+        "display_name": "Dark Green Gray Metallic",
+        "paint_code": "18/WA9795",
+        "slug": "dark-green-gray-metallic-18wa9795",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/dark-green-gray-metallic-18wa9795/",
+        "source_label": "PaintScratch 1993 Oldsmobile",
+        "hex_value": "#758B7C"
+      },
+      {
+        "display_name": "Neon Blue Metallic",
+        "paint_code": "21/WA9614",
+        "slug": "neon-blue-metallic-21wa9614",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/neon-blue-metallic-21wa9614/",
+        "source_label": "PaintScratch 1993 Oldsmobile",
+        "hex_value": "#40A5BA"
+      },
+      {
+        "display_name": "Light Sapphire Metallic",
+        "paint_code": "22/WA8966",
+        "slug": "light-sapphire-metallic-22wa8966",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/light-sapphire-metallic-22wa8966/",
+        "source_label": "PaintScratch 1993 Oldsmobile",
+        "hex_value": "#99B2C1"
+      },
+      {
+        "display_name": "Medium Maui Blue Metallic",
+        "paint_code": "23/WA9184",
+        "slug": "medium-maui-blue-metallic-23wa9184",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/medium-maui-blue-metallic-23wa9184/",
+        "source_label": "PaintScratch 1993 Oldsmobile",
+        "hex_value": "#489AA4"
+      },
+      {
+        "display_name": "Medium Sapphire Blue Metallic",
+        "paint_code": "27/WA8742",
+        "slug": "medium-sapphire-blue-metallic-27wa8742",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/medium-sapphire-blue-metallic-27wa8742/",
+        "source_label": "PaintScratch 1993 Oldsmobile",
+        "hex_value": "#51939F"
+      },
+      {
+        "display_name": "Black Sapphire Metallic",
+        "paint_code": "28/WA8743",
+        "slug": "black-sapphire-metallic-28wa8743",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/black-sapphire-metallic-28wa8743/",
+        "source_label": "PaintScratch 1993 Oldsmobile",
+        "hex_value": "#0A141A"
+      },
+      {
+        "display_name": "Dark Sapphire Blue Metallic",
+        "paint_code": "29/29C/WA9382",
+        "slug": "dark-sapphire-blue-metallic-2929cwa9382",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/dark-sapphire-blue-metallic-2929cwa9382/",
+        "source_label": "PaintScratch 1993 Oldsmobile",
+        "hex_value": "#4F6F8F"
+      },
+      {
+        "display_name": "Medium Adriatic Blue Metallic",
+        "paint_code": "30/WA9907",
+        "slug": "medium-adriatic-blue-metallic-30wa9907",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/medium-adriatic-blue-metallic-30wa9907/",
+        "source_label": "PaintScratch 1993 Oldsmobile",
+        "hex_value": "#5F769B"
+      }
+    ],
+    "1994": [
+      {
+        "display_name": "Flame Red",
+        "paint_code": "81/WA8774",
+        "slug": "flame-red-81wa8774",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/flame-red-81wa8774/",
+        "source_label": "PaintScratch 1994 Oldsmobile",
+        "hex_value": "#BA1E19"
+      },
+      {
+        "display_name": "Graphite (Interior)",
+        "paint_code": "12DN/WA7701",
+        "slug": "graphite-interior-12dnwa7701",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/graphite-interior-12dnwa7701/",
+        "source_label": "PaintScratch 1994 Oldsmobile",
+        "hex_value": "#494D5B"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "13/13S/WA9021",
+        "slug": "silver-metallic-1313swa9021",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/silver-metallic-1313swa9021/",
+        "source_label": "PaintScratch 1994 Oldsmobile",
+        "hex_value": "#A9B1B2"
+      },
+      {
+        "display_name": "Light Gray Metallic",
+        "paint_code": "14/WA9789",
+        "slug": "light-gray-metallic-14wa9789",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/light-gray-metallic-14wa9789/",
+        "source_label": "PaintScratch 1994 Oldsmobile",
+        "hex_value": "#929894"
+      },
+      {
+        "display_name": "Bright White",
+        "paint_code": "16/WA9753",
+        "slug": "bright-white-16wa9753",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/bright-white-16wa9753/",
+        "source_label": "PaintScratch 1994 Oldsmobile",
+        "hex_value": "#F9F8E9"
+      },
+      {
+        "display_name": "Dark Green Gray Metallic",
+        "paint_code": "18/WA9795",
+        "slug": "dark-green-gray-metallic-18wa9795",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/dark-green-gray-metallic-18wa9795/",
+        "source_label": "PaintScratch 1994 Oldsmobile",
+        "hex_value": "#758B7C"
+      },
+      {
+        "display_name": "Light Cloisonne Metallic",
+        "paint_code": "23/WA126A",
+        "slug": "light-cloisonne-metallic-23wa126a",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/light-cloisonne-metallic-23wa126a/",
+        "source_label": "PaintScratch 1994 Oldsmobile",
+        "hex_value": "#8EA3C2"
+      },
+      {
+        "display_name": "Medium Cloisonne Metallic",
+        "paint_code": "26/WA127A",
+        "slug": "medium-cloisonne-metallic-26wa127a",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/medium-cloisonne-metallic-26wa127a/",
+        "source_label": "PaintScratch 1994 Oldsmobile",
+        "hex_value": "#557DB9"
+      },
+      {
+        "display_name": "Medium Adriatic Blue Metallic",
+        "paint_code": "30/WA9907",
+        "slug": "medium-adriatic-blue-metallic-30wa9907",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/medium-adriatic-blue-metallic-30wa9907/",
+        "source_label": "PaintScratch 1994 Oldsmobile",
+        "hex_value": "#5F769B"
+      },
+      {
+        "display_name": "Light Driftwood Metallic",
+        "paint_code": "33/WA5322",
+        "slug": "light-driftwood-metallic-33wa5322",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/light-driftwood-metallic-33wa5322/",
+        "source_label": "PaintScratch 1994 Oldsmobile",
+        "hex_value": "#CFBC87"
+      },
+      {
+        "display_name": "Light Teal Metallic",
+        "paint_code": "34/WA129A",
+        "slug": "light-teal-metallic-34wa129a",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/light-teal-metallic-34wa129a/",
+        "source_label": "PaintScratch 1994 Oldsmobile",
+        "hex_value": "#C3D1C7"
+      },
+      {
+        "display_name": "Dark Teal Pri Metallic",
+        "paint_code": "35/WA132A",
+        "slug": "dark-teal-pri-metallic-35wa132a",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/dark-teal-pri-metallic-35wa132a/",
+        "source_label": "PaintScratch 1994 Oldsmobile",
+        "hex_value": "#315F4F"
+      },
+      {
+        "display_name": "Light Adriatic Metallic",
+        "paint_code": "36/WA121A",
+        "slug": "light-adriatic-metallic-36wa121a",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/light-adriatic-metallic-36wa121a/",
+        "source_label": "PaintScratch 1994 Oldsmobile",
+        "hex_value": "#B8BDC4"
+      },
+      {
+        "display_name": "Light Adriatic Metallic",
+        "paint_code": "36/WA173A",
+        "slug": "light-adriatic-metallic-36wa173a",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/light-adriatic-metallic-36wa173a/",
+        "source_label": "PaintScratch 1994 Oldsmobile",
+        "hex_value": "#B8BDC4"
+      },
+      {
+        "display_name": "Dark Adriatic Metallic",
+        "paint_code": "39/WA122A",
+        "slug": "dark-adriatic-metallic-39wa122a",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/dark-adriatic-metallic-39wa122a/",
+        "source_label": "PaintScratch 1994 Oldsmobile",
+        "hex_value": "#090B57"
+      },
+      {
+        "display_name": "White",
+        "paint_code": "40/WA8554",
+        "slug": "white-40wa8554",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/white-40wa8554/",
+        "source_label": "PaintScratch 1994 Oldsmobile",
+        "hex_value": "#FEF7EC"
+      }
+    ],
+    "1995": [
+      {
+        "display_name": "Flame Red",
+        "paint_code": "81/WA8774",
+        "slug": "flame-red-81wa8774",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/flame-red-81wa8774/",
+        "source_label": "PaintScratch 1995 Oldsmobile",
+        "hex_value": "#BA1E19"
+      },
+      {
+        "display_name": "Medium Marblehead Metallic",
+        "paint_code": "03/WA9924",
+        "slug": "medium-marblehead-metallic-03wa9924",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/medium-marblehead-metallic-03wa9924/",
+        "source_label": "PaintScratch 1995 Oldsmobile",
+        "hex_value": "#C6C2BA"
+      },
+      {
+        "display_name": "Cyclamen Metallic",
+        "paint_code": "05/WA117B",
+        "slug": "cyclamen-metallic-05wa117b",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/cyclamen-metallic-05wa117b/",
+        "source_label": "PaintScratch 1995 Oldsmobile",
+        "hex_value": "#8B1944"
+      },
+      {
+        "display_name": "Graphite (Interior)",
+        "paint_code": "12DN/WA7701",
+        "slug": "graphite-interior-12dnwa7701",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/graphite-interior-12dnwa7701/",
+        "source_label": "PaintScratch 1995 Oldsmobile",
+        "hex_value": "#494D5B"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "13/13S/WA9021",
+        "slug": "silver-metallic-1313swa9021",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/silver-metallic-1313swa9021/",
+        "source_label": "PaintScratch 1995 Oldsmobile",
+        "hex_value": "#A9B1B2"
+      },
+      {
+        "display_name": "Light Gray Metallic",
+        "paint_code": "14/WA9789",
+        "slug": "light-gray-metallic-14wa9789",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/light-gray-metallic-14wa9789/",
+        "source_label": "PaintScratch 1995 Oldsmobile",
+        "hex_value": "#929894"
+      },
+      {
+        "display_name": "Bright White",
+        "paint_code": "16/WA9753",
+        "slug": "bright-white-16wa9753",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/bright-white-16wa9753/",
+        "source_label": "PaintScratch 1995 Oldsmobile",
+        "hex_value": "#F9F8E9"
+      },
+      {
+        "display_name": "Dark Green Gray Metallic",
+        "paint_code": "18/WA9795",
+        "slug": "dark-green-gray-metallic-18wa9795",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/dark-green-gray-metallic-18wa9795/",
+        "source_label": "PaintScratch 1995 Oldsmobile",
+        "hex_value": "#758B7C"
+      },
+      {
+        "display_name": "Medium Cloisonne Metallic",
+        "paint_code": "26/WA127A",
+        "slug": "medium-cloisonne-metallic-26wa127a",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/medium-cloisonne-metallic-26wa127a/",
+        "source_label": "PaintScratch 1995 Oldsmobile",
+        "hex_value": "#557DB9"
+      },
+      {
+        "display_name": "Medium Adriatic Blue Metallic",
+        "paint_code": "30/WA9907",
+        "slug": "medium-adriatic-blue-metallic-30wa9907",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/medium-adriatic-blue-metallic-30wa9907/",
+        "source_label": "PaintScratch 1995 Oldsmobile",
+        "hex_value": "#5F769B"
+      },
+      {
+        "display_name": "Light Driftwood Metallic",
+        "paint_code": "33/WA5322",
+        "slug": "light-driftwood-metallic-33wa5322",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/light-driftwood-metallic-33wa5322/",
+        "source_label": "PaintScratch 1995 Oldsmobile",
+        "hex_value": "#CFBC87"
+      },
+      {
+        "display_name": "Light Teal Metallic",
+        "paint_code": "34/WA129A",
+        "slug": "light-teal-metallic-34wa129a",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/light-teal-metallic-34wa129a/",
+        "source_label": "PaintScratch 1995 Oldsmobile",
+        "hex_value": "#C3D1C7"
+      },
+      {
+        "display_name": "Dark Teal Pri Metallic",
+        "paint_code": "35/WA132A",
+        "slug": "dark-teal-pri-metallic-35wa132a",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/dark-teal-pri-metallic-35wa132a/",
+        "source_label": "PaintScratch 1995 Oldsmobile",
+        "hex_value": "#315F4F"
+      },
+      {
+        "display_name": "Light Adriatic Metallic",
+        "paint_code": "36/WA121A",
+        "slug": "light-adriatic-metallic-36wa121a",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/light-adriatic-metallic-36wa121a/",
+        "source_label": "PaintScratch 1995 Oldsmobile",
+        "hex_value": "#B8BDC4"
+      },
+      {
+        "display_name": "Light Adriatic Metallic",
+        "paint_code": "36/WA173A",
+        "slug": "light-adriatic-metallic-36wa173a",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/light-adriatic-metallic-36wa173a/",
+        "source_label": "PaintScratch 1995 Oldsmobile",
+        "hex_value": "#B8BDC4"
+      },
+      {
+        "display_name": "Dark Adriatic Metallic",
+        "paint_code": "39/WA122A",
+        "slug": "dark-adriatic-metallic-39wa122a",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/dark-adriatic-metallic-39wa122a/",
+        "source_label": "PaintScratch 1995 Oldsmobile",
+        "hex_value": "#090B57"
+      }
+    ],
+    "1996": [
+      {
+        "display_name": "Flame Red",
+        "paint_code": "81/WA8774",
+        "slug": "flame-red-81wa8774",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/flame-red-81wa8774/",
+        "source_label": "PaintScratch 1996 Oldsmobile",
+        "hex_value": "#BA1E19"
+      },
+      {
+        "display_name": "Medium Marblehead Metallic",
+        "paint_code": "03/WA9924",
+        "slug": "medium-marblehead-metallic-03wa9924",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/medium-marblehead-metallic-03wa9924/",
+        "source_label": "PaintScratch 1996 Oldsmobile",
+        "hex_value": "#C6C2BA"
+      },
+      {
+        "display_name": "Cyclamen Metallic",
+        "paint_code": "05/WA117B",
+        "slug": "cyclamen-metallic-05wa117b",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/cyclamen-metallic-05wa117b/",
+        "source_label": "PaintScratch 1996 Oldsmobile",
+        "hex_value": "#8B1944"
+      },
+      {
+        "display_name": "Bright White",
+        "paint_code": "16/WA9753",
+        "slug": "bright-white-16wa9753",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/bright-white-16wa9753/",
+        "source_label": "PaintScratch 1996 Oldsmobile",
+        "hex_value": "#F9F8E9"
+      },
+      {
+        "display_name": "Dark Green Gray Metallic",
+        "paint_code": "18/WA9795",
+        "slug": "dark-green-gray-metallic-18wa9795",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/dark-green-gray-metallic-18wa9795/",
+        "source_label": "PaintScratch 1996 Oldsmobile",
+        "hex_value": "#758B7C"
+      },
+      {
+        "display_name": "Medium Cloisonne Metallic",
+        "paint_code": "26/WA127A",
+        "slug": "medium-cloisonne-metallic-26wa127a",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/medium-cloisonne-metallic-26wa127a/",
+        "source_label": "PaintScratch 1996 Oldsmobile",
+        "hex_value": "#557DB9"
+      },
+      {
+        "display_name": "Medium Adriatic Blue Metallic",
+        "paint_code": "30/WA9907",
+        "slug": "medium-adriatic-blue-metallic-30wa9907",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/medium-adriatic-blue-metallic-30wa9907/",
+        "source_label": "PaintScratch 1996 Oldsmobile",
+        "hex_value": "#5F769B"
+      },
+      {
+        "display_name": "Light Driftwood Metallic",
+        "paint_code": "33/WA5322",
+        "slug": "light-driftwood-metallic-33wa5322",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/light-driftwood-metallic-33wa5322/",
+        "source_label": "PaintScratch 1996 Oldsmobile",
+        "hex_value": "#CFBC87"
+      },
+      {
+        "display_name": "Light Teal Metallic",
+        "paint_code": "34/WA129A",
+        "slug": "light-teal-metallic-34wa129a",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/light-teal-metallic-34wa129a/",
+        "source_label": "PaintScratch 1996 Oldsmobile",
+        "hex_value": "#C3D1C7"
+      },
+      {
+        "display_name": "Dark Teal Pri Metallic",
+        "paint_code": "35/WA132A",
+        "slug": "dark-teal-pri-metallic-35wa132a",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/dark-teal-pri-metallic-35wa132a/",
+        "source_label": "PaintScratch 1996 Oldsmobile",
+        "hex_value": "#315F4F"
+      },
+      {
+        "display_name": "Light Adriatic Metallic",
+        "paint_code": "36/WA121A",
+        "slug": "light-adriatic-metallic-36wa121a",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/light-adriatic-metallic-36wa121a/",
+        "source_label": "PaintScratch 1996 Oldsmobile",
+        "hex_value": "#B8BDC4"
+      },
+      {
+        "display_name": "Light Adriatic Metallic",
+        "paint_code": "36/WA173A",
+        "slug": "light-adriatic-metallic-36wa173a",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/light-adriatic-metallic-36wa173a/",
+        "source_label": "PaintScratch 1996 Oldsmobile",
+        "hex_value": "#B8BDC4"
+      },
+      {
+        "display_name": "Manta Green Metallic",
+        "paint_code": "37/WA204C",
+        "slug": "manta-green-metallic-37wa204c",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/manta-green-metallic-37wa204c/",
+        "source_label": "PaintScratch 1996 Oldsmobile",
+        "hex_value": "#057928"
+      },
+      {
+        "display_name": "Dark Adriatic Metallic",
+        "paint_code": "39/WA122A",
+        "slug": "dark-adriatic-metallic-39wa122a",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/dark-adriatic-metallic-39wa122a/",
+        "source_label": "PaintScratch 1996 Oldsmobile",
+        "hex_value": "#090B57"
+      },
+      {
+        "display_name": "Medium Sea Green Metallic",
+        "paint_code": "42/WA210C",
+        "slug": "medium-sea-green-metallic-42wa210c",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/medium-sea-green-metallic-42wa210c/",
+        "source_label": "PaintScratch 1996 Oldsmobile",
+        "hex_value": "#456D67"
+      },
+      {
+        "display_name": "Bright Aqua Metallic",
+        "paint_code": "43/WA243A",
+        "slug": "bright-aqua-metallic-43wa243a",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/bright-aqua-metallic-43wa243a/",
+        "source_label": "PaintScratch 1996 Oldsmobile",
+        "hex_value": "#0DB39E"
+      }
+    ],
+    "1997": [
+      {
+        "display_name": "Flame Red",
+        "paint_code": "81/WA8774",
+        "slug": "flame-red-81wa8774",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/flame-red-81wa8774/",
+        "source_label": "PaintScratch 1997 Oldsmobile",
+        "hex_value": "#BA1E19"
+      },
+      {
+        "display_name": "Medium Marblehead Metallic",
+        "paint_code": "03/WA9924",
+        "slug": "medium-marblehead-metallic-03wa9924",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/medium-marblehead-metallic-03wa9924/",
+        "source_label": "PaintScratch 1997 Oldsmobile",
+        "hex_value": "#C6C2BA"
+      },
+      {
+        "display_name": "Crimson King",
+        "paint_code": "09/WA321D",
+        "slug": "crimson-king-09wa321d",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/crimson-king-09wa321d/",
+        "source_label": "PaintScratch 1997 Oldsmobile",
+        "hex_value": "#9A1B0A"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "13/WA9021",
+        "slug": "silver-metallic-13wa9021",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/silver-metallic-13wa9021/",
+        "source_label": "PaintScratch 1997 Oldsmobile",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Bright White",
+        "paint_code": "16/WA9753",
+        "slug": "bright-white-16wa9753",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/bright-white-16wa9753/",
+        "source_label": "PaintScratch 1997 Oldsmobile",
+        "hex_value": "#F9F8E9"
+      },
+      {
+        "display_name": "Silvermist Metallic",
+        "paint_code": "17/WA301D",
+        "slug": "silvermist-metallic-17wa301d",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/silvermist-metallic-17wa301d/",
+        "source_label": "PaintScratch 1997 Oldsmobile",
+        "hex_value": "#CECAAA"
+      },
+      {
+        "display_name": "Silvermist Metallic",
+        "paint_code": "17/WA331D",
+        "slug": "silvermist-metallic-17wa331d",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/silvermist-metallic-17wa331d/",
+        "source_label": "PaintScratch 1997 Oldsmobile",
+        "hex_value": "#CECAAA"
+      },
+      {
+        "display_name": "Aubergine Metallic",
+        "paint_code": "18/WA325D",
+        "slug": "aubergine-metallic-18wa325d",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/aubergine-metallic-18wa325d/",
+        "source_label": "PaintScratch 1997 Oldsmobile",
+        "hex_value": "#A28489"
+      },
+      {
+        "display_name": "Opal Blue Metallic",
+        "paint_code": "24/WA305D",
+        "slug": "opal-blue-metallic-24wa305d",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/opal-blue-metallic-24wa305d/",
+        "source_label": "PaintScratch 1997 Oldsmobile",
+        "hex_value": "#718997"
+      },
+      {
+        "display_name": "Medium Cloisonne Metallic",
+        "paint_code": "26/WA127A",
+        "slug": "medium-cloisonne-metallic-26wa127a",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/medium-cloisonne-metallic-26wa127a/",
+        "source_label": "PaintScratch 1997 Oldsmobile",
+        "hex_value": "#557DB9"
+      },
+      {
+        "display_name": "Light Stellar Blue Metallic",
+        "paint_code": "27/WA146B",
+        "slug": "light-stellar-blue-metallic-27wa146b",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/light-stellar-blue-metallic-27wa146b/",
+        "source_label": "PaintScratch 1997 Oldsmobile",
+        "hex_value": "#91B0BF"
+      },
+      {
+        "display_name": "Black Sapphire Metallic",
+        "paint_code": "28/WA8743",
+        "slug": "black-sapphire-metallic-28wa8743",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/black-sapphire-metallic-28wa8743/",
+        "source_label": "PaintScratch 1997 Oldsmobile",
+        "hex_value": "#0A141A"
+      },
+      {
+        "display_name": "Medium Adriatic Blue Metallic",
+        "paint_code": "30/WA9907",
+        "slug": "medium-adriatic-blue-metallic-30wa9907",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/medium-adriatic-blue-metallic-30wa9907/",
+        "source_label": "PaintScratch 1997 Oldsmobile",
+        "hex_value": "#5F769B"
+      },
+      {
+        "display_name": "Dark Otter Metallic",
+        "paint_code": "32/WA200C",
+        "slug": "dark-otter-metallic-32wa200c",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/dark-otter-metallic-32wa200c/",
+        "source_label": "PaintScratch 1997 Oldsmobile",
+        "hex_value": "#062A0D"
+      },
+      {
+        "display_name": "Light Teal Metallic",
+        "paint_code": "34/WA129A",
+        "slug": "light-teal-metallic-34wa129a",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/light-teal-metallic-34wa129a/",
+        "source_label": "PaintScratch 1997 Oldsmobile",
+        "hex_value": "#C3D1C7"
+      },
+      {
+        "display_name": "Dark Teal Pri Metallic",
+        "paint_code": "35/WA132A",
+        "slug": "dark-teal-pri-metallic-35wa132a",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/dark-teal-pri-metallic-35wa132a/",
+        "source_label": "PaintScratch 1997 Oldsmobile",
+        "hex_value": "#315F4F"
+      }
+    ],
+    "1998": [
+      {
+        "display_name": "Flame Red",
+        "paint_code": "81/WA8774",
+        "slug": "flame-red-81wa8774",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/flame-red-81wa8774/",
+        "source_label": "PaintScratch 1998 Oldsmobile",
+        "hex_value": "#BA1E19"
+      },
+      {
+        "display_name": "Medium Marblehead Metallic",
+        "paint_code": "03/WA9924",
+        "slug": "medium-marblehead-metallic-03wa9924",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/medium-marblehead-metallic-03wa9924/",
+        "source_label": "PaintScratch 1998 Oldsmobile",
+        "hex_value": "#C6C2BA"
+      },
+      {
+        "display_name": "Crimson King",
+        "paint_code": "09/WA321D",
+        "slug": "crimson-king-09wa321d",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/crimson-king-09wa321d/",
+        "source_label": "PaintScratch 1998 Oldsmobile",
+        "hex_value": "#9A1B0A"
+      },
+      {
+        "display_name": "Pewter Metallic",
+        "paint_code": "11/WA382E",
+        "slug": "pewter-metallic-11wa382e",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/pewter-metallic-11wa382e/",
+        "source_label": "PaintScratch 1998 Oldsmobile",
+        "hex_value": "#A4A888"
+      },
+      {
+        "display_name": "Graphite Pearl (Interior Dupont #C9234)",
+        "paint_code": "12/9771",
+        "slug": "graphite-pearl-interior-dupont-c9234-129771",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/graphite-pearl-interior-dupont-c9234-129771/",
+        "source_label": "PaintScratch 1998 Oldsmobile",
+        "hex_value": "#554E2D"
+      },
+      {
+        "display_name": "Galaxy Silver Metallic",
+        "paint_code": "12/WA519F",
+        "slug": "galaxy-silver-metallic-12wa519f",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/galaxy-silver-metallic-12wa519f/",
+        "source_label": "PaintScratch 1998 Oldsmobile",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Graphite (Interior Color)",
+        "paint_code": "12/WA7701",
+        "slug": "graphite-interior-color-12wa7701",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/graphite-interior-color-12wa7701/",
+        "source_label": "PaintScratch 1998 Oldsmobile",
+        "hex_value": "#5A5A5C"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "13/WA9021",
+        "slug": "silver-metallic-13wa9021",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/silver-metallic-13wa9021/",
+        "source_label": "PaintScratch 1998 Oldsmobile",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Storm Gray Metallic (bumper)",
+        "paint_code": "14/WA312D",
+        "slug": "storm-gray-metallic-bumper-14wa312d",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/storm-gray-metallic-bumper-14wa312d/",
+        "source_label": "PaintScratch 1998 Oldsmobile",
+        "hex_value": "#7D837F"
+      },
+      {
+        "display_name": "Medium Gray (Interior Color)",
+        "paint_code": "14/WA9779",
+        "slug": "medium-gray-interior-color-14wa9779",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/medium-gray-interior-color-14wa9779/",
+        "source_label": "PaintScratch 1998 Oldsmobile",
+        "hex_value": "#847F7C"
+      },
+      {
+        "display_name": "Bright White",
+        "paint_code": "16/WA9753",
+        "slug": "bright-white-16wa9753",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/bright-white-16wa9753/",
+        "source_label": "PaintScratch 1998 Oldsmobile",
+        "hex_value": "#F9F8E9"
+      },
+      {
+        "display_name": "Silvermist Metallic",
+        "paint_code": "17/WA301D",
+        "slug": "silvermist-metallic-17wa301d",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/silvermist-metallic-17wa301d/",
+        "source_label": "PaintScratch 1998 Oldsmobile",
+        "hex_value": "#CECAAA"
+      },
+      {
+        "display_name": "Silvermist Metallic",
+        "paint_code": "17/WA331D",
+        "slug": "silvermist-metallic-17wa331d",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/silvermist-metallic-17wa331d/",
+        "source_label": "PaintScratch 1998 Oldsmobile",
+        "hex_value": "#CECAAA"
+      },
+      {
+        "display_name": "Black (bumper)",
+        "paint_code": "19N/WA848",
+        "slug": "black-bumper-19nwa848",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/black-bumper-19nwa848/",
+        "source_label": "PaintScratch 1998 Oldsmobile",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Opal Blue Metallic",
+        "paint_code": "24/WA305D",
+        "slug": "opal-blue-metallic-24wa305d",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/opal-blue-metallic-24wa305d/",
+        "source_label": "PaintScratch 1998 Oldsmobile",
+        "hex_value": "#718997"
+      },
+      {
+        "display_name": "Medium Cloisonne Metallic",
+        "paint_code": "26/WA127A",
+        "slug": "medium-cloisonne-metallic-26wa127a",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/medium-cloisonne-metallic-26wa127a/",
+        "source_label": "PaintScratch 1998 Oldsmobile",
+        "hex_value": "#557DB9"
+      }
+    ],
+    "1999": [
+      {
+        "display_name": "Flame Red",
+        "paint_code": "81/WA8774",
+        "slug": "flame-red-81wa8774",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/flame-red-81wa8774/",
+        "source_label": "PaintScratch 1999 Oldsmobile",
+        "hex_value": "#BA1E19"
+      },
+      {
+        "display_name": "Centennial Silver",
+        "paint_code": "DBC 37182",
+        "slug": "centennial-silver-dbc-37182",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/centennial-silver-dbc-37182/",
+        "source_label": "PaintScratch 1999 Oldsmobile",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Medium Marblehead Metallic",
+        "paint_code": "03/WA9924",
+        "slug": "medium-marblehead-metallic-03wa9924",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/medium-marblehead-metallic-03wa9924/",
+        "source_label": "PaintScratch 1999 Oldsmobile",
+        "hex_value": "#C6C2BA"
+      },
+      {
+        "display_name": "Crimson King",
+        "paint_code": "09/WA321D",
+        "slug": "crimson-king-09wa321d",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/crimson-king-09wa321d/",
+        "source_label": "PaintScratch 1999 Oldsmobile",
+        "hex_value": "#9A1B0A"
+      },
+      {
+        "display_name": "Arctic White",
+        "paint_code": "10/WA9567",
+        "slug": "arctic-white-10wa9567",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/arctic-white-10wa9567/",
+        "source_label": "PaintScratch 1999 Oldsmobile",
+        "hex_value": "#FDF6DF"
+      },
+      {
+        "display_name": "Pewter Metallic",
+        "paint_code": "11/WA382E",
+        "slug": "pewter-metallic-11wa382e",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/pewter-metallic-11wa382e/",
+        "source_label": "PaintScratch 1999 Oldsmobile",
+        "hex_value": "#A4A888"
+      },
+      {
+        "display_name": "Galaxy Silver Metallic",
+        "paint_code": "12/WA519F",
+        "slug": "galaxy-silver-metallic-12wa519f",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/galaxy-silver-metallic-12wa519f/",
+        "source_label": "PaintScratch 1999 Oldsmobile",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Bright White",
+        "paint_code": "16/WA9753",
+        "slug": "bright-white-16wa9753",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/bright-white-16wa9753/",
+        "source_label": "PaintScratch 1999 Oldsmobile",
+        "hex_value": "#F9F8E9"
+      },
+      {
+        "display_name": "Silvermist Metallic",
+        "paint_code": "17/WA331D",
+        "slug": "silvermist-metallic-17wa331d",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/silvermist-metallic-17wa331d/",
+        "source_label": "PaintScratch 1999 Oldsmobile",
+        "hex_value": "#CECAAA"
+      },
+      {
+        "display_name": "Opal Blue Metallic",
+        "paint_code": "24/WA305D",
+        "slug": "opal-blue-metallic-24wa305d",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/opal-blue-metallic-24wa305d/",
+        "source_label": "PaintScratch 1999 Oldsmobile",
+        "hex_value": "#718997"
+      },
+      {
+        "display_name": "Medium Gulf Blue Metallic",
+        "paint_code": "26/WA518F",
+        "slug": "medium-gulf-blue-metallic-26wa518f",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/medium-gulf-blue-metallic-26wa518f/",
+        "source_label": "PaintScratch 1999 Oldsmobile",
+        "hex_value": "#5D8A99"
+      },
+      {
+        "display_name": "Regal Blue Metallic",
+        "paint_code": "27/WA359E",
+        "slug": "regal-blue-metallic-27wa359e",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/regal-blue-metallic-27wa359e/",
+        "source_label": "PaintScratch 1999 Oldsmobile",
+        "hex_value": "#5D6C9D"
+      },
+      {
+        "display_name": "Regal Blue Metallic",
+        "paint_code": "27/WA360E",
+        "slug": "regal-blue-metallic-27wa360e",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/regal-blue-metallic-27wa360e/",
+        "source_label": "PaintScratch 1999 Oldsmobile",
+        "hex_value": "#545D92"
+      },
+      {
+        "display_name": "Navy Blue Metallic",
+        "paint_code": "28/WA352E",
+        "slug": "navy-blue-metallic-28wa352e",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/navy-blue-metallic-28wa352e/",
+        "source_label": "PaintScratch 1999 Oldsmobile",
+        "hex_value": "#171E5D"
+      },
+      {
+        "display_name": "Navy Blue Metallic",
+        "paint_code": "28/WA353E",
+        "slug": "navy-blue-metallic-28wa353e",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/navy-blue-metallic-28wa353e/",
+        "source_label": "PaintScratch 1999 Oldsmobile",
+        "hex_value": "#060F68"
+      },
+      {
+        "display_name": "Black Sapphire Metallic",
+        "paint_code": "28/WA8743",
+        "slug": "black-sapphire-metallic-28wa8743",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/black-sapphire-metallic-28wa8743/",
+        "source_label": "PaintScratch 1999 Oldsmobile",
+        "hex_value": "#0A141A"
+      }
+    ],
+    "2000": [
+      {
+        "display_name": "Light Bronze Mist Metallic",
+        "paint_code": "54/WA534F",
+        "slug": "light-bronze-mist-metallic-54wa534f",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/light-bronze-mist-metallic-54wa534f/",
+        "source_label": "PaintScratch 2000 Oldsmobile",
+        "hex_value": "#B1A675"
+      },
+      {
+        "display_name": "Flame Red",
+        "paint_code": "81/WA8774",
+        "slug": "flame-red-81wa8774",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/flame-red-81wa8774/",
+        "source_label": "PaintScratch 2000 Oldsmobile",
+        "hex_value": "#BA1E19"
+      },
+      {
+        "display_name": "Crimson King",
+        "paint_code": "09/WA321D",
+        "slug": "crimson-king-09wa321d",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/crimson-king-09wa321d/",
+        "source_label": "PaintScratch 2000 Oldsmobile",
+        "hex_value": "#9A1B0A"
+      },
+      {
+        "display_name": "Pewter Metallic",
+        "paint_code": "11/WA382E",
+        "slug": "pewter-metallic-11wa382e",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/pewter-metallic-11wa382e/",
+        "source_label": "PaintScratch 2000 Oldsmobile",
+        "hex_value": "#A4A888"
+      },
+      {
+        "display_name": "Galaxy Silver Metallic",
+        "paint_code": "12/WA519F",
+        "slug": "galaxy-silver-metallic-12wa519f",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/galaxy-silver-metallic-12wa519f/",
+        "source_label": "PaintScratch 2000 Oldsmobile",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Light Gray (Interior)",
+        "paint_code": "14I",
+        "slug": "light-gray-interior-14i",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/light-gray-interior-14i/",
+        "source_label": "PaintScratch 2000 Oldsmobile",
+        "hex_value": "#BFB9B3"
+      },
+      {
+        "display_name": "Bright White",
+        "paint_code": "16/WA9753",
+        "slug": "bright-white-16wa9753",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/bright-white-16wa9753/",
+        "source_label": "PaintScratch 2000 Oldsmobile",
+        "hex_value": "#F9F8E9"
+      },
+      {
+        "display_name": "Silvermist Metallic",
+        "paint_code": "17/WA331D",
+        "slug": "silvermist-metallic-17wa331d",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/silvermist-metallic-17wa331d/",
+        "source_label": "PaintScratch 2000 Oldsmobile",
+        "hex_value": "#CECAAA"
+      },
+      {
+        "display_name": "Space Blue Metallic",
+        "paint_code": "23/WA413G",
+        "slug": "space-blue-metallic-23wa413g",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/space-blue-metallic-23wa413g/",
+        "source_label": "PaintScratch 2000 Oldsmobile",
+        "hex_value": "#2B829F"
+      },
+      {
+        "display_name": "Medium Gulf Blue Metallic",
+        "paint_code": "26/WA518F",
+        "slug": "medium-gulf-blue-metallic-26wa518f",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/medium-gulf-blue-metallic-26wa518f/",
+        "source_label": "PaintScratch 2000 Oldsmobile",
+        "hex_value": "#5D8A99"
+      },
+      {
+        "display_name": "Regal Blue Metallic",
+        "paint_code": "27/WA360E",
+        "slug": "regal-blue-metallic-27wa360e",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/regal-blue-metallic-27wa360e/",
+        "source_label": "PaintScratch 2000 Oldsmobile",
+        "hex_value": "#545D92"
+      },
+      {
+        "display_name": "Navy Blue Metallic",
+        "paint_code": "28/WA353E",
+        "slug": "navy-blue-metallic-28wa353e",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/navy-blue-metallic-28wa353e/",
+        "source_label": "PaintScratch 2000 Oldsmobile",
+        "hex_value": "#060F68"
+      },
+      {
+        "display_name": "Black Sapphire Metallic",
+        "paint_code": "28/WA8743",
+        "slug": "black-sapphire-metallic-28wa8743",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/black-sapphire-metallic-28wa8743/",
+        "source_label": "PaintScratch 2000 Oldsmobile",
+        "hex_value": "#0A141A"
+      },
+      {
+        "display_name": "International Blue Metallic",
+        "paint_code": "30/WA377E",
+        "slug": "international-blue-metallic-30wa377e",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/international-blue-metallic-30wa377e/",
+        "source_label": "PaintScratch 2000 Oldsmobile",
+        "hex_value": "#466E88"
+      },
+      {
+        "display_name": "Fernmist Green Metallic",
+        "paint_code": "31/WA520F",
+        "slug": "fernmist-green-metallic-31wa520f",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/fernmist-green-metallic-31wa520f/",
+        "source_label": "PaintScratch 2000 Oldsmobile",
+        "hex_value": "#06981B"
+      },
+      {
+        "display_name": "Light Driftwood Metallic",
+        "paint_code": "33/WA5322",
+        "slug": "light-driftwood-metallic-33wa5322",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/light-driftwood-metallic-33wa5322/",
+        "source_label": "PaintScratch 2000 Oldsmobile",
+        "hex_value": "#CFBC87"
+      }
+    ],
+    "2001": [
+      {
+        "display_name": "Light Bronze Mist Metallic",
+        "paint_code": "54/WA534F",
+        "slug": "light-bronze-mist-metallic-54wa534f",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/light-bronze-mist-metallic-54wa534f/",
+        "source_label": "PaintScratch 2001 Oldsmobile",
+        "hex_value": "#B1A675"
+      },
+      {
+        "display_name": "Flame Red",
+        "paint_code": "81/WA8774",
+        "slug": "flame-red-81wa8774",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/flame-red-81wa8774/",
+        "source_label": "PaintScratch 2001 Oldsmobile",
+        "hex_value": "#BA1E19"
+      },
+      {
+        "display_name": "Medium Marblehead Metallic",
+        "paint_code": "03/WA9924",
+        "slug": "medium-marblehead-metallic-03wa9924",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/medium-marblehead-metallic-03wa9924/",
+        "source_label": "PaintScratch 2001 Oldsmobile",
+        "hex_value": "#C6C2BA"
+      },
+      {
+        "display_name": "Crimson King",
+        "paint_code": "09/WA321D",
+        "slug": "crimson-king-09wa321d",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/crimson-king-09wa321d/",
+        "source_label": "PaintScratch 2001 Oldsmobile",
+        "hex_value": "#9A1B0A"
+      },
+      {
+        "display_name": "Dark Green (Canadian color)",
+        "paint_code": "9V5/WA9015",
+        "slug": "dark-green-canadian-color-9v5wa9015",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/dark-green-canadian-color-9v5wa9015/",
+        "source_label": "PaintScratch 2001 Oldsmobile",
+        "hex_value": "#1E5A29"
+      },
+      {
+        "display_name": "Pewter Metallic",
+        "paint_code": "11/WA382E",
+        "slug": "pewter-metallic-11wa382e",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/pewter-metallic-11wa382e/",
+        "source_label": "PaintScratch 2001 Oldsmobile",
+        "hex_value": "#A4A888"
+      },
+      {
+        "display_name": "Galaxy Silver Metallic",
+        "paint_code": "12/WA519F",
+        "slug": "galaxy-silver-metallic-12wa519f",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/galaxy-silver-metallic-12wa519f/",
+        "source_label": "PaintScratch 2001 Oldsmobile",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Bright White",
+        "paint_code": "16/WA9753",
+        "slug": "bright-white-16wa9753",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/bright-white-16wa9753/",
+        "source_label": "PaintScratch 2001 Oldsmobile",
+        "hex_value": "#F9F8E9"
+      },
+      {
+        "display_name": "Silvermist Metallic",
+        "paint_code": "17/WA331D",
+        "slug": "silvermist-metallic-17wa331d",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/silvermist-metallic-17wa331d/",
+        "source_label": "PaintScratch 2001 Oldsmobile",
+        "hex_value": "#CECAAA"
+      },
+      {
+        "display_name": "Silver Leaf Pri Metallic",
+        "paint_code": "18/WA609H",
+        "slug": "silver-leaf-pri-metallic-18wa609h",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/silver-leaf-pri-metallic-18wa609h/",
+        "source_label": "PaintScratch 2001 Oldsmobile",
+        "hex_value": "#C5C694"
+      },
+      {
+        "display_name": "Space Blue Metallic",
+        "paint_code": "23/WA413G",
+        "slug": "space-blue-metallic-23wa413g",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/space-blue-metallic-23wa413g/",
+        "source_label": "PaintScratch 2001 Oldsmobile",
+        "hex_value": "#2B829F"
+      },
+      {
+        "display_name": "Regal Blue Metallic",
+        "paint_code": "27/WA360E",
+        "slug": "regal-blue-metallic-27wa360e",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/regal-blue-metallic-27wa360e/",
+        "source_label": "PaintScratch 2001 Oldsmobile",
+        "hex_value": "#545D92"
+      },
+      {
+        "display_name": "Navy Blue Metallic",
+        "paint_code": "28/WA353E",
+        "slug": "navy-blue-metallic-28wa353e",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/navy-blue-metallic-28wa353e/",
+        "source_label": "PaintScratch 2001 Oldsmobile",
+        "hex_value": "#060F68"
+      },
+      {
+        "display_name": "Black Sapphire Metallic",
+        "paint_code": "28/WA8743",
+        "slug": "black-sapphire-metallic-28wa8743",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/black-sapphire-metallic-28wa8743/",
+        "source_label": "PaintScratch 2001 Oldsmobile",
+        "hex_value": "#0A141A"
+      },
+      {
+        "display_name": "Fernmist Green Metallic",
+        "paint_code": "31/WA520F",
+        "slug": "fernmist-green-metallic-31wa520f",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/fernmist-green-metallic-31wa520f/",
+        "source_label": "PaintScratch 2001 Oldsmobile",
+        "hex_value": "#06981B"
+      },
+      {
+        "display_name": "Dark Otter Gray Pri Metallic",
+        "paint_code": "32/WA648H",
+        "slug": "dark-otter-gray-pri-metallic-32wa648h",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/dark-otter-gray-pri-metallic-32wa648h/",
+        "source_label": "PaintScratch 2001 Oldsmobile",
+        "hex_value": "#454D31"
+      }
+    ],
+    "2002": [
+      {
+        "display_name": "Light Bronze Mist Metallic",
+        "paint_code": "54/WA534F",
+        "slug": "light-bronze-mist-metallic-54wa534f",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/light-bronze-mist-metallic-54wa534f/",
+        "source_label": "PaintScratch 2002 Oldsmobile",
+        "hex_value": "#B1A675"
+      },
+      {
+        "display_name": "Flame Red",
+        "paint_code": "81/WA8774",
+        "slug": "flame-red-81wa8774",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/flame-red-81wa8774/",
+        "source_label": "PaintScratch 2002 Oldsmobile",
+        "hex_value": "#BA1E19"
+      },
+      {
+        "display_name": "Pewter Metallic",
+        "paint_code": "11/WA382E",
+        "slug": "pewter-metallic-11wa382e",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/pewter-metallic-11wa382e/",
+        "source_label": "PaintScratch 2002 Oldsmobile",
+        "hex_value": "#A4A888"
+      },
+      {
+        "display_name": "Galaxy Silver Metallic",
+        "paint_code": "12/WA519F",
+        "slug": "galaxy-silver-metallic-12wa519f",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/galaxy-silver-metallic-12wa519f/",
+        "source_label": "PaintScratch 2002 Oldsmobile",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Graphite (Interior Color)",
+        "paint_code": "12/WA7701",
+        "slug": "graphite-interior-color-12wa7701",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/graphite-interior-color-12wa7701/",
+        "source_label": "PaintScratch 2002 Oldsmobile",
+        "hex_value": "#5A5A5C"
+      },
+      {
+        "display_name": "Bright White",
+        "paint_code": "16/WA9753",
+        "slug": "bright-white-16wa9753",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/bright-white-16wa9753/",
+        "source_label": "PaintScratch 2002 Oldsmobile",
+        "hex_value": "#F9F8E9"
+      },
+      {
+        "display_name": "Silver Leaf Pri Metallic",
+        "paint_code": "18/WA609H",
+        "slug": "silver-leaf-pri-metallic-18wa609h",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/silver-leaf-pri-metallic-18wa609h/",
+        "source_label": "PaintScratch 2002 Oldsmobile",
+        "hex_value": "#C5C694"
+      },
+      {
+        "display_name": "Space Blue Metallic",
+        "paint_code": "23/WA413G",
+        "slug": "space-blue-metallic-23wa413g",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/space-blue-metallic-23wa413g/",
+        "source_label": "PaintScratch 2002 Oldsmobile",
+        "hex_value": "#2B829F"
+      },
+      {
+        "display_name": "Dark Ming Blue Pri Metallic",
+        "paint_code": "25/WA722J",
+        "slug": "dark-ming-blue-pri-metallic-25wa722j",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/dark-ming-blue-pri-metallic-25wa722j/",
+        "source_label": "PaintScratch 2002 Oldsmobile",
+        "hex_value": "#245668"
+      },
+      {
+        "display_name": "Black Sapphire Metallic",
+        "paint_code": "28/WA8743",
+        "slug": "black-sapphire-metallic-28wa8743",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/black-sapphire-metallic-28wa8743/",
+        "source_label": "PaintScratch 2002 Oldsmobile",
+        "hex_value": "#0A141A"
+      },
+      {
+        "display_name": "Light Driftwood Metallic",
+        "paint_code": "33/WA5322",
+        "slug": "light-driftwood-metallic-33wa5322",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/light-driftwood-metallic-33wa5322/",
+        "source_label": "PaintScratch 2002 Oldsmobile",
+        "hex_value": "#CFBC87"
+      },
+      {
+        "display_name": "Dark Tropic Teal Pri Metallic",
+        "paint_code": "37/WA765J",
+        "slug": "dark-tropic-teal-pri-metallic-37wa765j",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/dark-tropic-teal-pri-metallic-37wa765j/",
+        "source_label": "PaintScratch 2002 Oldsmobile",
+        "hex_value": "#257565"
+      },
+      {
+        "display_name": "Indigo Metallic",
+        "paint_code": "39/WA9792",
+        "slug": "indigo-metallic-39wa9792",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/indigo-metallic-39wa9792/",
+        "source_label": "PaintScratch 2002 Oldsmobile",
+        "hex_value": "#0B536D"
+      },
+      {
+        "display_name": "White",
+        "paint_code": "40/WA8554",
+        "slug": "white-40wa8554",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/white-40wa8554/",
+        "source_label": "PaintScratch 2002 Oldsmobile",
+        "hex_value": "#FEF7EC"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "41/WA8555",
+        "slug": "black-41wa8555",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/black-41wa8555/",
+        "source_label": "PaintScratch 2002 Oldsmobile",
+        "hex_value": "#020202"
+      },
+      {
+        "display_name": "Dark Chestnut Pri Metallic",
+        "paint_code": "42/WA613H",
+        "slug": "dark-chestnut-pri-metallic-42wa613h",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/dark-chestnut-pri-metallic-42wa613h/",
+        "source_label": "PaintScratch 2002 Oldsmobile",
+        "hex_value": "#34281E"
+      }
+    ],
+    "2003": [
+      {
+        "display_name": "Light Bronze Mist Metallic",
+        "paint_code": "54/WA534F",
+        "slug": "light-bronze-mist-metallic-54wa534f",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/light-bronze-mist-metallic-54wa534f/",
+        "source_label": "PaintScratch 2003 Oldsmobile",
+        "hex_value": "#B1A675"
+      },
+      {
+        "display_name": "Flame Red",
+        "paint_code": "81/WA8774",
+        "slug": "flame-red-81wa8774",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/flame-red-81wa8774/",
+        "source_label": "PaintScratch 2003 Oldsmobile",
+        "hex_value": "#BA1E19"
+      },
+      {
+        "display_name": "Dark Green (Canadian color)",
+        "paint_code": "9V5/WA9015",
+        "slug": "dark-green-canadian-color-9v5wa9015",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/dark-green-canadian-color-9v5wa9015/",
+        "source_label": "PaintScratch 2003 Oldsmobile",
+        "hex_value": "#1E5A29"
+      },
+      {
+        "display_name": "Tan (Canadian color)",
+        "paint_code": "9V9/WA9403",
+        "slug": "tan-canadian-color-9v9wa9403",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/tan-canadian-color-9v9wa9403/",
+        "source_label": "PaintScratch 2003 Oldsmobile",
+        "hex_value": "#E3D59D"
+      },
+      {
+        "display_name": "Dark Yellow (Canadian color)",
+        "paint_code": "9W3/WA9418",
+        "slug": "dark-yellow-canadian-color-9w3wa9418",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/dark-yellow-canadian-color-9w3wa9418/",
+        "source_label": "PaintScratch 2003 Oldsmobile",
+        "hex_value": "#F5B01D"
+      },
+      {
+        "display_name": "Dark Orange (Canadian Color)",
+        "paint_code": "9W4/WA9417",
+        "slug": "dark-orange-canadian-color-9w4wa9417",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/dark-orange-canadian-color-9w4wa9417/",
+        "source_label": "PaintScratch 2003 Oldsmobile",
+        "hex_value": "#E5621B"
+      },
+      {
+        "display_name": "Pewter Metallic",
+        "paint_code": "11/WA382E",
+        "slug": "pewter-metallic-11wa382e",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/pewter-metallic-11wa382e/",
+        "source_label": "PaintScratch 2003 Oldsmobile",
+        "hex_value": "#A4A888"
+      },
+      {
+        "display_name": "Galaxy Silver Metallic",
+        "paint_code": "12/WA519F",
+        "slug": "galaxy-silver-metallic-12wa519f",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/galaxy-silver-metallic-12wa519f/",
+        "source_label": "PaintScratch 2003 Oldsmobile",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Light Gray (Interior Color)",
+        "paint_code": "14/WA9781",
+        "slug": "light-gray-interior-color-14wa9781",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/light-gray-interior-color-14wa9781/",
+        "source_label": "PaintScratch 2003 Oldsmobile",
+        "hex_value": "#A9A695"
+      },
+      {
+        "display_name": "Shale (Interior Color)",
+        "paint_code": "15/WA149B",
+        "slug": "shale-interior-color-15wa149b",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/shale-interior-color-15wa149b/",
+        "source_label": "PaintScratch 2003 Oldsmobile",
+        "hex_value": "#CAB98C"
+      },
+      {
+        "display_name": "Dark Ming Blue Pri Metallic",
+        "paint_code": "25/WA722J",
+        "slug": "dark-ming-blue-pri-metallic-25wa722j",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/dark-ming-blue-pri-metallic-25wa722j/",
+        "source_label": "PaintScratch 2003 Oldsmobile",
+        "hex_value": "#245668"
+      },
+      {
+        "display_name": "Black Sapphire Metallic",
+        "paint_code": "28/WA8743",
+        "slug": "black-sapphire-metallic-28wa8743",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/black-sapphire-metallic-28wa8743/",
+        "source_label": "PaintScratch 2003 Oldsmobile",
+        "hex_value": "#0A141A"
+      },
+      {
+        "display_name": "Light Driftwood Metallic",
+        "paint_code": "33/WA5322",
+        "slug": "light-driftwood-metallic-33wa5322",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/light-driftwood-metallic-33wa5322/",
+        "source_label": "PaintScratch 2003 Oldsmobile",
+        "hex_value": "#CFBC87"
+      },
+      {
+        "display_name": "Dark Tropic Teal Pri Metallic",
+        "paint_code": "37/WA765J",
+        "slug": "dark-tropic-teal-pri-metallic-37wa765j",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/dark-tropic-teal-pri-metallic-37wa765j/",
+        "source_label": "PaintScratch 2003 Oldsmobile",
+        "hex_value": "#257565"
+      },
+      {
+        "display_name": "Indigo Metallic",
+        "paint_code": "39/WA9792",
+        "slug": "indigo-metallic-39wa9792",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/indigo-metallic-39wa9792/",
+        "source_label": "PaintScratch 2003 Oldsmobile",
+        "hex_value": "#0B536D"
+      },
+      {
+        "display_name": "White",
+        "paint_code": "40/WA8554",
+        "slug": "white-40wa8554",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/white-40wa8554/",
+        "source_label": "PaintScratch 2003 Oldsmobile",
+        "hex_value": "#FEF7EC"
+      }
+    ],
+    "2004": [
+      {
+        "display_name": "Galaxy Silver Metallic",
+        "paint_code": "12/WA519F",
+        "slug": "galaxy-silver-metallic-12wa519f",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/galaxy-silver-metallic-12wa519f/",
+        "source_label": "PaintScratch 2004 Oldsmobile",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Cashmere Metallic",
+        "paint_code": "15/WA929L",
+        "slug": "cashmere-metallic-15wa929l",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/cashmere-metallic-15wa929l/",
+        "source_label": "PaintScratch 2004 Oldsmobile",
+        "hex_value": "#D3C69B"
+      },
+      {
+        "display_name": "Navy Blue Metallic",
+        "paint_code": "28/WA353E",
+        "slug": "navy-blue-metallic-28wa353e",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/navy-blue-metallic-28wa353e/",
+        "source_label": "PaintScratch 2004 Oldsmobile",
+        "hex_value": "#060F68"
+      },
+      {
+        "display_name": "Black Sapphire Metallic",
+        "paint_code": "28/WA8743",
+        "slug": "black-sapphire-metallic-28wa8743",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/black-sapphire-metallic-28wa8743/",
+        "source_label": "PaintScratch 2004 Oldsmobile",
+        "hex_value": "#0A141A"
+      },
+      {
+        "display_name": "Light Driftwood Metallic",
+        "paint_code": "33/WA5322",
+        "slug": "light-driftwood-metallic-33wa5322",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/light-driftwood-metallic-33wa5322/",
+        "source_label": "PaintScratch 2004 Oldsmobile",
+        "hex_value": "#CFBC87"
+      },
+      {
+        "display_name": "Dark Tropic Teal Pri Metallic",
+        "paint_code": "37/WA765J",
+        "slug": "dark-tropic-teal-pri-metallic-37wa765j",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/dark-tropic-teal-pri-metallic-37wa765j/",
+        "source_label": "PaintScratch 2004 Oldsmobile",
+        "hex_value": "#257565"
+      },
+      {
+        "display_name": "Indigo Metallic",
+        "paint_code": "39/WA9792",
+        "slug": "indigo-metallic-39wa9792",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/indigo-metallic-39wa9792/",
+        "source_label": "PaintScratch 2004 Oldsmobile",
+        "hex_value": "#0B536D"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "41/WA8555",
+        "slug": "black-41wa8555",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/black-41wa8555/",
+        "source_label": "PaintScratch 2004 Oldsmobile",
+        "hex_value": "#020202"
+      },
+      {
+        "display_name": "Medium Red Metallic",
+        "paint_code": "44/WA408G",
+        "slug": "medium-red-metallic-44wa408g",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/medium-red-metallic-44wa408g/",
+        "source_label": "PaintScratch 2004 Oldsmobile",
+        "hex_value": "#8F0707"
+      },
+      {
+        "display_name": "Stealth Grey Metallic",
+        "paint_code": "46/WA928L",
+        "slug": "stealth-grey-metallic-46wa928l",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/stealth-grey-metallic-46wa928l/",
+        "source_label": "PaintScratch 2004 Oldsmobile",
+        "hex_value": "#484A4D"
+      },
+      {
+        "display_name": "Medium Green Pri Metallic",
+        "paint_code": "47/WA9539",
+        "slug": "medium-green-pri-metallic-47wa9539",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/medium-green-pri-metallic-47wa9539/",
+        "source_label": "PaintScratch 2004 Oldsmobile",
+        "hex_value": "#246826"
+      },
+      {
+        "display_name": "Light Sandrift Metallic",
+        "paint_code": "49/WA220C",
+        "slug": "light-sandrift-metallic-49wa220c",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/light-sandrift-metallic-49wa220c/",
+        "source_label": "PaintScratch 2004 Oldsmobile",
+        "hex_value": "#AB996D"
+      },
+      {
+        "display_name": "White",
+        "paint_code": "50/WA8624",
+        "slug": "white-50wa8624",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/white-50wa8624/",
+        "source_label": "PaintScratch 2004 Oldsmobile",
+        "hex_value": "#EFEFE9"
+      },
+      {
+        "display_name": "Medium Neutral II (Interior Color)",
+        "paint_code": "52/WA195A",
+        "slug": "medium-neutral-ii-interior-color-52wa195a",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/medium-neutral-ii-interior-color-52wa195a/",
+        "source_label": "PaintScratch 2004 Oldsmobile",
+        "hex_value": "#C4AD84"
+      },
+      {
+        "display_name": "Sunburst Orange II Metallic",
+        "paint_code": "56/WA913L",
+        "slug": "sunburst-orange-ii-metallic-56wa913l",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/sunburst-orange-ii-metallic-56wa913l/",
+        "source_label": "PaintScratch 2004 Oldsmobile",
+        "hex_value": "#CC912A"
+      },
+      {
+        "display_name": "Orange Fusion Metallic",
+        "paint_code": "56U/WA913L",
+        "slug": "orange-fusion-metallic-56uwa913l",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/orange-fusion-metallic-56uwa913l/",
+        "source_label": "PaintScratch 2004 Oldsmobile",
+        "hex_value": "#F77425"
+      }
+    ],
+    "2016": [
+      {
+        "display_name": "Champagne Silver Metallic",
+        "paint_code": "WA102V/GWT",
+        "slug": "champagne-silver-metallic-wa102vgwt",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/champagne-silver-metallic-wa102vgwt/",
+        "source_label": "PaintScratch 2016 Oldsmobile",
+        "hex_value": "#E9E9E1"
+      },
+      {
+        "display_name": "Abalone White Tricoat",
+        "paint_code": "WA140X/G1W",
+        "slug": "abalone-white-tricoat-wa140xg1w",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/abalone-white-tricoat-wa140xg1w/",
+        "source_label": "PaintScratch 2016 Oldsmobile",
+        "hex_value": "#F5F3F1"
+      },
+      {
+        "display_name": "Black Meet Kettle Pearl",
+        "paint_code": "WA384A/GB8",
+        "slug": "black-meet-kettle-pearl-wa384agb8",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/black-meet-kettle-pearl-wa384agb8/",
+        "source_label": "PaintScratch 2016 Oldsmobile",
+        "hex_value": "#272B2F"
+      },
+      {
+        "display_name": "Limited Addiction Pearl",
+        "paint_code": "WA405Y/G1E",
+        "slug": "limited-addiction-pearl-wa405yg1e",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/limited-addiction-pearl-wa405yg1e/",
+        "source_label": "PaintScratch 2016 Oldsmobile",
+        "hex_value": "#8A453C"
+      },
+      {
+        "display_name": "Carbon Flash Metallic",
+        "paint_code": "WA501Q/GAR",
+        "slug": "carbon-flash-metallic-wa501qgar",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/carbon-flash-metallic-wa501qgar/",
+        "source_label": "PaintScratch 2016 Oldsmobile",
+        "hex_value": "#35322B"
+      },
+      {
+        "display_name": "Gray (matt)",
+        "paint_code": "WA598F",
+        "slug": "gray-matt-wa598f",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/gray-matt-wa598f/",
+        "source_label": "PaintScratch 2016 Oldsmobile",
+        "hex_value": "#3E3D3A"
+      },
+      {
+        "display_name": "Jet Black (Interior)",
+        "paint_code": "WA600R",
+        "slug": "jet-black-interior-wa600r",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/jet-black-interior-wa600r/",
+        "source_label": "PaintScratch 2016 Oldsmobile",
+        "hex_value": "#383628"
+      },
+      {
+        "display_name": "Switchblade Silver Pearl",
+        "paint_code": "WA636R/GAN",
+        "slug": "switchblade-silver-pearl-wa636rgan",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/switchblade-silver-pearl-wa636rgan/",
+        "source_label": "PaintScratch 2016 Oldsmobile",
+        "hex_value": "#E0DDD2"
+      },
+      {
+        "display_name": "Pepper Red",
+        "paint_code": "WA771U/GVM",
+        "slug": "pepper-red-wa771ugvm",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/pepper-red-wa771ugvm/",
+        "source_label": "PaintScratch 2016 Oldsmobile",
+        "hex_value": "#C01E1E"
+      },
+      {
+        "display_name": "Black (matt)",
+        "paint_code": "WA848",
+        "slug": "black-matt-wa848",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/black-matt-wa848/",
+        "source_label": "PaintScratch 2016 Oldsmobile",
+        "hex_value": "#0A0A0A"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "WA8555/GBA",
+        "slug": "black-wa8555gba",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/black-wa8555gba/",
+        "source_label": "PaintScratch 2016 Oldsmobile",
+        "hex_value": "#020202"
+      },
+      {
+        "display_name": "White",
+        "paint_code": "WA8624/GAZ",
+        "slug": "white-wa8624gaz",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/white-wa8624gaz/",
+        "source_label": "PaintScratch 2016 Oldsmobile",
+        "hex_value": "#FFFFFB"
+      },
+      {
+        "display_name": "Sparkle Silver Metallic (Wheel Color)",
+        "paint_code": "WA9967",
+        "slug": "sparkle-silver-metallic-wheel-color-wa9967",
+        "reference_url": "https://www.paintscratch.com/colors/oldsmobile/sparkle-silver-metallic-wheel-color-wa9967/",
+        "source_label": "PaintScratch 2016 Oldsmobile",
+        "hex_value": "#D5D4CD"
+      }
+    ]
+  }
+}

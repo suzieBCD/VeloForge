@@ -1,0 +1,524 @@
+{
+  "All Models": {
+    "2000": [
+      {
+        "display_name": "Silver",
+        "paint_code": "DBC300008",
+        "slug": "silver-dbc300008",
+        "reference_url": "https://www.paintscratch.com/colors/alumacraft/silver-dbc300008/",
+        "source_label": "PaintScratch 2000 Alumacraft",
+        "hex_value": "#CFCDC5"
+      },
+      {
+        "display_name": "Dark Blue",
+        "paint_code": "DBC192153",
+        "slug": "dark-blue-dbc192153",
+        "reference_url": "https://www.paintscratch.com/colors/alumacraft/dark-blue-dbc192153/",
+        "source_label": "PaintScratch 2000 Alumacraft",
+        "hex_value": "#163376"
+      },
+      {
+        "display_name": "Sand Metallic",
+        "paint_code": "DBC201835",
+        "slug": "sand-metallic-dbc201835",
+        "reference_url": "https://www.paintscratch.com/colors/alumacraft/sand-metallic-dbc201835/",
+        "source_label": "PaintScratch 2000 Alumacraft",
+        "hex_value": "#E9D9A1"
+      },
+      {
+        "display_name": "Red",
+        "paint_code": "DBC4154",
+        "slug": "red-dbc4154",
+        "reference_url": "https://www.paintscratch.com/colors/alumacraft/red-dbc4154/",
+        "source_label": "PaintScratch 2000 Alumacraft",
+        "hex_value": "#BE1010"
+      },
+      {
+        "display_name": "Gold",
+        "paint_code": "DBC5231",
+        "slug": "gold-dbc5231",
+        "reference_url": "https://www.paintscratch.com/colors/alumacraft/gold-dbc5231/",
+        "source_label": "PaintScratch 2000 Alumacraft",
+        "hex_value": "#CFAF57"
+      },
+      {
+        "display_name": "Silver",
+        "paint_code": "DBC5849",
+        "slug": "silver-dbc5849",
+        "reference_url": "https://www.paintscratch.com/colors/alumacraft/silver-dbc5849/",
+        "source_label": "PaintScratch 2000 Alumacraft",
+        "hex_value": "#E3E5EB"
+      }
+    ],
+    "2001": [
+      {
+        "display_name": "Silver",
+        "paint_code": "DBC300008",
+        "slug": "silver-dbc300008",
+        "reference_url": "https://www.paintscratch.com/colors/alumacraft/silver-dbc300008/",
+        "source_label": "PaintScratch 2001 Alumacraft",
+        "hex_value": "#CFCDC5"
+      },
+      {
+        "display_name": "Dark Blue",
+        "paint_code": "DBC192153",
+        "slug": "dark-blue-dbc192153",
+        "reference_url": "https://www.paintscratch.com/colors/alumacraft/dark-blue-dbc192153/",
+        "source_label": "PaintScratch 2001 Alumacraft",
+        "hex_value": "#163376"
+      },
+      {
+        "display_name": "Sand Metallic",
+        "paint_code": "DBC201835",
+        "slug": "sand-metallic-dbc201835",
+        "reference_url": "https://www.paintscratch.com/colors/alumacraft/sand-metallic-dbc201835/",
+        "source_label": "PaintScratch 2001 Alumacraft",
+        "hex_value": "#E9D9A1"
+      },
+      {
+        "display_name": "Red",
+        "paint_code": "DBC4154",
+        "slug": "red-dbc4154",
+        "reference_url": "https://www.paintscratch.com/colors/alumacraft/red-dbc4154/",
+        "source_label": "PaintScratch 2001 Alumacraft",
+        "hex_value": "#BE1010"
+      },
+      {
+        "display_name": "Gold",
+        "paint_code": "DBC5231",
+        "slug": "gold-dbc5231",
+        "reference_url": "https://www.paintscratch.com/colors/alumacraft/gold-dbc5231/",
+        "source_label": "PaintScratch 2001 Alumacraft",
+        "hex_value": "#CFAF57"
+      }
+    ],
+    "2002": [
+      {
+        "display_name": "Silver",
+        "paint_code": "DBC300008",
+        "slug": "silver-dbc300008",
+        "reference_url": "https://www.paintscratch.com/colors/alumacraft/silver-dbc300008/",
+        "source_label": "PaintScratch 2002 Alumacraft",
+        "hex_value": "#CFCDC5"
+      },
+      {
+        "display_name": "Dark Blue",
+        "paint_code": "DBC192153",
+        "slug": "dark-blue-dbc192153",
+        "reference_url": "https://www.paintscratch.com/colors/alumacraft/dark-blue-dbc192153/",
+        "source_label": "PaintScratch 2002 Alumacraft",
+        "hex_value": "#163376"
+      },
+      {
+        "display_name": "Sand Metallic",
+        "paint_code": "DBC201835",
+        "slug": "sand-metallic-dbc201835",
+        "reference_url": "https://www.paintscratch.com/colors/alumacraft/sand-metallic-dbc201835/",
+        "source_label": "PaintScratch 2002 Alumacraft",
+        "hex_value": "#E9D9A1"
+      },
+      {
+        "display_name": "Red",
+        "paint_code": "DBC4154",
+        "slug": "red-dbc4154",
+        "reference_url": "https://www.paintscratch.com/colors/alumacraft/red-dbc4154/",
+        "source_label": "PaintScratch 2002 Alumacraft",
+        "hex_value": "#BE1010"
+      },
+      {
+        "display_name": "Gold",
+        "paint_code": "DBC5231",
+        "slug": "gold-dbc5231",
+        "reference_url": "https://www.paintscratch.com/colors/alumacraft/gold-dbc5231/",
+        "source_label": "PaintScratch 2002 Alumacraft",
+        "hex_value": "#CFAF57"
+      }
+    ],
+    "2003": [
+      {
+        "display_name": "Silver",
+        "paint_code": "DBC300008",
+        "slug": "silver-dbc300008",
+        "reference_url": "https://www.paintscratch.com/colors/alumacraft/silver-dbc300008/",
+        "source_label": "PaintScratch 2003 Alumacraft",
+        "hex_value": "#CFCDC5"
+      },
+      {
+        "display_name": "Dark Blue",
+        "paint_code": "DBC192153",
+        "slug": "dark-blue-dbc192153",
+        "reference_url": "https://www.paintscratch.com/colors/alumacraft/dark-blue-dbc192153/",
+        "source_label": "PaintScratch 2003 Alumacraft",
+        "hex_value": "#163376"
+      },
+      {
+        "display_name": "Sand Metallic",
+        "paint_code": "DBC201835",
+        "slug": "sand-metallic-dbc201835",
+        "reference_url": "https://www.paintscratch.com/colors/alumacraft/sand-metallic-dbc201835/",
+        "source_label": "PaintScratch 2003 Alumacraft",
+        "hex_value": "#E9D9A1"
+      },
+      {
+        "display_name": "Red",
+        "paint_code": "DBC4154",
+        "slug": "red-dbc4154",
+        "reference_url": "https://www.paintscratch.com/colors/alumacraft/red-dbc4154/",
+        "source_label": "PaintScratch 2003 Alumacraft",
+        "hex_value": "#BE1010"
+      },
+      {
+        "display_name": "Gold",
+        "paint_code": "DBC5231",
+        "slug": "gold-dbc5231",
+        "reference_url": "https://www.paintscratch.com/colors/alumacraft/gold-dbc5231/",
+        "source_label": "PaintScratch 2003 Alumacraft",
+        "hex_value": "#CFAF57"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "DMD1683",
+        "slug": "black-dmd1683",
+        "reference_url": "https://www.paintscratch.com/colors/alumacraft/black-dmd1683/",
+        "source_label": "PaintScratch 2003 Alumacraft",
+        "hex_value": "#000000"
+      }
+    ],
+    "2004": [
+      {
+        "display_name": "Silver",
+        "paint_code": "DBC300008",
+        "slug": "silver-dbc300008",
+        "reference_url": "https://www.paintscratch.com/colors/alumacraft/silver-dbc300008/",
+        "source_label": "PaintScratch 2004 Alumacraft",
+        "hex_value": "#CFCDC5"
+      },
+      {
+        "display_name": "Olympic White",
+        "paint_code": "2-30-007-0012 2",
+        "slug": "olympic-white-2-30-007-0012-2",
+        "reference_url": "https://www.paintscratch.com/colors/alumacraft/olympic-white-2-30-007-0012-2/",
+        "source_label": "PaintScratch 2004 Alumacraft",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Dark Blue",
+        "paint_code": "DBC192153",
+        "slug": "dark-blue-dbc192153",
+        "reference_url": "https://www.paintscratch.com/colors/alumacraft/dark-blue-dbc192153/",
+        "source_label": "PaintScratch 2004 Alumacraft",
+        "hex_value": "#163376"
+      },
+      {
+        "display_name": "Lt Sand Metallic (901591)",
+        "paint_code": "2-30-007- 000B",
+        "slug": "lt-sand-metallic-901591-2-30-007-000b",
+        "reference_url": "https://www.paintscratch.com/colors/alumacraft/lt-sand-metallic-901591-2-30-007-000b/",
+        "source_label": "PaintScratch 2004 Alumacraft",
+        "hex_value": "#D1A341"
+      },
+      {
+        "display_name": "Sand Metallic",
+        "paint_code": "DBC201835",
+        "slug": "sand-metallic-dbc201835",
+        "reference_url": "https://www.paintscratch.com/colors/alumacraft/sand-metallic-dbc201835/",
+        "source_label": "PaintScratch 2004 Alumacraft",
+        "hex_value": "#E9D9A1"
+      },
+      {
+        "display_name": "Red",
+        "paint_code": "DBC4154",
+        "slug": "red-dbc4154",
+        "reference_url": "https://www.paintscratch.com/colors/alumacraft/red-dbc4154/",
+        "source_label": "PaintScratch 2004 Alumacraft",
+        "hex_value": "#BE1010"
+      },
+      {
+        "display_name": "Gold",
+        "paint_code": "DBC5231",
+        "slug": "gold-dbc5231",
+        "reference_url": "https://www.paintscratch.com/colors/alumacraft/gold-dbc5231/",
+        "source_label": "PaintScratch 2004 Alumacraft",
+        "hex_value": "#CFAF57"
+      }
+    ],
+    "2005": [
+      {
+        "display_name": "Silver",
+        "paint_code": "DBC300008",
+        "slug": "silver-dbc300008",
+        "reference_url": "https://www.paintscratch.com/colors/alumacraft/silver-dbc300008/",
+        "source_label": "PaintScratch 2005 Alumacraft",
+        "hex_value": "#CFCDC5"
+      },
+      {
+        "display_name": "Dark Blue",
+        "paint_code": "DBC192153",
+        "slug": "dark-blue-dbc192153",
+        "reference_url": "https://www.paintscratch.com/colors/alumacraft/dark-blue-dbc192153/",
+        "source_label": "PaintScratch 2005 Alumacraft",
+        "hex_value": "#163376"
+      },
+      {
+        "display_name": "Sand Metallic",
+        "paint_code": "DBC201835",
+        "slug": "sand-metallic-dbc201835",
+        "reference_url": "https://www.paintscratch.com/colors/alumacraft/sand-metallic-dbc201835/",
+        "source_label": "PaintScratch 2005 Alumacraft",
+        "hex_value": "#E9D9A1"
+      },
+      {
+        "display_name": "Red",
+        "paint_code": "DBC4154",
+        "slug": "red-dbc4154",
+        "reference_url": "https://www.paintscratch.com/colors/alumacraft/red-dbc4154/",
+        "source_label": "PaintScratch 2005 Alumacraft",
+        "hex_value": "#BE1010"
+      },
+      {
+        "display_name": "Gold",
+        "paint_code": "DBC5231",
+        "slug": "gold-dbc5231",
+        "reference_url": "https://www.paintscratch.com/colors/alumacraft/gold-dbc5231/",
+        "source_label": "PaintScratch 2005 Alumacraft",
+        "hex_value": "#CFAF57"
+      }
+    ],
+    "2006": [
+      {
+        "display_name": "Silver",
+        "paint_code": "DBC300008",
+        "slug": "silver-dbc300008",
+        "reference_url": "https://www.paintscratch.com/colors/alumacraft/silver-dbc300008/",
+        "source_label": "PaintScratch 2006 Alumacraft",
+        "hex_value": "#CFCDC5"
+      },
+      {
+        "display_name": "Dark Blue",
+        "paint_code": "DBC192153",
+        "slug": "dark-blue-dbc192153",
+        "reference_url": "https://www.paintscratch.com/colors/alumacraft/dark-blue-dbc192153/",
+        "source_label": "PaintScratch 2006 Alumacraft",
+        "hex_value": "#163376"
+      },
+      {
+        "display_name": "Sand Metallic",
+        "paint_code": "DBC201835",
+        "slug": "sand-metallic-dbc201835",
+        "reference_url": "https://www.paintscratch.com/colors/alumacraft/sand-metallic-dbc201835/",
+        "source_label": "PaintScratch 2006 Alumacraft",
+        "hex_value": "#E9D9A1"
+      },
+      {
+        "display_name": "Red",
+        "paint_code": "DBC4154",
+        "slug": "red-dbc4154",
+        "reference_url": "https://www.paintscratch.com/colors/alumacraft/red-dbc4154/",
+        "source_label": "PaintScratch 2006 Alumacraft",
+        "hex_value": "#BE1010"
+      },
+      {
+        "display_name": "Gold",
+        "paint_code": "DBC5231",
+        "slug": "gold-dbc5231",
+        "reference_url": "https://www.paintscratch.com/colors/alumacraft/gold-dbc5231/",
+        "source_label": "PaintScratch 2006 Alumacraft",
+        "hex_value": "#CFAF57"
+      }
+    ],
+    "2007": [
+      {
+        "display_name": "Silver",
+        "paint_code": "DBC300008",
+        "slug": "silver-dbc300008",
+        "reference_url": "https://www.paintscratch.com/colors/alumacraft/silver-dbc300008/",
+        "source_label": "PaintScratch 2007 Alumacraft",
+        "hex_value": "#CFCDC5"
+      },
+      {
+        "display_name": "Medium Blue",
+        "paint_code": "DBC190301",
+        "slug": "medium-blue-dbc190301",
+        "reference_url": "https://www.paintscratch.com/colors/alumacraft/medium-blue-dbc190301/",
+        "source_label": "PaintScratch 2007 Alumacraft",
+        "hex_value": "#0D2D97"
+      },
+      {
+        "display_name": "Dark Blue",
+        "paint_code": "DBC192153",
+        "slug": "dark-blue-dbc192153",
+        "reference_url": "https://www.paintscratch.com/colors/alumacraft/dark-blue-dbc192153/",
+        "source_label": "PaintScratch 2007 Alumacraft",
+        "hex_value": "#163376"
+      },
+      {
+        "display_name": "Sand Metallic",
+        "paint_code": "DBC201835",
+        "slug": "sand-metallic-dbc201835",
+        "reference_url": "https://www.paintscratch.com/colors/alumacraft/sand-metallic-dbc201835/",
+        "source_label": "PaintScratch 2007 Alumacraft",
+        "hex_value": "#E9D9A1"
+      },
+      {
+        "display_name": "White (Catalyzed Spray Only)",
+        "paint_code": "1400-K0165-3",
+        "slug": "white-catalyzed-spray-only-1400-k0165-3",
+        "reference_url": "https://www.paintscratch.com/colors/alumacraft/white-catalyzed-spray-only-1400-k0165-3/",
+        "source_label": "PaintScratch 2007 Alumacraft",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Red",
+        "paint_code": "DBC4154",
+        "slug": "red-dbc4154",
+        "reference_url": "https://www.paintscratch.com/colors/alumacraft/red-dbc4154/",
+        "source_label": "PaintScratch 2007 Alumacraft",
+        "hex_value": "#BE1010"
+      },
+      {
+        "display_name": "Gold",
+        "paint_code": "DBC5231",
+        "slug": "gold-dbc5231",
+        "reference_url": "https://www.paintscratch.com/colors/alumacraft/gold-dbc5231/",
+        "source_label": "PaintScratch 2007 Alumacraft",
+        "hex_value": "#CFAF57"
+      }
+    ],
+    "2008": [
+      {
+        "display_name": "Silver",
+        "paint_code": "DBC300008",
+        "slug": "silver-dbc300008",
+        "reference_url": "https://www.paintscratch.com/colors/alumacraft/silver-dbc300008/",
+        "source_label": "PaintScratch 2008 Alumacraft",
+        "hex_value": "#CFCDC5"
+      },
+      {
+        "display_name": "Dark Blue",
+        "paint_code": "DBC192153",
+        "slug": "dark-blue-dbc192153",
+        "reference_url": "https://www.paintscratch.com/colors/alumacraft/dark-blue-dbc192153/",
+        "source_label": "PaintScratch 2008 Alumacraft",
+        "hex_value": "#163376"
+      },
+      {
+        "display_name": "Sand Metallic",
+        "paint_code": "DBC201835",
+        "slug": "sand-metallic-dbc201835",
+        "reference_url": "https://www.paintscratch.com/colors/alumacraft/sand-metallic-dbc201835/",
+        "source_label": "PaintScratch 2008 Alumacraft",
+        "hex_value": "#E9D9A1"
+      },
+      {
+        "display_name": "Red",
+        "paint_code": "DBC4154",
+        "slug": "red-dbc4154",
+        "reference_url": "https://www.paintscratch.com/colors/alumacraft/red-dbc4154/",
+        "source_label": "PaintScratch 2008 Alumacraft",
+        "hex_value": "#BE1010"
+      },
+      {
+        "display_name": "Gold",
+        "paint_code": "DBC5231",
+        "slug": "gold-dbc5231",
+        "reference_url": "https://www.paintscratch.com/colors/alumacraft/gold-dbc5231/",
+        "source_label": "PaintScratch 2008 Alumacraft",
+        "hex_value": "#CFAF57"
+      }
+    ],
+    "2009": [
+      {
+        "display_name": "Silver",
+        "paint_code": "DBC300008",
+        "slug": "silver-dbc300008",
+        "reference_url": "https://www.paintscratch.com/colors/alumacraft/silver-dbc300008/",
+        "source_label": "PaintScratch 2009 Alumacraft",
+        "hex_value": "#CFCDC5"
+      },
+      {
+        "display_name": "Cherry Blossom White (DFHS 866)",
+        "paint_code": "8796K",
+        "slug": "cherry-blossom-white-dfhs-866-8796k",
+        "reference_url": "https://www.paintscratch.com/colors/alumacraft/cherry-blossom-white-dfhs-866-8796k/",
+        "source_label": "PaintScratch 2009 Alumacraft",
+        "hex_value": "#FEFCFC"
+      },
+      {
+        "display_name": "Dark Blue",
+        "paint_code": "DBC192153",
+        "slug": "dark-blue-dbc192153",
+        "reference_url": "https://www.paintscratch.com/colors/alumacraft/dark-blue-dbc192153/",
+        "source_label": "PaintScratch 2009 Alumacraft",
+        "hex_value": "#163376"
+      },
+      {
+        "display_name": "Sand Metallic",
+        "paint_code": "DBC201835",
+        "slug": "sand-metallic-dbc201835",
+        "reference_url": "https://www.paintscratch.com/colors/alumacraft/sand-metallic-dbc201835/",
+        "source_label": "PaintScratch 2009 Alumacraft",
+        "hex_value": "#E9D9A1"
+      },
+      {
+        "display_name": "Red",
+        "paint_code": "DBC4154",
+        "slug": "red-dbc4154",
+        "reference_url": "https://www.paintscratch.com/colors/alumacraft/red-dbc4154/",
+        "source_label": "PaintScratch 2009 Alumacraft",
+        "hex_value": "#BE1010"
+      },
+      {
+        "display_name": "Gold",
+        "paint_code": "DBC5231",
+        "slug": "gold-dbc5231",
+        "reference_url": "https://www.paintscratch.com/colors/alumacraft/gold-dbc5231/",
+        "source_label": "PaintScratch 2009 Alumacraft",
+        "hex_value": "#CFAF57"
+      },
+      {
+        "display_name": "White",
+        "paint_code": "DBC3800G",
+        "slug": "white-dbc3800g",
+        "reference_url": "https://www.paintscratch.com/colors/alumacraft/white-dbc3800g/",
+        "source_label": "PaintScratch 2009 Alumacraft",
+        "hex_value": "#FFFFFF"
+      }
+    ],
+    "2010": [
+      {
+        "display_name": "Cherry Blossom White (DFHS 866)",
+        "paint_code": "8796K",
+        "slug": "cherry-blossom-white-dfhs-866-8796k",
+        "reference_url": "https://www.paintscratch.com/colors/alumacraft/cherry-blossom-white-dfhs-866-8796k/",
+        "source_label": "PaintScratch 2010 Alumacraft",
+        "hex_value": "#FEFCFC"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "DBC 9700",
+        "slug": "black-dbc-9700",
+        "reference_url": "https://www.paintscratch.com/colors/alumacraft/black-dbc-9700/",
+        "source_label": "PaintScratch 2010 Alumacraft",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Silver",
+        "paint_code": "DBC 300008",
+        "slug": "silver-dbc-300008",
+        "reference_url": "https://www.paintscratch.com/colors/alumacraft/silver-dbc-300008/",
+        "source_label": "PaintScratch 2010 Alumacraft",
+        "hex_value": "#CAD1D8"
+      }
+    ],
+    "2011": [
+      {
+        "display_name": "Cherry Blossom White (DFHS 866)",
+        "paint_code": "8796K",
+        "slug": "cherry-blossom-white-dfhs-866-8796k",
+        "reference_url": "https://www.paintscratch.com/colors/alumacraft/cherry-blossom-white-dfhs-866-8796k/",
+        "source_label": "PaintScratch 2011 Alumacraft",
+        "hex_value": "#FEFCFC"
+      }
+    ]
+  }
+}

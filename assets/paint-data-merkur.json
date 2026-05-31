@@ -1,0 +1,544 @@
+{
+  "All Models": {
+    "1985": [
+      {
+        "display_name": "Paris Blue Metallic",
+        "paint_code": "03/XSC1900",
+        "slug": "paris-blue-metallic-03xsc1900",
+        "reference_url": "https://www.paintscratch.com/colors/merkur/paris-blue-metallic-03xsc1900/",
+        "source_label": "PaintScratch 1985 Merkur",
+        "hex_value": "#637DA1"
+      },
+      {
+        "display_name": "Regency Red Metallic",
+        "paint_code": "04/XSC1803",
+        "slug": "regency-red-metallic-04xsc1803",
+        "reference_url": "https://www.paintscratch.com/colors/merkur/regency-red-metallic-04xsc1803/",
+        "source_label": "PaintScratch 1985 Merkur",
+        "hex_value": "#800000"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "OA/XSC632",
+        "slug": "black-oaxsc632",
+        "reference_url": "https://www.paintscratch.com/colors/merkur/black-oaxsc632/",
+        "source_label": "PaintScratch 1985 Merkur",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Diamond White",
+        "paint_code": "OB/XSC691",
+        "slug": "diamond-white-obxsc691",
+        "reference_url": "https://www.paintscratch.com/colors/merkur/diamond-white-obxsc691/",
+        "source_label": "PaintScratch 1985 Merkur",
+        "hex_value": "#F7F7F3"
+      },
+      {
+        "display_name": "Rosso Red",
+        "paint_code": "OR/XSC1933",
+        "slug": "rosso-red-orxsc1933",
+        "reference_url": "https://www.paintscratch.com/colors/merkur/rosso-red-orxsc1933/",
+        "source_label": "PaintScratch 1985 Merkur",
+        "hex_value": "#D11B1B"
+      },
+      {
+        "display_name": "Strato Silver Metallic",
+        "paint_code": "OY/XSC1056",
+        "slug": "strato-silver-metallic-oyxsc1056",
+        "reference_url": "https://www.paintscratch.com/colors/merkur/strato-silver-metallic-oyxsc1056/",
+        "source_label": "PaintScratch 1985 Merkur",
+        "hex_value": "#C6C9CE"
+      }
+    ],
+    "1986": [
+      {
+        "display_name": "Regency Red Metallic",
+        "paint_code": "04/XSC1803",
+        "slug": "regency-red-metallic-04xsc1803",
+        "reference_url": "https://www.paintscratch.com/colors/merkur/regency-red-metallic-04xsc1803/",
+        "source_label": "PaintScratch 1986 Merkur",
+        "hex_value": "#800000"
+      },
+      {
+        "display_name": "Mineral Blue Metallic",
+        "paint_code": "05/XSC1091",
+        "slug": "mineral-blue-metallic-05xsc1091",
+        "reference_url": "https://www.paintscratch.com/colors/merkur/mineral-blue-metallic-05xsc1091/",
+        "source_label": "PaintScratch 1986 Merkur",
+        "hex_value": "#366278"
+      },
+      {
+        "display_name": "Nimbus Gray Metallic",
+        "paint_code": "07/XSC1801",
+        "slug": "nimbus-gray-metallic-07xsc1801",
+        "reference_url": "https://www.paintscratch.com/colors/merkur/nimbus-gray-metallic-07xsc1801/",
+        "source_label": "PaintScratch 1986 Merkur",
+        "hex_value": "#677B85"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "OA/XSC632",
+        "slug": "black-oaxsc632",
+        "reference_url": "https://www.paintscratch.com/colors/merkur/black-oaxsc632/",
+        "source_label": "PaintScratch 1986 Merkur",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Diamond White",
+        "paint_code": "OB/XSC691",
+        "slug": "diamond-white-obxsc691",
+        "reference_url": "https://www.paintscratch.com/colors/merkur/diamond-white-obxsc691/",
+        "source_label": "PaintScratch 1986 Merkur",
+        "hex_value": "#F7F7F3"
+      },
+      {
+        "display_name": "Rosso Red",
+        "paint_code": "OR/XSC1933",
+        "slug": "rosso-red-orxsc1933",
+        "reference_url": "https://www.paintscratch.com/colors/merkur/rosso-red-orxsc1933/",
+        "source_label": "PaintScratch 1986 Merkur",
+        "hex_value": "#D11B1B"
+      },
+      {
+        "display_name": "Azure Blue Metallic",
+        "paint_code": "OT/XSC1694",
+        "slug": "azure-blue-metallic-otxsc1694",
+        "reference_url": "https://www.paintscratch.com/colors/merkur/azure-blue-metallic-otxsc1694/",
+        "source_label": "PaintScratch 1986 Merkur",
+        "hex_value": "#3F83C9"
+      },
+      {
+        "display_name": "Strato Silver Metallic",
+        "paint_code": "OY/XSC1056",
+        "slug": "strato-silver-metallic-oyxsc1056",
+        "reference_url": "https://www.paintscratch.com/colors/merkur/strato-silver-metallic-oyxsc1056/",
+        "source_label": "PaintScratch 1986 Merkur",
+        "hex_value": "#C6C9CE"
+      }
+    ],
+    "1987": [
+      {
+        "display_name": "Paris Blue Metallic",
+        "paint_code": "03/XSC1900",
+        "slug": "paris-blue-metallic-03xsc1900",
+        "reference_url": "https://www.paintscratch.com/colors/merkur/paris-blue-metallic-03xsc1900/",
+        "source_label": "PaintScratch 1987 Merkur",
+        "hex_value": "#637DA1"
+      },
+      {
+        "display_name": "Regency Red Metallic",
+        "paint_code": "04/XSC1803",
+        "slug": "regency-red-metallic-04xsc1803",
+        "reference_url": "https://www.paintscratch.com/colors/merkur/regency-red-metallic-04xsc1803/",
+        "source_label": "PaintScratch 1987 Merkur",
+        "hex_value": "#800000"
+      },
+      {
+        "display_name": "Mineral Blue Metallic",
+        "paint_code": "05/XSC1091",
+        "slug": "mineral-blue-metallic-05xsc1091",
+        "reference_url": "https://www.paintscratch.com/colors/merkur/mineral-blue-metallic-05xsc1091/",
+        "source_label": "PaintScratch 1987 Merkur",
+        "hex_value": "#366278"
+      },
+      {
+        "display_name": "Nimbus Gray Metallic",
+        "paint_code": "07/XSC1801",
+        "slug": "nimbus-gray-metallic-07xsc1801",
+        "reference_url": "https://www.paintscratch.com/colors/merkur/nimbus-gray-metallic-07xsc1801/",
+        "source_label": "PaintScratch 1987 Merkur",
+        "hex_value": "#677B85"
+      },
+      {
+        "display_name": "Raven Metallic",
+        "paint_code": "09/XSC1936",
+        "slug": "raven-metallic-09xsc1936",
+        "reference_url": "https://www.paintscratch.com/colors/merkur/raven-metallic-09xsc1936/",
+        "source_label": "PaintScratch 1987 Merkur",
+        "hex_value": "#242B2E"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "OA/XSC632",
+        "slug": "black-oaxsc632",
+        "reference_url": "https://www.paintscratch.com/colors/merkur/black-oaxsc632/",
+        "source_label": "PaintScratch 1987 Merkur",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Diamond White",
+        "paint_code": "OB/XSC691",
+        "slug": "diamond-white-obxsc691",
+        "reference_url": "https://www.paintscratch.com/colors/merkur/diamond-white-obxsc691/",
+        "source_label": "PaintScratch 1987 Merkur",
+        "hex_value": "#F7F7F3"
+      },
+      {
+        "display_name": "Grenadine Red",
+        "paint_code": "OE/XSC2097",
+        "slug": "grenadine-red-oexsc2097",
+        "reference_url": "https://www.paintscratch.com/colors/merkur/grenadine-red-oexsc2097/",
+        "source_label": "PaintScratch 1987 Merkur",
+        "hex_value": "#8F0F0F"
+      },
+      {
+        "display_name": "Ivory White",
+        "paint_code": "OH/XSC2026",
+        "slug": "ivory-white-ohxsc2026",
+        "reference_url": "https://www.paintscratch.com/colors/merkur/ivory-white-ohxsc2026/",
+        "source_label": "PaintScratch 1987 Merkur",
+        "hex_value": "#FBFBF9"
+      },
+      {
+        "display_name": "Chestnut Metallic",
+        "paint_code": "OJ/XSC2022",
+        "slug": "chestnut-metallic-ojxsc2022",
+        "reference_url": "https://www.paintscratch.com/colors/merkur/chestnut-metallic-ojxsc2022/",
+        "source_label": "PaintScratch 1987 Merkur",
+        "hex_value": "#9D8E7B"
+      },
+      {
+        "display_name": "Regal Red Metallic",
+        "paint_code": "OO/XSC2080",
+        "slug": "regal-red-metallic-ooxsc2080",
+        "reference_url": "https://www.paintscratch.com/colors/merkur/regal-red-metallic-ooxsc2080/",
+        "source_label": "PaintScratch 1987 Merkur",
+        "hex_value": "#E22222"
+      },
+      {
+        "display_name": "Mercury Gray Metallic",
+        "paint_code": "OQ/XSC2076",
+        "slug": "mercury-gray-metallic-oqxsc2076",
+        "reference_url": "https://www.paintscratch.com/colors/merkur/mercury-gray-metallic-oqxsc2076/",
+        "source_label": "PaintScratch 1987 Merkur",
+        "hex_value": "#AEB1B6"
+      },
+      {
+        "display_name": "Rosso Red",
+        "paint_code": "OR/XSC1933",
+        "slug": "rosso-red-orxsc1933",
+        "reference_url": "https://www.paintscratch.com/colors/merkur/rosso-red-orxsc1933/",
+        "source_label": "PaintScratch 1987 Merkur",
+        "hex_value": "#D11B1B"
+      },
+      {
+        "display_name": "Mallow Gold Metallic",
+        "paint_code": "OS/XSC2089",
+        "slug": "mallow-gold-metallic-osxsc2089",
+        "reference_url": "https://www.paintscratch.com/colors/merkur/mallow-gold-metallic-osxsc2089/",
+        "source_label": "PaintScratch 1987 Merkur",
+        "hex_value": "#D2B7AA"
+      },
+      {
+        "display_name": "Azure Blue Metallic",
+        "paint_code": "OT/XSC1694",
+        "slug": "azure-blue-metallic-otxsc1694",
+        "reference_url": "https://www.paintscratch.com/colors/merkur/azure-blue-metallic-otxsc1694/",
+        "source_label": "PaintScratch 1987 Merkur",
+        "hex_value": "#3F83C9"
+      },
+      {
+        "display_name": "Crystal Blue Metallic",
+        "paint_code": "OU/XSC2078",
+        "slug": "crystal-blue-metallic-ouxsc2078",
+        "reference_url": "https://www.paintscratch.com/colors/merkur/crystal-blue-metallic-ouxsc2078/",
+        "source_label": "PaintScratch 1987 Merkur",
+        "hex_value": "#7E9CAC"
+      }
+    ],
+    "1988": [
+      {
+        "display_name": "Black",
+        "paint_code": "0A/XSC632",
+        "slug": "black-0axsc632",
+        "reference_url": "https://www.paintscratch.com/colors/merkur/black-0axsc632/",
+        "source_label": "PaintScratch 1988 Merkur",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Biscay Blue Metallic",
+        "paint_code": "A3",
+        "slug": "biscay-blue-metallic-a3",
+        "reference_url": "https://www.paintscratch.com/colors/merkur/biscay-blue-metallic-a3/",
+        "source_label": "PaintScratch 1988 Merkur",
+        "hex_value": "#597DF3"
+      },
+      {
+        "display_name": "Brabazon Metallic",
+        "paint_code": "A5/XSC2170",
+        "slug": "brabazon-metallic-a5xsc2170",
+        "reference_url": "https://www.paintscratch.com/colors/merkur/brabazon-metallic-a5xsc2170/",
+        "source_label": "PaintScratch 1988 Merkur",
+        "hex_value": "#8A593C"
+      },
+      {
+        "display_name": "Regency Red Metallic",
+        "paint_code": "OA/XSC1803",
+        "slug": "regency-red-metallic-oaxsc1803",
+        "reference_url": "https://www.paintscratch.com/colors/merkur/regency-red-metallic-oaxsc1803/",
+        "source_label": "PaintScratch 1988 Merkur",
+        "hex_value": "#800000"
+      },
+      {
+        "display_name": "Diamond White",
+        "paint_code": "OB/XSC691",
+        "slug": "diamond-white-obxsc691",
+        "reference_url": "https://www.paintscratch.com/colors/merkur/diamond-white-obxsc691/",
+        "source_label": "PaintScratch 1988 Merkur",
+        "hex_value": "#F7F7F3"
+      },
+      {
+        "display_name": "Grenadine Red",
+        "paint_code": "OE/XSC2097",
+        "slug": "grenadine-red-oexsc2097",
+        "reference_url": "https://www.paintscratch.com/colors/merkur/grenadine-red-oexsc2097/",
+        "source_label": "PaintScratch 1988 Merkur",
+        "hex_value": "#8F0F0F"
+      },
+      {
+        "display_name": "Antique Bronze Pearl Metallic",
+        "paint_code": "OG/XSC2164",
+        "slug": "antique-bronze-pearl-metallic-ogxsc2164",
+        "reference_url": "https://www.paintscratch.com/colors/merkur/antique-bronze-pearl-metallic-ogxsc2164/",
+        "source_label": "PaintScratch 1988 Merkur",
+        "hex_value": "#946F58"
+      },
+      {
+        "display_name": "Chestnut Metallic",
+        "paint_code": "OJ/XSC2022",
+        "slug": "chestnut-metallic-ojxsc2022",
+        "reference_url": "https://www.paintscratch.com/colors/merkur/chestnut-metallic-ojxsc2022/",
+        "source_label": "PaintScratch 1988 Merkur",
+        "hex_value": "#9D8E7B"
+      },
+      {
+        "display_name": "Mercury Gray Metallic",
+        "paint_code": "OQ/XSC2076",
+        "slug": "mercury-gray-metallic-oqxsc2076",
+        "reference_url": "https://www.paintscratch.com/colors/merkur/mercury-gray-metallic-oqxsc2076/",
+        "source_label": "PaintScratch 1988 Merkur",
+        "hex_value": "#AEB1B6"
+      },
+      {
+        "display_name": "Mallow Gold Metallic",
+        "paint_code": "OS/XSC2089",
+        "slug": "mallow-gold-metallic-osxsc2089",
+        "reference_url": "https://www.paintscratch.com/colors/merkur/mallow-gold-metallic-osxsc2089/",
+        "source_label": "PaintScratch 1988 Merkur",
+        "hex_value": "#D2B7AA"
+      },
+      {
+        "display_name": "Crystal Blue Metallic",
+        "paint_code": "OU/XSC2078",
+        "slug": "crystal-blue-metallic-ouxsc2078",
+        "reference_url": "https://www.paintscratch.com/colors/merkur/crystal-blue-metallic-ouxsc2078/",
+        "source_label": "PaintScratch 1988 Merkur",
+        "hex_value": "#7E9CAC"
+      },
+      {
+        "display_name": "Strato Silver Metallic",
+        "paint_code": "OV/XSC1056",
+        "slug": "strato-silver-metallic-ovxsc1056",
+        "reference_url": "https://www.paintscratch.com/colors/merkur/strato-silver-metallic-ovxsc1056/",
+        "source_label": "PaintScratch 1988 Merkur",
+        "hex_value": "#C6C9CE"
+      }
+    ],
+    "1989": [
+      {
+        "display_name": "Black",
+        "paint_code": "0A/XSC632",
+        "slug": "black-0axsc632",
+        "reference_url": "https://www.paintscratch.com/colors/merkur/black-0axsc632/",
+        "source_label": "PaintScratch 1989 Merkur",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Magenta Red Pearl Metallic",
+        "paint_code": "01/XSC2159",
+        "slug": "magenta-red-pearl-metallic-01xsc2159",
+        "reference_url": "https://www.paintscratch.com/colors/merkur/magenta-red-pearl-metallic-01xsc2159/",
+        "source_label": "PaintScratch 1989 Merkur",
+        "hex_value": "#761A1A"
+      },
+      {
+        "display_name": "Tuscany Gold Metallic",
+        "paint_code": "08/XSC2231",
+        "slug": "tuscany-gold-metallic-08xsc2231",
+        "reference_url": "https://www.paintscratch.com/colors/merkur/tuscany-gold-metallic-08xsc2231/",
+        "source_label": "PaintScratch 1989 Merkur",
+        "hex_value": "#AC8F62"
+      },
+      {
+        "display_name": "Matisse Blue Metallic",
+        "paint_code": "A0/XSC2246",
+        "slug": "matisse-blue-metallic-a0xsc2246",
+        "reference_url": "https://www.paintscratch.com/colors/merkur/matisse-blue-metallic-a0xsc2246/",
+        "source_label": "PaintScratch 1989 Merkur",
+        "hex_value": "#2FA2B7"
+      },
+      {
+        "display_name": "Brabazon Metallic",
+        "paint_code": "A5/XSC2170",
+        "slug": "brabazon-metallic-a5xsc2170",
+        "reference_url": "https://www.paintscratch.com/colors/merkur/brabazon-metallic-a5xsc2170/",
+        "source_label": "PaintScratch 1989 Merkur",
+        "hex_value": "#8A593C"
+      },
+      {
+        "display_name": "Nautilus Gray Metallic",
+        "paint_code": "AT/XSC2228",
+        "slug": "nautilus-gray-metallic-atxsc2228",
+        "reference_url": "https://www.paintscratch.com/colors/merkur/nautilus-gray-metallic-atxsc2228/",
+        "source_label": "PaintScratch 1989 Merkur",
+        "hex_value": "#827C78"
+      },
+      {
+        "display_name": "Diamond White",
+        "paint_code": "OB/XSC691",
+        "slug": "diamond-white-obxsc691",
+        "reference_url": "https://www.paintscratch.com/colors/merkur/diamond-white-obxsc691/",
+        "source_label": "PaintScratch 1989 Merkur",
+        "hex_value": "#F7F7F3"
+      },
+      {
+        "display_name": "Grenadine Red",
+        "paint_code": "OE/XSC2097",
+        "slug": "grenadine-red-oexsc2097",
+        "reference_url": "https://www.paintscratch.com/colors/merkur/grenadine-red-oexsc2097/",
+        "source_label": "PaintScratch 1989 Merkur",
+        "hex_value": "#8F0F0F"
+      },
+      {
+        "display_name": "Antique Bronze Pearl Metallic",
+        "paint_code": "OG/XSC2164",
+        "slug": "antique-bronze-pearl-metallic-ogxsc2164",
+        "reference_url": "https://www.paintscratch.com/colors/merkur/antique-bronze-pearl-metallic-ogxsc2164/",
+        "source_label": "PaintScratch 1989 Merkur",
+        "hex_value": "#946F58"
+      },
+      {
+        "display_name": "Gitane Blue Pearl Metallic",
+        "paint_code": "OK/XSC2155",
+        "slug": "gitane-blue-pearl-metallic-okxsc2155",
+        "reference_url": "https://www.paintscratch.com/colors/merkur/gitane-blue-pearl-metallic-okxsc2155/",
+        "source_label": "PaintScratch 1989 Merkur",
+        "hex_value": "#5A6988"
+      },
+      {
+        "display_name": "Radiant Red",
+        "paint_code": "OP/XSC2251",
+        "slug": "radiant-red-opxsc2251",
+        "reference_url": "https://www.paintscratch.com/colors/merkur/radiant-red-opxsc2251/",
+        "source_label": "PaintScratch 1989 Merkur",
+        "hex_value": "#F10909"
+      },
+      {
+        "display_name": "Strato Silver Metallic",
+        "paint_code": "OV/XSC1056",
+        "slug": "strato-silver-metallic-ovxsc1056",
+        "reference_url": "https://www.paintscratch.com/colors/merkur/strato-silver-metallic-ovxsc1056/",
+        "source_label": "PaintScratch 1989 Merkur",
+        "hex_value": "#C6C9CE"
+      }
+    ],
+    "1990": [
+      {
+        "display_name": "Black",
+        "paint_code": "0A/XSC632",
+        "slug": "black-0axsc632",
+        "reference_url": "https://www.paintscratch.com/colors/merkur/black-0axsc632/",
+        "source_label": "PaintScratch 1990 Merkur",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Magenta Red Pearl Metallic",
+        "paint_code": "01/XSC2159",
+        "slug": "magenta-red-pearl-metallic-01xsc2159",
+        "reference_url": "https://www.paintscratch.com/colors/merkur/magenta-red-pearl-metallic-01xsc2159/",
+        "source_label": "PaintScratch 1990 Merkur",
+        "hex_value": "#761A1A"
+      },
+      {
+        "display_name": "Tuscany Gold Metallic",
+        "paint_code": "08/XSC2231",
+        "slug": "tuscany-gold-metallic-08xsc2231",
+        "reference_url": "https://www.paintscratch.com/colors/merkur/tuscany-gold-metallic-08xsc2231/",
+        "source_label": "PaintScratch 1990 Merkur",
+        "hex_value": "#AC8F62"
+      },
+      {
+        "display_name": "Brabazon Metallic",
+        "paint_code": "A5/XSC2170",
+        "slug": "brabazon-metallic-a5xsc2170",
+        "reference_url": "https://www.paintscratch.com/colors/merkur/brabazon-metallic-a5xsc2170/",
+        "source_label": "PaintScratch 1990 Merkur",
+        "hex_value": "#8A593C"
+      },
+      {
+        "display_name": "Nautilus Gray Metallic",
+        "paint_code": "AT/XSC2228",
+        "slug": "nautilus-gray-metallic-atxsc2228",
+        "reference_url": "https://www.paintscratch.com/colors/merkur/nautilus-gray-metallic-atxsc2228/",
+        "source_label": "PaintScratch 1990 Merkur",
+        "hex_value": "#827C78"
+      },
+      {
+        "display_name": "Diamond White",
+        "paint_code": "OB/XSC691",
+        "slug": "diamond-white-obxsc691",
+        "reference_url": "https://www.paintscratch.com/colors/merkur/diamond-white-obxsc691/",
+        "source_label": "PaintScratch 1990 Merkur",
+        "hex_value": "#F7F7F3"
+      },
+      {
+        "display_name": "Grenadine Red",
+        "paint_code": "OE/XSC2097",
+        "slug": "grenadine-red-oexsc2097",
+        "reference_url": "https://www.paintscratch.com/colors/merkur/grenadine-red-oexsc2097/",
+        "source_label": "PaintScratch 1990 Merkur",
+        "hex_value": "#8F0F0F"
+      },
+      {
+        "display_name": "Antique Bronze Pearl Metallic",
+        "paint_code": "OG/XSC2164",
+        "slug": "antique-bronze-pearl-metallic-ogxsc2164",
+        "reference_url": "https://www.paintscratch.com/colors/merkur/antique-bronze-pearl-metallic-ogxsc2164/",
+        "source_label": "PaintScratch 1990 Merkur",
+        "hex_value": "#946F58"
+      },
+      {
+        "display_name": "Gitane Blue Pearl Metallic",
+        "paint_code": "OK/XSC2155",
+        "slug": "gitane-blue-pearl-metallic-okxsc2155",
+        "reference_url": "https://www.paintscratch.com/colors/merkur/gitane-blue-pearl-metallic-okxsc2155/",
+        "source_label": "PaintScratch 1990 Merkur",
+        "hex_value": "#5A6988"
+      },
+      {
+        "display_name": "Mercury Gray Metallic",
+        "paint_code": "OQ/XSC2076",
+        "slug": "mercury-gray-metallic-oqxsc2076",
+        "reference_url": "https://www.paintscratch.com/colors/merkur/mercury-gray-metallic-oqxsc2076/",
+        "source_label": "PaintScratch 1990 Merkur",
+        "hex_value": "#AEB1B6"
+      },
+      {
+        "display_name": "Strato Silver Metallic",
+        "paint_code": "OV/XSC1056",
+        "slug": "strato-silver-metallic-ovxsc1056",
+        "reference_url": "https://www.paintscratch.com/colors/merkur/strato-silver-metallic-ovxsc1056/",
+        "source_label": "PaintScratch 1990 Merkur",
+        "hex_value": "#C6C9CE"
+      },
+      {
+        "display_name": "Sandstone Metallic",
+        "paint_code": "XSC2337",
+        "slug": "sandstone-metallic-xsc2337",
+        "reference_url": "https://www.paintscratch.com/colors/merkur/sandstone-metallic-xsc2337/",
+        "source_label": "PaintScratch 1990 Merkur",
+        "hex_value": "#CCC2B0"
+      }
+    ]
+  }
+}

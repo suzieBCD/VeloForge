@@ -1,0 +1,3826 @@
+{
+  "All Models": {
+    "1965": [
+      {
+        "display_name": "White",
+        "paint_code": "212",
+        "slug": "white-212",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/white-212/",
+        "source_label": "PaintScratch 1965 Fiat",
+        "hex_value": "#FFFFFF"
+      }
+    ],
+    "1966": [
+      {
+        "display_name": "Bright Red",
+        "paint_code": "159/2622",
+        "slug": "bright-red-1592622",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/bright-red-1592622/",
+        "source_label": "PaintScratch 1966 Fiat",
+        "hex_value": "#F31515"
+      },
+      {
+        "display_name": "White",
+        "paint_code": "212",
+        "slug": "white-212",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/white-212/",
+        "source_label": "PaintScratch 1966 Fiat",
+        "hex_value": "#FFFFFF"
+      }
+    ],
+    "1967": [
+      {
+        "display_name": "White",
+        "paint_code": "212",
+        "slug": "white-212",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/white-212/",
+        "source_label": "PaintScratch 1967 Fiat",
+        "hex_value": "#FFFFFF"
+      }
+    ],
+    "1968": [
+      {
+        "display_name": "White",
+        "paint_code": "212",
+        "slug": "white-212",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/white-212/",
+        "source_label": "PaintScratch 1968 Fiat",
+        "hex_value": "#FFFFFF"
+      }
+    ],
+    "1969": [
+      {
+        "display_name": "White",
+        "paint_code": "212",
+        "slug": "white-212",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/white-212/",
+        "source_label": "PaintScratch 1969 Fiat",
+        "hex_value": "#FFFFFF"
+      }
+    ],
+    "1970": [
+      {
+        "display_name": "Bright Green",
+        "paint_code": "329",
+        "slug": "bright-green-329",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/bright-green-329/",
+        "source_label": "PaintScratch 1970 Fiat",
+        "hex_value": "#37B515"
+      },
+      {
+        "display_name": "White",
+        "paint_code": "212",
+        "slug": "white-212",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/white-212/",
+        "source_label": "PaintScratch 1970 Fiat",
+        "hex_value": "#FFFFFF"
+      }
+    ],
+    "1971": [
+      {
+        "display_name": "Dark Blue",
+        "paint_code": "449",
+        "slug": "dark-blue-449",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/dark-blue-449/",
+        "source_label": "PaintScratch 1971 Fiat",
+        "hex_value": "#284650"
+      },
+      {
+        "display_name": "Bright Red",
+        "paint_code": "120",
+        "slug": "bright-red-120",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/bright-red-120/",
+        "source_label": "PaintScratch 1971 Fiat",
+        "hex_value": "#F31515"
+      },
+      {
+        "display_name": "White",
+        "paint_code": "212",
+        "slug": "white-212",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/white-212/",
+        "source_label": "PaintScratch 1971 Fiat",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Bright Green",
+        "paint_code": "326",
+        "slug": "bright-green-326",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/bright-green-326/",
+        "source_label": "PaintScratch 1971 Fiat",
+        "hex_value": "#37B515"
+      }
+    ],
+    "1972": [
+      {
+        "display_name": "Rallye Red",
+        "paint_code": "171",
+        "slug": "rallye-red-171",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/rallye-red-171/",
+        "source_label": "PaintScratch 1972 Fiat",
+        "hex_value": "#A03830"
+      },
+      {
+        "display_name": "Bottle Green",
+        "paint_code": "317",
+        "slug": "bottle-green-317",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/bottle-green-317/",
+        "source_label": "PaintScratch 1972 Fiat",
+        "hex_value": "#43783E"
+      },
+      {
+        "display_name": "Dark Blue",
+        "paint_code": "449",
+        "slug": "dark-blue-449",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/dark-blue-449/",
+        "source_label": "PaintScratch 1972 Fiat",
+        "hex_value": "#284650"
+      },
+      {
+        "display_name": "White",
+        "paint_code": "212",
+        "slug": "white-212",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/white-212/",
+        "source_label": "PaintScratch 1972 Fiat",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Oriental Yellow",
+        "paint_code": "294",
+        "slug": "oriental-yellow-294",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/oriental-yellow-294/",
+        "source_label": "PaintScratch 1972 Fiat",
+        "hex_value": "#EB9D23"
+      }
+    ],
+    "1973": [
+      {
+        "display_name": "Rallye Red",
+        "paint_code": "171",
+        "slug": "rallye-red-171",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/rallye-red-171/",
+        "source_label": "PaintScratch 1973 Fiat",
+        "hex_value": "#A03830"
+      },
+      {
+        "display_name": "Dark Blue",
+        "paint_code": "449",
+        "slug": "dark-blue-449",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/dark-blue-449/",
+        "source_label": "PaintScratch 1973 Fiat",
+        "hex_value": "#284650"
+      },
+      {
+        "display_name": "White",
+        "paint_code": "212",
+        "slug": "white-212",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/white-212/",
+        "source_label": "PaintScratch 1973 Fiat",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Oriental Yellow",
+        "paint_code": "294",
+        "slug": "oriental-yellow-294",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/oriental-yellow-294/",
+        "source_label": "PaintScratch 1973 Fiat",
+        "hex_value": "#EB9D23"
+      },
+      {
+        "display_name": "Dark Green",
+        "paint_code": "312",
+        "slug": "dark-green-312",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/dark-green-312/",
+        "source_label": "PaintScratch 1973 Fiat",
+        "hex_value": "#325E52"
+      },
+      {
+        "display_name": "Bright Green",
+        "paint_code": "358",
+        "slug": "bright-green-358",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/bright-green-358/",
+        "source_label": "PaintScratch 1973 Fiat",
+        "hex_value": "#37B515"
+      },
+      {
+        "display_name": "French Blue",
+        "paint_code": "426",
+        "slug": "french-blue-426",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/french-blue-426/",
+        "source_label": "PaintScratch 1973 Fiat",
+        "hex_value": "#597DF3"
+      }
+    ],
+    "1974": [
+      {
+        "display_name": "Rallye Red",
+        "paint_code": "171",
+        "slug": "rallye-red-171",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/rallye-red-171/",
+        "source_label": "PaintScratch 1974 Fiat",
+        "hex_value": "#A03830"
+      },
+      {
+        "display_name": "Bright Green",
+        "paint_code": "329",
+        "slug": "bright-green-329",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/bright-green-329/",
+        "source_label": "PaintScratch 1974 Fiat",
+        "hex_value": "#37B515"
+      },
+      {
+        "display_name": "Dark Blue",
+        "paint_code": "449",
+        "slug": "dark-blue-449",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/dark-blue-449/",
+        "source_label": "PaintScratch 1974 Fiat",
+        "hex_value": "#284650"
+      },
+      {
+        "display_name": "Maroon",
+        "paint_code": "162",
+        "slug": "maroon-162",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/maroon-162/",
+        "source_label": "PaintScratch 1974 Fiat",
+        "hex_value": "#761C1A"
+      },
+      {
+        "display_name": "White",
+        "paint_code": "212",
+        "slug": "white-212",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/white-212/",
+        "source_label": "PaintScratch 1974 Fiat",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Bright Yellow",
+        "paint_code": "223",
+        "slug": "bright-yellow-223",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/bright-yellow-223/",
+        "source_label": "PaintScratch 1974 Fiat",
+        "hex_value": "#FFFF00"
+      },
+      {
+        "display_name": "Dark Green",
+        "paint_code": "312",
+        "slug": "dark-green-312",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/dark-green-312/",
+        "source_label": "PaintScratch 1974 Fiat",
+        "hex_value": "#325E52"
+      },
+      {
+        "display_name": "Brown Sepia",
+        "paint_code": "761",
+        "slug": "brown-sepia-761",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/brown-sepia-761/",
+        "source_label": "PaintScratch 1974 Fiat",
+        "hex_value": "#564C42"
+      }
+    ],
+    "1975": [
+      {
+        "display_name": "Rallye Red",
+        "paint_code": "171",
+        "slug": "rallye-red-171",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/rallye-red-171/",
+        "source_label": "PaintScratch 1975 Fiat",
+        "hex_value": "#A03830"
+      },
+      {
+        "display_name": "Dark Red",
+        "paint_code": "191",
+        "slug": "dark-red-191",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/dark-red-191/",
+        "source_label": "PaintScratch 1975 Fiat",
+        "hex_value": "#884E46"
+      },
+      {
+        "display_name": "Safari Yellow",
+        "paint_code": "285",
+        "slug": "safari-yellow-285",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/safari-yellow-285/",
+        "source_label": "PaintScratch 1975 Fiat",
+        "hex_value": "#E3E8B0"
+      },
+      {
+        "display_name": "Dark Blue",
+        "paint_code": "449",
+        "slug": "dark-blue-449",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/dark-blue-449/",
+        "source_label": "PaintScratch 1975 Fiat",
+        "hex_value": "#284650"
+      },
+      {
+        "display_name": "Orange",
+        "paint_code": "193",
+        "slug": "orange-193",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/orange-193/",
+        "source_label": "PaintScratch 1975 Fiat",
+        "hex_value": "#DB961F"
+      },
+      {
+        "display_name": "White",
+        "paint_code": "212",
+        "slug": "white-212",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/white-212/",
+        "source_label": "PaintScratch 1975 Fiat",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Dark Green",
+        "paint_code": "312",
+        "slug": "dark-green-312",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/dark-green-312/",
+        "source_label": "PaintScratch 1975 Fiat",
+        "hex_value": "#325E52"
+      },
+      {
+        "display_name": "Blue Metallic No. 4",
+        "paint_code": "400",
+        "slug": "blue-metallic-no-4-400",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/blue-metallic-no-4-400/",
+        "source_label": "PaintScratch 1975 Fiat",
+        "hex_value": "#33565D"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "620",
+        "slug": "silver-metallic-620",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/silver-metallic-620/",
+        "source_label": "PaintScratch 1975 Fiat",
+        "hex_value": "#BAC2C0"
+      },
+      {
+        "display_name": "Brown Sepia",
+        "paint_code": "761",
+        "slug": "brown-sepia-761",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/brown-sepia-761/",
+        "source_label": "PaintScratch 1975 Fiat",
+        "hex_value": "#564C42"
+      }
+    ],
+    "1976": [
+      {
+        "display_name": "Rallye Red",
+        "paint_code": "171",
+        "slug": "rallye-red-171",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/rallye-red-171/",
+        "source_label": "PaintScratch 1976 Fiat",
+        "hex_value": "#A03830"
+      },
+      {
+        "display_name": "Dark Red",
+        "paint_code": "191",
+        "slug": "dark-red-191",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/dark-red-191/",
+        "source_label": "PaintScratch 1976 Fiat",
+        "hex_value": "#884E46"
+      },
+      {
+        "display_name": "Safari Yellow",
+        "paint_code": "285",
+        "slug": "safari-yellow-285",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/safari-yellow-285/",
+        "source_label": "PaintScratch 1976 Fiat",
+        "hex_value": "#E3E8B0"
+      },
+      {
+        "display_name": "Dark Blue",
+        "paint_code": "449",
+        "slug": "dark-blue-449",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/dark-blue-449/",
+        "source_label": "PaintScratch 1976 Fiat",
+        "hex_value": "#284650"
+      },
+      {
+        "display_name": "Rosso Fiat",
+        "paint_code": "152",
+        "slug": "rosso-fiat-152",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/rosso-fiat-152/",
+        "source_label": "PaintScratch 1976 Fiat",
+        "hex_value": "#A03830"
+      },
+      {
+        "display_name": "White",
+        "paint_code": "212",
+        "slug": "white-212",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/white-212/",
+        "source_label": "PaintScratch 1976 Fiat",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Dark Green",
+        "paint_code": "312",
+        "slug": "dark-green-312",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/dark-green-312/",
+        "source_label": "PaintScratch 1976 Fiat",
+        "hex_value": "#325E52"
+      },
+      {
+        "display_name": "Blue Metallic No. 4",
+        "paint_code": "400",
+        "slug": "blue-metallic-no-4-400",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/blue-metallic-no-4-400/",
+        "source_label": "PaintScratch 1976 Fiat",
+        "hex_value": "#33565D"
+      },
+      {
+        "display_name": "Adriatic Blue",
+        "paint_code": "408",
+        "slug": "adriatic-blue-408",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/adriatic-blue-408/",
+        "source_label": "PaintScratch 1976 Fiat",
+        "hex_value": "#597DF3"
+      },
+      {
+        "display_name": "Blue Mediterranean",
+        "paint_code": "487",
+        "slug": "blue-mediterranean-487",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/blue-mediterranean-487/",
+        "source_label": "PaintScratch 1976 Fiat",
+        "hex_value": "#597DF3"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "620",
+        "slug": "silver-metallic-620",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/silver-metallic-620/",
+        "source_label": "PaintScratch 1976 Fiat",
+        "hex_value": "#BAC2C0"
+      },
+      {
+        "display_name": "Brown Sepia",
+        "paint_code": "761",
+        "slug": "brown-sepia-761",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/brown-sepia-761/",
+        "source_label": "PaintScratch 1976 Fiat",
+        "hex_value": "#564C42"
+      }
+    ],
+    "1977": [
+      {
+        "display_name": "Rallye Red",
+        "paint_code": "171",
+        "slug": "rallye-red-171",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/rallye-red-171/",
+        "source_label": "PaintScratch 1977 Fiat",
+        "hex_value": "#A03830"
+      },
+      {
+        "display_name": "Dark Red",
+        "paint_code": "191",
+        "slug": "dark-red-191",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/dark-red-191/",
+        "source_label": "PaintScratch 1977 Fiat",
+        "hex_value": "#884E46"
+      },
+      {
+        "display_name": "Safari Yellow",
+        "paint_code": "285",
+        "slug": "safari-yellow-285",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/safari-yellow-285/",
+        "source_label": "PaintScratch 1977 Fiat",
+        "hex_value": "#E3E8B0"
+      },
+      {
+        "display_name": "Dark Blue",
+        "paint_code": "449",
+        "slug": "dark-blue-449",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/dark-blue-449/",
+        "source_label": "PaintScratch 1977 Fiat",
+        "hex_value": "#284650"
+      },
+      {
+        "display_name": "White",
+        "paint_code": "212",
+        "slug": "white-212",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/white-212/",
+        "source_label": "PaintScratch 1977 Fiat",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Dark Green",
+        "paint_code": "312",
+        "slug": "dark-green-312",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/dark-green-312/",
+        "source_label": "PaintScratch 1977 Fiat",
+        "hex_value": "#325E52"
+      },
+      {
+        "display_name": "Blue Metallic No. 4",
+        "paint_code": "400",
+        "slug": "blue-metallic-no-4-400",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/blue-metallic-no-4-400/",
+        "source_label": "PaintScratch 1977 Fiat",
+        "hex_value": "#33565D"
+      },
+      {
+        "display_name": "Gold Metallic",
+        "paint_code": "589",
+        "slug": "gold-metallic-589",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/gold-metallic-589/",
+        "source_label": "PaintScratch 1977 Fiat",
+        "hex_value": "#BBB795"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "620",
+        "slug": "silver-metallic-620",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/silver-metallic-620/",
+        "source_label": "PaintScratch 1977 Fiat",
+        "hex_value": "#BAC2C0"
+      },
+      {
+        "display_name": "Brown Sepia",
+        "paint_code": "761",
+        "slug": "brown-sepia-761",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/brown-sepia-761/",
+        "source_label": "PaintScratch 1977 Fiat",
+        "hex_value": "#564C42"
+      }
+    ],
+    "1978": [
+      {
+        "display_name": "Rallye Red",
+        "paint_code": "171",
+        "slug": "rallye-red-171",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/rallye-red-171/",
+        "source_label": "PaintScratch 1978 Fiat",
+        "hex_value": "#A03830"
+      },
+      {
+        "display_name": "Dark Red",
+        "paint_code": "191",
+        "slug": "dark-red-191",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/dark-red-191/",
+        "source_label": "PaintScratch 1978 Fiat",
+        "hex_value": "#884E46"
+      },
+      {
+        "display_name": "Safari Yellow",
+        "paint_code": "285",
+        "slug": "safari-yellow-285",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/safari-yellow-285/",
+        "source_label": "PaintScratch 1978 Fiat",
+        "hex_value": "#E3E8B0"
+      },
+      {
+        "display_name": "Dark Blue",
+        "paint_code": "449",
+        "slug": "dark-blue-449",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/dark-blue-449/",
+        "source_label": "PaintScratch 1978 Fiat",
+        "hex_value": "#284650"
+      },
+      {
+        "display_name": "Cherry Red",
+        "paint_code": "136",
+        "slug": "cherry-red-136",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/cherry-red-136/",
+        "source_label": "PaintScratch 1978 Fiat",
+        "hex_value": "#B04038"
+      },
+      {
+        "display_name": "Orange",
+        "paint_code": "193",
+        "slug": "orange-193",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/orange-193/",
+        "source_label": "PaintScratch 1978 Fiat",
+        "hex_value": "#DB961F"
+      },
+      {
+        "display_name": "Maroon DBC 210422",
+        "paint_code": "198",
+        "slug": "maroon-dbc-210422-198",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/maroon-dbc-210422-198/",
+        "source_label": "PaintScratch 1978 Fiat",
+        "hex_value": "#751917"
+      },
+      {
+        "display_name": "White",
+        "paint_code": "212",
+        "slug": "white-212",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/white-212/",
+        "source_label": "PaintScratch 1978 Fiat",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Bright Yellow",
+        "paint_code": "275",
+        "slug": "bright-yellow-275",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/bright-yellow-275/",
+        "source_label": "PaintScratch 1978 Fiat",
+        "hex_value": "#FFFF00"
+      },
+      {
+        "display_name": "Dark Green",
+        "paint_code": "312",
+        "slug": "dark-green-312",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/dark-green-312/",
+        "source_label": "PaintScratch 1978 Fiat",
+        "hex_value": "#325E52"
+      },
+      {
+        "display_name": "Verde Green Met.",
+        "paint_code": "390",
+        "slug": "verde-green-met-390",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/verde-green-met-390/",
+        "source_label": "PaintScratch 1978 Fiat",
+        "hex_value": "#7FA86E"
+      },
+      {
+        "display_name": "Blue Metallic No. 4",
+        "paint_code": "400",
+        "slug": "blue-metallic-no-4-400",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/blue-metallic-no-4-400/",
+        "source_label": "PaintScratch 1978 Fiat",
+        "hex_value": "#33565D"
+      },
+      {
+        "display_name": "Lord Blue",
+        "paint_code": "438",
+        "slug": "lord-blue-438",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/lord-blue-438/",
+        "source_label": "PaintScratch 1978 Fiat",
+        "hex_value": "#212E53"
+      },
+      {
+        "display_name": "Gold Metallic",
+        "paint_code": "589",
+        "slug": "gold-metallic-589",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/gold-metallic-589/",
+        "source_label": "PaintScratch 1978 Fiat",
+        "hex_value": "#BBB795"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "620",
+        "slug": "silver-metallic-620",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/silver-metallic-620/",
+        "source_label": "PaintScratch 1978 Fiat",
+        "hex_value": "#BAC2C0"
+      },
+      {
+        "display_name": "Brown Sepia",
+        "paint_code": "761",
+        "slug": "brown-sepia-761",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/brown-sepia-761/",
+        "source_label": "PaintScratch 1978 Fiat",
+        "hex_value": "#564C42"
+      }
+    ],
+    "1979": [
+      {
+        "display_name": "Rallye Red",
+        "paint_code": "171",
+        "slug": "rallye-red-171",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/rallye-red-171/",
+        "source_label": "PaintScratch 1979 Fiat",
+        "hex_value": "#A03830"
+      },
+      {
+        "display_name": "Safari Yellow",
+        "paint_code": "285",
+        "slug": "safari-yellow-285",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/safari-yellow-285/",
+        "source_label": "PaintScratch 1979 Fiat",
+        "hex_value": "#E3E8B0"
+      },
+      {
+        "display_name": "Dark Blue",
+        "paint_code": "449",
+        "slug": "dark-blue-449",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/dark-blue-449/",
+        "source_label": "PaintScratch 1979 Fiat",
+        "hex_value": "#284650"
+      },
+      {
+        "display_name": "Cherry Red",
+        "paint_code": "136",
+        "slug": "cherry-red-136",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/cherry-red-136/",
+        "source_label": "PaintScratch 1979 Fiat",
+        "hex_value": "#B04038"
+      },
+      {
+        "display_name": "White",
+        "paint_code": "212",
+        "slug": "white-212",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/white-212/",
+        "source_label": "PaintScratch 1979 Fiat",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "White",
+        "paint_code": "224",
+        "slug": "white-224",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/white-224/",
+        "source_label": "PaintScratch 1979 Fiat",
+        "hex_value": "#F5FCF4"
+      },
+      {
+        "display_name": "Dark Green",
+        "paint_code": "312",
+        "slug": "dark-green-312",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/dark-green-312/",
+        "source_label": "PaintScratch 1979 Fiat",
+        "hex_value": "#325E52"
+      },
+      {
+        "display_name": "Blue Metallic No. 4",
+        "paint_code": "400",
+        "slug": "blue-metallic-no-4-400",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/blue-metallic-no-4-400/",
+        "source_label": "PaintScratch 1979 Fiat",
+        "hex_value": "#33565D"
+      },
+      {
+        "display_name": "Lord Blue",
+        "paint_code": "438",
+        "slug": "lord-blue-438",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/lord-blue-438/",
+        "source_label": "PaintScratch 1979 Fiat",
+        "hex_value": "#212E53"
+      },
+      {
+        "display_name": "Gold Metallic",
+        "paint_code": "589",
+        "slug": "gold-metallic-589",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/gold-metallic-589/",
+        "source_label": "PaintScratch 1979 Fiat",
+        "hex_value": "#BBB795"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "620",
+        "slug": "silver-metallic-620",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/silver-metallic-620/",
+        "source_label": "PaintScratch 1979 Fiat",
+        "hex_value": "#BAC2C0"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "678",
+        "slug": "silver-metallic-678",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/silver-metallic-678/",
+        "source_label": "PaintScratch 1979 Fiat",
+        "hex_value": "#B8C0BC"
+      },
+      {
+        "display_name": "Brown Sepia",
+        "paint_code": "761",
+        "slug": "brown-sepia-761",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/brown-sepia-761/",
+        "source_label": "PaintScratch 1979 Fiat",
+        "hex_value": "#564C42"
+      },
+      {
+        "display_name": "Black Metallic",
+        "paint_code": "813",
+        "slug": "black-metallic-813",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/black-metallic-813/",
+        "source_label": "PaintScratch 1979 Fiat",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Brown Metallic",
+        "paint_code": "856",
+        "slug": "brown-metallic-856",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/brown-metallic-856/",
+        "source_label": "PaintScratch 1979 Fiat",
+        "hex_value": "#9B6356"
+      },
+      {
+        "display_name": "Slate Blue Met",
+        "paint_code": "892",
+        "slug": "slate-blue-met-892",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/slate-blue-met-892/",
+        "source_label": "PaintScratch 1979 Fiat",
+        "hex_value": "#26484E"
+      }
+    ],
+    "1980": [
+      {
+        "display_name": "Rallye Red",
+        "paint_code": "171",
+        "slug": "rallye-red-171",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/rallye-red-171/",
+        "source_label": "PaintScratch 1980 Fiat",
+        "hex_value": "#A03830"
+      },
+      {
+        "display_name": "Safari Yellow",
+        "paint_code": "285",
+        "slug": "safari-yellow-285",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/safari-yellow-285/",
+        "source_label": "PaintScratch 1980 Fiat",
+        "hex_value": "#E3E8B0"
+      },
+      {
+        "display_name": "Blue Metallic",
+        "paint_code": "447",
+        "slug": "blue-metallic-447",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/blue-metallic-447/",
+        "source_label": "PaintScratch 1980 Fiat",
+        "hex_value": "#495EA3"
+      },
+      {
+        "display_name": "Dark Blue",
+        "paint_code": "449",
+        "slug": "dark-blue-449",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/dark-blue-449/",
+        "source_label": "PaintScratch 1980 Fiat",
+        "hex_value": "#284650"
+      },
+      {
+        "display_name": "Cherry Red",
+        "paint_code": "136",
+        "slug": "cherry-red-136",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/cherry-red-136/",
+        "source_label": "PaintScratch 1980 Fiat",
+        "hex_value": "#B04038"
+      },
+      {
+        "display_name": "Copper (Rame)",
+        "paint_code": "170",
+        "slug": "copper-rame-170",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/copper-rame-170/",
+        "source_label": "PaintScratch 1980 Fiat",
+        "hex_value": "#AE7E5A"
+      },
+      {
+        "display_name": "White",
+        "paint_code": "212",
+        "slug": "white-212",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/white-212/",
+        "source_label": "PaintScratch 1980 Fiat",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "White",
+        "paint_code": "224",
+        "slug": "white-224",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/white-224/",
+        "source_label": "PaintScratch 1980 Fiat",
+        "hex_value": "#F5FCF4"
+      },
+      {
+        "display_name": "Dark Green",
+        "paint_code": "312",
+        "slug": "dark-green-312",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/dark-green-312/",
+        "source_label": "PaintScratch 1980 Fiat",
+        "hex_value": "#325E52"
+      },
+      {
+        "display_name": "Blue Metallic No. 4",
+        "paint_code": "400",
+        "slug": "blue-metallic-no-4-400",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/blue-metallic-no-4-400/",
+        "source_label": "PaintScratch 1980 Fiat",
+        "hex_value": "#33565D"
+      },
+      {
+        "display_name": "Lord Blue",
+        "paint_code": "438",
+        "slug": "lord-blue-438",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/lord-blue-438/",
+        "source_label": "PaintScratch 1980 Fiat",
+        "hex_value": "#212E53"
+      },
+      {
+        "display_name": "Blue Metallic",
+        "paint_code": "474",
+        "slug": "blue-metallic-474",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/blue-metallic-474/",
+        "source_label": "PaintScratch 1980 Fiat",
+        "hex_value": "#869AA5"
+      },
+      {
+        "display_name": "Gold Metallic",
+        "paint_code": "589",
+        "slug": "gold-metallic-589",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/gold-metallic-589/",
+        "source_label": "PaintScratch 1980 Fiat",
+        "hex_value": "#BBB795"
+      },
+      {
+        "display_name": "Nero",
+        "paint_code": "601",
+        "slug": "nero-601",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/nero-601/",
+        "source_label": "PaintScratch 1980 Fiat",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "620",
+        "slug": "silver-metallic-620",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/silver-metallic-620/",
+        "source_label": "PaintScratch 1980 Fiat",
+        "hex_value": "#BAC2C0"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "678",
+        "slug": "silver-metallic-678",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/silver-metallic-678/",
+        "source_label": "PaintScratch 1980 Fiat",
+        "hex_value": "#B8C0BC"
+      }
+    ],
+    "1981": [
+      {
+        "display_name": "Rallye Red",
+        "paint_code": "171",
+        "slug": "rallye-red-171",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/rallye-red-171/",
+        "source_label": "PaintScratch 1981 Fiat",
+        "hex_value": "#A03830"
+      },
+      {
+        "display_name": "Safari Yellow",
+        "paint_code": "285",
+        "slug": "safari-yellow-285",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/safari-yellow-285/",
+        "source_label": "PaintScratch 1981 Fiat",
+        "hex_value": "#E3E8B0"
+      },
+      {
+        "display_name": "Dark Blue",
+        "paint_code": "449",
+        "slug": "dark-blue-449",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/dark-blue-449/",
+        "source_label": "PaintScratch 1981 Fiat",
+        "hex_value": "#284650"
+      },
+      {
+        "display_name": "Cherry Red",
+        "paint_code": "136",
+        "slug": "cherry-red-136",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/cherry-red-136/",
+        "source_label": "PaintScratch 1981 Fiat",
+        "hex_value": "#B04038"
+      },
+      {
+        "display_name": "White",
+        "paint_code": "212",
+        "slug": "white-212",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/white-212/",
+        "source_label": "PaintScratch 1981 Fiat",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "White",
+        "paint_code": "224",
+        "slug": "white-224",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/white-224/",
+        "source_label": "PaintScratch 1981 Fiat",
+        "hex_value": "#F5FCF4"
+      },
+      {
+        "display_name": "Dark Green",
+        "paint_code": "312",
+        "slug": "dark-green-312",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/dark-green-312/",
+        "source_label": "PaintScratch 1981 Fiat",
+        "hex_value": "#325E52"
+      },
+      {
+        "display_name": "Blue Metallic No. 4",
+        "paint_code": "400",
+        "slug": "blue-metallic-no-4-400",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/blue-metallic-no-4-400/",
+        "source_label": "PaintScratch 1981 Fiat",
+        "hex_value": "#33565D"
+      },
+      {
+        "display_name": "Azzurite Blue",
+        "paint_code": "413",
+        "slug": "azzurite-blue-413",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/azzurite-blue-413/",
+        "source_label": "PaintScratch 1981 Fiat",
+        "hex_value": "#667A92"
+      },
+      {
+        "display_name": "Lord Blue",
+        "paint_code": "438",
+        "slug": "lord-blue-438",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/lord-blue-438/",
+        "source_label": "PaintScratch 1981 Fiat",
+        "hex_value": "#212E53"
+      },
+      {
+        "display_name": "Blue Metallic",
+        "paint_code": "474",
+        "slug": "blue-metallic-474",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/blue-metallic-474/",
+        "source_label": "PaintScratch 1981 Fiat",
+        "hex_value": "#869AA5"
+      },
+      {
+        "display_name": "Champagne Met.",
+        "paint_code": "512",
+        "slug": "champagne-met-512",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/champagne-met-512/",
+        "source_label": "PaintScratch 1981 Fiat",
+        "hex_value": "#B2B791"
+      },
+      {
+        "display_name": "Gold Metallic",
+        "paint_code": "589",
+        "slug": "gold-metallic-589",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/gold-metallic-589/",
+        "source_label": "PaintScratch 1981 Fiat",
+        "hex_value": "#BBB795"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "620",
+        "slug": "silver-metallic-620",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/silver-metallic-620/",
+        "source_label": "PaintScratch 1981 Fiat",
+        "hex_value": "#BAC2C0"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "678",
+        "slug": "silver-metallic-678",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/silver-metallic-678/",
+        "source_label": "PaintScratch 1981 Fiat",
+        "hex_value": "#B8C0BC"
+      },
+      {
+        "display_name": "Brown Metallic",
+        "paint_code": "732",
+        "slug": "brown-metallic-732",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/brown-metallic-732/",
+        "source_label": "PaintScratch 1981 Fiat",
+        "hex_value": "#886056"
+      }
+    ],
+    "1982": [
+      {
+        "display_name": "Cherry Red",
+        "paint_code": "136",
+        "slug": "cherry-red-136",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/cherry-red-136/",
+        "source_label": "PaintScratch 1982 Fiat",
+        "hex_value": "#B04038"
+      },
+      {
+        "display_name": "White",
+        "paint_code": "212",
+        "slug": "white-212",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/white-212/",
+        "source_label": "PaintScratch 1982 Fiat",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Verde Green Met.",
+        "paint_code": "390",
+        "slug": "verde-green-met-390",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/verde-green-met-390/",
+        "source_label": "PaintScratch 1982 Fiat",
+        "hex_value": "#7FA86E"
+      },
+      {
+        "display_name": "Bleu Micalizzato",
+        "paint_code": "407",
+        "slug": "bleu-micalizzato-407",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/bleu-micalizzato-407/",
+        "source_label": "PaintScratch 1982 Fiat",
+        "hex_value": "#26314D"
+      },
+      {
+        "display_name": "Blue Metallic",
+        "paint_code": "474",
+        "slug": "blue-metallic-474",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/blue-metallic-474/",
+        "source_label": "PaintScratch 1982 Fiat",
+        "hex_value": "#869AA5"
+      },
+      {
+        "display_name": "Argento Metallic",
+        "paint_code": "656",
+        "slug": "argento-metallic-656",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/argento-metallic-656/",
+        "source_label": "PaintScratch 1982 Fiat",
+        "hex_value": "#989C9A"
+      },
+      {
+        "display_name": "Black Metallic",
+        "paint_code": "813",
+        "slug": "black-metallic-813",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/black-metallic-813/",
+        "source_label": "PaintScratch 1982 Fiat",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Red Metallic",
+        "paint_code": "853",
+        "slug": "red-metallic-853",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/red-metallic-853/",
+        "source_label": "PaintScratch 1982 Fiat",
+        "hex_value": "#94482E"
+      },
+      {
+        "display_name": "Slate Blue Met",
+        "paint_code": "892",
+        "slug": "slate-blue-met-892",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/slate-blue-met-892/",
+        "source_label": "PaintScratch 1982 Fiat",
+        "hex_value": "#26484E"
+      }
+    ],
+    "1983": [
+      {
+        "display_name": "Bleu Micalizzato",
+        "paint_code": "407",
+        "slug": "bleu-micalizzato-407",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/bleu-micalizzato-407/",
+        "source_label": "PaintScratch 1983 Fiat",
+        "hex_value": "#26314D"
+      }
+    ],
+    "1984": [
+      {
+        "display_name": "Rosso Fiat",
+        "paint_code": "152",
+        "slug": "rosso-fiat-152",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/rosso-fiat-152/",
+        "source_label": "PaintScratch 1984 Fiat",
+        "hex_value": "#A03830"
+      },
+      {
+        "display_name": "Bleu Micalizzato",
+        "paint_code": "407",
+        "slug": "bleu-micalizzato-407",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/bleu-micalizzato-407/",
+        "source_label": "PaintScratch 1984 Fiat",
+        "hex_value": "#26314D"
+      }
+    ],
+    "1985": [
+      {
+        "display_name": "Bleu Micalizzato",
+        "paint_code": "407",
+        "slug": "bleu-micalizzato-407",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/bleu-micalizzato-407/",
+        "source_label": "PaintScratch 1985 Fiat",
+        "hex_value": "#26314D"
+      }
+    ],
+    "1986": [
+      {
+        "display_name": "Bleu Micalizzato",
+        "paint_code": "407",
+        "slug": "bleu-micalizzato-407",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/bleu-micalizzato-407/",
+        "source_label": "PaintScratch 1986 Fiat",
+        "hex_value": "#26314D"
+      },
+      {
+        "display_name": "Azzurro Chiaro Metallic",
+        "paint_code": "489",
+        "slug": "azzurro-chiaro-metallic-489",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/azzurro-chiaro-metallic-489/",
+        "source_label": "PaintScratch 1986 Fiat",
+        "hex_value": "#CECCC6"
+      },
+      {
+        "display_name": "Red",
+        "paint_code": "886",
+        "slug": "red-886",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/red-886/",
+        "source_label": "PaintScratch 1986 Fiat",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "Charcoal",
+        "paint_code": "900",
+        "slug": "charcoal-900",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/charcoal-900/",
+        "source_label": "PaintScratch 1986 Fiat",
+        "hex_value": "#202020"
+      }
+    ],
+    "1987": [
+      {
+        "display_name": "Bleu Micalizzato",
+        "paint_code": "407",
+        "slug": "bleu-micalizzato-407",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/bleu-micalizzato-407/",
+        "source_label": "PaintScratch 1987 Fiat",
+        "hex_value": "#26314D"
+      },
+      {
+        "display_name": "Red",
+        "paint_code": "886",
+        "slug": "red-886",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/red-886/",
+        "source_label": "PaintScratch 1987 Fiat",
+        "hex_value": "#AC2222"
+      }
+    ],
+    "1988": [
+      {
+        "display_name": "Bleu Micalizzato",
+        "paint_code": "407",
+        "slug": "bleu-micalizzato-407",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/bleu-micalizzato-407/",
+        "source_label": "PaintScratch 1988 Fiat",
+        "hex_value": "#26314D"
+      }
+    ],
+    "1989": [
+      {
+        "display_name": "Bleu Micalizzato",
+        "paint_code": "407",
+        "slug": "bleu-micalizzato-407",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/bleu-micalizzato-407/",
+        "source_label": "PaintScratch 1989 Fiat",
+        "hex_value": "#26314D"
+      }
+    ],
+    "1990": [
+      {
+        "display_name": "Bleu Micalizzato",
+        "paint_code": "407",
+        "slug": "bleu-micalizzato-407",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/bleu-micalizzato-407/",
+        "source_label": "PaintScratch 1990 Fiat",
+        "hex_value": "#26314D"
+      }
+    ],
+    "1991": [
+      {
+        "display_name": "Bleu Micalizzato",
+        "paint_code": "407",
+        "slug": "bleu-micalizzato-407",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/bleu-micalizzato-407/",
+        "source_label": "PaintScratch 1991 Fiat",
+        "hex_value": "#26314D"
+      }
+    ],
+    "1992": [
+      {
+        "display_name": "Bleu Micalizzato",
+        "paint_code": "407",
+        "slug": "bleu-micalizzato-407",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/bleu-micalizzato-407/",
+        "source_label": "PaintScratch 1992 Fiat",
+        "hex_value": "#26314D"
+      }
+    ],
+    "1993": [
+      {
+        "display_name": "Bleu Micalizzato",
+        "paint_code": "407",
+        "slug": "bleu-micalizzato-407",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/bleu-micalizzato-407/",
+        "source_label": "PaintScratch 1993 Fiat",
+        "hex_value": "#26314D"
+      }
+    ],
+    "1994": [
+      {
+        "display_name": "Rosso Speed",
+        "paint_code": "168",
+        "slug": "rosso-speed-168",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/rosso-speed-168/",
+        "source_label": "PaintScratch 1994 Fiat",
+        "hex_value": "#A03830"
+      },
+      {
+        "display_name": "Bleu Micalizzato",
+        "paint_code": "407",
+        "slug": "bleu-micalizzato-407",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/bleu-micalizzato-407/",
+        "source_label": "PaintScratch 1994 Fiat",
+        "hex_value": "#26314D"
+      }
+    ],
+    "1995": [
+      {
+        "display_name": "Rosso Speed",
+        "paint_code": "168",
+        "slug": "rosso-speed-168",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/rosso-speed-168/",
+        "source_label": "PaintScratch 1995 Fiat",
+        "hex_value": "#A03830"
+      },
+      {
+        "display_name": "Bleu Micalizzato",
+        "paint_code": "407",
+        "slug": "bleu-micalizzato-407",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/bleu-micalizzato-407/",
+        "source_label": "PaintScratch 1995 Fiat",
+        "hex_value": "#26314D"
+      }
+    ],
+    "1996": [
+      {
+        "display_name": "Rosso Speed",
+        "paint_code": "168",
+        "slug": "rosso-speed-168",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/rosso-speed-168/",
+        "source_label": "PaintScratch 1996 Fiat",
+        "hex_value": "#A03830"
+      },
+      {
+        "display_name": "Bleu Micalizzato",
+        "paint_code": "407",
+        "slug": "bleu-micalizzato-407",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/bleu-micalizzato-407/",
+        "source_label": "PaintScratch 1996 Fiat",
+        "hex_value": "#26314D"
+      }
+    ],
+    "1997": [
+      {
+        "display_name": "Rosso Speed",
+        "paint_code": "168",
+        "slug": "rosso-speed-168",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/rosso-speed-168/",
+        "source_label": "PaintScratch 1997 Fiat",
+        "hex_value": "#A03830"
+      },
+      {
+        "display_name": "Rosso Ribes",
+        "paint_code": "182/A",
+        "slug": "rosso-ribes-182a",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/rosso-ribes-182a/",
+        "source_label": "PaintScratch 1997 Fiat",
+        "hex_value": "#884E46"
+      },
+      {
+        "display_name": "Bleu Micalizzato",
+        "paint_code": "407",
+        "slug": "bleu-micalizzato-407",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/bleu-micalizzato-407/",
+        "source_label": "PaintScratch 1997 Fiat",
+        "hex_value": "#26314D"
+      }
+    ],
+    "1998": [
+      {
+        "display_name": "Rosso Speed",
+        "paint_code": "168",
+        "slug": "rosso-speed-168",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/rosso-speed-168/",
+        "source_label": "PaintScratch 1998 Fiat",
+        "hex_value": "#A03830"
+      },
+      {
+        "display_name": "Bleu Micalizzato",
+        "paint_code": "407",
+        "slug": "bleu-micalizzato-407",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/bleu-micalizzato-407/",
+        "source_label": "PaintScratch 1998 Fiat",
+        "hex_value": "#26314D"
+      }
+    ],
+    "1999": [
+      {
+        "display_name": "Rosso Speed",
+        "paint_code": "168",
+        "slug": "rosso-speed-168",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/rosso-speed-168/",
+        "source_label": "PaintScratch 1999 Fiat",
+        "hex_value": "#A03830"
+      },
+      {
+        "display_name": "Bleu Micalizzato",
+        "paint_code": "407",
+        "slug": "bleu-micalizzato-407",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/bleu-micalizzato-407/",
+        "source_label": "PaintScratch 1999 Fiat",
+        "hex_value": "#26314D"
+      }
+    ],
+    "2000": [
+      {
+        "display_name": "Rosso Speed",
+        "paint_code": "168",
+        "slug": "rosso-speed-168",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/rosso-speed-168/",
+        "source_label": "PaintScratch 2000 Fiat",
+        "hex_value": "#A03830"
+      },
+      {
+        "display_name": "Bleu Micalizzato",
+        "paint_code": "407",
+        "slug": "bleu-micalizzato-407",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/bleu-micalizzato-407/",
+        "source_label": "PaintScratch 2000 Fiat",
+        "hex_value": "#26314D"
+      }
+    ],
+    "2001": [
+      {
+        "display_name": "Rosso Speed",
+        "paint_code": "168",
+        "slug": "rosso-speed-168",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/rosso-speed-168/",
+        "source_label": "PaintScratch 2001 Fiat",
+        "hex_value": "#A03830"
+      },
+      {
+        "display_name": "Bleu Micalizzato",
+        "paint_code": "407",
+        "slug": "bleu-micalizzato-407",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/bleu-micalizzato-407/",
+        "source_label": "PaintScratch 2001 Fiat",
+        "hex_value": "#26314D"
+      },
+      {
+        "display_name": "Arancio Calypso Metallic",
+        "paint_code": "571",
+        "slug": "arancio-calypso-metallic-571",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/arancio-calypso-metallic-571/",
+        "source_label": "PaintScratch 2001 Fiat",
+        "hex_value": "#EB9D23"
+      },
+      {
+        "display_name": "Medium Blue",
+        "paint_code": "597",
+        "slug": "medium-blue-597",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/medium-blue-597/",
+        "source_label": "PaintScratch 2001 Fiat",
+        "hex_value": "#0D2D97"
+      }
+    ],
+    "2002": [
+      {
+        "display_name": "Red Rosso Scilla",
+        "paint_code": "132",
+        "slug": "red-rosso-scilla-132",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/red-rosso-scilla-132/",
+        "source_label": "PaintScratch 2002 Fiat",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "Rosso Speed",
+        "paint_code": "168",
+        "slug": "rosso-speed-168",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/rosso-speed-168/",
+        "source_label": "PaintScratch 2002 Fiat",
+        "hex_value": "#A03830"
+      },
+      {
+        "display_name": "Bleu Micalizzato",
+        "paint_code": "407",
+        "slug": "bleu-micalizzato-407",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/bleu-micalizzato-407/",
+        "source_label": "PaintScratch 2002 Fiat",
+        "hex_value": "#26314D"
+      },
+      {
+        "display_name": "Arancio Calypso Metallic",
+        "paint_code": "571",
+        "slug": "arancio-calypso-metallic-571",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/arancio-calypso-metallic-571/",
+        "source_label": "PaintScratch 2002 Fiat",
+        "hex_value": "#EB9D23"
+      }
+    ],
+    "2003": [
+      {
+        "display_name": "Rosso Speed",
+        "paint_code": "168",
+        "slug": "rosso-speed-168",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/rosso-speed-168/",
+        "source_label": "PaintScratch 2003 Fiat",
+        "hex_value": "#A03830"
+      },
+      {
+        "display_name": "Bleu Micalizzato",
+        "paint_code": "407",
+        "slug": "bleu-micalizzato-407",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/bleu-micalizzato-407/",
+        "source_label": "PaintScratch 2003 Fiat",
+        "hex_value": "#26314D"
+      },
+      {
+        "display_name": "Atlantic Gray",
+        "paint_code": "600",
+        "slug": "atlantic-gray-600",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/atlantic-gray-600/",
+        "source_label": "PaintScratch 2003 Fiat",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Very Light Green (Water-Base Only)",
+        "paint_code": "745",
+        "slug": "very-light-green-water-base-only-745",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/very-light-green-water-base-only-745/",
+        "source_label": "PaintScratch 2003 Fiat",
+        "hex_value": "#E3FDAB"
+      }
+    ],
+    "2004": [
+      {
+        "display_name": "Blue Coctail",
+        "paint_code": "734/A",
+        "slug": "blue-coctail-734a",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/blue-coctail-734a/",
+        "source_label": "PaintScratch 2004 Fiat",
+        "hex_value": "#274DA3"
+      }
+    ],
+    "2005": [
+      {
+        "display_name": "Blue Coctail",
+        "paint_code": "734/A",
+        "slug": "blue-coctail-734a",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/blue-coctail-734a/",
+        "source_label": "PaintScratch 2005 Fiat",
+        "hex_value": "#274DA3"
+      }
+    ],
+    "2006": [
+      {
+        "display_name": "Electroclash Grey",
+        "paint_code": "695/A",
+        "slug": "electroclash-grey-695a",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/electroclash-grey-695a/",
+        "source_label": "PaintScratch 2006 Fiat",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Blue Coctail",
+        "paint_code": "734/A",
+        "slug": "blue-coctail-734a",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/blue-coctail-734a/",
+        "source_label": "PaintScratch 2006 Fiat",
+        "hex_value": "#274DA3"
+      }
+    ],
+    "2007": [
+      {
+        "display_name": "Blue Coctail",
+        "paint_code": "734/A",
+        "slug": "blue-coctail-734a",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/blue-coctail-734a/",
+        "source_label": "PaintScratch 2007 Fiat",
+        "hex_value": "#274DA3"
+      }
+    ],
+    "2008": [
+      {
+        "display_name": "Blue Coctail",
+        "paint_code": "734/A",
+        "slug": "blue-coctail-734a",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/blue-coctail-734a/",
+        "source_label": "PaintScratch 2008 Fiat",
+        "hex_value": "#274DA3"
+      }
+    ],
+    "2009": [
+      {
+        "display_name": "Rosso",
+        "paint_code": "111/PR1",
+        "slug": "rosso-111pr1",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/rosso-111pr1/",
+        "source_label": "PaintScratch 2009 Fiat",
+        "hex_value": "#B82630"
+      },
+      {
+        "display_name": "Bianco",
+        "paint_code": "268/PW3",
+        "slug": "bianco-268pw3",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/bianco-268pw3/",
+        "source_label": "PaintScratch 2009 Fiat",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Blue Coctail",
+        "paint_code": "734/A",
+        "slug": "blue-coctail-734a",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/blue-coctail-734a/",
+        "source_label": "PaintScratch 2009 Fiat",
+        "hex_value": "#274DA3"
+      }
+    ],
+    "2010": [
+      {
+        "display_name": "Rosso",
+        "paint_code": "111/PR1",
+        "slug": "rosso-111pr1",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/rosso-111pr1/",
+        "source_label": "PaintScratch 2010 Fiat",
+        "hex_value": "#B82630"
+      },
+      {
+        "display_name": "Blue Coctail",
+        "paint_code": "734/A",
+        "slug": "blue-coctail-734a",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/blue-coctail-734a/",
+        "source_label": "PaintScratch 2010 Fiat",
+        "hex_value": "#274DA3"
+      }
+    ],
+    "2011": [
+      {
+        "display_name": "Copper Pearl",
+        "paint_code": "KLB",
+        "slug": "copper-pearl-klb",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/copper-pearl-klb/",
+        "source_label": "PaintScratch 2011 Fiat",
+        "hex_value": "#993C23"
+      },
+      {
+        "display_name": "Brilliant Black Pearl",
+        "paint_code": "AXR",
+        "slug": "brilliant-black-pearl-axr",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/brilliant-black-pearl-axr/",
+        "source_label": "PaintScratch 2011 Fiat",
+        "hex_value": "#0A0A0A"
+      },
+      {
+        "display_name": "Tech Silver Metallic",
+        "paint_code": "GSA",
+        "slug": "tech-silver-metallic-gsa",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/tech-silver-metallic-gsa/",
+        "source_label": "PaintScratch 2011 Fiat",
+        "hex_value": "#C5C2B7"
+      },
+      {
+        "display_name": "Storm Metallic",
+        "paint_code": "KAJ/695",
+        "slug": "storm-metallic-kaj695",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/storm-metallic-kaj695/",
+        "source_label": "PaintScratch 2011 Fiat",
+        "hex_value": "#6F6557"
+      },
+      {
+        "display_name": "Sky",
+        "paint_code": "KBH/952",
+        "slug": "sky-kbh952",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/sky-kbh952/",
+        "source_label": "PaintScratch 2011 Fiat",
+        "hex_value": "#608290"
+      },
+      {
+        "display_name": "Pacific Metallic",
+        "paint_code": "KBP/599",
+        "slug": "pacific-metallic-kbp599",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/pacific-metallic-kbp599/",
+        "source_label": "PaintScratch 2011 Fiat",
+        "hex_value": "#32326C"
+      },
+      {
+        "display_name": "Verde Metallic",
+        "paint_code": "KFP/370",
+        "slug": "verde-metallic-kfp370",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/verde-metallic-kfp370/",
+        "source_label": "PaintScratch 2011 Fiat",
+        "hex_value": "#858C6E"
+      },
+      {
+        "display_name": "Sage",
+        "paint_code": "KGA/309",
+        "slug": "sage-kga309",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/sage-kga309/",
+        "source_label": "PaintScratch 2011 Fiat",
+        "hex_value": "#9CA973"
+      },
+      {
+        "display_name": "Rosso",
+        "paint_code": "KR1/111",
+        "slug": "rosso-kr1111",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/rosso-kr1111/",
+        "source_label": "PaintScratch 2011 Fiat",
+        "hex_value": "#AB1E1B"
+      },
+      {
+        "display_name": "Brillian Red Tricoat",
+        "paint_code": "KRA",
+        "slug": "brillian-red-tricoat-kra",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/brillian-red-tricoat-kra/",
+        "source_label": "PaintScratch 2011 Fiat",
+        "hex_value": "#AA2E31"
+      },
+      {
+        "display_name": "Mocha Latte",
+        "paint_code": "KTA",
+        "slug": "mocha-latte-kta",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/mocha-latte-kta/",
+        "source_label": "PaintScratch 2011 Fiat",
+        "hex_value": "#958457"
+      },
+      {
+        "display_name": "Espressor Metallic",
+        "paint_code": "KTM/713",
+        "slug": "espressor-metallic-ktm713",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/espressor-metallic-ktm713/",
+        "source_label": "PaintScratch 2011 Fiat",
+        "hex_value": "#684F32"
+      },
+      {
+        "display_name": "Bianco",
+        "paint_code": "KW3/268",
+        "slug": "bianco-kw3268",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/bianco-kw3268/",
+        "source_label": "PaintScratch 2011 Fiat",
+        "hex_value": "#FAF8F0"
+      },
+      {
+        "display_name": "Artic Pearl Tricoat",
+        "paint_code": "KWH/270",
+        "slug": "artic-pearl-tricoat-kwh270",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/artic-pearl-tricoat-kwh270/",
+        "source_label": "PaintScratch 2011 Fiat",
+        "hex_value": "#D6CEB0"
+      },
+      {
+        "display_name": "Yellow",
+        "paint_code": "KYF",
+        "slug": "yellow-kyf",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/yellow-kyf/",
+        "source_label": "PaintScratch 2011 Fiat",
+        "hex_value": "#EDEA13"
+      }
+    ],
+    "2012": [
+      {
+        "display_name": "Hyper Black Pearl (Wheel)",
+        "paint_code": "JXY-W",
+        "slug": "hyper-black-pearl-wheel-jxy-w",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/hyper-black-pearl-wheel-jxy-w/",
+        "source_label": "PaintScratch 2012 Fiat",
+        "hex_value": "#979489"
+      },
+      {
+        "display_name": "Verde Chiaro",
+        "paint_code": "PGA/KGA",
+        "slug": "verde-chiaro-pgakga",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/verde-chiaro-pgakga/",
+        "source_label": "PaintScratch 2012 Fiat",
+        "hex_value": "#9CA973"
+      },
+      {
+        "display_name": "Rosso",
+        "paint_code": "111/PR1",
+        "slug": "rosso-111pr1",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/rosso-111pr1/",
+        "source_label": "PaintScratch 2012 Fiat",
+        "hex_value": "#B82630"
+      },
+      {
+        "display_name": "Copper Pearl",
+        "paint_code": "KLB",
+        "slug": "copper-pearl-klb",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/copper-pearl-klb/",
+        "source_label": "PaintScratch 2012 Fiat",
+        "hex_value": "#993C23"
+      },
+      {
+        "display_name": "Grigio Metallic",
+        "paint_code": "PAJ",
+        "slug": "grigio-metallic-paj",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/grigio-metallic-paj/",
+        "source_label": "PaintScratch 2012 Fiat",
+        "hex_value": "#404040"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "PXR",
+        "slug": "black-pxr",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/black-pxr/",
+        "source_label": "PaintScratch 2012 Fiat",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Bright Yellow",
+        "paint_code": "PYF",
+        "slug": "bright-yellow-pyf",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/bright-yellow-pyf/",
+        "source_label": "PaintScratch 2012 Fiat",
+        "hex_value": "#FFFF00"
+      },
+      {
+        "display_name": "Mochalatte",
+        "paint_code": "231/PTA",
+        "slug": "mochalatte-231pta",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/mochalatte-231pta/",
+        "source_label": "PaintScratch 2012 Fiat",
+        "hex_value": "#BEB9A6"
+      },
+      {
+        "display_name": "Brilliant Black Pearl",
+        "paint_code": "AXR",
+        "slug": "brilliant-black-pearl-axr",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/brilliant-black-pearl-axr/",
+        "source_label": "PaintScratch 2012 Fiat",
+        "hex_value": "#0A0A0A"
+      },
+      {
+        "display_name": "Mineral Gray Metallic (Wheel)",
+        "paint_code": "CDM-W",
+        "slug": "mineral-gray-metallic-wheel-cdm-w",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/mineral-gray-metallic-wheel-cdm-w/",
+        "source_label": "PaintScratch 2012 Fiat",
+        "hex_value": "#67614F"
+      },
+      {
+        "display_name": "Satin Carbon Pearl (Wheel)",
+        "paint_code": "DD5-W",
+        "slug": "satin-carbon-pearl-wheel-dd5-w",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/satin-carbon-pearl-wheel-dd5-w/",
+        "source_label": "PaintScratch 2012 Fiat",
+        "hex_value": "#8C8674"
+      },
+      {
+        "display_name": "Tech Silver Metallic (Wheel)",
+        "paint_code": "GSA-W",
+        "slug": "tech-silver-metallic-wheel-gsa-w",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/tech-silver-metallic-wheel-gsa-w/",
+        "source_label": "PaintScratch 2012 Fiat",
+        "hex_value": "#C5C2B7"
+      },
+      {
+        "display_name": "Storm Metallic",
+        "paint_code": "KAJ/695",
+        "slug": "storm-metallic-kaj695",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/storm-metallic-kaj695/",
+        "source_label": "PaintScratch 2012 Fiat",
+        "hex_value": "#6F6557"
+      },
+      {
+        "display_name": "Sky",
+        "paint_code": "KBH",
+        "slug": "sky-kbh",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/sky-kbh/",
+        "source_label": "PaintScratch 2012 Fiat",
+        "hex_value": "#608290"
+      },
+      {
+        "display_name": "Pacific Metallic",
+        "paint_code": "KBP",
+        "slug": "pacific-metallic-kbp",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/pacific-metallic-kbp/",
+        "source_label": "PaintScratch 2012 Fiat",
+        "hex_value": "#32326C"
+      },
+      {
+        "display_name": "Verde Metallic",
+        "paint_code": "KFP",
+        "slug": "verde-metallic-kfp",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/verde-metallic-kfp/",
+        "source_label": "PaintScratch 2012 Fiat",
+        "hex_value": "#858C6E"
+      }
+    ],
+    "2013": [
+      {
+        "display_name": "Hyper Black Pearl (Wheel)",
+        "paint_code": "JXY-W",
+        "slug": "hyper-black-pearl-wheel-jxy-w",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/hyper-black-pearl-wheel-jxy-w/",
+        "source_label": "PaintScratch 2013 Fiat",
+        "hex_value": "#979489"
+      },
+      {
+        "display_name": "Rosso",
+        "paint_code": "111/PR1",
+        "slug": "rosso-111pr1",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/rosso-111pr1/",
+        "source_label": "PaintScratch 2013 Fiat",
+        "hex_value": "#B82630"
+      },
+      {
+        "display_name": "Copper Pearl",
+        "paint_code": "KLB",
+        "slug": "copper-pearl-klb",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/copper-pearl-klb/",
+        "source_label": "PaintScratch 2013 Fiat",
+        "hex_value": "#993C23"
+      },
+      {
+        "display_name": "Grigio Metallic",
+        "paint_code": "PAJ",
+        "slug": "grigio-metallic-paj",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/grigio-metallic-paj/",
+        "source_label": "PaintScratch 2013 Fiat",
+        "hex_value": "#404040"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "PXR",
+        "slug": "black-pxr",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/black-pxr/",
+        "source_label": "PaintScratch 2013 Fiat",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Mochalatte",
+        "paint_code": "231/PTA",
+        "slug": "mochalatte-231pta",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/mochalatte-231pta/",
+        "source_label": "PaintScratch 2013 Fiat",
+        "hex_value": "#BEB9A6"
+      },
+      {
+        "display_name": "Bianco",
+        "paint_code": "268/PW3",
+        "slug": "bianco-268pw3",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/bianco-268pw3/",
+        "source_label": "PaintScratch 2013 Fiat",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Granit Grisi",
+        "paint_code": "284",
+        "slug": "granit-grisi-284",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/granit-grisi-284/",
+        "source_label": "PaintScratch 2013 Fiat",
+        "hex_value": "#202020"
+      },
+      {
+        "display_name": "Nero",
+        "paint_code": "601/PX8",
+        "slug": "nero-601px8",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/nero-601px8/",
+        "source_label": "PaintScratch 2013 Fiat",
+        "hex_value": "#070707"
+      },
+      {
+        "display_name": "Grigio Scuro Metallic",
+        "paint_code": "609/PDW",
+        "slug": "grigio-scuro-metallic-609pdw",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/grigio-scuro-metallic-609pdw/",
+        "source_label": "PaintScratch 2013 Fiat",
+        "hex_value": "#8E848D"
+      },
+      {
+        "display_name": "Brilliant Black Pearl",
+        "paint_code": "AXR",
+        "slug": "brilliant-black-pearl-axr",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/brilliant-black-pearl-axr/",
+        "source_label": "PaintScratch 2013 Fiat",
+        "hex_value": "#0A0A0A"
+      },
+      {
+        "display_name": "Mineral Gray Metallic (Wheel)",
+        "paint_code": "CDM-W",
+        "slug": "mineral-gray-metallic-wheel-cdm-w",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/mineral-gray-metallic-wheel-cdm-w/",
+        "source_label": "PaintScratch 2013 Fiat",
+        "hex_value": "#67614F"
+      },
+      {
+        "display_name": "Satin Carbon Pearl (Wheel)",
+        "paint_code": "DD5-W",
+        "slug": "satin-carbon-pearl-wheel-dd5-w",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/satin-carbon-pearl-wheel-dd5-w/",
+        "source_label": "PaintScratch 2013 Fiat",
+        "hex_value": "#8C8674"
+      },
+      {
+        "display_name": "Nero",
+        "paint_code": "DX8-W",
+        "slug": "nero-dx8-w",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/nero-dx8-w/",
+        "source_label": "PaintScratch 2013 Fiat",
+        "hex_value": "#0A0A0A"
+      },
+      {
+        "display_name": "Tech Silver Metallic (Wheel)",
+        "paint_code": "GSA-W",
+        "slug": "tech-silver-metallic-wheel-gsa-w",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/tech-silver-metallic-wheel-gsa-w/",
+        "source_label": "PaintScratch 2013 Fiat",
+        "hex_value": "#C5C2B7"
+      },
+      {
+        "display_name": "Winter Chill Pearl",
+        "paint_code": "JBA",
+        "slug": "winter-chill-pearl-jba",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/winter-chill-pearl-jba/",
+        "source_label": "PaintScratch 2013 Fiat",
+        "hex_value": "#C7D6EF"
+      }
+    ],
+    "2014": [
+      {
+        "display_name": "Hyper Black Pearl (Wheel)",
+        "paint_code": "JXY-W",
+        "slug": "hyper-black-pearl-wheel-jxy-w",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/hyper-black-pearl-wheel-jxy-w/",
+        "source_label": "PaintScratch 2014 Fiat",
+        "hex_value": "#979489"
+      },
+      {
+        "display_name": "Verde Chiaro",
+        "paint_code": "PGA/KGA",
+        "slug": "verde-chiaro-pgakga",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/verde-chiaro-pgakga/",
+        "source_label": "PaintScratch 2014 Fiat",
+        "hex_value": "#9CA973"
+      },
+      {
+        "display_name": "Rosso",
+        "paint_code": "111/PR1",
+        "slug": "rosso-111pr1",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/rosso-111pr1/",
+        "source_label": "PaintScratch 2014 Fiat",
+        "hex_value": "#B82630"
+      },
+      {
+        "display_name": "Nero",
+        "paint_code": "DX8",
+        "slug": "nero-dx8",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/nero-dx8/",
+        "source_label": "PaintScratch 2014 Fiat",
+        "hex_value": "#0A0A0A"
+      },
+      {
+        "display_name": "Copper Pearl",
+        "paint_code": "KLB",
+        "slug": "copper-pearl-klb",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/copper-pearl-klb/",
+        "source_label": "PaintScratch 2014 Fiat",
+        "hex_value": "#993C23"
+      },
+      {
+        "display_name": "Grigio Metallic",
+        "paint_code": "PAJ",
+        "slug": "grigio-metallic-paj",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/grigio-metallic-paj/",
+        "source_label": "PaintScratch 2014 Fiat",
+        "hex_value": "#404040"
+      },
+      {
+        "display_name": "Bright Yellow",
+        "paint_code": "PYF",
+        "slug": "bright-yellow-pyf",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/bright-yellow-pyf/",
+        "source_label": "PaintScratch 2014 Fiat",
+        "hex_value": "#FFFF00"
+      },
+      {
+        "display_name": "Rosso Metallic",
+        "paint_code": "108/PRT",
+        "slug": "rosso-metallic-108prt",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/rosso-metallic-108prt/",
+        "source_label": "PaintScratch 2014 Fiat",
+        "hex_value": "#982E36"
+      },
+      {
+        "display_name": "Mochalatte",
+        "paint_code": "231/PTA",
+        "slug": "mochalatte-231pta",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/mochalatte-231pta/",
+        "source_label": "PaintScratch 2014 Fiat",
+        "hex_value": "#BEB9A6"
+      },
+      {
+        "display_name": "Bianco",
+        "paint_code": "268/PW3",
+        "slug": "bianco-268pw3",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/bianco-268pw3/",
+        "source_label": "PaintScratch 2014 Fiat",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Verde",
+        "paint_code": "366/PFC",
+        "slug": "verde-366pfc",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/verde-366pfc/",
+        "source_label": "PaintScratch 2014 Fiat",
+        "hex_value": "#C3CFA9"
+      },
+      {
+        "display_name": "Verde Bosco Metallic",
+        "paint_code": "390/PGQ",
+        "slug": "verde-bosco-metallic-390pgq",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/verde-bosco-metallic-390pgq/",
+        "source_label": "PaintScratch 2014 Fiat",
+        "hex_value": "#56824C"
+      },
+      {
+        "display_name": "Bluitalia",
+        "paint_code": "425",
+        "slug": "bluitalia-425",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/bluitalia-425/",
+        "source_label": "PaintScratch 2014 Fiat",
+        "hex_value": "#0D2D97"
+      },
+      {
+        "display_name": "Blu Chiaro",
+        "paint_code": "483/PBN",
+        "slug": "blu-chiaro-483pbn",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/blu-chiaro-483pbn/",
+        "source_label": "PaintScratch 2014 Fiat",
+        "hex_value": "#BCC2BA"
+      },
+      {
+        "display_name": "Blue Tornado Metallic",
+        "paint_code": "530",
+        "slug": "blue-tornado-metallic-530",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/blue-tornado-metallic-530/",
+        "source_label": "PaintScratch 2014 Fiat",
+        "hex_value": "#301CAA"
+      },
+      {
+        "display_name": "Nero",
+        "paint_code": "601/PX8",
+        "slug": "nero-601px8",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/nero-601px8/",
+        "source_label": "PaintScratch 2014 Fiat",
+        "hex_value": "#070707"
+      }
+    ],
+    "2015": [
+      {
+        "display_name": "Hyper Black Pearl (Wheel)",
+        "paint_code": "JXY-W",
+        "slug": "hyper-black-pearl-wheel-jxy-w",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/hyper-black-pearl-wheel-jxy-w/",
+        "source_label": "PaintScratch 2015 Fiat",
+        "hex_value": "#979489"
+      },
+      {
+        "display_name": "Verde Chiaro",
+        "paint_code": "PGA/KGA",
+        "slug": "verde-chiaro-pgakga",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/verde-chiaro-pgakga/",
+        "source_label": "PaintScratch 2015 Fiat",
+        "hex_value": "#9CA973"
+      },
+      {
+        "display_name": "Rosso",
+        "paint_code": "111/PR1",
+        "slug": "rosso-111pr1",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/rosso-111pr1/",
+        "source_label": "PaintScratch 2015 Fiat",
+        "hex_value": "#B82630"
+      },
+      {
+        "display_name": "Nero",
+        "paint_code": "DX8",
+        "slug": "nero-dx8",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/nero-dx8/",
+        "source_label": "PaintScratch 2015 Fiat",
+        "hex_value": "#0A0A0A"
+      },
+      {
+        "display_name": "Copper Pearl",
+        "paint_code": "KLB",
+        "slug": "copper-pearl-klb",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/copper-pearl-klb/",
+        "source_label": "PaintScratch 2015 Fiat",
+        "hex_value": "#993C23"
+      },
+      {
+        "display_name": "Grigio Metallic",
+        "paint_code": "PAJ",
+        "slug": "grigio-metallic-paj",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/grigio-metallic-paj/",
+        "source_label": "PaintScratch 2015 Fiat",
+        "hex_value": "#404040"
+      },
+      {
+        "display_name": "Granite Crystal Metallic",
+        "paint_code": "PAU/LAU/095/099",
+        "slug": "granite-crystal-metallic-paulau095099",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/granite-crystal-metallic-paulau095099/",
+        "source_label": "PaintScratch 2015 Fiat",
+        "hex_value": "#4F453D"
+      },
+      {
+        "display_name": "Rosso Metallic",
+        "paint_code": "108/PRT",
+        "slug": "rosso-metallic-108prt",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/rosso-metallic-108prt/",
+        "source_label": "PaintScratch 2015 Fiat",
+        "hex_value": "#982E36"
+      },
+      {
+        "display_name": "Mochalatte",
+        "paint_code": "231/PTA",
+        "slug": "mochalatte-231pta",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/mochalatte-231pta/",
+        "source_label": "PaintScratch 2015 Fiat",
+        "hex_value": "#BEB9A6"
+      },
+      {
+        "display_name": "Bianco",
+        "paint_code": "268/PW3",
+        "slug": "bianco-268pw3",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/bianco-268pw3/",
+        "source_label": "PaintScratch 2015 Fiat",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Grigio Arte",
+        "paint_code": "331/PJ1",
+        "slug": "grigio-arte-331pj1",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/grigio-arte-331pj1/",
+        "source_label": "PaintScratch 2015 Fiat",
+        "hex_value": "#C5BFBF"
+      },
+      {
+        "display_name": "Verde",
+        "paint_code": "366/PFC",
+        "slug": "verde-366pfc",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/verde-366pfc/",
+        "source_label": "PaintScratch 2015 Fiat",
+        "hex_value": "#C3CFA9"
+      },
+      {
+        "display_name": "Verde Bosco Metallic",
+        "paint_code": "390/PGQ",
+        "slug": "verde-bosco-metallic-390pgq",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/verde-bosco-metallic-390pgq/",
+        "source_label": "PaintScratch 2015 Fiat",
+        "hex_value": "#56824C"
+      },
+      {
+        "display_name": "Blu Chiaro",
+        "paint_code": "483/PBN",
+        "slug": "blu-chiaro-483pbn",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/blu-chiaro-483pbn/",
+        "source_label": "PaintScratch 2015 Fiat",
+        "hex_value": "#BCC2BA"
+      },
+      {
+        "display_name": "Blue Tornado Metallic",
+        "paint_code": "530",
+        "slug": "blue-tornado-metallic-530",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/blue-tornado-metallic-530/",
+        "source_label": "PaintScratch 2015 Fiat",
+        "hex_value": "#301CAA"
+      },
+      {
+        "display_name": "Nero",
+        "paint_code": "601/PX8",
+        "slug": "nero-601px8",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/nero-601px8/",
+        "source_label": "PaintScratch 2015 Fiat",
+        "hex_value": "#070707"
+      }
+    ],
+    "2016": [
+      {
+        "display_name": "Hyper Black Pearl (Wheel)",
+        "paint_code": "JXY-W",
+        "slug": "hyper-black-pearl-wheel-jxy-w",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/hyper-black-pearl-wheel-jxy-w/",
+        "source_label": "PaintScratch 2016 Fiat",
+        "hex_value": "#979489"
+      },
+      {
+        "display_name": "Verde Chiaro",
+        "paint_code": "PGA/KGA",
+        "slug": "verde-chiaro-pgakga",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/verde-chiaro-pgakga/",
+        "source_label": "PaintScratch 2016 Fiat",
+        "hex_value": "#9CA973"
+      },
+      {
+        "display_name": "Rosso",
+        "paint_code": "111/PR1",
+        "slug": "rosso-111pr1",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/rosso-111pr1/",
+        "source_label": "PaintScratch 2016 Fiat",
+        "hex_value": "#B82630"
+      },
+      {
+        "display_name": "Grigio Argento",
+        "paint_code": "348/PSN",
+        "slug": "grigio-argento-348psn",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/grigio-argento-348psn/",
+        "source_label": "PaintScratch 2016 Fiat",
+        "hex_value": "#9FAEC1"
+      },
+      {
+        "display_name": "Nero",
+        "paint_code": "DX8",
+        "slug": "nero-dx8",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/nero-dx8/",
+        "source_label": "PaintScratch 2016 Fiat",
+        "hex_value": "#0A0A0A"
+      },
+      {
+        "display_name": "Rosso Metallic",
+        "paint_code": "108/PRT",
+        "slug": "rosso-metallic-108prt",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/rosso-metallic-108prt/",
+        "source_label": "PaintScratch 2016 Fiat",
+        "hex_value": "#982E36"
+      },
+      {
+        "display_name": "Bright Red",
+        "paint_code": "176",
+        "slug": "bright-red-176",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/bright-red-176/",
+        "source_label": "PaintScratch 2016 Fiat",
+        "hex_value": "#F31515"
+      },
+      {
+        "display_name": "Mochalatte",
+        "paint_code": "231/PTA",
+        "slug": "mochalatte-231pta",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/mochalatte-231pta/",
+        "source_label": "PaintScratch 2016 Fiat",
+        "hex_value": "#BEB9A6"
+      },
+      {
+        "display_name": "Bianco",
+        "paint_code": "268/PW3",
+        "slug": "bianco-268pw3",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/bianco-268pw3/",
+        "source_label": "PaintScratch 2016 Fiat",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Bianco Gelato",
+        "paint_code": "296/PWV",
+        "slug": "bianco-gelato-296pwv",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/bianco-gelato-296pwv/",
+        "source_label": "PaintScratch 2016 Fiat",
+        "hex_value": "#CED7D2"
+      },
+      {
+        "display_name": "Verde Toscana",
+        "paint_code": "330/PGG",
+        "slug": "verde-toscana-330pgg",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/verde-toscana-330pgg/",
+        "source_label": "PaintScratch 2016 Fiat",
+        "hex_value": "#374136"
+      },
+      {
+        "display_name": "Grigio Arte",
+        "paint_code": "331/PJ1",
+        "slug": "grigio-arte-331pj1",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/grigio-arte-331pj1/",
+        "source_label": "PaintScratch 2016 Fiat",
+        "hex_value": "#C5BFBF"
+      },
+      {
+        "display_name": "Verde Bosco Metallic",
+        "paint_code": "390/PGQ",
+        "slug": "verde-bosco-metallic-390pgq",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/verde-bosco-metallic-390pgq/",
+        "source_label": "PaintScratch 2016 Fiat",
+        "hex_value": "#56824C"
+      },
+      {
+        "display_name": "Bronzo Magnetico",
+        "paint_code": "399/PUL",
+        "slug": "bronzo-magnetico-399pul",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/bronzo-magnetico-399pul/",
+        "source_label": "PaintScratch 2016 Fiat",
+        "hex_value": "#6B6766"
+      },
+      {
+        "display_name": "Bronzo Magnetico",
+        "paint_code": "400/PUM",
+        "slug": "bronzo-magnetico-400pum",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/bronzo-magnetico-400pum/",
+        "source_label": "PaintScratch 2016 Fiat",
+        "hex_value": "#6B6766"
+      },
+      {
+        "display_name": "Turquoise",
+        "paint_code": "440",
+        "slug": "turquoise-440",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/turquoise-440/",
+        "source_label": "PaintScratch 2016 Fiat",
+        "hex_value": "#268276"
+      }
+    ],
+    "2017": [
+      {
+        "display_name": "Black",
+        "paint_code": "41W",
+        "slug": "black-41w",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/black-41w/",
+        "source_label": "PaintScratch 2017 Fiat",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Rosso",
+        "paint_code": "111/PR1",
+        "slug": "rosso-111pr1",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/rosso-111pr1/",
+        "source_label": "PaintScratch 2017 Fiat",
+        "hex_value": "#B82630"
+      },
+      {
+        "display_name": "Grigio Argento",
+        "paint_code": "348/PSN",
+        "slug": "grigio-argento-348psn",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/grigio-argento-348psn/",
+        "source_label": "PaintScratch 2017 Fiat",
+        "hex_value": "#9FAEC1"
+      },
+      {
+        "display_name": "Bright Red",
+        "paint_code": "A7V",
+        "slug": "bright-red-a7v",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/bright-red-a7v/",
+        "source_label": "PaintScratch 2017 Fiat",
+        "hex_value": "#F31515"
+      },
+      {
+        "display_name": "Nero",
+        "paint_code": "DX8",
+        "slug": "nero-dx8",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/nero-dx8/",
+        "source_label": "PaintScratch 2017 Fiat",
+        "hex_value": "#0A0A0A"
+      },
+      {
+        "display_name": "Moda Gray Pearl Metallic",
+        "paint_code": "PA5/RA5/243B/42A",
+        "slug": "moda-gray-pearl-metallic-pa5ra5243b42a",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/moda-gray-pearl-metallic-pa5ra5243b42a/",
+        "source_label": "PaintScratch 2017 Fiat",
+        "hex_value": "#46442E"
+      },
+      {
+        "display_name": "White Tricoat",
+        "paint_code": "34K",
+        "slug": "white-tricoat-34k",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/white-tricoat-34k/",
+        "source_label": "PaintScratch 2017 Fiat",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Medium Blue",
+        "paint_code": "44J",
+        "slug": "medium-blue-44j",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/medium-blue-44j/",
+        "source_label": "PaintScratch 2017 Fiat",
+        "hex_value": "#597DF3"
+      },
+      {
+        "display_name": "Granite Crystal Metallic",
+        "paint_code": "095/099/LAU",
+        "slug": "granite-crystal-metallic-095099lau",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/granite-crystal-metallic-095099lau/",
+        "source_label": "PaintScratch 2017 Fiat",
+        "hex_value": "#4F453D"
+      },
+      {
+        "display_name": "Alfa Red",
+        "paint_code": "162/RKM",
+        "slug": "alfa-red-162rkm",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/alfa-red-162rkm/",
+        "source_label": "PaintScratch 2017 Fiat",
+        "hex_value": "#AF0F03"
+      },
+      {
+        "display_name": "Artic White",
+        "paint_code": "163/RWE",
+        "slug": "artic-white-163rwe",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/artic-white-163rwe/",
+        "source_label": "PaintScratch 2017 Fiat",
+        "hex_value": "#F6F4F4"
+      },
+      {
+        "display_name": "Titanium Flash Pearl",
+        "paint_code": "201/RDF",
+        "slug": "titanium-flash-pearl-201rdf",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/titanium-flash-pearl-201rdf/",
+        "source_label": "PaintScratch 2017 Fiat",
+        "hex_value": "#BAA476"
+      },
+      {
+        "display_name": "New Vivid Blue Pearl",
+        "paint_code": "208/RSL",
+        "slug": "new-vivid-blue-pearl-208rsl",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/new-vivid-blue-pearl-208rsl/",
+        "source_label": "PaintScratch 2017 Fiat",
+        "hex_value": "#0860E4"
+      },
+      {
+        "display_name": "Aluminum Metallic",
+        "paint_code": "235/RSL",
+        "slug": "aluminum-metallic-235rsl",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/aluminum-metallic-235rsl/",
+        "source_label": "PaintScratch 2017 Fiat",
+        "hex_value": "#E6E4DE"
+      },
+      {
+        "display_name": "Jet Black",
+        "paint_code": "244/RXC",
+        "slug": "jet-black-244rxc",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/jet-black-244rxc/",
+        "source_label": "PaintScratch 2017 Fiat",
+        "hex_value": "#050505"
+      },
+      {
+        "display_name": "Cristal White Tricoat",
+        "paint_code": "245/RWS",
+        "slug": "cristal-white-tricoat-245rws",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/cristal-white-tricoat-245rws/",
+        "source_label": "PaintScratch 2017 Fiat",
+        "hex_value": "#FCFDFE"
+      }
+    ],
+    "2018": [
+      {
+        "display_name": "Black",
+        "paint_code": "41W",
+        "slug": "black-41w",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/black-41w/",
+        "source_label": "PaintScratch 2018 Fiat",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Bronze Magnetico Titanium",
+        "paint_code": "42S",
+        "slug": "bronze-magnetico-titanium-42s",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/bronze-magnetico-titanium-42s/",
+        "source_label": "PaintScratch 2018 Fiat",
+        "hex_value": "#985636"
+      },
+      {
+        "display_name": "Bright Red",
+        "paint_code": "A7V",
+        "slug": "bright-red-a7v",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/bright-red-a7v/",
+        "source_label": "PaintScratch 2018 Fiat",
+        "hex_value": "#F31515"
+      },
+      {
+        "display_name": "Moda Gray Pearl Metallic",
+        "paint_code": "PA5/RA5/243B/42A",
+        "slug": "moda-gray-pearl-metallic-pa5ra5243b42a",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/moda-gray-pearl-metallic-pa5ra5243b42a/",
+        "source_label": "PaintScratch 2018 Fiat",
+        "hex_value": "#46442E"
+      },
+      {
+        "display_name": "Granite Crystal Metallic",
+        "paint_code": "PAU/LAU/095/099",
+        "slug": "granite-crystal-metallic-paulau095099",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/granite-crystal-metallic-paulau095099/",
+        "source_label": "PaintScratch 2018 Fiat",
+        "hex_value": "#4F453D"
+      },
+      {
+        "display_name": "Cristal White Tricoat",
+        "paint_code": "RWS/245",
+        "slug": "cristal-white-tricoat-rws245",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/cristal-white-tricoat-rws245/",
+        "source_label": "PaintScratch 2018 Fiat",
+        "hex_value": "#FCFDFE"
+      },
+      {
+        "display_name": "Grigio Chiaro Metallic",
+        "paint_code": "PAF/612",
+        "slug": "grigio-chiaro-metallic-paf612",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/grigio-chiaro-metallic-paf612/",
+        "source_label": "PaintScratch 2018 Fiat",
+        "hex_value": "#F4F3F2"
+      },
+      {
+        "display_name": "Blu Venezia Pearl",
+        "paint_code": "PB1/888",
+        "slug": "blu-venezia-pearl-pb1888",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/blu-venezia-pearl-pb1888/",
+        "source_label": "PaintScratch 2018 Fiat",
+        "hex_value": "#170650"
+      },
+      {
+        "display_name": "Blue Denim",
+        "paint_code": "PBD/652",
+        "slug": "blue-denim-pbd652",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/blue-denim-pbd652/",
+        "source_label": "PaintScratch 2018 Fiat",
+        "hex_value": "#3C407A"
+      },
+      {
+        "display_name": "Laser Blue Pearl",
+        "paint_code": "PBJ/MBJ",
+        "slug": "laser-blue-pearl-pbjmbj",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/laser-blue-pearl-pbjmbj/",
+        "source_label": "PaintScratch 2018 Fiat",
+        "hex_value": "#3E7BEC"
+      },
+      {
+        "display_name": "Giallo Sole",
+        "paint_code": "PBN/830",
+        "slug": "giallo-sole-pbn830",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/giallo-sole-pbn830/",
+        "source_label": "PaintScratch 2018 Fiat",
+        "hex_value": "#EDF74B"
+      },
+      {
+        "display_name": "Blue Tornado Metallic",
+        "paint_code": "PBR/530",
+        "slug": "blue-tornado-metallic-pbr530",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/blue-tornado-metallic-pbr530/",
+        "source_label": "PaintScratch 2018 Fiat",
+        "hex_value": "#1C248C"
+      },
+      {
+        "display_name": "Midnight Blue Pearl",
+        "paint_code": "PBX/KBX",
+        "slug": "midnight-blue-pearl-pbxkbx",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/midnight-blue-pearl-pbxkbx/",
+        "source_label": "PaintScratch 2018 Fiat",
+        "hex_value": "#080A1E"
+      },
+      {
+        "display_name": "Blue Sky Metallic",
+        "paint_code": "PCE/731",
+        "slug": "blue-sky-metallic-pce731",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/blue-sky-metallic-pce731/",
+        "source_label": "PaintScratch 2018 Fiat",
+        "hex_value": "#676985"
+      },
+      {
+        "display_name": "Light Copper Metallic",
+        "paint_code": "PCP/732",
+        "slug": "light-copper-metallic-pcp732",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/light-copper-metallic-pcp732/",
+        "source_label": "PaintScratch 2018 Fiat",
+        "hex_value": "#E5BB6B"
+      },
+      {
+        "display_name": "Grigio Scuro Metallic",
+        "paint_code": "PDW/609",
+        "slug": "grigio-scuro-metallic-pdw609",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/grigio-scuro-metallic-pdw609/",
+        "source_label": "PaintScratch 2018 Fiat",
+        "hex_value": "#8E848D"
+      }
+    ],
+    "2019": [
+      {
+        "display_name": "Bright Red",
+        "paint_code": "A7V",
+        "slug": "bright-red-a7v",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/bright-red-a7v/",
+        "source_label": "PaintScratch 2019 Fiat",
+        "hex_value": "#F31515"
+      },
+      {
+        "display_name": "Moda Gray Pearl Metallic",
+        "paint_code": "PA5/RA5/243B/42A",
+        "slug": "moda-gray-pearl-metallic-pa5ra5243b42a",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/moda-gray-pearl-metallic-pa5ra5243b42a/",
+        "source_label": "PaintScratch 2019 Fiat",
+        "hex_value": "#46442E"
+      },
+      {
+        "display_name": "Granite Crystal Metallic",
+        "paint_code": "PAU/LAU/095/099",
+        "slug": "granite-crystal-metallic-paulau095099",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/granite-crystal-metallic-paulau095099/",
+        "source_label": "PaintScratch 2019 Fiat",
+        "hex_value": "#4F453D"
+      },
+      {
+        "display_name": "Chiaro Silver Metallic",
+        "paint_code": "PSP/SSP/807",
+        "slug": "chiaro-silver-metallic-pspssp807",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/chiaro-silver-metallic-pspssp807/",
+        "source_label": "PaintScratch 2019 Fiat",
+        "hex_value": "#DEEBEC"
+      },
+      {
+        "display_name": "Grigio Chiaro Metallic",
+        "paint_code": "PAF/612",
+        "slug": "grigio-chiaro-metallic-paf612",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/grigio-chiaro-metallic-paf612/",
+        "source_label": "PaintScratch 2019 Fiat",
+        "hex_value": "#F4F3F2"
+      },
+      {
+        "display_name": "Blu Venezia Pearl",
+        "paint_code": "PB1/888",
+        "slug": "blu-venezia-pearl-pb1888",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/blu-venezia-pearl-pb1888/",
+        "source_label": "PaintScratch 2019 Fiat",
+        "hex_value": "#170650"
+      },
+      {
+        "display_name": "Blue Denim",
+        "paint_code": "PBD/652",
+        "slug": "blue-denim-pbd652",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/blue-denim-pbd652/",
+        "source_label": "PaintScratch 2019 Fiat",
+        "hex_value": "#3C407A"
+      },
+      {
+        "display_name": "Italia Blue",
+        "paint_code": "PBG",
+        "slug": "italia-blue-pbg",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/italia-blue-pbg/",
+        "source_label": "PaintScratch 2019 Fiat",
+        "hex_value": "#597DF3"
+      },
+      {
+        "display_name": "Laser Blue Pearl",
+        "paint_code": "PBJ/MBJ",
+        "slug": "laser-blue-pearl-pbjmbj",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/laser-blue-pearl-pbjmbj/",
+        "source_label": "PaintScratch 2019 Fiat",
+        "hex_value": "#3E7BEC"
+      },
+      {
+        "display_name": "Blue Tornado Metallic",
+        "paint_code": "PBR/530",
+        "slug": "blue-tornado-metallic-pbr530",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/blue-tornado-metallic-pbr530/",
+        "source_label": "PaintScratch 2019 Fiat",
+        "hex_value": "#1C248C"
+      },
+      {
+        "display_name": "Midnight Blue Pearl",
+        "paint_code": "PBX/KBX",
+        "slug": "midnight-blue-pearl-pbxkbx",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/midnight-blue-pearl-pbxkbx/",
+        "source_label": "PaintScratch 2019 Fiat",
+        "hex_value": "#080A1E"
+      },
+      {
+        "display_name": "Blue Sky Metallic",
+        "paint_code": "PCE/731",
+        "slug": "blue-sky-metallic-pce731",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/blue-sky-metallic-pce731/",
+        "source_label": "PaintScratch 2019 Fiat",
+        "hex_value": "#676985"
+      },
+      {
+        "display_name": "Light Copper Metallic",
+        "paint_code": "PCP/732",
+        "slug": "light-copper-metallic-pcp732",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/light-copper-metallic-pcp732/",
+        "source_label": "PaintScratch 2019 Fiat",
+        "hex_value": "#E5BB6B"
+      },
+      {
+        "display_name": "Magnetic Bronze",
+        "paint_code": "PDF/RDF/201",
+        "slug": "magnetic-bronze-pdfrdf201",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/magnetic-bronze-pdfrdf201/",
+        "source_label": "PaintScratch 2019 Fiat",
+        "hex_value": "#3D3A15"
+      },
+      {
+        "display_name": "Sting Gray",
+        "paint_code": "PDN",
+        "slug": "sting-gray-pdn",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/sting-gray-pdn/",
+        "source_label": "PaintScratch 2019 Fiat",
+        "hex_value": "#242210"
+      },
+      {
+        "display_name": "Grigio Scuro Metallic",
+        "paint_code": "PDW/609",
+        "slug": "grigio-scuro-metallic-pdw609",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/grigio-scuro-metallic-pdw609/",
+        "source_label": "PaintScratch 2019 Fiat",
+        "hex_value": "#8E848D"
+      }
+    ],
+    "2020": [
+      {
+        "display_name": "Moda Gray Pearl Metallic",
+        "paint_code": "PA5/RA5/243B/42A",
+        "slug": "moda-gray-pearl-metallic-pa5ra5243b42a",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/moda-gray-pearl-metallic-pa5ra5243b42a/",
+        "source_label": "PaintScratch 2020 Fiat",
+        "hex_value": "#46442E"
+      },
+      {
+        "display_name": "Chiaro Silver Metallic",
+        "paint_code": "PSP/SSP/807",
+        "slug": "chiaro-silver-metallic-pspssp807",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/chiaro-silver-metallic-pspssp807/",
+        "source_label": "PaintScratch 2020 Fiat",
+        "hex_value": "#DEEBEC"
+      },
+      {
+        "display_name": "White",
+        "paint_code": "A4D",
+        "slug": "white-a4d",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/white-a4d/",
+        "source_label": "PaintScratch 2020 Fiat",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Grigio Chiaro Metallic",
+        "paint_code": "PAF/612",
+        "slug": "grigio-chiaro-metallic-paf612",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/grigio-chiaro-metallic-paf612/",
+        "source_label": "PaintScratch 2020 Fiat",
+        "hex_value": "#F4F3F2"
+      },
+      {
+        "display_name": "Blu Venezia Pearl",
+        "paint_code": "PB1/888",
+        "slug": "blu-venezia-pearl-pb1888",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/blu-venezia-pearl-pb1888/",
+        "source_label": "PaintScratch 2020 Fiat",
+        "hex_value": "#170650"
+      },
+      {
+        "display_name": "Blue Denim",
+        "paint_code": "PBD/652",
+        "slug": "blue-denim-pbd652",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/blue-denim-pbd652/",
+        "source_label": "PaintScratch 2020 Fiat",
+        "hex_value": "#3C407A"
+      },
+      {
+        "display_name": "Blue Tornado Metallic",
+        "paint_code": "PBR/530",
+        "slug": "blue-tornado-metallic-pbr530",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/blue-tornado-metallic-pbr530/",
+        "source_label": "PaintScratch 2020 Fiat",
+        "hex_value": "#1C248C"
+      },
+      {
+        "display_name": "Blue Sky Metallic",
+        "paint_code": "PCE/731",
+        "slug": "blue-sky-metallic-pce731",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/blue-sky-metallic-pce731/",
+        "source_label": "PaintScratch 2020 Fiat",
+        "hex_value": "#676985"
+      },
+      {
+        "display_name": "Magnetic Bronze",
+        "paint_code": "PDF/RDF/201",
+        "slug": "magnetic-bronze-pdfrdf201",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/magnetic-bronze-pdfrdf201/",
+        "source_label": "PaintScratch 2020 Fiat",
+        "hex_value": "#3D3A15"
+      },
+      {
+        "display_name": "Grigio Scuro Metallic",
+        "paint_code": "PDW/609",
+        "slug": "grigio-scuro-metallic-pdw609",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/grigio-scuro-metallic-pdw609/",
+        "source_label": "PaintScratch 2020 Fiat",
+        "hex_value": "#8E848D"
+      },
+      {
+        "display_name": "Mare Blue Pearl",
+        "paint_code": "PHB/SHB/816",
+        "slug": "mare-blue-pearl-phbshb816",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/mare-blue-pearl-phbshb816/",
+        "source_label": "PaintScratch 2020 Fiat",
+        "hex_value": "#202A32"
+      },
+      {
+        "display_name": "Hypnotique Red",
+        "paint_code": "PKM/RKM/162",
+        "slug": "hypnotique-red-pkmrkm162",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/hypnotique-red-pkmrkm162/",
+        "source_label": "PaintScratch 2020 Fiat",
+        "hex_value": "#F31515"
+      },
+      {
+        "display_name": "Arancio Spritz",
+        "paint_code": "PKP/562",
+        "slug": "arancio-spritz-pkp562",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/arancio-spritz-pkp562/",
+        "source_label": "PaintScratch 2020 Fiat",
+        "hex_value": "#C73007"
+      },
+      {
+        "display_name": "Rosso",
+        "paint_code": "PR1/111",
+        "slug": "rosso-pr1111",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/rosso-pr1111/",
+        "source_label": "PaintScratch 2020 Fiat",
+        "hex_value": "#B82630"
+      },
+      {
+        "display_name": "Rosso Amore Tricoat",
+        "paint_code": "PRB /942",
+        "slug": "rosso-amore-tricoat-prb-942",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/rosso-amore-tricoat-prb-942/",
+        "source_label": "PaintScratch 2020 Fiat",
+        "hex_value": "#D53A40"
+      },
+      {
+        "display_name": "Bronzo Donatello Metallic",
+        "paint_code": "PUB/639",
+        "slug": "bronzo-donatello-metallic-pub639",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/bronzo-donatello-metallic-pub639/",
+        "source_label": "PaintScratch 2020 Fiat",
+        "hex_value": "#A86318"
+      }
+    ],
+    "2021": [
+      {
+        "display_name": "Chiaro Silver Metallic",
+        "paint_code": "PSP/SSP/807",
+        "slug": "chiaro-silver-metallic-pspssp807",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/chiaro-silver-metallic-pspssp807/",
+        "source_label": "PaintScratch 2021 Fiat",
+        "hex_value": "#DEEBEC"
+      },
+      {
+        "display_name": "Moda Gray Pearl Metallic",
+        "paint_code": "PA5/243",
+        "slug": "moda-gray-pearl-metallic-pa5243",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/moda-gray-pearl-metallic-pa5243/",
+        "source_label": "PaintScratch 2021 Fiat",
+        "hex_value": "#46442E"
+      },
+      {
+        "display_name": "Grigio Chiaro Metallic",
+        "paint_code": "PAF/612",
+        "slug": "grigio-chiaro-metallic-paf612",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/grigio-chiaro-metallic-paf612/",
+        "source_label": "PaintScratch 2021 Fiat",
+        "hex_value": "#F4F3F2"
+      },
+      {
+        "display_name": "Blu Venezia Pearl",
+        "paint_code": "PB1/888",
+        "slug": "blu-venezia-pearl-pb1888",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/blu-venezia-pearl-pb1888/",
+        "source_label": "PaintScratch 2021 Fiat",
+        "hex_value": "#170650"
+      },
+      {
+        "display_name": "Blue Denim",
+        "paint_code": "PBD/652",
+        "slug": "blue-denim-pbd652",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/blue-denim-pbd652/",
+        "source_label": "PaintScratch 2021 Fiat",
+        "hex_value": "#3C407A"
+      },
+      {
+        "display_name": "Blue Tornado Metallic",
+        "paint_code": "PBR/530",
+        "slug": "blue-tornado-metallic-pbr530",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/blue-tornado-metallic-pbr530/",
+        "source_label": "PaintScratch 2021 Fiat",
+        "hex_value": "#1C248C"
+      },
+      {
+        "display_name": "Blue Sky Metallic",
+        "paint_code": "PCE/731",
+        "slug": "blue-sky-metallic-pce731",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/blue-sky-metallic-pce731/",
+        "source_label": "PaintScratch 2021 Fiat",
+        "hex_value": "#676985"
+      },
+      {
+        "display_name": "Grigio Scuro Metallic",
+        "paint_code": "PDW/609",
+        "slug": "grigio-scuro-metallic-pdw609",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/grigio-scuro-metallic-pdw609/",
+        "source_label": "PaintScratch 2021 Fiat",
+        "hex_value": "#8E848D"
+      },
+      {
+        "display_name": "Mare Blue Pearl",
+        "paint_code": "PHB/SHB/816",
+        "slug": "mare-blue-pearl-phbshb816",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/mare-blue-pearl-phbshb816/",
+        "source_label": "PaintScratch 2021 Fiat",
+        "hex_value": "#202A32"
+      },
+      {
+        "display_name": "Hypnotique Red",
+        "paint_code": "PKM/RKM/162",
+        "slug": "hypnotique-red-pkmrkm162",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/hypnotique-red-pkmrkm162/",
+        "source_label": "PaintScratch 2021 Fiat",
+        "hex_value": "#F31515"
+      },
+      {
+        "display_name": "Rosso",
+        "paint_code": "PR1/111",
+        "slug": "rosso-pr1111",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/rosso-pr1111/",
+        "source_label": "PaintScratch 2021 Fiat",
+        "hex_value": "#B82630"
+      },
+      {
+        "display_name": "Bronzo Donatello Metallic",
+        "paint_code": "PUB/639",
+        "slug": "bronzo-donatello-metallic-pub639",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/bronzo-donatello-metallic-pub639/",
+        "source_label": "PaintScratch 2021 Fiat",
+        "hex_value": "#A86318"
+      },
+      {
+        "display_name": "White",
+        "paint_code": "PW3/KW3",
+        "slug": "white-pw3kw3",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/white-pw3kw3/",
+        "source_label": "PaintScratch 2021 Fiat",
+        "hex_value": "#FBFBF9"
+      },
+      {
+        "display_name": "Brilliante White",
+        "paint_code": "PWE/RWE/163",
+        "slug": "brilliante-white-pwerwe163",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/brilliante-white-pwerwe163/",
+        "source_label": "PaintScratch 2021 Fiat",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Bianco Divino",
+        "paint_code": "PWV/296",
+        "slug": "bianco-divino-pwv296",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/bianco-divino-pwv296/",
+        "source_label": "PaintScratch 2021 Fiat",
+        "hex_value": "#CED7D2"
+      },
+      {
+        "display_name": "Puro White Tricoat",
+        "paint_code": "PWW",
+        "slug": "puro-white-tricoat-pww",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/puro-white-tricoat-pww/",
+        "source_label": "PaintScratch 2021 Fiat",
+        "hex_value": "#FFFFFF"
+      }
+    ],
+    "2022": [
+      {
+        "display_name": "Grigio Argento",
+        "paint_code": "348/PSN",
+        "slug": "grigio-argento-348psn",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/grigio-argento-348psn/",
+        "source_label": "PaintScratch 2022 Fiat",
+        "hex_value": "#9FAEC1"
+      },
+      {
+        "display_name": "Blue Italia Metallic",
+        "paint_code": "018/PBG",
+        "slug": "blue-italia-metallic-018pbg",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/blue-italia-metallic-018pbg/",
+        "source_label": "PaintScratch 2022 Fiat",
+        "hex_value": "#2991AF"
+      },
+      {
+        "display_name": "Techno Green Metallic",
+        "paint_code": "019/PGT",
+        "slug": "techno-green-metallic-019pgt",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/techno-green-metallic-019pgt/",
+        "source_label": "PaintScratch 2022 Fiat",
+        "hex_value": "#64813B"
+      },
+      {
+        "display_name": "Pearl White Tricoat",
+        "paint_code": "020/PWH/KWH",
+        "slug": "pearl-white-tricoat-020pwhkwh",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/pearl-white-tricoat-020pwhkwh/",
+        "source_label": "PaintScratch 2022 Fiat",
+        "hex_value": "#FEFEF2"
+      },
+      {
+        "display_name": "Verde Alpa Metallic",
+        "paint_code": "149",
+        "slug": "verde-alpa-metallic-149",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/verde-alpa-metallic-149/",
+        "source_label": "PaintScratch 2022 Fiat",
+        "hex_value": "#5B6E40"
+      },
+      {
+        "display_name": "Rosso Passionale",
+        "paint_code": "176/PRX/NRX",
+        "slug": "rosso-passionale-176prxnrx",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/rosso-passionale-176prxnrx/",
+        "source_label": "PaintScratch 2022 Fiat",
+        "hex_value": "#E70510"
+      },
+      {
+        "display_name": "Mochalatte",
+        "paint_code": "231/PTA",
+        "slug": "mochalatte-231pta",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/mochalatte-231pta/",
+        "source_label": "PaintScratch 2022 Fiat",
+        "hex_value": "#BEB9A6"
+      },
+      {
+        "display_name": "Rosso Italia",
+        "paint_code": "289",
+        "slug": "rosso-italia-289",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/rosso-italia-289/",
+        "source_label": "PaintScratch 2022 Fiat",
+        "hex_value": "#BF2107"
+      },
+      {
+        "display_name": "Bianco Gelato",
+        "paint_code": "296/PWV",
+        "slug": "bianco-gelato-296pwv",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/bianco-gelato-296pwv/",
+        "source_label": "PaintScratch 2022 Fiat",
+        "hex_value": "#CED7D2"
+      },
+      {
+        "display_name": "Arancio Spritz",
+        "paint_code": "562/PKP",
+        "slug": "arancio-spritz-562pkp",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/arancio-spritz-562pkp/",
+        "source_label": "PaintScratch 2022 Fiat",
+        "hex_value": "#C73007"
+      },
+      {
+        "display_name": "Nero",
+        "paint_code": "601/PX8",
+        "slug": "nero-601px8",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/nero-601px8/",
+        "source_label": "PaintScratch 2022 Fiat",
+        "hex_value": "#070707"
+      },
+      {
+        "display_name": "Grigio Moda Metallic",
+        "paint_code": "679",
+        "slug": "grigio-moda-metallic-679",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/grigio-moda-metallic-679/",
+        "source_label": "PaintScratch 2022 Fiat",
+        "hex_value": "#756E63"
+      },
+      {
+        "display_name": "Blue Sky Metallic",
+        "paint_code": "731/PCE",
+        "slug": "blue-sky-metallic-731pce",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/blue-sky-metallic-731pce/",
+        "source_label": "PaintScratch 2022 Fiat",
+        "hex_value": "#7D8F9F"
+      },
+      {
+        "display_name": "Blu Venezia Pearl",
+        "paint_code": "888/PB1",
+        "slug": "blu-venezia-pearl-888pb1",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/blu-venezia-pearl-888pb1/",
+        "source_label": "PaintScratch 2022 Fiat",
+        "hex_value": "#170650"
+      },
+      {
+        "display_name": "Rosso Lipstick Tricoat",
+        "paint_code": "942/PR5",
+        "slug": "rosso-lipstick-tricoat-942pr5",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/rosso-lipstick-tricoat-942pr5/",
+        "source_label": "PaintScratch 2022 Fiat",
+        "hex_value": "#AA0C04"
+      },
+      {
+        "display_name": "Blue Jeans Metallic",
+        "paint_code": "994",
+        "slug": "blue-jeans-metallic-994",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/blue-jeans-metallic-994/",
+        "source_label": "PaintScratch 2022 Fiat",
+        "hex_value": "#9CAFB4"
+      }
+    ],
+    "2023": [
+      {
+        "display_name": "Grigio Argento",
+        "paint_code": "348/PSN",
+        "slug": "grigio-argento-348psn",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/grigio-argento-348psn/",
+        "source_label": "PaintScratch 2023 Fiat",
+        "hex_value": "#9FAEC1"
+      },
+      {
+        "display_name": "Blue Italia Metallic",
+        "paint_code": "018/PBG",
+        "slug": "blue-italia-metallic-018pbg",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/blue-italia-metallic-018pbg/",
+        "source_label": "PaintScratch 2023 Fiat",
+        "hex_value": "#2991AF"
+      },
+      {
+        "display_name": "Techno Green Metallic",
+        "paint_code": "019/PGT",
+        "slug": "techno-green-metallic-019pgt",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/techno-green-metallic-019pgt/",
+        "source_label": "PaintScratch 2023 Fiat",
+        "hex_value": "#64813B"
+      },
+      {
+        "display_name": "Pearl White Tricoat",
+        "paint_code": "020/PWH/KWH",
+        "slug": "pearl-white-tricoat-020pwhkwh",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/pearl-white-tricoat-020pwhkwh/",
+        "source_label": "PaintScratch 2023 Fiat",
+        "hex_value": "#FEFEF2"
+      },
+      {
+        "display_name": "Verde Alpa Metallic",
+        "paint_code": "149",
+        "slug": "verde-alpa-metallic-149",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/verde-alpa-metallic-149/",
+        "source_label": "PaintScratch 2023 Fiat",
+        "hex_value": "#5B6E40"
+      },
+      {
+        "display_name": "Rosso Passionale",
+        "paint_code": "176/PRX/NRX",
+        "slug": "rosso-passionale-176prxnrx",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/rosso-passionale-176prxnrx/",
+        "source_label": "PaintScratch 2023 Fiat",
+        "hex_value": "#E70510"
+      },
+      {
+        "display_name": "Mochalatte",
+        "paint_code": "231/PTA",
+        "slug": "mochalatte-231pta",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/mochalatte-231pta/",
+        "source_label": "PaintScratch 2023 Fiat",
+        "hex_value": "#BEB9A6"
+      },
+      {
+        "display_name": "Rosso Italia",
+        "paint_code": "289",
+        "slug": "rosso-italia-289",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/rosso-italia-289/",
+        "source_label": "PaintScratch 2023 Fiat",
+        "hex_value": "#BF2107"
+      },
+      {
+        "display_name": "Bianco Gelato",
+        "paint_code": "296/PWV",
+        "slug": "bianco-gelato-296pwv",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/bianco-gelato-296pwv/",
+        "source_label": "PaintScratch 2023 Fiat",
+        "hex_value": "#CED7D2"
+      },
+      {
+        "display_name": "Arancio Spritz",
+        "paint_code": "562/PKP",
+        "slug": "arancio-spritz-562pkp",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/arancio-spritz-562pkp/",
+        "source_label": "PaintScratch 2023 Fiat",
+        "hex_value": "#C73007"
+      },
+      {
+        "display_name": "Nero",
+        "paint_code": "601/PX8",
+        "slug": "nero-601px8",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/nero-601px8/",
+        "source_label": "PaintScratch 2023 Fiat",
+        "hex_value": "#070707"
+      },
+      {
+        "display_name": "Grigio Moda Metallic",
+        "paint_code": "679",
+        "slug": "grigio-moda-metallic-679",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/grigio-moda-metallic-679/",
+        "source_label": "PaintScratch 2023 Fiat",
+        "hex_value": "#756E63"
+      },
+      {
+        "display_name": "Blue Sky Metallic",
+        "paint_code": "731/PCE",
+        "slug": "blue-sky-metallic-731pce",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/blue-sky-metallic-731pce/",
+        "source_label": "PaintScratch 2023 Fiat",
+        "hex_value": "#7D8F9F"
+      },
+      {
+        "display_name": "Blu Venezia Pearl",
+        "paint_code": "888/PB1",
+        "slug": "blu-venezia-pearl-888pb1",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/blu-venezia-pearl-888pb1/",
+        "source_label": "PaintScratch 2023 Fiat",
+        "hex_value": "#170650"
+      },
+      {
+        "display_name": "Rosso Lipstick Tricoat",
+        "paint_code": "942/PR5",
+        "slug": "rosso-lipstick-tricoat-942pr5",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/rosso-lipstick-tricoat-942pr5/",
+        "source_label": "PaintScratch 2023 Fiat",
+        "hex_value": "#AA0C04"
+      },
+      {
+        "display_name": "Blue Jeans Metallic",
+        "paint_code": "994",
+        "slug": "blue-jeans-metallic-994",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/blue-jeans-metallic-994/",
+        "source_label": "PaintScratch 2023 Fiat",
+        "hex_value": "#9CAFB4"
+      }
+    ],
+    "2024": [
+      {
+        "display_name": "Rosso",
+        "paint_code": "111/PR1",
+        "slug": "rosso-111pr1",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/rosso-111pr1/",
+        "source_label": "PaintScratch 2024 Fiat",
+        "hex_value": "#B82630"
+      },
+      {
+        "display_name": "Rose Gold",
+        "paint_code": "237",
+        "slug": "rose-gold-237",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/rose-gold-237/",
+        "source_label": "PaintScratch 2024 Fiat",
+        "hex_value": "#C6B6C4"
+      },
+      {
+        "display_name": "Bottle Green",
+        "paint_code": "317",
+        "slug": "bottle-green-317",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/bottle-green-317/",
+        "source_label": "PaintScratch 2024 Fiat",
+        "hex_value": "#43783E"
+      },
+      {
+        "display_name": "Granite Crystal",
+        "paint_code": "14/LAU",
+        "slug": "granite-crystal-14lau",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/granite-crystal-14lau/",
+        "source_label": "PaintScratch 2024 Fiat",
+        "hex_value": "#40332E"
+      },
+      {
+        "display_name": "Billet Silver",
+        "paint_code": "15/JSC",
+        "slug": "billet-silver-15jsc",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/billet-silver-15jsc/",
+        "source_label": "PaintScratch 2024 Fiat",
+        "hex_value": "#73797D"
+      },
+      {
+        "display_name": "Blue Italy",
+        "paint_code": "018",
+        "slug": "blue-italy-018",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/blue-italy-018/",
+        "source_label": "PaintScratch 2024 Fiat",
+        "hex_value": "#2991AF"
+      },
+      {
+        "display_name": "Copper (Rame)",
+        "paint_code": "170",
+        "slug": "copper-rame-170",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/copper-rame-170/",
+        "source_label": "PaintScratch 2024 Fiat",
+        "hex_value": "#AE7E5A"
+      },
+      {
+        "display_name": "Rosso Passionale",
+        "paint_code": "176/PRX/NRX",
+        "slug": "rosso-passionale-176prxnrx",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/rosso-passionale-176prxnrx/",
+        "source_label": "PaintScratch 2024 Fiat",
+        "hex_value": "#E70510"
+      },
+      {
+        "display_name": "Dew",
+        "paint_code": "196",
+        "slug": "dew-196",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/dew-196/",
+        "source_label": "PaintScratch 2024 Fiat",
+        "hex_value": "#99A5A4"
+      },
+      {
+        "display_name": "Ocean Green",
+        "paint_code": "230",
+        "slug": "ocean-green-230",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/ocean-green-230/",
+        "source_label": "PaintScratch 2024 Fiat",
+        "hex_value": "#2C4148"
+      },
+      {
+        "display_name": "Bianco",
+        "paint_code": "268",
+        "slug": "bianco-268",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/bianco-268/",
+        "source_label": "PaintScratch 2024 Fiat",
+        "hex_value": "#FAF8F0"
+      },
+      {
+        "display_name": "Celestial Blue Tricoat",
+        "paint_code": "278",
+        "slug": "celestial-blue-tricoat-278",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/celestial-blue-tricoat-278/",
+        "source_label": "PaintScratch 2024 Fiat",
+        "hex_value": "#8D9A9E"
+      },
+      {
+        "display_name": "Rosso Italia",
+        "paint_code": "289",
+        "slug": "rosso-italia-289",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/rosso-italia-289/",
+        "source_label": "PaintScratch 2024 Fiat",
+        "hex_value": "#BF2107"
+      },
+      {
+        "display_name": "Bianco Divino",
+        "paint_code": "296",
+        "slug": "bianco-divino-296",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/bianco-divino-296/",
+        "source_label": "PaintScratch 2024 Fiat",
+        "hex_value": "#F4F5F6"
+      },
+      {
+        "display_name": "Giallo Birichino",
+        "paint_code": "509",
+        "slug": "giallo-birichino-509",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/giallo-birichino-509/",
+        "source_label": "PaintScratch 2024 Fiat",
+        "hex_value": "#DFC14B"
+      },
+      {
+        "display_name": "Sicilia Orange",
+        "paint_code": "562/NKP",
+        "slug": "sicilia-orange-562nkp",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/sicilia-orange-562nkp/",
+        "source_label": "PaintScratch 2024 Fiat",
+        "hex_value": "#BA5B36"
+      }
+    ],
+    "2025": [
+      {
+        "display_name": "Rosso",
+        "paint_code": "111/PR1",
+        "slug": "rosso-111pr1",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/rosso-111pr1/",
+        "source_label": "PaintScratch 2025 Fiat",
+        "hex_value": "#B82630"
+      },
+      {
+        "display_name": "Rose Gold",
+        "paint_code": "237",
+        "slug": "rose-gold-237",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/rose-gold-237/",
+        "source_label": "PaintScratch 2025 Fiat",
+        "hex_value": "#C6B6C4"
+      },
+      {
+        "display_name": "Bottle Green",
+        "paint_code": "317",
+        "slug": "bottle-green-317",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/bottle-green-317/",
+        "source_label": "PaintScratch 2025 Fiat",
+        "hex_value": "#43783E"
+      },
+      {
+        "display_name": "Granite Crystal",
+        "paint_code": "14/LAU",
+        "slug": "granite-crystal-14lau",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/granite-crystal-14lau/",
+        "source_label": "PaintScratch 2025 Fiat",
+        "hex_value": "#40332E"
+      },
+      {
+        "display_name": "Billet Silver",
+        "paint_code": "15/JSC",
+        "slug": "billet-silver-15jsc",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/billet-silver-15jsc/",
+        "source_label": "PaintScratch 2025 Fiat",
+        "hex_value": "#73797D"
+      },
+      {
+        "display_name": "Blue Italy",
+        "paint_code": "018",
+        "slug": "blue-italy-018",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/blue-italy-018/",
+        "source_label": "PaintScratch 2025 Fiat",
+        "hex_value": "#2991AF"
+      },
+      {
+        "display_name": "Copper (Rame)",
+        "paint_code": "170",
+        "slug": "copper-rame-170",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/copper-rame-170/",
+        "source_label": "PaintScratch 2025 Fiat",
+        "hex_value": "#AE7E5A"
+      },
+      {
+        "display_name": "Rosso Passionale",
+        "paint_code": "176/PRX/NRX",
+        "slug": "rosso-passionale-176prxnrx",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/rosso-passionale-176prxnrx/",
+        "source_label": "PaintScratch 2025 Fiat",
+        "hex_value": "#E70510"
+      },
+      {
+        "display_name": "Dew",
+        "paint_code": "196",
+        "slug": "dew-196",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/dew-196/",
+        "source_label": "PaintScratch 2025 Fiat",
+        "hex_value": "#99A5A4"
+      },
+      {
+        "display_name": "Ocean Green",
+        "paint_code": "230",
+        "slug": "ocean-green-230",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/ocean-green-230/",
+        "source_label": "PaintScratch 2025 Fiat",
+        "hex_value": "#2C4148"
+      },
+      {
+        "display_name": "Bianco",
+        "paint_code": "268",
+        "slug": "bianco-268",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/bianco-268/",
+        "source_label": "PaintScratch 2025 Fiat",
+        "hex_value": "#FAF8F0"
+      },
+      {
+        "display_name": "Celestial Blue Tricoat",
+        "paint_code": "278",
+        "slug": "celestial-blue-tricoat-278",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/celestial-blue-tricoat-278/",
+        "source_label": "PaintScratch 2025 Fiat",
+        "hex_value": "#8D9A9E"
+      },
+      {
+        "display_name": "Rosso Italia",
+        "paint_code": "289",
+        "slug": "rosso-italia-289",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/rosso-italia-289/",
+        "source_label": "PaintScratch 2025 Fiat",
+        "hex_value": "#BF2107"
+      },
+      {
+        "display_name": "Bianco Divino",
+        "paint_code": "296",
+        "slug": "bianco-divino-296",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/bianco-divino-296/",
+        "source_label": "PaintScratch 2025 Fiat",
+        "hex_value": "#F4F5F6"
+      },
+      {
+        "display_name": "Giallo Birichino",
+        "paint_code": "509",
+        "slug": "giallo-birichino-509",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/giallo-birichino-509/",
+        "source_label": "PaintScratch 2025 Fiat",
+        "hex_value": "#DFC14B"
+      },
+      {
+        "display_name": "Sicilia Orange",
+        "paint_code": "562/NKP",
+        "slug": "sicilia-orange-562nkp",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/sicilia-orange-562nkp/",
+        "source_label": "PaintScratch 2025 Fiat",
+        "hex_value": "#BA5B36"
+      }
+    ],
+    "2026": [
+      {
+        "display_name": "Bianco Ducato",
+        "paint_code": "14",
+        "slug": "bianco-ducato-14",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/bianco-ducato-14/",
+        "source_label": "PaintScratch 2026 Fiat",
+        "hex_value": "#C8CBC9"
+      },
+      {
+        "display_name": "Silvertone Grey",
+        "paint_code": "20",
+        "slug": "silvertone-grey-20",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/silvertone-grey-20/",
+        "source_label": "PaintScratch 2026 Fiat",
+        "hex_value": "#303030"
+      },
+      {
+        "display_name": "Cinza Strato",
+        "paint_code": "22",
+        "slug": "cinza-strato-22",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/cinza-strato-22/",
+        "source_label": "PaintScratch 2026 Fiat",
+        "hex_value": "#707577"
+      },
+      {
+        "display_name": "Sun of Italy",
+        "paint_code": "25",
+        "slug": "sun-of-italy-25",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/sun-of-italy-25/",
+        "source_label": "PaintScratch 2026 Fiat",
+        "hex_value": "#A07400"
+      },
+      {
+        "display_name": "Branco Banchisa",
+        "paint_code": "249",
+        "slug": "branco-banchisa-249",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/branco-banchisa-249/",
+        "source_label": "PaintScratch 2026 Fiat",
+        "hex_value": "#DDDDD1"
+      },
+      {
+        "display_name": "Prata Bari",
+        "paint_code": "619",
+        "slug": "prata-bari-619",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/prata-bari-619/",
+        "source_label": "PaintScratch 2026 Fiat",
+        "hex_value": "#808585"
+      },
+      {
+        "display_name": "Preto Vulcano",
+        "paint_code": "806",
+        "slug": "preto-vulcano-806",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/preto-vulcano-806/",
+        "source_label": "PaintScratch 2026 Fiat",
+        "hex_value": "#060607"
+      },
+      {
+        "display_name": "Vermelho Montecarlo",
+        "paint_code": "978",
+        "slug": "vermelho-montecarlo-978",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/vermelho-montecarlo-978/",
+        "source_label": "PaintScratch 2026 Fiat",
+        "hex_value": "#A5000B"
+      },
+      {
+        "display_name": "Nero",
+        "paint_code": "FI632",
+        "slug": "nero-fi632",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/nero-fi632/",
+        "source_label": "PaintScratch 2026 Fiat",
+        "hex_value": "#101112"
+      },
+      {
+        "display_name": "Grigio Cenere",
+        "paint_code": "FI676",
+        "slug": "grigio-cenere-fi676",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/grigio-cenere-fi676/",
+        "source_label": "PaintScratch 2026 Fiat",
+        "hex_value": "#989D9B"
+      },
+      {
+        "display_name": "Back to Rome Yellow",
+        "paint_code": "FI863",
+        "slug": "back-to-rome-yellow-fi863",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/back-to-rome-yellow-fi863/",
+        "source_label": "PaintScratch 2026 Fiat",
+        "hex_value": "#926E3B"
+      },
+      {
+        "display_name": "Acid Green",
+        "paint_code": "FI878",
+        "slug": "acid-green-fi878",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/acid-green-fi878/",
+        "source_label": "PaintScratch 2026 Fiat",
+        "hex_value": "#C7C32A"
+      },
+      {
+        "display_name": "Gelato Weiss",
+        "paint_code": "FIEPR",
+        "slug": "gelato-weiss-fiepr",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/gelato-weiss-fiepr/",
+        "source_label": "PaintScratch 2026 Fiat",
+        "hex_value": "#C8CBCA"
+      },
+      {
+        "display_name": "Vert Sirkka",
+        "paint_code": "FIKNQ",
+        "slug": "vert-sirkka-fiknq",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/vert-sirkka-fiknq/",
+        "source_label": "PaintScratch 2026 Fiat",
+        "hex_value": "#1B1E14"
+      },
+      {
+        "display_name": "Nera Black",
+        "paint_code": "FIKTV",
+        "slug": "nera-black-fiktv",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/nera-black-fiktv/",
+        "source_label": "PaintScratch 2026 Fiat",
+        "hex_value": "#040506"
+      },
+      {
+        "display_name": "Jazz Blue",
+        "paint_code": "KBX",
+        "slug": "jazz-blue-kbx",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/jazz-blue-kbx/",
+        "source_label": "PaintScratch 2026 Fiat",
+        "hex_value": "#040A17"
+      }
+    ],
+    "2027": [
+      {
+        "display_name": "Bianco Ducato",
+        "paint_code": "14",
+        "slug": "bianco-ducato-14",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/bianco-ducato-14/",
+        "source_label": "PaintScratch 2027 Fiat",
+        "hex_value": "#C8CBC9"
+      },
+      {
+        "display_name": "Silvertone Grey",
+        "paint_code": "20",
+        "slug": "silvertone-grey-20",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/silvertone-grey-20/",
+        "source_label": "PaintScratch 2027 Fiat",
+        "hex_value": "#303030"
+      },
+      {
+        "display_name": "Cinza Strato",
+        "paint_code": "22",
+        "slug": "cinza-strato-22",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/cinza-strato-22/",
+        "source_label": "PaintScratch 2027 Fiat",
+        "hex_value": "#707577"
+      },
+      {
+        "display_name": "Sun of Italy",
+        "paint_code": "25",
+        "slug": "sun-of-italy-25",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/sun-of-italy-25/",
+        "source_label": "PaintScratch 2027 Fiat",
+        "hex_value": "#A07400"
+      },
+      {
+        "display_name": "Branco Banchisa",
+        "paint_code": "249",
+        "slug": "branco-banchisa-249",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/branco-banchisa-249/",
+        "source_label": "PaintScratch 2027 Fiat",
+        "hex_value": "#DDDDD1"
+      },
+      {
+        "display_name": "Prata Bari",
+        "paint_code": "619",
+        "slug": "prata-bari-619",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/prata-bari-619/",
+        "source_label": "PaintScratch 2027 Fiat",
+        "hex_value": "#808585"
+      },
+      {
+        "display_name": "Preto Vulcano",
+        "paint_code": "806",
+        "slug": "preto-vulcano-806",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/preto-vulcano-806/",
+        "source_label": "PaintScratch 2027 Fiat",
+        "hex_value": "#060607"
+      },
+      {
+        "display_name": "Vermelho Montecarlo",
+        "paint_code": "978",
+        "slug": "vermelho-montecarlo-978",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/vermelho-montecarlo-978/",
+        "source_label": "PaintScratch 2027 Fiat",
+        "hex_value": "#A5000B"
+      },
+      {
+        "display_name": "Nero",
+        "paint_code": "FI632",
+        "slug": "nero-fi632",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/nero-fi632/",
+        "source_label": "PaintScratch 2027 Fiat",
+        "hex_value": "#101112"
+      },
+      {
+        "display_name": "Grigio Cenere",
+        "paint_code": "FI676",
+        "slug": "grigio-cenere-fi676",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/grigio-cenere-fi676/",
+        "source_label": "PaintScratch 2027 Fiat",
+        "hex_value": "#989D9B"
+      },
+      {
+        "display_name": "Back to Rome Yellow",
+        "paint_code": "FI863",
+        "slug": "back-to-rome-yellow-fi863",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/back-to-rome-yellow-fi863/",
+        "source_label": "PaintScratch 2027 Fiat",
+        "hex_value": "#926E3B"
+      },
+      {
+        "display_name": "Acid Green",
+        "paint_code": "FI878",
+        "slug": "acid-green-fi878",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/acid-green-fi878/",
+        "source_label": "PaintScratch 2027 Fiat",
+        "hex_value": "#C7C32A"
+      },
+      {
+        "display_name": "Gelato Weiss",
+        "paint_code": "FIEPR",
+        "slug": "gelato-weiss-fiepr",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/gelato-weiss-fiepr/",
+        "source_label": "PaintScratch 2027 Fiat",
+        "hex_value": "#C8CBCA"
+      },
+      {
+        "display_name": "Vert Sirkka",
+        "paint_code": "FIKNQ",
+        "slug": "vert-sirkka-fiknq",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/vert-sirkka-fiknq/",
+        "source_label": "PaintScratch 2027 Fiat",
+        "hex_value": "#1B1E14"
+      },
+      {
+        "display_name": "Nera Black",
+        "paint_code": "FIKTV",
+        "slug": "nera-black-fiktv",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/nera-black-fiktv/",
+        "source_label": "PaintScratch 2027 Fiat",
+        "hex_value": "#040506"
+      },
+      {
+        "display_name": "Jazz Blue",
+        "paint_code": "KBX",
+        "slug": "jazz-blue-kbx",
+        "reference_url": "https://www.paintscratch.com/colors/fiat/jazz-blue-kbx/",
+        "source_label": "PaintScratch 2027 Fiat",
+        "hex_value": "#040A17"
+      }
+    ]
+  }
+}

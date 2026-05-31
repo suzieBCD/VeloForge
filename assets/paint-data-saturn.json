@@ -1,0 +1,2332 @@
+{
+  "All Models": {
+    "1991": [
+      {
+        "display_name": "Dark Blue Green Metallic",
+        "paint_code": "39/WA9560",
+        "slug": "dark-blue-green-metallic-39wa9560",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/dark-blue-green-metallic-39wa9560/",
+        "source_label": "PaintScratch 1991 Saturn",
+        "hex_value": "#248453"
+      },
+      {
+        "display_name": "Bright Silver Metallic",
+        "paint_code": "13/WA9566",
+        "slug": "bright-silver-metallic-13wa9566",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/bright-silver-metallic-13wa9566/",
+        "source_label": "PaintScratch 1991 Saturn",
+        "hex_value": "#B4B6B8"
+      },
+      {
+        "display_name": "White",
+        "paint_code": "40/WA9563",
+        "slug": "white-40wa9563",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/white-40wa9563/",
+        "source_label": "PaintScratch 1991 Saturn",
+        "hex_value": "#F1FFF0"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "41/WA8555",
+        "slug": "black-41wa8555",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/black-41wa8555/",
+        "source_label": "PaintScratch 1991 Saturn",
+        "hex_value": "#1B141C"
+      },
+      {
+        "display_name": "Medium Gray Metallic",
+        "paint_code": "15/WA9561",
+        "slug": "medium-gray-metallic-15wa9561",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/medium-gray-metallic-15wa9561/",
+        "source_label": "PaintScratch 1991 Saturn",
+        "hex_value": "#ACA092"
+      },
+      {
+        "display_name": "Saturn Blue Metallic",
+        "paint_code": "20/WA9557",
+        "slug": "saturn-blue-metallic-20wa9557",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/saturn-blue-metallic-20wa9557/",
+        "source_label": "PaintScratch 1991 Saturn",
+        "hex_value": "#658E9B"
+      },
+      {
+        "display_name": "Bright Blue Metallic",
+        "paint_code": "24/WA9564",
+        "slug": "bright-blue-metallic-24wa9564",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/bright-blue-metallic-24wa9564/",
+        "source_label": "PaintScratch 1991 Saturn",
+        "hex_value": "#2ACCB7"
+      },
+      {
+        "display_name": "Black Sapphire Metallic",
+        "paint_code": "28/WA9559",
+        "slug": "black-sapphire-metallic-28wa9559",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/black-sapphire-metallic-28wa9559/",
+        "source_label": "PaintScratch 1991 Saturn",
+        "hex_value": "#18151C"
+      },
+      {
+        "display_name": "Light Blue Metallic",
+        "paint_code": "49/WA9558",
+        "slug": "light-blue-metallic-49wa9558",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/light-blue-metallic-49wa9558/",
+        "source_label": "PaintScratch 1991 Saturn",
+        "hex_value": "#BDD4DB"
+      },
+      {
+        "display_name": "Dark Antelope Metallic",
+        "paint_code": "51/WA9555",
+        "slug": "dark-antelope-metallic-51wa9555",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/dark-antelope-metallic-51wa9555/",
+        "source_label": "PaintScratch 1991 Saturn",
+        "hex_value": "#DAC8B0"
+      },
+      {
+        "display_name": "Red Metallic",
+        "paint_code": "75/WA9554",
+        "slug": "red-metallic-75wa9554",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/red-metallic-75wa9554/",
+        "source_label": "PaintScratch 1991 Saturn",
+        "hex_value": "#891B1B"
+      },
+      {
+        "display_name": "Bright Red",
+        "paint_code": "81/WA9652",
+        "slug": "bright-red-81wa9652",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/bright-red-81wa9652/",
+        "source_label": "PaintScratch 1991 Saturn",
+        "hex_value": "#BE3232"
+      }
+    ],
+    "1992": [
+      {
+        "display_name": "Dark Blue Green Metallic",
+        "paint_code": "39/WA9560",
+        "slug": "dark-blue-green-metallic-39wa9560",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/dark-blue-green-metallic-39wa9560/",
+        "source_label": "PaintScratch 1992 Saturn",
+        "hex_value": "#248453"
+      },
+      {
+        "display_name": "Bright Silver Metallic",
+        "paint_code": "13/WA9566",
+        "slug": "bright-silver-metallic-13wa9566",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/bright-silver-metallic-13wa9566/",
+        "source_label": "PaintScratch 1992 Saturn",
+        "hex_value": "#B4B6B8"
+      },
+      {
+        "display_name": "Aquamarine Metallic",
+        "paint_code": "25/WA9998",
+        "slug": "aquamarine-metallic-25wa9998",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/aquamarine-metallic-25wa9998/",
+        "source_label": "PaintScratch 1992 Saturn",
+        "hex_value": "#35957D"
+      },
+      {
+        "display_name": "White",
+        "paint_code": "40/WA9563",
+        "slug": "white-40wa9563",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/white-40wa9563/",
+        "source_label": "PaintScratch 1992 Saturn",
+        "hex_value": "#F1FFF0"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "41/WA8555",
+        "slug": "black-41wa8555",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/black-41wa8555/",
+        "source_label": "PaintScratch 1992 Saturn",
+        "hex_value": "#1B141C"
+      },
+      {
+        "display_name": "Medium Gray Metallic",
+        "paint_code": "15/WA9561",
+        "slug": "medium-gray-metallic-15wa9561",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/medium-gray-metallic-15wa9561/",
+        "source_label": "PaintScratch 1992 Saturn",
+        "hex_value": "#ACA092"
+      },
+      {
+        "display_name": "Saturn Blue Metallic",
+        "paint_code": "20/WA9557",
+        "slug": "saturn-blue-metallic-20wa9557",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/saturn-blue-metallic-20wa9557/",
+        "source_label": "PaintScratch 1992 Saturn",
+        "hex_value": "#658E9B"
+      },
+      {
+        "display_name": "Bright Blue Metallic",
+        "paint_code": "24/WA9564",
+        "slug": "bright-blue-metallic-24wa9564",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/bright-blue-metallic-24wa9564/",
+        "source_label": "PaintScratch 1992 Saturn",
+        "hex_value": "#2ACCB7"
+      },
+      {
+        "display_name": "Black Sapphire Metallic",
+        "paint_code": "28/WA9559",
+        "slug": "black-sapphire-metallic-28wa9559",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/black-sapphire-metallic-28wa9559/",
+        "source_label": "PaintScratch 1992 Saturn",
+        "hex_value": "#18151C"
+      },
+      {
+        "display_name": "Light Blue Metallic",
+        "paint_code": "49/WA9558",
+        "slug": "light-blue-metallic-49wa9558",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/light-blue-metallic-49wa9558/",
+        "source_label": "PaintScratch 1992 Saturn",
+        "hex_value": "#BDD4DB"
+      },
+      {
+        "display_name": "Dark Antelope Metallic",
+        "paint_code": "51/WA9555",
+        "slug": "dark-antelope-metallic-51wa9555",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/dark-antelope-metallic-51wa9555/",
+        "source_label": "PaintScratch 1992 Saturn",
+        "hex_value": "#DAC8B0"
+      },
+      {
+        "display_name": "Red Metallic",
+        "paint_code": "75/WA9554",
+        "slug": "red-metallic-75wa9554",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/red-metallic-75wa9554/",
+        "source_label": "PaintScratch 1992 Saturn",
+        "hex_value": "#891B1B"
+      },
+      {
+        "display_name": "Bright Red",
+        "paint_code": "81/WA9652",
+        "slug": "bright-red-81wa9652",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/bright-red-81wa9652/",
+        "source_label": "PaintScratch 1992 Saturn",
+        "hex_value": "#BE3232"
+      }
+    ],
+    "1993": [
+      {
+        "display_name": "Dark Blue Green Metallic",
+        "paint_code": "39/WA9560",
+        "slug": "dark-blue-green-metallic-39wa9560",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/dark-blue-green-metallic-39wa9560/",
+        "source_label": "PaintScratch 1993 Saturn",
+        "hex_value": "#248453"
+      },
+      {
+        "display_name": "Bright Silver Metallic",
+        "paint_code": "13/WA9566",
+        "slug": "bright-silver-metallic-13wa9566",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/bright-silver-metallic-13wa9566/",
+        "source_label": "PaintScratch 1993 Saturn",
+        "hex_value": "#B4B6B8"
+      },
+      {
+        "display_name": "Aquamarine Metallic",
+        "paint_code": "25/WA9998",
+        "slug": "aquamarine-metallic-25wa9998",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/aquamarine-metallic-25wa9998/",
+        "source_label": "PaintScratch 1993 Saturn",
+        "hex_value": "#35957D"
+      },
+      {
+        "display_name": "White",
+        "paint_code": "40/WA9563",
+        "slug": "white-40wa9563",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/white-40wa9563/",
+        "source_label": "PaintScratch 1993 Saturn",
+        "hex_value": "#F1FFF0"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "41/WA8555",
+        "slug": "black-41wa8555",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/black-41wa8555/",
+        "source_label": "PaintScratch 1993 Saturn",
+        "hex_value": "#1B141C"
+      },
+      {
+        "display_name": "Medium Gray Metallic",
+        "paint_code": "15/WA9561",
+        "slug": "medium-gray-metallic-15wa9561",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/medium-gray-metallic-15wa9561/",
+        "source_label": "PaintScratch 1993 Saturn",
+        "hex_value": "#ACA092"
+      },
+      {
+        "display_name": "Saturn Blue Metallic",
+        "paint_code": "20/WA9557",
+        "slug": "saturn-blue-metallic-20wa9557",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/saturn-blue-metallic-20wa9557/",
+        "source_label": "PaintScratch 1993 Saturn",
+        "hex_value": "#658E9B"
+      },
+      {
+        "display_name": "Black Sapphire Metallic",
+        "paint_code": "28/WA9559",
+        "slug": "black-sapphire-metallic-28wa9559",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/black-sapphire-metallic-28wa9559/",
+        "source_label": "PaintScratch 1993 Saturn",
+        "hex_value": "#18151C"
+      },
+      {
+        "display_name": "Beige Metallic",
+        "paint_code": "33/WA5333",
+        "slug": "beige-metallic-33wa5333",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/beige-metallic-33wa5333/",
+        "source_label": "PaintScratch 1993 Saturn",
+        "hex_value": "#C3C0AB"
+      },
+      {
+        "display_name": "Plum Metallic",
+        "paint_code": "38/WA5334",
+        "slug": "plum-metallic-38wa5334",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/plum-metallic-38wa5334/",
+        "source_label": "PaintScratch 1993 Saturn",
+        "hex_value": "#912B78"
+      },
+      {
+        "display_name": "Red Metallic",
+        "paint_code": "75/WA9554",
+        "slug": "red-metallic-75wa9554",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/red-metallic-75wa9554/",
+        "source_label": "PaintScratch 1993 Saturn",
+        "hex_value": "#891B1B"
+      },
+      {
+        "display_name": "Bright Red",
+        "paint_code": "81/WA9652",
+        "slug": "bright-red-81wa9652",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/bright-red-81wa9652/",
+        "source_label": "PaintScratch 1993 Saturn",
+        "hex_value": "#BE3232"
+      }
+    ],
+    "1994": [
+      {
+        "display_name": "Bright Silver Metallic",
+        "paint_code": "13/WA9566",
+        "slug": "bright-silver-metallic-13wa9566",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/bright-silver-metallic-13wa9566/",
+        "source_label": "PaintScratch 1994 Saturn",
+        "hex_value": "#B4B6B8"
+      },
+      {
+        "display_name": "Aquamarine Metallic",
+        "paint_code": "25/WA9998",
+        "slug": "aquamarine-metallic-25wa9998",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/aquamarine-metallic-25wa9998/",
+        "source_label": "PaintScratch 1994 Saturn",
+        "hex_value": "#35957D"
+      },
+      {
+        "display_name": "White",
+        "paint_code": "40/WA9563",
+        "slug": "white-40wa9563",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/white-40wa9563/",
+        "source_label": "PaintScratch 1994 Saturn",
+        "hex_value": "#F1FFF0"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "41/WA8555",
+        "slug": "black-41wa8555",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/black-41wa8555/",
+        "source_label": "PaintScratch 1994 Saturn",
+        "hex_value": "#1B141C"
+      },
+      {
+        "display_name": "Lilac Metallic",
+        "paint_code": "91/WA197B",
+        "slug": "lilac-metallic-91wa197b",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/lilac-metallic-91wa197b/",
+        "source_label": "PaintScratch 1994 Saturn",
+        "hex_value": "#DFD3DB"
+      },
+      {
+        "display_name": "Medium Gray Metallic",
+        "paint_code": "15/WA9561",
+        "slug": "medium-gray-metallic-15wa9561",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/medium-gray-metallic-15wa9561/",
+        "source_label": "PaintScratch 1994 Saturn",
+        "hex_value": "#ACA092"
+      },
+      {
+        "display_name": "Snow White Pearl Metallic Tricoat",
+        "paint_code": "16/WA287A",
+        "slug": "snow-white-pearl-metallic-tricoat-16wa287a",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/snow-white-pearl-metallic-tricoat-16wa287a/",
+        "source_label": "PaintScratch 1994 Saturn",
+        "hex_value": "#E6F4E7"
+      },
+      {
+        "display_name": "Saturn Blue Metallic",
+        "paint_code": "20/WA9557",
+        "slug": "saturn-blue-metallic-20wa9557",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/saturn-blue-metallic-20wa9557/",
+        "source_label": "PaintScratch 1994 Saturn",
+        "hex_value": "#658E9B"
+      },
+      {
+        "display_name": "Black Sapphire Metallic",
+        "paint_code": "28/WA9559",
+        "slug": "black-sapphire-metallic-28wa9559",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/black-sapphire-metallic-28wa9559/",
+        "source_label": "PaintScratch 1994 Saturn",
+        "hex_value": "#18151C"
+      },
+      {
+        "display_name": "Beige Metallic",
+        "paint_code": "33/WA5333",
+        "slug": "beige-metallic-33wa5333",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/beige-metallic-33wa5333/",
+        "source_label": "PaintScratch 1994 Saturn",
+        "hex_value": "#C3C0AB"
+      },
+      {
+        "display_name": "Medium Blue Green Metallic",
+        "paint_code": "36/WA222A",
+        "slug": "medium-blue-green-metallic-36wa222a",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/medium-blue-green-metallic-36wa222a/",
+        "source_label": "PaintScratch 1994 Saturn",
+        "hex_value": "#66B291"
+      },
+      {
+        "display_name": "Plum Metallic",
+        "paint_code": "38/WA5334",
+        "slug": "plum-metallic-38wa5334",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/plum-metallic-38wa5334/",
+        "source_label": "PaintScratch 1994 Saturn",
+        "hex_value": "#912B78"
+      },
+      {
+        "display_name": "Red Metallic",
+        "paint_code": "75/WA9554",
+        "slug": "red-metallic-75wa9554",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/red-metallic-75wa9554/",
+        "source_label": "PaintScratch 1994 Saturn",
+        "hex_value": "#891B1B"
+      },
+      {
+        "display_name": "Bright Red",
+        "paint_code": "81/WA9652",
+        "slug": "bright-red-81wa9652",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/bright-red-81wa9652/",
+        "source_label": "PaintScratch 1994 Saturn",
+        "hex_value": "#BE3232"
+      }
+    ],
+    "1995": [
+      {
+        "display_name": "Aquamarine Metallic",
+        "paint_code": "25/WA9998",
+        "slug": "aquamarine-metallic-25wa9998",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/aquamarine-metallic-25wa9998/",
+        "source_label": "PaintScratch 1995 Saturn",
+        "hex_value": "#35957D"
+      },
+      {
+        "display_name": "White",
+        "paint_code": "40/WA9563",
+        "slug": "white-40wa9563",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/white-40wa9563/",
+        "source_label": "PaintScratch 1995 Saturn",
+        "hex_value": "#F1FFF0"
+      },
+      {
+        "display_name": "Lilac Metallic",
+        "paint_code": "91/WA197B",
+        "slug": "lilac-metallic-91wa197b",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/lilac-metallic-91wa197b/",
+        "source_label": "PaintScratch 1995 Saturn",
+        "hex_value": "#DFD3DB"
+      },
+      {
+        "display_name": "Snow White Pearl Metallic Tricoat",
+        "paint_code": "16/WA287A",
+        "slug": "snow-white-pearl-metallic-tricoat-16wa287a",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/snow-white-pearl-metallic-tricoat-16wa287a/",
+        "source_label": "PaintScratch 1995 Saturn",
+        "hex_value": "#E6F4E7"
+      },
+      {
+        "display_name": "Black Sapphire Metallic",
+        "paint_code": "28/WA9559",
+        "slug": "black-sapphire-metallic-28wa9559",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/black-sapphire-metallic-28wa9559/",
+        "source_label": "PaintScratch 1995 Saturn",
+        "hex_value": "#18151C"
+      },
+      {
+        "display_name": "Beige Metallic",
+        "paint_code": "33/WA5333",
+        "slug": "beige-metallic-33wa5333",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/beige-metallic-33wa5333/",
+        "source_label": "PaintScratch 1995 Saturn",
+        "hex_value": "#C3C0AB"
+      },
+      {
+        "display_name": "Medium Blue Green Metallic",
+        "paint_code": "36/WA222A",
+        "slug": "medium-blue-green-metallic-36wa222a",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/medium-blue-green-metallic-36wa222a/",
+        "source_label": "PaintScratch 1995 Saturn",
+        "hex_value": "#66B291"
+      },
+      {
+        "display_name": "Plum Metallic",
+        "paint_code": "38/WA5334",
+        "slug": "plum-metallic-38wa5334",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/plum-metallic-38wa5334/",
+        "source_label": "PaintScratch 1995 Saturn",
+        "hex_value": "#912B78"
+      },
+      {
+        "display_name": "Black Gold Metallic",
+        "paint_code": "73/WA198B",
+        "slug": "black-gold-metallic-73wa198b",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/black-gold-metallic-73wa198b/",
+        "source_label": "PaintScratch 1995 Saturn",
+        "hex_value": "#151613"
+      },
+      {
+        "display_name": "Red Metallic",
+        "paint_code": "75/WA9554",
+        "slug": "red-metallic-75wa9554",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/red-metallic-75wa9554/",
+        "source_label": "PaintScratch 1995 Saturn",
+        "hex_value": "#891B1B"
+      },
+      {
+        "display_name": "Bright Red",
+        "paint_code": "81/WA9652",
+        "slug": "bright-red-81wa9652",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/bright-red-81wa9652/",
+        "source_label": "PaintScratch 1995 Saturn",
+        "hex_value": "#BE3232"
+      },
+      {
+        "display_name": "Dark Green Metallic",
+        "paint_code": "92/WA260B",
+        "slug": "dark-green-metallic-92wa260b",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/dark-green-metallic-92wa260b/",
+        "source_label": "PaintScratch 1995 Saturn",
+        "hex_value": "#234D09"
+      }
+    ],
+    "1996": [
+      {
+        "display_name": "White",
+        "paint_code": "40/WA9563",
+        "slug": "white-40wa9563",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/white-40wa9563/",
+        "source_label": "PaintScratch 1996 Saturn",
+        "hex_value": "#F1FFF0"
+      },
+      {
+        "display_name": "Lilac Metallic",
+        "paint_code": "91/WA197B",
+        "slug": "lilac-metallic-91wa197b",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/lilac-metallic-91wa197b/",
+        "source_label": "PaintScratch 1996 Saturn",
+        "hex_value": "#DFD3DB"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "11/WA266C",
+        "slug": "silver-metallic-11wa266c",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/silver-metallic-11wa266c/",
+        "source_label": "PaintScratch 1996 Saturn",
+        "hex_value": "#979589"
+      },
+      {
+        "display_name": "Beige Metallic",
+        "paint_code": "33/WA5333",
+        "slug": "beige-metallic-33wa5333",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/beige-metallic-33wa5333/",
+        "source_label": "PaintScratch 1996 Saturn",
+        "hex_value": "#C3C0AB"
+      },
+      {
+        "display_name": "Black Gold Metallic",
+        "paint_code": "73/WA198B",
+        "slug": "black-gold-metallic-73wa198b",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/black-gold-metallic-73wa198b/",
+        "source_label": "PaintScratch 1996 Saturn",
+        "hex_value": "#151613"
+      },
+      {
+        "display_name": "Red Metallic",
+        "paint_code": "75/WA9554",
+        "slug": "red-metallic-75wa9554",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/red-metallic-75wa9554/",
+        "source_label": "PaintScratch 1996 Saturn",
+        "hex_value": "#891B1B"
+      },
+      {
+        "display_name": "Bright Red",
+        "paint_code": "81/WA9652",
+        "slug": "bright-red-81wa9652",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/bright-red-81wa9652/",
+        "source_label": "PaintScratch 1996 Saturn",
+        "hex_value": "#BE3232"
+      },
+      {
+        "display_name": "Dark Green Metallic",
+        "paint_code": "92/WA260B",
+        "slug": "dark-green-metallic-92wa260b",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/dark-green-metallic-92wa260b/",
+        "source_label": "PaintScratch 1996 Saturn",
+        "hex_value": "#234D09"
+      },
+      {
+        "display_name": "Purple Metallic",
+        "paint_code": "98/WA267C",
+        "slug": "purple-metallic-98wa267c",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/purple-metallic-98wa267c/",
+        "source_label": "PaintScratch 1996 Saturn",
+        "hex_value": "#360474"
+      }
+    ],
+    "1997": [
+      {
+        "display_name": "Dark Blue Pearl",
+        "paint_code": "19/WA107E",
+        "slug": "dark-blue-pearl-19wa107e",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/dark-blue-pearl-19wa107e/",
+        "source_label": "PaintScratch 1997 Saturn",
+        "hex_value": "#042658"
+      },
+      {
+        "display_name": "White",
+        "paint_code": "40/WA9563",
+        "slug": "white-40wa9563",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/white-40wa9563/",
+        "source_label": "PaintScratch 1997 Saturn",
+        "hex_value": "#F1FFF0"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "41/WA8555",
+        "slug": "black-41wa8555",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/black-41wa8555/",
+        "source_label": "PaintScratch 1997 Saturn",
+        "hex_value": "#1B141C"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "11/WA266C",
+        "slug": "silver-metallic-11wa266c",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/silver-metallic-11wa266c/",
+        "source_label": "PaintScratch 1997 Saturn",
+        "hex_value": "#979589"
+      },
+      {
+        "display_name": "Beige Metallic",
+        "paint_code": "33/WA5333",
+        "slug": "beige-metallic-33wa5333",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/beige-metallic-33wa5333/",
+        "source_label": "PaintScratch 1997 Saturn",
+        "hex_value": "#C3C0AB"
+      },
+      {
+        "display_name": "Light Green Metallic",
+        "paint_code": "58/WA156D",
+        "slug": "light-green-metallic-58wa156d",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/light-green-metallic-58wa156d/",
+        "source_label": "PaintScratch 1997 Saturn",
+        "hex_value": "#BEC9AF"
+      },
+      {
+        "display_name": "Light Copper Metallic",
+        "paint_code": "69/WA155D",
+        "slug": "light-copper-metallic-69wa155d",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/light-copper-metallic-69wa155d/",
+        "source_label": "PaintScratch 1997 Saturn",
+        "hex_value": "#BF8C4F"
+      },
+      {
+        "display_name": "Black Gold Metallic",
+        "paint_code": "73/WA198B",
+        "slug": "black-gold-metallic-73wa198b",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/black-gold-metallic-73wa198b/",
+        "source_label": "PaintScratch 1997 Saturn",
+        "hex_value": "#151613"
+      },
+      {
+        "display_name": "Red Metallic",
+        "paint_code": "75/WA9554",
+        "slug": "red-metallic-75wa9554",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/red-metallic-75wa9554/",
+        "source_label": "PaintScratch 1997 Saturn",
+        "hex_value": "#891B1B"
+      },
+      {
+        "display_name": "Bright Red",
+        "paint_code": "80/WA157D",
+        "slug": "bright-red-80wa157d",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/bright-red-80wa157d/",
+        "source_label": "PaintScratch 1997 Saturn",
+        "hex_value": "#BE3232"
+      },
+      {
+        "display_name": "Bright Red",
+        "paint_code": "81/WA9652",
+        "slug": "bright-red-81wa9652",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/bright-red-81wa9652/",
+        "source_label": "PaintScratch 1997 Saturn",
+        "hex_value": "#BE3232"
+      },
+      {
+        "display_name": "Dark Green Metallic",
+        "paint_code": "92/WA260B",
+        "slug": "dark-green-metallic-92wa260b",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/dark-green-metallic-92wa260b/",
+        "source_label": "PaintScratch 1997 Saturn",
+        "hex_value": "#234D09"
+      },
+      {
+        "display_name": "Purple Metallic",
+        "paint_code": "98/WA267C",
+        "slug": "purple-metallic-98wa267c",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/purple-metallic-98wa267c/",
+        "source_label": "PaintScratch 1997 Saturn",
+        "hex_value": "#360474"
+      }
+    ],
+    "1998": [
+      {
+        "display_name": "Dark Blue Pearl",
+        "paint_code": "19/WA107E",
+        "slug": "dark-blue-pearl-19wa107e",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/dark-blue-pearl-19wa107e/",
+        "source_label": "PaintScratch 1998 Saturn",
+        "hex_value": "#042658"
+      },
+      {
+        "display_name": "White",
+        "paint_code": "40/WA9563",
+        "slug": "white-40wa9563",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/white-40wa9563/",
+        "source_label": "PaintScratch 1998 Saturn",
+        "hex_value": "#F1FFF0"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "41/WA8555",
+        "slug": "black-41wa8555",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/black-41wa8555/",
+        "source_label": "PaintScratch 1998 Saturn",
+        "hex_value": "#1B141C"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "11/WA266C",
+        "slug": "silver-metallic-11wa266c",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/silver-metallic-11wa266c/",
+        "source_label": "PaintScratch 1998 Saturn",
+        "hex_value": "#979589"
+      },
+      {
+        "display_name": "Snow White Pearl Metallic Tricoat",
+        "paint_code": "16/WA287A",
+        "slug": "snow-white-pearl-metallic-tricoat-16wa287a",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/snow-white-pearl-metallic-tricoat-16wa287a/",
+        "source_label": "PaintScratch 1998 Saturn",
+        "hex_value": "#E6F4E7"
+      },
+      {
+        "display_name": "Beige Metallic",
+        "paint_code": "33/WA5333",
+        "slug": "beige-metallic-33wa5333",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/beige-metallic-33wa5333/",
+        "source_label": "PaintScratch 1998 Saturn",
+        "hex_value": "#C3C0AB"
+      },
+      {
+        "display_name": "Grey Bronze Metallic",
+        "paint_code": "59/WA196E",
+        "slug": "grey-bronze-metallic-59wa196e",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/grey-bronze-metallic-59wa196e/",
+        "source_label": "PaintScratch 1998 Saturn",
+        "hex_value": "#857E75"
+      },
+      {
+        "display_name": "Dark Plum Metallic",
+        "paint_code": "62/WA110E",
+        "slug": "dark-plum-metallic-62wa110e",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/dark-plum-metallic-62wa110e/",
+        "source_label": "PaintScratch 1998 Saturn",
+        "hex_value": "#6C5142"
+      },
+      {
+        "display_name": "Black Gold Metallic",
+        "paint_code": "73/WA198B",
+        "slug": "black-gold-metallic-73wa198b",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/black-gold-metallic-73wa198b/",
+        "source_label": "PaintScratch 1998 Saturn",
+        "hex_value": "#151613"
+      },
+      {
+        "display_name": "Red Metallic",
+        "paint_code": "75/WA9554",
+        "slug": "red-metallic-75wa9554",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/red-metallic-75wa9554/",
+        "source_label": "PaintScratch 1998 Saturn",
+        "hex_value": "#891B1B"
+      },
+      {
+        "display_name": "Bright Red",
+        "paint_code": "81/WA9652",
+        "slug": "bright-red-81wa9652",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/bright-red-81wa9652/",
+        "source_label": "PaintScratch 1998 Saturn",
+        "hex_value": "#BE3232"
+      },
+      {
+        "display_name": "Dark Green Metallic",
+        "paint_code": "92/WA260B",
+        "slug": "dark-green-metallic-92wa260b",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/dark-green-metallic-92wa260b/",
+        "source_label": "PaintScratch 1998 Saturn",
+        "hex_value": "#234D09"
+      }
+    ],
+    "1999": [
+      {
+        "display_name": "Dark Blue Pearl",
+        "paint_code": "19/WA107E",
+        "slug": "dark-blue-pearl-19wa107e",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/dark-blue-pearl-19wa107e/",
+        "source_label": "PaintScratch 1999 Saturn",
+        "hex_value": "#042658"
+      },
+      {
+        "display_name": "White",
+        "paint_code": "40/WA9563",
+        "slug": "white-40wa9563",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/white-40wa9563/",
+        "source_label": "PaintScratch 1999 Saturn",
+        "hex_value": "#F1FFF0"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "11/WA266C",
+        "slug": "silver-metallic-11wa266c",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/silver-metallic-11wa266c/",
+        "source_label": "PaintScratch 1999 Saturn",
+        "hex_value": "#979589"
+      },
+      {
+        "display_name": "Light Silver Metallic",
+        "paint_code": "13/WA454G",
+        "slug": "light-silver-metallic-13wa454g",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/light-silver-metallic-13wa454g/",
+        "source_label": "PaintScratch 1999 Saturn",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Dark Blue Pri Metallic",
+        "paint_code": "19/WA704F",
+        "slug": "dark-blue-pri-metallic-19wa704f",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/dark-blue-pri-metallic-19wa704f/",
+        "source_label": "PaintScratch 1999 Saturn",
+        "hex_value": "#032267"
+      },
+      {
+        "display_name": "Bright Blue Metallic",
+        "paint_code": "20/WA453G",
+        "slug": "bright-blue-metallic-20wa453g",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/bright-blue-metallic-20wa453g/",
+        "source_label": "PaintScratch 1999 Saturn",
+        "hex_value": "#3884A0"
+      },
+      {
+        "display_name": "Beige Metallic",
+        "paint_code": "33/WA5333",
+        "slug": "beige-metallic-33wa5333",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/beige-metallic-33wa5333/",
+        "source_label": "PaintScratch 1999 Saturn",
+        "hex_value": "#C3C0AB"
+      },
+      {
+        "display_name": "Green Metallic",
+        "paint_code": "46/WA548F",
+        "slug": "green-metallic-46wa548f",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/green-metallic-46wa548f/",
+        "source_label": "PaintScratch 1999 Saturn",
+        "hex_value": "#234D09"
+      },
+      {
+        "display_name": "Dark Plum Metallic",
+        "paint_code": "62/WA110E",
+        "slug": "dark-plum-metallic-62wa110e",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/dark-plum-metallic-62wa110e/",
+        "source_label": "PaintScratch 1999 Saturn",
+        "hex_value": "#6C5142"
+      },
+      {
+        "display_name": "Red Metallic",
+        "paint_code": "75/WA9554",
+        "slug": "red-metallic-75wa9554",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/red-metallic-75wa9554/",
+        "source_label": "PaintScratch 1999 Saturn",
+        "hex_value": "#891B1B"
+      },
+      {
+        "display_name": "Bright Red",
+        "paint_code": "81/WA9652",
+        "slug": "bright-red-81wa9652",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/bright-red-81wa9652/",
+        "source_label": "PaintScratch 1999 Saturn",
+        "hex_value": "#BE3232"
+      },
+      {
+        "display_name": "Blackberry Metallic",
+        "paint_code": "82/WA549F",
+        "slug": "blackberry-metallic-82wa549f",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/blackberry-metallic-82wa549f/",
+        "source_label": "PaintScratch 1999 Saturn",
+        "hex_value": "#170224"
+      },
+      {
+        "display_name": "Light Fern Green Metallic",
+        "paint_code": "WA731F",
+        "slug": "light-fern-green-metallic-wa731f",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/light-fern-green-metallic-wa731f/",
+        "source_label": "PaintScratch 1999 Saturn",
+        "hex_value": "#D9EBB7"
+      }
+    ],
+    "2000": [
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "17/WA301D",
+        "slug": "silver-metallic-17wa301d",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/silver-metallic-17wa301d/",
+        "source_label": "PaintScratch 2000 Saturn",
+        "hex_value": "#84877C"
+      },
+      {
+        "display_name": "Dark Blue Pearl",
+        "paint_code": "19/WA107E",
+        "slug": "dark-blue-pearl-19wa107e",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/dark-blue-pearl-19wa107e/",
+        "source_label": "PaintScratch 2000 Saturn",
+        "hex_value": "#042658"
+      },
+      {
+        "display_name": "White",
+        "paint_code": "40/WA9563",
+        "slug": "white-40wa9563",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/white-40wa9563/",
+        "source_label": "PaintScratch 2000 Saturn",
+        "hex_value": "#F1FFF0"
+      },
+      {
+        "display_name": "Light Silver Metallic",
+        "paint_code": "13/WA454G",
+        "slug": "light-silver-metallic-13wa454g",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/light-silver-metallic-13wa454g/",
+        "source_label": "PaintScratch 2000 Saturn",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "White",
+        "paint_code": "16/WA9753",
+        "slug": "white-16wa9753",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/white-16wa9753/",
+        "source_label": "PaintScratch 2000 Saturn",
+        "hex_value": "#F1FFF0"
+      },
+      {
+        "display_name": "Black Silver Pri Metallic",
+        "paint_code": "18/WA683H",
+        "slug": "black-silver-pri-metallic-18wa683h",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/black-silver-pri-metallic-18wa683h/",
+        "source_label": "PaintScratch 2000 Saturn",
+        "hex_value": "#1B1D23"
+      },
+      {
+        "display_name": "Bright Blue Metallic",
+        "paint_code": "20/WA453G",
+        "slug": "bright-blue-metallic-20wa453g",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/bright-blue-metallic-20wa453g/",
+        "source_label": "PaintScratch 2000 Saturn",
+        "hex_value": "#3884A0"
+      },
+      {
+        "display_name": "Beige Metallic",
+        "paint_code": "33/WA5333",
+        "slug": "beige-metallic-33wa5333",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/beige-metallic-33wa5333/",
+        "source_label": "PaintScratch 2000 Saturn",
+        "hex_value": "#C3C0AB"
+      },
+      {
+        "display_name": "Green Metallic",
+        "paint_code": "46/WA548F",
+        "slug": "green-metallic-46wa548f",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/green-metallic-46wa548f/",
+        "source_label": "PaintScratch 2000 Saturn",
+        "hex_value": "#234D09"
+      },
+      {
+        "display_name": "Dark Red Pearl",
+        "paint_code": "51/WA257C",
+        "slug": "dark-red-pearl-51wa257c",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/dark-red-pearl-51wa257c/",
+        "source_label": "PaintScratch 2000 Saturn",
+        "hex_value": "#6C0202"
+      },
+      {
+        "display_name": "Grey Bronze Metallic",
+        "paint_code": "59/WA196E",
+        "slug": "grey-bronze-metallic-59wa196e",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/grey-bronze-metallic-59wa196e/",
+        "source_label": "PaintScratch 2000 Saturn",
+        "hex_value": "#857E75"
+      },
+      {
+        "display_name": "Medium Gold Metallic",
+        "paint_code": "60/WA157E",
+        "slug": "medium-gold-metallic-60wa157e",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/medium-gold-metallic-60wa157e/",
+        "source_label": "PaintScratch 2000 Saturn",
+        "hex_value": "#D4C28C"
+      },
+      {
+        "display_name": "Dark Plum Metallic",
+        "paint_code": "62/WA110E",
+        "slug": "dark-plum-metallic-62wa110e",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/dark-plum-metallic-62wa110e/",
+        "source_label": "PaintScratch 2000 Saturn",
+        "hex_value": "#6C5142"
+      },
+      {
+        "display_name": "Red Metallic",
+        "paint_code": "75/WA9554",
+        "slug": "red-metallic-75wa9554",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/red-metallic-75wa9554/",
+        "source_label": "PaintScratch 2000 Saturn",
+        "hex_value": "#891B1B"
+      },
+      {
+        "display_name": "Bright Red",
+        "paint_code": "81/WA9652",
+        "slug": "bright-red-81wa9652",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/bright-red-81wa9652/",
+        "source_label": "PaintScratch 2000 Saturn",
+        "hex_value": "#BE3232"
+      },
+      {
+        "display_name": "Blackberry Metallic",
+        "paint_code": "82/WA549F",
+        "slug": "blackberry-metallic-82wa549f",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/blackberry-metallic-82wa549f/",
+        "source_label": "PaintScratch 2000 Saturn",
+        "hex_value": "#170224"
+      }
+    ],
+    "2001": [
+      {
+        "display_name": "Dark Blue Pearl",
+        "paint_code": "19/WA107E",
+        "slug": "dark-blue-pearl-19wa107e",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/dark-blue-pearl-19wa107e/",
+        "source_label": "PaintScratch 2001 Saturn",
+        "hex_value": "#042658"
+      },
+      {
+        "display_name": "White",
+        "paint_code": "40/WA9563",
+        "slug": "white-40wa9563",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/white-40wa9563/",
+        "source_label": "PaintScratch 2001 Saturn",
+        "hex_value": "#F1FFF0"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "41/WA8555",
+        "slug": "black-41wa8555",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/black-41wa8555/",
+        "source_label": "PaintScratch 2001 Saturn",
+        "hex_value": "#1B141C"
+      },
+      {
+        "display_name": "Bright Silver Pri Metallic",
+        "paint_code": "12/WA519F",
+        "slug": "bright-silver-pri-metallic-12wa519f",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/bright-silver-pri-metallic-12wa519f/",
+        "source_label": "PaintScratch 2001 Saturn",
+        "hex_value": "#E4E6EA"
+      },
+      {
+        "display_name": "Light Silver Metallic",
+        "paint_code": "13/WA454G",
+        "slug": "light-silver-metallic-13wa454g",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/light-silver-metallic-13wa454g/",
+        "source_label": "PaintScratch 2001 Saturn",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Black Silver Pri Metallic",
+        "paint_code": "18/WA683H",
+        "slug": "black-silver-pri-metallic-18wa683h",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/black-silver-pri-metallic-18wa683h/",
+        "source_label": "PaintScratch 2001 Saturn",
+        "hex_value": "#1B1D23"
+      },
+      {
+        "display_name": "Dark Blue Pri Metallic",
+        "paint_code": "19/WA704F",
+        "slug": "dark-blue-pri-metallic-19wa704f",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/dark-blue-pri-metallic-19wa704f/",
+        "source_label": "PaintScratch 2001 Saturn",
+        "hex_value": "#032267"
+      },
+      {
+        "display_name": "Bright Blue Metallic",
+        "paint_code": "20/WA453G",
+        "slug": "bright-blue-metallic-20wa453g",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/bright-blue-metallic-20wa453g/",
+        "source_label": "PaintScratch 2001 Saturn",
+        "hex_value": "#3884A0"
+      },
+      {
+        "display_name": "Beige Metallic",
+        "paint_code": "33/WA5333",
+        "slug": "beige-metallic-33wa5333",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/beige-metallic-33wa5333/",
+        "source_label": "PaintScratch 2001 Saturn",
+        "hex_value": "#C3C0AB"
+      },
+      {
+        "display_name": "Cream White",
+        "paint_code": "40/WA8554",
+        "slug": "cream-white-40wa8554",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/cream-white-40wa8554/",
+        "source_label": "PaintScratch 2001 Saturn",
+        "hex_value": "#FDFBDB"
+      },
+      {
+        "display_name": "Blue Silver Pri Metallic",
+        "paint_code": "42/WA725H",
+        "slug": "blue-silver-pri-metallic-42wa725h",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/blue-silver-pri-metallic-42wa725h/",
+        "source_label": "PaintScratch 2001 Saturn",
+        "hex_value": "#A5B8C3"
+      },
+      {
+        "display_name": "Green Metallic",
+        "paint_code": "46/WA548F",
+        "slug": "green-metallic-46wa548f",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/green-metallic-46wa548f/",
+        "source_label": "PaintScratch 2001 Saturn",
+        "hex_value": "#234D09"
+      },
+      {
+        "display_name": "Dark Red Pearl",
+        "paint_code": "51/WA257C",
+        "slug": "dark-red-pearl-51wa257c",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/dark-red-pearl-51wa257c/",
+        "source_label": "PaintScratch 2001 Saturn",
+        "hex_value": "#6C0202"
+      },
+      {
+        "display_name": "Grey Bronze Metallic",
+        "paint_code": "59/WA196E",
+        "slug": "grey-bronze-metallic-59wa196e",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/grey-bronze-metallic-59wa196e/",
+        "source_label": "PaintScratch 2001 Saturn",
+        "hex_value": "#857E75"
+      },
+      {
+        "display_name": "Medium Gold Metallic",
+        "paint_code": "60/WA157E",
+        "slug": "medium-gold-metallic-60wa157e",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/medium-gold-metallic-60wa157e/",
+        "source_label": "PaintScratch 2001 Saturn",
+        "hex_value": "#D4C28C"
+      },
+      {
+        "display_name": "Cranberry Metallic",
+        "paint_code": "73/WA684H",
+        "slug": "cranberry-metallic-73wa684h",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/cranberry-metallic-73wa684h/",
+        "source_label": "PaintScratch 2001 Saturn",
+        "hex_value": "#780A0F"
+      }
+    ],
+    "2002": [
+      {
+        "display_name": "Bright Silver Metallic",
+        "paint_code": "13/WA9566",
+        "slug": "bright-silver-metallic-13wa9566",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/bright-silver-metallic-13wa9566/",
+        "source_label": "PaintScratch 2002 Saturn",
+        "hex_value": "#B4B6B8"
+      },
+      {
+        "display_name": "White",
+        "paint_code": "40/WA9563",
+        "slug": "white-40wa9563",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/white-40wa9563/",
+        "source_label": "PaintScratch 2002 Saturn",
+        "hex_value": "#F1FFF0"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "41/WA8555",
+        "slug": "black-41wa8555",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/black-41wa8555/",
+        "source_label": "PaintScratch 2002 Saturn",
+        "hex_value": "#1B141C"
+      },
+      {
+        "display_name": "Bright Silver Pri Metallic",
+        "paint_code": "12/WA519F",
+        "slug": "bright-silver-pri-metallic-12wa519f",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/bright-silver-pri-metallic-12wa519f/",
+        "source_label": "PaintScratch 2002 Saturn",
+        "hex_value": "#E4E6EA"
+      },
+      {
+        "display_name": "Black Silver Pri Metallic",
+        "paint_code": "18/WA683H",
+        "slug": "black-silver-pri-metallic-18wa683h",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/black-silver-pri-metallic-18wa683h/",
+        "source_label": "PaintScratch 2002 Saturn",
+        "hex_value": "#1B1D23"
+      },
+      {
+        "display_name": "Bright Blue Metallic",
+        "paint_code": "20/WA453G",
+        "slug": "bright-blue-metallic-20wa453g",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/bright-blue-metallic-20wa453g/",
+        "source_label": "PaintScratch 2002 Saturn",
+        "hex_value": "#3884A0"
+      },
+      {
+        "display_name": "Beige Metallic",
+        "paint_code": "33/WA5333",
+        "slug": "beige-metallic-33wa5333",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/beige-metallic-33wa5333/",
+        "source_label": "PaintScratch 2002 Saturn",
+        "hex_value": "#C3C0AB"
+      },
+      {
+        "display_name": "Cream White",
+        "paint_code": "40/WA8554",
+        "slug": "cream-white-40wa8554",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/cream-white-40wa8554/",
+        "source_label": "PaintScratch 2002 Saturn",
+        "hex_value": "#FDFBDB"
+      },
+      {
+        "display_name": "Blue Silver Pri Metallic",
+        "paint_code": "42/WA725H",
+        "slug": "blue-silver-pri-metallic-42wa725h",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/blue-silver-pri-metallic-42wa725h/",
+        "source_label": "PaintScratch 2002 Saturn",
+        "hex_value": "#A5B8C3"
+      },
+      {
+        "display_name": "Green Metallic",
+        "paint_code": "46/WA548F",
+        "slug": "green-metallic-46wa548f",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/green-metallic-46wa548f/",
+        "source_label": "PaintScratch 2002 Saturn",
+        "hex_value": "#234D09"
+      },
+      {
+        "display_name": "Dark Red Pearl",
+        "paint_code": "51/WA257C",
+        "slug": "dark-red-pearl-51wa257c",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/dark-red-pearl-51wa257c/",
+        "source_label": "PaintScratch 2002 Saturn",
+        "hex_value": "#6C0202"
+      },
+      {
+        "display_name": "Medium Gold Metallic",
+        "paint_code": "60/WA157E",
+        "slug": "medium-gold-metallic-60wa157e",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/medium-gold-metallic-60wa157e/",
+        "source_label": "PaintScratch 2002 Saturn",
+        "hex_value": "#D4C28C"
+      },
+      {
+        "display_name": "Cranberry Metallic",
+        "paint_code": "73/WA684H",
+        "slug": "cranberry-metallic-73wa684h",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/cranberry-metallic-73wa684h/",
+        "source_label": "PaintScratch 2002 Saturn",
+        "hex_value": "#780A0F"
+      },
+      {
+        "display_name": "Bright Red",
+        "paint_code": "81/WA9652",
+        "slug": "bright-red-81wa9652",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/bright-red-81wa9652/",
+        "source_label": "PaintScratch 2002 Saturn",
+        "hex_value": "#BE3232"
+      },
+      {
+        "display_name": "Orange Pri Metallic",
+        "paint_code": "87/WA852J",
+        "slug": "orange-pri-metallic-87wa852j",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/orange-pri-metallic-87wa852j/",
+        "source_label": "PaintScratch 2002 Saturn",
+        "hex_value": "#B4570C"
+      },
+      {
+        "display_name": "Medium Blue Pri Metallic",
+        "paint_code": "89/WA854J",
+        "slug": "medium-blue-pri-metallic-89wa854j",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/medium-blue-pri-metallic-89wa854j/",
+        "source_label": "PaintScratch 2002 Saturn",
+        "hex_value": "#3F5773"
+      }
+    ],
+    "2003": [
+      {
+        "display_name": "Bright Silver Metallic",
+        "paint_code": "13/WA9566",
+        "slug": "bright-silver-metallic-13wa9566",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/bright-silver-metallic-13wa9566/",
+        "source_label": "PaintScratch 2003 Saturn",
+        "hex_value": "#B4B6B8"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "41/WA8555",
+        "slug": "black-41wa8555",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/black-41wa8555/",
+        "source_label": "PaintScratch 2003 Saturn",
+        "hex_value": "#1B141C"
+      },
+      {
+        "display_name": "Olympic White",
+        "paint_code": "50/WA8624",
+        "slug": "olympic-white-50wa8624",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/olympic-white-50wa8624/",
+        "source_label": "PaintScratch 2003 Saturn",
+        "hex_value": "#EFEFE9"
+      },
+      {
+        "display_name": "Pewter Pri Metallic",
+        "paint_code": "11/WA382E",
+        "slug": "pewter-pri-metallic-11wa382e",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/pewter-pri-metallic-11wa382e/",
+        "source_label": "PaintScratch 2003 Saturn",
+        "hex_value": "#A4A888"
+      },
+      {
+        "display_name": "Bright Silver Pri Metallic",
+        "paint_code": "12/WA519F",
+        "slug": "bright-silver-pri-metallic-12wa519f",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/bright-silver-pri-metallic-12wa519f/",
+        "source_label": "PaintScratch 2003 Saturn",
+        "hex_value": "#E4E6EA"
+      },
+      {
+        "display_name": "Black Silver Pri Metallic",
+        "paint_code": "18/WA683H",
+        "slug": "black-silver-pri-metallic-18wa683h",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/black-silver-pri-metallic-18wa683h/",
+        "source_label": "PaintScratch 2003 Saturn",
+        "hex_value": "#1B1D23"
+      },
+      {
+        "display_name": "Bright Blue Metallic",
+        "paint_code": "20/WA453G",
+        "slug": "bright-blue-metallic-20wa453g",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/bright-blue-metallic-20wa453g/",
+        "source_label": "PaintScratch 2003 Saturn",
+        "hex_value": "#3884A0"
+      },
+      {
+        "display_name": "Eden Green Metallic",
+        "paint_code": "30/WA884K",
+        "slug": "eden-green-metallic-30wa884k",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/eden-green-metallic-30wa884k/",
+        "source_label": "PaintScratch 2003 Saturn",
+        "hex_value": "#568541"
+      },
+      {
+        "display_name": "Beige Metallic",
+        "paint_code": "33/WA5333",
+        "slug": "beige-metallic-33wa5333",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/beige-metallic-33wa5333/",
+        "source_label": "PaintScratch 2003 Saturn",
+        "hex_value": "#C3C0AB"
+      },
+      {
+        "display_name": "Light Yellow",
+        "paint_code": "35U/WA901J",
+        "slug": "light-yellow-35uwa901j",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/light-yellow-35uwa901j/",
+        "source_label": "PaintScratch 2003 Saturn",
+        "hex_value": "#F1EC99"
+      },
+      {
+        "display_name": "Cream White",
+        "paint_code": "40/WA8554",
+        "slug": "cream-white-40wa8554",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/cream-white-40wa8554/",
+        "source_label": "PaintScratch 2003 Saturn",
+        "hex_value": "#FDFBDB"
+      },
+      {
+        "display_name": "Blue Silver Pri Metallic",
+        "paint_code": "42/WA725H",
+        "slug": "blue-silver-pri-metallic-42wa725h",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/blue-silver-pri-metallic-42wa725h/",
+        "source_label": "PaintScratch 2003 Saturn",
+        "hex_value": "#A5B8C3"
+      },
+      {
+        "display_name": "Light Toreador Metallic",
+        "paint_code": "53/WA860J",
+        "slug": "light-toreador-metallic-53wa860j",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/light-toreador-metallic-53wa860j/",
+        "source_label": "PaintScratch 2003 Saturn",
+        "hex_value": "#B22626"
+      },
+      {
+        "display_name": "Cobalt Blue Metallic",
+        "paint_code": "70/WA885K",
+        "slug": "cobalt-blue-metallic-70wa885k",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/cobalt-blue-metallic-70wa885k/",
+        "source_label": "PaintScratch 2003 Saturn",
+        "hex_value": "#3E81A8"
+      },
+      {
+        "display_name": "Cranberry Metallic",
+        "paint_code": "73/WA684H",
+        "slug": "cranberry-metallic-73wa684h",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/cranberry-metallic-73wa684h/",
+        "source_label": "PaintScratch 2003 Saturn",
+        "hex_value": "#780A0F"
+      },
+      {
+        "display_name": "Victory Red",
+        "paint_code": "74/WA9260",
+        "slug": "victory-red-74wa9260",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/victory-red-74wa9260/",
+        "source_label": "PaintScratch 2003 Saturn",
+        "hex_value": "#CA0E0E"
+      }
+    ],
+    "2004": [
+      {
+        "display_name": "Bright Silver Metallic",
+        "paint_code": "13/WA9566",
+        "slug": "bright-silver-metallic-13wa9566",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/bright-silver-metallic-13wa9566/",
+        "source_label": "PaintScratch 2004 Saturn",
+        "hex_value": "#B4B6B8"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "41/WA8555",
+        "slug": "black-41wa8555",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/black-41wa8555/",
+        "source_label": "PaintScratch 2004 Saturn",
+        "hex_value": "#1B141C"
+      },
+      {
+        "display_name": "Olympic White",
+        "paint_code": "50/WA8624",
+        "slug": "olympic-white-50wa8624",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/olympic-white-50wa8624/",
+        "source_label": "PaintScratch 2004 Saturn",
+        "hex_value": "#EFEFE9"
+      },
+      {
+        "display_name": "Medium Spiral Gray Metallic",
+        "paint_code": "88/WA812K",
+        "slug": "medium-spiral-gray-metallic-88wa812k",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/medium-spiral-gray-metallic-88wa812k/",
+        "source_label": "PaintScratch 2004 Saturn",
+        "hex_value": "#92998D"
+      },
+      {
+        "display_name": "Bright Silver Pri Metallic",
+        "paint_code": "12/WA519F",
+        "slug": "bright-silver-pri-metallic-12wa519f",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/bright-silver-pri-metallic-12wa519f/",
+        "source_label": "PaintScratch 2004 Saturn",
+        "hex_value": "#E4E6EA"
+      },
+      {
+        "display_name": "Cashmere Metallic",
+        "paint_code": "15/WA929L",
+        "slug": "cashmere-metallic-15wa929l",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/cashmere-metallic-15wa929l/",
+        "source_label": "PaintScratch 2004 Saturn",
+        "hex_value": "#D3C69B"
+      },
+      {
+        "display_name": "Eden Green Metallic",
+        "paint_code": "30/WA884K",
+        "slug": "eden-green-metallic-30wa884k",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/eden-green-metallic-30wa884k/",
+        "source_label": "PaintScratch 2004 Saturn",
+        "hex_value": "#568541"
+      },
+      {
+        "display_name": "Beige Metallic",
+        "paint_code": "33/WA5333",
+        "slug": "beige-metallic-33wa5333",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/beige-metallic-33wa5333/",
+        "source_label": "PaintScratch 2004 Saturn",
+        "hex_value": "#C3C0AB"
+      },
+      {
+        "display_name": "Cream White",
+        "paint_code": "40/WA8554",
+        "slug": "cream-white-40wa8554",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/cream-white-40wa8554/",
+        "source_label": "PaintScratch 2004 Saturn",
+        "hex_value": "#FDFBDB"
+      },
+      {
+        "display_name": "Blue Silver Pri Metallic",
+        "paint_code": "42/WA725H",
+        "slug": "blue-silver-pri-metallic-42wa725h",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/blue-silver-pri-metallic-42wa725h/",
+        "source_label": "PaintScratch 2004 Saturn",
+        "hex_value": "#A5B8C3"
+      },
+      {
+        "display_name": "Sport Red Metallic",
+        "paint_code": "63/WA817K",
+        "slug": "sport-red-metallic-63wa817k",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/sport-red-metallic-63wa817k/",
+        "source_label": "PaintScratch 2004 Saturn",
+        "hex_value": "#B22C39"
+      },
+      {
+        "display_name": "Fine Sublime Metallic",
+        "paint_code": "68/WA930L",
+        "slug": "fine-sublime-metallic-68wa930l",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/fine-sublime-metallic-68wa930l/",
+        "source_label": "PaintScratch 2004 Saturn",
+        "hex_value": "#C0C961"
+      },
+      {
+        "display_name": "Cobalt Blue Metallic",
+        "paint_code": "70/WA885K",
+        "slug": "cobalt-blue-metallic-70wa885k",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/cobalt-blue-metallic-70wa885k/",
+        "source_label": "PaintScratch 2004 Saturn",
+        "hex_value": "#3E81A8"
+      },
+      {
+        "display_name": "Victory Red",
+        "paint_code": "74/WA9260",
+        "slug": "victory-red-74wa9260",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/victory-red-74wa9260/",
+        "source_label": "PaintScratch 2004 Saturn",
+        "hex_value": "#CA0E0E"
+      },
+      {
+        "display_name": "Medium Blue Pri Metallic",
+        "paint_code": "89/WA854J",
+        "slug": "medium-blue-pri-metallic-89wa854j",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/medium-blue-pri-metallic-89wa854j/",
+        "source_label": "PaintScratch 2004 Saturn",
+        "hex_value": "#3F5773"
+      },
+      {
+        "display_name": "Tarragan Green Metallic",
+        "paint_code": "90/WA882K",
+        "slug": "tarragan-green-metallic-90wa882k",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/tarragan-green-metallic-90wa882k/",
+        "source_label": "PaintScratch 2004 Saturn",
+        "hex_value": "#828B57"
+      }
+    ],
+    "2005": [
+      {
+        "display_name": "Bright Silver Metallic",
+        "paint_code": "13/WA9566",
+        "slug": "bright-silver-metallic-13wa9566",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/bright-silver-metallic-13wa9566/",
+        "source_label": "PaintScratch 2005 Saturn",
+        "hex_value": "#B4B6B8"
+      },
+      {
+        "display_name": "Dark Ming Blue Metallic",
+        "paint_code": "25/WA722J",
+        "slug": "dark-ming-blue-metallic-25wa722j",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/dark-ming-blue-metallic-25wa722j/",
+        "source_label": "PaintScratch 2005 Saturn",
+        "hex_value": "#1D276F"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "41/WA8555",
+        "slug": "black-41wa8555",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/black-41wa8555/",
+        "source_label": "PaintScratch 2005 Saturn",
+        "hex_value": "#1B141C"
+      },
+      {
+        "display_name": "Olympic White",
+        "paint_code": "50/WA8624",
+        "slug": "olympic-white-50wa8624",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/olympic-white-50wa8624/",
+        "source_label": "PaintScratch 2005 Saturn",
+        "hex_value": "#EFEFE9"
+      },
+      {
+        "display_name": "Dark Bronzemist Metallic",
+        "paint_code": "76/WA528F",
+        "slug": "dark-bronzemist-metallic-76wa528f",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/dark-bronzemist-metallic-76wa528f/",
+        "source_label": "PaintScratch 2005 Saturn",
+        "hex_value": "#898477"
+      },
+      {
+        "display_name": "Medium Spiral Gray Metallic",
+        "paint_code": "88/WA812K",
+        "slug": "medium-spiral-gray-metallic-88wa812k",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/medium-spiral-gray-metallic-88wa812k/",
+        "source_label": "PaintScratch 2005 Saturn",
+        "hex_value": "#92998D"
+      },
+      {
+        "display_name": "Cashmere Metallic",
+        "paint_code": "15/WA929L",
+        "slug": "cashmere-metallic-15wa929l",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/cashmere-metallic-15wa929l/",
+        "source_label": "PaintScratch 2005 Saturn",
+        "hex_value": "#D3C69B"
+      },
+      {
+        "display_name": "Dark Dragonfly Teal",
+        "paint_code": "17/WA927L",
+        "slug": "dark-dragonfly-teal-17wa927l",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/dark-dragonfly-teal-17wa927l/",
+        "source_label": "PaintScratch 2005 Saturn",
+        "hex_value": "#21A59A"
+      },
+      {
+        "display_name": "Blue Frost Metallic",
+        "paint_code": "20/WA208M",
+        "slug": "blue-frost-metallic-20wa208m",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/blue-frost-metallic-20wa208m/",
+        "source_label": "PaintScratch 2005 Saturn",
+        "hex_value": "#D7DFDF"
+      },
+      {
+        "display_name": "Aero Blue",
+        "paint_code": "24/WA219M",
+        "slug": "aero-blue-24wa219m",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/aero-blue-24wa219m/",
+        "source_label": "PaintScratch 2005 Saturn",
+        "hex_value": "#2C84B6"
+      },
+      {
+        "display_name": "Beige Metallic",
+        "paint_code": "33/WA5333",
+        "slug": "beige-metallic-33wa5333",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/beige-metallic-33wa5333/",
+        "source_label": "PaintScratch 2005 Saturn",
+        "hex_value": "#C3C0AB"
+      },
+      {
+        "display_name": "Emerald Jewel Metallic",
+        "paint_code": "38/WA215M",
+        "slug": "emerald-jewel-metallic-38wa215m",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/emerald-jewel-metallic-38wa215m/",
+        "source_label": "PaintScratch 2005 Saturn",
+        "hex_value": "#3C5A3C"
+      },
+      {
+        "display_name": "Cream White",
+        "paint_code": "40/WA8554",
+        "slug": "cream-white-40wa8554",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/cream-white-40wa8554/",
+        "source_label": "PaintScratch 2005 Saturn",
+        "hex_value": "#FDFBDB"
+      },
+      {
+        "display_name": "Stealth Grey Metallic",
+        "paint_code": "46/WA928L",
+        "slug": "stealth-grey-metallic-46wa928l",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/stealth-grey-metallic-46wa928l/",
+        "source_label": "PaintScratch 2005 Saturn",
+        "hex_value": "#484A4D"
+      },
+      {
+        "display_name": "Sport Red Metallic",
+        "paint_code": "63/WA817K",
+        "slug": "sport-red-metallic-63wa817k",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/sport-red-metallic-63wa817k/",
+        "source_label": "PaintScratch 2005 Saturn",
+        "hex_value": "#B22C39"
+      },
+      {
+        "display_name": "Light Tarnished Silver Metallic",
+        "paint_code": "67/WA994L",
+        "slug": "light-tarnished-silver-metallic-67wa994l",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/light-tarnished-silver-metallic-67wa994l/",
+        "source_label": "PaintScratch 2005 Saturn",
+        "hex_value": "#DFDED7"
+      }
+    ],
+    "2006": [
+      {
+        "display_name": "Bright Silver Metallic",
+        "paint_code": "13/WA9566",
+        "slug": "bright-silver-metallic-13wa9566",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/bright-silver-metallic-13wa9566/",
+        "source_label": "PaintScratch 2006 Saturn",
+        "hex_value": "#B4B6B8"
+      },
+      {
+        "display_name": "Laser Blue Metallic",
+        "paint_code": "21/WA218M",
+        "slug": "laser-blue-metallic-21wa218m",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/laser-blue-metallic-21wa218m/",
+        "source_label": "PaintScratch 2006 Saturn",
+        "hex_value": "#1A4475"
+      },
+      {
+        "display_name": "Dark Ming Blue Metallic",
+        "paint_code": "25/WA722J",
+        "slug": "dark-ming-blue-metallic-25wa722j",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/dark-ming-blue-metallic-25wa722j/",
+        "source_label": "PaintScratch 2006 Saturn",
+        "hex_value": "#1D276F"
+      },
+      {
+        "display_name": "Imperial Blue Metallic",
+        "paint_code": "37/WA403P",
+        "slug": "imperial-blue-metallic-37wa403p",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/imperial-blue-metallic-37wa403p/",
+        "source_label": "PaintScratch 2006 Saturn",
+        "hex_value": "#3F32A2"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "41/WA8555",
+        "slug": "black-41wa8555",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/black-41wa8555/",
+        "source_label": "PaintScratch 2006 Saturn",
+        "hex_value": "#1B141C"
+      },
+      {
+        "display_name": "Olympic White",
+        "paint_code": "50/WA8624",
+        "slug": "olympic-white-50wa8624",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/olympic-white-50wa8624/",
+        "source_label": "PaintScratch 2006 Saturn",
+        "hex_value": "#EFEFE9"
+      },
+      {
+        "display_name": "Medium Spiral Gray Metallic",
+        "paint_code": "88/WA812K",
+        "slug": "medium-spiral-gray-metallic-88wa812k",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/medium-spiral-gray-metallic-88wa812k/",
+        "source_label": "PaintScratch 2006 Saturn",
+        "hex_value": "#92998D"
+      },
+      {
+        "display_name": "Cashmere Metallic",
+        "paint_code": "15/WA929L",
+        "slug": "cashmere-metallic-15wa929l",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/cashmere-metallic-15wa929l/",
+        "source_label": "PaintScratch 2006 Saturn",
+        "hex_value": "#D3C69B"
+      },
+      {
+        "display_name": "Savannah Green Metallic",
+        "paint_code": "32/WA306N",
+        "slug": "savannah-green-metallic-32wa306n",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/savannah-green-metallic-32wa306n/",
+        "source_label": "PaintScratch 2006 Saturn",
+        "hex_value": "#657D4D"
+      },
+      {
+        "display_name": "Yellow",
+        "paint_code": "34/WA9414",
+        "slug": "yellow-34wa9414",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/yellow-34wa9414/",
+        "source_label": "PaintScratch 2006 Saturn",
+        "hex_value": "#EEE838"
+      },
+      {
+        "display_name": "Emerald Jewel Metallic",
+        "paint_code": "38/WA215M",
+        "slug": "emerald-jewel-metallic-38wa215m",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/emerald-jewel-metallic-38wa215m/",
+        "source_label": "PaintScratch 2006 Saturn",
+        "hex_value": "#3C5A3C"
+      },
+      {
+        "display_name": "Dark Tarnish Silver Metallic",
+        "paint_code": "42/WA911L",
+        "slug": "dark-tarnish-silver-metallic-42wa911l",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/dark-tarnish-silver-metallic-42wa911l/",
+        "source_label": "PaintScratch 2006 Saturn",
+        "hex_value": "#C5C5B7"
+      },
+      {
+        "display_name": "Stealth Grey Metallic",
+        "paint_code": "46/WA928L",
+        "slug": "stealth-grey-metallic-46wa928l",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/stealth-grey-metallic-46wa928l/",
+        "source_label": "PaintScratch 2006 Saturn",
+        "hex_value": "#484A4D"
+      },
+      {
+        "display_name": "Bordeaux Red Metallic",
+        "paint_code": "49/WA204M",
+        "slug": "bordeaux-red-metallic-49wa204m",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/bordeaux-red-metallic-49wa204m/",
+        "source_label": "PaintScratch 2006 Saturn",
+        "hex_value": "#7E3D30"
+      },
+      {
+        "display_name": "Antique Bronze Metallic",
+        "paint_code": "53/WA317N",
+        "slug": "antique-bronze-metallic-53wa317n",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/antique-bronze-metallic-53wa317n/",
+        "source_label": "PaintScratch 2006 Saturn",
+        "hex_value": "#726858"
+      },
+      {
+        "display_name": "Fusion Orange",
+        "paint_code": "55/WA322N",
+        "slug": "fusion-orange-55wa322n",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/fusion-orange-55wa322n/",
+        "source_label": "PaintScratch 2006 Saturn",
+        "hex_value": "#DD722B"
+      }
+    ],
+    "2007": [
+      {
+        "display_name": "Bright Silver Metallic",
+        "paint_code": "13/WA9566",
+        "slug": "bright-silver-metallic-13wa9566",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/bright-silver-metallic-13wa9566/",
+        "source_label": "PaintScratch 2007 Saturn",
+        "hex_value": "#B4B6B8"
+      },
+      {
+        "display_name": "Laser Blue Metallic",
+        "paint_code": "21/WA218M",
+        "slug": "laser-blue-metallic-21wa218m",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/laser-blue-metallic-21wa218m/",
+        "source_label": "PaintScratch 2007 Saturn",
+        "hex_value": "#1A4475"
+      },
+      {
+        "display_name": "Dark Ming Blue Metallic",
+        "paint_code": "25/WA722J",
+        "slug": "dark-ming-blue-metallic-25wa722j",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/dark-ming-blue-metallic-25wa722j/",
+        "source_label": "PaintScratch 2007 Saturn",
+        "hex_value": "#1D276F"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "41/WA8555",
+        "slug": "black-41wa8555",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/black-41wa8555/",
+        "source_label": "PaintScratch 2007 Saturn",
+        "hex_value": "#1B141C"
+      },
+      {
+        "display_name": "Olympic White",
+        "paint_code": "50/WA8624",
+        "slug": "olympic-white-50wa8624",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/olympic-white-50wa8624/",
+        "source_label": "PaintScratch 2007 Saturn",
+        "hex_value": "#EFEFE9"
+      },
+      {
+        "display_name": "Dark Bronzemist Metallic",
+        "paint_code": "76/WA528F",
+        "slug": "dark-bronzemist-metallic-76wa528f",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/dark-bronzemist-metallic-76wa528f/",
+        "source_label": "PaintScratch 2007 Saturn",
+        "hex_value": "#898477"
+      },
+      {
+        "display_name": "Medium Spiral Gray Metallic",
+        "paint_code": "88/WA812K",
+        "slug": "medium-spiral-gray-metallic-88wa812k",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/medium-spiral-gray-metallic-88wa812k/",
+        "source_label": "PaintScratch 2007 Saturn",
+        "hex_value": "#92998D"
+      },
+      {
+        "display_name": "Bluestone Effect",
+        "paint_code": "302N",
+        "slug": "bluestone-effect-302n",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/bluestone-effect-302n/",
+        "source_label": "PaintScratch 2007 Saturn",
+        "hex_value": "#606A78"
+      },
+      {
+        "display_name": "Cosmic Quartz Metallic",
+        "paint_code": "14/WA308N",
+        "slug": "cosmic-quartz-metallic-14wa308n",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/cosmic-quartz-metallic-14wa308n/",
+        "source_label": "PaintScratch 2007 Saturn",
+        "hex_value": "#828078"
+      },
+      {
+        "display_name": "Cashmere Metallic",
+        "paint_code": "19/WA929L",
+        "slug": "cashmere-metallic-19wa929l",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/cashmere-metallic-19wa929l/",
+        "source_label": "PaintScratch 2007 Saturn",
+        "hex_value": "#C8C3AA"
+      },
+      {
+        "display_name": "Savannah Green Effect",
+        "paint_code": "32U/WA306N",
+        "slug": "savannah-green-effect-32uwa306n",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/savannah-green-effect-32uwa306n/",
+        "source_label": "PaintScratch 2007 Saturn",
+        "hex_value": "#657D4D"
+      },
+      {
+        "display_name": "Yellow",
+        "paint_code": "34/WA9414",
+        "slug": "yellow-34wa9414",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/yellow-34wa9414/",
+        "source_label": "PaintScratch 2007 Saturn",
+        "hex_value": "#EEE838"
+      },
+      {
+        "display_name": "Emerald Jewel Metallic",
+        "paint_code": "38/WA215M",
+        "slug": "emerald-jewel-metallic-38wa215m",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/emerald-jewel-metallic-38wa215m/",
+        "source_label": "PaintScratch 2007 Saturn",
+        "hex_value": "#3C5A3C"
+      },
+      {
+        "display_name": "Cream White",
+        "paint_code": "40/WA8554",
+        "slug": "cream-white-40wa8554",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/cream-white-40wa8554/",
+        "source_label": "PaintScratch 2007 Saturn",
+        "hex_value": "#FDFBDB"
+      },
+      {
+        "display_name": "Dark Tarnish Silver Metallic",
+        "paint_code": "42/WA911L",
+        "slug": "dark-tarnish-silver-metallic-42wa911l",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/dark-tarnish-silver-metallic-42wa911l/",
+        "source_label": "PaintScratch 2007 Saturn",
+        "hex_value": "#C5C5B7"
+      },
+      {
+        "display_name": "Stealth Grey Metallic",
+        "paint_code": "46/WA928L",
+        "slug": "stealth-grey-metallic-46wa928l",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/stealth-grey-metallic-46wa928l/",
+        "source_label": "PaintScratch 2007 Saturn",
+        "hex_value": "#484A4D"
+      }
+    ],
+    "2008": [
+      {
+        "display_name": "Dark Ming Blue Metallic",
+        "paint_code": "25/WA722J",
+        "slug": "dark-ming-blue-metallic-25wa722j",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/dark-ming-blue-metallic-25wa722j/",
+        "source_label": "PaintScratch 2008 Saturn",
+        "hex_value": "#1D276F"
+      },
+      {
+        "display_name": "Imperial Blue Metallic",
+        "paint_code": "37/WA403P",
+        "slug": "imperial-blue-metallic-37wa403p",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/imperial-blue-metallic-37wa403p/",
+        "source_label": "PaintScratch 2008 Saturn",
+        "hex_value": "#3F32A2"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "41/WA8555",
+        "slug": "black-41wa8555",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/black-41wa8555/",
+        "source_label": "PaintScratch 2008 Saturn",
+        "hex_value": "#1B141C"
+      },
+      {
+        "display_name": "Olympic White",
+        "paint_code": "50/WA8624",
+        "slug": "olympic-white-50wa8624",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/olympic-white-50wa8624/",
+        "source_label": "PaintScratch 2008 Saturn",
+        "hex_value": "#EFEFE9"
+      },
+      {
+        "display_name": "Medium Gray",
+        "paint_code": "83B",
+        "slug": "medium-gray-83b",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/medium-gray-83b/",
+        "source_label": "PaintScratch 2008 Saturn",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Dark Brahma Jewel Metallic",
+        "paint_code": "12/WA519Q",
+        "slug": "dark-brahma-jewel-metallic-12wa519q",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/dark-brahma-jewel-metallic-12wa519q/",
+        "source_label": "PaintScratch 2008 Saturn",
+        "hex_value": "#44271C"
+      },
+      {
+        "display_name": "Cosmic Quartz Metallic",
+        "paint_code": "14/WA308N",
+        "slug": "cosmic-quartz-metallic-14wa308n",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/cosmic-quartz-metallic-14wa308n/",
+        "source_label": "PaintScratch 2008 Saturn",
+        "hex_value": "#828078"
+      },
+      {
+        "display_name": "Cashmere Metallic",
+        "paint_code": "15/WA929L",
+        "slug": "cashmere-metallic-15wa929l",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/cashmere-metallic-15wa929l/",
+        "source_label": "PaintScratch 2008 Saturn",
+        "hex_value": "#D3C69B"
+      },
+      {
+        "display_name": "Black Sapphire Pearl",
+        "paint_code": "20RWHU/WA784J",
+        "slug": "black-sapphire-pearl-20rwhuwa784j",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/black-sapphire-pearl-20rwhuwa784j/",
+        "source_label": "PaintScratch 2008 Saturn",
+        "hex_value": "#272621"
+      },
+      {
+        "display_name": "Ultra Blue Pearl",
+        "paint_code": "21B/4CUWA923K",
+        "slug": "ultra-blue-pearl-21b4cuwa923k",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/ultra-blue-pearl-21b4cuwa923k/",
+        "source_label": "PaintScratch 2008 Saturn",
+        "hex_value": "#1F2D63"
+      },
+      {
+        "display_name": "Inferno Orange Metallic",
+        "paint_code": "28/WA502Q",
+        "slug": "inferno-orange-metallic-28wa502q",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/inferno-orange-metallic-28wa502q/",
+        "source_label": "PaintScratch 2008 Saturn",
+        "hex_value": "#AF331F"
+      },
+      {
+        "display_name": "Yellow",
+        "paint_code": "34/WA9414",
+        "slug": "yellow-34wa9414",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/yellow-34wa9414/",
+        "source_label": "PaintScratch 2008 Saturn",
+        "hex_value": "#EEE838"
+      },
+      {
+        "display_name": "Polar Blue Metallic",
+        "paint_code": "35/WA409P",
+        "slug": "polar-blue-metallic-35wa409p",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/polar-blue-metallic-35wa409p/",
+        "source_label": "PaintScratch 2008 Saturn",
+        "hex_value": "#A2BAC6"
+      },
+      {
+        "display_name": "Emerald Jewel Metallic",
+        "paint_code": "38/WA215M",
+        "slug": "emerald-jewel-metallic-38wa215m",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/emerald-jewel-metallic-38wa215m/",
+        "source_label": "PaintScratch 2008 Saturn",
+        "hex_value": "#3C5A3C"
+      },
+      {
+        "display_name": "Mystique Blue Metallic",
+        "paint_code": "39/WA520Q",
+        "slug": "mystique-blue-metallic-39wa520q",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/mystique-blue-metallic-39wa520q/",
+        "source_label": "PaintScratch 2008 Saturn",
+        "hex_value": "#413155"
+      },
+      {
+        "display_name": "Cream White",
+        "paint_code": "40/WA8554",
+        "slug": "cream-white-40wa8554",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/cream-white-40wa8554/",
+        "source_label": "PaintScratch 2008 Saturn",
+        "hex_value": "#FDFBDB"
+      }
+    ],
+    "2009": [
+      {
+        "display_name": "Dark Ming Blue Metallic",
+        "paint_code": "25/WA722J",
+        "slug": "dark-ming-blue-metallic-25wa722j",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/dark-ming-blue-metallic-25wa722j/",
+        "source_label": "PaintScratch 2009 Saturn",
+        "hex_value": "#1D276F"
+      },
+      {
+        "display_name": "Imperial Blue Metallic",
+        "paint_code": "37/WA403P",
+        "slug": "imperial-blue-metallic-37wa403p",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/imperial-blue-metallic-37wa403p/",
+        "source_label": "PaintScratch 2009 Saturn",
+        "hex_value": "#3F32A2"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "41/WA8555",
+        "slug": "black-41wa8555",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/black-41wa8555/",
+        "source_label": "PaintScratch 2009 Saturn",
+        "hex_value": "#1B141C"
+      },
+      {
+        "display_name": "Olympic White",
+        "paint_code": "50/WA8624",
+        "slug": "olympic-white-50wa8624",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/olympic-white-50wa8624/",
+        "source_label": "PaintScratch 2009 Saturn",
+        "hex_value": "#EFEFE9"
+      },
+      {
+        "display_name": "Dark Brahma Jewel Metallic",
+        "paint_code": "12/WA519Q",
+        "slug": "dark-brahma-jewel-metallic-12wa519q",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/dark-brahma-jewel-metallic-12wa519q/",
+        "source_label": "PaintScratch 2009 Saturn",
+        "hex_value": "#44271C"
+      },
+      {
+        "display_name": "Cosmic Quartz Metallic",
+        "paint_code": "14/WA308N",
+        "slug": "cosmic-quartz-metallic-14wa308n",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/cosmic-quartz-metallic-14wa308n/",
+        "source_label": "PaintScratch 2009 Saturn",
+        "hex_value": "#828078"
+      },
+      {
+        "display_name": "Blade Silver Metallic",
+        "paint_code": "17U/WA636R",
+        "slug": "blade-silver-metallic-17uwa636r",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/blade-silver-metallic-17uwa636r/",
+        "source_label": "PaintScratch 2009 Saturn",
+        "hex_value": "#CCC8C4"
+      },
+      {
+        "display_name": "Black Sapphire Pearl",
+        "paint_code": "20RWHU/WA784J",
+        "slug": "black-sapphire-pearl-20rwhuwa784j",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/black-sapphire-pearl-20rwhuwa784j/",
+        "source_label": "PaintScratch 2009 Saturn",
+        "hex_value": "#272621"
+      },
+      {
+        "display_name": "Ultra Blue Pearl",
+        "paint_code": "21B/4CUWA923K",
+        "slug": "ultra-blue-pearl-21b4cuwa923k",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/ultra-blue-pearl-21b4cuwa923k/",
+        "source_label": "PaintScratch 2009 Saturn",
+        "hex_value": "#1F2D63"
+      },
+      {
+        "display_name": "Hydro Blue Metallic",
+        "paint_code": "22/WA640R",
+        "slug": "hydro-blue-metallic-22wa640r",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/hydro-blue-metallic-22wa640r/",
+        "source_label": "PaintScratch 2009 Saturn",
+        "hex_value": "#6185A7"
+      },
+      {
+        "display_name": "Inferno Orange Metallic",
+        "paint_code": "28/WA502Q",
+        "slug": "inferno-orange-metallic-28wa502q",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/inferno-orange-metallic-28wa502q/",
+        "source_label": "PaintScratch 2009 Saturn",
+        "hex_value": "#AF331F"
+      },
+      {
+        "display_name": "Yellow",
+        "paint_code": "34/WA9414",
+        "slug": "yellow-34wa9414",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/yellow-34wa9414/",
+        "source_label": "PaintScratch 2009 Saturn",
+        "hex_value": "#EEE838"
+      },
+      {
+        "display_name": "Polar Blue Metallic",
+        "paint_code": "35/WA409P",
+        "slug": "polar-blue-metallic-35wa409p",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/polar-blue-metallic-35wa409p/",
+        "source_label": "PaintScratch 2009 Saturn",
+        "hex_value": "#A2BAC6"
+      },
+      {
+        "display_name": "Emerald Jewel Metallic",
+        "paint_code": "38/WA215M",
+        "slug": "emerald-jewel-metallic-38wa215m",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/emerald-jewel-metallic-38wa215m/",
+        "source_label": "PaintScratch 2009 Saturn",
+        "hex_value": "#3C5A3C"
+      },
+      {
+        "display_name": "Mystique Blue Metallic",
+        "paint_code": "39/WA520Q",
+        "slug": "mystique-blue-metallic-39wa520q",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/mystique-blue-metallic-39wa520q/",
+        "source_label": "PaintScratch 2009 Saturn",
+        "hex_value": "#413155"
+      },
+      {
+        "display_name": "Cream White",
+        "paint_code": "40/WA8554",
+        "slug": "cream-white-40wa8554",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/cream-white-40wa8554/",
+        "source_label": "PaintScratch 2009 Saturn",
+        "hex_value": "#FDFBDB"
+      }
+    ],
+    "2010": [
+      {
+        "display_name": "Dark Ming Blue Metallic",
+        "paint_code": "25/WA722J",
+        "slug": "dark-ming-blue-metallic-25wa722j",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/dark-ming-blue-metallic-25wa722j/",
+        "source_label": "PaintScratch 2010 Saturn",
+        "hex_value": "#1D276F"
+      },
+      {
+        "display_name": "Imperial Blue Metallic",
+        "paint_code": "37/WA403P",
+        "slug": "imperial-blue-metallic-37wa403p",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/imperial-blue-metallic-37wa403p/",
+        "source_label": "PaintScratch 2010 Saturn",
+        "hex_value": "#3F32A2"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "41/WA8555",
+        "slug": "black-41wa8555",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/black-41wa8555/",
+        "source_label": "PaintScratch 2010 Saturn",
+        "hex_value": "#1B141C"
+      },
+      {
+        "display_name": "Olympic White",
+        "paint_code": "50/WA8624",
+        "slug": "olympic-white-50wa8624",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/olympic-white-50wa8624/",
+        "source_label": "PaintScratch 2010 Saturn",
+        "hex_value": "#EFEFE9"
+      },
+      {
+        "display_name": "Blade Silver Metallic",
+        "paint_code": "17U/WA636R",
+        "slug": "blade-silver-metallic-17uwa636r",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/blade-silver-metallic-17uwa636r/",
+        "source_label": "PaintScratch 2010 Saturn",
+        "hex_value": "#CCC8C4"
+      },
+      {
+        "display_name": "Black Sapphire Pearl",
+        "paint_code": "20RWHU/WA784J",
+        "slug": "black-sapphire-pearl-20rwhuwa784j",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/black-sapphire-pearl-20rwhuwa784j/",
+        "source_label": "PaintScratch 2010 Saturn",
+        "hex_value": "#272621"
+      },
+      {
+        "display_name": "Ultra Blue Pearl",
+        "paint_code": "21B/4CUWA923K",
+        "slug": "ultra-blue-pearl-21b4cuwa923k",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/ultra-blue-pearl-21b4cuwa923k/",
+        "source_label": "PaintScratch 2010 Saturn",
+        "hex_value": "#1F2D63"
+      },
+      {
+        "display_name": "Yellow",
+        "paint_code": "34/WA9414",
+        "slug": "yellow-34wa9414",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/yellow-34wa9414/",
+        "source_label": "PaintScratch 2010 Saturn",
+        "hex_value": "#EEE838"
+      },
+      {
+        "display_name": "Cream White",
+        "paint_code": "40/WA8554",
+        "slug": "cream-white-40wa8554",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/cream-white-40wa8554/",
+        "source_label": "PaintScratch 2010 Saturn",
+        "hex_value": "#FDFBDB"
+      },
+      {
+        "display_name": "Power Red",
+        "paint_code": "50B/63U/WA270M",
+        "slug": "power-red-50b63uwa270m",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/power-red-50b63uwa270m/",
+        "source_label": "PaintScratch 2010 Saturn",
+        "hex_value": "#9B1724"
+      },
+      {
+        "display_name": "Gold Mist Metallic",
+        "paint_code": "51/WA316N/WA216N",
+        "slug": "gold-mist-metallic-51wa316nwa216n",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/gold-mist-metallic-51wa316nwa216n/",
+        "source_label": "PaintScratch 2010 Saturn",
+        "hex_value": "#DFCE93"
+      },
+      {
+        "display_name": "Cyber Gray Metallic",
+        "paint_code": "57U/WA637R",
+        "slug": "cyber-gray-metallic-57uwa637r",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/cyber-gray-metallic-57uwa637r/",
+        "source_label": "PaintScratch 2010 Saturn",
+        "hex_value": "#706D68"
+      },
+      {
+        "display_name": "Carbon Flash Metallic",
+        "paint_code": "58/WA501Q",
+        "slug": "carbon-flash-metallic-58wa501q",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/carbon-flash-metallic-58wa501q/",
+        "source_label": "PaintScratch 2010 Saturn",
+        "hex_value": "#35322B"
+      },
+      {
+        "display_name": "Aqua Blue Metallic",
+        "paint_code": "61/WA638R",
+        "slug": "aqua-blue-metallic-61wa638r",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/aqua-blue-metallic-61wa638r/",
+        "source_label": "PaintScratch 2010 Saturn",
+        "hex_value": "#38737E"
+      },
+      {
+        "display_name": "Light Tarnished Silver Metallic",
+        "paint_code": "67/WA994L",
+        "slug": "light-tarnished-silver-metallic-67wa994l",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/light-tarnished-silver-metallic-67wa994l/",
+        "source_label": "PaintScratch 2010 Saturn",
+        "hex_value": "#DFDED7"
+      },
+      {
+        "display_name": "Victory Red",
+        "paint_code": "74/WA9260",
+        "slug": "victory-red-74wa9260",
+        "reference_url": "https://www.paintscratch.com/colors/saturn/victory-red-74wa9260/",
+        "source_label": "PaintScratch 2010 Saturn",
+        "hex_value": "#CA0E0E"
+      }
+    ]
+  }
+}

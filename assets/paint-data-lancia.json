@@ -1,0 +1,220 @@
+{
+  "All Models": {
+    "1979": [
+      {
+        "display_name": "Nearco Red",
+        "paint_code": "108",
+        "slug": "nearco-red-108",
+        "reference_url": "https://www.paintscratch.com/colors/lancia/nearco-red-108/",
+        "source_label": "PaintScratch 1979 Lancia",
+        "hex_value": "#AF291F"
+      },
+      {
+        "display_name": "Ascot Green",
+        "paint_code": "109",
+        "slug": "ascot-green-109",
+        "reference_url": "https://www.paintscratch.com/colors/lancia/ascot-green-109/",
+        "source_label": "PaintScratch 1979 Lancia",
+        "hex_value": "#447C59"
+      },
+      {
+        "display_name": "Lancia Blue",
+        "paint_code": "121",
+        "slug": "lancia-blue-121",
+        "reference_url": "https://www.paintscratch.com/colors/lancia/lancia-blue-121/",
+        "source_label": "PaintScratch 1979 Lancia",
+        "hex_value": "#44597C"
+      },
+      {
+        "display_name": "Rosso Corsa",
+        "paint_code": "123",
+        "slug": "rosso-corsa-123",
+        "reference_url": "https://www.paintscratch.com/colors/lancia/rosso-corsa-123/",
+        "source_label": "PaintScratch 1979 Lancia",
+        "hex_value": "#B61014"
+      },
+      {
+        "display_name": "Amaranto Brown",
+        "paint_code": "125",
+        "slug": "amaranto-brown-125",
+        "reference_url": "https://www.paintscratch.com/colors/lancia/amaranto-brown-125/",
+        "source_label": "PaintScratch 1979 Lancia",
+        "hex_value": "#78513E"
+      },
+      {
+        "display_name": "Capri Blue",
+        "paint_code": "129",
+        "slug": "capri-blue-129",
+        "reference_url": "https://www.paintscratch.com/colors/lancia/capri-blue-129/",
+        "source_label": "PaintScratch 1979 Lancia",
+        "hex_value": "#95B7C1"
+      },
+      {
+        "display_name": "Escoli Gray Metallic",
+        "paint_code": "135",
+        "slug": "escoli-gray-metallic-135",
+        "reference_url": "https://www.paintscratch.com/colors/lancia/escoli-gray-metallic-135/",
+        "source_label": "PaintScratch 1979 Lancia",
+        "hex_value": "#6F7A7D"
+      },
+      {
+        "display_name": "Beige Metallic",
+        "paint_code": "144",
+        "slug": "beige-metallic-144",
+        "reference_url": "https://www.paintscratch.com/colors/lancia/beige-metallic-144/",
+        "source_label": "PaintScratch 1979 Lancia",
+        "hex_value": "#D3CAB3"
+      }
+    ],
+    "1980": [
+      {
+        "display_name": "Nearco Red",
+        "paint_code": "108",
+        "slug": "nearco-red-108",
+        "reference_url": "https://www.paintscratch.com/colors/lancia/nearco-red-108/",
+        "source_label": "PaintScratch 1980 Lancia",
+        "hex_value": "#AF291F"
+      },
+      {
+        "display_name": "Ascot Green",
+        "paint_code": "109",
+        "slug": "ascot-green-109",
+        "reference_url": "https://www.paintscratch.com/colors/lancia/ascot-green-109/",
+        "source_label": "PaintScratch 1980 Lancia",
+        "hex_value": "#447C59"
+      },
+      {
+        "display_name": "Morocco Beige",
+        "paint_code": "111",
+        "slug": "morocco-beige-111",
+        "reference_url": "https://www.paintscratch.com/colors/lancia/morocco-beige-111/",
+        "source_label": "PaintScratch 1980 Lancia",
+        "hex_value": "#D1C49D"
+      },
+      {
+        "display_name": "Lancia Blue",
+        "paint_code": "121",
+        "slug": "lancia-blue-121",
+        "reference_url": "https://www.paintscratch.com/colors/lancia/lancia-blue-121/",
+        "source_label": "PaintScratch 1980 Lancia",
+        "hex_value": "#44597C"
+      },
+      {
+        "display_name": "Rosso Corsa",
+        "paint_code": "123",
+        "slug": "rosso-corsa-123",
+        "reference_url": "https://www.paintscratch.com/colors/lancia/rosso-corsa-123/",
+        "source_label": "PaintScratch 1980 Lancia",
+        "hex_value": "#B61014"
+      },
+      {
+        "display_name": "Amaranto Brown",
+        "paint_code": "125",
+        "slug": "amaranto-brown-125",
+        "reference_url": "https://www.paintscratch.com/colors/lancia/amaranto-brown-125/",
+        "source_label": "PaintScratch 1980 Lancia",
+        "hex_value": "#78513E"
+      },
+      {
+        "display_name": "Capri Blue",
+        "paint_code": "129",
+        "slug": "capri-blue-129",
+        "reference_url": "https://www.paintscratch.com/colors/lancia/capri-blue-129/",
+        "source_label": "PaintScratch 1980 Lancia",
+        "hex_value": "#95B7C1"
+      },
+      {
+        "display_name": "Portofino Blue",
+        "paint_code": "132",
+        "slug": "portofino-blue-132",
+        "reference_url": "https://www.paintscratch.com/colors/lancia/portofino-blue-132/",
+        "source_label": "PaintScratch 1980 Lancia",
+        "hex_value": "#0D2C4F"
+      },
+      {
+        "display_name": "Escoli Gray Metallic",
+        "paint_code": "135",
+        "slug": "escoli-gray-metallic-135",
+        "reference_url": "https://www.paintscratch.com/colors/lancia/escoli-gray-metallic-135/",
+        "source_label": "PaintScratch 1980 Lancia",
+        "hex_value": "#6F7A7D"
+      },
+      {
+        "display_name": "Beige Metallic",
+        "paint_code": "144",
+        "slug": "beige-metallic-144",
+        "reference_url": "https://www.paintscratch.com/colors/lancia/beige-metallic-144/",
+        "source_label": "PaintScratch 1980 Lancia",
+        "hex_value": "#D3CAB3"
+      }
+    ],
+    "1981": [
+      {
+        "display_name": "White",
+        "paint_code": "224",
+        "slug": "white-224",
+        "reference_url": "https://www.paintscratch.com/colors/lancia/white-224/",
+        "source_label": "PaintScratch 1981 Lancia",
+        "hex_value": "#F9FBFA"
+      },
+      {
+        "display_name": "Blue Metallic",
+        "paint_code": "400",
+        "slug": "blue-metallic-400",
+        "reference_url": "https://www.paintscratch.com/colors/lancia/blue-metallic-400/",
+        "source_label": "PaintScratch 1981 Lancia",
+        "hex_value": "#1C296A"
+      },
+      {
+        "display_name": "Champagne Metallic",
+        "paint_code": "512",
+        "slug": "champagne-metallic-512",
+        "reference_url": "https://www.paintscratch.com/colors/lancia/champagne-metallic-512/",
+        "source_label": "PaintScratch 1981 Lancia",
+        "hex_value": "#D5D18F"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "620",
+        "slug": "silver-metallic-620",
+        "reference_url": "https://www.paintscratch.com/colors/lancia/silver-metallic-620/",
+        "source_label": "PaintScratch 1981 Lancia",
+        "hex_value": "#CDCDCD"
+      }
+    ],
+    "1982": [
+      {
+        "display_name": "White",
+        "paint_code": "224",
+        "slug": "white-224",
+        "reference_url": "https://www.paintscratch.com/colors/lancia/white-224/",
+        "source_label": "PaintScratch 1982 Lancia",
+        "hex_value": "#F9FBFA"
+      },
+      {
+        "display_name": "Blue Metallic",
+        "paint_code": "400",
+        "slug": "blue-metallic-400",
+        "reference_url": "https://www.paintscratch.com/colors/lancia/blue-metallic-400/",
+        "source_label": "PaintScratch 1982 Lancia",
+        "hex_value": "#1C296A"
+      },
+      {
+        "display_name": "Champagne Metallic",
+        "paint_code": "512",
+        "slug": "champagne-metallic-512",
+        "reference_url": "https://www.paintscratch.com/colors/lancia/champagne-metallic-512/",
+        "source_label": "PaintScratch 1982 Lancia",
+        "hex_value": "#D5D18F"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "620",
+        "slug": "silver-metallic-620",
+        "reference_url": "https://www.paintscratch.com/colors/lancia/silver-metallic-620/",
+        "source_label": "PaintScratch 1982 Lancia",
+        "hex_value": "#CDCDCD"
+      }
+    ]
+  }
+}

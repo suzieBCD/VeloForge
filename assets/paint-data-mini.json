@@ -1,0 +1,3590 @@
+{
+  "All Models": {
+    "1987": [
+      {
+        "display_name": "Mulberry Red",
+        "paint_code": "CDM",
+        "slug": "mulberry-red-cdm",
+        "reference_url": "https://www.paintscratch.com/colors/mini/mulberry-red-cdm/",
+        "source_label": "PaintScratch 1987 Mini",
+        "hex_value": "#7A1616"
+      },
+      {
+        "display_name": "Stone",
+        "paint_code": "HNR",
+        "slug": "stone-hnr",
+        "reference_url": "https://www.paintscratch.com/colors/mini/stone-hnr/",
+        "source_label": "PaintScratch 1987 Mini",
+        "hex_value": "#D4CCA8"
+      }
+    ],
+    "1988": [
+      {
+        "display_name": "Mulberry Red",
+        "paint_code": "CDM",
+        "slug": "mulberry-red-cdm",
+        "reference_url": "https://www.paintscratch.com/colors/mini/mulberry-red-cdm/",
+        "source_label": "PaintScratch 1988 Mini",
+        "hex_value": "#7A1616"
+      },
+      {
+        "display_name": "Stone",
+        "paint_code": "HNR",
+        "slug": "stone-hnr",
+        "reference_url": "https://www.paintscratch.com/colors/mini/stone-hnr/",
+        "source_label": "PaintScratch 1988 Mini",
+        "hex_value": "#D4CCA8"
+      }
+    ],
+    "1989": [
+      {
+        "display_name": "Mulberry Red",
+        "paint_code": "CDM",
+        "slug": "mulberry-red-cdm",
+        "reference_url": "https://www.paintscratch.com/colors/mini/mulberry-red-cdm/",
+        "source_label": "PaintScratch 1989 Mini",
+        "hex_value": "#7A1616"
+      },
+      {
+        "display_name": "Stone",
+        "paint_code": "HNR",
+        "slug": "stone-hnr",
+        "reference_url": "https://www.paintscratch.com/colors/mini/stone-hnr/",
+        "source_label": "PaintScratch 1989 Mini",
+        "hex_value": "#D4CCA8"
+      }
+    ],
+    "1990": [
+      {
+        "display_name": "Mulberry Red",
+        "paint_code": "CDM",
+        "slug": "mulberry-red-cdm",
+        "reference_url": "https://www.paintscratch.com/colors/mini/mulberry-red-cdm/",
+        "source_label": "PaintScratch 1990 Mini",
+        "hex_value": "#7A1616"
+      },
+      {
+        "display_name": "Flame Red",
+        "paint_code": "COF",
+        "slug": "flame-red-cof",
+        "reference_url": "https://www.paintscratch.com/colors/mini/flame-red-cof/",
+        "source_label": "PaintScratch 1990 Mini",
+        "hex_value": "#F31515"
+      },
+      {
+        "display_name": "Stone",
+        "paint_code": "HNR",
+        "slug": "stone-hnr",
+        "reference_url": "https://www.paintscratch.com/colors/mini/stone-hnr/",
+        "source_label": "PaintScratch 1990 Mini",
+        "hex_value": "#D4CCA8"
+      },
+      {
+        "display_name": "Nordic Blue",
+        "paint_code": "JQV",
+        "slug": "nordic-blue-jqv",
+        "reference_url": "https://www.paintscratch.com/colors/mini/nordic-blue-jqv/",
+        "source_label": "PaintScratch 1990 Mini",
+        "hex_value": "#495EA3"
+      }
+    ],
+    "1991": [
+      {
+        "display_name": "Mulberry Red",
+        "paint_code": "CDM",
+        "slug": "mulberry-red-cdm",
+        "reference_url": "https://www.paintscratch.com/colors/mini/mulberry-red-cdm/",
+        "source_label": "PaintScratch 1991 Mini",
+        "hex_value": "#7A1616"
+      },
+      {
+        "display_name": "Stone",
+        "paint_code": "HNR",
+        "slug": "stone-hnr",
+        "reference_url": "https://www.paintscratch.com/colors/mini/stone-hnr/",
+        "source_label": "PaintScratch 1991 Mini",
+        "hex_value": "#D4CCA8"
+      }
+    ],
+    "1992": [
+      {
+        "display_name": "Mulberry Red",
+        "paint_code": "CDM",
+        "slug": "mulberry-red-cdm",
+        "reference_url": "https://www.paintscratch.com/colors/mini/mulberry-red-cdm/",
+        "source_label": "PaintScratch 1992 Mini",
+        "hex_value": "#7A1616"
+      },
+      {
+        "display_name": "Stone",
+        "paint_code": "HNR",
+        "slug": "stone-hnr",
+        "reference_url": "https://www.paintscratch.com/colors/mini/stone-hnr/",
+        "source_label": "PaintScratch 1992 Mini",
+        "hex_value": "#D4CCA8"
+      }
+    ],
+    "1993": [
+      {
+        "display_name": "Mulberry Red",
+        "paint_code": "CDM",
+        "slug": "mulberry-red-cdm",
+        "reference_url": "https://www.paintscratch.com/colors/mini/mulberry-red-cdm/",
+        "source_label": "PaintScratch 1993 Mini",
+        "hex_value": "#7A1616"
+      },
+      {
+        "display_name": "Stone",
+        "paint_code": "HNR",
+        "slug": "stone-hnr",
+        "reference_url": "https://www.paintscratch.com/colors/mini/stone-hnr/",
+        "source_label": "PaintScratch 1993 Mini",
+        "hex_value": "#D4CCA8"
+      }
+    ],
+    "1994": [
+      {
+        "display_name": "Mulberry Red",
+        "paint_code": "CDM",
+        "slug": "mulberry-red-cdm",
+        "reference_url": "https://www.paintscratch.com/colors/mini/mulberry-red-cdm/",
+        "source_label": "PaintScratch 1994 Mini",
+        "hex_value": "#7A1616"
+      },
+      {
+        "display_name": "Stone",
+        "paint_code": "HNR",
+        "slug": "stone-hnr",
+        "reference_url": "https://www.paintscratch.com/colors/mini/stone-hnr/",
+        "source_label": "PaintScratch 1994 Mini",
+        "hex_value": "#D4CCA8"
+      }
+    ],
+    "1995": [
+      {
+        "display_name": "Mulberry Red",
+        "paint_code": "CDM",
+        "slug": "mulberry-red-cdm",
+        "reference_url": "https://www.paintscratch.com/colors/mini/mulberry-red-cdm/",
+        "source_label": "PaintScratch 1995 Mini",
+        "hex_value": "#7A1616"
+      },
+      {
+        "display_name": "Stone",
+        "paint_code": "HNR",
+        "slug": "stone-hnr",
+        "reference_url": "https://www.paintscratch.com/colors/mini/stone-hnr/",
+        "source_label": "PaintScratch 1995 Mini",
+        "hex_value": "#D4CCA8"
+      }
+    ],
+    "1996": [
+      {
+        "display_name": "Mulberry Red",
+        "paint_code": "CDM",
+        "slug": "mulberry-red-cdm",
+        "reference_url": "https://www.paintscratch.com/colors/mini/mulberry-red-cdm/",
+        "source_label": "PaintScratch 1996 Mini",
+        "hex_value": "#7A1616"
+      },
+      {
+        "display_name": "Stone",
+        "paint_code": "HNR",
+        "slug": "stone-hnr",
+        "reference_url": "https://www.paintscratch.com/colors/mini/stone-hnr/",
+        "source_label": "PaintScratch 1996 Mini",
+        "hex_value": "#D4CCA8"
+      }
+    ],
+    "1997": [
+      {
+        "display_name": "Mulberry Red",
+        "paint_code": "CDM",
+        "slug": "mulberry-red-cdm",
+        "reference_url": "https://www.paintscratch.com/colors/mini/mulberry-red-cdm/",
+        "source_label": "PaintScratch 1997 Mini",
+        "hex_value": "#7A1616"
+      },
+      {
+        "display_name": "Stone",
+        "paint_code": "HNR",
+        "slug": "stone-hnr",
+        "reference_url": "https://www.paintscratch.com/colors/mini/stone-hnr/",
+        "source_label": "PaintScratch 1997 Mini",
+        "hex_value": "#D4CCA8"
+      }
+    ],
+    "1998": [
+      {
+        "display_name": "Mulberry Red",
+        "paint_code": "CDM",
+        "slug": "mulberry-red-cdm",
+        "reference_url": "https://www.paintscratch.com/colors/mini/mulberry-red-cdm/",
+        "source_label": "PaintScratch 1998 Mini",
+        "hex_value": "#7A1616"
+      },
+      {
+        "display_name": "Stone",
+        "paint_code": "HNR",
+        "slug": "stone-hnr",
+        "reference_url": "https://www.paintscratch.com/colors/mini/stone-hnr/",
+        "source_label": "PaintScratch 1998 Mini",
+        "hex_value": "#D4CCA8"
+      }
+    ],
+    "1999": [
+      {
+        "display_name": "Mulberry Red",
+        "paint_code": "CDM",
+        "slug": "mulberry-red-cdm",
+        "reference_url": "https://www.paintscratch.com/colors/mini/mulberry-red-cdm/",
+        "source_label": "PaintScratch 1999 Mini",
+        "hex_value": "#7A1616"
+      },
+      {
+        "display_name": "Stone",
+        "paint_code": "HNR",
+        "slug": "stone-hnr",
+        "reference_url": "https://www.paintscratch.com/colors/mini/stone-hnr/",
+        "source_label": "PaintScratch 1999 Mini",
+        "hex_value": "#D4CCA8"
+      }
+    ],
+    "2000": [
+      {
+        "display_name": "Mulberry Red",
+        "paint_code": "CDM",
+        "slug": "mulberry-red-cdm",
+        "reference_url": "https://www.paintscratch.com/colors/mini/mulberry-red-cdm/",
+        "source_label": "PaintScratch 2000 Mini",
+        "hex_value": "#7A1616"
+      },
+      {
+        "display_name": "Stone",
+        "paint_code": "HNR",
+        "slug": "stone-hnr",
+        "reference_url": "https://www.paintscratch.com/colors/mini/stone-hnr/",
+        "source_label": "PaintScratch 2000 Mini",
+        "hex_value": "#D4CCA8"
+      }
+    ],
+    "2001": [
+      {
+        "display_name": "Mulberry Red",
+        "paint_code": "CDM",
+        "slug": "mulberry-red-cdm",
+        "reference_url": "https://www.paintscratch.com/colors/mini/mulberry-red-cdm/",
+        "source_label": "PaintScratch 2001 Mini",
+        "hex_value": "#7A1616"
+      },
+      {
+        "display_name": "Stone",
+        "paint_code": "HNR",
+        "slug": "stone-hnr",
+        "reference_url": "https://www.paintscratch.com/colors/mini/stone-hnr/",
+        "source_label": "PaintScratch 2001 Mini",
+        "hex_value": "#D4CCA8"
+      }
+    ],
+    "2002": [
+      {
+        "display_name": "Chili Red",
+        "paint_code": "851",
+        "slug": "chili-red-851",
+        "reference_url": "https://www.paintscratch.com/colors/mini/chili-red-851/",
+        "source_label": "PaintScratch 2002 Mini",
+        "hex_value": "#CE1C18"
+      },
+      {
+        "display_name": "Pepper White (also roof)",
+        "paint_code": "850",
+        "slug": "pepper-white-also-roof-850",
+        "reference_url": "https://www.paintscratch.com/colors/mini/pepper-white-also-roof-850/",
+        "source_label": "PaintScratch 2002 Mini",
+        "hex_value": "#F4F2E4"
+      },
+      {
+        "display_name": "Black (also roof)",
+        "paint_code": "668",
+        "slug": "black-also-roof-668",
+        "reference_url": "https://www.paintscratch.com/colors/mini/black-also-roof-668/",
+        "source_label": "PaintScratch 2002 Mini",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Electric Blue Metallic",
+        "paint_code": "870",
+        "slug": "electric-blue-metallic-870",
+        "reference_url": "https://www.paintscratch.com/colors/mini/electric-blue-metallic-870/",
+        "source_label": "PaintScratch 2002 Mini",
+        "hex_value": "#94C3CC"
+      },
+      {
+        "display_name": "Dark Silver Metallic",
+        "paint_code": "871",
+        "slug": "dark-silver-metallic-871",
+        "reference_url": "https://www.paintscratch.com/colors/mini/dark-silver-metallic-871/",
+        "source_label": "PaintScratch 2002 Mini",
+        "hex_value": "#7D7A73"
+      },
+      {
+        "display_name": "British Racing Green Metallic",
+        "paint_code": "895",
+        "slug": "british-racing-green-metallic-895",
+        "reference_url": "https://www.paintscratch.com/colors/mini/british-racing-green-metallic-895/",
+        "source_label": "PaintScratch 2002 Mini",
+        "hex_value": "#47803C"
+      },
+      {
+        "display_name": "Pure Silver Metallic",
+        "paint_code": "900",
+        "slug": "pure-silver-metallic-900",
+        "reference_url": "https://www.paintscratch.com/colors/mini/pure-silver-metallic-900/",
+        "source_label": "PaintScratch 2002 Mini",
+        "hex_value": "#EEEDEA"
+      },
+      {
+        "display_name": "Cosmos Black Pearl Metallic",
+        "paint_code": "303",
+        "slug": "cosmos-black-pearl-metallic-303",
+        "reference_url": "https://www.paintscratch.com/colors/mini/cosmos-black-pearl-metallic-303/",
+        "source_label": "PaintScratch 2002 Mini",
+        "hex_value": "#202020"
+      },
+      {
+        "display_name": "Solid Gold Metallic",
+        "paint_code": "859",
+        "slug": "solid-gold-metallic-859",
+        "reference_url": "https://www.paintscratch.com/colors/mini/solid-gold-metallic-859/",
+        "source_label": "PaintScratch 2002 Mini",
+        "hex_value": "#CBA25B"
+      },
+      {
+        "display_name": "Indi Blue Pearl",
+        "paint_code": "862",
+        "slug": "indi-blue-pearl-862",
+        "reference_url": "https://www.paintscratch.com/colors/mini/indi-blue-pearl-862/",
+        "source_label": "PaintScratch 2002 Mini",
+        "hex_value": "#264E90"
+      },
+      {
+        "display_name": "Aspen White (also roof)",
+        "paint_code": "899",
+        "slug": "aspen-white-also-roof-899",
+        "reference_url": "https://www.paintscratch.com/colors/mini/aspen-white-also-roof-899/",
+        "source_label": "PaintScratch 2002 Mini",
+        "hex_value": "#FBFAF5"
+      },
+      {
+        "display_name": "Silk Green Metallic",
+        "paint_code": "901",
+        "slug": "silk-green-metallic-901",
+        "reference_url": "https://www.paintscratch.com/colors/mini/silk-green-metallic-901/",
+        "source_label": "PaintScratch 2002 Mini",
+        "hex_value": "#B2D4C0"
+      },
+      {
+        "display_name": "Liquid Yellow",
+        "paint_code": "902",
+        "slug": "liquid-yellow-902",
+        "reference_url": "https://www.paintscratch.com/colors/mini/liquid-yellow-902/",
+        "source_label": "PaintScratch 2002 Mini",
+        "hex_value": "#F0F729"
+      },
+      {
+        "display_name": "Velvet Red Metallic",
+        "paint_code": "903",
+        "slug": "velvet-red-metallic-903",
+        "reference_url": "https://www.paintscratch.com/colors/mini/velvet-red-metallic-903/",
+        "source_label": "PaintScratch 2002 Mini",
+        "hex_value": "#800000"
+      },
+      {
+        "display_name": "Mulberry Red",
+        "paint_code": "CDM",
+        "slug": "mulberry-red-cdm",
+        "reference_url": "https://www.paintscratch.com/colors/mini/mulberry-red-cdm/",
+        "source_label": "PaintScratch 2002 Mini",
+        "hex_value": "#7A1616"
+      },
+      {
+        "display_name": "Stone",
+        "paint_code": "HNR",
+        "slug": "stone-hnr",
+        "reference_url": "https://www.paintscratch.com/colors/mini/stone-hnr/",
+        "source_label": "PaintScratch 2002 Mini",
+        "hex_value": "#D4CCA8"
+      }
+    ],
+    "2003": [
+      {
+        "display_name": "Chili Red",
+        "paint_code": "851",
+        "slug": "chili-red-851",
+        "reference_url": "https://www.paintscratch.com/colors/mini/chili-red-851/",
+        "source_label": "PaintScratch 2003 Mini",
+        "hex_value": "#CE1C18"
+      },
+      {
+        "display_name": "Pepper White (also roof)",
+        "paint_code": "850",
+        "slug": "pepper-white-also-roof-850",
+        "reference_url": "https://www.paintscratch.com/colors/mini/pepper-white-also-roof-850/",
+        "source_label": "PaintScratch 2003 Mini",
+        "hex_value": "#F4F2E4"
+      },
+      {
+        "display_name": "Black (also roof)",
+        "paint_code": "668",
+        "slug": "black-also-roof-668",
+        "reference_url": "https://www.paintscratch.com/colors/mini/black-also-roof-668/",
+        "source_label": "PaintScratch 2003 Mini",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Electric Blue Metallic",
+        "paint_code": "870",
+        "slug": "electric-blue-metallic-870",
+        "reference_url": "https://www.paintscratch.com/colors/mini/electric-blue-metallic-870/",
+        "source_label": "PaintScratch 2003 Mini",
+        "hex_value": "#94C3CC"
+      },
+      {
+        "display_name": "Dark Silver Metallic",
+        "paint_code": "871",
+        "slug": "dark-silver-metallic-871",
+        "reference_url": "https://www.paintscratch.com/colors/mini/dark-silver-metallic-871/",
+        "source_label": "PaintScratch 2003 Mini",
+        "hex_value": "#7D7A73"
+      },
+      {
+        "display_name": "British Racing Green Metallic",
+        "paint_code": "895",
+        "slug": "british-racing-green-metallic-895",
+        "reference_url": "https://www.paintscratch.com/colors/mini/british-racing-green-metallic-895/",
+        "source_label": "PaintScratch 2003 Mini",
+        "hex_value": "#47803C"
+      },
+      {
+        "display_name": "Pure Silver Metallic",
+        "paint_code": "900",
+        "slug": "pure-silver-metallic-900",
+        "reference_url": "https://www.paintscratch.com/colors/mini/pure-silver-metallic-900/",
+        "source_label": "PaintScratch 2003 Mini",
+        "hex_value": "#EEEDEA"
+      },
+      {
+        "display_name": "Cosmos Black Pearl Metallic",
+        "paint_code": "303",
+        "slug": "cosmos-black-pearl-metallic-303",
+        "reference_url": "https://www.paintscratch.com/colors/mini/cosmos-black-pearl-metallic-303/",
+        "source_label": "PaintScratch 2003 Mini",
+        "hex_value": "#202020"
+      },
+      {
+        "display_name": "Solid Gold Metallic",
+        "paint_code": "859",
+        "slug": "solid-gold-metallic-859",
+        "reference_url": "https://www.paintscratch.com/colors/mini/solid-gold-metallic-859/",
+        "source_label": "PaintScratch 2003 Mini",
+        "hex_value": "#CBA25B"
+      },
+      {
+        "display_name": "Indi Blue Pearl",
+        "paint_code": "862",
+        "slug": "indi-blue-pearl-862",
+        "reference_url": "https://www.paintscratch.com/colors/mini/indi-blue-pearl-862/",
+        "source_label": "PaintScratch 2003 Mini",
+        "hex_value": "#264E90"
+      },
+      {
+        "display_name": "Aspen White (also roof)",
+        "paint_code": "899",
+        "slug": "aspen-white-also-roof-899",
+        "reference_url": "https://www.paintscratch.com/colors/mini/aspen-white-also-roof-899/",
+        "source_label": "PaintScratch 2003 Mini",
+        "hex_value": "#FBFAF5"
+      },
+      {
+        "display_name": "Silk Green Metallic",
+        "paint_code": "901",
+        "slug": "silk-green-metallic-901",
+        "reference_url": "https://www.paintscratch.com/colors/mini/silk-green-metallic-901/",
+        "source_label": "PaintScratch 2003 Mini",
+        "hex_value": "#B2D4C0"
+      },
+      {
+        "display_name": "Liquid Yellow",
+        "paint_code": "902",
+        "slug": "liquid-yellow-902",
+        "reference_url": "https://www.paintscratch.com/colors/mini/liquid-yellow-902/",
+        "source_label": "PaintScratch 2003 Mini",
+        "hex_value": "#F0F729"
+      },
+      {
+        "display_name": "Velvet Red Metallic",
+        "paint_code": "903",
+        "slug": "velvet-red-metallic-903",
+        "reference_url": "https://www.paintscratch.com/colors/mini/velvet-red-metallic-903/",
+        "source_label": "PaintScratch 2003 Mini",
+        "hex_value": "#800000"
+      }
+    ],
+    "2004": [
+      {
+        "display_name": "Chili Red",
+        "paint_code": "851",
+        "slug": "chili-red-851",
+        "reference_url": "https://www.paintscratch.com/colors/mini/chili-red-851/",
+        "source_label": "PaintScratch 2004 Mini",
+        "hex_value": "#CE1C18"
+      },
+      {
+        "display_name": "Pepper White (also roof)",
+        "paint_code": "850",
+        "slug": "pepper-white-also-roof-850",
+        "reference_url": "https://www.paintscratch.com/colors/mini/pepper-white-also-roof-850/",
+        "source_label": "PaintScratch 2004 Mini",
+        "hex_value": "#F4F2E4"
+      },
+      {
+        "display_name": "Black (also roof)",
+        "paint_code": "668",
+        "slug": "black-also-roof-668",
+        "reference_url": "https://www.paintscratch.com/colors/mini/black-also-roof-668/",
+        "source_label": "PaintScratch 2004 Mini",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Electric Blue Metallic",
+        "paint_code": "870",
+        "slug": "electric-blue-metallic-870",
+        "reference_url": "https://www.paintscratch.com/colors/mini/electric-blue-metallic-870/",
+        "source_label": "PaintScratch 2004 Mini",
+        "hex_value": "#94C3CC"
+      },
+      {
+        "display_name": "Dark Silver Metallic",
+        "paint_code": "871",
+        "slug": "dark-silver-metallic-871",
+        "reference_url": "https://www.paintscratch.com/colors/mini/dark-silver-metallic-871/",
+        "source_label": "PaintScratch 2004 Mini",
+        "hex_value": "#7D7A73"
+      },
+      {
+        "display_name": "British Racing Green Metallic",
+        "paint_code": "895",
+        "slug": "british-racing-green-metallic-895",
+        "reference_url": "https://www.paintscratch.com/colors/mini/british-racing-green-metallic-895/",
+        "source_label": "PaintScratch 2004 Mini",
+        "hex_value": "#47803C"
+      },
+      {
+        "display_name": "Pure Silver Metallic",
+        "paint_code": "900",
+        "slug": "pure-silver-metallic-900",
+        "reference_url": "https://www.paintscratch.com/colors/mini/pure-silver-metallic-900/",
+        "source_label": "PaintScratch 2004 Mini",
+        "hex_value": "#EEEDEA"
+      },
+      {
+        "display_name": "Cosmos Black Pearl Metallic",
+        "paint_code": "303",
+        "slug": "cosmos-black-pearl-metallic-303",
+        "reference_url": "https://www.paintscratch.com/colors/mini/cosmos-black-pearl-metallic-303/",
+        "source_label": "PaintScratch 2004 Mini",
+        "hex_value": "#202020"
+      },
+      {
+        "display_name": "Solid Gold Metallic",
+        "paint_code": "859",
+        "slug": "solid-gold-metallic-859",
+        "reference_url": "https://www.paintscratch.com/colors/mini/solid-gold-metallic-859/",
+        "source_label": "PaintScratch 2004 Mini",
+        "hex_value": "#CBA25B"
+      },
+      {
+        "display_name": "Indi Blue Pearl",
+        "paint_code": "862",
+        "slug": "indi-blue-pearl-862",
+        "reference_url": "https://www.paintscratch.com/colors/mini/indi-blue-pearl-862/",
+        "source_label": "PaintScratch 2004 Mini",
+        "hex_value": "#264E90"
+      },
+      {
+        "display_name": "Aspen White (also roof)",
+        "paint_code": "899",
+        "slug": "aspen-white-also-roof-899",
+        "reference_url": "https://www.paintscratch.com/colors/mini/aspen-white-also-roof-899/",
+        "source_label": "PaintScratch 2004 Mini",
+        "hex_value": "#FBFAF5"
+      },
+      {
+        "display_name": "Silk Green Metallic",
+        "paint_code": "901",
+        "slug": "silk-green-metallic-901",
+        "reference_url": "https://www.paintscratch.com/colors/mini/silk-green-metallic-901/",
+        "source_label": "PaintScratch 2004 Mini",
+        "hex_value": "#B2D4C0"
+      },
+      {
+        "display_name": "Liquid Yellow",
+        "paint_code": "902",
+        "slug": "liquid-yellow-902",
+        "reference_url": "https://www.paintscratch.com/colors/mini/liquid-yellow-902/",
+        "source_label": "PaintScratch 2004 Mini",
+        "hex_value": "#F0F729"
+      },
+      {
+        "display_name": "Velvet Red Metallic",
+        "paint_code": "903",
+        "slug": "velvet-red-metallic-903",
+        "reference_url": "https://www.paintscratch.com/colors/mini/velvet-red-metallic-903/",
+        "source_label": "PaintScratch 2004 Mini",
+        "hex_value": "#800000"
+      }
+    ],
+    "2005": [
+      {
+        "display_name": "Chili Red",
+        "paint_code": "851",
+        "slug": "chili-red-851",
+        "reference_url": "https://www.paintscratch.com/colors/mini/chili-red-851/",
+        "source_label": "PaintScratch 2005 Mini",
+        "hex_value": "#CE1C18"
+      },
+      {
+        "display_name": "Pepper White (also roof)",
+        "paint_code": "850",
+        "slug": "pepper-white-also-roof-850",
+        "reference_url": "https://www.paintscratch.com/colors/mini/pepper-white-also-roof-850/",
+        "source_label": "PaintScratch 2005 Mini",
+        "hex_value": "#F4F2E4"
+      },
+      {
+        "display_name": "Black (also roof)",
+        "paint_code": "668",
+        "slug": "black-also-roof-668",
+        "reference_url": "https://www.paintscratch.com/colors/mini/black-also-roof-668/",
+        "source_label": "PaintScratch 2005 Mini",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Electric Blue Metallic",
+        "paint_code": "870",
+        "slug": "electric-blue-metallic-870",
+        "reference_url": "https://www.paintscratch.com/colors/mini/electric-blue-metallic-870/",
+        "source_label": "PaintScratch 2005 Mini",
+        "hex_value": "#94C3CC"
+      },
+      {
+        "display_name": "Dark Silver Metallic",
+        "paint_code": "871",
+        "slug": "dark-silver-metallic-871",
+        "reference_url": "https://www.paintscratch.com/colors/mini/dark-silver-metallic-871/",
+        "source_label": "PaintScratch 2005 Mini",
+        "hex_value": "#7D7A73"
+      },
+      {
+        "display_name": "British Racing Green Metallic",
+        "paint_code": "895",
+        "slug": "british-racing-green-metallic-895",
+        "reference_url": "https://www.paintscratch.com/colors/mini/british-racing-green-metallic-895/",
+        "source_label": "PaintScratch 2005 Mini",
+        "hex_value": "#47803C"
+      },
+      {
+        "display_name": "Pure Silver Metallic",
+        "paint_code": "900",
+        "slug": "pure-silver-metallic-900",
+        "reference_url": "https://www.paintscratch.com/colors/mini/pure-silver-metallic-900/",
+        "source_label": "PaintScratch 2005 Mini",
+        "hex_value": "#EEEDEA"
+      },
+      {
+        "display_name": "Astro Black",
+        "paint_code": "A25",
+        "slug": "astro-black-a25",
+        "reference_url": "https://www.paintscratch.com/colors/mini/astro-black-a25/",
+        "source_label": "PaintScratch 2005 Mini",
+        "hex_value": "#202020"
+      },
+      {
+        "display_name": "Hyper Blue Metallic",
+        "paint_code": "A28",
+        "slug": "hyper-blue-metallic-a28",
+        "reference_url": "https://www.paintscratch.com/colors/mini/hyper-blue-metallic-a28/",
+        "source_label": "PaintScratch 2005 Mini",
+        "hex_value": "#505EB4"
+      },
+      {
+        "display_name": "Solid Gold Metallic",
+        "paint_code": "859",
+        "slug": "solid-gold-metallic-859",
+        "reference_url": "https://www.paintscratch.com/colors/mini/solid-gold-metallic-859/",
+        "source_label": "PaintScratch 2005 Mini",
+        "hex_value": "#CBA25B"
+      },
+      {
+        "display_name": "Indi Blue Pearl",
+        "paint_code": "862",
+        "slug": "indi-blue-pearl-862",
+        "reference_url": "https://www.paintscratch.com/colors/mini/indi-blue-pearl-862/",
+        "source_label": "PaintScratch 2005 Mini",
+        "hex_value": "#264E90"
+      },
+      {
+        "display_name": "Aspen White (also roof)",
+        "paint_code": "899",
+        "slug": "aspen-white-also-roof-899",
+        "reference_url": "https://www.paintscratch.com/colors/mini/aspen-white-also-roof-899/",
+        "source_label": "PaintScratch 2005 Mini",
+        "hex_value": "#FBFAF5"
+      },
+      {
+        "display_name": "Silk Green Metallic",
+        "paint_code": "901",
+        "slug": "silk-green-metallic-901",
+        "reference_url": "https://www.paintscratch.com/colors/mini/silk-green-metallic-901/",
+        "source_label": "PaintScratch 2005 Mini",
+        "hex_value": "#B2D4C0"
+      },
+      {
+        "display_name": "Liquid Yellow",
+        "paint_code": "902",
+        "slug": "liquid-yellow-902",
+        "reference_url": "https://www.paintscratch.com/colors/mini/liquid-yellow-902/",
+        "source_label": "PaintScratch 2005 Mini",
+        "hex_value": "#F0F729"
+      },
+      {
+        "display_name": "Velvet Red Metallic",
+        "paint_code": "903",
+        "slug": "velvet-red-metallic-903",
+        "reference_url": "https://www.paintscratch.com/colors/mini/velvet-red-metallic-903/",
+        "source_label": "PaintScratch 2005 Mini",
+        "hex_value": "#800000"
+      },
+      {
+        "display_name": "Black-Eye Purple Metallic",
+        "paint_code": "A24",
+        "slug": "black-eye-purple-metallic-a24",
+        "reference_url": "https://www.paintscratch.com/colors/mini/black-eye-purple-metallic-a24/",
+        "source_label": "PaintScratch 2005 Mini",
+        "hex_value": "#453569"
+      }
+    ],
+    "2006": [
+      {
+        "display_name": "Chili Red",
+        "paint_code": "851",
+        "slug": "chili-red-851",
+        "reference_url": "https://www.paintscratch.com/colors/mini/chili-red-851/",
+        "source_label": "PaintScratch 2006 Mini",
+        "hex_value": "#CE1C18"
+      },
+      {
+        "display_name": "Pepper White (also roof)",
+        "paint_code": "850",
+        "slug": "pepper-white-also-roof-850",
+        "reference_url": "https://www.paintscratch.com/colors/mini/pepper-white-also-roof-850/",
+        "source_label": "PaintScratch 2006 Mini",
+        "hex_value": "#F4F2E4"
+      },
+      {
+        "display_name": "Royal Gray Metallic",
+        "paint_code": "A48",
+        "slug": "royal-gray-metallic-a48",
+        "reference_url": "https://www.paintscratch.com/colors/mini/royal-gray-metallic-a48/",
+        "source_label": "PaintScratch 2006 Mini",
+        "hex_value": "#83816D"
+      },
+      {
+        "display_name": "Black (also roof)",
+        "paint_code": "668",
+        "slug": "black-also-roof-668",
+        "reference_url": "https://www.paintscratch.com/colors/mini/black-also-roof-668/",
+        "source_label": "PaintScratch 2006 Mini",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Electric Blue Metallic",
+        "paint_code": "870",
+        "slug": "electric-blue-metallic-870",
+        "reference_url": "https://www.paintscratch.com/colors/mini/electric-blue-metallic-870/",
+        "source_label": "PaintScratch 2006 Mini",
+        "hex_value": "#94C3CC"
+      },
+      {
+        "display_name": "Dark Silver Metallic",
+        "paint_code": "871",
+        "slug": "dark-silver-metallic-871",
+        "reference_url": "https://www.paintscratch.com/colors/mini/dark-silver-metallic-871/",
+        "source_label": "PaintScratch 2006 Mini",
+        "hex_value": "#7D7A73"
+      },
+      {
+        "display_name": "British Racing Green Metallic",
+        "paint_code": "895",
+        "slug": "british-racing-green-metallic-895",
+        "reference_url": "https://www.paintscratch.com/colors/mini/british-racing-green-metallic-895/",
+        "source_label": "PaintScratch 2006 Mini",
+        "hex_value": "#47803C"
+      },
+      {
+        "display_name": "Pure Silver Metallic",
+        "paint_code": "900",
+        "slug": "pure-silver-metallic-900",
+        "reference_url": "https://www.paintscratch.com/colors/mini/pure-silver-metallic-900/",
+        "source_label": "PaintScratch 2006 Mini",
+        "hex_value": "#EEEDEA"
+      },
+      {
+        "display_name": "Astro Black",
+        "paint_code": "A25",
+        "slug": "astro-black-a25",
+        "reference_url": "https://www.paintscratch.com/colors/mini/astro-black-a25/",
+        "source_label": "PaintScratch 2006 Mini",
+        "hex_value": "#202020"
+      },
+      {
+        "display_name": "Hyper Blue Metallic",
+        "paint_code": "A28",
+        "slug": "hyper-blue-metallic-a28",
+        "reference_url": "https://www.paintscratch.com/colors/mini/hyper-blue-metallic-a28/",
+        "source_label": "PaintScratch 2006 Mini",
+        "hex_value": "#505EB4"
+      },
+      {
+        "display_name": "Solid Gold Metallic",
+        "paint_code": "859",
+        "slug": "solid-gold-metallic-859",
+        "reference_url": "https://www.paintscratch.com/colors/mini/solid-gold-metallic-859/",
+        "source_label": "PaintScratch 2006 Mini",
+        "hex_value": "#CBA25B"
+      },
+      {
+        "display_name": "Aspen White (also roof)",
+        "paint_code": "899",
+        "slug": "aspen-white-also-roof-899",
+        "reference_url": "https://www.paintscratch.com/colors/mini/aspen-white-also-roof-899/",
+        "source_label": "PaintScratch 2006 Mini",
+        "hex_value": "#FBFAF5"
+      },
+      {
+        "display_name": "Liquid Yellow",
+        "paint_code": "902",
+        "slug": "liquid-yellow-902",
+        "reference_url": "https://www.paintscratch.com/colors/mini/liquid-yellow-902/",
+        "source_label": "PaintScratch 2006 Mini",
+        "hex_value": "#F0F729"
+      },
+      {
+        "display_name": "Black-Eye Purple Metallic",
+        "paint_code": "A24",
+        "slug": "black-eye-purple-metallic-a24",
+        "reference_url": "https://www.paintscratch.com/colors/mini/black-eye-purple-metallic-a24/",
+        "source_label": "PaintScratch 2006 Mini",
+        "hex_value": "#453569"
+      },
+      {
+        "display_name": "Hot Orange Metallic",
+        "paint_code": "A26",
+        "slug": "hot-orange-metallic-a26",
+        "reference_url": "https://www.paintscratch.com/colors/mini/hot-orange-metallic-a26/",
+        "source_label": "PaintScratch 2006 Mini",
+        "hex_value": "#F4790C"
+      },
+      {
+        "display_name": "Cool Blue Metallic",
+        "paint_code": "A27",
+        "slug": "cool-blue-metallic-a27",
+        "reference_url": "https://www.paintscratch.com/colors/mini/cool-blue-metallic-a27/",
+        "source_label": "PaintScratch 2006 Mini",
+        "hex_value": "#6C7398"
+      }
+    ],
+    "2007": [
+      {
+        "display_name": "Chili Red",
+        "paint_code": "851",
+        "slug": "chili-red-851",
+        "reference_url": "https://www.paintscratch.com/colors/mini/chili-red-851/",
+        "source_label": "PaintScratch 2007 Mini",
+        "hex_value": "#CE1C18"
+      },
+      {
+        "display_name": "Pepper White (also roof)",
+        "paint_code": "850",
+        "slug": "pepper-white-also-roof-850",
+        "reference_url": "https://www.paintscratch.com/colors/mini/pepper-white-also-roof-850/",
+        "source_label": "PaintScratch 2007 Mini",
+        "hex_value": "#F4F2E4"
+      },
+      {
+        "display_name": "Royal Gray Metallic",
+        "paint_code": "A48",
+        "slug": "royal-gray-metallic-a48",
+        "reference_url": "https://www.paintscratch.com/colors/mini/royal-gray-metallic-a48/",
+        "source_label": "PaintScratch 2007 Mini",
+        "hex_value": "#83816D"
+      },
+      {
+        "display_name": "Oxygen Blue",
+        "paint_code": "A74",
+        "slug": "oxygen-blue-a74",
+        "reference_url": "https://www.paintscratch.com/colors/mini/oxygen-blue-a74/",
+        "source_label": "PaintScratch 2007 Mini",
+        "hex_value": "#254D64"
+      },
+      {
+        "display_name": "Black (also roof)",
+        "paint_code": "668",
+        "slug": "black-also-roof-668",
+        "reference_url": "https://www.paintscratch.com/colors/mini/black-also-roof-668/",
+        "source_label": "PaintScratch 2007 Mini",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Dark Silver Metallic",
+        "paint_code": "871",
+        "slug": "dark-silver-metallic-871",
+        "reference_url": "https://www.paintscratch.com/colors/mini/dark-silver-metallic-871/",
+        "source_label": "PaintScratch 2007 Mini",
+        "hex_value": "#7D7A73"
+      },
+      {
+        "display_name": "British Racing Green Metallic",
+        "paint_code": "895",
+        "slug": "british-racing-green-metallic-895",
+        "reference_url": "https://www.paintscratch.com/colors/mini/british-racing-green-metallic-895/",
+        "source_label": "PaintScratch 2007 Mini",
+        "hex_value": "#47803C"
+      },
+      {
+        "display_name": "Pure Silver Metallic",
+        "paint_code": "900",
+        "slug": "pure-silver-metallic-900",
+        "reference_url": "https://www.paintscratch.com/colors/mini/pure-silver-metallic-900/",
+        "source_label": "PaintScratch 2007 Mini",
+        "hex_value": "#EEEDEA"
+      },
+      {
+        "display_name": "Astro Black",
+        "paint_code": "A25",
+        "slug": "astro-black-a25",
+        "reference_url": "https://www.paintscratch.com/colors/mini/astro-black-a25/",
+        "source_label": "PaintScratch 2007 Mini",
+        "hex_value": "#202020"
+      },
+      {
+        "display_name": "Hyper Blue Metallic",
+        "paint_code": "A28",
+        "slug": "hyper-blue-metallic-a28",
+        "reference_url": "https://www.paintscratch.com/colors/mini/hyper-blue-metallic-a28/",
+        "source_label": "PaintScratch 2007 Mini",
+        "hex_value": "#505EB4"
+      },
+      {
+        "display_name": "Lightning Blue Pearl",
+        "paint_code": "A63",
+        "slug": "lightning-blue-pearl-a63",
+        "reference_url": "https://www.paintscratch.com/colors/mini/lightning-blue-pearl-a63/",
+        "source_label": "PaintScratch 2007 Mini",
+        "hex_value": "#1E2C60"
+      },
+      {
+        "display_name": "Nightfire Red Pearl",
+        "paint_code": "857",
+        "slug": "nightfire-red-pearl-857",
+        "reference_url": "https://www.paintscratch.com/colors/mini/nightfire-red-pearl-857/",
+        "source_label": "PaintScratch 2007 Mini",
+        "hex_value": "#A1211B"
+      },
+      {
+        "display_name": "Aspen White (also roof)",
+        "paint_code": "899",
+        "slug": "aspen-white-also-roof-899",
+        "reference_url": "https://www.paintscratch.com/colors/mini/aspen-white-also-roof-899/",
+        "source_label": "PaintScratch 2007 Mini",
+        "hex_value": "#FBFAF5"
+      },
+      {
+        "display_name": "Liquid Yellow",
+        "paint_code": "902",
+        "slug": "liquid-yellow-902",
+        "reference_url": "https://www.paintscratch.com/colors/mini/liquid-yellow-902/",
+        "source_label": "PaintScratch 2007 Mini",
+        "hex_value": "#F0F729"
+      },
+      {
+        "display_name": "Black-Eye Purple Metallic",
+        "paint_code": "A24",
+        "slug": "black-eye-purple-metallic-a24",
+        "reference_url": "https://www.paintscratch.com/colors/mini/black-eye-purple-metallic-a24/",
+        "source_label": "PaintScratch 2007 Mini",
+        "hex_value": "#453569"
+      },
+      {
+        "display_name": "Hot Orange Metallic",
+        "paint_code": "A26",
+        "slug": "hot-orange-metallic-a26",
+        "reference_url": "https://www.paintscratch.com/colors/mini/hot-orange-metallic-a26/",
+        "source_label": "PaintScratch 2007 Mini",
+        "hex_value": "#F4790C"
+      }
+    ],
+    "2008": [
+      {
+        "display_name": "Chili Red",
+        "paint_code": "851",
+        "slug": "chili-red-851",
+        "reference_url": "https://www.paintscratch.com/colors/mini/chili-red-851/",
+        "source_label": "PaintScratch 2008 Mini",
+        "hex_value": "#CE1C18"
+      },
+      {
+        "display_name": "Pepper White (also roof)",
+        "paint_code": "850",
+        "slug": "pepper-white-also-roof-850",
+        "reference_url": "https://www.paintscratch.com/colors/mini/pepper-white-also-roof-850/",
+        "source_label": "PaintScratch 2008 Mini",
+        "hex_value": "#F4F2E4"
+      },
+      {
+        "display_name": "Oxygen Blue",
+        "paint_code": "A74",
+        "slug": "oxygen-blue-a74",
+        "reference_url": "https://www.paintscratch.com/colors/mini/oxygen-blue-a74/",
+        "source_label": "PaintScratch 2008 Mini",
+        "hex_value": "#254D64"
+      },
+      {
+        "display_name": "Black (also roof)",
+        "paint_code": "668",
+        "slug": "black-also-roof-668",
+        "reference_url": "https://www.paintscratch.com/colors/mini/black-also-roof-668/",
+        "source_label": "PaintScratch 2008 Mini",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Dark Silver Metallic",
+        "paint_code": "871",
+        "slug": "dark-silver-metallic-871",
+        "reference_url": "https://www.paintscratch.com/colors/mini/dark-silver-metallic-871/",
+        "source_label": "PaintScratch 2008 Mini",
+        "hex_value": "#7D7A73"
+      },
+      {
+        "display_name": "Pure Silver Metallic",
+        "paint_code": "900",
+        "slug": "pure-silver-metallic-900",
+        "reference_url": "https://www.paintscratch.com/colors/mini/pure-silver-metallic-900/",
+        "source_label": "PaintScratch 2008 Mini",
+        "hex_value": "#EEEDEA"
+      },
+      {
+        "display_name": "Astro Black",
+        "paint_code": "A25",
+        "slug": "astro-black-a25",
+        "reference_url": "https://www.paintscratch.com/colors/mini/astro-black-a25/",
+        "source_label": "PaintScratch 2008 Mini",
+        "hex_value": "#202020"
+      },
+      {
+        "display_name": "Hyper Blue Metallic",
+        "paint_code": "A28",
+        "slug": "hyper-blue-metallic-a28",
+        "reference_url": "https://www.paintscratch.com/colors/mini/hyper-blue-metallic-a28/",
+        "source_label": "PaintScratch 2008 Mini",
+        "hex_value": "#505EB4"
+      },
+      {
+        "display_name": "White Silver Metallic",
+        "paint_code": "A62",
+        "slug": "white-silver-metallic-a62",
+        "reference_url": "https://www.paintscratch.com/colors/mini/white-silver-metallic-a62/",
+        "source_label": "PaintScratch 2008 Mini",
+        "hex_value": "#F1F0EB"
+      },
+      {
+        "display_name": "Lightning Blue Pearl",
+        "paint_code": "A63",
+        "slug": "lightning-blue-pearl-a63",
+        "reference_url": "https://www.paintscratch.com/colors/mini/lightning-blue-pearl-a63/",
+        "source_label": "PaintScratch 2008 Mini",
+        "hex_value": "#1E2C60"
+      },
+      {
+        "display_name": "Nightfire Red Pearl",
+        "paint_code": "857",
+        "slug": "nightfire-red-pearl-857",
+        "reference_url": "https://www.paintscratch.com/colors/mini/nightfire-red-pearl-857/",
+        "source_label": "PaintScratch 2008 Mini",
+        "hex_value": "#A1211B"
+      },
+      {
+        "display_name": "Aspen White (also roof)",
+        "paint_code": "899",
+        "slug": "aspen-white-also-roof-899",
+        "reference_url": "https://www.paintscratch.com/colors/mini/aspen-white-also-roof-899/",
+        "source_label": "PaintScratch 2008 Mini",
+        "hex_value": "#FBFAF5"
+      },
+      {
+        "display_name": "Hot Orange Metallic",
+        "paint_code": "A26",
+        "slug": "hot-orange-metallic-a26",
+        "reference_url": "https://www.paintscratch.com/colors/mini/hot-orange-metallic-a26/",
+        "source_label": "PaintScratch 2008 Mini",
+        "hex_value": "#F4790C"
+      },
+      {
+        "display_name": "Cool Blue Metallic",
+        "paint_code": "A27",
+        "slug": "cool-blue-metallic-a27",
+        "reference_url": "https://www.paintscratch.com/colors/mini/cool-blue-metallic-a27/",
+        "source_label": "PaintScratch 2008 Mini",
+        "hex_value": "#6C7398"
+      },
+      {
+        "display_name": "Mellow Yellow",
+        "paint_code": "A58",
+        "slug": "mellow-yellow-a58",
+        "reference_url": "https://www.paintscratch.com/colors/mini/mellow-yellow-a58/",
+        "source_label": "PaintScratch 2008 Mini",
+        "hex_value": "#EA9D24"
+      },
+      {
+        "display_name": "Laser Blue Metallic",
+        "paint_code": "A59",
+        "slug": "laser-blue-metallic-a59",
+        "reference_url": "https://www.paintscratch.com/colors/mini/laser-blue-metallic-a59/",
+        "source_label": "PaintScratch 2008 Mini",
+        "hex_value": "#203876"
+      }
+    ],
+    "2009": [
+      {
+        "display_name": "Chili Red",
+        "paint_code": "851",
+        "slug": "chili-red-851",
+        "reference_url": "https://www.paintscratch.com/colors/mini/chili-red-851/",
+        "source_label": "PaintScratch 2009 Mini",
+        "hex_value": "#CE1C18"
+      },
+      {
+        "display_name": "Pepper White (also roof)",
+        "paint_code": "850",
+        "slug": "pepper-white-also-roof-850",
+        "reference_url": "https://www.paintscratch.com/colors/mini/pepper-white-also-roof-850/",
+        "source_label": "PaintScratch 2009 Mini",
+        "hex_value": "#F4F2E4"
+      },
+      {
+        "display_name": "Oxygen Blue",
+        "paint_code": "A74",
+        "slug": "oxygen-blue-a74",
+        "reference_url": "https://www.paintscratch.com/colors/mini/oxygen-blue-a74/",
+        "source_label": "PaintScratch 2009 Mini",
+        "hex_value": "#254D64"
+      },
+      {
+        "display_name": "Black (also roof)",
+        "paint_code": "668",
+        "slug": "black-also-roof-668",
+        "reference_url": "https://www.paintscratch.com/colors/mini/black-also-roof-668/",
+        "source_label": "PaintScratch 2009 Mini",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Dark Silver Metallic",
+        "paint_code": "871",
+        "slug": "dark-silver-metallic-871",
+        "reference_url": "https://www.paintscratch.com/colors/mini/dark-silver-metallic-871/",
+        "source_label": "PaintScratch 2009 Mini",
+        "hex_value": "#7D7A73"
+      },
+      {
+        "display_name": "British Racing Green Metallic",
+        "paint_code": "895",
+        "slug": "british-racing-green-metallic-895",
+        "reference_url": "https://www.paintscratch.com/colors/mini/british-racing-green-metallic-895/",
+        "source_label": "PaintScratch 2009 Mini",
+        "hex_value": "#47803C"
+      },
+      {
+        "display_name": "Pure Silver Metallic",
+        "paint_code": "900",
+        "slug": "pure-silver-metallic-900",
+        "reference_url": "https://www.paintscratch.com/colors/mini/pure-silver-metallic-900/",
+        "source_label": "PaintScratch 2009 Mini",
+        "hex_value": "#EEEDEA"
+      },
+      {
+        "display_name": "Astro Black",
+        "paint_code": "A25",
+        "slug": "astro-black-a25",
+        "reference_url": "https://www.paintscratch.com/colors/mini/astro-black-a25/",
+        "source_label": "PaintScratch 2009 Mini",
+        "hex_value": "#202020"
+      },
+      {
+        "display_name": "Hyper Blue Metallic",
+        "paint_code": "A28",
+        "slug": "hyper-blue-metallic-a28",
+        "reference_url": "https://www.paintscratch.com/colors/mini/hyper-blue-metallic-a28/",
+        "source_label": "PaintScratch 2009 Mini",
+        "hex_value": "#505EB4"
+      },
+      {
+        "display_name": "White Silver Metallic",
+        "paint_code": "A62",
+        "slug": "white-silver-metallic-a62",
+        "reference_url": "https://www.paintscratch.com/colors/mini/white-silver-metallic-a62/",
+        "source_label": "PaintScratch 2009 Mini",
+        "hex_value": "#F1F0EB"
+      },
+      {
+        "display_name": "Lightning Blue Pearl",
+        "paint_code": "A63",
+        "slug": "lightning-blue-pearl-a63",
+        "reference_url": "https://www.paintscratch.com/colors/mini/lightning-blue-pearl-a63/",
+        "source_label": "PaintScratch 2009 Mini",
+        "hex_value": "#1E2C60"
+      },
+      {
+        "display_name": "Hot Chocolate Metallic",
+        "paint_code": "A88",
+        "slug": "hot-chocolate-metallic-a88",
+        "reference_url": "https://www.paintscratch.com/colors/mini/hot-chocolate-metallic-a88/",
+        "source_label": "PaintScratch 2009 Mini",
+        "hex_value": "#5C4230"
+      },
+      {
+        "display_name": "Horizon Blue Metallic",
+        "paint_code": "A93",
+        "slug": "horizon-blue-metallic-a93",
+        "reference_url": "https://www.paintscratch.com/colors/mini/horizon-blue-metallic-a93/",
+        "source_label": "PaintScratch 2009 Mini",
+        "hex_value": "#828B9E"
+      },
+      {
+        "display_name": "Midnight Black Metallic",
+        "paint_code": "A94",
+        "slug": "midnight-black-metallic-a94",
+        "reference_url": "https://www.paintscratch.com/colors/mini/midnight-black-metallic-a94/",
+        "source_label": "PaintScratch 2009 Mini",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Interchange Yellow",
+        "paint_code": "A95",
+        "slug": "interchange-yellow-a95",
+        "reference_url": "https://www.paintscratch.com/colors/mini/interchange-yellow-a95/",
+        "source_label": "PaintScratch 2009 Mini",
+        "hex_value": "#CDE434"
+      },
+      {
+        "display_name": "Nightfire Red Pearl",
+        "paint_code": "857",
+        "slug": "nightfire-red-pearl-857",
+        "reference_url": "https://www.paintscratch.com/colors/mini/nightfire-red-pearl-857/",
+        "source_label": "PaintScratch 2009 Mini",
+        "hex_value": "#A1211B"
+      }
+    ],
+    "2010": [
+      {
+        "display_name": "Chili Red",
+        "paint_code": "851",
+        "slug": "chili-red-851",
+        "reference_url": "https://www.paintscratch.com/colors/mini/chili-red-851/",
+        "source_label": "PaintScratch 2010 Mini",
+        "hex_value": "#CE1C18"
+      },
+      {
+        "display_name": "Pepper White (also roof)",
+        "paint_code": "850",
+        "slug": "pepper-white-also-roof-850",
+        "reference_url": "https://www.paintscratch.com/colors/mini/pepper-white-also-roof-850/",
+        "source_label": "PaintScratch 2010 Mini",
+        "hex_value": "#F4F2E4"
+      },
+      {
+        "display_name": "Oxygen Blue",
+        "paint_code": "A74",
+        "slug": "oxygen-blue-a74",
+        "reference_url": "https://www.paintscratch.com/colors/mini/oxygen-blue-a74/",
+        "source_label": "PaintScratch 2010 Mini",
+        "hex_value": "#254D64"
+      },
+      {
+        "display_name": "Black (also roof)",
+        "paint_code": "668",
+        "slug": "black-also-roof-668",
+        "reference_url": "https://www.paintscratch.com/colors/mini/black-also-roof-668/",
+        "source_label": "PaintScratch 2010 Mini",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Dark Silver Metallic",
+        "paint_code": "871",
+        "slug": "dark-silver-metallic-871",
+        "reference_url": "https://www.paintscratch.com/colors/mini/dark-silver-metallic-871/",
+        "source_label": "PaintScratch 2010 Mini",
+        "hex_value": "#7D7A73"
+      },
+      {
+        "display_name": "Pure Silver Metallic",
+        "paint_code": "900",
+        "slug": "pure-silver-metallic-900",
+        "reference_url": "https://www.paintscratch.com/colors/mini/pure-silver-metallic-900/",
+        "source_label": "PaintScratch 2010 Mini",
+        "hex_value": "#EEEDEA"
+      },
+      {
+        "display_name": "White Silver Metallic",
+        "paint_code": "A62",
+        "slug": "white-silver-metallic-a62",
+        "reference_url": "https://www.paintscratch.com/colors/mini/white-silver-metallic-a62/",
+        "source_label": "PaintScratch 2010 Mini",
+        "hex_value": "#F1F0EB"
+      },
+      {
+        "display_name": "Hot Chocolate Metallic",
+        "paint_code": "A88",
+        "slug": "hot-chocolate-metallic-a88",
+        "reference_url": "https://www.paintscratch.com/colors/mini/hot-chocolate-metallic-a88/",
+        "source_label": "PaintScratch 2010 Mini",
+        "hex_value": "#5C4230"
+      },
+      {
+        "display_name": "Horizon Blue Metallic",
+        "paint_code": "A93",
+        "slug": "horizon-blue-metallic-a93",
+        "reference_url": "https://www.paintscratch.com/colors/mini/horizon-blue-metallic-a93/",
+        "source_label": "PaintScratch 2010 Mini",
+        "hex_value": "#828B9E"
+      },
+      {
+        "display_name": "Midnight Black Metallic",
+        "paint_code": "A94",
+        "slug": "midnight-black-metallic-a94",
+        "reference_url": "https://www.paintscratch.com/colors/mini/midnight-black-metallic-a94/",
+        "source_label": "PaintScratch 2010 Mini",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Interchange Yellow",
+        "paint_code": "A95",
+        "slug": "interchange-yellow-a95",
+        "reference_url": "https://www.paintscratch.com/colors/mini/interchange-yellow-a95/",
+        "source_label": "PaintScratch 2010 Mini",
+        "hex_value": "#CDE434"
+      },
+      {
+        "display_name": "Nightfire Red Pearl",
+        "paint_code": "857",
+        "slug": "nightfire-red-pearl-857",
+        "reference_url": "https://www.paintscratch.com/colors/mini/nightfire-red-pearl-857/",
+        "source_label": "PaintScratch 2010 Mini",
+        "hex_value": "#A1211B"
+      },
+      {
+        "display_name": "Aspen White (also roof)",
+        "paint_code": "899",
+        "slug": "aspen-white-also-roof-899",
+        "reference_url": "https://www.paintscratch.com/colors/mini/aspen-white-also-roof-899/",
+        "source_label": "PaintScratch 2010 Mini",
+        "hex_value": "#FBFAF5"
+      },
+      {
+        "display_name": "Laser Blue Metallic",
+        "paint_code": "A59",
+        "slug": "laser-blue-metallic-a59",
+        "reference_url": "https://www.paintscratch.com/colors/mini/laser-blue-metallic-a59/",
+        "source_label": "PaintScratch 2010 Mini",
+        "hex_value": "#203876"
+      },
+      {
+        "display_name": "Sparkling Silver Metallic",
+        "paint_code": "A60",
+        "slug": "sparkling-silver-metallic-a60",
+        "reference_url": "https://www.paintscratch.com/colors/mini/sparkling-silver-metallic-a60/",
+        "source_label": "PaintScratch 2010 Mini",
+        "hex_value": "#C9BEA9"
+      },
+      {
+        "display_name": "British Racing Green Metallic",
+        "paint_code": "A67",
+        "slug": "british-racing-green-metallic-a67",
+        "reference_url": "https://www.paintscratch.com/colors/mini/british-racing-green-metallic-a67/",
+        "source_label": "PaintScratch 2010 Mini",
+        "hex_value": "#5E6D53"
+      }
+    ],
+    "2011": [
+      {
+        "display_name": "Chili Red",
+        "paint_code": "851",
+        "slug": "chili-red-851",
+        "reference_url": "https://www.paintscratch.com/colors/mini/chili-red-851/",
+        "source_label": "PaintScratch 2011 Mini",
+        "hex_value": "#CE1C18"
+      },
+      {
+        "display_name": "Pepper White (also roof)",
+        "paint_code": "850",
+        "slug": "pepper-white-also-roof-850",
+        "reference_url": "https://www.paintscratch.com/colors/mini/pepper-white-also-roof-850/",
+        "source_label": "PaintScratch 2011 Mini",
+        "hex_value": "#F4F2E4"
+      },
+      {
+        "display_name": "Royal Gray Metallic",
+        "paint_code": "A48",
+        "slug": "royal-gray-metallic-a48",
+        "reference_url": "https://www.paintscratch.com/colors/mini/royal-gray-metallic-a48/",
+        "source_label": "PaintScratch 2011 Mini",
+        "hex_value": "#83816D"
+      },
+      {
+        "display_name": "Spice Orange Metallic",
+        "paint_code": "B23",
+        "slug": "spice-orange-metallic-b23",
+        "reference_url": "https://www.paintscratch.com/colors/mini/spice-orange-metallic-b23/",
+        "source_label": "PaintScratch 2011 Mini",
+        "hex_value": "#D85E14"
+      },
+      {
+        "display_name": "Black (also roof)",
+        "paint_code": "668",
+        "slug": "black-also-roof-668",
+        "reference_url": "https://www.paintscratch.com/colors/mini/black-also-roof-668/",
+        "source_label": "PaintScratch 2011 Mini",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Dark Silver Metallic",
+        "paint_code": "871",
+        "slug": "dark-silver-metallic-871",
+        "reference_url": "https://www.paintscratch.com/colors/mini/dark-silver-metallic-871/",
+        "source_label": "PaintScratch 2011 Mini",
+        "hex_value": "#7D7A73"
+      },
+      {
+        "display_name": "Pure Silver Metallic",
+        "paint_code": "900",
+        "slug": "pure-silver-metallic-900",
+        "reference_url": "https://www.paintscratch.com/colors/mini/pure-silver-metallic-900/",
+        "source_label": "PaintScratch 2011 Mini",
+        "hex_value": "#EEEDEA"
+      },
+      {
+        "display_name": "White Silver Metallic",
+        "paint_code": "A62",
+        "slug": "white-silver-metallic-a62",
+        "reference_url": "https://www.paintscratch.com/colors/mini/white-silver-metallic-a62/",
+        "source_label": "PaintScratch 2011 Mini",
+        "hex_value": "#F1F0EB"
+      },
+      {
+        "display_name": "Hot Chocolate Metallic",
+        "paint_code": "A88",
+        "slug": "hot-chocolate-metallic-a88",
+        "reference_url": "https://www.paintscratch.com/colors/mini/hot-chocolate-metallic-a88/",
+        "source_label": "PaintScratch 2011 Mini",
+        "hex_value": "#5C4230"
+      },
+      {
+        "display_name": "Horizon Blue Metallic",
+        "paint_code": "A93",
+        "slug": "horizon-blue-metallic-a93",
+        "reference_url": "https://www.paintscratch.com/colors/mini/horizon-blue-metallic-a93/",
+        "source_label": "PaintScratch 2011 Mini",
+        "hex_value": "#828B9E"
+      },
+      {
+        "display_name": "Midnight Black Metallic",
+        "paint_code": "A94",
+        "slug": "midnight-black-metallic-a94",
+        "reference_url": "https://www.paintscratch.com/colors/mini/midnight-black-metallic-a94/",
+        "source_label": "PaintScratch 2011 Mini",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Interchange Yellow",
+        "paint_code": "A95",
+        "slug": "interchange-yellow-a95",
+        "reference_url": "https://www.paintscratch.com/colors/mini/interchange-yellow-a95/",
+        "source_label": "PaintScratch 2011 Mini",
+        "hex_value": "#CDE434"
+      },
+      {
+        "display_name": "Absolute Black Metallic",
+        "paint_code": "B11",
+        "slug": "absolute-black-metallic-b11",
+        "reference_url": "https://www.paintscratch.com/colors/mini/absolute-black-metallic-b11/",
+        "source_label": "PaintScratch 2011 Mini",
+        "hex_value": "#0C0C0C"
+      },
+      {
+        "display_name": "Crystal Silver Metallic",
+        "paint_code": "B12",
+        "slug": "crystal-silver-metallic-b12",
+        "reference_url": "https://www.paintscratch.com/colors/mini/crystal-silver-metallic-b12/",
+        "source_label": "PaintScratch 2011 Mini",
+        "hex_value": "#E2E0D8"
+      },
+      {
+        "display_name": "Light White",
+        "paint_code": "B15",
+        "slug": "light-white-b15",
+        "reference_url": "https://www.paintscratch.com/colors/mini/light-white-b15/",
+        "source_label": "PaintScratch 2011 Mini",
+        "hex_value": "#F6F5F0"
+      },
+      {
+        "display_name": "British Racing Green II Metallic",
+        "paint_code": "B22",
+        "slug": "british-racing-green-ii-metallic-b22",
+        "reference_url": "https://www.paintscratch.com/colors/mini/british-racing-green-ii-metallic-b22/",
+        "source_label": "PaintScratch 2011 Mini",
+        "hex_value": "#2A5C2A"
+      }
+    ],
+    "2012": [
+      {
+        "display_name": "Chili Red",
+        "paint_code": "851",
+        "slug": "chili-red-851",
+        "reference_url": "https://www.paintscratch.com/colors/mini/chili-red-851/",
+        "source_label": "PaintScratch 2012 Mini",
+        "hex_value": "#CE1C18"
+      },
+      {
+        "display_name": "Pepper White (also roof)",
+        "paint_code": "850",
+        "slug": "pepper-white-also-roof-850",
+        "reference_url": "https://www.paintscratch.com/colors/mini/pepper-white-also-roof-850/",
+        "source_label": "PaintScratch 2012 Mini",
+        "hex_value": "#F4F2E4"
+      },
+      {
+        "display_name": "Royal Gray Metallic",
+        "paint_code": "A48",
+        "slug": "royal-gray-metallic-a48",
+        "reference_url": "https://www.paintscratch.com/colors/mini/royal-gray-metallic-a48/",
+        "source_label": "PaintScratch 2012 Mini",
+        "hex_value": "#83816D"
+      },
+      {
+        "display_name": "Spice Orange Metallic",
+        "paint_code": "B23",
+        "slug": "spice-orange-metallic-b23",
+        "reference_url": "https://www.paintscratch.com/colors/mini/spice-orange-metallic-b23/",
+        "source_label": "PaintScratch 2012 Mini",
+        "hex_value": "#D85E14"
+      },
+      {
+        "display_name": "Black (also roof)",
+        "paint_code": "668",
+        "slug": "black-also-roof-668",
+        "reference_url": "https://www.paintscratch.com/colors/mini/black-also-roof-668/",
+        "source_label": "PaintScratch 2012 Mini",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "White Silver Metallic",
+        "paint_code": "A62",
+        "slug": "white-silver-metallic-a62",
+        "reference_url": "https://www.paintscratch.com/colors/mini/white-silver-metallic-a62/",
+        "source_label": "PaintScratch 2012 Mini",
+        "hex_value": "#F1F0EB"
+      },
+      {
+        "display_name": "Lightning Blue Pearl",
+        "paint_code": "A63",
+        "slug": "lightning-blue-pearl-a63",
+        "reference_url": "https://www.paintscratch.com/colors/mini/lightning-blue-pearl-a63/",
+        "source_label": "PaintScratch 2012 Mini",
+        "hex_value": "#1E2C60"
+      },
+      {
+        "display_name": "Hot Chocolate Metallic",
+        "paint_code": "A88",
+        "slug": "hot-chocolate-metallic-a88",
+        "reference_url": "https://www.paintscratch.com/colors/mini/hot-chocolate-metallic-a88/",
+        "source_label": "PaintScratch 2012 Mini",
+        "hex_value": "#5C4230"
+      },
+      {
+        "display_name": "Midnight Black Metallic",
+        "paint_code": "A94",
+        "slug": "midnight-black-metallic-a94",
+        "reference_url": "https://www.paintscratch.com/colors/mini/midnight-black-metallic-a94/",
+        "source_label": "PaintScratch 2012 Mini",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Absolute Black Metallic",
+        "paint_code": "B11",
+        "slug": "absolute-black-metallic-b11",
+        "reference_url": "https://www.paintscratch.com/colors/mini/absolute-black-metallic-b11/",
+        "source_label": "PaintScratch 2012 Mini",
+        "hex_value": "#0C0C0C"
+      },
+      {
+        "display_name": "Crystal Silver Metallic",
+        "paint_code": "B12",
+        "slug": "crystal-silver-metallic-b12",
+        "reference_url": "https://www.paintscratch.com/colors/mini/crystal-silver-metallic-b12/",
+        "source_label": "PaintScratch 2012 Mini",
+        "hex_value": "#E2E0D8"
+      },
+      {
+        "display_name": "Light White",
+        "paint_code": "B15",
+        "slug": "light-white-b15",
+        "reference_url": "https://www.paintscratch.com/colors/mini/light-white-b15/",
+        "source_label": "PaintScratch 2012 Mini",
+        "hex_value": "#F6F5F0"
+      },
+      {
+        "display_name": "British Racing Green II Metallic",
+        "paint_code": "B22",
+        "slug": "british-racing-green-ii-metallic-b22",
+        "reference_url": "https://www.paintscratch.com/colors/mini/british-racing-green-ii-metallic-b22/",
+        "source_label": "PaintScratch 2012 Mini",
+        "hex_value": "#2A5C2A"
+      },
+      {
+        "display_name": "Eclipse Gray Metallic",
+        "paint_code": "B24",
+        "slug": "eclipse-gray-metallic-b24",
+        "reference_url": "https://www.paintscratch.com/colors/mini/eclipse-gray-metallic-b24/",
+        "source_label": "PaintScratch 2012 Mini",
+        "hex_value": "#48423E"
+      },
+      {
+        "display_name": "Brilliant Copper Metallic",
+        "paint_code": "B60",
+        "slug": "brilliant-copper-metallic-b60",
+        "reference_url": "https://www.paintscratch.com/colors/mini/brilliant-copper-metallic-b60/",
+        "source_label": "PaintScratch 2012 Mini",
+        "hex_value": "#8B4D31"
+      },
+      {
+        "display_name": "Aspen White (also roof)",
+        "paint_code": "899",
+        "slug": "aspen-white-also-roof-899",
+        "reference_url": "https://www.paintscratch.com/colors/mini/aspen-white-also-roof-899/",
+        "source_label": "PaintScratch 2012 Mini",
+        "hex_value": "#FBFAF5"
+      }
+    ],
+    "2013": [
+      {
+        "display_name": "Chili Red",
+        "paint_code": "851",
+        "slug": "chili-red-851",
+        "reference_url": "https://www.paintscratch.com/colors/mini/chili-red-851/",
+        "source_label": "PaintScratch 2013 Mini",
+        "hex_value": "#CE1C18"
+      },
+      {
+        "display_name": "Pepper White (also roof)",
+        "paint_code": "850",
+        "slug": "pepper-white-also-roof-850",
+        "reference_url": "https://www.paintscratch.com/colors/mini/pepper-white-also-roof-850/",
+        "source_label": "PaintScratch 2013 Mini",
+        "hex_value": "#F4F2E4"
+      },
+      {
+        "display_name": "Royal Gray Metallic",
+        "paint_code": "A48",
+        "slug": "royal-gray-metallic-a48",
+        "reference_url": "https://www.paintscratch.com/colors/mini/royal-gray-metallic-a48/",
+        "source_label": "PaintScratch 2013 Mini",
+        "hex_value": "#83816D"
+      },
+      {
+        "display_name": "Spice Orange Metallic",
+        "paint_code": "B23",
+        "slug": "spice-orange-metallic-b23",
+        "reference_url": "https://www.paintscratch.com/colors/mini/spice-orange-metallic-b23/",
+        "source_label": "PaintScratch 2013 Mini",
+        "hex_value": "#D85E14"
+      },
+      {
+        "display_name": "White Silver Metallic",
+        "paint_code": "A62",
+        "slug": "white-silver-metallic-a62",
+        "reference_url": "https://www.paintscratch.com/colors/mini/white-silver-metallic-a62/",
+        "source_label": "PaintScratch 2013 Mini",
+        "hex_value": "#F1F0EB"
+      },
+      {
+        "display_name": "Lightning Blue Pearl",
+        "paint_code": "A63",
+        "slug": "lightning-blue-pearl-a63",
+        "reference_url": "https://www.paintscratch.com/colors/mini/lightning-blue-pearl-a63/",
+        "source_label": "PaintScratch 2013 Mini",
+        "hex_value": "#1E2C60"
+      },
+      {
+        "display_name": "Hot Chocolate Metallic",
+        "paint_code": "A88",
+        "slug": "hot-chocolate-metallic-a88",
+        "reference_url": "https://www.paintscratch.com/colors/mini/hot-chocolate-metallic-a88/",
+        "source_label": "PaintScratch 2013 Mini",
+        "hex_value": "#5C4230"
+      },
+      {
+        "display_name": "Midnight Black Metallic",
+        "paint_code": "A94",
+        "slug": "midnight-black-metallic-a94",
+        "reference_url": "https://www.paintscratch.com/colors/mini/midnight-black-metallic-a94/",
+        "source_label": "PaintScratch 2013 Mini",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Absolute Black Metallic",
+        "paint_code": "B11",
+        "slug": "absolute-black-metallic-b11",
+        "reference_url": "https://www.paintscratch.com/colors/mini/absolute-black-metallic-b11/",
+        "source_label": "PaintScratch 2013 Mini",
+        "hex_value": "#0C0C0C"
+      },
+      {
+        "display_name": "Crystal Silver Metallic",
+        "paint_code": "B12",
+        "slug": "crystal-silver-metallic-b12",
+        "reference_url": "https://www.paintscratch.com/colors/mini/crystal-silver-metallic-b12/",
+        "source_label": "PaintScratch 2013 Mini",
+        "hex_value": "#E2E0D8"
+      },
+      {
+        "display_name": "Light White",
+        "paint_code": "B15",
+        "slug": "light-white-b15",
+        "reference_url": "https://www.paintscratch.com/colors/mini/light-white-b15/",
+        "source_label": "PaintScratch 2013 Mini",
+        "hex_value": "#F6F5F0"
+      },
+      {
+        "display_name": "British Racing Green II Metallic",
+        "paint_code": "B22",
+        "slug": "british-racing-green-ii-metallic-b22",
+        "reference_url": "https://www.paintscratch.com/colors/mini/british-racing-green-ii-metallic-b22/",
+        "source_label": "PaintScratch 2013 Mini",
+        "hex_value": "#2A5C2A"
+      },
+      {
+        "display_name": "Eclipse Gray Metallic",
+        "paint_code": "B24",
+        "slug": "eclipse-gray-metallic-b24",
+        "reference_url": "https://www.paintscratch.com/colors/mini/eclipse-gray-metallic-b24/",
+        "source_label": "PaintScratch 2013 Mini",
+        "hex_value": "#48423E"
+      },
+      {
+        "display_name": "Rooftop Gray Metallic",
+        "paint_code": "B47",
+        "slug": "rooftop-gray-metallic-b47",
+        "reference_url": "https://www.paintscratch.com/colors/mini/rooftop-gray-metallic-b47/",
+        "source_label": "PaintScratch 2013 Mini",
+        "hex_value": "#E9E1D1"
+      },
+      {
+        "display_name": "Laser Blue Metallic",
+        "paint_code": "A59",
+        "slug": "laser-blue-metallic-a59",
+        "reference_url": "https://www.paintscratch.com/colors/mini/laser-blue-metallic-a59/",
+        "source_label": "PaintScratch 2013 Mini",
+        "hex_value": "#203876"
+      },
+      {
+        "display_name": "Cosmic Blue Metallic",
+        "paint_code": "B13",
+        "slug": "cosmic-blue-metallic-b13",
+        "reference_url": "https://www.paintscratch.com/colors/mini/cosmic-blue-metallic-b13/",
+        "source_label": "PaintScratch 2013 Mini",
+        "hex_value": "#2E3A80"
+      }
+    ],
+    "2014": [
+      {
+        "display_name": "Chili Red",
+        "paint_code": "851",
+        "slug": "chili-red-851",
+        "reference_url": "https://www.paintscratch.com/colors/mini/chili-red-851/",
+        "source_label": "PaintScratch 2014 Mini",
+        "hex_value": "#CE1C18"
+      },
+      {
+        "display_name": "Pepper White (also roof)",
+        "paint_code": "850",
+        "slug": "pepper-white-also-roof-850",
+        "reference_url": "https://www.paintscratch.com/colors/mini/pepper-white-also-roof-850/",
+        "source_label": "PaintScratch 2014 Mini",
+        "hex_value": "#F4F2E4"
+      },
+      {
+        "display_name": "Royal Gray Metallic",
+        "paint_code": "A48",
+        "slug": "royal-gray-metallic-a48",
+        "reference_url": "https://www.paintscratch.com/colors/mini/royal-gray-metallic-a48/",
+        "source_label": "PaintScratch 2014 Mini",
+        "hex_value": "#83816D"
+      },
+      {
+        "display_name": "Spice Orange Metallic",
+        "paint_code": "B23",
+        "slug": "spice-orange-metallic-b23",
+        "reference_url": "https://www.paintscratch.com/colors/mini/spice-orange-metallic-b23/",
+        "source_label": "PaintScratch 2014 Mini",
+        "hex_value": "#D85E14"
+      },
+      {
+        "display_name": "White Silver Metallic",
+        "paint_code": "A62",
+        "slug": "white-silver-metallic-a62",
+        "reference_url": "https://www.paintscratch.com/colors/mini/white-silver-metallic-a62/",
+        "source_label": "PaintScratch 2014 Mini",
+        "hex_value": "#F1F0EB"
+      },
+      {
+        "display_name": "Lightning Blue Pearl",
+        "paint_code": "A63",
+        "slug": "lightning-blue-pearl-a63",
+        "reference_url": "https://www.paintscratch.com/colors/mini/lightning-blue-pearl-a63/",
+        "source_label": "PaintScratch 2014 Mini",
+        "hex_value": "#1E2C60"
+      },
+      {
+        "display_name": "Midnight Black Metallic",
+        "paint_code": "A94",
+        "slug": "midnight-black-metallic-a94",
+        "reference_url": "https://www.paintscratch.com/colors/mini/midnight-black-metallic-a94/",
+        "source_label": "PaintScratch 2014 Mini",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Absolute Black Metallic",
+        "paint_code": "B11",
+        "slug": "absolute-black-metallic-b11",
+        "reference_url": "https://www.paintscratch.com/colors/mini/absolute-black-metallic-b11/",
+        "source_label": "PaintScratch 2014 Mini",
+        "hex_value": "#0C0C0C"
+      },
+      {
+        "display_name": "Crystal Silver Metallic",
+        "paint_code": "B12",
+        "slug": "crystal-silver-metallic-b12",
+        "reference_url": "https://www.paintscratch.com/colors/mini/crystal-silver-metallic-b12/",
+        "source_label": "PaintScratch 2014 Mini",
+        "hex_value": "#E2E0D8"
+      },
+      {
+        "display_name": "Light White",
+        "paint_code": "B15",
+        "slug": "light-white-b15",
+        "reference_url": "https://www.paintscratch.com/colors/mini/light-white-b15/",
+        "source_label": "PaintScratch 2014 Mini",
+        "hex_value": "#F6F5F0"
+      },
+      {
+        "display_name": "British Racing Green II Metallic",
+        "paint_code": "B22",
+        "slug": "british-racing-green-ii-metallic-b22",
+        "reference_url": "https://www.paintscratch.com/colors/mini/british-racing-green-ii-metallic-b22/",
+        "source_label": "PaintScratch 2014 Mini",
+        "hex_value": "#2A5C2A"
+      },
+      {
+        "display_name": "Eclipse Gray Metallic",
+        "paint_code": "B24",
+        "slug": "eclipse-gray-metallic-b24",
+        "reference_url": "https://www.paintscratch.com/colors/mini/eclipse-gray-metallic-b24/",
+        "source_label": "PaintScratch 2014 Mini",
+        "hex_value": "#48423E"
+      },
+      {
+        "display_name": "Brilliant Copper Metallic",
+        "paint_code": "B60",
+        "slug": "brilliant-copper-metallic-b60",
+        "reference_url": "https://www.paintscratch.com/colors/mini/brilliant-copper-metallic-b60/",
+        "source_label": "PaintScratch 2014 Mini",
+        "hex_value": "#8B4D31"
+      },
+      {
+        "display_name": "Starlight Blue Metallic",
+        "paint_code": "B62",
+        "slug": "starlight-blue-metallic-b62",
+        "reference_url": "https://www.paintscratch.com/colors/mini/starlight-blue-metallic-b62/",
+        "source_label": "PaintScratch 2014 Mini",
+        "hex_value": "#3413AD"
+      },
+      {
+        "display_name": "Deep Blue Metallic",
+        "paint_code": "B69",
+        "slug": "deep-blue-metallic-b69",
+        "reference_url": "https://www.paintscratch.com/colors/mini/deep-blue-metallic-b69/",
+        "source_label": "PaintScratch 2014 Mini",
+        "hex_value": "#0D2D97"
+      },
+      {
+        "display_name": "Cosmic Blue Metallic",
+        "paint_code": "B13",
+        "slug": "cosmic-blue-metallic-b13",
+        "reference_url": "https://www.paintscratch.com/colors/mini/cosmic-blue-metallic-b13/",
+        "source_label": "PaintScratch 2014 Mini",
+        "hex_value": "#2E3A80"
+      }
+    ],
+    "2015": [
+      {
+        "display_name": "Chili Red",
+        "paint_code": "851",
+        "slug": "chili-red-851",
+        "reference_url": "https://www.paintscratch.com/colors/mini/chili-red-851/",
+        "source_label": "PaintScratch 2015 Mini",
+        "hex_value": "#CE1C18"
+      },
+      {
+        "display_name": "Pepper White (also roof)",
+        "paint_code": "850",
+        "slug": "pepper-white-also-roof-850",
+        "reference_url": "https://www.paintscratch.com/colors/mini/pepper-white-also-roof-850/",
+        "source_label": "PaintScratch 2015 Mini",
+        "hex_value": "#F4F2E4"
+      },
+      {
+        "display_name": "Moonwalk Gray Metallic",
+        "paint_code": "B71",
+        "slug": "moonwalk-gray-metallic-b71",
+        "reference_url": "https://www.paintscratch.com/colors/mini/moonwalk-gray-metallic-b71/",
+        "source_label": "PaintScratch 2015 Mini",
+        "hex_value": "#676B71"
+      },
+      {
+        "display_name": "Spice Orange Metallic",
+        "paint_code": "B23",
+        "slug": "spice-orange-metallic-b23",
+        "reference_url": "https://www.paintscratch.com/colors/mini/spice-orange-metallic-b23/",
+        "source_label": "PaintScratch 2015 Mini",
+        "hex_value": "#D85E14"
+      },
+      {
+        "display_name": "White Silver Metallic",
+        "paint_code": "A62",
+        "slug": "white-silver-metallic-a62",
+        "reference_url": "https://www.paintscratch.com/colors/mini/white-silver-metallic-a62/",
+        "source_label": "PaintScratch 2015 Mini",
+        "hex_value": "#F1F0EB"
+      },
+      {
+        "display_name": "Lightning Blue Pearl",
+        "paint_code": "A63",
+        "slug": "lightning-blue-pearl-a63",
+        "reference_url": "https://www.paintscratch.com/colors/mini/lightning-blue-pearl-a63/",
+        "source_label": "PaintScratch 2015 Mini",
+        "hex_value": "#1E2C60"
+      },
+      {
+        "display_name": "Midnight Black Metallic",
+        "paint_code": "A94",
+        "slug": "midnight-black-metallic-a94",
+        "reference_url": "https://www.paintscratch.com/colors/mini/midnight-black-metallic-a94/",
+        "source_label": "PaintScratch 2015 Mini",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Absolute Black Metallic",
+        "paint_code": "B11",
+        "slug": "absolute-black-metallic-b11",
+        "reference_url": "https://www.paintscratch.com/colors/mini/absolute-black-metallic-b11/",
+        "source_label": "PaintScratch 2015 Mini",
+        "hex_value": "#0C0C0C"
+      },
+      {
+        "display_name": "Crystal Silver Metallic",
+        "paint_code": "B12",
+        "slug": "crystal-silver-metallic-b12",
+        "reference_url": "https://www.paintscratch.com/colors/mini/crystal-silver-metallic-b12/",
+        "source_label": "PaintScratch 2015 Mini",
+        "hex_value": "#E2E0D8"
+      },
+      {
+        "display_name": "Light White",
+        "paint_code": "B15",
+        "slug": "light-white-b15",
+        "reference_url": "https://www.paintscratch.com/colors/mini/light-white-b15/",
+        "source_label": "PaintScratch 2015 Mini",
+        "hex_value": "#F6F5F0"
+      },
+      {
+        "display_name": "British Racing Green II Metallic",
+        "paint_code": "B22",
+        "slug": "british-racing-green-ii-metallic-b22",
+        "reference_url": "https://www.paintscratch.com/colors/mini/british-racing-green-ii-metallic-b22/",
+        "source_label": "PaintScratch 2015 Mini",
+        "hex_value": "#2A5C2A"
+      },
+      {
+        "display_name": "Eclipse Gray Metallic",
+        "paint_code": "B24",
+        "slug": "eclipse-gray-metallic-b24",
+        "reference_url": "https://www.paintscratch.com/colors/mini/eclipse-gray-metallic-b24/",
+        "source_label": "PaintScratch 2015 Mini",
+        "hex_value": "#48423E"
+      },
+      {
+        "display_name": "Brilliant Copper Metallic",
+        "paint_code": "B60",
+        "slug": "brilliant-copper-metallic-b60",
+        "reference_url": "https://www.paintscratch.com/colors/mini/brilliant-copper-metallic-b60/",
+        "source_label": "PaintScratch 2015 Mini",
+        "hex_value": "#8B4D31"
+      },
+      {
+        "display_name": "Starlight Blue Metallic",
+        "paint_code": "B62",
+        "slug": "starlight-blue-metallic-b62",
+        "reference_url": "https://www.paintscratch.com/colors/mini/starlight-blue-metallic-b62/",
+        "source_label": "PaintScratch 2015 Mini",
+        "hex_value": "#3413AD"
+      },
+      {
+        "display_name": "Deep Blue Metallic",
+        "paint_code": "B69",
+        "slug": "deep-blue-metallic-b69",
+        "reference_url": "https://www.paintscratch.com/colors/mini/deep-blue-metallic-b69/",
+        "source_label": "PaintScratch 2015 Mini",
+        "hex_value": "#0D2D97"
+      },
+      {
+        "display_name": "Electric Blue Metallic",
+        "paint_code": "B86",
+        "slug": "electric-blue-metallic-b86",
+        "reference_url": "https://www.paintscratch.com/colors/mini/electric-blue-metallic-b86/",
+        "source_label": "PaintScratch 2015 Mini",
+        "hex_value": "#3FB1D5"
+      }
+    ],
+    "2016": [
+      {
+        "display_name": "Chili Red",
+        "paint_code": "851",
+        "slug": "chili-red-851",
+        "reference_url": "https://www.paintscratch.com/colors/mini/chili-red-851/",
+        "source_label": "PaintScratch 2016 Mini",
+        "hex_value": "#CE1C18"
+      },
+      {
+        "display_name": "Pepper White (also roof)",
+        "paint_code": "850",
+        "slug": "pepper-white-also-roof-850",
+        "reference_url": "https://www.paintscratch.com/colors/mini/pepper-white-also-roof-850/",
+        "source_label": "PaintScratch 2016 Mini",
+        "hex_value": "#F4F2E4"
+      },
+      {
+        "display_name": "Moonwalk Gray Metallic",
+        "paint_code": "B71",
+        "slug": "moonwalk-gray-metallic-b71",
+        "reference_url": "https://www.paintscratch.com/colors/mini/moonwalk-gray-metallic-b71/",
+        "source_label": "PaintScratch 2016 Mini",
+        "hex_value": "#676B71"
+      },
+      {
+        "display_name": "Melting Silver Metallic",
+        "paint_code": "C2K",
+        "slug": "melting-silver-metallic-c2k",
+        "reference_url": "https://www.paintscratch.com/colors/mini/melting-silver-metallic-c2k/",
+        "source_label": "PaintScratch 2016 Mini",
+        "hex_value": "#979899"
+      },
+      {
+        "display_name": "White Silver Metallic",
+        "paint_code": "A62",
+        "slug": "white-silver-metallic-a62",
+        "reference_url": "https://www.paintscratch.com/colors/mini/white-silver-metallic-a62/",
+        "source_label": "PaintScratch 2016 Mini",
+        "hex_value": "#F1F0EB"
+      },
+      {
+        "display_name": "Midnight Black Metallic",
+        "paint_code": "A94",
+        "slug": "midnight-black-metallic-a94",
+        "reference_url": "https://www.paintscratch.com/colors/mini/midnight-black-metallic-a94/",
+        "source_label": "PaintScratch 2016 Mini",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Absolute Black Metallic",
+        "paint_code": "B11",
+        "slug": "absolute-black-metallic-b11",
+        "reference_url": "https://www.paintscratch.com/colors/mini/absolute-black-metallic-b11/",
+        "source_label": "PaintScratch 2016 Mini",
+        "hex_value": "#0C0C0C"
+      },
+      {
+        "display_name": "Crystal Silver Metallic",
+        "paint_code": "B12",
+        "slug": "crystal-silver-metallic-b12",
+        "reference_url": "https://www.paintscratch.com/colors/mini/crystal-silver-metallic-b12/",
+        "source_label": "PaintScratch 2016 Mini",
+        "hex_value": "#E2E0D8"
+      },
+      {
+        "display_name": "Light White",
+        "paint_code": "B15",
+        "slug": "light-white-b15",
+        "reference_url": "https://www.paintscratch.com/colors/mini/light-white-b15/",
+        "source_label": "PaintScratch 2016 Mini",
+        "hex_value": "#F6F5F0"
+      },
+      {
+        "display_name": "British Racing Green II Metallic",
+        "paint_code": "B22",
+        "slug": "british-racing-green-ii-metallic-b22",
+        "reference_url": "https://www.paintscratch.com/colors/mini/british-racing-green-ii-metallic-b22/",
+        "source_label": "PaintScratch 2016 Mini",
+        "hex_value": "#2A5C2A"
+      },
+      {
+        "display_name": "Brilliant Copper Metallic",
+        "paint_code": "B60",
+        "slug": "brilliant-copper-metallic-b60",
+        "reference_url": "https://www.paintscratch.com/colors/mini/brilliant-copper-metallic-b60/",
+        "source_label": "PaintScratch 2016 Mini",
+        "hex_value": "#8B4D31"
+      },
+      {
+        "display_name": "Starlight Blue Metallic",
+        "paint_code": "B62",
+        "slug": "starlight-blue-metallic-b62",
+        "reference_url": "https://www.paintscratch.com/colors/mini/starlight-blue-metallic-b62/",
+        "source_label": "PaintScratch 2016 Mini",
+        "hex_value": "#3413AD"
+      },
+      {
+        "display_name": "Deep Blue Metallic",
+        "paint_code": "B69",
+        "slug": "deep-blue-metallic-b69",
+        "reference_url": "https://www.paintscratch.com/colors/mini/deep-blue-metallic-b69/",
+        "source_label": "PaintScratch 2016 Mini",
+        "hex_value": "#0D2D97"
+      },
+      {
+        "display_name": "Electric Blue Metallic",
+        "paint_code": "B86",
+        "slug": "electric-blue-metallic-b86",
+        "reference_url": "https://www.paintscratch.com/colors/mini/electric-blue-metallic-b86/",
+        "source_label": "PaintScratch 2016 Mini",
+        "hex_value": "#3FB1D5"
+      },
+      {
+        "display_name": "Midnight Gray Metallic",
+        "paint_code": "C12",
+        "slug": "midnight-gray-metallic-c12",
+        "reference_url": "https://www.paintscratch.com/colors/mini/midnight-gray-metallic-c12/",
+        "source_label": "PaintScratch 2016 Mini",
+        "hex_value": "#303030"
+      },
+      {
+        "display_name": "Jungle Green Metallic",
+        "paint_code": "C15",
+        "slug": "jungle-green-metallic-c15",
+        "reference_url": "https://www.paintscratch.com/colors/mini/jungle-green-metallic-c15/",
+        "source_label": "PaintScratch 2016 Mini",
+        "hex_value": "#60844A"
+      }
+    ],
+    "2017": [
+      {
+        "display_name": "Chili Red",
+        "paint_code": "851",
+        "slug": "chili-red-851",
+        "reference_url": "https://www.paintscratch.com/colors/mini/chili-red-851/",
+        "source_label": "PaintScratch 2017 Mini",
+        "hex_value": "#CE1C18"
+      },
+      {
+        "display_name": "Pepper White (also roof)",
+        "paint_code": "850",
+        "slug": "pepper-white-also-roof-850",
+        "reference_url": "https://www.paintscratch.com/colors/mini/pepper-white-also-roof-850/",
+        "source_label": "PaintScratch 2017 Mini",
+        "hex_value": "#F4F2E4"
+      },
+      {
+        "display_name": "Moonwalk Gray Metallic",
+        "paint_code": "B71",
+        "slug": "moonwalk-gray-metallic-b71",
+        "reference_url": "https://www.paintscratch.com/colors/mini/moonwalk-gray-metallic-b71/",
+        "source_label": "PaintScratch 2017 Mini",
+        "hex_value": "#676B71"
+      },
+      {
+        "display_name": "Melting Silver Metallic",
+        "paint_code": "C2K",
+        "slug": "melting-silver-metallic-c2k",
+        "reference_url": "https://www.paintscratch.com/colors/mini/melting-silver-metallic-c2k/",
+        "source_label": "PaintScratch 2017 Mini",
+        "hex_value": "#979899"
+      },
+      {
+        "display_name": "White Silver Metallic",
+        "paint_code": "A62",
+        "slug": "white-silver-metallic-a62",
+        "reference_url": "https://www.paintscratch.com/colors/mini/white-silver-metallic-a62/",
+        "source_label": "PaintScratch 2017 Mini",
+        "hex_value": "#F1F0EB"
+      },
+      {
+        "display_name": "Midnight Black Metallic",
+        "paint_code": "A94",
+        "slug": "midnight-black-metallic-a94",
+        "reference_url": "https://www.paintscratch.com/colors/mini/midnight-black-metallic-a94/",
+        "source_label": "PaintScratch 2017 Mini",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "British Racing Green II Metallic",
+        "paint_code": "B22",
+        "slug": "british-racing-green-ii-metallic-b22",
+        "reference_url": "https://www.paintscratch.com/colors/mini/british-racing-green-ii-metallic-b22/",
+        "source_label": "PaintScratch 2017 Mini",
+        "hex_value": "#2A5C2A"
+      },
+      {
+        "display_name": "Deep Blue Metallic",
+        "paint_code": "B69",
+        "slug": "deep-blue-metallic-b69",
+        "reference_url": "https://www.paintscratch.com/colors/mini/deep-blue-metallic-b69/",
+        "source_label": "PaintScratch 2017 Mini",
+        "hex_value": "#0D2D97"
+      },
+      {
+        "display_name": "Electric Blue Metallic",
+        "paint_code": "B86",
+        "slug": "electric-blue-metallic-b86",
+        "reference_url": "https://www.paintscratch.com/colors/mini/electric-blue-metallic-b86/",
+        "source_label": "PaintScratch 2017 Mini",
+        "hex_value": "#3FB1D5"
+      },
+      {
+        "display_name": "Digital Blue Metallic",
+        "paint_code": "C2B",
+        "slug": "digital-blue-metallic-c2b",
+        "reference_url": "https://www.paintscratch.com/colors/mini/digital-blue-metallic-c2b/",
+        "source_label": "PaintScratch 2017 Mini",
+        "hex_value": "#A5BFD3"
+      },
+      {
+        "display_name": "John Cooper Works Rebel Green",
+        "paint_code": "C19",
+        "slug": "john-cooper-works-rebel-green-c19",
+        "reference_url": "https://www.paintscratch.com/colors/mini/john-cooper-works-rebel-green-c19/",
+        "source_label": "PaintScratch 2017 Mini",
+        "hex_value": "#2B3935"
+      },
+      {
+        "display_name": "Lapisluxury Blue",
+        "paint_code": "C24",
+        "slug": "lapisluxury-blue-c24",
+        "reference_url": "https://www.paintscratch.com/colors/mini/lapisluxury-blue-c24/",
+        "source_label": "PaintScratch 2017 Mini",
+        "hex_value": "#485A91"
+      },
+      {
+        "display_name": "Thunder Grey",
+        "paint_code": "B58",
+        "slug": "thunder-grey-b58",
+        "reference_url": "https://www.paintscratch.com/colors/mini/thunder-grey-b58/",
+        "source_label": "PaintScratch 2017 Mini",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Volcanic Orange",
+        "paint_code": "B70",
+        "slug": "volcanic-orange-b70",
+        "reference_url": "https://www.paintscratch.com/colors/mini/volcanic-orange-b70/",
+        "source_label": "PaintScratch 2017 Mini",
+        "hex_value": "#EF7911"
+      },
+      {
+        "display_name": "Blazing Red II Pearl",
+        "paint_code": "B83",
+        "slug": "blazing-red-ii-pearl-b83",
+        "reference_url": "https://www.paintscratch.com/colors/mini/blazing-red-ii-pearl-b83/",
+        "source_label": "PaintScratch 2017 Mini",
+        "hex_value": "#BD171B"
+      },
+      {
+        "display_name": "Pure Burgundy Metallic",
+        "paint_code": "C2C",
+        "slug": "pure-burgundy-metallic-c2c",
+        "reference_url": "https://www.paintscratch.com/colors/mini/pure-burgundy-metallic-c2c/",
+        "source_label": "PaintScratch 2017 Mini",
+        "hex_value": "#6E3A43"
+      }
+    ],
+    "2018": [
+      {
+        "display_name": "Chili Red",
+        "paint_code": "851",
+        "slug": "chili-red-851",
+        "reference_url": "https://www.paintscratch.com/colors/mini/chili-red-851/",
+        "source_label": "PaintScratch 2018 Mini",
+        "hex_value": "#CE1C18"
+      },
+      {
+        "display_name": "Pepper White (also roof)",
+        "paint_code": "850",
+        "slug": "pepper-white-also-roof-850",
+        "reference_url": "https://www.paintscratch.com/colors/mini/pepper-white-also-roof-850/",
+        "source_label": "PaintScratch 2018 Mini",
+        "hex_value": "#F4F2E4"
+      },
+      {
+        "display_name": "Moonwalk Gray Metallic",
+        "paint_code": "B71",
+        "slug": "moonwalk-gray-metallic-b71",
+        "reference_url": "https://www.paintscratch.com/colors/mini/moonwalk-gray-metallic-b71/",
+        "source_label": "PaintScratch 2018 Mini",
+        "hex_value": "#676B71"
+      },
+      {
+        "display_name": "Melting Silver Metallic",
+        "paint_code": "C2K",
+        "slug": "melting-silver-metallic-c2k",
+        "reference_url": "https://www.paintscratch.com/colors/mini/melting-silver-metallic-c2k/",
+        "source_label": "PaintScratch 2018 Mini",
+        "hex_value": "#979899"
+      },
+      {
+        "display_name": "White Silver Metallic",
+        "paint_code": "A62",
+        "slug": "white-silver-metallic-a62",
+        "reference_url": "https://www.paintscratch.com/colors/mini/white-silver-metallic-a62/",
+        "source_label": "PaintScratch 2018 Mini",
+        "hex_value": "#F1F0EB"
+      },
+      {
+        "display_name": "Midnight Black Metallic",
+        "paint_code": "A94",
+        "slug": "midnight-black-metallic-a94",
+        "reference_url": "https://www.paintscratch.com/colors/mini/midnight-black-metallic-a94/",
+        "source_label": "PaintScratch 2018 Mini",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Light White",
+        "paint_code": "B15",
+        "slug": "light-white-b15",
+        "reference_url": "https://www.paintscratch.com/colors/mini/light-white-b15/",
+        "source_label": "PaintScratch 2018 Mini",
+        "hex_value": "#F6F5F0"
+      },
+      {
+        "display_name": "British Racing Green II Metallic",
+        "paint_code": "B22",
+        "slug": "british-racing-green-ii-metallic-b22",
+        "reference_url": "https://www.paintscratch.com/colors/mini/british-racing-green-ii-metallic-b22/",
+        "source_label": "PaintScratch 2018 Mini",
+        "hex_value": "#2A5C2A"
+      },
+      {
+        "display_name": "Reflex Silver Metallic (wheel)",
+        "paint_code": "B37",
+        "slug": "reflex-silver-metallic-wheel-b37",
+        "reference_url": "https://www.paintscratch.com/colors/mini/reflex-silver-metallic-wheel-b37/",
+        "source_label": "PaintScratch 2018 Mini",
+        "hex_value": "#F6F3EC"
+      },
+      {
+        "display_name": "Deep Blue Metallic",
+        "paint_code": "B69",
+        "slug": "deep-blue-metallic-b69",
+        "reference_url": "https://www.paintscratch.com/colors/mini/deep-blue-metallic-b69/",
+        "source_label": "PaintScratch 2018 Mini",
+        "hex_value": "#0D2D97"
+      },
+      {
+        "display_name": "Electric Blue Metallic",
+        "paint_code": "B86",
+        "slug": "electric-blue-metallic-b86",
+        "reference_url": "https://www.paintscratch.com/colors/mini/electric-blue-metallic-b86/",
+        "source_label": "PaintScratch 2018 Mini",
+        "hex_value": "#3FB1D5"
+      },
+      {
+        "display_name": "Digital Blue Metallic",
+        "paint_code": "C2B",
+        "slug": "digital-blue-metallic-c2b",
+        "reference_url": "https://www.paintscratch.com/colors/mini/digital-blue-metallic-c2b/",
+        "source_label": "PaintScratch 2018 Mini",
+        "hex_value": "#A5BFD3"
+      },
+      {
+        "display_name": "Island Blue Metallic",
+        "paint_code": "C2M",
+        "slug": "island-blue-metallic-c2m",
+        "reference_url": "https://www.paintscratch.com/colors/mini/island-blue-metallic-c2m/",
+        "source_label": "PaintScratch 2018 Mini",
+        "hex_value": "#3A728C"
+      },
+      {
+        "display_name": "John Cooper Works Rebel Green",
+        "paint_code": "C19",
+        "slug": "john-cooper-works-rebel-green-c19",
+        "reference_url": "https://www.paintscratch.com/colors/mini/john-cooper-works-rebel-green-c19/",
+        "source_label": "PaintScratch 2018 Mini",
+        "hex_value": "#2B3935"
+      },
+      {
+        "display_name": "Lapisluxury Blue",
+        "paint_code": "C24",
+        "slug": "lapisluxury-blue-c24",
+        "reference_url": "https://www.paintscratch.com/colors/mini/lapisluxury-blue-c24/",
+        "source_label": "PaintScratch 2018 Mini",
+        "hex_value": "#485A91"
+      },
+      {
+        "display_name": "Alpine White",
+        "paint_code": "300",
+        "slug": "alpine-white-300",
+        "reference_url": "https://www.paintscratch.com/colors/mini/alpine-white-300/",
+        "source_label": "PaintScratch 2018 Mini",
+        "hex_value": "#FAFAFA"
+      }
+    ],
+    "2019": [
+      {
+        "display_name": "Chili Red",
+        "paint_code": "851",
+        "slug": "chili-red-851",
+        "reference_url": "https://www.paintscratch.com/colors/mini/chili-red-851/",
+        "source_label": "PaintScratch 2019 Mini",
+        "hex_value": "#CE1C18"
+      },
+      {
+        "display_name": "Pepper White (also roof)",
+        "paint_code": "850",
+        "slug": "pepper-white-also-roof-850",
+        "reference_url": "https://www.paintscratch.com/colors/mini/pepper-white-also-roof-850/",
+        "source_label": "PaintScratch 2019 Mini",
+        "hex_value": "#F4F2E4"
+      },
+      {
+        "display_name": "Moonwalk Gray Metallic",
+        "paint_code": "B71",
+        "slug": "moonwalk-gray-metallic-b71",
+        "reference_url": "https://www.paintscratch.com/colors/mini/moonwalk-gray-metallic-b71/",
+        "source_label": "PaintScratch 2019 Mini",
+        "hex_value": "#676B71"
+      },
+      {
+        "display_name": "Melting Silver Metallic",
+        "paint_code": "C2K",
+        "slug": "melting-silver-metallic-c2k",
+        "reference_url": "https://www.paintscratch.com/colors/mini/melting-silver-metallic-c2k/",
+        "source_label": "PaintScratch 2019 Mini",
+        "hex_value": "#979899"
+      },
+      {
+        "display_name": "White Silver Metallic",
+        "paint_code": "A62",
+        "slug": "white-silver-metallic-a62",
+        "reference_url": "https://www.paintscratch.com/colors/mini/white-silver-metallic-a62/",
+        "source_label": "PaintScratch 2019 Mini",
+        "hex_value": "#F1F0EB"
+      },
+      {
+        "display_name": "Midnight Black Metallic",
+        "paint_code": "A94",
+        "slug": "midnight-black-metallic-a94",
+        "reference_url": "https://www.paintscratch.com/colors/mini/midnight-black-metallic-a94/",
+        "source_label": "PaintScratch 2019 Mini",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Light White",
+        "paint_code": "B15",
+        "slug": "light-white-b15",
+        "reference_url": "https://www.paintscratch.com/colors/mini/light-white-b15/",
+        "source_label": "PaintScratch 2019 Mini",
+        "hex_value": "#F6F5F0"
+      },
+      {
+        "display_name": "British Racing Green II Metallic",
+        "paint_code": "B22",
+        "slug": "british-racing-green-ii-metallic-b22",
+        "reference_url": "https://www.paintscratch.com/colors/mini/british-racing-green-ii-metallic-b22/",
+        "source_label": "PaintScratch 2019 Mini",
+        "hex_value": "#2A5C2A"
+      },
+      {
+        "display_name": "Reflex Silver Metallic (wheel)",
+        "paint_code": "B37",
+        "slug": "reflex-silver-metallic-wheel-b37",
+        "reference_url": "https://www.paintscratch.com/colors/mini/reflex-silver-metallic-wheel-b37/",
+        "source_label": "PaintScratch 2019 Mini",
+        "hex_value": "#F6F3EC"
+      },
+      {
+        "display_name": "Starlight Blue Metallic",
+        "paint_code": "B62",
+        "slug": "starlight-blue-metallic-b62",
+        "reference_url": "https://www.paintscratch.com/colors/mini/starlight-blue-metallic-b62/",
+        "source_label": "PaintScratch 2019 Mini",
+        "hex_value": "#3413AD"
+      },
+      {
+        "display_name": "Electric Blue Metallic",
+        "paint_code": "B86",
+        "slug": "electric-blue-metallic-b86",
+        "reference_url": "https://www.paintscratch.com/colors/mini/electric-blue-metallic-b86/",
+        "source_label": "PaintScratch 2019 Mini",
+        "hex_value": "#3FB1D5"
+      },
+      {
+        "display_name": "Emerald Grey Metallic",
+        "paint_code": "C1C",
+        "slug": "emerald-grey-metallic-c1c",
+        "reference_url": "https://www.paintscratch.com/colors/mini/emerald-grey-metallic-c1c/",
+        "source_label": "PaintScratch 2019 Mini",
+        "hex_value": "#7D785B"
+      },
+      {
+        "display_name": "Island Blue Metallic",
+        "paint_code": "C2M",
+        "slug": "island-blue-metallic-c2m",
+        "reference_url": "https://www.paintscratch.com/colors/mini/island-blue-metallic-c2m/",
+        "source_label": "PaintScratch 2019 Mini",
+        "hex_value": "#3A728C"
+      },
+      {
+        "display_name": "Green",
+        "paint_code": "C3B",
+        "slug": "green-c3b",
+        "reference_url": "https://www.paintscratch.com/colors/mini/green-c3b/",
+        "source_label": "PaintScratch 2019 Mini",
+        "hex_value": "#2E6D1F"
+      },
+      {
+        "display_name": "John Cooper Works Rebel Green",
+        "paint_code": "C19",
+        "slug": "john-cooper-works-rebel-green-c19",
+        "reference_url": "https://www.paintscratch.com/colors/mini/john-cooper-works-rebel-green-c19/",
+        "source_label": "PaintScratch 2019 Mini",
+        "hex_value": "#2B3935"
+      },
+      {
+        "display_name": "Lapisluxury Blue",
+        "paint_code": "C24",
+        "slug": "lapisluxury-blue-c24",
+        "reference_url": "https://www.paintscratch.com/colors/mini/lapisluxury-blue-c24/",
+        "source_label": "PaintScratch 2019 Mini",
+        "hex_value": "#485A91"
+      }
+    ],
+    "2020": [
+      {
+        "display_name": "Chili Red",
+        "paint_code": "851",
+        "slug": "chili-red-851",
+        "reference_url": "https://www.paintscratch.com/colors/mini/chili-red-851/",
+        "source_label": "PaintScratch 2020 Mini",
+        "hex_value": "#CE1C18"
+      },
+      {
+        "display_name": "Pepper White (also roof)",
+        "paint_code": "850",
+        "slug": "pepper-white-also-roof-850",
+        "reference_url": "https://www.paintscratch.com/colors/mini/pepper-white-also-roof-850/",
+        "source_label": "PaintScratch 2020 Mini",
+        "hex_value": "#F4F2E4"
+      },
+      {
+        "display_name": "Moonwalk Gray Metallic",
+        "paint_code": "B71",
+        "slug": "moonwalk-gray-metallic-b71",
+        "reference_url": "https://www.paintscratch.com/colors/mini/moonwalk-gray-metallic-b71/",
+        "source_label": "PaintScratch 2020 Mini",
+        "hex_value": "#676B71"
+      },
+      {
+        "display_name": "Melting Silver Metallic",
+        "paint_code": "C2K",
+        "slug": "melting-silver-metallic-c2k",
+        "reference_url": "https://www.paintscratch.com/colors/mini/melting-silver-metallic-c2k/",
+        "source_label": "PaintScratch 2020 Mini",
+        "hex_value": "#979899"
+      },
+      {
+        "display_name": "White Silver Metallic",
+        "paint_code": "A62",
+        "slug": "white-silver-metallic-a62",
+        "reference_url": "https://www.paintscratch.com/colors/mini/white-silver-metallic-a62/",
+        "source_label": "PaintScratch 2020 Mini",
+        "hex_value": "#F1F0EB"
+      },
+      {
+        "display_name": "Midnight Black Metallic",
+        "paint_code": "A94",
+        "slug": "midnight-black-metallic-a94",
+        "reference_url": "https://www.paintscratch.com/colors/mini/midnight-black-metallic-a94/",
+        "source_label": "PaintScratch 2020 Mini",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Light White",
+        "paint_code": "B15",
+        "slug": "light-white-b15",
+        "reference_url": "https://www.paintscratch.com/colors/mini/light-white-b15/",
+        "source_label": "PaintScratch 2020 Mini",
+        "hex_value": "#F6F5F0"
+      },
+      {
+        "display_name": "Reflex Silver Metallic (wheel)",
+        "paint_code": "B37",
+        "slug": "reflex-silver-metallic-wheel-b37",
+        "reference_url": "https://www.paintscratch.com/colors/mini/reflex-silver-metallic-wheel-b37/",
+        "source_label": "PaintScratch 2020 Mini",
+        "hex_value": "#F6F3EC"
+      },
+      {
+        "display_name": "Starlight Blue Metallic",
+        "paint_code": "B62",
+        "slug": "starlight-blue-metallic-b62",
+        "reference_url": "https://www.paintscratch.com/colors/mini/starlight-blue-metallic-b62/",
+        "source_label": "PaintScratch 2020 Mini",
+        "hex_value": "#3413AD"
+      },
+      {
+        "display_name": "Emerald Grey Metallic",
+        "paint_code": "C1C",
+        "slug": "emerald-grey-metallic-c1c",
+        "reference_url": "https://www.paintscratch.com/colors/mini/emerald-grey-metallic-c1c/",
+        "source_label": "PaintScratch 2020 Mini",
+        "hex_value": "#7D785B"
+      },
+      {
+        "display_name": "Island Blue Metallic",
+        "paint_code": "C2M",
+        "slug": "island-blue-metallic-c2m",
+        "reference_url": "https://www.paintscratch.com/colors/mini/island-blue-metallic-c2m/",
+        "source_label": "PaintScratch 2020 Mini",
+        "hex_value": "#3A728C"
+      },
+      {
+        "display_name": "Green",
+        "paint_code": "C3B",
+        "slug": "green-c3b",
+        "reference_url": "https://www.paintscratch.com/colors/mini/green-c3b/",
+        "source_label": "PaintScratch 2020 Mini",
+        "hex_value": "#2E6D1F"
+      },
+      {
+        "display_name": "John Cooper Works Rebel Green",
+        "paint_code": "C19",
+        "slug": "john-cooper-works-rebel-green-c19",
+        "reference_url": "https://www.paintscratch.com/colors/mini/john-cooper-works-rebel-green-c19/",
+        "source_label": "PaintScratch 2020 Mini",
+        "hex_value": "#2B3935"
+      },
+      {
+        "display_name": "Alpine White",
+        "paint_code": "300",
+        "slug": "alpine-white-300",
+        "reference_url": "https://www.paintscratch.com/colors/mini/alpine-white-300/",
+        "source_label": "PaintScratch 2020 Mini",
+        "hex_value": "#FAFAFA"
+      },
+      {
+        "display_name": "Black Sapphire Metallic",
+        "paint_code": "475",
+        "slug": "black-sapphire-metallic-475",
+        "reference_url": "https://www.paintscratch.com/colors/mini/black-sapphire-metallic-475/",
+        "source_label": "PaintScratch 2020 Mini",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Mineral White Tricoat",
+        "paint_code": "A96",
+        "slug": "mineral-white-tricoat-a96",
+        "reference_url": "https://www.paintscratch.com/colors/mini/mineral-white-tricoat-a96/",
+        "source_label": "PaintScratch 2020 Mini",
+        "hex_value": "#EAEAEA"
+      }
+    ],
+    "2021": [
+      {
+        "display_name": "Chili Red",
+        "paint_code": "851",
+        "slug": "chili-red-851",
+        "reference_url": "https://www.paintscratch.com/colors/mini/chili-red-851/",
+        "source_label": "PaintScratch 2021 Mini",
+        "hex_value": "#CE1C18"
+      },
+      {
+        "display_name": "Pepper White (also roof)",
+        "paint_code": "850",
+        "slug": "pepper-white-also-roof-850",
+        "reference_url": "https://www.paintscratch.com/colors/mini/pepper-white-also-roof-850/",
+        "source_label": "PaintScratch 2021 Mini",
+        "hex_value": "#F4F2E4"
+      },
+      {
+        "display_name": "Moonwalk Gray Metallic",
+        "paint_code": "B71",
+        "slug": "moonwalk-gray-metallic-b71",
+        "reference_url": "https://www.paintscratch.com/colors/mini/moonwalk-gray-metallic-b71/",
+        "source_label": "PaintScratch 2021 Mini",
+        "hex_value": "#676B71"
+      },
+      {
+        "display_name": "Melting Silver Metallic",
+        "paint_code": "C2K",
+        "slug": "melting-silver-metallic-c2k",
+        "reference_url": "https://www.paintscratch.com/colors/mini/melting-silver-metallic-c2k/",
+        "source_label": "PaintScratch 2021 Mini",
+        "hex_value": "#979899"
+      },
+      {
+        "display_name": "White Silver Metallic",
+        "paint_code": "A62",
+        "slug": "white-silver-metallic-a62",
+        "reference_url": "https://www.paintscratch.com/colors/mini/white-silver-metallic-a62/",
+        "source_label": "PaintScratch 2021 Mini",
+        "hex_value": "#F1F0EB"
+      },
+      {
+        "display_name": "Midnight Black Metallic",
+        "paint_code": "A94",
+        "slug": "midnight-black-metallic-a94",
+        "reference_url": "https://www.paintscratch.com/colors/mini/midnight-black-metallic-a94/",
+        "source_label": "PaintScratch 2021 Mini",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Reflex Silver Metallic (wheel)",
+        "paint_code": "B37",
+        "slug": "reflex-silver-metallic-wheel-b37",
+        "reference_url": "https://www.paintscratch.com/colors/mini/reflex-silver-metallic-wheel-b37/",
+        "source_label": "PaintScratch 2021 Mini",
+        "hex_value": "#F6F3EC"
+      },
+      {
+        "display_name": "Starlight Blue Metallic",
+        "paint_code": "B62",
+        "slug": "starlight-blue-metallic-b62",
+        "reference_url": "https://www.paintscratch.com/colors/mini/starlight-blue-metallic-b62/",
+        "source_label": "PaintScratch 2021 Mini",
+        "hex_value": "#3413AD"
+      },
+      {
+        "display_name": "Emerald Grey Metallic",
+        "paint_code": "C1C",
+        "slug": "emerald-grey-metallic-c1c",
+        "reference_url": "https://www.paintscratch.com/colors/mini/emerald-grey-metallic-c1c/",
+        "source_label": "PaintScratch 2021 Mini",
+        "hex_value": "#7D785B"
+      },
+      {
+        "display_name": "Island Blue Metallic",
+        "paint_code": "C2M",
+        "slug": "island-blue-metallic-c2m",
+        "reference_url": "https://www.paintscratch.com/colors/mini/island-blue-metallic-c2m/",
+        "source_label": "PaintScratch 2021 Mini",
+        "hex_value": "#3A728C"
+      },
+      {
+        "display_name": "Green",
+        "paint_code": "C3B",
+        "slug": "green-c3b",
+        "reference_url": "https://www.paintscratch.com/colors/mini/green-c3b/",
+        "source_label": "PaintScratch 2021 Mini",
+        "hex_value": "#2E6D1F"
+      },
+      {
+        "display_name": "Sage Green Metallic",
+        "paint_code": "C4L",
+        "slug": "sage-green-metallic-c4l",
+        "reference_url": "https://www.paintscratch.com/colors/mini/sage-green-metallic-c4l/",
+        "source_label": "PaintScratch 2021 Mini",
+        "hex_value": "#61984E"
+      },
+      {
+        "display_name": "John Cooper Works Rebel Green",
+        "paint_code": "C19",
+        "slug": "john-cooper-works-rebel-green-c19",
+        "reference_url": "https://www.paintscratch.com/colors/mini/john-cooper-works-rebel-green-c19/",
+        "source_label": "PaintScratch 2021 Mini",
+        "hex_value": "#2B3935"
+      },
+      {
+        "display_name": "Alpine White",
+        "paint_code": "300",
+        "slug": "alpine-white-300",
+        "reference_url": "https://www.paintscratch.com/colors/mini/alpine-white-300/",
+        "source_label": "PaintScratch 2021 Mini",
+        "hex_value": "#FAFAFA"
+      },
+      {
+        "display_name": "Black Sapphire Metallic",
+        "paint_code": "475",
+        "slug": "black-sapphire-metallic-475",
+        "reference_url": "https://www.paintscratch.com/colors/mini/black-sapphire-metallic-475/",
+        "source_label": "PaintScratch 2021 Mini",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Mineral White Tricoat",
+        "paint_code": "A96",
+        "slug": "mineral-white-tricoat-a96",
+        "reference_url": "https://www.paintscratch.com/colors/mini/mineral-white-tricoat-a96/",
+        "source_label": "PaintScratch 2021 Mini",
+        "hex_value": "#EAEAEA"
+      }
+    ],
+    "2022": [
+      {
+        "display_name": "Chili Red",
+        "paint_code": "851",
+        "slug": "chili-red-851",
+        "reference_url": "https://www.paintscratch.com/colors/mini/chili-red-851/",
+        "source_label": "PaintScratch 2022 Mini",
+        "hex_value": "#CE1C18"
+      },
+      {
+        "display_name": "Pepper White (also roof)",
+        "paint_code": "850",
+        "slug": "pepper-white-also-roof-850",
+        "reference_url": "https://www.paintscratch.com/colors/mini/pepper-white-also-roof-850/",
+        "source_label": "PaintScratch 2022 Mini",
+        "hex_value": "#F4F2E4"
+      },
+      {
+        "display_name": "Moonwalk Gray Metallic",
+        "paint_code": "B71",
+        "slug": "moonwalk-gray-metallic-b71",
+        "reference_url": "https://www.paintscratch.com/colors/mini/moonwalk-gray-metallic-b71/",
+        "source_label": "PaintScratch 2022 Mini",
+        "hex_value": "#676B71"
+      },
+      {
+        "display_name": "White Silver Metallic",
+        "paint_code": "A62",
+        "slug": "white-silver-metallic-a62",
+        "reference_url": "https://www.paintscratch.com/colors/mini/white-silver-metallic-a62/",
+        "source_label": "PaintScratch 2022 Mini",
+        "hex_value": "#F1F0EB"
+      },
+      {
+        "display_name": "Midnight Black Metallic",
+        "paint_code": "A94",
+        "slug": "midnight-black-metallic-a94",
+        "reference_url": "https://www.paintscratch.com/colors/mini/midnight-black-metallic-a94/",
+        "source_label": "PaintScratch 2022 Mini",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Reflex Silver Metallic (wheel)",
+        "paint_code": "B37",
+        "slug": "reflex-silver-metallic-wheel-b37",
+        "reference_url": "https://www.paintscratch.com/colors/mini/reflex-silver-metallic-wheel-b37/",
+        "source_label": "PaintScratch 2022 Mini",
+        "hex_value": "#F6F3EC"
+      },
+      {
+        "display_name": "Rooftop Gray Metallic",
+        "paint_code": "B47",
+        "slug": "rooftop-gray-metallic-b47",
+        "reference_url": "https://www.paintscratch.com/colors/mini/rooftop-gray-metallic-b47/",
+        "source_label": "PaintScratch 2022 Mini",
+        "hex_value": "#E9E1D1"
+      },
+      {
+        "display_name": "Island Blue Metallic",
+        "paint_code": "C2M",
+        "slug": "island-blue-metallic-c2m",
+        "reference_url": "https://www.paintscratch.com/colors/mini/island-blue-metallic-c2m/",
+        "source_label": "PaintScratch 2022 Mini",
+        "hex_value": "#3A728C"
+      },
+      {
+        "display_name": "Green",
+        "paint_code": "C3B",
+        "slug": "green-c3b",
+        "reference_url": "https://www.paintscratch.com/colors/mini/green-c3b/",
+        "source_label": "PaintScratch 2022 Mini",
+        "hex_value": "#2E6D1F"
+      },
+      {
+        "display_name": "Sao Paulo Yellow",
+        "paint_code": "C4H/C5H",
+        "slug": "sao-paulo-yellow-c4hc5h",
+        "reference_url": "https://www.paintscratch.com/colors/mini/sao-paulo-yellow-c4hc5h/",
+        "source_label": "PaintScratch 2022 Mini",
+        "hex_value": "#D4F341"
+      },
+      {
+        "display_name": "Sage Green Metallic",
+        "paint_code": "C4L",
+        "slug": "sage-green-metallic-c4l",
+        "reference_url": "https://www.paintscratch.com/colors/mini/sage-green-metallic-c4l/",
+        "source_label": "PaintScratch 2022 Mini",
+        "hex_value": "#61984E"
+      },
+      {
+        "display_name": "John Cooper Works Rebel Green",
+        "paint_code": "C19",
+        "slug": "john-cooper-works-rebel-green-c19",
+        "reference_url": "https://www.paintscratch.com/colors/mini/john-cooper-works-rebel-green-c19/",
+        "source_label": "PaintScratch 2022 Mini",
+        "hex_value": "#2B3935"
+      },
+      {
+        "display_name": "Alpine White",
+        "paint_code": "300",
+        "slug": "alpine-white-300",
+        "reference_url": "https://www.paintscratch.com/colors/mini/alpine-white-300/",
+        "source_label": "PaintScratch 2022 Mini",
+        "hex_value": "#FAFAFA"
+      },
+      {
+        "display_name": "Black Sapphire Metallic",
+        "paint_code": "475",
+        "slug": "black-sapphire-metallic-475",
+        "reference_url": "https://www.paintscratch.com/colors/mini/black-sapphire-metallic-475/",
+        "source_label": "PaintScratch 2022 Mini",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Mineral White Tricoat",
+        "paint_code": "A96",
+        "slug": "mineral-white-tricoat-a96",
+        "reference_url": "https://www.paintscratch.com/colors/mini/mineral-white-tricoat-a96/",
+        "source_label": "PaintScratch 2022 Mini",
+        "hex_value": "#EAEAEA"
+      },
+      {
+        "display_name": "Night Fever Black Metallic (wheel)",
+        "paint_code": "B04",
+        "slug": "night-fever-black-metallic-wheel-b04",
+        "reference_url": "https://www.paintscratch.com/colors/mini/night-fever-black-metallic-wheel-b04/",
+        "source_label": "PaintScratch 2022 Mini",
+        "hex_value": "#171615"
+      }
+    ],
+    "2023": [
+      {
+        "display_name": "Chili Red",
+        "paint_code": "851",
+        "slug": "chili-red-851",
+        "reference_url": "https://www.paintscratch.com/colors/mini/chili-red-851/",
+        "source_label": "PaintScratch 2023 Mini",
+        "hex_value": "#CE1C18"
+      },
+      {
+        "display_name": "Pepper White (also roof)",
+        "paint_code": "850",
+        "slug": "pepper-white-also-roof-850",
+        "reference_url": "https://www.paintscratch.com/colors/mini/pepper-white-also-roof-850/",
+        "source_label": "PaintScratch 2023 Mini",
+        "hex_value": "#F4F2E4"
+      },
+      {
+        "display_name": "Moonwalk Gray Metallic",
+        "paint_code": "B71",
+        "slug": "moonwalk-gray-metallic-b71",
+        "reference_url": "https://www.paintscratch.com/colors/mini/moonwalk-gray-metallic-b71/",
+        "source_label": "PaintScratch 2023 Mini",
+        "hex_value": "#676B71"
+      },
+      {
+        "display_name": "Black (also roof)",
+        "paint_code": "668",
+        "slug": "black-also-roof-668",
+        "reference_url": "https://www.paintscratch.com/colors/mini/black-also-roof-668/",
+        "source_label": "PaintScratch 2023 Mini",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "White Silver Metallic",
+        "paint_code": "A62",
+        "slug": "white-silver-metallic-a62",
+        "reference_url": "https://www.paintscratch.com/colors/mini/white-silver-metallic-a62/",
+        "source_label": "PaintScratch 2023 Mini",
+        "hex_value": "#F1F0EB"
+      },
+      {
+        "display_name": "Midnight Black Metallic",
+        "paint_code": "A94",
+        "slug": "midnight-black-metallic-a94",
+        "reference_url": "https://www.paintscratch.com/colors/mini/midnight-black-metallic-a94/",
+        "source_label": "PaintScratch 2023 Mini",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Absolute Black Metallic",
+        "paint_code": "B11",
+        "slug": "absolute-black-metallic-b11",
+        "reference_url": "https://www.paintscratch.com/colors/mini/absolute-black-metallic-b11/",
+        "source_label": "PaintScratch 2023 Mini",
+        "hex_value": "#0C0C0C"
+      },
+      {
+        "display_name": "Rooftop Gray Metallic",
+        "paint_code": "B47",
+        "slug": "rooftop-gray-metallic-b47",
+        "reference_url": "https://www.paintscratch.com/colors/mini/rooftop-gray-metallic-b47/",
+        "source_label": "PaintScratch 2023 Mini",
+        "hex_value": "#E9E1D1"
+      },
+      {
+        "display_name": "Island Blue Metallic",
+        "paint_code": "C2M",
+        "slug": "island-blue-metallic-c2m",
+        "reference_url": "https://www.paintscratch.com/colors/mini/island-blue-metallic-c2m/",
+        "source_label": "PaintScratch 2023 Mini",
+        "hex_value": "#3A728C"
+      },
+      {
+        "display_name": "Green",
+        "paint_code": "C3B",
+        "slug": "green-c3b",
+        "reference_url": "https://www.paintscratch.com/colors/mini/green-c3b/",
+        "source_label": "PaintScratch 2023 Mini",
+        "hex_value": "#2E6D1F"
+      },
+      {
+        "display_name": "Sage Green Metallic",
+        "paint_code": "C4L",
+        "slug": "sage-green-metallic-c4l",
+        "reference_url": "https://www.paintscratch.com/colors/mini/sage-green-metallic-c4l/",
+        "source_label": "PaintScratch 2023 Mini",
+        "hex_value": "#61984E"
+      },
+      {
+        "display_name": "Zesty Yellow",
+        "paint_code": "C5H",
+        "slug": "zesty-yellow-c5h",
+        "reference_url": "https://www.paintscratch.com/colors/mini/zesty-yellow-c5h/",
+        "source_label": "PaintScratch 2023 Mini",
+        "hex_value": "#D4F341"
+      },
+      {
+        "display_name": "Nanuq White Tricoat",
+        "paint_code": "C6A",
+        "slug": "nanuq-white-tricoat-c6a",
+        "reference_url": "https://www.paintscratch.com/colors/mini/nanuq-white-tricoat-c6a/",
+        "source_label": "PaintScratch 2023 Mini",
+        "hex_value": "#FAF7F0"
+      },
+      {
+        "display_name": "Melting Silver III",
+        "paint_code": "C6B",
+        "slug": "melting-silver-iii-c6b",
+        "reference_url": "https://www.paintscratch.com/colors/mini/melting-silver-iii-c6b/",
+        "source_label": "PaintScratch 2023 Mini",
+        "hex_value": "#6E695C"
+      },
+      {
+        "display_name": "John Cooper Works Rebel Green",
+        "paint_code": "C19",
+        "slug": "john-cooper-works-rebel-green-c19",
+        "reference_url": "https://www.paintscratch.com/colors/mini/john-cooper-works-rebel-green-c19/",
+        "source_label": "PaintScratch 2023 Mini",
+        "hex_value": "#2B3935"
+      },
+      {
+        "display_name": "Coral Red Metallic",
+        "paint_code": "C3X",
+        "slug": "coral-red-metallic-c3x",
+        "reference_url": "https://www.paintscratch.com/colors/mini/coral-red-metallic-c3x/",
+        "source_label": "PaintScratch 2023 Mini",
+        "hex_value": "#DF520D"
+      }
+    ],
+    "2024": [
+      {
+        "display_name": "Chili Red",
+        "paint_code": "851",
+        "slug": "chili-red-851",
+        "reference_url": "https://www.paintscratch.com/colors/mini/chili-red-851/",
+        "source_label": "PaintScratch 2024 Mini",
+        "hex_value": "#CE1C18"
+      },
+      {
+        "display_name": "Sunny Side Yellow",
+        "paint_code": "C6N",
+        "slug": "sunny-side-yellow-c6n",
+        "reference_url": "https://www.paintscratch.com/colors/mini/sunny-side-yellow-c6n/",
+        "source_label": "PaintScratch 2024 Mini",
+        "hex_value": "#EEE25E"
+      },
+      {
+        "display_name": "Black (also roof)",
+        "paint_code": "668",
+        "slug": "black-also-roof-668",
+        "reference_url": "https://www.paintscratch.com/colors/mini/black-also-roof-668/",
+        "source_label": "PaintScratch 2024 Mini",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "White Silver Metallic",
+        "paint_code": "A62",
+        "slug": "white-silver-metallic-a62",
+        "reference_url": "https://www.paintscratch.com/colors/mini/white-silver-metallic-a62/",
+        "source_label": "PaintScratch 2024 Mini",
+        "hex_value": "#F1F0EB"
+      },
+      {
+        "display_name": "Absolute Black Metallic",
+        "paint_code": "B11",
+        "slug": "absolute-black-metallic-b11",
+        "reference_url": "https://www.paintscratch.com/colors/mini/absolute-black-metallic-b11/",
+        "source_label": "PaintScratch 2024 Mini",
+        "hex_value": "#0C0C0C"
+      },
+      {
+        "display_name": "Rooftop Gray Metallic",
+        "paint_code": "B47",
+        "slug": "rooftop-gray-metallic-b47",
+        "reference_url": "https://www.paintscratch.com/colors/mini/rooftop-gray-metallic-b47/",
+        "source_label": "PaintScratch 2024 Mini",
+        "hex_value": "#E9E1D1"
+      },
+      {
+        "display_name": "Island Blue Metallic",
+        "paint_code": "C2M",
+        "slug": "island-blue-metallic-c2m",
+        "reference_url": "https://www.paintscratch.com/colors/mini/island-blue-metallic-c2m/",
+        "source_label": "PaintScratch 2024 Mini",
+        "hex_value": "#3A728C"
+      },
+      {
+        "display_name": "Green",
+        "paint_code": "C3B",
+        "slug": "green-c3b",
+        "reference_url": "https://www.paintscratch.com/colors/mini/green-c3b/",
+        "source_label": "PaintScratch 2024 Mini",
+        "hex_value": "#2E6D1F"
+      },
+      {
+        "display_name": "Sage Green Metallic",
+        "paint_code": "C4L",
+        "slug": "sage-green-metallic-c4l",
+        "reference_url": "https://www.paintscratch.com/colors/mini/sage-green-metallic-c4l/",
+        "source_label": "PaintScratch 2024 Mini",
+        "hex_value": "#61984E"
+      },
+      {
+        "display_name": "Zesty Yellow",
+        "paint_code": "C5H",
+        "slug": "zesty-yellow-c5h",
+        "reference_url": "https://www.paintscratch.com/colors/mini/zesty-yellow-c5h/",
+        "source_label": "PaintScratch 2024 Mini",
+        "hex_value": "#D4F341"
+      },
+      {
+        "display_name": "Nanuq White Tricoat",
+        "paint_code": "C6A",
+        "slug": "nanuq-white-tricoat-c6a",
+        "reference_url": "https://www.paintscratch.com/colors/mini/nanuq-white-tricoat-c6a/",
+        "source_label": "PaintScratch 2024 Mini",
+        "hex_value": "#FAF7F0"
+      },
+      {
+        "display_name": "Melting Silver III",
+        "paint_code": "C6B",
+        "slug": "melting-silver-iii-c6b",
+        "reference_url": "https://www.paintscratch.com/colors/mini/melting-silver-iii-c6b/",
+        "source_label": "PaintScratch 2024 Mini",
+        "hex_value": "#6E695C"
+      },
+      {
+        "display_name": "Indigo Sunset Blue",
+        "paint_code": "C6F",
+        "slug": "indigo-sunset-blue-c6f",
+        "reference_url": "https://www.paintscratch.com/colors/mini/indigo-sunset-blue-c6f/",
+        "source_label": "PaintScratch 2024 Mini",
+        "hex_value": "#37414F"
+      },
+      {
+        "display_name": "Blazing Blue",
+        "paint_code": "C6K",
+        "slug": "blazing-blue-c6k",
+        "reference_url": "https://www.paintscratch.com/colors/mini/blazing-blue-c6k/",
+        "source_label": "PaintScratch 2024 Mini",
+        "hex_value": "#244980"
+      },
+      {
+        "display_name": "Ocean Wave Green",
+        "paint_code": "C6M",
+        "slug": "ocean-wave-green-c6m",
+        "reference_url": "https://www.paintscratch.com/colors/mini/ocean-wave-green-c6m/",
+        "source_label": "PaintScratch 2024 Mini",
+        "hex_value": "#799F85"
+      },
+      {
+        "display_name": "Legend Grey",
+        "paint_code": "C6P",
+        "slug": "legend-grey-c6p",
+        "reference_url": "https://www.paintscratch.com/colors/mini/legend-grey-c6p/",
+        "source_label": "PaintScratch 2024 Mini",
+        "hex_value": "#464A50"
+      }
+    ],
+    "2025": [
+      {
+        "display_name": "Chili Red",
+        "paint_code": "851",
+        "slug": "chili-red-851",
+        "reference_url": "https://www.paintscratch.com/colors/mini/chili-red-851/",
+        "source_label": "PaintScratch 2025 Mini",
+        "hex_value": "#CE1C18"
+      },
+      {
+        "display_name": "Icy Sunshine Blue",
+        "paint_code": "C6L",
+        "slug": "icy-sunshine-blue-c6l",
+        "reference_url": "https://www.paintscratch.com/colors/mini/icy-sunshine-blue-c6l/",
+        "source_label": "PaintScratch 2025 Mini",
+        "hex_value": "#284586"
+      },
+      {
+        "display_name": "Sunny Side Yellow",
+        "paint_code": "C6N",
+        "slug": "sunny-side-yellow-c6n",
+        "reference_url": "https://www.paintscratch.com/colors/mini/sunny-side-yellow-c6n/",
+        "source_label": "PaintScratch 2025 Mini",
+        "hex_value": "#EEE25E"
+      },
+      {
+        "display_name": "Absolute Black Metallic",
+        "paint_code": "B11",
+        "slug": "absolute-black-metallic-b11",
+        "reference_url": "https://www.paintscratch.com/colors/mini/absolute-black-metallic-b11/",
+        "source_label": "PaintScratch 2025 Mini",
+        "hex_value": "#0C0C0C"
+      },
+      {
+        "display_name": "Green",
+        "paint_code": "C3B",
+        "slug": "green-c3b",
+        "reference_url": "https://www.paintscratch.com/colors/mini/green-c3b/",
+        "source_label": "PaintScratch 2025 Mini",
+        "hex_value": "#2E6D1F"
+      },
+      {
+        "display_name": "Nanuq White Tricoat",
+        "paint_code": "C6A",
+        "slug": "nanuq-white-tricoat-c6a",
+        "reference_url": "https://www.paintscratch.com/colors/mini/nanuq-white-tricoat-c6a/",
+        "source_label": "PaintScratch 2025 Mini",
+        "hex_value": "#FAF7F0"
+      },
+      {
+        "display_name": "Melting Silver III",
+        "paint_code": "C6B",
+        "slug": "melting-silver-iii-c6b",
+        "reference_url": "https://www.paintscratch.com/colors/mini/melting-silver-iii-c6b/",
+        "source_label": "PaintScratch 2025 Mini",
+        "hex_value": "#6E695C"
+      },
+      {
+        "display_name": "Indigo Sunset Blue",
+        "paint_code": "C6F",
+        "slug": "indigo-sunset-blue-c6f",
+        "reference_url": "https://www.paintscratch.com/colors/mini/indigo-sunset-blue-c6f/",
+        "source_label": "PaintScratch 2025 Mini",
+        "hex_value": "#37414F"
+      },
+      {
+        "display_name": "Blazing Blue",
+        "paint_code": "C6K",
+        "slug": "blazing-blue-c6k",
+        "reference_url": "https://www.paintscratch.com/colors/mini/blazing-blue-c6k/",
+        "source_label": "PaintScratch 2025 Mini",
+        "hex_value": "#244980"
+      },
+      {
+        "display_name": "Ocean Wave Green",
+        "paint_code": "C6M",
+        "slug": "ocean-wave-green-c6m",
+        "reference_url": "https://www.paintscratch.com/colors/mini/ocean-wave-green-c6m/",
+        "source_label": "PaintScratch 2025 Mini",
+        "hex_value": "#799F85"
+      },
+      {
+        "display_name": "Legend Grey",
+        "paint_code": "C6P",
+        "slug": "legend-grey-c6p",
+        "reference_url": "https://www.paintscratch.com/colors/mini/legend-grey-c6p/",
+        "source_label": "PaintScratch 2025 Mini",
+        "hex_value": "#464A50"
+      },
+      {
+        "display_name": "Smokey Green",
+        "paint_code": "C71",
+        "slug": "smokey-green-c71",
+        "reference_url": "https://www.paintscratch.com/colors/mini/smokey-green-c71/",
+        "source_label": "PaintScratch 2025 Mini",
+        "hex_value": "#4A5352"
+      },
+      {
+        "display_name": "Slate Blue",
+        "paint_code": "C70",
+        "slug": "slate-blue-c70",
+        "reference_url": "https://www.paintscratch.com/colors/mini/slate-blue-c70/",
+        "source_label": "PaintScratch 2025 Mini",
+        "hex_value": "#3E4B6A"
+      },
+      {
+        "display_name": "Copper Grey",
+        "paint_code": "C77",
+        "slug": "copper-grey-c77",
+        "reference_url": "https://www.paintscratch.com/colors/mini/copper-grey-c77/",
+        "source_label": "PaintScratch 2025 Mini",
+        "hex_value": "#544F46"
+      }
+    ],
+    "2026": [
+      {
+        "display_name": "Chili Red",
+        "paint_code": "851",
+        "slug": "chili-red-851",
+        "reference_url": "https://www.paintscratch.com/colors/mini/chili-red-851/",
+        "source_label": "PaintScratch 2026 Mini",
+        "hex_value": "#CE1C18"
+      },
+      {
+        "display_name": "Icy Sunshine Blue",
+        "paint_code": "C6L",
+        "slug": "icy-sunshine-blue-c6l",
+        "reference_url": "https://www.paintscratch.com/colors/mini/icy-sunshine-blue-c6l/",
+        "source_label": "PaintScratch 2026 Mini",
+        "hex_value": "#284586"
+      },
+      {
+        "display_name": "Sunny Side Yellow",
+        "paint_code": "C6N",
+        "slug": "sunny-side-yellow-c6n",
+        "reference_url": "https://www.paintscratch.com/colors/mini/sunny-side-yellow-c6n/",
+        "source_label": "PaintScratch 2026 Mini",
+        "hex_value": "#EEE25E"
+      },
+      {
+        "display_name": "Absolute Black Metallic",
+        "paint_code": "B11",
+        "slug": "absolute-black-metallic-b11",
+        "reference_url": "https://www.paintscratch.com/colors/mini/absolute-black-metallic-b11/",
+        "source_label": "PaintScratch 2026 Mini",
+        "hex_value": "#0C0C0C"
+      },
+      {
+        "display_name": "Green",
+        "paint_code": "C3B",
+        "slug": "green-c3b",
+        "reference_url": "https://www.paintscratch.com/colors/mini/green-c3b/",
+        "source_label": "PaintScratch 2026 Mini",
+        "hex_value": "#2E6D1F"
+      },
+      {
+        "display_name": "Nanuq White Tricoat",
+        "paint_code": "C6A",
+        "slug": "nanuq-white-tricoat-c6a",
+        "reference_url": "https://www.paintscratch.com/colors/mini/nanuq-white-tricoat-c6a/",
+        "source_label": "PaintScratch 2026 Mini",
+        "hex_value": "#FAF7F0"
+      },
+      {
+        "display_name": "Melting Silver III",
+        "paint_code": "C6B",
+        "slug": "melting-silver-iii-c6b",
+        "reference_url": "https://www.paintscratch.com/colors/mini/melting-silver-iii-c6b/",
+        "source_label": "PaintScratch 2026 Mini",
+        "hex_value": "#6E695C"
+      },
+      {
+        "display_name": "Indigo Sunset Blue",
+        "paint_code": "C6F",
+        "slug": "indigo-sunset-blue-c6f",
+        "reference_url": "https://www.paintscratch.com/colors/mini/indigo-sunset-blue-c6f/",
+        "source_label": "PaintScratch 2026 Mini",
+        "hex_value": "#37414F"
+      },
+      {
+        "display_name": "Blazing Blue",
+        "paint_code": "C6K",
+        "slug": "blazing-blue-c6k",
+        "reference_url": "https://www.paintscratch.com/colors/mini/blazing-blue-c6k/",
+        "source_label": "PaintScratch 2026 Mini",
+        "hex_value": "#244980"
+      },
+      {
+        "display_name": "Ocean Wave Green",
+        "paint_code": "C6M",
+        "slug": "ocean-wave-green-c6m",
+        "reference_url": "https://www.paintscratch.com/colors/mini/ocean-wave-green-c6m/",
+        "source_label": "PaintScratch 2026 Mini",
+        "hex_value": "#799F85"
+      },
+      {
+        "display_name": "Legend Grey",
+        "paint_code": "C6P",
+        "slug": "legend-grey-c6p",
+        "reference_url": "https://www.paintscratch.com/colors/mini/legend-grey-c6p/",
+        "source_label": "PaintScratch 2026 Mini",
+        "hex_value": "#464A50"
+      },
+      {
+        "display_name": "Smokey Green",
+        "paint_code": "C71",
+        "slug": "smokey-green-c71",
+        "reference_url": "https://www.paintscratch.com/colors/mini/smokey-green-c71/",
+        "source_label": "PaintScratch 2026 Mini",
+        "hex_value": "#4A5352"
+      },
+      {
+        "display_name": "Slate Blue",
+        "paint_code": "C70",
+        "slug": "slate-blue-c70",
+        "reference_url": "https://www.paintscratch.com/colors/mini/slate-blue-c70/",
+        "source_label": "PaintScratch 2026 Mini",
+        "hex_value": "#3E4B6A"
+      },
+      {
+        "display_name": "Copper Grey",
+        "paint_code": "C77",
+        "slug": "copper-grey-c77",
+        "reference_url": "https://www.paintscratch.com/colors/mini/copper-grey-c77/",
+        "source_label": "PaintScratch 2026 Mini",
+        "hex_value": "#544F46"
+      }
+    ],
+    "2027": [
+      {
+        "display_name": "Chili Red",
+        "paint_code": "851",
+        "slug": "chili-red-851",
+        "reference_url": "https://www.paintscratch.com/colors/mini/chili-red-851/",
+        "source_label": "PaintScratch 2027 Mini",
+        "hex_value": "#CE1C18"
+      },
+      {
+        "display_name": "Icy Sunshine Blue",
+        "paint_code": "C6L",
+        "slug": "icy-sunshine-blue-c6l",
+        "reference_url": "https://www.paintscratch.com/colors/mini/icy-sunshine-blue-c6l/",
+        "source_label": "PaintScratch 2027 Mini",
+        "hex_value": "#284586"
+      },
+      {
+        "display_name": "Sunny Side Yellow",
+        "paint_code": "C6N",
+        "slug": "sunny-side-yellow-c6n",
+        "reference_url": "https://www.paintscratch.com/colors/mini/sunny-side-yellow-c6n/",
+        "source_label": "PaintScratch 2027 Mini",
+        "hex_value": "#EEE25E"
+      },
+      {
+        "display_name": "Absolute Black Metallic",
+        "paint_code": "B11",
+        "slug": "absolute-black-metallic-b11",
+        "reference_url": "https://www.paintscratch.com/colors/mini/absolute-black-metallic-b11/",
+        "source_label": "PaintScratch 2027 Mini",
+        "hex_value": "#0C0C0C"
+      },
+      {
+        "display_name": "Green",
+        "paint_code": "C3B",
+        "slug": "green-c3b",
+        "reference_url": "https://www.paintscratch.com/colors/mini/green-c3b/",
+        "source_label": "PaintScratch 2027 Mini",
+        "hex_value": "#2E6D1F"
+      },
+      {
+        "display_name": "Nanuq White Tricoat",
+        "paint_code": "C6A",
+        "slug": "nanuq-white-tricoat-c6a",
+        "reference_url": "https://www.paintscratch.com/colors/mini/nanuq-white-tricoat-c6a/",
+        "source_label": "PaintScratch 2027 Mini",
+        "hex_value": "#FAF7F0"
+      },
+      {
+        "display_name": "Melting Silver III",
+        "paint_code": "C6B",
+        "slug": "melting-silver-iii-c6b",
+        "reference_url": "https://www.paintscratch.com/colors/mini/melting-silver-iii-c6b/",
+        "source_label": "PaintScratch 2027 Mini",
+        "hex_value": "#6E695C"
+      },
+      {
+        "display_name": "Indigo Sunset Blue",
+        "paint_code": "C6F",
+        "slug": "indigo-sunset-blue-c6f",
+        "reference_url": "https://www.paintscratch.com/colors/mini/indigo-sunset-blue-c6f/",
+        "source_label": "PaintScratch 2027 Mini",
+        "hex_value": "#37414F"
+      },
+      {
+        "display_name": "Blazing Blue",
+        "paint_code": "C6K",
+        "slug": "blazing-blue-c6k",
+        "reference_url": "https://www.paintscratch.com/colors/mini/blazing-blue-c6k/",
+        "source_label": "PaintScratch 2027 Mini",
+        "hex_value": "#244980"
+      },
+      {
+        "display_name": "Ocean Wave Green",
+        "paint_code": "C6M",
+        "slug": "ocean-wave-green-c6m",
+        "reference_url": "https://www.paintscratch.com/colors/mini/ocean-wave-green-c6m/",
+        "source_label": "PaintScratch 2027 Mini",
+        "hex_value": "#799F85"
+      },
+      {
+        "display_name": "Legend Grey",
+        "paint_code": "C6P",
+        "slug": "legend-grey-c6p",
+        "reference_url": "https://www.paintscratch.com/colors/mini/legend-grey-c6p/",
+        "source_label": "PaintScratch 2027 Mini",
+        "hex_value": "#464A50"
+      },
+      {
+        "display_name": "Smokey Green",
+        "paint_code": "C71",
+        "slug": "smokey-green-c71",
+        "reference_url": "https://www.paintscratch.com/colors/mini/smokey-green-c71/",
+        "source_label": "PaintScratch 2027 Mini",
+        "hex_value": "#4A5352"
+      },
+      {
+        "display_name": "Slate Blue",
+        "paint_code": "C70",
+        "slug": "slate-blue-c70",
+        "reference_url": "https://www.paintscratch.com/colors/mini/slate-blue-c70/",
+        "source_label": "PaintScratch 2027 Mini",
+        "hex_value": "#3E4B6A"
+      },
+      {
+        "display_name": "Copper Grey",
+        "paint_code": "C77",
+        "slug": "copper-grey-c77",
+        "reference_url": "https://www.paintscratch.com/colors/mini/copper-grey-c77/",
+        "source_label": "PaintScratch 2027 Mini",
+        "hex_value": "#544F46"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1742 @@
+{
+  "All Models": {
+    "1959": [
+      {
+        "display_name": "Powder Blue",
+        "paint_code": "12163",
+        "slug": "powder-blue-12163",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/powder-blue-12163/",
+        "source_label": "PaintScratch 1959 Triumph",
+        "hex_value": "#A7E3E2"
+      },
+      {
+        "display_name": "Signal Red",
+        "paint_code": "70966",
+        "slug": "signal-red-70966",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/signal-red-70966/",
+        "source_label": "PaintScratch 1959 Triumph",
+        "hex_value": "#9B0D0C"
+      },
+      {
+        "display_name": "Primrose Yellow",
+        "paint_code": "81168",
+        "slug": "primrose-yellow-81168",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/primrose-yellow-81168/",
+        "source_label": "PaintScratch 1959 Triumph",
+        "hex_value": "#F7E677"
+      }
+    ],
+    "1960": [
+      {
+        "display_name": "Signal Red",
+        "paint_code": "32",
+        "slug": "signal-red-32",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/signal-red-32/",
+        "source_label": "PaintScratch 1960 Triumph",
+        "hex_value": "#9B0D0C"
+      },
+      {
+        "display_name": "Primrose Yellow",
+        "paint_code": "81168",
+        "slug": "primrose-yellow-81168",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/primrose-yellow-81168/",
+        "source_label": "PaintScratch 1960 Triumph",
+        "hex_value": "#F7E677"
+      }
+    ],
+    "1963": [
+      {
+        "display_name": "Signal Red",
+        "paint_code": "32",
+        "slug": "signal-red-32",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/signal-red-32/",
+        "source_label": "PaintScratch 1963 Triumph",
+        "hex_value": "#9B0D0C"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "11/PAA",
+        "slug": "black-11paa",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/black-11paa/",
+        "source_label": "PaintScratch 1963 Triumph",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Pure White",
+        "paint_code": "19",
+        "slug": "pure-white-19",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/pure-white-19/",
+        "source_label": "PaintScratch 1963 Triumph",
+        "hex_value": "#E3DCD4"
+      },
+      {
+        "display_name": "Racing Green",
+        "paint_code": "25",
+        "slug": "racing-green-25",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/racing-green-25/",
+        "source_label": "PaintScratch 1963 Triumph",
+        "hex_value": "#1D302A"
+      },
+      {
+        "display_name": "Jasmine (Yellow)",
+        "paint_code": "34",
+        "slug": "jasmine-yellow-34",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/jasmine-yellow-34/",
+        "source_label": "PaintScratch 1963 Triumph",
+        "hex_value": "#CAC689"
+      },
+      {
+        "display_name": "Royal Blue",
+        "paint_code": "56",
+        "slug": "royal-blue-56",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/royal-blue-56/",
+        "source_label": "PaintScratch 1963 Triumph",
+        "hex_value": "#2B2157"
+      },
+      {
+        "display_name": "Gunmetal",
+        "paint_code": "18",
+        "slug": "gunmetal-18",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/gunmetal-18/",
+        "source_label": "PaintScratch 1963 Triumph",
+        "hex_value": "#636059"
+      },
+      {
+        "display_name": "Wedgewood Blue",
+        "paint_code": "26",
+        "slug": "wedgewood-blue-26",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/wedgewood-blue-26/",
+        "source_label": "PaintScratch 1963 Triumph",
+        "hex_value": "#7391AB"
+      }
+    ],
+    "1964": [
+      {
+        "display_name": "Signal Red",
+        "paint_code": "32",
+        "slug": "signal-red-32",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/signal-red-32/",
+        "source_label": "PaintScratch 1964 Triumph",
+        "hex_value": "#9B0D0C"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "11/PAA",
+        "slug": "black-11paa",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/black-11paa/",
+        "source_label": "PaintScratch 1964 Triumph",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Pure White",
+        "paint_code": "19",
+        "slug": "pure-white-19",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/pure-white-19/",
+        "source_label": "PaintScratch 1964 Triumph",
+        "hex_value": "#E3DCD4"
+      },
+      {
+        "display_name": "Racing Green",
+        "paint_code": "25",
+        "slug": "racing-green-25",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/racing-green-25/",
+        "source_label": "PaintScratch 1964 Triumph",
+        "hex_value": "#1D302A"
+      },
+      {
+        "display_name": "Jasmine (Yellow)",
+        "paint_code": "34",
+        "slug": "jasmine-yellow-34",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/jasmine-yellow-34/",
+        "source_label": "PaintScratch 1964 Triumph",
+        "hex_value": "#CAC689"
+      },
+      {
+        "display_name": "Royal Blue",
+        "paint_code": "56",
+        "slug": "royal-blue-56",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/royal-blue-56/",
+        "source_label": "PaintScratch 1964 Triumph",
+        "hex_value": "#2B2157"
+      },
+      {
+        "display_name": "Wedgewood Blue",
+        "paint_code": "26",
+        "slug": "wedgewood-blue-26",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/wedgewood-blue-26/",
+        "source_label": "PaintScratch 1964 Triumph",
+        "hex_value": "#7391AB"
+      }
+    ],
+    "1965": [
+      {
+        "display_name": "Signal Red",
+        "paint_code": "32",
+        "slug": "signal-red-32",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/signal-red-32/",
+        "source_label": "PaintScratch 1965 Triumph",
+        "hex_value": "#9B0D0C"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "11/PAA",
+        "slug": "black-11paa",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/black-11paa/",
+        "source_label": "PaintScratch 1965 Triumph",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Pure White",
+        "paint_code": "19",
+        "slug": "pure-white-19",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/pure-white-19/",
+        "source_label": "PaintScratch 1965 Triumph",
+        "hex_value": "#E3DCD4"
+      },
+      {
+        "display_name": "Racing Green",
+        "paint_code": "25",
+        "slug": "racing-green-25",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/racing-green-25/",
+        "source_label": "PaintScratch 1965 Triumph",
+        "hex_value": "#1D302A"
+      },
+      {
+        "display_name": "Jasmine (Yellow)",
+        "paint_code": "34",
+        "slug": "jasmine-yellow-34",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/jasmine-yellow-34/",
+        "source_label": "PaintScratch 1965 Triumph",
+        "hex_value": "#CAC689"
+      },
+      {
+        "display_name": "Royal Blue",
+        "paint_code": "56",
+        "slug": "royal-blue-56",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/royal-blue-56/",
+        "source_label": "PaintScratch 1965 Triumph",
+        "hex_value": "#2B2157"
+      },
+      {
+        "display_name": "Wedgewood Blue",
+        "paint_code": "26",
+        "slug": "wedgewood-blue-26",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/wedgewood-blue-26/",
+        "source_label": "PaintScratch 1965 Triumph",
+        "hex_value": "#7391AB"
+      }
+    ],
+    "1966": [
+      {
+        "display_name": "Signal Red",
+        "paint_code": "32",
+        "slug": "signal-red-32",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/signal-red-32/",
+        "source_label": "PaintScratch 1966 Triumph",
+        "hex_value": "#9B0D0C"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "11/PAA",
+        "slug": "black-11paa",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/black-11paa/",
+        "source_label": "PaintScratch 1966 Triumph",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Pure White",
+        "paint_code": "19",
+        "slug": "pure-white-19",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/pure-white-19/",
+        "source_label": "PaintScratch 1966 Triumph",
+        "hex_value": "#E3DCD4"
+      },
+      {
+        "display_name": "Racing Green",
+        "paint_code": "25",
+        "slug": "racing-green-25",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/racing-green-25/",
+        "source_label": "PaintScratch 1966 Triumph",
+        "hex_value": "#1D302A"
+      },
+      {
+        "display_name": "Jasmine (Yellow)",
+        "paint_code": "34",
+        "slug": "jasmine-yellow-34",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/jasmine-yellow-34/",
+        "source_label": "PaintScratch 1966 Triumph",
+        "hex_value": "#CAC689"
+      },
+      {
+        "display_name": "Royal Blue",
+        "paint_code": "56",
+        "slug": "royal-blue-56",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/royal-blue-56/",
+        "source_label": "PaintScratch 1966 Triumph",
+        "hex_value": "#2B2157"
+      },
+      {
+        "display_name": "Wedgewood Blue",
+        "paint_code": "26",
+        "slug": "wedgewood-blue-26",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/wedgewood-blue-26/",
+        "source_label": "PaintScratch 1966 Triumph",
+        "hex_value": "#7391AB"
+      }
+    ],
+    "1967": [
+      {
+        "display_name": "Signal Red",
+        "paint_code": "32",
+        "slug": "signal-red-32",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/signal-red-32/",
+        "source_label": "PaintScratch 1967 Triumph",
+        "hex_value": "#9B0D0C"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "11/PAA",
+        "slug": "black-11paa",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/black-11paa/",
+        "source_label": "PaintScratch 1967 Triumph",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Pure White",
+        "paint_code": "19",
+        "slug": "pure-white-19",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/pure-white-19/",
+        "source_label": "PaintScratch 1967 Triumph",
+        "hex_value": "#E3DCD4"
+      },
+      {
+        "display_name": "Racing Green",
+        "paint_code": "25",
+        "slug": "racing-green-25",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/racing-green-25/",
+        "source_label": "PaintScratch 1967 Triumph",
+        "hex_value": "#1D302A"
+      },
+      {
+        "display_name": "Jasmine (Yellow)",
+        "paint_code": "34",
+        "slug": "jasmine-yellow-34",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/jasmine-yellow-34/",
+        "source_label": "PaintScratch 1967 Triumph",
+        "hex_value": "#CAC689"
+      },
+      {
+        "display_name": "Royal Blue",
+        "paint_code": "56",
+        "slug": "royal-blue-56",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/royal-blue-56/",
+        "source_label": "PaintScratch 1967 Triumph",
+        "hex_value": "#2B2157"
+      },
+      {
+        "display_name": "Valencia Blue",
+        "paint_code": "66",
+        "slug": "valencia-blue-66",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/valencia-blue-66/",
+        "source_label": "PaintScratch 1967 Triumph",
+        "hex_value": "#164770"
+      },
+      {
+        "display_name": "Wedgewood Blue",
+        "paint_code": "26",
+        "slug": "wedgewood-blue-26",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/wedgewood-blue-26/",
+        "source_label": "PaintScratch 1967 Triumph",
+        "hex_value": "#7391AB"
+      }
+    ],
+    "1968": [
+      {
+        "display_name": "Damson (Maroon)",
+        "paint_code": "17",
+        "slug": "damson-maroon-17",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/damson-maroon-17/",
+        "source_label": "PaintScratch 1968 Triumph",
+        "hex_value": "#421625"
+      },
+      {
+        "display_name": "Signal Red",
+        "paint_code": "32",
+        "slug": "signal-red-32",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/signal-red-32/",
+        "source_label": "PaintScratch 1968 Triumph",
+        "hex_value": "#9B0D0C"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "11/PAA",
+        "slug": "black-11paa",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/black-11paa/",
+        "source_label": "PaintScratch 1968 Triumph",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Pure White",
+        "paint_code": "19",
+        "slug": "pure-white-19",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/pure-white-19/",
+        "source_label": "PaintScratch 1968 Triumph",
+        "hex_value": "#E3DCD4"
+      },
+      {
+        "display_name": "Racing Green",
+        "paint_code": "25",
+        "slug": "racing-green-25",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/racing-green-25/",
+        "source_label": "PaintScratch 1968 Triumph",
+        "hex_value": "#1D302A"
+      },
+      {
+        "display_name": "Jasmine (Yellow)",
+        "paint_code": "34",
+        "slug": "jasmine-yellow-34",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/jasmine-yellow-34/",
+        "source_label": "PaintScratch 1968 Triumph",
+        "hex_value": "#CAC689"
+      },
+      {
+        "display_name": "Royal Blue",
+        "paint_code": "56",
+        "slug": "royal-blue-56",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/royal-blue-56/",
+        "source_label": "PaintScratch 1968 Triumph",
+        "hex_value": "#2B2157"
+      },
+      {
+        "display_name": "Valencia Blue",
+        "paint_code": "66",
+        "slug": "valencia-blue-66",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/valencia-blue-66/",
+        "source_label": "PaintScratch 1968 Triumph",
+        "hex_value": "#164770"
+      },
+      {
+        "display_name": "Wedgewood Blue",
+        "paint_code": "26",
+        "slug": "wedgewood-blue-26",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/wedgewood-blue-26/",
+        "source_label": "PaintScratch 1968 Triumph",
+        "hex_value": "#7391AB"
+      }
+    ],
+    "1969": [
+      {
+        "display_name": "Damson (Maroon)",
+        "paint_code": "17",
+        "slug": "damson-maroon-17",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/damson-maroon-17/",
+        "source_label": "PaintScratch 1969 Triumph",
+        "hex_value": "#421625"
+      },
+      {
+        "display_name": "Signal Red",
+        "paint_code": "32",
+        "slug": "signal-red-32",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/signal-red-32/",
+        "source_label": "PaintScratch 1969 Triumph",
+        "hex_value": "#9B0D0C"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "11/PAA",
+        "slug": "black-11paa",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/black-11paa/",
+        "source_label": "PaintScratch 1969 Triumph",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Pure White",
+        "paint_code": "19",
+        "slug": "pure-white-19",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/pure-white-19/",
+        "source_label": "PaintScratch 1969 Triumph",
+        "hex_value": "#E3DCD4"
+      },
+      {
+        "display_name": "Racing Green",
+        "paint_code": "25",
+        "slug": "racing-green-25",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/racing-green-25/",
+        "source_label": "PaintScratch 1969 Triumph",
+        "hex_value": "#1D302A"
+      },
+      {
+        "display_name": "Jasmine (Yellow)",
+        "paint_code": "34",
+        "slug": "jasmine-yellow-34",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/jasmine-yellow-34/",
+        "source_label": "PaintScratch 1969 Triumph",
+        "hex_value": "#CAC689"
+      },
+      {
+        "display_name": "Laurel Green",
+        "paint_code": "55",
+        "slug": "laurel-green-55",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/laurel-green-55/",
+        "source_label": "PaintScratch 1969 Triumph",
+        "hex_value": "#437D31"
+      },
+      {
+        "display_name": "Royal Blue",
+        "paint_code": "56",
+        "slug": "royal-blue-56",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/royal-blue-56/",
+        "source_label": "PaintScratch 1969 Triumph",
+        "hex_value": "#2B2157"
+      },
+      {
+        "display_name": "Valencia Blue",
+        "paint_code": "66",
+        "slug": "valencia-blue-66",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/valencia-blue-66/",
+        "source_label": "PaintScratch 1969 Triumph",
+        "hex_value": "#164770"
+      },
+      {
+        "display_name": "Wedgewood Blue",
+        "paint_code": "26",
+        "slug": "wedgewood-blue-26",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/wedgewood-blue-26/",
+        "source_label": "PaintScratch 1969 Triumph",
+        "hex_value": "#7391AB"
+      }
+    ],
+    "1970": [
+      {
+        "display_name": "Damson (Maroon)",
+        "paint_code": "17",
+        "slug": "damson-maroon-17",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/damson-maroon-17/",
+        "source_label": "PaintScratch 1970 Triumph",
+        "hex_value": "#421625"
+      },
+      {
+        "display_name": "Signal Red",
+        "paint_code": "32",
+        "slug": "signal-red-32",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/signal-red-32/",
+        "source_label": "PaintScratch 1970 Triumph",
+        "hex_value": "#9B0D0C"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "11/PAA",
+        "slug": "black-11paa",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/black-11paa/",
+        "source_label": "PaintScratch 1970 Triumph",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Pure White",
+        "paint_code": "19",
+        "slug": "pure-white-19",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/pure-white-19/",
+        "source_label": "PaintScratch 1970 Triumph",
+        "hex_value": "#E3DCD4"
+      },
+      {
+        "display_name": "Sienna",
+        "paint_code": "23",
+        "slug": "sienna-23",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/sienna-23/",
+        "source_label": "PaintScratch 1970 Triumph",
+        "hex_value": "#2C2326"
+      },
+      {
+        "display_name": "Jasmine (Yellow)",
+        "paint_code": "34",
+        "slug": "jasmine-yellow-34",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/jasmine-yellow-34/",
+        "source_label": "PaintScratch 1970 Triumph",
+        "hex_value": "#CAC689"
+      },
+      {
+        "display_name": "Laurel Green",
+        "paint_code": "55",
+        "slug": "laurel-green-55",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/laurel-green-55/",
+        "source_label": "PaintScratch 1970 Triumph",
+        "hex_value": "#437D31"
+      },
+      {
+        "display_name": "Royal Blue",
+        "paint_code": "56",
+        "slug": "royal-blue-56",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/royal-blue-56/",
+        "source_label": "PaintScratch 1970 Triumph",
+        "hex_value": "#2B2157"
+      },
+      {
+        "display_name": "Valencia Blue",
+        "paint_code": "66",
+        "slug": "valencia-blue-66",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/valencia-blue-66/",
+        "source_label": "PaintScratch 1970 Triumph",
+        "hex_value": "#164770"
+      },
+      {
+        "display_name": "Wedgewood Blue",
+        "paint_code": "26",
+        "slug": "wedgewood-blue-26",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/wedgewood-blue-26/",
+        "source_label": "PaintScratch 1970 Triumph",
+        "hex_value": "#7391AB"
+      },
+      {
+        "display_name": "Olive",
+        "paint_code": "35",
+        "slug": "olive-35",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/olive-35/",
+        "source_label": "PaintScratch 1970 Triumph",
+        "hex_value": "#94AB5D"
+      },
+      {
+        "display_name": "Slate",
+        "paint_code": "68",
+        "slug": "slate-68",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/slate-68/",
+        "source_label": "PaintScratch 1970 Triumph",
+        "hex_value": "#4F5A63"
+      }
+    ],
+    "1971": [
+      {
+        "display_name": "Damson (Maroon)",
+        "paint_code": "17",
+        "slug": "damson-maroon-17",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/damson-maroon-17/",
+        "source_label": "PaintScratch 1971 Triumph",
+        "hex_value": "#421625"
+      },
+      {
+        "display_name": "Signal Red",
+        "paint_code": "32",
+        "slug": "signal-red-32",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/signal-red-32/",
+        "source_label": "PaintScratch 1971 Triumph",
+        "hex_value": "#9B0D0C"
+      },
+      {
+        "display_name": "Sapphire Blue",
+        "paint_code": "96",
+        "slug": "sapphire-blue-96",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/sapphire-blue-96/",
+        "source_label": "PaintScratch 1971 Triumph",
+        "hex_value": "#212445"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "11/PAA",
+        "slug": "black-11paa",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/black-11paa/",
+        "source_label": "PaintScratch 1971 Triumph",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Pure White",
+        "paint_code": "19",
+        "slug": "pure-white-19",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/pure-white-19/",
+        "source_label": "PaintScratch 1971 Triumph",
+        "hex_value": "#E3DCD4"
+      },
+      {
+        "display_name": "Sienna",
+        "paint_code": "23",
+        "slug": "sienna-23",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/sienna-23/",
+        "source_label": "PaintScratch 1971 Triumph",
+        "hex_value": "#2C2326"
+      },
+      {
+        "display_name": "Jasmine (Yellow)",
+        "paint_code": "34",
+        "slug": "jasmine-yellow-34",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/jasmine-yellow-34/",
+        "source_label": "PaintScratch 1971 Triumph",
+        "hex_value": "#CAC689"
+      },
+      {
+        "display_name": "Laurel Green",
+        "paint_code": "55",
+        "slug": "laurel-green-55",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/laurel-green-55/",
+        "source_label": "PaintScratch 1971 Triumph",
+        "hex_value": "#437D31"
+      },
+      {
+        "display_name": "Royal Blue",
+        "paint_code": "56",
+        "slug": "royal-blue-56",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/royal-blue-56/",
+        "source_label": "PaintScratch 1971 Triumph",
+        "hex_value": "#2B2157"
+      },
+      {
+        "display_name": "Valencia Blue",
+        "paint_code": "66",
+        "slug": "valencia-blue-66",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/valencia-blue-66/",
+        "source_label": "PaintScratch 1971 Triumph",
+        "hex_value": "#164770"
+      },
+      {
+        "display_name": "Wedgewood Blue",
+        "paint_code": "26",
+        "slug": "wedgewood-blue-26",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/wedgewood-blue-26/",
+        "source_label": "PaintScratch 1971 Triumph",
+        "hex_value": "#7391AB"
+      },
+      {
+        "display_name": "Saffron Yellow",
+        "paint_code": "54",
+        "slug": "saffron-yellow-54",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/saffron-yellow-54/",
+        "source_label": "PaintScratch 1971 Triumph",
+        "hex_value": "#9D5316"
+      }
+    ],
+    "1972": [
+      {
+        "display_name": "Pimento",
+        "paint_code": "72/CAB",
+        "slug": "pimento-72cab",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/pimento-72cab/",
+        "source_label": "PaintScratch 1972 Triumph",
+        "hex_value": "#BB1914"
+      },
+      {
+        "display_name": "Damson (Maroon)",
+        "paint_code": "17",
+        "slug": "damson-maroon-17",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/damson-maroon-17/",
+        "source_label": "PaintScratch 1972 Triumph",
+        "hex_value": "#421625"
+      },
+      {
+        "display_name": "Sapphire Blue",
+        "paint_code": "96",
+        "slug": "sapphire-blue-96",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/sapphire-blue-96/",
+        "source_label": "PaintScratch 1972 Triumph",
+        "hex_value": "#212445"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "11/PAA",
+        "slug": "black-11paa",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/black-11paa/",
+        "source_label": "PaintScratch 1972 Triumph",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Pure White",
+        "paint_code": "19",
+        "slug": "pure-white-19",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/pure-white-19/",
+        "source_label": "PaintScratch 1972 Triumph",
+        "hex_value": "#E3DCD4"
+      },
+      {
+        "display_name": "Sienna",
+        "paint_code": "23",
+        "slug": "sienna-23",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/sienna-23/",
+        "source_label": "PaintScratch 1972 Triumph",
+        "hex_value": "#2C2326"
+      },
+      {
+        "display_name": "Jasmine (Yellow)",
+        "paint_code": "34",
+        "slug": "jasmine-yellow-34",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/jasmine-yellow-34/",
+        "source_label": "PaintScratch 1972 Triumph",
+        "hex_value": "#CAC689"
+      },
+      {
+        "display_name": "Royal Blue",
+        "paint_code": "56",
+        "slug": "royal-blue-56",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/royal-blue-56/",
+        "source_label": "PaintScratch 1972 Triumph",
+        "hex_value": "#2B2157"
+      },
+      {
+        "display_name": "Emerald Green",
+        "paint_code": "65",
+        "slug": "emerald-green-65",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/emerald-green-65/",
+        "source_label": "PaintScratch 1972 Triumph",
+        "hex_value": "#063A24"
+      },
+      {
+        "display_name": "Mallard Green",
+        "paint_code": "106",
+        "slug": "mallard-green-106",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/mallard-green-106/",
+        "source_label": "PaintScratch 1972 Triumph",
+        "hex_value": "#151C22"
+      },
+      {
+        "display_name": "Saffron Yellow",
+        "paint_code": "54",
+        "slug": "saffron-yellow-54",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/saffron-yellow-54/",
+        "source_label": "PaintScratch 1972 Triumph",
+        "hex_value": "#9D5316"
+      }
+    ],
+    "1973": [
+      {
+        "display_name": "Pimento",
+        "paint_code": "72/CAB",
+        "slug": "pimento-72cab",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/pimento-72cab/",
+        "source_label": "PaintScratch 1973 Triumph",
+        "hex_value": "#BB1914"
+      },
+      {
+        "display_name": "Carmine Red",
+        "paint_code": "82/CAA/209",
+        "slug": "carmine-red-82caa209",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/carmine-red-82caa209/",
+        "source_label": "PaintScratch 1973 Triumph",
+        "hex_value": "#650B15"
+      },
+      {
+        "display_name": "Sapphire Blue",
+        "paint_code": "96",
+        "slug": "sapphire-blue-96",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/sapphire-blue-96/",
+        "source_label": "PaintScratch 1973 Triumph",
+        "hex_value": "#212445"
+      },
+      {
+        "display_name": "Pure White",
+        "paint_code": "19",
+        "slug": "pure-white-19",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/pure-white-19/",
+        "source_label": "PaintScratch 1973 Triumph",
+        "hex_value": "#E3DCD4"
+      },
+      {
+        "display_name": "Sienna",
+        "paint_code": "23",
+        "slug": "sienna-23",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/sienna-23/",
+        "source_label": "PaintScratch 1973 Triumph",
+        "hex_value": "#2C2326"
+      },
+      {
+        "display_name": "Mimosa Yellow",
+        "paint_code": "64/FAA",
+        "slug": "mimosa-yellow-64faa",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/mimosa-yellow-64faa/",
+        "source_label": "PaintScratch 1973 Triumph",
+        "hex_value": "#B28F0F"
+      },
+      {
+        "display_name": "Emerald Green",
+        "paint_code": "65",
+        "slug": "emerald-green-65",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/emerald-green-65/",
+        "source_label": "PaintScratch 1973 Triumph",
+        "hex_value": "#063A24"
+      },
+      {
+        "display_name": "Mallard Green",
+        "paint_code": "106",
+        "slug": "mallard-green-106",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/mallard-green-106/",
+        "source_label": "PaintScratch 1973 Triumph",
+        "hex_value": "#151C22"
+      },
+      {
+        "display_name": "French Blue",
+        "paint_code": "126/JAA",
+        "slug": "french-blue-126jaa",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/french-blue-126jaa/",
+        "source_label": "PaintScratch 1973 Triumph",
+        "hex_value": "#4CA8F1"
+      },
+      {
+        "display_name": "Honeysuckle",
+        "paint_code": "39",
+        "slug": "honeysuckle-39",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/honeysuckle-39/",
+        "source_label": "PaintScratch 1973 Triumph",
+        "hex_value": "#CBB480"
+      },
+      {
+        "display_name": "Saffron Yellow",
+        "paint_code": "54",
+        "slug": "saffron-yellow-54",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/saffron-yellow-54/",
+        "source_label": "PaintScratch 1973 Triumph",
+        "hex_value": "#9D5316"
+      },
+      {
+        "display_name": "Magenta",
+        "paint_code": "92",
+        "slug": "magenta-92",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/magenta-92/",
+        "source_label": "PaintScratch 1973 Triumph",
+        "hex_value": "#661C41"
+      },
+      {
+        "display_name": "Ice Blue",
+        "paint_code": "116",
+        "slug": "ice-blue-116",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/ice-blue-116/",
+        "source_label": "PaintScratch 1973 Triumph",
+        "hex_value": "#D7E1E9"
+      }
+    ],
+    "1974": [
+      {
+        "display_name": "Pimento",
+        "paint_code": "72/CAB",
+        "slug": "pimento-72cab",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/pimento-72cab/",
+        "source_label": "PaintScratch 1974 Triumph",
+        "hex_value": "#BB1914"
+      },
+      {
+        "display_name": "Carmine Red",
+        "paint_code": "82/CAA/209",
+        "slug": "carmine-red-82caa209",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/carmine-red-82caa209/",
+        "source_label": "PaintScratch 1974 Triumph",
+        "hex_value": "#650B15"
+      },
+      {
+        "display_name": "Maple",
+        "paint_code": "73/AAC",
+        "slug": "maple-73aac",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/maple-73aac/",
+        "source_label": "PaintScratch 1974 Triumph",
+        "hex_value": "#3E2C28"
+      },
+      {
+        "display_name": "White",
+        "paint_code": "19/NAB/206",
+        "slug": "white-19nab206",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/white-19nab206/",
+        "source_label": "PaintScratch 1974 Triumph",
+        "hex_value": "#FFFFF5"
+      },
+      {
+        "display_name": "Mimosa Yellow",
+        "paint_code": "64/FAA",
+        "slug": "mimosa-yellow-64faa",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/mimosa-yellow-64faa/",
+        "source_label": "PaintScratch 1974 Triumph",
+        "hex_value": "#B28F0F"
+      },
+      {
+        "display_name": "Emerald Green",
+        "paint_code": "65",
+        "slug": "emerald-green-65",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/emerald-green-65/",
+        "source_label": "PaintScratch 1974 Triumph",
+        "hex_value": "#063A24"
+      },
+      {
+        "display_name": "Mallard Green",
+        "paint_code": "106",
+        "slug": "mallard-green-106",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/mallard-green-106/",
+        "source_label": "PaintScratch 1974 Triumph",
+        "hex_value": "#151C22"
+      },
+      {
+        "display_name": "French Blue",
+        "paint_code": "126/JAA",
+        "slug": "french-blue-126jaa",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/french-blue-126jaa/",
+        "source_label": "PaintScratch 1974 Triumph",
+        "hex_value": "#4CA8F1"
+      },
+      {
+        "display_name": "Saffron Yellow",
+        "paint_code": "54",
+        "slug": "saffron-yellow-54",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/saffron-yellow-54/",
+        "source_label": "PaintScratch 1974 Triumph",
+        "hex_value": "#9D5316"
+      },
+      {
+        "display_name": "Dark Brown",
+        "paint_code": "83",
+        "slug": "dark-brown-83",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/dark-brown-83/",
+        "source_label": "PaintScratch 1974 Triumph",
+        "hex_value": "#985636"
+      },
+      {
+        "display_name": "Magenta",
+        "paint_code": "92",
+        "slug": "magenta-92",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/magenta-92/",
+        "source_label": "PaintScratch 1974 Triumph",
+        "hex_value": "#661C41"
+      }
+    ],
+    "1975": [
+      {
+        "display_name": "Pimento",
+        "paint_code": "72/CAB",
+        "slug": "pimento-72cab",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/pimento-72cab/",
+        "source_label": "PaintScratch 1975 Triumph",
+        "hex_value": "#BB1914"
+      },
+      {
+        "display_name": "Carmine Red",
+        "paint_code": "82/CAA/209",
+        "slug": "carmine-red-82caa209",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/carmine-red-82caa209/",
+        "source_label": "PaintScratch 1975 Triumph",
+        "hex_value": "#650B15"
+      },
+      {
+        "display_name": "Maple",
+        "paint_code": "73/AAC",
+        "slug": "maple-73aac",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/maple-73aac/",
+        "source_label": "PaintScratch 1975 Triumph",
+        "hex_value": "#3E2C28"
+      },
+      {
+        "display_name": "Delft Blue",
+        "paint_code": "136/JAB",
+        "slug": "delft-blue-136jab",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/delft-blue-136jab/",
+        "source_label": "PaintScratch 1975 Triumph",
+        "hex_value": "#171D3F"
+      },
+      {
+        "display_name": "White",
+        "paint_code": "19/NAB/206",
+        "slug": "white-19nab206",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/white-19nab206/",
+        "source_label": "PaintScratch 1975 Triumph",
+        "hex_value": "#FFFFF5"
+      },
+      {
+        "display_name": "Mimosa Yellow",
+        "paint_code": "64/FAA",
+        "slug": "mimosa-yellow-64faa",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/mimosa-yellow-64faa/",
+        "source_label": "PaintScratch 1975 Triumph",
+        "hex_value": "#B28F0F"
+      },
+      {
+        "display_name": "British Racing Green",
+        "paint_code": "75/HAA",
+        "slug": "british-racing-green-75haa",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/british-racing-green-75haa/",
+        "source_label": "PaintScratch 1975 Triumph",
+        "hex_value": "#13271C"
+      },
+      {
+        "display_name": "Topaz",
+        "paint_code": "84/EAA",
+        "slug": "topaz-84eaa",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/topaz-84eaa/",
+        "source_label": "PaintScratch 1975 Triumph",
+        "hex_value": "#B94804"
+      },
+      {
+        "display_name": "French Blue",
+        "paint_code": "126/JAA",
+        "slug": "french-blue-126jaa",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/french-blue-126jaa/",
+        "source_label": "PaintScratch 1975 Triumph",
+        "hex_value": "#4CA8F1"
+      },
+      {
+        "display_name": "Java Green",
+        "paint_code": "208/HAB/85",
+        "slug": "java-green-208hab85",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/java-green-208hab85/",
+        "source_label": "PaintScratch 1975 Triumph",
+        "hex_value": "#007C1E"
+      },
+      {
+        "display_name": "Green",
+        "paint_code": "43912",
+        "slug": "green-43912",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/green-43912/",
+        "source_label": "PaintScratch 1975 Triumph",
+        "hex_value": "#2E6D1F"
+      }
+    ],
+    "1976": [
+      {
+        "display_name": "Pimento",
+        "paint_code": "72/CAB",
+        "slug": "pimento-72cab",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/pimento-72cab/",
+        "source_label": "PaintScratch 1976 Triumph",
+        "hex_value": "#BB1914"
+      },
+      {
+        "display_name": "Carmine Red",
+        "paint_code": "82/CAA/209",
+        "slug": "carmine-red-82caa209",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/carmine-red-82caa209/",
+        "source_label": "PaintScratch 1976 Triumph",
+        "hex_value": "#650B15"
+      },
+      {
+        "display_name": "Maple",
+        "paint_code": "73/AAC",
+        "slug": "maple-73aac",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/maple-73aac/",
+        "source_label": "PaintScratch 1976 Triumph",
+        "hex_value": "#3E2C28"
+      },
+      {
+        "display_name": "Delft Blue",
+        "paint_code": "136/JAB",
+        "slug": "delft-blue-136jab",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/delft-blue-136jab/",
+        "source_label": "PaintScratch 1976 Triumph",
+        "hex_value": "#171D3F"
+      },
+      {
+        "display_name": "Inca Yellow",
+        "paint_code": "207/FAB/50/94",
+        "slug": "inca-yellow-207fab5094",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/inca-yellow-207fab5094/",
+        "source_label": "PaintScratch 1976 Triumph",
+        "hex_value": "#DAC258"
+      },
+      {
+        "display_name": "White",
+        "paint_code": "19/NAB/206",
+        "slug": "white-19nab206",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/white-19nab206/",
+        "source_label": "PaintScratch 1976 Triumph",
+        "hex_value": "#FFFFF5"
+      },
+      {
+        "display_name": "Mimosa Yellow",
+        "paint_code": "64/FAA",
+        "slug": "mimosa-yellow-64faa",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/mimosa-yellow-64faa/",
+        "source_label": "PaintScratch 1976 Triumph",
+        "hex_value": "#B28F0F"
+      },
+      {
+        "display_name": "British Racing Green",
+        "paint_code": "75/HAA",
+        "slug": "british-racing-green-75haa",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/british-racing-green-75haa/",
+        "source_label": "PaintScratch 1976 Triumph",
+        "hex_value": "#13271C"
+      },
+      {
+        "display_name": "Topaz",
+        "paint_code": "84/EAA",
+        "slug": "topaz-84eaa",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/topaz-84eaa/",
+        "source_label": "PaintScratch 1976 Triumph",
+        "hex_value": "#B94804"
+      },
+      {
+        "display_name": "French Blue",
+        "paint_code": "126/JAA",
+        "slug": "french-blue-126jaa",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/french-blue-126jaa/",
+        "source_label": "PaintScratch 1976 Triumph",
+        "hex_value": "#4CA8F1"
+      },
+      {
+        "display_name": "Java Green",
+        "paint_code": "208/HAB/85",
+        "slug": "java-green-208hab85",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/java-green-208hab85/",
+        "source_label": "PaintScratch 1976 Triumph",
+        "hex_value": "#007C1E"
+      },
+      {
+        "display_name": "Tahiti Blue",
+        "paint_code": "65/JAE",
+        "slug": "tahiti-blue-65jae",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/tahiti-blue-65jae/",
+        "source_label": "PaintScratch 1976 Triumph",
+        "hex_value": "#335775"
+      },
+      {
+        "display_name": "Java",
+        "paint_code": "85",
+        "slug": "java-85",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/java-85/",
+        "source_label": "PaintScratch 1976 Triumph",
+        "hex_value": "#007C1E"
+      },
+      {
+        "display_name": "Dark Brown (No Single Stage)",
+        "paint_code": "93",
+        "slug": "dark-brown-no-single-stage-93",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/dark-brown-no-single-stage-93/",
+        "source_label": "PaintScratch 1976 Triumph",
+        "hex_value": "#985636"
+      },
+      {
+        "display_name": "Astral Blue Metallic",
+        "paint_code": "140/JAF",
+        "slug": "astral-blue-metallic-140jaf",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/astral-blue-metallic-140jaf/",
+        "source_label": "PaintScratch 1976 Triumph",
+        "hex_value": "#385B81"
+      },
+      {
+        "display_name": "Russet Brown",
+        "paint_code": "205/AAE/51/93",
+        "slug": "russet-brown-205aae5193",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/russet-brown-205aae5193/",
+        "source_label": "PaintScratch 1976 Triumph",
+        "hex_value": "#3F1D1E"
+      }
+    ],
+    "1977": [
+      {
+        "display_name": "Pimento",
+        "paint_code": "72/CAB",
+        "slug": "pimento-72cab",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/pimento-72cab/",
+        "source_label": "PaintScratch 1977 Triumph",
+        "hex_value": "#BB1914"
+      },
+      {
+        "display_name": "Carmine Red",
+        "paint_code": "82/CAA/209",
+        "slug": "carmine-red-82caa209",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/carmine-red-82caa209/",
+        "source_label": "PaintScratch 1977 Triumph",
+        "hex_value": "#650B15"
+      },
+      {
+        "display_name": "Inca Yellow",
+        "paint_code": "207/FAB/50/94",
+        "slug": "inca-yellow-207fab5094",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/inca-yellow-207fab5094/",
+        "source_label": "PaintScratch 1977 Triumph",
+        "hex_value": "#DAC258"
+      },
+      {
+        "display_name": "White",
+        "paint_code": "19/NAB/206",
+        "slug": "white-19nab206",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/white-19nab206/",
+        "source_label": "PaintScratch 1977 Triumph",
+        "hex_value": "#FFFFF5"
+      },
+      {
+        "display_name": "Java Green",
+        "paint_code": "208/HAB/85",
+        "slug": "java-green-208hab85",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/java-green-208hab85/",
+        "source_label": "PaintScratch 1977 Triumph",
+        "hex_value": "#007C1E"
+      },
+      {
+        "display_name": "Tahiti Blue",
+        "paint_code": "65/JAE",
+        "slug": "tahiti-blue-65jae",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/tahiti-blue-65jae/",
+        "source_label": "PaintScratch 1977 Triumph",
+        "hex_value": "#335775"
+      },
+      {
+        "display_name": "Flamenco Red",
+        "paint_code": "133/CAD",
+        "slug": "flamenco-red-133cad",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/flamenco-red-133cad/",
+        "source_label": "PaintScratch 1977 Triumph",
+        "hex_value": "#940E19"
+      },
+      {
+        "display_name": "Astral Blue Metallic",
+        "paint_code": "140/JAF",
+        "slug": "astral-blue-metallic-140jaf",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/astral-blue-metallic-140jaf/",
+        "source_label": "PaintScratch 1977 Triumph",
+        "hex_value": "#385B81"
+      },
+      {
+        "display_name": "Tara Green Metallic",
+        "paint_code": "148/MAD",
+        "slug": "tara-green-metallic-148mad",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/tara-green-metallic-148mad/",
+        "source_label": "PaintScratch 1977 Triumph",
+        "hex_value": "#2E742E"
+      },
+      {
+        "display_name": "Brooklands Green",
+        "paint_code": "169/HAE",
+        "slug": "brooklands-green-169hae",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/brooklands-green-169hae/",
+        "source_label": "PaintScratch 1977 Triumph",
+        "hex_value": "#1F2F24"
+      },
+      {
+        "display_name": "Russet Brown",
+        "paint_code": "205/AAE/51/93",
+        "slug": "russet-brown-205aae5193",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/russet-brown-205aae5193/",
+        "source_label": "PaintScratch 1977 Triumph",
+        "hex_value": "#3F1D1E"
+      },
+      {
+        "display_name": "Pure White",
+        "paint_code": "206/NAB/19",
+        "slug": "pure-white-206nab19",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/pure-white-206nab19/",
+        "source_label": "PaintScratch 1977 Triumph",
+        "hex_value": "#FFFFFF"
+      }
+    ],
+    "1978": [
+      {
+        "display_name": "Carmine Red",
+        "paint_code": "82/CAA/209",
+        "slug": "carmine-red-82caa209",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/carmine-red-82caa209/",
+        "source_label": "PaintScratch 1978 Triumph",
+        "hex_value": "#650B15"
+      },
+      {
+        "display_name": "Inca Yellow",
+        "paint_code": "207/FAB/50/94",
+        "slug": "inca-yellow-207fab5094",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/inca-yellow-207fab5094/",
+        "source_label": "PaintScratch 1978 Triumph",
+        "hex_value": "#DAC258"
+      },
+      {
+        "display_name": "Carmine",
+        "paint_code": "209/CAA/82",
+        "slug": "carmine-209caa82",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/carmine-209caa82/",
+        "source_label": "PaintScratch 1978 Triumph",
+        "hex_value": "#750909"
+      },
+      {
+        "display_name": "Tahiti Blue",
+        "paint_code": "65/JAE",
+        "slug": "tahiti-blue-65jae",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/tahiti-blue-65jae/",
+        "source_label": "PaintScratch 1978 Triumph",
+        "hex_value": "#335775"
+      },
+      {
+        "display_name": "Vermillion Red",
+        "paint_code": "118/CML",
+        "slug": "vermillion-red-118cml",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/vermillion-red-118cml/",
+        "source_label": "PaintScratch 1978 Triumph",
+        "hex_value": "#B1120E"
+      },
+      {
+        "display_name": "Flamenco Red",
+        "paint_code": "133/CAD",
+        "slug": "flamenco-red-133cad",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/flamenco-red-133cad/",
+        "source_label": "PaintScratch 1978 Triumph",
+        "hex_value": "#940E19"
+      },
+      {
+        "display_name": "Astral Blue Metallic",
+        "paint_code": "140/JAF",
+        "slug": "astral-blue-metallic-140jaf",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/astral-blue-metallic-140jaf/",
+        "source_label": "PaintScratch 1978 Triumph",
+        "hex_value": "#385B81"
+      },
+      {
+        "display_name": "Tara Green Metallic",
+        "paint_code": "148/MAD",
+        "slug": "tara-green-metallic-148mad",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/tara-green-metallic-148mad/",
+        "source_label": "PaintScratch 1978 Triumph",
+        "hex_value": "#2E742E"
+      },
+      {
+        "display_name": "Brooklands Green",
+        "paint_code": "169/HAE",
+        "slug": "brooklands-green-169hae",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/brooklands-green-169hae/",
+        "source_label": "PaintScratch 1978 Triumph",
+        "hex_value": "#1F2F24"
+      },
+      {
+        "display_name": "Russet Brown",
+        "paint_code": "205/AAE/51/93",
+        "slug": "russet-brown-205aae5193",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/russet-brown-205aae5193/",
+        "source_label": "PaintScratch 1978 Triumph",
+        "hex_value": "#3F1D1E"
+      },
+      {
+        "display_name": "Pageant Blue",
+        "paint_code": "224/JNA",
+        "slug": "pageant-blue-224jna",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/pageant-blue-224jna/",
+        "source_label": "PaintScratch 1978 Triumph",
+        "hex_value": "#0D5A88"
+      },
+      {
+        "display_name": "Leyland White",
+        "paint_code": "243/NMC",
+        "slug": "leyland-white-243nmc",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/leyland-white-243nmc/",
+        "source_label": "PaintScratch 1978 Triumph",
+        "hex_value": "#DAD6CB"
+      }
+    ],
+    "1979": [
+      {
+        "display_name": "Inca Yellow",
+        "paint_code": "207/FAB/50/94",
+        "slug": "inca-yellow-207fab5094",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/inca-yellow-207fab5094/",
+        "source_label": "PaintScratch 1979 Triumph",
+        "hex_value": "#DAC258"
+      },
+      {
+        "display_name": "Poseidon Green Metallic",
+        "paint_code": "281",
+        "slug": "poseidon-green-metallic-281",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/poseidon-green-metallic-281/",
+        "source_label": "PaintScratch 1979 Triumph",
+        "hex_value": "#184833"
+      },
+      {
+        "display_name": "Carmine",
+        "paint_code": "209/CAA/82",
+        "slug": "carmine-209caa82",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/carmine-209caa82/",
+        "source_label": "PaintScratch 1979 Triumph",
+        "hex_value": "#750909"
+      },
+      {
+        "display_name": "Platinum Metallic",
+        "paint_code": "216",
+        "slug": "platinum-metallic-216",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/platinum-metallic-216/",
+        "source_label": "PaintScratch 1979 Triumph",
+        "hex_value": "#B5B9BD"
+      },
+      {
+        "display_name": "Vermillion Red",
+        "paint_code": "118/CML",
+        "slug": "vermillion-red-118cml",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/vermillion-red-118cml/",
+        "source_label": "PaintScratch 1979 Triumph",
+        "hex_value": "#B1120E"
+      },
+      {
+        "display_name": "Flamenco Red",
+        "paint_code": "133/CAD",
+        "slug": "flamenco-red-133cad",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/flamenco-red-133cad/",
+        "source_label": "PaintScratch 1979 Triumph",
+        "hex_value": "#940E19"
+      },
+      {
+        "display_name": "Brooklands Green",
+        "paint_code": "169/HAE",
+        "slug": "brooklands-green-169hae",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/brooklands-green-169hae/",
+        "source_label": "PaintScratch 1979 Triumph",
+        "hex_value": "#1F2F24"
+      },
+      {
+        "display_name": "Russet Brown",
+        "paint_code": "205/AAE/51/93",
+        "slug": "russet-brown-205aae5193",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/russet-brown-205aae5193/",
+        "source_label": "PaintScratch 1979 Triumph",
+        "hex_value": "#3F1D1E"
+      },
+      {
+        "display_name": "Richelieu Red",
+        "paint_code": "211",
+        "slug": "richelieu-red-211",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/richelieu-red-211/",
+        "source_label": "PaintScratch 1979 Triumph",
+        "hex_value": "#691D1D"
+      },
+      {
+        "display_name": "Tumeric Yellow",
+        "paint_code": "212",
+        "slug": "tumeric-yellow-212",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/tumeric-yellow-212/",
+        "source_label": "PaintScratch 1979 Triumph",
+        "hex_value": "#B89A48"
+      },
+      {
+        "display_name": "Pendelican White",
+        "paint_code": "215",
+        "slug": "pendelican-white-215",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/pendelican-white-215/",
+        "source_label": "PaintScratch 1979 Triumph",
+        "hex_value": "#FDFAED"
+      },
+      {
+        "display_name": "Midas Gold Metallic",
+        "paint_code": "218",
+        "slug": "midas-gold-metallic-218",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/midas-gold-metallic-218/",
+        "source_label": "PaintScratch 1979 Triumph",
+        "hex_value": "#856E5C"
+      },
+      {
+        "display_name": "Pageant Blue",
+        "paint_code": "224/JNA",
+        "slug": "pageant-blue-224jna",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/pageant-blue-224jna/",
+        "source_label": "PaintScratch 1979 Triumph",
+        "hex_value": "#0D5A88"
+      },
+      {
+        "display_name": "Persian Aqua Metallic",
+        "paint_code": "241",
+        "slug": "persian-aqua-metallic-241",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/persian-aqua-metallic-241/",
+        "source_label": "PaintScratch 1979 Triumph",
+        "hex_value": "#649296"
+      },
+      {
+        "display_name": "Leyland White",
+        "paint_code": "243/NMC",
+        "slug": "leyland-white-243nmc",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/leyland-white-243nmc/",
+        "source_label": "PaintScratch 1979 Triumph",
+        "hex_value": "#DAD6CB"
+      },
+      {
+        "display_name": "Carnelian Red",
+        "paint_code": "287",
+        "slug": "carnelian-red-287",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/carnelian-red-287/",
+        "source_label": "PaintScratch 1979 Triumph",
+        "hex_value": "#8D1111"
+      }
+    ],
+    "1980": [
+      {
+        "display_name": "Inca Yellow",
+        "paint_code": "207/FAB/50/94",
+        "slug": "inca-yellow-207fab5094",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/inca-yellow-207fab5094/",
+        "source_label": "PaintScratch 1980 Triumph",
+        "hex_value": "#DAC258"
+      },
+      {
+        "display_name": "Poseidon Green Metallic",
+        "paint_code": "281",
+        "slug": "poseidon-green-metallic-281",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/poseidon-green-metallic-281/",
+        "source_label": "PaintScratch 1980 Triumph",
+        "hex_value": "#184833"
+      },
+      {
+        "display_name": "Carmine",
+        "paint_code": "209/CAA/82",
+        "slug": "carmine-209caa82",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/carmine-209caa82/",
+        "source_label": "PaintScratch 1980 Triumph",
+        "hex_value": "#750909"
+      },
+      {
+        "display_name": "Platinum Metallic",
+        "paint_code": "216",
+        "slug": "platinum-metallic-216",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/platinum-metallic-216/",
+        "source_label": "PaintScratch 1980 Triumph",
+        "hex_value": "#B5B9BD"
+      },
+      {
+        "display_name": "Tahiti Blue",
+        "paint_code": "65/JAE",
+        "slug": "tahiti-blue-65jae",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/tahiti-blue-65jae/",
+        "source_label": "PaintScratch 1980 Triumph",
+        "hex_value": "#335775"
+      },
+      {
+        "display_name": "Vermillion Red",
+        "paint_code": "118/CML",
+        "slug": "vermillion-red-118cml",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/vermillion-red-118cml/",
+        "source_label": "PaintScratch 1980 Triumph",
+        "hex_value": "#B1120E"
+      },
+      {
+        "display_name": "Brooklands Green",
+        "paint_code": "169/HAE",
+        "slug": "brooklands-green-169hae",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/brooklands-green-169hae/",
+        "source_label": "PaintScratch 1980 Triumph",
+        "hex_value": "#1F2F24"
+      },
+      {
+        "display_name": "Russet Brown",
+        "paint_code": "205/AAE/51/93",
+        "slug": "russet-brown-205aae5193",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/russet-brown-205aae5193/",
+        "source_label": "PaintScratch 1980 Triumph",
+        "hex_value": "#3F1D1E"
+      },
+      {
+        "display_name": "Richelieu Red",
+        "paint_code": "211",
+        "slug": "richelieu-red-211",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/richelieu-red-211/",
+        "source_label": "PaintScratch 1980 Triumph",
+        "hex_value": "#691D1D"
+      },
+      {
+        "display_name": "Tumeric Yellow",
+        "paint_code": "212",
+        "slug": "tumeric-yellow-212",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/tumeric-yellow-212/",
+        "source_label": "PaintScratch 1980 Triumph",
+        "hex_value": "#B89A48"
+      },
+      {
+        "display_name": "Brazilia Brown",
+        "paint_code": "214",
+        "slug": "brazilia-brown-214",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/brazilia-brown-214/",
+        "source_label": "PaintScratch 1980 Triumph",
+        "hex_value": "#583C2A"
+      },
+      {
+        "display_name": "Pendelican White",
+        "paint_code": "215",
+        "slug": "pendelican-white-215",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/pendelican-white-215/",
+        "source_label": "PaintScratch 1980 Triumph",
+        "hex_value": "#FDFAED"
+      },
+      {
+        "display_name": "Midas Gold Metallic",
+        "paint_code": "218",
+        "slug": "midas-gold-metallic-218",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/midas-gold-metallic-218/",
+        "source_label": "PaintScratch 1980 Triumph",
+        "hex_value": "#856E5C"
+      },
+      {
+        "display_name": "Pageant Blue",
+        "paint_code": "224/JNA",
+        "slug": "pageant-blue-224jna",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/pageant-blue-224jna/",
+        "source_label": "PaintScratch 1980 Triumph",
+        "hex_value": "#0D5A88"
+      },
+      {
+        "display_name": "Triton Metallic",
+        "paint_code": "230/HCH/HAG",
+        "slug": "triton-metallic-230hchhag",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/triton-metallic-230hchhag/",
+        "source_label": "PaintScratch 1980 Triumph",
+        "hex_value": "#586376"
+      },
+      {
+        "display_name": "Snapdragon Yellow",
+        "paint_code": "235",
+        "slug": "snapdragon-yellow-235",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/snapdragon-yellow-235/",
+        "source_label": "PaintScratch 1980 Triumph",
+        "hex_value": "#AB9E33"
+      }
+    ],
+    "1981": [
+      {
+        "display_name": "Poseidon Green Metallic",
+        "paint_code": "281",
+        "slug": "poseidon-green-metallic-281",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/poseidon-green-metallic-281/",
+        "source_label": "PaintScratch 1981 Triumph",
+        "hex_value": "#184833"
+      },
+      {
+        "display_name": "Pendelican White",
+        "paint_code": "215",
+        "slug": "pendelican-white-215",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/pendelican-white-215/",
+        "source_label": "PaintScratch 1981 Triumph",
+        "hex_value": "#FDFAED"
+      },
+      {
+        "display_name": "Triton Metallic",
+        "paint_code": "230/HCH/HAG",
+        "slug": "triton-metallic-230hchhag",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/triton-metallic-230hchhag/",
+        "source_label": "PaintScratch 1981 Triumph",
+        "hex_value": "#586376"
+      },
+      {
+        "display_name": "Carnelian Red",
+        "paint_code": "287",
+        "slug": "carnelian-red-287",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/carnelian-red-287/",
+        "source_label": "PaintScratch 1981 Triumph",
+        "hex_value": "#8D1111"
+      },
+      {
+        "display_name": "Argent Silver Metallic",
+        "paint_code": "396/MCB",
+        "slug": "argent-silver-metallic-396mcb",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/argent-silver-metallic-396mcb/",
+        "source_label": "PaintScratch 1981 Triumph",
+        "hex_value": "#97999D"
+      },
+      {
+        "display_name": "Aran Beige",
+        "paint_code": "417/NCC",
+        "slug": "aran-beige-417ncc",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/aran-beige-417ncc/",
+        "source_label": "PaintScratch 1981 Triumph",
+        "hex_value": "#978463"
+      },
+      {
+        "display_name": "Bordeaux Red Metallic",
+        "paint_code": "432/CCK",
+        "slug": "bordeaux-red-metallic-432cck",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/bordeaux-red-metallic-432cck/",
+        "source_label": "PaintScratch 1981 Triumph",
+        "hex_value": "#800000"
+      },
+      {
+        "display_name": "Cavalry Blue",
+        "paint_code": "433/JCJ",
+        "slug": "cavalry-blue-433jcj",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/cavalry-blue-433jcj/",
+        "source_label": "PaintScratch 1981 Triumph",
+        "hex_value": "#182252"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "MME",
+        "slug": "silver-metallic-mme",
+        "reference_url": "https://www.paintscratch.com/colors/triumph/silver-metallic-mme/",
+        "source_label": "PaintScratch 1981 Triumph",
+        "hex_value": "#E5DFD5"
+      }
+    ]
+  }
+}

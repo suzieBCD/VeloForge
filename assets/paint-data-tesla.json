@@ -1,0 +1,1836 @@
+{
+  "All Models": {
+    "2008": [
+      {
+        "display_name": "Sunset Red Tricoat",
+        "paint_code": "PMMR",
+        "slug": "sunset-red-tricoat-pmmr",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/sunset-red-tricoat-pmmr/",
+        "source_label": "PaintScratch 2008 Tesla",
+        "hex_value": "#EA1E25"
+      },
+      {
+        "display_name": "Signature Red Tricoat",
+        "paint_code": "PPSR",
+        "slug": "signature-red-tricoat-ppsr",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/signature-red-tricoat-ppsr/",
+        "source_label": "PaintScratch 2008 Tesla",
+        "hex_value": "#BC2F0E"
+      },
+      {
+        "display_name": "Twilight Blue Metallic",
+        "paint_code": "B105",
+        "slug": "twilight-blue-metallic-b105",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/twilight-blue-metallic-b105/",
+        "source_label": "PaintScratch 2008 Tesla",
+        "hex_value": "#2E3646"
+      },
+      {
+        "display_name": "Cataline White",
+        "paint_code": "PBCW",
+        "slug": "cataline-white-pbcw",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/cataline-white-pbcw/",
+        "source_label": "PaintScratch 2008 Tesla",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Sycamore Brown Metallic",
+        "paint_code": "PMAB",
+        "slug": "sycamore-brown-metallic-pmab",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/sycamore-brown-metallic-pmab/",
+        "source_label": "PaintScratch 2008 Tesla",
+        "hex_value": "#5E4A38"
+      },
+      {
+        "display_name": "Pacific Blue Metallic",
+        "paint_code": "PMMB",
+        "slug": "pacific-blue-metallic-pmmb",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/pacific-blue-metallic-pmmb/",
+        "source_label": "PaintScratch 2008 Tesla",
+        "hex_value": "#151D9A"
+      },
+      {
+        "display_name": "Sequoia Green Metallic",
+        "paint_code": "PMSG",
+        "slug": "sequoia-green-metallic-pmsg",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/sequoia-green-metallic-pmsg/",
+        "source_label": "PaintScratch 2008 Tesla",
+        "hex_value": "#3F5E38"
+      }
+    ],
+    "2009": [
+      {
+        "display_name": "Sunset Red Tricoat",
+        "paint_code": "PMMR",
+        "slug": "sunset-red-tricoat-pmmr",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/sunset-red-tricoat-pmmr/",
+        "source_label": "PaintScratch 2009 Tesla",
+        "hex_value": "#EA1E25"
+      },
+      {
+        "display_name": "Signature Red Tricoat",
+        "paint_code": "PPSR",
+        "slug": "signature-red-tricoat-ppsr",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/signature-red-tricoat-ppsr/",
+        "source_label": "PaintScratch 2009 Tesla",
+        "hex_value": "#BC2F0E"
+      },
+      {
+        "display_name": "Twilight Blue Metallic",
+        "paint_code": "B105",
+        "slug": "twilight-blue-metallic-b105",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/twilight-blue-metallic-b105/",
+        "source_label": "PaintScratch 2009 Tesla",
+        "hex_value": "#2E3646"
+      },
+      {
+        "display_name": "Cataline White",
+        "paint_code": "PBCW",
+        "slug": "cataline-white-pbcw",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/cataline-white-pbcw/",
+        "source_label": "PaintScratch 2009 Tesla",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Sycamore Brown Metallic",
+        "paint_code": "PMAB",
+        "slug": "sycamore-brown-metallic-pmab",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/sycamore-brown-metallic-pmab/",
+        "source_label": "PaintScratch 2009 Tesla",
+        "hex_value": "#5E4A38"
+      },
+      {
+        "display_name": "Pacific Blue Metallic",
+        "paint_code": "PMMB",
+        "slug": "pacific-blue-metallic-pmmb",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/pacific-blue-metallic-pmmb/",
+        "source_label": "PaintScratch 2009 Tesla",
+        "hex_value": "#151D9A"
+      },
+      {
+        "display_name": "Sequoia Green Metallic",
+        "paint_code": "PMSG",
+        "slug": "sequoia-green-metallic-pmsg",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/sequoia-green-metallic-pmsg/",
+        "source_label": "PaintScratch 2009 Tesla",
+        "hex_value": "#3F5E38"
+      }
+    ],
+    "2010": [
+      {
+        "display_name": "Sunset Red Tricoat",
+        "paint_code": "PMMR",
+        "slug": "sunset-red-tricoat-pmmr",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/sunset-red-tricoat-pmmr/",
+        "source_label": "PaintScratch 2010 Tesla",
+        "hex_value": "#EA1E25"
+      },
+      {
+        "display_name": "Signature Red Tricoat",
+        "paint_code": "PPSR",
+        "slug": "signature-red-tricoat-ppsr",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/signature-red-tricoat-ppsr/",
+        "source_label": "PaintScratch 2010 Tesla",
+        "hex_value": "#BC2F0E"
+      },
+      {
+        "display_name": "Twilight Blue Metallic",
+        "paint_code": "B105",
+        "slug": "twilight-blue-metallic-b105",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/twilight-blue-metallic-b105/",
+        "source_label": "PaintScratch 2010 Tesla",
+        "hex_value": "#2E3646"
+      },
+      {
+        "display_name": "Cataline White",
+        "paint_code": "PBCW",
+        "slug": "cataline-white-pbcw",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/cataline-white-pbcw/",
+        "source_label": "PaintScratch 2010 Tesla",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Sycamore Brown Metallic",
+        "paint_code": "PMAB",
+        "slug": "sycamore-brown-metallic-pmab",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/sycamore-brown-metallic-pmab/",
+        "source_label": "PaintScratch 2010 Tesla",
+        "hex_value": "#5E4A38"
+      },
+      {
+        "display_name": "Pacific Blue Metallic",
+        "paint_code": "PMMB",
+        "slug": "pacific-blue-metallic-pmmb",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/pacific-blue-metallic-pmmb/",
+        "source_label": "PaintScratch 2010 Tesla",
+        "hex_value": "#151D9A"
+      },
+      {
+        "display_name": "Sequoia Green Metallic",
+        "paint_code": "PMSG",
+        "slug": "sequoia-green-metallic-pmsg",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/sequoia-green-metallic-pmsg/",
+        "source_label": "PaintScratch 2010 Tesla",
+        "hex_value": "#3F5E38"
+      }
+    ],
+    "2011": [
+      {
+        "display_name": "Sunset Red Tricoat",
+        "paint_code": "PMMR",
+        "slug": "sunset-red-tricoat-pmmr",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/sunset-red-tricoat-pmmr/",
+        "source_label": "PaintScratch 2011 Tesla",
+        "hex_value": "#EA1E25"
+      },
+      {
+        "display_name": "Signature Red Tricoat",
+        "paint_code": "PPSR",
+        "slug": "signature-red-tricoat-ppsr",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/signature-red-tricoat-ppsr/",
+        "source_label": "PaintScratch 2011 Tesla",
+        "hex_value": "#BC2F0E"
+      },
+      {
+        "display_name": "Twilight Blue Metallic",
+        "paint_code": "B105",
+        "slug": "twilight-blue-metallic-b105",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/twilight-blue-metallic-b105/",
+        "source_label": "PaintScratch 2011 Tesla",
+        "hex_value": "#2E3646"
+      },
+      {
+        "display_name": "Cataline White",
+        "paint_code": "PBCW",
+        "slug": "cataline-white-pbcw",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/cataline-white-pbcw/",
+        "source_label": "PaintScratch 2011 Tesla",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Sycamore Brown Metallic",
+        "paint_code": "PMAB",
+        "slug": "sycamore-brown-metallic-pmab",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/sycamore-brown-metallic-pmab/",
+        "source_label": "PaintScratch 2011 Tesla",
+        "hex_value": "#5E4A38"
+      },
+      {
+        "display_name": "Pacific Blue Metallic",
+        "paint_code": "PMMB",
+        "slug": "pacific-blue-metallic-pmmb",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/pacific-blue-metallic-pmmb/",
+        "source_label": "PaintScratch 2011 Tesla",
+        "hex_value": "#151D9A"
+      },
+      {
+        "display_name": "Sequoia Green Metallic",
+        "paint_code": "PMSG",
+        "slug": "sequoia-green-metallic-pmsg",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/sequoia-green-metallic-pmsg/",
+        "source_label": "PaintScratch 2011 Tesla",
+        "hex_value": "#3F5E38"
+      }
+    ],
+    "2012": [
+      {
+        "display_name": "White Water Pearl Tricoat",
+        "paint_code": "PPSW",
+        "slug": "white-water-pearl-tricoat-ppsw",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/white-water-pearl-tricoat-ppsw/",
+        "source_label": "PaintScratch 2012 Tesla",
+        "hex_value": "#FDFDFD"
+      },
+      {
+        "display_name": "Jet Black",
+        "paint_code": "PBSB",
+        "slug": "jet-black-pbsb",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/jet-black-pbsb/",
+        "source_label": "PaintScratch 2012 Tesla",
+        "hex_value": "#292023"
+      },
+      {
+        "display_name": "Sunset Red Tricoat",
+        "paint_code": "PMMR",
+        "slug": "sunset-red-tricoat-pmmr",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/sunset-red-tricoat-pmmr/",
+        "source_label": "PaintScratch 2012 Tesla",
+        "hex_value": "#EA1E25"
+      },
+      {
+        "display_name": "San Semeon Silver Metallic",
+        "paint_code": "PMSS",
+        "slug": "san-semeon-silver-metallic-pmss",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/san-semeon-silver-metallic-pmss/",
+        "source_label": "PaintScratch 2012 Tesla",
+        "hex_value": "#E8E7E2"
+      },
+      {
+        "display_name": "Signature Red Tricoat",
+        "paint_code": "PPSR",
+        "slug": "signature-red-tricoat-ppsr",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/signature-red-tricoat-ppsr/",
+        "source_label": "PaintScratch 2012 Tesla",
+        "hex_value": "#BC2F0E"
+      },
+      {
+        "display_name": "Jet Black",
+        "paint_code": "B02/PBSB",
+        "slug": "jet-black-b02pbsb",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/jet-black-b02pbsb/",
+        "source_label": "PaintScratch 2012 Tesla",
+        "hex_value": "#292023"
+      },
+      {
+        "display_name": "Cataline White",
+        "paint_code": "PBCW",
+        "slug": "cataline-white-pbcw",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/cataline-white-pbcw/",
+        "source_label": "PaintScratch 2012 Tesla",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Sycamore Brown Metallic",
+        "paint_code": "PMAB",
+        "slug": "sycamore-brown-metallic-pmab",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/sycamore-brown-metallic-pmab/",
+        "source_label": "PaintScratch 2012 Tesla",
+        "hex_value": "#5E4A38"
+      },
+      {
+        "display_name": "Pacific Blue Metallic",
+        "paint_code": "PMMB",
+        "slug": "pacific-blue-metallic-pmmb",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/pacific-blue-metallic-pmmb/",
+        "source_label": "PaintScratch 2012 Tesla",
+        "hex_value": "#151D9A"
+      },
+      {
+        "display_name": "Sequoia Green Metallic",
+        "paint_code": "PMSG",
+        "slug": "sequoia-green-metallic-pmsg",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/sequoia-green-metallic-pmsg/",
+        "source_label": "PaintScratch 2012 Tesla",
+        "hex_value": "#3F5E38"
+      }
+    ],
+    "2013": [
+      {
+        "display_name": "White Water Pearl Tricoat",
+        "paint_code": "PPSW",
+        "slug": "white-water-pearl-tricoat-ppsw",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/white-water-pearl-tricoat-ppsw/",
+        "source_label": "PaintScratch 2013 Tesla",
+        "hex_value": "#FDFDFD"
+      },
+      {
+        "display_name": "Jet Black",
+        "paint_code": "PBSB",
+        "slug": "jet-black-pbsb",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/jet-black-pbsb/",
+        "source_label": "PaintScratch 2013 Tesla",
+        "hex_value": "#292023"
+      },
+      {
+        "display_name": "Sunset Red Tricoat",
+        "paint_code": "PMMR",
+        "slug": "sunset-red-tricoat-pmmr",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/sunset-red-tricoat-pmmr/",
+        "source_label": "PaintScratch 2013 Tesla",
+        "hex_value": "#EA1E25"
+      },
+      {
+        "display_name": "San Semeon Silver Metallic",
+        "paint_code": "PMSS",
+        "slug": "san-semeon-silver-metallic-pmss",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/san-semeon-silver-metallic-pmss/",
+        "source_label": "PaintScratch 2013 Tesla",
+        "hex_value": "#E8E7E2"
+      },
+      {
+        "display_name": "Sunset Red Tricoat",
+        "paint_code": "PPMR",
+        "slug": "sunset-red-tricoat-ppmr",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/sunset-red-tricoat-ppmr/",
+        "source_label": "PaintScratch 2013 Tesla",
+        "hex_value": "#982610"
+      },
+      {
+        "display_name": "Signature Red Tricoat",
+        "paint_code": "PPSR",
+        "slug": "signature-red-tricoat-ppsr",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/signature-red-tricoat-ppsr/",
+        "source_label": "PaintScratch 2013 Tesla",
+        "hex_value": "#BC2F0E"
+      },
+      {
+        "display_name": "Jet Black",
+        "paint_code": "B02/PBSB",
+        "slug": "jet-black-b02pbsb",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/jet-black-b02pbsb/",
+        "source_label": "PaintScratch 2013 Tesla",
+        "hex_value": "#292023"
+      },
+      {
+        "display_name": "Sonic Carbon",
+        "paint_code": "NEU-106E",
+        "slug": "sonic-carbon-neu-106e",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/sonic-carbon-neu-106e/",
+        "source_label": "PaintScratch 2013 Tesla",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Cataline White",
+        "paint_code": "PBCW",
+        "slug": "cataline-white-pbcw",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/cataline-white-pbcw/",
+        "source_label": "PaintScratch 2013 Tesla",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Sycamore Brown Metallic",
+        "paint_code": "PMAB",
+        "slug": "sycamore-brown-metallic-pmab",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/sycamore-brown-metallic-pmab/",
+        "source_label": "PaintScratch 2013 Tesla",
+        "hex_value": "#5E4A38"
+      },
+      {
+        "display_name": "Pacific Blue Metallic",
+        "paint_code": "PMMB",
+        "slug": "pacific-blue-metallic-pmmb",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/pacific-blue-metallic-pmmb/",
+        "source_label": "PaintScratch 2013 Tesla",
+        "hex_value": "#151D9A"
+      },
+      {
+        "display_name": "Sequoia Green Metallic",
+        "paint_code": "PMSG",
+        "slug": "sequoia-green-metallic-pmsg",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/sequoia-green-metallic-pmsg/",
+        "source_label": "PaintScratch 2013 Tesla",
+        "hex_value": "#3F5E38"
+      }
+    ],
+    "2014": [
+      {
+        "display_name": "White Water Pearl Tricoat",
+        "paint_code": "PPSW",
+        "slug": "white-water-pearl-tricoat-ppsw",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/white-water-pearl-tricoat-ppsw/",
+        "source_label": "PaintScratch 2014 Tesla",
+        "hex_value": "#FDFDFD"
+      },
+      {
+        "display_name": "Midnight Silver",
+        "paint_code": "PMNG",
+        "slug": "midnight-silver-pmng",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/midnight-silver-pmng/",
+        "source_label": "PaintScratch 2014 Tesla",
+        "hex_value": "#404040"
+      },
+      {
+        "display_name": "Jet Black",
+        "paint_code": "PBSB",
+        "slug": "jet-black-pbsb",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/jet-black-pbsb/",
+        "source_label": "PaintScratch 2014 Tesla",
+        "hex_value": "#292023"
+      },
+      {
+        "display_name": "Sunset Red Tricoat",
+        "paint_code": "PMMR",
+        "slug": "sunset-red-tricoat-pmmr",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/sunset-red-tricoat-pmmr/",
+        "source_label": "PaintScratch 2014 Tesla",
+        "hex_value": "#EA1E25"
+      },
+      {
+        "display_name": "San Semeon Silver Metallic",
+        "paint_code": "PMSS",
+        "slug": "san-semeon-silver-metallic-pmss",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/san-semeon-silver-metallic-pmss/",
+        "source_label": "PaintScratch 2014 Tesla",
+        "hex_value": "#E8E7E2"
+      },
+      {
+        "display_name": "Signature Red Tricoat",
+        "paint_code": "PPSR",
+        "slug": "signature-red-tricoat-ppsr",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/signature-red-tricoat-ppsr/",
+        "source_label": "PaintScratch 2014 Tesla",
+        "hex_value": "#BC2F0E"
+      },
+      {
+        "display_name": "Jet Black",
+        "paint_code": "B02/PBSB",
+        "slug": "jet-black-b02pbsb",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/jet-black-b02pbsb/",
+        "source_label": "PaintScratch 2014 Tesla",
+        "hex_value": "#292023"
+      },
+      {
+        "display_name": "Racing Green",
+        "paint_code": "B04",
+        "slug": "racing-green-b04",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/racing-green-b04/",
+        "source_label": "PaintScratch 2014 Tesla",
+        "hex_value": "#345E2E"
+      },
+      {
+        "display_name": "Obsidian Black Metallic",
+        "paint_code": "B93",
+        "slug": "obsidian-black-metallic-b93",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/obsidian-black-metallic-b93/",
+        "source_label": "PaintScratch 2014 Tesla",
+        "hex_value": "#292023"
+      },
+      {
+        "display_name": "Twilight Blue Metallic",
+        "paint_code": "B105",
+        "slug": "twilight-blue-metallic-b105",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/twilight-blue-metallic-b105/",
+        "source_label": "PaintScratch 2014 Tesla",
+        "hex_value": "#2E3646"
+      },
+      {
+        "display_name": "Glacier Blue Metallic",
+        "paint_code": "B110",
+        "slug": "glacier-blue-metallic-b110",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/glacier-blue-metallic-b110/",
+        "source_label": "PaintScratch 2014 Tesla",
+        "hex_value": "#546672"
+      },
+      {
+        "display_name": "Sterling Silver Metallic",
+        "paint_code": "B115",
+        "slug": "sterling-silver-metallic-b115",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/sterling-silver-metallic-b115/",
+        "source_label": "PaintScratch 2014 Tesla",
+        "hex_value": "#DFDDD3"
+      },
+      {
+        "display_name": "Empire Green Metallic",
+        "paint_code": "B116",
+        "slug": "empire-green-metallic-b116",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/empire-green-metallic-b116/",
+        "source_label": "PaintScratch 2014 Tesla",
+        "hex_value": "#415234"
+      },
+      {
+        "display_name": "Electric Blue Metallic",
+        "paint_code": "B120",
+        "slug": "electric-blue-metallic-b120",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/electric-blue-metallic-b120/",
+        "source_label": "PaintScratch 2014 Tesla",
+        "hex_value": "#3039B2"
+      },
+      {
+        "display_name": "Thunder Gray Metallic",
+        "paint_code": "B122",
+        "slug": "thunder-gray-metallic-b122",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/thunder-gray-metallic-b122/",
+        "source_label": "PaintScratch 2014 Tesla",
+        "hex_value": "#5F695D"
+      },
+      {
+        "display_name": "Very Orange Pearl",
+        "paint_code": "C25",
+        "slug": "very-orange-pearl-c25",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/very-orange-pearl-c25/",
+        "source_label": "PaintScratch 2014 Tesla",
+        "hex_value": "#D9A313"
+      }
+    ],
+    "2015": [
+      {
+        "display_name": "White Water Pearl Tricoat",
+        "paint_code": "PPSW",
+        "slug": "white-water-pearl-tricoat-ppsw",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/white-water-pearl-tricoat-ppsw/",
+        "source_label": "PaintScratch 2015 Tesla",
+        "hex_value": "#FDFDFD"
+      },
+      {
+        "display_name": "Midnight Silver",
+        "paint_code": "PMNG",
+        "slug": "midnight-silver-pmng",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/midnight-silver-pmng/",
+        "source_label": "PaintScratch 2015 Tesla",
+        "hex_value": "#404040"
+      },
+      {
+        "display_name": "Jet Black",
+        "paint_code": "PBSB",
+        "slug": "jet-black-pbsb",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/jet-black-pbsb/",
+        "source_label": "PaintScratch 2015 Tesla",
+        "hex_value": "#292023"
+      },
+      {
+        "display_name": "Sunset Red Tricoat",
+        "paint_code": "PMMR",
+        "slug": "sunset-red-tricoat-pmmr",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/sunset-red-tricoat-pmmr/",
+        "source_label": "PaintScratch 2015 Tesla",
+        "hex_value": "#EA1E25"
+      },
+      {
+        "display_name": "San Semeon Silver Metallic",
+        "paint_code": "PMSS",
+        "slug": "san-semeon-silver-metallic-pmss",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/san-semeon-silver-metallic-pmss/",
+        "source_label": "PaintScratch 2015 Tesla",
+        "hex_value": "#E8E7E2"
+      },
+      {
+        "display_name": "Ocean Blue Pearl",
+        "paint_code": "PPSB",
+        "slug": "ocean-blue-pearl-ppsb",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/ocean-blue-pearl-ppsb/",
+        "source_label": "PaintScratch 2015 Tesla",
+        "hex_value": "#424BFC"
+      },
+      {
+        "display_name": "Signature Red Tricoat",
+        "paint_code": "PPSR",
+        "slug": "signature-red-tricoat-ppsr",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/signature-red-tricoat-ppsr/",
+        "source_label": "PaintScratch 2015 Tesla",
+        "hex_value": "#BC2F0E"
+      },
+      {
+        "display_name": "Titanium Silver",
+        "paint_code": "PPTI",
+        "slug": "titanium-silver-ppti",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/titanium-silver-ppti/",
+        "source_label": "PaintScratch 2015 Tesla",
+        "hex_value": "#F4F2EE"
+      },
+      {
+        "display_name": "Jet Black",
+        "paint_code": "B02/PBSB",
+        "slug": "jet-black-b02pbsb",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/jet-black-b02pbsb/",
+        "source_label": "PaintScratch 2015 Tesla",
+        "hex_value": "#292023"
+      },
+      {
+        "display_name": "Sonic Carbon",
+        "paint_code": "NEU-106E",
+        "slug": "sonic-carbon-neu-106e",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/sonic-carbon-neu-106e/",
+        "source_label": "PaintScratch 2015 Tesla",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Cataline White",
+        "paint_code": "PBCW",
+        "slug": "cataline-white-pbcw",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/cataline-white-pbcw/",
+        "source_label": "PaintScratch 2015 Tesla",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Sycamore Brown Metallic",
+        "paint_code": "PMAB",
+        "slug": "sycamore-brown-metallic-pmab",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/sycamore-brown-metallic-pmab/",
+        "source_label": "PaintScratch 2015 Tesla",
+        "hex_value": "#5E4A38"
+      },
+      {
+        "display_name": "Pacific Blue Metallic",
+        "paint_code": "PMMB",
+        "slug": "pacific-blue-metallic-pmmb",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/pacific-blue-metallic-pmmb/",
+        "source_label": "PaintScratch 2015 Tesla",
+        "hex_value": "#151D9A"
+      },
+      {
+        "display_name": "Sequoia Green Metallic",
+        "paint_code": "PMSG",
+        "slug": "sequoia-green-metallic-pmsg",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/sequoia-green-metallic-pmsg/",
+        "source_label": "PaintScratch 2015 Tesla",
+        "hex_value": "#3F5E38"
+      }
+    ],
+    "2016": [
+      {
+        "display_name": "White Water Pearl Tricoat",
+        "paint_code": "PPSW",
+        "slug": "white-water-pearl-tricoat-ppsw",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/white-water-pearl-tricoat-ppsw/",
+        "source_label": "PaintScratch 2016 Tesla",
+        "hex_value": "#FDFDFD"
+      },
+      {
+        "display_name": "Midnight Silver",
+        "paint_code": "PMNG",
+        "slug": "midnight-silver-pmng",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/midnight-silver-pmng/",
+        "source_label": "PaintScratch 2016 Tesla",
+        "hex_value": "#404040"
+      },
+      {
+        "display_name": "Jet Black",
+        "paint_code": "PBSB",
+        "slug": "jet-black-pbsb",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/jet-black-pbsb/",
+        "source_label": "PaintScratch 2016 Tesla",
+        "hex_value": "#292023"
+      },
+      {
+        "display_name": "Steel Grey",
+        "paint_code": "PMBL",
+        "slug": "steel-grey-pmbl",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/steel-grey-pmbl/",
+        "source_label": "PaintScratch 2016 Tesla",
+        "hex_value": "#4D4D4F"
+      },
+      {
+        "display_name": "Sunset Red Tricoat",
+        "paint_code": "PMMR",
+        "slug": "sunset-red-tricoat-pmmr",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/sunset-red-tricoat-pmmr/",
+        "source_label": "PaintScratch 2016 Tesla",
+        "hex_value": "#EA1E25"
+      },
+      {
+        "display_name": "San Semeon Silver Metallic",
+        "paint_code": "PMSS",
+        "slug": "san-semeon-silver-metallic-pmss",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/san-semeon-silver-metallic-pmss/",
+        "source_label": "PaintScratch 2016 Tesla",
+        "hex_value": "#E8E7E2"
+      },
+      {
+        "display_name": "Sunset Red Tricoat",
+        "paint_code": "PPMR",
+        "slug": "sunset-red-tricoat-ppmr",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/sunset-red-tricoat-ppmr/",
+        "source_label": "PaintScratch 2016 Tesla",
+        "hex_value": "#982610"
+      },
+      {
+        "display_name": "Ocean Blue Pearl",
+        "paint_code": "PPSB",
+        "slug": "ocean-blue-pearl-ppsb",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/ocean-blue-pearl-ppsb/",
+        "source_label": "PaintScratch 2016 Tesla",
+        "hex_value": "#424BFC"
+      },
+      {
+        "display_name": "Signature Red Tricoat",
+        "paint_code": "PPSR",
+        "slug": "signature-red-tricoat-ppsr",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/signature-red-tricoat-ppsr/",
+        "source_label": "PaintScratch 2016 Tesla",
+        "hex_value": "#BC2F0E"
+      },
+      {
+        "display_name": "Titanium Silver",
+        "paint_code": "PPTI",
+        "slug": "titanium-silver-ppti",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/titanium-silver-ppti/",
+        "source_label": "PaintScratch 2016 Tesla",
+        "hex_value": "#F4F2EE"
+      },
+      {
+        "display_name": "Jet Black",
+        "paint_code": "B02/PBSB",
+        "slug": "jet-black-b02pbsb",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/jet-black-b02pbsb/",
+        "source_label": "PaintScratch 2016 Tesla",
+        "hex_value": "#292023"
+      },
+      {
+        "display_name": "Cataline White",
+        "paint_code": "PBCW",
+        "slug": "cataline-white-pbcw",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/cataline-white-pbcw/",
+        "source_label": "PaintScratch 2016 Tesla",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Sycamore Brown Metallic",
+        "paint_code": "PMAB",
+        "slug": "sycamore-brown-metallic-pmab",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/sycamore-brown-metallic-pmab/",
+        "source_label": "PaintScratch 2016 Tesla",
+        "hex_value": "#5E4A38"
+      },
+      {
+        "display_name": "Pacific Blue Metallic",
+        "paint_code": "PMMB",
+        "slug": "pacific-blue-metallic-pmmb",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/pacific-blue-metallic-pmmb/",
+        "source_label": "PaintScratch 2016 Tesla",
+        "hex_value": "#151D9A"
+      },
+      {
+        "display_name": "Sequoia Green Metallic",
+        "paint_code": "PMSG",
+        "slug": "sequoia-green-metallic-pmsg",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/sequoia-green-metallic-pmsg/",
+        "source_label": "PaintScratch 2016 Tesla",
+        "hex_value": "#3F5E38"
+      }
+    ],
+    "2017": [
+      {
+        "display_name": "White Water Pearl Tricoat",
+        "paint_code": "PPSW",
+        "slug": "white-water-pearl-tricoat-ppsw",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/white-water-pearl-tricoat-ppsw/",
+        "source_label": "PaintScratch 2017 Tesla",
+        "hex_value": "#FDFDFD"
+      },
+      {
+        "display_name": "Midnight Silver",
+        "paint_code": "PMNG",
+        "slug": "midnight-silver-pmng",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/midnight-silver-pmng/",
+        "source_label": "PaintScratch 2017 Tesla",
+        "hex_value": "#404040"
+      },
+      {
+        "display_name": "Jet Black",
+        "paint_code": "PBSB/B02",
+        "slug": "jet-black-pbsbb02",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/jet-black-pbsbb02/",
+        "source_label": "PaintScratch 2017 Tesla",
+        "hex_value": "#292023"
+      },
+      {
+        "display_name": "San Semeon Silver Metallic",
+        "paint_code": "PMSS",
+        "slug": "san-semeon-silver-metallic-pmss",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/san-semeon-silver-metallic-pmss/",
+        "source_label": "PaintScratch 2017 Tesla",
+        "hex_value": "#E8E7E2"
+      },
+      {
+        "display_name": "Sunset Red Tricoat",
+        "paint_code": "PPMR",
+        "slug": "sunset-red-tricoat-ppmr",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/sunset-red-tricoat-ppmr/",
+        "source_label": "PaintScratch 2017 Tesla",
+        "hex_value": "#982610"
+      },
+      {
+        "display_name": "Ocean Blue Pearl",
+        "paint_code": "PPSB",
+        "slug": "ocean-blue-pearl-ppsb",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/ocean-blue-pearl-ppsb/",
+        "source_label": "PaintScratch 2017 Tesla",
+        "hex_value": "#424BFC"
+      },
+      {
+        "display_name": "Signature Red Tricoat",
+        "paint_code": "PPSR",
+        "slug": "signature-red-tricoat-ppsr",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/signature-red-tricoat-ppsr/",
+        "source_label": "PaintScratch 2017 Tesla",
+        "hex_value": "#BC2F0E"
+      },
+      {
+        "display_name": "Titanium Silver",
+        "paint_code": "PPTI",
+        "slug": "titanium-silver-ppti",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/titanium-silver-ppti/",
+        "source_label": "PaintScratch 2017 Tesla",
+        "hex_value": "#F4F2EE"
+      },
+      {
+        "display_name": "Cataline White",
+        "paint_code": "PBCW",
+        "slug": "cataline-white-pbcw",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/cataline-white-pbcw/",
+        "source_label": "PaintScratch 2017 Tesla",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Medium Gray (Wheel)",
+        "paint_code": "PPG 934723",
+        "slug": "medium-gray-wheel-ppg-934723",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/medium-gray-wheel-ppg-934723/",
+        "source_label": "PaintScratch 2017 Tesla",
+        "hex_value": "#808080"
+      }
+    ],
+    "2018": [
+      {
+        "display_name": "White Water Pearl Tricoat",
+        "paint_code": "PPSW",
+        "slug": "white-water-pearl-tricoat-ppsw",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/white-water-pearl-tricoat-ppsw/",
+        "source_label": "PaintScratch 2018 Tesla",
+        "hex_value": "#FDFDFD"
+      },
+      {
+        "display_name": "Midnight Silver",
+        "paint_code": "PMNG",
+        "slug": "midnight-silver-pmng",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/midnight-silver-pmng/",
+        "source_label": "PaintScratch 2018 Tesla",
+        "hex_value": "#404040"
+      },
+      {
+        "display_name": "Steel Grey",
+        "paint_code": "PMBL",
+        "slug": "steel-grey-pmbl",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/steel-grey-pmbl/",
+        "source_label": "PaintScratch 2018 Tesla",
+        "hex_value": "#4D4D4F"
+      },
+      {
+        "display_name": "Sonic Silver",
+        "paint_code": "NEU-107E",
+        "slug": "sonic-silver-neu-107e",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/sonic-silver-neu-107e/",
+        "source_label": "PaintScratch 2018 Tesla",
+        "hex_value": "#CAD1D8"
+      },
+      {
+        "display_name": "Jet Black",
+        "paint_code": "PBSB/B02",
+        "slug": "jet-black-pbsbb02",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/jet-black-pbsbb02/",
+        "source_label": "PaintScratch 2018 Tesla",
+        "hex_value": "#292023"
+      },
+      {
+        "display_name": "San Semeon Silver Metallic",
+        "paint_code": "PMSS",
+        "slug": "san-semeon-silver-metallic-pmss",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/san-semeon-silver-metallic-pmss/",
+        "source_label": "PaintScratch 2018 Tesla",
+        "hex_value": "#E8E7E2"
+      },
+      {
+        "display_name": "Sunset Red Tricoat",
+        "paint_code": "PPMR",
+        "slug": "sunset-red-tricoat-ppmr",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/sunset-red-tricoat-ppmr/",
+        "source_label": "PaintScratch 2018 Tesla",
+        "hex_value": "#982610"
+      },
+      {
+        "display_name": "Ocean Blue Pearl",
+        "paint_code": "PPSB",
+        "slug": "ocean-blue-pearl-ppsb",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/ocean-blue-pearl-ppsb/",
+        "source_label": "PaintScratch 2018 Tesla",
+        "hex_value": "#424BFC"
+      },
+      {
+        "display_name": "Signature Red Tricoat",
+        "paint_code": "PPSR",
+        "slug": "signature-red-tricoat-ppsr",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/signature-red-tricoat-ppsr/",
+        "source_label": "PaintScratch 2018 Tesla",
+        "hex_value": "#BC2F0E"
+      },
+      {
+        "display_name": "Titanium Silver",
+        "paint_code": "PPTI",
+        "slug": "titanium-silver-ppti",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/titanium-silver-ppti/",
+        "source_label": "PaintScratch 2018 Tesla",
+        "hex_value": "#F4F2EE"
+      },
+      {
+        "display_name": "Cataline White",
+        "paint_code": "PBCW",
+        "slug": "cataline-white-pbcw",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/cataline-white-pbcw/",
+        "source_label": "PaintScratch 2018 Tesla",
+        "hex_value": "#FFFFFF"
+      }
+    ],
+    "2019": [
+      {
+        "display_name": "White Water Pearl Tricoat",
+        "paint_code": "PPSW",
+        "slug": "white-water-pearl-tricoat-ppsw",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/white-water-pearl-tricoat-ppsw/",
+        "source_label": "PaintScratch 2019 Tesla",
+        "hex_value": "#FDFDFD"
+      },
+      {
+        "display_name": "Midnight Silver",
+        "paint_code": "PMNG",
+        "slug": "midnight-silver-pmng",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/midnight-silver-pmng/",
+        "source_label": "PaintScratch 2019 Tesla",
+        "hex_value": "#404040"
+      },
+      {
+        "display_name": "Steel Grey",
+        "paint_code": "PMBL",
+        "slug": "steel-grey-pmbl",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/steel-grey-pmbl/",
+        "source_label": "PaintScratch 2019 Tesla",
+        "hex_value": "#4D4D4F"
+      },
+      {
+        "display_name": "Jet Black",
+        "paint_code": "PBSB/B02",
+        "slug": "jet-black-pbsbb02",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/jet-black-pbsbb02/",
+        "source_label": "PaintScratch 2019 Tesla",
+        "hex_value": "#292023"
+      },
+      {
+        "display_name": "San Semeon Silver Metallic",
+        "paint_code": "PMSS",
+        "slug": "san-semeon-silver-metallic-pmss",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/san-semeon-silver-metallic-pmss/",
+        "source_label": "PaintScratch 2019 Tesla",
+        "hex_value": "#E8E7E2"
+      },
+      {
+        "display_name": "Sunset Red Tricoat",
+        "paint_code": "PPMR",
+        "slug": "sunset-red-tricoat-ppmr",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/sunset-red-tricoat-ppmr/",
+        "source_label": "PaintScratch 2019 Tesla",
+        "hex_value": "#982610"
+      },
+      {
+        "display_name": "Ocean Blue Pearl",
+        "paint_code": "PPSB",
+        "slug": "ocean-blue-pearl-ppsb",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/ocean-blue-pearl-ppsb/",
+        "source_label": "PaintScratch 2019 Tesla",
+        "hex_value": "#424BFC"
+      },
+      {
+        "display_name": "Signature Red Tricoat",
+        "paint_code": "PPSR",
+        "slug": "signature-red-tricoat-ppsr",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/signature-red-tricoat-ppsr/",
+        "source_label": "PaintScratch 2019 Tesla",
+        "hex_value": "#BC2F0E"
+      },
+      {
+        "display_name": "Titanium Silver",
+        "paint_code": "PPTI",
+        "slug": "titanium-silver-ppti",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/titanium-silver-ppti/",
+        "source_label": "PaintScratch 2019 Tesla",
+        "hex_value": "#F4F2EE"
+      },
+      {
+        "display_name": "Cataline White",
+        "paint_code": "PBCW",
+        "slug": "cataline-white-pbcw",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/cataline-white-pbcw/",
+        "source_label": "PaintScratch 2019 Tesla",
+        "hex_value": "#FFFFFF"
+      }
+    ],
+    "2020": [
+      {
+        "display_name": "White Water Pearl Tricoat",
+        "paint_code": "PPSW",
+        "slug": "white-water-pearl-tricoat-ppsw",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/white-water-pearl-tricoat-ppsw/",
+        "source_label": "PaintScratch 2020 Tesla",
+        "hex_value": "#FDFDFD"
+      },
+      {
+        "display_name": "Midnight Silver",
+        "paint_code": "PMNG",
+        "slug": "midnight-silver-pmng",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/midnight-silver-pmng/",
+        "source_label": "PaintScratch 2020 Tesla",
+        "hex_value": "#404040"
+      },
+      {
+        "display_name": "Jet Black",
+        "paint_code": "PBSB",
+        "slug": "jet-black-pbsb",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/jet-black-pbsb/",
+        "source_label": "PaintScratch 2020 Tesla",
+        "hex_value": "#292023"
+      },
+      {
+        "display_name": "San Semeon Silver Metallic",
+        "paint_code": "PMSS",
+        "slug": "san-semeon-silver-metallic-pmss",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/san-semeon-silver-metallic-pmss/",
+        "source_label": "PaintScratch 2020 Tesla",
+        "hex_value": "#E8E7E2"
+      },
+      {
+        "display_name": "Sunset Red Tricoat",
+        "paint_code": "PPMR",
+        "slug": "sunset-red-tricoat-ppmr",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/sunset-red-tricoat-ppmr/",
+        "source_label": "PaintScratch 2020 Tesla",
+        "hex_value": "#982610"
+      },
+      {
+        "display_name": "Ocean Blue Pearl",
+        "paint_code": "PPSB",
+        "slug": "ocean-blue-pearl-ppsb",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/ocean-blue-pearl-ppsb/",
+        "source_label": "PaintScratch 2020 Tesla",
+        "hex_value": "#424BFC"
+      },
+      {
+        "display_name": "Signature Red Tricoat",
+        "paint_code": "PPSR",
+        "slug": "signature-red-tricoat-ppsr",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/signature-red-tricoat-ppsr/",
+        "source_label": "PaintScratch 2020 Tesla",
+        "hex_value": "#BC2F0E"
+      },
+      {
+        "display_name": "Titanium Silver",
+        "paint_code": "PPTI",
+        "slug": "titanium-silver-ppti",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/titanium-silver-ppti/",
+        "source_label": "PaintScratch 2020 Tesla",
+        "hex_value": "#F4F2EE"
+      },
+      {
+        "display_name": "Medium Gray (Wheel)",
+        "paint_code": "PPG 934723",
+        "slug": "medium-gray-wheel-ppg-934723",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/medium-gray-wheel-ppg-934723/",
+        "source_label": "PaintScratch 2020 Tesla",
+        "hex_value": "#808080"
+      }
+    ],
+    "2021": [
+      {
+        "display_name": "White Water Pearl Tricoat",
+        "paint_code": "PPSW",
+        "slug": "white-water-pearl-tricoat-ppsw",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/white-water-pearl-tricoat-ppsw/",
+        "source_label": "PaintScratch 2021 Tesla",
+        "hex_value": "#FDFDFD"
+      },
+      {
+        "display_name": "Midnight Silver",
+        "paint_code": "PMNG",
+        "slug": "midnight-silver-pmng",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/midnight-silver-pmng/",
+        "source_label": "PaintScratch 2021 Tesla",
+        "hex_value": "#404040"
+      },
+      {
+        "display_name": "Deep Blue Pearl",
+        "paint_code": "PPSB",
+        "slug": "deep-blue-pearl-ppsb",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/deep-blue-pearl-ppsb/",
+        "source_label": "PaintScratch 2021 Tesla",
+        "hex_value": "#212F53"
+      },
+      {
+        "display_name": "Jet Black",
+        "paint_code": "PBSB",
+        "slug": "jet-black-pbsb",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/jet-black-pbsb/",
+        "source_label": "PaintScratch 2021 Tesla",
+        "hex_value": "#292023"
+      },
+      {
+        "display_name": "Steel Grey",
+        "paint_code": "PMBL",
+        "slug": "steel-grey-pmbl",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/steel-grey-pmbl/",
+        "source_label": "PaintScratch 2021 Tesla",
+        "hex_value": "#4D4D4F"
+      },
+      {
+        "display_name": "Sonic Silver",
+        "paint_code": "NEU107E",
+        "slug": "sonic-silver-neu107e",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/sonic-silver-neu107e/",
+        "source_label": "PaintScratch 2021 Tesla",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Sunset Red Tricoat",
+        "paint_code": "PPMR",
+        "slug": "sunset-red-tricoat-ppmr",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/sunset-red-tricoat-ppmr/",
+        "source_label": "PaintScratch 2021 Tesla",
+        "hex_value": "#982610"
+      },
+      {
+        "display_name": "Signature Red Tricoat",
+        "paint_code": "PPSR",
+        "slug": "signature-red-tricoat-ppsr",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/signature-red-tricoat-ppsr/",
+        "source_label": "PaintScratch 2021 Tesla",
+        "hex_value": "#BC2F0E"
+      },
+      {
+        "display_name": "Titanium Silver",
+        "paint_code": "PPTI",
+        "slug": "titanium-silver-ppti",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/titanium-silver-ppti/",
+        "source_label": "PaintScratch 2021 Tesla",
+        "hex_value": "#F4F2EE"
+      },
+      {
+        "display_name": "Medium Gray (Wheel)",
+        "paint_code": "PPG 934723",
+        "slug": "medium-gray-wheel-ppg-934723",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/medium-gray-wheel-ppg-934723/",
+        "source_label": "PaintScratch 2021 Tesla",
+        "hex_value": "#808080"
+      }
+    ],
+    "2022": [
+      {
+        "display_name": "White Water Pearl Tricoat",
+        "paint_code": "PPSW",
+        "slug": "white-water-pearl-tricoat-ppsw",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/white-water-pearl-tricoat-ppsw/",
+        "source_label": "PaintScratch 2022 Tesla",
+        "hex_value": "#FDFDFD"
+      },
+      {
+        "display_name": "Midnight Silver",
+        "paint_code": "PMNG",
+        "slug": "midnight-silver-pmng",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/midnight-silver-pmng/",
+        "source_label": "PaintScratch 2022 Tesla",
+        "hex_value": "#404040"
+      },
+      {
+        "display_name": "Deep Blue Pearl",
+        "paint_code": "PPSB",
+        "slug": "deep-blue-pearl-ppsb",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/deep-blue-pearl-ppsb/",
+        "source_label": "PaintScratch 2022 Tesla",
+        "hex_value": "#212F53"
+      },
+      {
+        "display_name": "Gunpowder",
+        "paint_code": "WPB-82422E",
+        "slug": "gunpowder-wpb-82422e",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/gunpowder-wpb-82422e/",
+        "source_label": "PaintScratch 2022 Tesla",
+        "hex_value": "#404040"
+      },
+      {
+        "display_name": "Jet Black",
+        "paint_code": "PBSB",
+        "slug": "jet-black-pbsb",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/jet-black-pbsb/",
+        "source_label": "PaintScratch 2022 Tesla",
+        "hex_value": "#292023"
+      },
+      {
+        "display_name": "Steel Grey",
+        "paint_code": "PMBL",
+        "slug": "steel-grey-pmbl",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/steel-grey-pmbl/",
+        "source_label": "PaintScratch 2022 Tesla",
+        "hex_value": "#4D4D4F"
+      },
+      {
+        "display_name": "Gunpowder",
+        "paint_code": "NEU-230E",
+        "slug": "gunpowder-neu-230e",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/gunpowder-neu-230e/",
+        "source_label": "PaintScratch 2022 Tesla",
+        "hex_value": "#4C4544"
+      },
+      {
+        "display_name": "Sunset Red Tricoat",
+        "paint_code": "PMMR",
+        "slug": "sunset-red-tricoat-pmmr",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/sunset-red-tricoat-pmmr/",
+        "source_label": "PaintScratch 2022 Tesla",
+        "hex_value": "#EA1E25"
+      },
+      {
+        "display_name": "Signature Red Tricoat",
+        "paint_code": "PPSR",
+        "slug": "signature-red-tricoat-ppsr",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/signature-red-tricoat-ppsr/",
+        "source_label": "PaintScratch 2022 Tesla",
+        "hex_value": "#BC2F0E"
+      },
+      {
+        "display_name": "Titanium Silver",
+        "paint_code": "PPTI",
+        "slug": "titanium-silver-ppti",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/titanium-silver-ppti/",
+        "source_label": "PaintScratch 2022 Tesla",
+        "hex_value": "#F4F2EE"
+      },
+      {
+        "display_name": "Zero G",
+        "paint_code": "NEU-240E",
+        "slug": "zero-g-neu-240e",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/zero-g-neu-240e/",
+        "source_label": "PaintScratch 2022 Tesla",
+        "hex_value": "#392A27"
+      },
+      {
+        "display_name": "Medium Gray (Wheel)",
+        "paint_code": "PPG 934723",
+        "slug": "medium-gray-wheel-ppg-934723",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/medium-gray-wheel-ppg-934723/",
+        "source_label": "PaintScratch 2022 Tesla",
+        "hex_value": "#808080"
+      }
+    ],
+    "2023": [
+      {
+        "display_name": "White Water Pearl Tricoat",
+        "paint_code": "PPSW",
+        "slug": "white-water-pearl-tricoat-ppsw",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/white-water-pearl-tricoat-ppsw/",
+        "source_label": "PaintScratch 2023 Tesla",
+        "hex_value": "#FDFDFD"
+      },
+      {
+        "display_name": "Midnight Silver",
+        "paint_code": "PMNG",
+        "slug": "midnight-silver-pmng",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/midnight-silver-pmng/",
+        "source_label": "PaintScratch 2023 Tesla",
+        "hex_value": "#404040"
+      },
+      {
+        "display_name": "Deep Blue Pearl",
+        "paint_code": "PPSB",
+        "slug": "deep-blue-pearl-ppsb",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/deep-blue-pearl-ppsb/",
+        "source_label": "PaintScratch 2023 Tesla",
+        "hex_value": "#212F53"
+      },
+      {
+        "display_name": "Jet Black",
+        "paint_code": "PBSB",
+        "slug": "jet-black-pbsb",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/jet-black-pbsb/",
+        "source_label": "PaintScratch 2023 Tesla",
+        "hex_value": "#292023"
+      },
+      {
+        "display_name": "Steel Grey",
+        "paint_code": "PMBL",
+        "slug": "steel-grey-pmbl",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/steel-grey-pmbl/",
+        "source_label": "PaintScratch 2023 Tesla",
+        "hex_value": "#4D4D4F"
+      },
+      {
+        "display_name": "Gunpowder",
+        "paint_code": "NEU-230E",
+        "slug": "gunpowder-neu-230e",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/gunpowder-neu-230e/",
+        "source_label": "PaintScratch 2023 Tesla",
+        "hex_value": "#4C4544"
+      },
+      {
+        "display_name": "Sonic Silver",
+        "paint_code": "NEU107E",
+        "slug": "sonic-silver-neu107e",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/sonic-silver-neu107e/",
+        "source_label": "PaintScratch 2023 Tesla",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Sunset Red Tricoat",
+        "paint_code": "PMMR",
+        "slug": "sunset-red-tricoat-pmmr",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/sunset-red-tricoat-pmmr/",
+        "source_label": "PaintScratch 2023 Tesla",
+        "hex_value": "#EA1E25"
+      },
+      {
+        "display_name": "Sunset Red Tricoat",
+        "paint_code": "PPMR",
+        "slug": "sunset-red-tricoat-ppmr",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/sunset-red-tricoat-ppmr/",
+        "source_label": "PaintScratch 2023 Tesla",
+        "hex_value": "#982610"
+      },
+      {
+        "display_name": "Signature Red Tricoat",
+        "paint_code": "PPSR",
+        "slug": "signature-red-tricoat-ppsr",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/signature-red-tricoat-ppsr/",
+        "source_label": "PaintScratch 2023 Tesla",
+        "hex_value": "#BC2F0E"
+      },
+      {
+        "display_name": "Titanium Silver",
+        "paint_code": "PPTI",
+        "slug": "titanium-silver-ppti",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/titanium-silver-ppti/",
+        "source_label": "PaintScratch 2023 Tesla",
+        "hex_value": "#F4F2EE"
+      },
+      {
+        "display_name": "Zero G",
+        "paint_code": "NEU-240E",
+        "slug": "zero-g-neu-240e",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/zero-g-neu-240e/",
+        "source_label": "PaintScratch 2023 Tesla",
+        "hex_value": "#392A27"
+      },
+      {
+        "display_name": "Medium Gray (Wheel)",
+        "paint_code": "PPG 934723",
+        "slug": "medium-gray-wheel-ppg-934723",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/medium-gray-wheel-ppg-934723/",
+        "source_label": "PaintScratch 2023 Tesla",
+        "hex_value": "#808080"
+      }
+    ],
+    "2024": [
+      {
+        "display_name": "White Water Pearl Tricoat",
+        "paint_code": "PPSW",
+        "slug": "white-water-pearl-tricoat-ppsw",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/white-water-pearl-tricoat-ppsw/",
+        "source_label": "PaintScratch 2024 Tesla",
+        "hex_value": "#FDFDFD"
+      },
+      {
+        "display_name": "Stealth Grey Metallic",
+        "paint_code": "PN01",
+        "slug": "stealth-grey-metallic-pn01",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/stealth-grey-metallic-pn01/",
+        "source_label": "PaintScratch 2024 Tesla",
+        "hex_value": "#404040"
+      },
+      {
+        "display_name": "Quicksilver",
+        "paint_code": "PN00",
+        "slug": "quicksilver-pn00",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/quicksilver-pn00/",
+        "source_label": "PaintScratch 2024 Tesla",
+        "hex_value": "#9BA5C5"
+      },
+      {
+        "display_name": "Quicksilver",
+        "paint_code": "62E",
+        "slug": "quicksilver-62e",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/quicksilver-62e/",
+        "source_label": "PaintScratch 2024 Tesla",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Deep Blue",
+        "paint_code": "101",
+        "slug": "deep-blue-101",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/deep-blue-101/",
+        "source_label": "PaintScratch 2024 Tesla",
+        "hex_value": "#2E4058"
+      },
+      {
+        "display_name": "Stealth Gray",
+        "paint_code": "902",
+        "slug": "stealth-gray-902",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/stealth-gray-902/",
+        "source_label": "PaintScratch 2024 Tesla",
+        "hex_value": "#323538"
+      },
+      {
+        "display_name": "Ultra Red Tricoat",
+        "paint_code": "R01",
+        "slug": "ultra-red-tricoat-r01",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/ultra-red-tricoat-r01/",
+        "source_label": "PaintScratch 2024 Tesla",
+        "hex_value": "#F31515"
+      },
+      {
+        "display_name": "Stiletto Gun Powder Dark",
+        "paint_code": "003",
+        "slug": "stiletto-gun-powder-dark-003",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/stiletto-gun-powder-dark-003/",
+        "source_label": "PaintScratch 2024 Tesla",
+        "hex_value": "#3F4236"
+      },
+      {
+        "display_name": "Sonic Carbon",
+        "paint_code": "06E",
+        "slug": "sonic-carbon-06e",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/sonic-carbon-06e/",
+        "source_label": "PaintScratch 2024 Tesla",
+        "hex_value": "#474C53"
+      },
+      {
+        "display_name": "Sonic Silver",
+        "paint_code": "07E",
+        "slug": "sonic-silver-07e",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/sonic-silver-07e/",
+        "source_label": "PaintScratch 2024 Tesla",
+        "hex_value": "#D7D9DB"
+      },
+      {
+        "display_name": "Armor Black",
+        "paint_code": "19E",
+        "slug": "armor-black-19e",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/armor-black-19e/",
+        "source_label": "PaintScratch 2024 Tesla",
+        "hex_value": "#0F1113"
+      },
+      {
+        "display_name": "Magneto Metallic Shadow",
+        "paint_code": "20E",
+        "slug": "magneto-metallic-shadow-20e",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/magneto-metallic-shadow-20e/",
+        "source_label": "PaintScratch 2024 Tesla",
+        "hex_value": "#5C626A"
+      },
+      {
+        "display_name": "Gunpowder",
+        "paint_code": "30E",
+        "slug": "gunpowder-30e",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/gunpowder-30e/",
+        "source_label": "PaintScratch 2024 Tesla",
+        "hex_value": "#4C4544"
+      },
+      {
+        "display_name": "Zero G",
+        "paint_code": "40E",
+        "slug": "zero-g-40e",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/zero-g-40e/",
+        "source_label": "PaintScratch 2024 Tesla",
+        "hex_value": "#392A27"
+      },
+      {
+        "display_name": "Wheel Grey",
+        "paint_code": "900",
+        "slug": "wheel-grey-900",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/wheel-grey-900/",
+        "source_label": "PaintScratch 2024 Tesla",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Solid Black",
+        "paint_code": "S02/PBSB",
+        "slug": "solid-black-s02pbsb",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/solid-black-s02pbsb/",
+        "source_label": "PaintScratch 2024 Tesla",
+        "hex_value": "#292023"
+      }
+    ],
+    "2025": [
+      {
+        "display_name": "Ultra Red Tricoat",
+        "paint_code": "PR01",
+        "slug": "ultra-red-tricoat-pr01",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/ultra-red-tricoat-pr01/",
+        "source_label": "PaintScratch 2025 Tesla",
+        "hex_value": "#F31515"
+      },
+      {
+        "display_name": "Stealth Gray",
+        "paint_code": "9902",
+        "slug": "stealth-gray-9902",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/stealth-gray-9902/",
+        "source_label": "PaintScratch 2025 Tesla",
+        "hex_value": "#323538"
+      },
+      {
+        "display_name": "Pearl White Tricoat",
+        "paint_code": "SW",
+        "slug": "pearl-white-tricoat-sw",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/pearl-white-tricoat-sw/",
+        "source_label": "PaintScratch 2025 Tesla",
+        "hex_value": "#E9E5E5"
+      },
+      {
+        "display_name": "Solid Black",
+        "paint_code": "02/PBSB/S02",
+        "slug": "solid-black-02pbsbs02",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/solid-black-02pbsbs02/",
+        "source_label": "PaintScratch 2025 Tesla",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Deep Blue",
+        "paint_code": "101",
+        "slug": "deep-blue-101",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/deep-blue-101/",
+        "source_label": "PaintScratch 2025 Tesla",
+        "hex_value": "#2E4058"
+      },
+      {
+        "display_name": "Lunar Silver",
+        "paint_code": "296E",
+        "slug": "lunar-silver-296e",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/lunar-silver-296e/",
+        "source_label": "PaintScratch 2025 Tesla",
+        "hex_value": "#C0C0C0"
+      }
+    ],
+    "2026": [
+      {
+        "display_name": "Ultra Red Tricoat",
+        "paint_code": "PR01",
+        "slug": "ultra-red-tricoat-pr01",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/ultra-red-tricoat-pr01/",
+        "source_label": "PaintScratch 2026 Tesla",
+        "hex_value": "#F31515"
+      },
+      {
+        "display_name": "Pearl White Tricoat",
+        "paint_code": "SW",
+        "slug": "pearl-white-tricoat-sw",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/pearl-white-tricoat-sw/",
+        "source_label": "PaintScratch 2026 Tesla",
+        "hex_value": "#E9E5E5"
+      },
+      {
+        "display_name": "Diamond Black",
+        "paint_code": "PX02",
+        "slug": "diamond-black-px02",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/diamond-black-px02/",
+        "source_label": "PaintScratch 2026 Tesla",
+        "hex_value": "#030404"
+      },
+      {
+        "display_name": "Cosmic Silver",
+        "paint_code": "2DB",
+        "slug": "cosmic-silver-2db",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/cosmic-silver-2db/",
+        "source_label": "PaintScratch 2026 Tesla",
+        "hex_value": "#585652"
+      },
+      {
+        "display_name": "Lunar Silver",
+        "paint_code": "296E",
+        "slug": "lunar-silver-296e",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/lunar-silver-296e/",
+        "source_label": "PaintScratch 2026 Tesla",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Starlight Silver",
+        "paint_code": "2HL",
+        "slug": "starlight-silver-2hl",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/starlight-silver-2hl/",
+        "source_label": "PaintScratch 2026 Tesla",
+        "hex_value": "#4A4A49"
+      },
+      {
+        "display_name": "Onyx Black",
+        "paint_code": "2HM",
+        "slug": "onyx-black-2hm",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/onyx-black-2hm/",
+        "source_label": "PaintScratch 2026 Tesla",
+        "hex_value": "#131314"
+      },
+      {
+        "display_name": "Frost Blue",
+        "paint_code": "29M",
+        "slug": "frost-blue-29m",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/frost-blue-29m/",
+        "source_label": "PaintScratch 2026 Tesla",
+        "hex_value": "#384C5B"
+      },
+      {
+        "display_name": "Deep Blue",
+        "paint_code": "101/PPSB",
+        "slug": "deep-blue-101ppsb",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/deep-blue-101ppsb/",
+        "source_label": "PaintScratch 2026 Tesla",
+        "hex_value": "#02152B"
+      },
+      {
+        "display_name": "Diamond Black",
+        "paint_code": "252E",
+        "slug": "diamond-black-252e",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/diamond-black-252e/",
+        "source_label": "PaintScratch 2026 Tesla",
+        "hex_value": "#040405"
+      },
+      {
+        "display_name": "Quicksilver",
+        "paint_code": "262E",
+        "slug": "quicksilver-262e",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/quicksilver-262e/",
+        "source_label": "PaintScratch 2026 Tesla",
+        "hex_value": "#303133"
+      },
+      {
+        "display_name": "Incognito",
+        "paint_code": "285E",
+        "slug": "incognito-285e",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/incognito-285e/",
+        "source_label": "PaintScratch 2026 Tesla",
+        "hex_value": "#151718"
+      },
+      {
+        "display_name": "Phantom Metallic",
+        "paint_code": "301E",
+        "slug": "phantom-metallic-301e",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/phantom-metallic-301e/",
+        "source_label": "PaintScratch 2026 Tesla",
+        "hex_value": "#222325"
+      },
+      {
+        "display_name": "Stealth Gray",
+        "paint_code": "306E",
+        "slug": "stealth-gray-306e",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/stealth-gray-306e/",
+        "source_label": "PaintScratch 2026 Tesla",
+        "hex_value": "#161719"
+      },
+      {
+        "display_name": "Void Black",
+        "paint_code": "311",
+        "slug": "void-black-311",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/void-black-311/",
+        "source_label": "PaintScratch 2026 Tesla",
+        "hex_value": "#121417"
+      },
+      {
+        "display_name": "Twilight Blue Metallic",
+        "paint_code": "B105",
+        "slug": "twilight-blue-metallic-b105",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/twilight-blue-metallic-b105/",
+        "source_label": "PaintScratch 2026 Tesla",
+        "hex_value": "#2E3646"
+      }
+    ],
+    "2027": [
+      {
+        "display_name": "Ultra Red Tricoat",
+        "paint_code": "PR01",
+        "slug": "ultra-red-tricoat-pr01",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/ultra-red-tricoat-pr01/",
+        "source_label": "PaintScratch 2027 Tesla",
+        "hex_value": "#F31515"
+      },
+      {
+        "display_name": "Pearl White Tricoat",
+        "paint_code": "SW",
+        "slug": "pearl-white-tricoat-sw",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/pearl-white-tricoat-sw/",
+        "source_label": "PaintScratch 2027 Tesla",
+        "hex_value": "#E9E5E5"
+      },
+      {
+        "display_name": "Diamond Black",
+        "paint_code": "PX02",
+        "slug": "diamond-black-px02",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/diamond-black-px02/",
+        "source_label": "PaintScratch 2027 Tesla",
+        "hex_value": "#030404"
+      },
+      {
+        "display_name": "Cosmic Silver",
+        "paint_code": "2DB",
+        "slug": "cosmic-silver-2db",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/cosmic-silver-2db/",
+        "source_label": "PaintScratch 2027 Tesla",
+        "hex_value": "#585652"
+      },
+      {
+        "display_name": "Lunar Silver",
+        "paint_code": "296E",
+        "slug": "lunar-silver-296e",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/lunar-silver-296e/",
+        "source_label": "PaintScratch 2027 Tesla",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Starlight Silver",
+        "paint_code": "2HL",
+        "slug": "starlight-silver-2hl",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/starlight-silver-2hl/",
+        "source_label": "PaintScratch 2027 Tesla",
+        "hex_value": "#4A4A49"
+      },
+      {
+        "display_name": "Onyx Black",
+        "paint_code": "2HM",
+        "slug": "onyx-black-2hm",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/onyx-black-2hm/",
+        "source_label": "PaintScratch 2027 Tesla",
+        "hex_value": "#131314"
+      },
+      {
+        "display_name": "Frost Blue",
+        "paint_code": "29M",
+        "slug": "frost-blue-29m",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/frost-blue-29m/",
+        "source_label": "PaintScratch 2027 Tesla",
+        "hex_value": "#384C5B"
+      },
+      {
+        "display_name": "Deep Blue",
+        "paint_code": "101/PPSB",
+        "slug": "deep-blue-101ppsb",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/deep-blue-101ppsb/",
+        "source_label": "PaintScratch 2027 Tesla",
+        "hex_value": "#02152B"
+      },
+      {
+        "display_name": "Diamond Black",
+        "paint_code": "252E",
+        "slug": "diamond-black-252e",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/diamond-black-252e/",
+        "source_label": "PaintScratch 2027 Tesla",
+        "hex_value": "#040405"
+      },
+      {
+        "display_name": "Quicksilver",
+        "paint_code": "262E",
+        "slug": "quicksilver-262e",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/quicksilver-262e/",
+        "source_label": "PaintScratch 2027 Tesla",
+        "hex_value": "#303133"
+      },
+      {
+        "display_name": "Incognito",
+        "paint_code": "285E",
+        "slug": "incognito-285e",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/incognito-285e/",
+        "source_label": "PaintScratch 2027 Tesla",
+        "hex_value": "#151718"
+      },
+      {
+        "display_name": "Phantom Metallic",
+        "paint_code": "301E",
+        "slug": "phantom-metallic-301e",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/phantom-metallic-301e/",
+        "source_label": "PaintScratch 2027 Tesla",
+        "hex_value": "#222325"
+      },
+      {
+        "display_name": "Stealth Gray",
+        "paint_code": "306E",
+        "slug": "stealth-gray-306e",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/stealth-gray-306e/",
+        "source_label": "PaintScratch 2027 Tesla",
+        "hex_value": "#161719"
+      },
+      {
+        "display_name": "Void Black",
+        "paint_code": "311",
+        "slug": "void-black-311",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/void-black-311/",
+        "source_label": "PaintScratch 2027 Tesla",
+        "hex_value": "#121417"
+      },
+      {
+        "display_name": "Twilight Blue Metallic",
+        "paint_code": "B105",
+        "slug": "twilight-blue-metallic-b105",
+        "reference_url": "https://www.paintscratch.com/colors/tesla/twilight-blue-metallic-b105/",
+        "source_label": "PaintScratch 2027 Tesla",
+        "hex_value": "#2E3646"
+      }
+    ]
+  }
+}

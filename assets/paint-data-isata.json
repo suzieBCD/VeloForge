@@ -1,0 +1,564 @@
+{
+  "All Models": {
+    "2000": [
+      {
+        "display_name": "Lt.Neutral.Metallic",
+        "paint_code": "LM047",
+        "slug": "ltneutralmetallic-lm047",
+        "reference_url": "https://www.paintscratch.com/colors/isata/ltneutralmetallic-lm047/",
+        "source_label": "PaintScratch 2000 Isata",
+        "hex_value": "#EFE6D1"
+      },
+      {
+        "display_name": "Med.Neutral.Metallic",
+        "paint_code": "MM102K",
+        "slug": "medneutralmetallic-mm102k",
+        "reference_url": "https://www.paintscratch.com/colors/isata/medneutralmetallic-mm102k/",
+        "source_label": "PaintScratch 2000 Isata",
+        "hex_value": "#E7DDC5"
+      }
+    ],
+    "2001": [
+      {
+        "display_name": "Lt.Neutral.Metallic",
+        "paint_code": "LM047",
+        "slug": "ltneutralmetallic-lm047",
+        "reference_url": "https://www.paintscratch.com/colors/isata/ltneutralmetallic-lm047/",
+        "source_label": "PaintScratch 2001 Isata",
+        "hex_value": "#EFE6D1"
+      },
+      {
+        "display_name": "Med.Neutral.Metallic",
+        "paint_code": "MM102K",
+        "slug": "medneutralmetallic-mm102k",
+        "reference_url": "https://www.paintscratch.com/colors/isata/medneutralmetallic-mm102k/",
+        "source_label": "PaintScratch 2001 Isata",
+        "hex_value": "#E7DDC5"
+      }
+    ],
+    "2002": [
+      {
+        "display_name": "Lt.Neutral.Metallic",
+        "paint_code": "LM047",
+        "slug": "ltneutralmetallic-lm047",
+        "reference_url": "https://www.paintscratch.com/colors/isata/ltneutralmetallic-lm047/",
+        "source_label": "PaintScratch 2002 Isata",
+        "hex_value": "#EFE6D1"
+      },
+      {
+        "display_name": "Med.Neutral.Metallic",
+        "paint_code": "MM102K",
+        "slug": "medneutralmetallic-mm102k",
+        "reference_url": "https://www.paintscratch.com/colors/isata/medneutralmetallic-mm102k/",
+        "source_label": "PaintScratch 2002 Isata",
+        "hex_value": "#E7DDC5"
+      }
+    ],
+    "2003": [
+      {
+        "display_name": "Lt.Neutral.Metallic",
+        "paint_code": "LM047",
+        "slug": "ltneutralmetallic-lm047",
+        "reference_url": "https://www.paintscratch.com/colors/isata/ltneutralmetallic-lm047/",
+        "source_label": "PaintScratch 2003 Isata",
+        "hex_value": "#EFE6D1"
+      },
+      {
+        "display_name": "Med.Neutral.Metallic",
+        "paint_code": "MM102K",
+        "slug": "medneutralmetallic-mm102k",
+        "reference_url": "https://www.paintscratch.com/colors/isata/medneutralmetallic-mm102k/",
+        "source_label": "PaintScratch 2003 Isata",
+        "hex_value": "#E7DDC5"
+      }
+    ],
+    "2004": [
+      {
+        "display_name": "Lt.Neutral.Metallic",
+        "paint_code": "LM047",
+        "slug": "ltneutralmetallic-lm047",
+        "reference_url": "https://www.paintscratch.com/colors/isata/ltneutralmetallic-lm047/",
+        "source_label": "PaintScratch 2004 Isata",
+        "hex_value": "#EFE6D1"
+      },
+      {
+        "display_name": "Med.Neutral.Metallic",
+        "paint_code": "MM102K",
+        "slug": "medneutralmetallic-mm102k",
+        "reference_url": "https://www.paintscratch.com/colors/isata/medneutralmetallic-mm102k/",
+        "source_label": "PaintScratch 2004 Isata",
+        "hex_value": "#E7DDC5"
+      },
+      {
+        "display_name": "Medium Neutral Beige",
+        "paint_code": "MM036/0065",
+        "slug": "medium-neutral-beige-mm0360065",
+        "reference_url": "https://www.paintscratch.com/colors/isata/medium-neutral-beige-mm0360065/",
+        "source_label": "PaintScratch 2004 Isata",
+        "hex_value": "#E9D9A1"
+      }
+    ],
+    "2005": [
+      {
+        "display_name": "Lt.Neutral.Metallic",
+        "paint_code": "LM047",
+        "slug": "ltneutralmetallic-lm047",
+        "reference_url": "https://www.paintscratch.com/colors/isata/ltneutralmetallic-lm047/",
+        "source_label": "PaintScratch 2005 Isata",
+        "hex_value": "#EFE6D1"
+      },
+      {
+        "display_name": "Med.Neutral.Metallic",
+        "paint_code": "MM102K",
+        "slug": "medneutralmetallic-mm102k",
+        "reference_url": "https://www.paintscratch.com/colors/isata/medneutralmetallic-mm102k/",
+        "source_label": "PaintScratch 2005 Isata",
+        "hex_value": "#E7DDC5"
+      }
+    ],
+    "2006": [
+      {
+        "display_name": "Lt.Neutral.Metallic",
+        "paint_code": "LM047",
+        "slug": "ltneutralmetallic-lm047",
+        "reference_url": "https://www.paintscratch.com/colors/isata/ltneutralmetallic-lm047/",
+        "source_label": "PaintScratch 2006 Isata",
+        "hex_value": "#EFE6D1"
+      },
+      {
+        "display_name": "Med.Neutral.Metallic",
+        "paint_code": "MM102K",
+        "slug": "medneutralmetallic-mm102k",
+        "reference_url": "https://www.paintscratch.com/colors/isata/medneutralmetallic-mm102k/",
+        "source_label": "PaintScratch 2006 Isata",
+        "hex_value": "#E7DDC5"
+      }
+    ],
+    "2007": [
+      {
+        "display_name": "Lt.Neutral.Metallic",
+        "paint_code": "LM047",
+        "slug": "ltneutralmetallic-lm047",
+        "reference_url": "https://www.paintscratch.com/colors/isata/ltneutralmetallic-lm047/",
+        "source_label": "PaintScratch 2007 Isata",
+        "hex_value": "#EFE6D1"
+      },
+      {
+        "display_name": "Med.Neutral.Metallic",
+        "paint_code": "MM102K",
+        "slug": "medneutralmetallic-mm102k",
+        "reference_url": "https://www.paintscratch.com/colors/isata/medneutralmetallic-mm102k/",
+        "source_label": "PaintScratch 2007 Isata",
+        "hex_value": "#E7DDC5"
+      },
+      {
+        "display_name": "Maroon-5713",
+        "paint_code": "60751",
+        "slug": "maroon-5713-60751",
+        "reference_url": "https://www.paintscratch.com/colors/isata/maroon-5713-60751/",
+        "source_label": "PaintScratch 2007 Isata",
+        "hex_value": "#761C1A"
+      }
+    ],
+    "2008": [
+      {
+        "display_name": "Lt.Neutral.Metallic",
+        "paint_code": "LM047",
+        "slug": "ltneutralmetallic-lm047",
+        "reference_url": "https://www.paintscratch.com/colors/isata/ltneutralmetallic-lm047/",
+        "source_label": "PaintScratch 2008 Isata",
+        "hex_value": "#EFE6D1"
+      },
+      {
+        "display_name": "Med.Neutral.Metallic",
+        "paint_code": "MM102K",
+        "slug": "medneutralmetallic-mm102k",
+        "reference_url": "https://www.paintscratch.com/colors/isata/medneutralmetallic-mm102k/",
+        "source_label": "PaintScratch 2008 Isata",
+        "hex_value": "#E7DDC5"
+      }
+    ],
+    "2009": [
+      {
+        "display_name": "Lt.Neutral.Metallic",
+        "paint_code": "LM047",
+        "slug": "ltneutralmetallic-lm047",
+        "reference_url": "https://www.paintscratch.com/colors/isata/ltneutralmetallic-lm047/",
+        "source_label": "PaintScratch 2009 Isata",
+        "hex_value": "#EFE6D1"
+      },
+      {
+        "display_name": "Med.Neutral.Metallic",
+        "paint_code": "MM102K",
+        "slug": "medneutralmetallic-mm102k",
+        "reference_url": "https://www.paintscratch.com/colors/isata/medneutralmetallic-mm102k/",
+        "source_label": "PaintScratch 2009 Isata",
+        "hex_value": "#E7DDC5"
+      }
+    ],
+    "2010": [
+      {
+        "display_name": "Lt.Neutral.Metallic",
+        "paint_code": "LM047",
+        "slug": "ltneutralmetallic-lm047",
+        "reference_url": "https://www.paintscratch.com/colors/isata/ltneutralmetallic-lm047/",
+        "source_label": "PaintScratch 2010 Isata",
+        "hex_value": "#EFE6D1"
+      },
+      {
+        "display_name": "Med.Neutral.Metallic",
+        "paint_code": "MM102K",
+        "slug": "medneutralmetallic-mm102k",
+        "reference_url": "https://www.paintscratch.com/colors/isata/medneutralmetallic-mm102k/",
+        "source_label": "PaintScratch 2010 Isata",
+        "hex_value": "#E7DDC5"
+      }
+    ],
+    "2011": [
+      {
+        "display_name": "Lt.Neutral.Metallic",
+        "paint_code": "LM047",
+        "slug": "ltneutralmetallic-lm047",
+        "reference_url": "https://www.paintscratch.com/colors/isata/ltneutralmetallic-lm047/",
+        "source_label": "PaintScratch 2011 Isata",
+        "hex_value": "#EFE6D1"
+      },
+      {
+        "display_name": "Med.Neutral.Metallic",
+        "paint_code": "MM102K",
+        "slug": "medneutralmetallic-mm102k",
+        "reference_url": "https://www.paintscratch.com/colors/isata/medneutralmetallic-mm102k/",
+        "source_label": "PaintScratch 2011 Isata",
+        "hex_value": "#E7DDC5"
+      }
+    ],
+    "2012": [
+      {
+        "display_name": "Lt.Neutral.Metallic",
+        "paint_code": "LM047",
+        "slug": "ltneutralmetallic-lm047",
+        "reference_url": "https://www.paintscratch.com/colors/isata/ltneutralmetallic-lm047/",
+        "source_label": "PaintScratch 2012 Isata",
+        "hex_value": "#EFE6D1"
+      },
+      {
+        "display_name": "Med.Neutral.Metallic",
+        "paint_code": "MM102K",
+        "slug": "medneutralmetallic-mm102k",
+        "reference_url": "https://www.paintscratch.com/colors/isata/medneutralmetallic-mm102k/",
+        "source_label": "PaintScratch 2012 Isata",
+        "hex_value": "#E7DDC5"
+      }
+    ],
+    "2013": [
+      {
+        "display_name": "Lt.Neutral.Metallic",
+        "paint_code": "LM047",
+        "slug": "ltneutralmetallic-lm047",
+        "reference_url": "https://www.paintscratch.com/colors/isata/ltneutralmetallic-lm047/",
+        "source_label": "PaintScratch 2013 Isata",
+        "hex_value": "#EFE6D1"
+      },
+      {
+        "display_name": "Med.Neutral.Metallic",
+        "paint_code": "MM102K",
+        "slug": "medneutralmetallic-mm102k",
+        "reference_url": "https://www.paintscratch.com/colors/isata/medneutralmetallic-mm102k/",
+        "source_label": "PaintScratch 2013 Isata",
+        "hex_value": "#E7DDC5"
+      }
+    ],
+    "2014": [
+      {
+        "display_name": "Lt.Neutral.Metallic",
+        "paint_code": "LM047",
+        "slug": "ltneutralmetallic-lm047",
+        "reference_url": "https://www.paintscratch.com/colors/isata/ltneutralmetallic-lm047/",
+        "source_label": "PaintScratch 2014 Isata",
+        "hex_value": "#EFE6D1"
+      },
+      {
+        "display_name": "Med.Neutral.Metallic",
+        "paint_code": "MM102K",
+        "slug": "medneutralmetallic-mm102k",
+        "reference_url": "https://www.paintscratch.com/colors/isata/medneutralmetallic-mm102k/",
+        "source_label": "PaintScratch 2014 Isata",
+        "hex_value": "#E7DDC5"
+      }
+    ],
+    "2015": [
+      {
+        "display_name": "Lt.Neutral.Metallic",
+        "paint_code": "LM047",
+        "slug": "ltneutralmetallic-lm047",
+        "reference_url": "https://www.paintscratch.com/colors/isata/ltneutralmetallic-lm047/",
+        "source_label": "PaintScratch 2015 Isata",
+        "hex_value": "#EFE6D1"
+      },
+      {
+        "display_name": "Med.Neutral.Metallic",
+        "paint_code": "MM102K",
+        "slug": "medneutralmetallic-mm102k",
+        "reference_url": "https://www.paintscratch.com/colors/isata/medneutralmetallic-mm102k/",
+        "source_label": "PaintScratch 2015 Isata",
+        "hex_value": "#E7DDC5"
+      }
+    ],
+    "2016": [
+      {
+        "display_name": "Lt.Neutral.Metallic",
+        "paint_code": "LM047",
+        "slug": "ltneutralmetallic-lm047",
+        "reference_url": "https://www.paintscratch.com/colors/isata/ltneutralmetallic-lm047/",
+        "source_label": "PaintScratch 2016 Isata",
+        "hex_value": "#EFE6D1"
+      },
+      {
+        "display_name": "Med.Neutral.Metallic",
+        "paint_code": "MM102K",
+        "slug": "medneutralmetallic-mm102k",
+        "reference_url": "https://www.paintscratch.com/colors/isata/medneutralmetallic-mm102k/",
+        "source_label": "PaintScratch 2016 Isata",
+        "hex_value": "#E7DDC5"
+      }
+    ],
+    "2017": [
+      {
+        "display_name": "Lt.Neutral.Metallic",
+        "paint_code": "LM047",
+        "slug": "ltneutralmetallic-lm047",
+        "reference_url": "https://www.paintscratch.com/colors/isata/ltneutralmetallic-lm047/",
+        "source_label": "PaintScratch 2017 Isata",
+        "hex_value": "#EFE6D1"
+      },
+      {
+        "display_name": "Med.Neutral.Metallic",
+        "paint_code": "MM102K",
+        "slug": "medneutralmetallic-mm102k",
+        "reference_url": "https://www.paintscratch.com/colors/isata/medneutralmetallic-mm102k/",
+        "source_label": "PaintScratch 2017 Isata",
+        "hex_value": "#E7DDC5"
+      },
+      {
+        "display_name": "Tuxedo Black Metallic",
+        "paint_code": "M721-7211A",
+        "slug": "tuxedo-black-metallic-m721-7211a",
+        "reference_url": "https://www.paintscratch.com/colors/isata/tuxedo-black-metallic-m721-7211a/",
+        "source_label": "PaintScratch 2017 Isata",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Oxford White",
+        "paint_code": "M6466A",
+        "slug": "oxford-white-m6466a",
+        "reference_url": "https://www.paintscratch.com/colors/isata/oxford-white-m6466a/",
+        "source_label": "PaintScratch 2017 Isata",
+        "hex_value": "#FFFFFF"
+      }
+    ],
+    "2018": [
+      {
+        "display_name": "Lt.Neutral.Metallic",
+        "paint_code": "LM047",
+        "slug": "ltneutralmetallic-lm047",
+        "reference_url": "https://www.paintscratch.com/colors/isata/ltneutralmetallic-lm047/",
+        "source_label": "PaintScratch 2018 Isata",
+        "hex_value": "#EFE6D1"
+      },
+      {
+        "display_name": "Med.Neutral.Metallic",
+        "paint_code": "MM102K",
+        "slug": "medneutralmetallic-mm102k",
+        "reference_url": "https://www.paintscratch.com/colors/isata/medneutralmetallic-mm102k/",
+        "source_label": "PaintScratch 2018 Isata",
+        "hex_value": "#E7DDC5"
+      },
+      {
+        "display_name": "Dark Mink",
+        "paint_code": "MM119",
+        "slug": "dark-mink-mm119",
+        "reference_url": "https://www.paintscratch.com/colors/isata/dark-mink-mm119/",
+        "source_label": "PaintScratch 2018 Isata",
+        "hex_value": "#000000"
+      }
+    ],
+    "2019": [
+      {
+        "display_name": "Lt.Neutral.Metallic",
+        "paint_code": "LM047",
+        "slug": "ltneutralmetallic-lm047",
+        "reference_url": "https://www.paintscratch.com/colors/isata/ltneutralmetallic-lm047/",
+        "source_label": "PaintScratch 2019 Isata",
+        "hex_value": "#EFE6D1"
+      },
+      {
+        "display_name": "Med.Neutral.Metallic",
+        "paint_code": "MM102K",
+        "slug": "medneutralmetallic-mm102k",
+        "reference_url": "https://www.paintscratch.com/colors/isata/medneutralmetallic-mm102k/",
+        "source_label": "PaintScratch 2019 Isata",
+        "hex_value": "#E7DDC5"
+      }
+    ],
+    "2020": [
+      {
+        "display_name": "Lt.Neutral.Metallic",
+        "paint_code": "LM047",
+        "slug": "ltneutralmetallic-lm047",
+        "reference_url": "https://www.paintscratch.com/colors/isata/ltneutralmetallic-lm047/",
+        "source_label": "PaintScratch 2020 Isata",
+        "hex_value": "#EFE6D1"
+      },
+      {
+        "display_name": "Med.Neutral.Metallic",
+        "paint_code": "MM102K",
+        "slug": "medneutralmetallic-mm102k",
+        "reference_url": "https://www.paintscratch.com/colors/isata/medneutralmetallic-mm102k/",
+        "source_label": "PaintScratch 2020 Isata",
+        "hex_value": "#E7DDC5"
+      },
+      {
+        "display_name": "Medium Blue",
+        "paint_code": "PB5",
+        "slug": "medium-blue-pb5",
+        "reference_url": "https://www.paintscratch.com/colors/isata/medium-blue-pb5/",
+        "source_label": "PaintScratch 2020 Isata",
+        "hex_value": "#0D2D97"
+      }
+    ],
+    "2021": [
+      {
+        "display_name": "Lt.Neutral.Metallic",
+        "paint_code": "LM047",
+        "slug": "ltneutralmetallic-lm047",
+        "reference_url": "https://www.paintscratch.com/colors/isata/ltneutralmetallic-lm047/",
+        "source_label": "PaintScratch 2021 Isata",
+        "hex_value": "#EFE6D1"
+      },
+      {
+        "display_name": "Blue",
+        "paint_code": "MA04825",
+        "slug": "blue-ma04825",
+        "reference_url": "https://www.paintscratch.com/colors/isata/blue-ma04825/",
+        "source_label": "PaintScratch 2021 Isata",
+        "hex_value": "#495EA3"
+      },
+      {
+        "display_name": "Med.Neutral.Metallic",
+        "paint_code": "MM102K",
+        "slug": "medneutralmetallic-mm102k",
+        "reference_url": "https://www.paintscratch.com/colors/isata/medneutralmetallic-mm102k/",
+        "source_label": "PaintScratch 2021 Isata",
+        "hex_value": "#E7DDC5"
+      }
+    ],
+    "2022": [
+      {
+        "display_name": "Lt.Neutral.Metallic",
+        "paint_code": "LM047",
+        "slug": "ltneutralmetallic-lm047",
+        "reference_url": "https://www.paintscratch.com/colors/isata/ltneutralmetallic-lm047/",
+        "source_label": "PaintScratch 2022 Isata",
+        "hex_value": "#EFE6D1"
+      },
+      {
+        "display_name": "Med.Neutral.Metallic",
+        "paint_code": "MM102K",
+        "slug": "medneutralmetallic-mm102k",
+        "reference_url": "https://www.paintscratch.com/colors/isata/medneutralmetallic-mm102k/",
+        "source_label": "PaintScratch 2022 Isata",
+        "hex_value": "#E7DDC5"
+      }
+    ],
+    "2023": [
+      {
+        "display_name": "Lt.Neutral.Metallic",
+        "paint_code": "LM047",
+        "slug": "ltneutralmetallic-lm047",
+        "reference_url": "https://www.paintscratch.com/colors/isata/ltneutralmetallic-lm047/",
+        "source_label": "PaintScratch 2023 Isata",
+        "hex_value": "#EFE6D1"
+      },
+      {
+        "display_name": "Med.Neutral.Metallic",
+        "paint_code": "MM102K",
+        "slug": "medneutralmetallic-mm102k",
+        "reference_url": "https://www.paintscratch.com/colors/isata/medneutralmetallic-mm102k/",
+        "source_label": "PaintScratch 2023 Isata",
+        "hex_value": "#E7DDC5"
+      }
+    ],
+    "2024": [
+      {
+        "display_name": "Lt.Neutral.Metallic",
+        "paint_code": "LM047",
+        "slug": "ltneutralmetallic-lm047",
+        "reference_url": "https://www.paintscratch.com/colors/isata/ltneutralmetallic-lm047/",
+        "source_label": "PaintScratch 2024 Isata",
+        "hex_value": "#EFE6D1"
+      },
+      {
+        "display_name": "Med.Neutral.Metallic",
+        "paint_code": "MM102K",
+        "slug": "medneutralmetallic-mm102k",
+        "reference_url": "https://www.paintscratch.com/colors/isata/medneutralmetallic-mm102k/",
+        "source_label": "PaintScratch 2024 Isata",
+        "hex_value": "#E7DDC5"
+      }
+    ],
+    "2025": [
+      {
+        "display_name": "Lt.Neutral.Metallic",
+        "paint_code": "LM047",
+        "slug": "ltneutralmetallic-lm047",
+        "reference_url": "https://www.paintscratch.com/colors/isata/ltneutralmetallic-lm047/",
+        "source_label": "PaintScratch 2025 Isata",
+        "hex_value": "#EFE6D1"
+      },
+      {
+        "display_name": "Med.Neutral.Metallic",
+        "paint_code": "MM102K",
+        "slug": "medneutralmetallic-mm102k",
+        "reference_url": "https://www.paintscratch.com/colors/isata/medneutralmetallic-mm102k/",
+        "source_label": "PaintScratch 2025 Isata",
+        "hex_value": "#E7DDC5"
+      }
+    ],
+    "2026": [
+      {
+        "display_name": "Lt.Neutral.Metallic",
+        "paint_code": "LM047",
+        "slug": "ltneutralmetallic-lm047",
+        "reference_url": "https://www.paintscratch.com/colors/isata/ltneutralmetallic-lm047/",
+        "source_label": "PaintScratch 2026 Isata",
+        "hex_value": "#EFE6D1"
+      },
+      {
+        "display_name": "Med.Neutral.Metallic",
+        "paint_code": "MM102K",
+        "slug": "medneutralmetallic-mm102k",
+        "reference_url": "https://www.paintscratch.com/colors/isata/medneutralmetallic-mm102k/",
+        "source_label": "PaintScratch 2026 Isata",
+        "hex_value": "#E7DDC5"
+      }
+    ],
+    "2027": [
+      {
+        "display_name": "Lt.Neutral.Metallic",
+        "paint_code": "LM047",
+        "slug": "ltneutralmetallic-lm047",
+        "reference_url": "https://www.paintscratch.com/colors/isata/ltneutralmetallic-lm047/",
+        "source_label": "PaintScratch 2027 Isata",
+        "hex_value": "#EFE6D1"
+      },
+      {
+        "display_name": "Med.Neutral.Metallic",
+        "paint_code": "MM102K",
+        "slug": "medneutralmetallic-mm102k",
+        "reference_url": "https://www.paintscratch.com/colors/isata/medneutralmetallic-mm102k/",
+        "source_label": "PaintScratch 2027 Isata",
+        "hex_value": "#E7DDC5"
+      }
+    ]
+  }
+}

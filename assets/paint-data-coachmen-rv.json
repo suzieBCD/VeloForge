@@ -1,0 +1,782 @@
+{
+  "All Models": {
+    "1999": [
+      {
+        "display_name": "Light Antelope Beige Metallic",
+        "paint_code": "18005",
+        "slug": "light-antelope-beige-metallic-18005",
+        "reference_url": "https://www.paintscratch.com/colors/coachmen-rv/light-antelope-beige-metallic-18005/",
+        "source_label": "PaintScratch 1999 Coachmen-RV",
+        "hex_value": "#DAD1C4"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "TS40888",
+        "slug": "black-ts40888",
+        "reference_url": "https://www.paintscratch.com/colors/coachmen-rv/black-ts40888/",
+        "source_label": "PaintScratch 1999 Coachmen-RV",
+        "hex_value": "#000000"
+      }
+    ],
+    "2000": [
+      {
+        "display_name": "Light Antelope Beige Metallic",
+        "paint_code": "18005",
+        "slug": "light-antelope-beige-metallic-18005",
+        "reference_url": "https://www.paintscratch.com/colors/coachmen-rv/light-antelope-beige-metallic-18005/",
+        "source_label": "PaintScratch 2000 Coachmen-RV",
+        "hex_value": "#DAD1C4"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "TS40888",
+        "slug": "black-ts40888",
+        "reference_url": "https://www.paintscratch.com/colors/coachmen-rv/black-ts40888/",
+        "source_label": "PaintScratch 2000 Coachmen-RV",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Bordeaux Rose",
+        "paint_code": "193A",
+        "slug": "bordeaux-rose-193a",
+        "reference_url": "https://www.paintscratch.com/colors/coachmen-rv/bordeaux-rose-193a/",
+        "source_label": "PaintScratch 2000 Coachmen-RV",
+        "hex_value": "#761C1A"
+      }
+    ],
+    "2001": [
+      {
+        "display_name": "Light Antelope Beige Metallic",
+        "paint_code": "18005",
+        "slug": "light-antelope-beige-metallic-18005",
+        "reference_url": "https://www.paintscratch.com/colors/coachmen-rv/light-antelope-beige-metallic-18005/",
+        "source_label": "PaintScratch 2001 Coachmen-RV",
+        "hex_value": "#DAD1C4"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "TS40888",
+        "slug": "black-ts40888",
+        "reference_url": "https://www.paintscratch.com/colors/coachmen-rv/black-ts40888/",
+        "source_label": "PaintScratch 2001 Coachmen-RV",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Sabi Park Green",
+        "paint_code": "S5367",
+        "slug": "sabi-park-green-s5367",
+        "reference_url": "https://www.paintscratch.com/colors/coachmen-rv/sabi-park-green-s5367/",
+        "source_label": "PaintScratch 2001 Coachmen-RV",
+        "hex_value": "#15350F"
+      }
+    ],
+    "2002": [
+      {
+        "display_name": "Light Antelope Beige Metallic",
+        "paint_code": "18005",
+        "slug": "light-antelope-beige-metallic-18005",
+        "reference_url": "https://www.paintscratch.com/colors/coachmen-rv/light-antelope-beige-metallic-18005/",
+        "source_label": "PaintScratch 2002 Coachmen-RV",
+        "hex_value": "#DAD1C4"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "TS40888",
+        "slug": "black-ts40888",
+        "reference_url": "https://www.paintscratch.com/colors/coachmen-rv/black-ts40888/",
+        "source_label": "PaintScratch 2002 Coachmen-RV",
+        "hex_value": "#000000"
+      }
+    ],
+    "2003": [
+      {
+        "display_name": "Light Antelope Beige Metallic",
+        "paint_code": "18005",
+        "slug": "light-antelope-beige-metallic-18005",
+        "reference_url": "https://www.paintscratch.com/colors/coachmen-rv/light-antelope-beige-metallic-18005/",
+        "source_label": "PaintScratch 2003 Coachmen-RV",
+        "hex_value": "#DAD1C4"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "TS40888",
+        "slug": "black-ts40888",
+        "reference_url": "https://www.paintscratch.com/colors/coachmen-rv/black-ts40888/",
+        "source_label": "PaintScratch 2003 Coachmen-RV",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Champagne Pewter",
+        "paint_code": "U7-50766",
+        "slug": "champagne-pewter-u7-50766",
+        "reference_url": "https://www.paintscratch.com/colors/coachmen-rv/champagne-pewter-u7-50766/",
+        "source_label": "PaintScratch 2003 Coachmen-RV",
+        "hex_value": "#9BA5C5"
+      },
+      {
+        "display_name": "Gray",
+        "paint_code": "U7-54691",
+        "slug": "gray-u7-54691",
+        "reference_url": "https://www.paintscratch.com/colors/coachmen-rv/gray-u7-54691/",
+        "source_label": "PaintScratch 2003 Coachmen-RV",
+        "hex_value": "#C0C0C0"
+      }
+    ],
+    "2004": [
+      {
+        "display_name": "Light Antelope Beige Metallic",
+        "paint_code": "18005",
+        "slug": "light-antelope-beige-metallic-18005",
+        "reference_url": "https://www.paintscratch.com/colors/coachmen-rv/light-antelope-beige-metallic-18005/",
+        "source_label": "PaintScratch 2004 Coachmen-RV",
+        "hex_value": "#DAD1C4"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "TS40888",
+        "slug": "black-ts40888",
+        "reference_url": "https://www.paintscratch.com/colors/coachmen-rv/black-ts40888/",
+        "source_label": "PaintScratch 2004 Coachmen-RV",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Sage Metalic",
+        "paint_code": "MB-539110/B9766K",
+        "slug": "sage-metalic-mb-539110b9766k",
+        "reference_url": "https://www.paintscratch.com/colors/coachmen-rv/sage-metalic-mb-539110b9766k/",
+        "source_label": "PaintScratch 2004 Coachmen-RV",
+        "hex_value": "#9C8C08"
+      },
+      {
+        "display_name": "Medium Bronze Pearl",
+        "paint_code": "57763O-S/F9247K",
+        "slug": "medium-bronze-pearl-57763o-sf9247k",
+        "reference_url": "https://www.paintscratch.com/colors/coachmen-rv/medium-bronze-pearl-57763o-sf9247k/",
+        "source_label": "PaintScratch 2004 Coachmen-RV",
+        "hex_value": "#C57E3F"
+      },
+      {
+        "display_name": "Gold Beige Metallic",
+        "paint_code": "MB-47134/B9349K",
+        "slug": "gold-beige-metallic-mb-47134b9349k",
+        "reference_url": "https://www.paintscratch.com/colors/coachmen-rv/gold-beige-metallic-mb-47134b9349k/",
+        "source_label": "PaintScratch 2004 Coachmen-RV",
+        "hex_value": "#E3BD25"
+      },
+      {
+        "display_name": "Medium Suede",
+        "paint_code": "WA106D",
+        "slug": "medium-suede-wa106d",
+        "reference_url": "https://www.paintscratch.com/colors/coachmen-rv/medium-suede-wa106d/",
+        "source_label": "PaintScratch 2004 Coachmen-RV",
+        "hex_value": "#C57E3F"
+      },
+      {
+        "display_name": "Beige",
+        "paint_code": "WA235A",
+        "slug": "beige-wa235a",
+        "reference_url": "https://www.paintscratch.com/colors/coachmen-rv/beige-wa235a/",
+        "source_label": "PaintScratch 2004 Coachmen-RV",
+        "hex_value": "#E9D9A1"
+      },
+      {
+        "display_name": "Medium Gray",
+        "paint_code": "WA382E",
+        "slug": "medium-gray-wa382e",
+        "reference_url": "https://www.paintscratch.com/colors/coachmen-rv/medium-gray-wa382e/",
+        "source_label": "PaintScratch 2004 Coachmen-RV",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Brown",
+        "paint_code": "WA5322",
+        "slug": "brown-wa5322",
+        "reference_url": "https://www.paintscratch.com/colors/coachmen-rv/brown-wa5322/",
+        "source_label": "PaintScratch 2004 Coachmen-RV",
+        "hex_value": "#C57E3F"
+      }
+    ],
+    "2005": [
+      {
+        "display_name": "Light Antelope Beige Metallic",
+        "paint_code": "18005",
+        "slug": "light-antelope-beige-metallic-18005",
+        "reference_url": "https://www.paintscratch.com/colors/coachmen-rv/light-antelope-beige-metallic-18005/",
+        "source_label": "PaintScratch 2005 Coachmen-RV",
+        "hex_value": "#DAD1C4"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "TS40888",
+        "slug": "black-ts40888",
+        "reference_url": "https://www.paintscratch.com/colors/coachmen-rv/black-ts40888/",
+        "source_label": "PaintScratch 2005 Coachmen-RV",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Medium Gold Metallic",
+        "paint_code": "WA157E",
+        "slug": "medium-gold-metallic-wa157e",
+        "reference_url": "https://www.paintscratch.com/colors/coachmen-rv/medium-gold-metallic-wa157e/",
+        "source_label": "PaintScratch 2005 Coachmen-RV",
+        "hex_value": "#E3BD25"
+      },
+      {
+        "display_name": "Dark Brown",
+        "paint_code": "WA228A",
+        "slug": "dark-brown-wa228a",
+        "reference_url": "https://www.paintscratch.com/colors/coachmen-rv/dark-brown-wa228a/",
+        "source_label": "PaintScratch 2005 Coachmen-RV",
+        "hex_value": "#985636"
+      },
+      {
+        "display_name": "Black Metallic",
+        "paint_code": "WA984A",
+        "slug": "black-metallic-wa984a",
+        "reference_url": "https://www.paintscratch.com/colors/coachmen-rv/black-metallic-wa984a/",
+        "source_label": "PaintScratch 2005 Coachmen-RV",
+        "hex_value": "#000000"
+      }
+    ],
+    "2006": [
+      {
+        "display_name": "Light Antelope Beige Metallic",
+        "paint_code": "18005",
+        "slug": "light-antelope-beige-metallic-18005",
+        "reference_url": "https://www.paintscratch.com/colors/coachmen-rv/light-antelope-beige-metallic-18005/",
+        "source_label": "PaintScratch 2006 Coachmen-RV",
+        "hex_value": "#DAD1C4"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "TS40888",
+        "slug": "black-ts40888",
+        "reference_url": "https://www.paintscratch.com/colors/coachmen-rv/black-ts40888/",
+        "source_label": "PaintScratch 2006 Coachmen-RV",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Dark Beige",
+        "paint_code": "5517",
+        "slug": "dark-beige-5517",
+        "reference_url": "https://www.paintscratch.com/colors/coachmen-rv/dark-beige-5517/",
+        "source_label": "PaintScratch 2006 Coachmen-RV",
+        "hex_value": "#9C8C08"
+      },
+      {
+        "display_name": "Maroon",
+        "paint_code": "51523",
+        "slug": "maroon-51523",
+        "reference_url": "https://www.paintscratch.com/colors/coachmen-rv/maroon-51523/",
+        "source_label": "PaintScratch 2006 Coachmen-RV",
+        "hex_value": "#761C1A"
+      },
+      {
+        "display_name": "Light Beige",
+        "paint_code": "SW56237",
+        "slug": "light-beige-sw56237",
+        "reference_url": "https://www.paintscratch.com/colors/coachmen-rv/light-beige-sw56237/",
+        "source_label": "PaintScratch 2006 Coachmen-RV",
+        "hex_value": "#E7DFC5"
+      },
+      {
+        "display_name": "Beige",
+        "paint_code": "SW57338",
+        "slug": "beige-sw57338",
+        "reference_url": "https://www.paintscratch.com/colors/coachmen-rv/beige-sw57338/",
+        "source_label": "PaintScratch 2006 Coachmen-RV",
+        "hex_value": "#E9D9A1"
+      }
+    ],
+    "2007": [
+      {
+        "display_name": "Light Antelope Beige Metallic",
+        "paint_code": "18005",
+        "slug": "light-antelope-beige-metallic-18005",
+        "reference_url": "https://www.paintscratch.com/colors/coachmen-rv/light-antelope-beige-metallic-18005/",
+        "source_label": "PaintScratch 2007 Coachmen-RV",
+        "hex_value": "#DAD1C4"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "TS40888",
+        "slug": "black-ts40888",
+        "reference_url": "https://www.paintscratch.com/colors/coachmen-rv/black-ts40888/",
+        "source_label": "PaintScratch 2007 Coachmen-RV",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Viper Red",
+        "paint_code": "PRN 45963",
+        "slug": "viper-red-prn-45963",
+        "reference_url": "https://www.paintscratch.com/colors/coachmen-rv/viper-red-prn-45963/",
+        "source_label": "PaintScratch 2007 Coachmen-RV",
+        "hex_value": "#F31515"
+      }
+    ],
+    "2008": [
+      {
+        "display_name": "Light Antelope Beige Metallic",
+        "paint_code": "18005",
+        "slug": "light-antelope-beige-metallic-18005",
+        "reference_url": "https://www.paintscratch.com/colors/coachmen-rv/light-antelope-beige-metallic-18005/",
+        "source_label": "PaintScratch 2008 Coachmen-RV",
+        "hex_value": "#DAD1C4"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "TS40888",
+        "slug": "black-ts40888",
+        "reference_url": "https://www.paintscratch.com/colors/coachmen-rv/black-ts40888/",
+        "source_label": "PaintScratch 2008 Coachmen-RV",
+        "hex_value": "#000000"
+      }
+    ],
+    "2009": [
+      {
+        "display_name": "Light Antelope Beige Metallic",
+        "paint_code": "18005",
+        "slug": "light-antelope-beige-metallic-18005",
+        "reference_url": "https://www.paintscratch.com/colors/coachmen-rv/light-antelope-beige-metallic-18005/",
+        "source_label": "PaintScratch 2009 Coachmen-RV",
+        "hex_value": "#DAD1C4"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "TS40888",
+        "slug": "black-ts40888",
+        "reference_url": "https://www.paintscratch.com/colors/coachmen-rv/black-ts40888/",
+        "source_label": "PaintScratch 2009 Coachmen-RV",
+        "hex_value": "#000000"
+      }
+    ],
+    "2010": [
+      {
+        "display_name": "Light Antelope Beige Metallic",
+        "paint_code": "18005",
+        "slug": "light-antelope-beige-metallic-18005",
+        "reference_url": "https://www.paintscratch.com/colors/coachmen-rv/light-antelope-beige-metallic-18005/",
+        "source_label": "PaintScratch 2010 Coachmen-RV",
+        "hex_value": "#DAD1C4"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "TS40888",
+        "slug": "black-ts40888",
+        "reference_url": "https://www.paintscratch.com/colors/coachmen-rv/black-ts40888/",
+        "source_label": "PaintScratch 2010 Coachmen-RV",
+        "hex_value": "#000000"
+      }
+    ],
+    "2011": [
+      {
+        "display_name": "Light Antelope Beige Metallic",
+        "paint_code": "18005",
+        "slug": "light-antelope-beige-metallic-18005",
+        "reference_url": "https://www.paintscratch.com/colors/coachmen-rv/light-antelope-beige-metallic-18005/",
+        "source_label": "PaintScratch 2011 Coachmen-RV",
+        "hex_value": "#DAD1C4"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "TS40888",
+        "slug": "black-ts40888",
+        "reference_url": "https://www.paintscratch.com/colors/coachmen-rv/black-ts40888/",
+        "source_label": "PaintScratch 2011 Coachmen-RV",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Green Gold",
+        "paint_code": "WA529F",
+        "slug": "green-gold-wa529f",
+        "reference_url": "https://www.paintscratch.com/colors/coachmen-rv/green-gold-wa529f/",
+        "source_label": "PaintScratch 2011 Coachmen-RV",
+        "hex_value": "#9C8C08"
+      }
+    ],
+    "2012": [
+      {
+        "display_name": "Light Antelope Beige Metallic",
+        "paint_code": "18005",
+        "slug": "light-antelope-beige-metallic-18005",
+        "reference_url": "https://www.paintscratch.com/colors/coachmen-rv/light-antelope-beige-metallic-18005/",
+        "source_label": "PaintScratch 2012 Coachmen-RV",
+        "hex_value": "#DAD1C4"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "TS40888",
+        "slug": "black-ts40888",
+        "reference_url": "https://www.paintscratch.com/colors/coachmen-rv/black-ts40888/",
+        "source_label": "PaintScratch 2012 Coachmen-RV",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Dark Beige",
+        "paint_code": "WA674F",
+        "slug": "dark-beige-wa674f",
+        "reference_url": "https://www.paintscratch.com/colors/coachmen-rv/dark-beige-wa674f/",
+        "source_label": "PaintScratch 2012 Coachmen-RV",
+        "hex_value": "#E9D9A1"
+      },
+      {
+        "display_name": "Black Metallic",
+        "paint_code": "WA984A",
+        "slug": "black-metallic-wa984a",
+        "reference_url": "https://www.paintscratch.com/colors/coachmen-rv/black-metallic-wa984a/",
+        "source_label": "PaintScratch 2012 Coachmen-RV",
+        "hex_value": "#000000"
+      }
+    ],
+    "2013": [
+      {
+        "display_name": "Light Antelope Beige Metallic",
+        "paint_code": "18005",
+        "slug": "light-antelope-beige-metallic-18005",
+        "reference_url": "https://www.paintscratch.com/colors/coachmen-rv/light-antelope-beige-metallic-18005/",
+        "source_label": "PaintScratch 2013 Coachmen-RV",
+        "hex_value": "#DAD1C4"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "TS40888",
+        "slug": "black-ts40888",
+        "reference_url": "https://www.paintscratch.com/colors/coachmen-rv/black-ts40888/",
+        "source_label": "PaintScratch 2013 Coachmen-RV",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Ivory",
+        "paint_code": "WA164D",
+        "slug": "ivory-wa164d",
+        "reference_url": "https://www.paintscratch.com/colors/coachmen-rv/ivory-wa164d/",
+        "source_label": "PaintScratch 2013 Coachmen-RV",
+        "hex_value": "#FFFFFF"
+      }
+    ],
+    "2014": [
+      {
+        "display_name": "Light Antelope Beige Metallic",
+        "paint_code": "18005",
+        "slug": "light-antelope-beige-metallic-18005",
+        "reference_url": "https://www.paintscratch.com/colors/coachmen-rv/light-antelope-beige-metallic-18005/",
+        "source_label": "PaintScratch 2014 Coachmen-RV",
+        "hex_value": "#DAD1C4"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "TS40888",
+        "slug": "black-ts40888",
+        "reference_url": "https://www.paintscratch.com/colors/coachmen-rv/black-ts40888/",
+        "source_label": "PaintScratch 2014 Coachmen-RV",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Dark Brown",
+        "paint_code": "W8",
+        "slug": "dark-brown-w8",
+        "reference_url": "https://www.paintscratch.com/colors/coachmen-rv/dark-brown-w8/",
+        "source_label": "PaintScratch 2014 Coachmen-RV",
+        "hex_value": "#985636"
+      }
+    ],
+    "2015": [
+      {
+        "display_name": "Light Antelope Beige Metallic",
+        "paint_code": "18005",
+        "slug": "light-antelope-beige-metallic-18005",
+        "reference_url": "https://www.paintscratch.com/colors/coachmen-rv/light-antelope-beige-metallic-18005/",
+        "source_label": "PaintScratch 2015 Coachmen-RV",
+        "hex_value": "#DAD1C4"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "TS40888",
+        "slug": "black-ts40888",
+        "reference_url": "https://www.paintscratch.com/colors/coachmen-rv/black-ts40888/",
+        "source_label": "PaintScratch 2015 Coachmen-RV",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Light Beige",
+        "paint_code": "U8624",
+        "slug": "light-beige-u8624",
+        "reference_url": "https://www.paintscratch.com/colors/coachmen-rv/light-beige-u8624/",
+        "source_label": "PaintScratch 2015 Coachmen-RV",
+        "hex_value": "#E7DFC5"
+      },
+      {
+        "display_name": "Dark Torradour",
+        "paint_code": "M6982",
+        "slug": "dark-torradour-m6982",
+        "reference_url": "https://www.paintscratch.com/colors/coachmen-rv/dark-torradour-m6982/",
+        "source_label": "PaintScratch 2015 Coachmen-RV",
+        "hex_value": "#761C1A"
+      }
+    ],
+    "2016": [
+      {
+        "display_name": "Light Antelope Beige Metallic",
+        "paint_code": "18005",
+        "slug": "light-antelope-beige-metallic-18005",
+        "reference_url": "https://www.paintscratch.com/colors/coachmen-rv/light-antelope-beige-metallic-18005/",
+        "source_label": "PaintScratch 2016 Coachmen-RV",
+        "hex_value": "#DAD1C4"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "TS40888",
+        "slug": "black-ts40888",
+        "reference_url": "https://www.paintscratch.com/colors/coachmen-rv/black-ts40888/",
+        "source_label": "PaintScratch 2016 Coachmen-RV",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Maroon",
+        "paint_code": "3N6",
+        "slug": "maroon-3n6",
+        "reference_url": "https://www.paintscratch.com/colors/coachmen-rv/maroon-3n6/",
+        "source_label": "PaintScratch 2016 Coachmen-RV",
+        "hex_value": "#761C1A"
+      },
+      {
+        "display_name": "Dark Toreadour",
+        "paint_code": "WA334D",
+        "slug": "dark-toreadour-wa334d",
+        "reference_url": "https://www.paintscratch.com/colors/coachmen-rv/dark-toreadour-wa334d/",
+        "source_label": "PaintScratch 2016 Coachmen-RV",
+        "hex_value": "#4A1A16"
+      }
+    ],
+    "2017": [
+      {
+        "display_name": "Light Antelope Beige Metallic",
+        "paint_code": "18005",
+        "slug": "light-antelope-beige-metallic-18005",
+        "reference_url": "https://www.paintscratch.com/colors/coachmen-rv/light-antelope-beige-metallic-18005/",
+        "source_label": "PaintScratch 2017 Coachmen-RV",
+        "hex_value": "#DAD1C4"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "TS40888",
+        "slug": "black-ts40888",
+        "reference_url": "https://www.paintscratch.com/colors/coachmen-rv/black-ts40888/",
+        "source_label": "PaintScratch 2017 Coachmen-RV",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Light Beige",
+        "paint_code": "391954",
+        "slug": "light-beige-391954",
+        "reference_url": "https://www.paintscratch.com/colors/coachmen-rv/light-beige-391954/",
+        "source_label": "PaintScratch 2017 Coachmen-RV",
+        "hex_value": "#E7DFC5"
+      }
+    ],
+    "2018": [
+      {
+        "display_name": "Light Antelope Beige Metallic",
+        "paint_code": "18005",
+        "slug": "light-antelope-beige-metallic-18005",
+        "reference_url": "https://www.paintscratch.com/colors/coachmen-rv/light-antelope-beige-metallic-18005/",
+        "source_label": "PaintScratch 2018 Coachmen-RV",
+        "hex_value": "#DAD1C4"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "TS40888",
+        "slug": "black-ts40888",
+        "reference_url": "https://www.paintscratch.com/colors/coachmen-rv/black-ts40888/",
+        "source_label": "PaintScratch 2018 Coachmen-RV",
+        "hex_value": "#000000"
+      }
+    ],
+    "2019": [
+      {
+        "display_name": "Light Antelope Beige Metallic",
+        "paint_code": "18005",
+        "slug": "light-antelope-beige-metallic-18005",
+        "reference_url": "https://www.paintscratch.com/colors/coachmen-rv/light-antelope-beige-metallic-18005/",
+        "source_label": "PaintScratch 2019 Coachmen-RV",
+        "hex_value": "#DAD1C4"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "TS40888",
+        "slug": "black-ts40888",
+        "reference_url": "https://www.paintscratch.com/colors/coachmen-rv/black-ts40888/",
+        "source_label": "PaintScratch 2019 Coachmen-RV",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Maroon",
+        "paint_code": "3N6",
+        "slug": "maroon-3n6",
+        "reference_url": "https://www.paintscratch.com/colors/coachmen-rv/maroon-3n6/",
+        "source_label": "PaintScratch 2019 Coachmen-RV",
+        "hex_value": "#761C1A"
+      }
+    ],
+    "2020": [
+      {
+        "display_name": "Light Antelope Beige Metallic",
+        "paint_code": "18005",
+        "slug": "light-antelope-beige-metallic-18005",
+        "reference_url": "https://www.paintscratch.com/colors/coachmen-rv/light-antelope-beige-metallic-18005/",
+        "source_label": "PaintScratch 2020 Coachmen-RV",
+        "hex_value": "#DAD1C4"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "TS40888",
+        "slug": "black-ts40888",
+        "reference_url": "https://www.paintscratch.com/colors/coachmen-rv/black-ts40888/",
+        "source_label": "PaintScratch 2020 Coachmen-RV",
+        "hex_value": "#000000"
+      }
+    ],
+    "2021": [
+      {
+        "display_name": "Light Antelope Beige Metallic",
+        "paint_code": "18005",
+        "slug": "light-antelope-beige-metallic-18005",
+        "reference_url": "https://www.paintscratch.com/colors/coachmen-rv/light-antelope-beige-metallic-18005/",
+        "source_label": "PaintScratch 2021 Coachmen-RV",
+        "hex_value": "#DAD1C4"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "TS40888",
+        "slug": "black-ts40888",
+        "reference_url": "https://www.paintscratch.com/colors/coachmen-rv/black-ts40888/",
+        "source_label": "PaintScratch 2021 Coachmen-RV",
+        "hex_value": "#000000"
+      }
+    ],
+    "2022": [
+      {
+        "display_name": "Light Antelope Beige Metallic",
+        "paint_code": "18005",
+        "slug": "light-antelope-beige-metallic-18005",
+        "reference_url": "https://www.paintscratch.com/colors/coachmen-rv/light-antelope-beige-metallic-18005/",
+        "source_label": "PaintScratch 2022 Coachmen-RV",
+        "hex_value": "#DAD1C4"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "TS40888",
+        "slug": "black-ts40888",
+        "reference_url": "https://www.paintscratch.com/colors/coachmen-rv/black-ts40888/",
+        "source_label": "PaintScratch 2022 Coachmen-RV",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Medium Gold Metallic",
+        "paint_code": "WA157E",
+        "slug": "medium-gold-metallic-wa157e",
+        "reference_url": "https://www.paintscratch.com/colors/coachmen-rv/medium-gold-metallic-wa157e/",
+        "source_label": "PaintScratch 2022 Coachmen-RV",
+        "hex_value": "#E3BD25"
+      },
+      {
+        "display_name": "White",
+        "paint_code": "YZ",
+        "slug": "white-yz",
+        "reference_url": "https://www.paintscratch.com/colors/coachmen-rv/white-yz/",
+        "source_label": "PaintScratch 2022 Coachmen-RV",
+        "hex_value": "#FFFFFF"
+      }
+    ],
+    "2023": [
+      {
+        "display_name": "Light Antelope Beige Metallic",
+        "paint_code": "18005",
+        "slug": "light-antelope-beige-metallic-18005",
+        "reference_url": "https://www.paintscratch.com/colors/coachmen-rv/light-antelope-beige-metallic-18005/",
+        "source_label": "PaintScratch 2023 Coachmen-RV",
+        "hex_value": "#DAD1C4"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "TS40888",
+        "slug": "black-ts40888",
+        "reference_url": "https://www.paintscratch.com/colors/coachmen-rv/black-ts40888/",
+        "source_label": "PaintScratch 2023 Coachmen-RV",
+        "hex_value": "#000000"
+      }
+    ],
+    "2024": [
+      {
+        "display_name": "Light Antelope Beige Metallic",
+        "paint_code": "18005",
+        "slug": "light-antelope-beige-metallic-18005",
+        "reference_url": "https://www.paintscratch.com/colors/coachmen-rv/light-antelope-beige-metallic-18005/",
+        "source_label": "PaintScratch 2024 Coachmen-RV",
+        "hex_value": "#DAD1C4"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "TS40888",
+        "slug": "black-ts40888",
+        "reference_url": "https://www.paintscratch.com/colors/coachmen-rv/black-ts40888/",
+        "source_label": "PaintScratch 2024 Coachmen-RV",
+        "hex_value": "#000000"
+      }
+    ],
+    "2025": [
+      {
+        "display_name": "Light Antelope Beige Metallic",
+        "paint_code": "18005",
+        "slug": "light-antelope-beige-metallic-18005",
+        "reference_url": "https://www.paintscratch.com/colors/coachmen-rv/light-antelope-beige-metallic-18005/",
+        "source_label": "PaintScratch 2025 Coachmen-RV",
+        "hex_value": "#DAD1C4"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "TS40888",
+        "slug": "black-ts40888",
+        "reference_url": "https://www.paintscratch.com/colors/coachmen-rv/black-ts40888/",
+        "source_label": "PaintScratch 2025 Coachmen-RV",
+        "hex_value": "#000000"
+      }
+    ],
+    "2026": [
+      {
+        "display_name": "Light Antelope Beige Metallic",
+        "paint_code": "18005",
+        "slug": "light-antelope-beige-metallic-18005",
+        "reference_url": "https://www.paintscratch.com/colors/coachmen-rv/light-antelope-beige-metallic-18005/",
+        "source_label": "PaintScratch 2026 Coachmen-RV",
+        "hex_value": "#DAD1C4"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "TS40888",
+        "slug": "black-ts40888",
+        "reference_url": "https://www.paintscratch.com/colors/coachmen-rv/black-ts40888/",
+        "source_label": "PaintScratch 2026 Coachmen-RV",
+        "hex_value": "#000000"
+      }
+    ],
+    "2027": [
+      {
+        "display_name": "Light Antelope Beige Metallic",
+        "paint_code": "18005",
+        "slug": "light-antelope-beige-metallic-18005",
+        "reference_url": "https://www.paintscratch.com/colors/coachmen-rv/light-antelope-beige-metallic-18005/",
+        "source_label": "PaintScratch 2027 Coachmen-RV",
+        "hex_value": "#DAD1C4"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "TS40888",
+        "slug": "black-ts40888",
+        "reference_url": "https://www.paintscratch.com/colors/coachmen-rv/black-ts40888/",
+        "source_label": "PaintScratch 2027 Coachmen-RV",
+        "hex_value": "#000000"
+      }
+    ]
+  }
+}

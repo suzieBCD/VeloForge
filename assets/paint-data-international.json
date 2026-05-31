@@ -1,0 +1,808 @@
+{
+  "All Models": {
+    "1966": [
+      {
+        "display_name": "Beige",
+        "paint_code": "22770",
+        "slug": "beige-22770",
+        "reference_url": "https://www.paintscratch.com/colors/international/beige-22770/",
+        "source_label": "PaintScratch 1966 International",
+        "hex_value": "#E9D9A1"
+      }
+    ],
+    "1967": [
+      {
+        "display_name": "Beige",
+        "paint_code": "22770",
+        "slug": "beige-22770",
+        "reference_url": "https://www.paintscratch.com/colors/international/beige-22770/",
+        "source_label": "PaintScratch 1967 International",
+        "hex_value": "#E9D9A1"
+      }
+    ],
+    "1968": [
+      {
+        "display_name": "Beige",
+        "paint_code": "22770",
+        "slug": "beige-22770",
+        "reference_url": "https://www.paintscratch.com/colors/international/beige-22770/",
+        "source_label": "PaintScratch 1968 International",
+        "hex_value": "#E9D9A1"
+      }
+    ],
+    "1969": [
+      {
+        "display_name": "Olive",
+        "paint_code": "5857",
+        "slug": "olive-5857",
+        "reference_url": "https://www.paintscratch.com/colors/international/olive-5857/",
+        "source_label": "PaintScratch 1969 International",
+        "hex_value": "#9CB860"
+      },
+      {
+        "display_name": "Beige",
+        "paint_code": "22770",
+        "slug": "beige-22770",
+        "reference_url": "https://www.paintscratch.com/colors/international/beige-22770/",
+        "source_label": "PaintScratch 1969 International",
+        "hex_value": "#E9D9A1"
+      }
+    ],
+    "1970": [
+      {
+        "display_name": "Beige",
+        "paint_code": "22770",
+        "slug": "beige-22770",
+        "reference_url": "https://www.paintscratch.com/colors/international/beige-22770/",
+        "source_label": "PaintScratch 1970 International",
+        "hex_value": "#E9D9A1"
+      }
+    ],
+    "1971": [
+      {
+        "display_name": "Natural-PPG82852",
+        "paint_code": "4385",
+        "slug": "natural-ppg82852-4385",
+        "reference_url": "https://www.paintscratch.com/colors/international/natural-ppg82852-4385/",
+        "source_label": "PaintScratch 1971 International",
+        "hex_value": "#FEF6AE"
+      },
+      {
+        "display_name": "Beige",
+        "paint_code": "22770",
+        "slug": "beige-22770",
+        "reference_url": "https://www.paintscratch.com/colors/international/beige-22770/",
+        "source_label": "PaintScratch 1971 International",
+        "hex_value": "#E9D9A1"
+      }
+    ],
+    "1972": [
+      {
+        "display_name": "Beige",
+        "paint_code": "22770",
+        "slug": "beige-22770",
+        "reference_url": "https://www.paintscratch.com/colors/international/beige-22770/",
+        "source_label": "PaintScratch 1972 International",
+        "hex_value": "#E9D9A1"
+      }
+    ],
+    "1973": [
+      {
+        "display_name": "Beige",
+        "paint_code": "22770",
+        "slug": "beige-22770",
+        "reference_url": "https://www.paintscratch.com/colors/international/beige-22770/",
+        "source_label": "PaintScratch 1973 International",
+        "hex_value": "#E9D9A1"
+      }
+    ],
+    "1974": [
+      {
+        "display_name": "Beige",
+        "paint_code": "22770",
+        "slug": "beige-22770",
+        "reference_url": "https://www.paintscratch.com/colors/international/beige-22770/",
+        "source_label": "PaintScratch 1974 International",
+        "hex_value": "#E9D9A1"
+      }
+    ],
+    "1975": [
+      {
+        "display_name": "Beige",
+        "paint_code": "22770",
+        "slug": "beige-22770",
+        "reference_url": "https://www.paintscratch.com/colors/international/beige-22770/",
+        "source_label": "PaintScratch 1975 International",
+        "hex_value": "#E9D9A1"
+      }
+    ],
+    "1976": [
+      {
+        "display_name": "Yellow (Catalyzed Spray Can Only)",
+        "paint_code": "4410",
+        "slug": "yellow-catalyzed-spray-can-only-4410",
+        "reference_url": "https://www.paintscratch.com/colors/international/yellow-catalyzed-spray-can-only-4410/",
+        "source_label": "PaintScratch 1976 International",
+        "hex_value": "#FFDE01"
+      },
+      {
+        "display_name": "Pewter",
+        "paint_code": "8539",
+        "slug": "pewter-8539",
+        "reference_url": "https://www.paintscratch.com/colors/international/pewter-8539/",
+        "source_label": "PaintScratch 1976 International",
+        "hex_value": "#404040"
+      },
+      {
+        "display_name": "Beige",
+        "paint_code": "22770",
+        "slug": "beige-22770",
+        "reference_url": "https://www.paintscratch.com/colors/international/beige-22770/",
+        "source_label": "PaintScratch 1976 International",
+        "hex_value": "#E9D9A1"
+      },
+      {
+        "display_name": "Glacier Blue",
+        "paint_code": "PPG 14527",
+        "slug": "glacier-blue-ppg-14527",
+        "reference_url": "https://www.paintscratch.com/colors/international/glacier-blue-ppg-14527/",
+        "source_label": "PaintScratch 1976 International",
+        "hex_value": "#597DF3"
+      }
+    ],
+    "1977": [
+      {
+        "display_name": "Glennoble Green",
+        "paint_code": "5888",
+        "slug": "glennoble-green-5888",
+        "reference_url": "https://www.paintscratch.com/colors/international/glennoble-green-5888/",
+        "source_label": "PaintScratch 1977 International",
+        "hex_value": "#9CB860"
+      },
+      {
+        "display_name": "Beige",
+        "paint_code": "22770",
+        "slug": "beige-22770",
+        "reference_url": "https://www.paintscratch.com/colors/international/beige-22770/",
+        "source_label": "PaintScratch 1977 International",
+        "hex_value": "#E9D9A1"
+      }
+    ],
+    "1978": [
+      {
+        "display_name": "Beige",
+        "paint_code": "22770",
+        "slug": "beige-22770",
+        "reference_url": "https://www.paintscratch.com/colors/international/beige-22770/",
+        "source_label": "PaintScratch 1978 International",
+        "hex_value": "#E9D9A1"
+      }
+    ],
+    "1979": [
+      {
+        "display_name": "Beige",
+        "paint_code": "22770",
+        "slug": "beige-22770",
+        "reference_url": "https://www.paintscratch.com/colors/international/beige-22770/",
+        "source_label": "PaintScratch 1979 International",
+        "hex_value": "#E9D9A1"
+      },
+      {
+        "display_name": "White",
+        "paint_code": "90138",
+        "slug": "white-90138",
+        "reference_url": "https://www.paintscratch.com/colors/international/white-90138/",
+        "source_label": "PaintScratch 1979 International",
+        "hex_value": "#FFFFFF"
+      }
+    ],
+    "1980": [
+      {
+        "display_name": "Beige",
+        "paint_code": "22770",
+        "slug": "beige-22770",
+        "reference_url": "https://www.paintscratch.com/colors/international/beige-22770/",
+        "source_label": "PaintScratch 1980 International",
+        "hex_value": "#E9D9A1"
+      }
+    ],
+    "1981": [
+      {
+        "display_name": "Beige",
+        "paint_code": "22770",
+        "slug": "beige-22770",
+        "reference_url": "https://www.paintscratch.com/colors/international/beige-22770/",
+        "source_label": "PaintScratch 1981 International",
+        "hex_value": "#E9D9A1"
+      }
+    ],
+    "1982": [
+      {
+        "display_name": "Beige",
+        "paint_code": "22770",
+        "slug": "beige-22770",
+        "reference_url": "https://www.paintscratch.com/colors/international/beige-22770/",
+        "source_label": "PaintScratch 1982 International",
+        "hex_value": "#E9D9A1"
+      }
+    ],
+    "1983": [
+      {
+        "display_name": "Beige",
+        "paint_code": "22770",
+        "slug": "beige-22770",
+        "reference_url": "https://www.paintscratch.com/colors/international/beige-22770/",
+        "source_label": "PaintScratch 1983 International",
+        "hex_value": "#E9D9A1"
+      }
+    ],
+    "1984": [
+      {
+        "display_name": "Beige",
+        "paint_code": "22770",
+        "slug": "beige-22770",
+        "reference_url": "https://www.paintscratch.com/colors/international/beige-22770/",
+        "source_label": "PaintScratch 1984 International",
+        "hex_value": "#E9D9A1"
+      }
+    ],
+    "1985": [
+      {
+        "display_name": "Beige",
+        "paint_code": "22770",
+        "slug": "beige-22770",
+        "reference_url": "https://www.paintscratch.com/colors/international/beige-22770/",
+        "source_label": "PaintScratch 1985 International",
+        "hex_value": "#E9D9A1"
+      }
+    ],
+    "1986": [
+      {
+        "display_name": "Beige",
+        "paint_code": "22770",
+        "slug": "beige-22770",
+        "reference_url": "https://www.paintscratch.com/colors/international/beige-22770/",
+        "source_label": "PaintScratch 1986 International",
+        "hex_value": "#E9D9A1"
+      }
+    ],
+    "1987": [
+      {
+        "display_name": "Beige",
+        "paint_code": "22770",
+        "slug": "beige-22770",
+        "reference_url": "https://www.paintscratch.com/colors/international/beige-22770/",
+        "source_label": "PaintScratch 1987 International",
+        "hex_value": "#E9D9A1"
+      }
+    ],
+    "1988": [
+      {
+        "display_name": "Beige",
+        "paint_code": "22770",
+        "slug": "beige-22770",
+        "reference_url": "https://www.paintscratch.com/colors/international/beige-22770/",
+        "source_label": "PaintScratch 1988 International",
+        "hex_value": "#E9D9A1"
+      }
+    ],
+    "1989": [
+      {
+        "display_name": "Beige",
+        "paint_code": "22770",
+        "slug": "beige-22770",
+        "reference_url": "https://www.paintscratch.com/colors/international/beige-22770/",
+        "source_label": "PaintScratch 1989 International",
+        "hex_value": "#E9D9A1"
+      }
+    ],
+    "1990": [
+      {
+        "display_name": "Beige",
+        "paint_code": "22770",
+        "slug": "beige-22770",
+        "reference_url": "https://www.paintscratch.com/colors/international/beige-22770/",
+        "source_label": "PaintScratch 1990 International",
+        "hex_value": "#E9D9A1"
+      }
+    ],
+    "1991": [
+      {
+        "display_name": "Beige",
+        "paint_code": "22770",
+        "slug": "beige-22770",
+        "reference_url": "https://www.paintscratch.com/colors/international/beige-22770/",
+        "source_label": "PaintScratch 1991 International",
+        "hex_value": "#E9D9A1"
+      }
+    ],
+    "1992": [
+      {
+        "display_name": "Beige",
+        "paint_code": "22770",
+        "slug": "beige-22770",
+        "reference_url": "https://www.paintscratch.com/colors/international/beige-22770/",
+        "source_label": "PaintScratch 1992 International",
+        "hex_value": "#E9D9A1"
+      }
+    ],
+    "1993": [
+      {
+        "display_name": "Beige",
+        "paint_code": "22770",
+        "slug": "beige-22770",
+        "reference_url": "https://www.paintscratch.com/colors/international/beige-22770/",
+        "source_label": "PaintScratch 1993 International",
+        "hex_value": "#E9D9A1"
+      }
+    ],
+    "1994": [
+      {
+        "display_name": "Beige",
+        "paint_code": "22770",
+        "slug": "beige-22770",
+        "reference_url": "https://www.paintscratch.com/colors/international/beige-22770/",
+        "source_label": "PaintScratch 1994 International",
+        "hex_value": "#E9D9A1"
+      }
+    ],
+    "1995": [
+      {
+        "display_name": "Beige",
+        "paint_code": "22770",
+        "slug": "beige-22770",
+        "reference_url": "https://www.paintscratch.com/colors/international/beige-22770/",
+        "source_label": "PaintScratch 1995 International",
+        "hex_value": "#E9D9A1"
+      }
+    ],
+    "1996": [
+      {
+        "display_name": "Medium Aqua",
+        "paint_code": "6F67",
+        "slug": "medium-aqua-6f67",
+        "reference_url": "https://www.paintscratch.com/colors/international/medium-aqua-6f67/",
+        "source_label": "PaintScratch 1996 International",
+        "hex_value": "#468D8E"
+      },
+      {
+        "display_name": "Beige",
+        "paint_code": "22770",
+        "slug": "beige-22770",
+        "reference_url": "https://www.paintscratch.com/colors/international/beige-22770/",
+        "source_label": "PaintScratch 1996 International",
+        "hex_value": "#E9D9A1"
+      }
+    ],
+    "1997": [
+      {
+        "display_name": "Beige",
+        "paint_code": "22770",
+        "slug": "beige-22770",
+        "reference_url": "https://www.paintscratch.com/colors/international/beige-22770/",
+        "source_label": "PaintScratch 1997 International",
+        "hex_value": "#E9D9A1"
+      }
+    ],
+    "1998": [
+      {
+        "display_name": "Beige",
+        "paint_code": "22770",
+        "slug": "beige-22770",
+        "reference_url": "https://www.paintscratch.com/colors/international/beige-22770/",
+        "source_label": "PaintScratch 1998 International",
+        "hex_value": "#E9D9A1"
+      }
+    ],
+    "1999": [
+      {
+        "display_name": "Beige",
+        "paint_code": "22770",
+        "slug": "beige-22770",
+        "reference_url": "https://www.paintscratch.com/colors/international/beige-22770/",
+        "source_label": "PaintScratch 1999 International",
+        "hex_value": "#E9D9A1"
+      }
+    ],
+    "2000": [
+      {
+        "display_name": "Beige",
+        "paint_code": "22770",
+        "slug": "beige-22770",
+        "reference_url": "https://www.paintscratch.com/colors/international/beige-22770/",
+        "source_label": "PaintScratch 2000 International",
+        "hex_value": "#E9D9A1"
+      }
+    ],
+    "2001": [
+      {
+        "display_name": "Beige",
+        "paint_code": "22770",
+        "slug": "beige-22770",
+        "reference_url": "https://www.paintscratch.com/colors/international/beige-22770/",
+        "source_label": "PaintScratch 2001 International",
+        "hex_value": "#E9D9A1"
+      }
+    ],
+    "2002": [
+      {
+        "display_name": "Medium Blue",
+        "paint_code": "6E12",
+        "slug": "medium-blue-6e12",
+        "reference_url": "https://www.paintscratch.com/colors/international/medium-blue-6e12/",
+        "source_label": "PaintScratch 2002 International",
+        "hex_value": "#0D2D97"
+      },
+      {
+        "display_name": "Beige",
+        "paint_code": "22770",
+        "slug": "beige-22770",
+        "reference_url": "https://www.paintscratch.com/colors/international/beige-22770/",
+        "source_label": "PaintScratch 2002 International",
+        "hex_value": "#E9D9A1"
+      }
+    ],
+    "2003": [
+      {
+        "display_name": "Beige",
+        "paint_code": "22770",
+        "slug": "beige-22770",
+        "reference_url": "https://www.paintscratch.com/colors/international/beige-22770/",
+        "source_label": "PaintScratch 2003 International",
+        "hex_value": "#E9D9A1"
+      }
+    ],
+    "2004": [
+      {
+        "display_name": "White",
+        "paint_code": "9219",
+        "slug": "white-9219",
+        "reference_url": "https://www.paintscratch.com/colors/international/white-9219/",
+        "source_label": "PaintScratch 2004 International",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Beige",
+        "paint_code": "22770",
+        "slug": "beige-22770",
+        "reference_url": "https://www.paintscratch.com/colors/international/beige-22770/",
+        "source_label": "PaintScratch 2004 International",
+        "hex_value": "#E9D9A1"
+      }
+    ],
+    "2005": [
+      {
+        "display_name": "Harvester Red",
+        "paint_code": "2303",
+        "slug": "harvester-red-2303",
+        "reference_url": "https://www.paintscratch.com/colors/international/harvester-red-2303/",
+        "source_label": "PaintScratch 2005 International",
+        "hex_value": "#F31515"
+      },
+      {
+        "display_name": "Beige",
+        "paint_code": "22770",
+        "slug": "beige-22770",
+        "reference_url": "https://www.paintscratch.com/colors/international/beige-22770/",
+        "source_label": "PaintScratch 2005 International",
+        "hex_value": "#E9D9A1"
+      }
+    ],
+    "2006": [
+      {
+        "display_name": "Beige",
+        "paint_code": "22770",
+        "slug": "beige-22770",
+        "reference_url": "https://www.paintscratch.com/colors/international/beige-22770/",
+        "source_label": "PaintScratch 2006 International",
+        "hex_value": "#E9D9A1"
+      }
+    ],
+    "2007": [
+      {
+        "display_name": "Yellow-84867 (Catalyzed Spray Can Only)",
+        "paint_code": "4749",
+        "slug": "yellow-84867-catalyzed-spray-can-only-4749",
+        "reference_url": "https://www.paintscratch.com/colors/international/yellow-84867-catalyzed-spray-can-only-4749/",
+        "source_label": "PaintScratch 2007 International",
+        "hex_value": "#FFDE01"
+      },
+      {
+        "display_name": "Beige",
+        "paint_code": "22770",
+        "slug": "beige-22770",
+        "reference_url": "https://www.paintscratch.com/colors/international/beige-22770/",
+        "source_label": "PaintScratch 2007 International",
+        "hex_value": "#E9D9A1"
+      }
+    ],
+    "2008": [
+      {
+        "display_name": "Beige",
+        "paint_code": "22770",
+        "slug": "beige-22770",
+        "reference_url": "https://www.paintscratch.com/colors/international/beige-22770/",
+        "source_label": "PaintScratch 2008 International",
+        "hex_value": "#E9D9A1"
+      }
+    ],
+    "2009": [
+      {
+        "display_name": "Beige",
+        "paint_code": "22770",
+        "slug": "beige-22770",
+        "reference_url": "https://www.paintscratch.com/colors/international/beige-22770/",
+        "source_label": "PaintScratch 2009 International",
+        "hex_value": "#E9D9A1"
+      }
+    ],
+    "2010": [
+      {
+        "display_name": "Beige",
+        "paint_code": "22770",
+        "slug": "beige-22770",
+        "reference_url": "https://www.paintscratch.com/colors/international/beige-22770/",
+        "source_label": "PaintScratch 2010 International",
+        "hex_value": "#E9D9A1"
+      }
+    ],
+    "2011": [
+      {
+        "display_name": "Beige",
+        "paint_code": "22770",
+        "slug": "beige-22770",
+        "reference_url": "https://www.paintscratch.com/colors/international/beige-22770/",
+        "source_label": "PaintScratch 2011 International",
+        "hex_value": "#E9D9A1"
+      }
+    ],
+    "2012": [
+      {
+        "display_name": "Maroon",
+        "paint_code": "2441",
+        "slug": "maroon-2441",
+        "reference_url": "https://www.paintscratch.com/colors/international/maroon-2441/",
+        "source_label": "PaintScratch 2012 International",
+        "hex_value": "#761C1A"
+      },
+      {
+        "display_name": "Beige",
+        "paint_code": "22770",
+        "slug": "beige-22770",
+        "reference_url": "https://www.paintscratch.com/colors/international/beige-22770/",
+        "source_label": "PaintScratch 2012 International",
+        "hex_value": "#E9D9A1"
+      }
+    ],
+    "2013": [
+      {
+        "display_name": "Beige",
+        "paint_code": "22770",
+        "slug": "beige-22770",
+        "reference_url": "https://www.paintscratch.com/colors/international/beige-22770/",
+        "source_label": "PaintScratch 2013 International",
+        "hex_value": "#E9D9A1"
+      }
+    ],
+    "2014": [
+      {
+        "display_name": "Beige",
+        "paint_code": "22770",
+        "slug": "beige-22770",
+        "reference_url": "https://www.paintscratch.com/colors/international/beige-22770/",
+        "source_label": "PaintScratch 2014 International",
+        "hex_value": "#E9D9A1"
+      }
+    ],
+    "2015": [
+      {
+        "display_name": "Beige",
+        "paint_code": "22770",
+        "slug": "beige-22770",
+        "reference_url": "https://www.paintscratch.com/colors/international/beige-22770/",
+        "source_label": "PaintScratch 2015 International",
+        "hex_value": "#E9D9A1"
+      }
+    ],
+    "2016": [
+      {
+        "display_name": "Blue",
+        "paint_code": "6800",
+        "slug": "blue-6800",
+        "reference_url": "https://www.paintscratch.com/colors/international/blue-6800/",
+        "source_label": "PaintScratch 2016 International",
+        "hex_value": "#495EA3"
+      },
+      {
+        "display_name": "Bright Yellow (Catalyzed Spray Can Only)",
+        "paint_code": "4610",
+        "slug": "bright-yellow-catalyzed-spray-can-only-4610",
+        "reference_url": "https://www.paintscratch.com/colors/international/bright-yellow-catalyzed-spray-can-only-4610/",
+        "source_label": "PaintScratch 2016 International",
+        "hex_value": "#FFFF00"
+      },
+      {
+        "display_name": "Beige",
+        "paint_code": "22770",
+        "slug": "beige-22770",
+        "reference_url": "https://www.paintscratch.com/colors/international/beige-22770/",
+        "source_label": "PaintScratch 2016 International",
+        "hex_value": "#E9D9A1"
+      }
+    ],
+    "2017": [
+      {
+        "display_name": "Beige",
+        "paint_code": "22770",
+        "slug": "beige-22770",
+        "reference_url": "https://www.paintscratch.com/colors/international/beige-22770/",
+        "source_label": "PaintScratch 2017 International",
+        "hex_value": "#E9D9A1"
+      }
+    ],
+    "2018": [
+      {
+        "display_name": "Beige",
+        "paint_code": "22770",
+        "slug": "beige-22770",
+        "reference_url": "https://www.paintscratch.com/colors/international/beige-22770/",
+        "source_label": "PaintScratch 2018 International",
+        "hex_value": "#E9D9A1"
+      }
+    ],
+    "2019": [
+      {
+        "display_name": "Bright Red",
+        "paint_code": "2666",
+        "slug": "bright-red-2666",
+        "reference_url": "https://www.paintscratch.com/colors/international/bright-red-2666/",
+        "source_label": "PaintScratch 2019 International",
+        "hex_value": "#F31515"
+      },
+      {
+        "display_name": "Med Red",
+        "paint_code": "2690",
+        "slug": "med-red-2690",
+        "reference_url": "https://www.paintscratch.com/colors/international/med-red-2690/",
+        "source_label": "PaintScratch 2019 International",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "Yellow",
+        "paint_code": "4405",
+        "slug": "yellow-4405",
+        "reference_url": "https://www.paintscratch.com/colors/international/yellow-4405/",
+        "source_label": "PaintScratch 2019 International",
+        "hex_value": "#FFDE01"
+      },
+      {
+        "display_name": "Gray",
+        "paint_code": "8876",
+        "slug": "gray-8876",
+        "reference_url": "https://www.paintscratch.com/colors/international/gray-8876/",
+        "source_label": "PaintScratch 2019 International",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Beige",
+        "paint_code": "22770",
+        "slug": "beige-22770",
+        "reference_url": "https://www.paintscratch.com/colors/international/beige-22770/",
+        "source_label": "PaintScratch 2019 International",
+        "hex_value": "#E9D9A1"
+      }
+    ],
+    "2020": [
+      {
+        "display_name": "Metallic Blue",
+        "paint_code": "6N59",
+        "slug": "metallic-blue-6n59",
+        "reference_url": "https://www.paintscratch.com/colors/international/metallic-blue-6n59/",
+        "source_label": "PaintScratch 2020 International",
+        "hex_value": "#0D2D97"
+      },
+      {
+        "display_name": "Beige",
+        "paint_code": "22770",
+        "slug": "beige-22770",
+        "reference_url": "https://www.paintscratch.com/colors/international/beige-22770/",
+        "source_label": "PaintScratch 2020 International",
+        "hex_value": "#E9D9A1"
+      }
+    ],
+    "2021": [
+      {
+        "display_name": "Beige",
+        "paint_code": "22770",
+        "slug": "beige-22770",
+        "reference_url": "https://www.paintscratch.com/colors/international/beige-22770/",
+        "source_label": "PaintScratch 2021 International",
+        "hex_value": "#E9D9A1"
+      }
+    ],
+    "2022": [
+      {
+        "display_name": "Black (Catalyzed Spray Can Only)",
+        "paint_code": "0016",
+        "slug": "black-catalyzed-spray-can-only-0016",
+        "reference_url": "https://www.paintscratch.com/colors/international/black-catalyzed-spray-can-only-0016/",
+        "source_label": "PaintScratch 2022 International",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Beige",
+        "paint_code": "22770",
+        "slug": "beige-22770",
+        "reference_url": "https://www.paintscratch.com/colors/international/beige-22770/",
+        "source_label": "PaintScratch 2022 International",
+        "hex_value": "#E9D9A1"
+      }
+    ],
+    "2023": [
+      {
+        "display_name": "Beige",
+        "paint_code": "22770",
+        "slug": "beige-22770",
+        "reference_url": "https://www.paintscratch.com/colors/international/beige-22770/",
+        "source_label": "PaintScratch 2023 International",
+        "hex_value": "#E9D9A1"
+      }
+    ],
+    "2024": [
+      {
+        "display_name": "White Metallic Tricoat",
+        "paint_code": "9385",
+        "slug": "white-metallic-tricoat-9385",
+        "reference_url": "https://www.paintscratch.com/colors/international/white-metallic-tricoat-9385/",
+        "source_label": "PaintScratch 2024 International",
+        "hex_value": "#F6F6F0"
+      },
+      {
+        "display_name": "Beige",
+        "paint_code": "22770",
+        "slug": "beige-22770",
+        "reference_url": "https://www.paintscratch.com/colors/international/beige-22770/",
+        "source_label": "PaintScratch 2024 International",
+        "hex_value": "#E9D9A1"
+      }
+    ],
+    "2025": [
+      {
+        "display_name": "Beige",
+        "paint_code": "22770",
+        "slug": "beige-22770",
+        "reference_url": "https://www.paintscratch.com/colors/international/beige-22770/",
+        "source_label": "PaintScratch 2025 International",
+        "hex_value": "#E9D9A1"
+      },
+      {
+        "display_name": "Bright Red",
+        "paint_code": "L4664F",
+        "slug": "bright-red-l4664f",
+        "reference_url": "https://www.paintscratch.com/colors/international/bright-red-l4664f/",
+        "source_label": "PaintScratch 2025 International",
+        "hex_value": "#F31515"
+      }
+    ],
+    "2026": [
+      {
+        "display_name": "Beige",
+        "paint_code": "22770",
+        "slug": "beige-22770",
+        "reference_url": "https://www.paintscratch.com/colors/international/beige-22770/",
+        "source_label": "PaintScratch 2026 International",
+        "hex_value": "#E9D9A1"
+      }
+    ],
+    "2027": [
+      {
+        "display_name": "Beige",
+        "paint_code": "22770",
+        "slug": "beige-22770",
+        "reference_url": "https://www.paintscratch.com/colors/international/beige-22770/",
+        "source_label": "PaintScratch 2027 International",
+        "hex_value": "#E9D9A1"
+      }
+    ]
+  }
+}

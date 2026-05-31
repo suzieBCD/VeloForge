@@ -1,0 +1,4862 @@
+{
+  "All Models": {
+    "1964": [
+      {
+        "display_name": "Yellow",
+        "paint_code": "Y4",
+        "slug": "yellow-y4",
+        "reference_url": "https://www.paintscratch.com/colors/saab/yellow-y4/",
+        "source_label": "PaintScratch 1964 Saab",
+        "hex_value": "#F9E68D"
+      }
+    ],
+    "1965": [
+      {
+        "display_name": "Yellow",
+        "paint_code": "Y4",
+        "slug": "yellow-y4",
+        "reference_url": "https://www.paintscratch.com/colors/saab/yellow-y4/",
+        "source_label": "PaintScratch 1965 Saab",
+        "hex_value": "#F9E68D"
+      }
+    ],
+    "1966": [
+      {
+        "display_name": "Olive Green",
+        "paint_code": "GN5",
+        "slug": "olive-green-gn5",
+        "reference_url": "https://www.paintscratch.com/colors/saab/olive-green-gn5/",
+        "source_label": "PaintScratch 1966 Saab",
+        "hex_value": "#849957"
+      }
+    ],
+    "1967": [
+      {
+        "display_name": "Hussar Blue",
+        "paint_code": "B06",
+        "slug": "hussar-blue-b06",
+        "reference_url": "https://www.paintscratch.com/colors/saab/hussar-blue-b06/",
+        "source_label": "PaintScratch 1967 Saab",
+        "hex_value": "#95ADBB"
+      },
+      {
+        "display_name": "Sea Green",
+        "paint_code": "GN06",
+        "slug": "sea-green-gn06",
+        "reference_url": "https://www.paintscratch.com/colors/saab/sea-green-gn06/",
+        "source_label": "PaintScratch 1967 Saab",
+        "hex_value": "#469281"
+      },
+      {
+        "display_name": "Olive Green",
+        "paint_code": "GN5",
+        "slug": "olive-green-gn5",
+        "reference_url": "https://www.paintscratch.com/colors/saab/olive-green-gn5/",
+        "source_label": "PaintScratch 1967 Saab",
+        "hex_value": "#849957"
+      },
+      {
+        "display_name": "Ore Gray",
+        "paint_code": "GY04",
+        "slug": "ore-gray-gy04",
+        "reference_url": "https://www.paintscratch.com/colors/saab/ore-gray-gy04/",
+        "source_label": "PaintScratch 1967 Saab",
+        "hex_value": "#6C726E"
+      },
+      {
+        "display_name": "Torreador Red",
+        "paint_code": "R02",
+        "slug": "torreador-red-r02",
+        "reference_url": "https://www.paintscratch.com/colors/saab/torreador-red-r02/",
+        "source_label": "PaintScratch 1967 Saab",
+        "hex_value": "#9F2C1D"
+      },
+      {
+        "display_name": "Silver Sand (Lt. Beige)",
+        "paint_code": "Y05",
+        "slug": "silver-sand-lt-beige-y05",
+        "reference_url": "https://www.paintscratch.com/colors/saab/silver-sand-lt-beige-y05/",
+        "source_label": "PaintScratch 1967 Saab",
+        "hex_value": "#CFC9AD"
+      },
+      {
+        "display_name": "Amber Yellow",
+        "paint_code": "Y08",
+        "slug": "amber-yellow-y08",
+        "reference_url": "https://www.paintscratch.com/colors/saab/amber-yellow-y08/",
+        "source_label": "PaintScratch 1967 Saab",
+        "hex_value": "#DFBC5F"
+      }
+    ],
+    "1968": [
+      {
+        "display_name": "Hussar Blue",
+        "paint_code": "B06",
+        "slug": "hussar-blue-b06",
+        "reference_url": "https://www.paintscratch.com/colors/saab/hussar-blue-b06/",
+        "source_label": "PaintScratch 1968 Saab",
+        "hex_value": "#95ADBB"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "BK01",
+        "slug": "black-bk01",
+        "reference_url": "https://www.paintscratch.com/colors/saab/black-bk01/",
+        "source_label": "PaintScratch 1968 Saab",
+        "hex_value": "#191A1B"
+      },
+      {
+        "display_name": "Sea Green",
+        "paint_code": "GN06",
+        "slug": "sea-green-gn06",
+        "reference_url": "https://www.paintscratch.com/colors/saab/sea-green-gn06/",
+        "source_label": "PaintScratch 1968 Saab",
+        "hex_value": "#469281"
+      },
+      {
+        "display_name": "Ore Gray",
+        "paint_code": "GY04",
+        "slug": "ore-gray-gy04",
+        "reference_url": "https://www.paintscratch.com/colors/saab/ore-gray-gy04/",
+        "source_label": "PaintScratch 1968 Saab",
+        "hex_value": "#6C726E"
+      },
+      {
+        "display_name": "Torreador Red",
+        "paint_code": "R02",
+        "slug": "torreador-red-r02",
+        "reference_url": "https://www.paintscratch.com/colors/saab/torreador-red-r02/",
+        "source_label": "PaintScratch 1968 Saab",
+        "hex_value": "#9F2C1D"
+      },
+      {
+        "display_name": "Silver Sand (Lt. Beige)",
+        "paint_code": "Y05",
+        "slug": "silver-sand-lt-beige-y05",
+        "reference_url": "https://www.paintscratch.com/colors/saab/silver-sand-lt-beige-y05/",
+        "source_label": "PaintScratch 1968 Saab",
+        "hex_value": "#CFC9AD"
+      },
+      {
+        "display_name": "Amber Yellow",
+        "paint_code": "Y08",
+        "slug": "amber-yellow-y08",
+        "reference_url": "https://www.paintscratch.com/colors/saab/amber-yellow-y08/",
+        "source_label": "PaintScratch 1968 Saab",
+        "hex_value": "#DFBC5F"
+      }
+    ],
+    "1969": [
+      {
+        "display_name": "Medium Blue",
+        "paint_code": "B07",
+        "slug": "medium-blue-b07",
+        "reference_url": "https://www.paintscratch.com/colors/saab/medium-blue-b07/",
+        "source_label": "PaintScratch 1969 Saab",
+        "hex_value": "#6593AD"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "BK01",
+        "slug": "black-bk01",
+        "reference_url": "https://www.paintscratch.com/colors/saab/black-bk01/",
+        "source_label": "PaintScratch 1969 Saab",
+        "hex_value": "#191A1B"
+      },
+      {
+        "display_name": "Sea Green",
+        "paint_code": "GN06",
+        "slug": "sea-green-gn06",
+        "reference_url": "https://www.paintscratch.com/colors/saab/sea-green-gn06/",
+        "source_label": "PaintScratch 1969 Saab",
+        "hex_value": "#469281"
+      },
+      {
+        "display_name": "Torreador Red",
+        "paint_code": "R02",
+        "slug": "torreador-red-r02",
+        "reference_url": "https://www.paintscratch.com/colors/saab/torreador-red-r02/",
+        "source_label": "PaintScratch 1969 Saab",
+        "hex_value": "#9F2C1D"
+      },
+      {
+        "display_name": "Polar White",
+        "paint_code": "W01",
+        "slug": "polar-white-w01",
+        "reference_url": "https://www.paintscratch.com/colors/saab/polar-white-w01/",
+        "source_label": "PaintScratch 1969 Saab",
+        "hex_value": "#FEFDF6"
+      },
+      {
+        "display_name": "Silver Sand (Lt. Beige)",
+        "paint_code": "Y05",
+        "slug": "silver-sand-lt-beige-y05",
+        "reference_url": "https://www.paintscratch.com/colors/saab/silver-sand-lt-beige-y05/",
+        "source_label": "PaintScratch 1969 Saab",
+        "hex_value": "#CFC9AD"
+      },
+      {
+        "display_name": "Savannah Beige",
+        "paint_code": "Y06",
+        "slug": "savannah-beige-y06",
+        "reference_url": "https://www.paintscratch.com/colors/saab/savannah-beige-y06/",
+        "source_label": "PaintScratch 1969 Saab",
+        "hex_value": "#B7AB91"
+      },
+      {
+        "display_name": "Amber Yellow",
+        "paint_code": "Y08",
+        "slug": "amber-yellow-y08",
+        "reference_url": "https://www.paintscratch.com/colors/saab/amber-yellow-y08/",
+        "source_label": "PaintScratch 1969 Saab",
+        "hex_value": "#DFBC5F"
+      }
+    ],
+    "1970": [
+      {
+        "display_name": "Medium Blue",
+        "paint_code": "B07",
+        "slug": "medium-blue-b07",
+        "reference_url": "https://www.paintscratch.com/colors/saab/medium-blue-b07/",
+        "source_label": "PaintScratch 1970 Saab",
+        "hex_value": "#6593AD"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "BK01",
+        "slug": "black-bk01",
+        "reference_url": "https://www.paintscratch.com/colors/saab/black-bk01/",
+        "source_label": "PaintScratch 1970 Saab",
+        "hex_value": "#191A1B"
+      },
+      {
+        "display_name": "Tyrol Green",
+        "paint_code": "GN07",
+        "slug": "tyrol-green-gn07",
+        "reference_url": "https://www.paintscratch.com/colors/saab/tyrol-green-gn07/",
+        "source_label": "PaintScratch 1970 Saab",
+        "hex_value": "#255D50"
+      },
+      {
+        "display_name": "Torreador Red",
+        "paint_code": "R02",
+        "slug": "torreador-red-r02",
+        "reference_url": "https://www.paintscratch.com/colors/saab/torreador-red-r02/",
+        "source_label": "PaintScratch 1970 Saab",
+        "hex_value": "#9F2C1D"
+      },
+      {
+        "display_name": "Polar White",
+        "paint_code": "W01",
+        "slug": "polar-white-w01",
+        "reference_url": "https://www.paintscratch.com/colors/saab/polar-white-w01/",
+        "source_label": "PaintScratch 1970 Saab",
+        "hex_value": "#FEFDF6"
+      },
+      {
+        "display_name": "Silver Sand (Lt. Beige)",
+        "paint_code": "Y05",
+        "slug": "silver-sand-lt-beige-y05",
+        "reference_url": "https://www.paintscratch.com/colors/saab/silver-sand-lt-beige-y05/",
+        "source_label": "PaintScratch 1970 Saab",
+        "hex_value": "#CFC9AD"
+      },
+      {
+        "display_name": "Savannah Beige",
+        "paint_code": "Y06",
+        "slug": "savannah-beige-y06",
+        "reference_url": "https://www.paintscratch.com/colors/saab/savannah-beige-y06/",
+        "source_label": "PaintScratch 1970 Saab",
+        "hex_value": "#B7AB91"
+      },
+      {
+        "display_name": "Amber Yellow",
+        "paint_code": "Y08",
+        "slug": "amber-yellow-y08",
+        "reference_url": "https://www.paintscratch.com/colors/saab/amber-yellow-y08/",
+        "source_label": "PaintScratch 1970 Saab",
+        "hex_value": "#DFBC5F"
+      }
+    ],
+    "1971": [
+      {
+        "display_name": "Medium Blue",
+        "paint_code": "B07",
+        "slug": "medium-blue-b07",
+        "reference_url": "https://www.paintscratch.com/colors/saab/medium-blue-b07/",
+        "source_label": "PaintScratch 1971 Saab",
+        "hex_value": "#6593AD"
+      },
+      {
+        "display_name": "Silver Mink Gray",
+        "paint_code": "RB01",
+        "slug": "silver-mink-gray-rb01",
+        "reference_url": "https://www.paintscratch.com/colors/saab/silver-mink-gray-rb01/",
+        "source_label": "PaintScratch 1971 Saab",
+        "hex_value": "#A9ABB1"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "BK01",
+        "slug": "black-bk01",
+        "reference_url": "https://www.paintscratch.com/colors/saab/black-bk01/",
+        "source_label": "PaintScratch 1971 Saab",
+        "hex_value": "#191A1B"
+      },
+      {
+        "display_name": "Tyrol Green",
+        "paint_code": "GN07",
+        "slug": "tyrol-green-gn07",
+        "reference_url": "https://www.paintscratch.com/colors/saab/tyrol-green-gn07/",
+        "source_label": "PaintScratch 1971 Saab",
+        "hex_value": "#255D50"
+      },
+      {
+        "display_name": "Torreador Red",
+        "paint_code": "R02",
+        "slug": "torreador-red-r02",
+        "reference_url": "https://www.paintscratch.com/colors/saab/torreador-red-r02/",
+        "source_label": "PaintScratch 1971 Saab",
+        "hex_value": "#9F2C1D"
+      },
+      {
+        "display_name": "Polar White",
+        "paint_code": "W01",
+        "slug": "polar-white-w01",
+        "reference_url": "https://www.paintscratch.com/colors/saab/polar-white-w01/",
+        "source_label": "PaintScratch 1971 Saab",
+        "hex_value": "#FEFDF6"
+      },
+      {
+        "display_name": "Savannah Beige",
+        "paint_code": "Y06",
+        "slug": "savannah-beige-y06",
+        "reference_url": "https://www.paintscratch.com/colors/saab/savannah-beige-y06/",
+        "source_label": "PaintScratch 1971 Saab",
+        "hex_value": "#B7AB91"
+      },
+      {
+        "display_name": "Amber Yellow",
+        "paint_code": "Y08",
+        "slug": "amber-yellow-y08",
+        "reference_url": "https://www.paintscratch.com/colors/saab/amber-yellow-y08/",
+        "source_label": "PaintScratch 1971 Saab",
+        "hex_value": "#DFBC5F"
+      }
+    ],
+    "1972": [
+      {
+        "display_name": "Medium Blue",
+        "paint_code": "B07",
+        "slug": "medium-blue-b07",
+        "reference_url": "https://www.paintscratch.com/colors/saab/medium-blue-b07/",
+        "source_label": "PaintScratch 1972 Saab",
+        "hex_value": "#6593AD"
+      },
+      {
+        "display_name": "Burnt Orange",
+        "paint_code": "43193LH",
+        "slug": "burnt-orange-43193lh",
+        "reference_url": "https://www.paintscratch.com/colors/saab/burnt-orange-43193lh/",
+        "source_label": "PaintScratch 1972 Saab",
+        "hex_value": "#9A6444"
+      },
+      {
+        "display_name": "Baja Red",
+        "paint_code": "34251LH",
+        "slug": "baja-red-34251lh",
+        "reference_url": "https://www.paintscratch.com/colors/saab/baja-red-34251lh/",
+        "source_label": "PaintScratch 1972 Saab",
+        "hex_value": "#9C1619"
+      },
+      {
+        "display_name": "Midnight Blue",
+        "paint_code": "43191LH",
+        "slug": "midnight-blue-43191lh",
+        "reference_url": "https://www.paintscratch.com/colors/saab/midnight-blue-43191lh/",
+        "source_label": "PaintScratch 1972 Saab",
+        "hex_value": "#23375F"
+      },
+      {
+        "display_name": "Sunset Yellow",
+        "paint_code": "43192L",
+        "slug": "sunset-yellow-43192l",
+        "reference_url": "https://www.paintscratch.com/colors/saab/sunset-yellow-43192l/",
+        "source_label": "PaintScratch 1972 Saab",
+        "hex_value": "#CFAD39"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "BK01",
+        "slug": "black-bk01",
+        "reference_url": "https://www.paintscratch.com/colors/saab/black-bk01/",
+        "source_label": "PaintScratch 1972 Saab",
+        "hex_value": "#191A1B"
+      },
+      {
+        "display_name": "Tyrol Green",
+        "paint_code": "GN07",
+        "slug": "tyrol-green-gn07",
+        "reference_url": "https://www.paintscratch.com/colors/saab/tyrol-green-gn07/",
+        "source_label": "PaintScratch 1972 Saab",
+        "hex_value": "#255D50"
+      },
+      {
+        "display_name": "Verona Green",
+        "paint_code": "GN08",
+        "slug": "verona-green-gn08",
+        "reference_url": "https://www.paintscratch.com/colors/saab/verona-green-gn08/",
+        "source_label": "PaintScratch 1972 Saab",
+        "hex_value": "#6D8983"
+      },
+      {
+        "display_name": "Torreador Red",
+        "paint_code": "R02",
+        "slug": "torreador-red-r02",
+        "reference_url": "https://www.paintscratch.com/colors/saab/torreador-red-r02/",
+        "source_label": "PaintScratch 1972 Saab",
+        "hex_value": "#9F2C1D"
+      },
+      {
+        "display_name": "Burgundy Red",
+        "paint_code": "RB02",
+        "slug": "burgundy-red-rb02",
+        "reference_url": "https://www.paintscratch.com/colors/saab/burgundy-red-rb02/",
+        "source_label": "PaintScratch 1972 Saab",
+        "hex_value": "#901417"
+      },
+      {
+        "display_name": "Polar White",
+        "paint_code": "W01",
+        "slug": "polar-white-w01",
+        "reference_url": "https://www.paintscratch.com/colors/saab/polar-white-w01/",
+        "source_label": "PaintScratch 1972 Saab",
+        "hex_value": "#FEFDF6"
+      },
+      {
+        "display_name": "Amber Yellow",
+        "paint_code": "Y08",
+        "slug": "amber-yellow-y08",
+        "reference_url": "https://www.paintscratch.com/colors/saab/amber-yellow-y08/",
+        "source_label": "PaintScratch 1972 Saab",
+        "hex_value": "#DFBC5F"
+      },
+      {
+        "display_name": "Light Brown Metallic",
+        "paint_code": "YR03",
+        "slug": "light-brown-metallic-yr03",
+        "reference_url": "https://www.paintscratch.com/colors/saab/light-brown-metallic-yr03/",
+        "source_label": "PaintScratch 1972 Saab",
+        "hex_value": "#AF9885"
+      }
+    ],
+    "1973": [
+      {
+        "display_name": "Burnt Orange",
+        "paint_code": "43193LH",
+        "slug": "burnt-orange-43193lh",
+        "reference_url": "https://www.paintscratch.com/colors/saab/burnt-orange-43193lh/",
+        "source_label": "PaintScratch 1973 Saab",
+        "hex_value": "#9A6444"
+      },
+      {
+        "display_name": "Baja Red",
+        "paint_code": "34251LH",
+        "slug": "baja-red-34251lh",
+        "reference_url": "https://www.paintscratch.com/colors/saab/baja-red-34251lh/",
+        "source_label": "PaintScratch 1973 Saab",
+        "hex_value": "#9C1619"
+      },
+      {
+        "display_name": "Emerald Green",
+        "paint_code": "34252L",
+        "slug": "emerald-green-34252l",
+        "reference_url": "https://www.paintscratch.com/colors/saab/emerald-green-34252l/",
+        "source_label": "PaintScratch 1973 Saab",
+        "hex_value": "#549281"
+      },
+      {
+        "display_name": "Midnight Blue",
+        "paint_code": "43191LH",
+        "slug": "midnight-blue-43191lh",
+        "reference_url": "https://www.paintscratch.com/colors/saab/midnight-blue-43191lh/",
+        "source_label": "PaintScratch 1973 Saab",
+        "hex_value": "#23375F"
+      },
+      {
+        "display_name": "Sunset Yellow",
+        "paint_code": "43192L",
+        "slug": "sunset-yellow-43192l",
+        "reference_url": "https://www.paintscratch.com/colors/saab/sunset-yellow-43192l/",
+        "source_label": "PaintScratch 1973 Saab",
+        "hex_value": "#CFAD39"
+      },
+      {
+        "display_name": "Blue",
+        "paint_code": "B08",
+        "slug": "blue-b08",
+        "reference_url": "https://www.paintscratch.com/colors/saab/blue-b08/",
+        "source_label": "PaintScratch 1973 Saab",
+        "hex_value": "#3765AB"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "BK01",
+        "slug": "black-bk01",
+        "reference_url": "https://www.paintscratch.com/colors/saab/black-bk01/",
+        "source_label": "PaintScratch 1973 Saab",
+        "hex_value": "#191A1B"
+      },
+      {
+        "display_name": "Verona Green",
+        "paint_code": "GN08",
+        "slug": "verona-green-gn08",
+        "reference_url": "https://www.paintscratch.com/colors/saab/verona-green-gn08/",
+        "source_label": "PaintScratch 1973 Saab",
+        "hex_value": "#6D8983"
+      },
+      {
+        "display_name": "Torreador Red",
+        "paint_code": "R02",
+        "slug": "torreador-red-r02",
+        "reference_url": "https://www.paintscratch.com/colors/saab/torreador-red-r02/",
+        "source_label": "PaintScratch 1973 Saab",
+        "hex_value": "#9F2C1D"
+      },
+      {
+        "display_name": "Polar White",
+        "paint_code": "W01",
+        "slug": "polar-white-w01",
+        "reference_url": "https://www.paintscratch.com/colors/saab/polar-white-w01/",
+        "source_label": "PaintScratch 1973 Saab",
+        "hex_value": "#FEFDF6"
+      },
+      {
+        "display_name": "Amber Yellow",
+        "paint_code": "Y08",
+        "slug": "amber-yellow-y08",
+        "reference_url": "https://www.paintscratch.com/colors/saab/amber-yellow-y08/",
+        "source_label": "PaintScratch 1973 Saab",
+        "hex_value": "#DFBC5F"
+      },
+      {
+        "display_name": "Copper Coral Metallic",
+        "paint_code": "YR04",
+        "slug": "copper-coral-metallic-yr04",
+        "reference_url": "https://www.paintscratch.com/colors/saab/copper-coral-metallic-yr04/",
+        "source_label": "PaintScratch 1973 Saab",
+        "hex_value": "#AE784C"
+      },
+      {
+        "display_name": "Sepia Crystal Metallic",
+        "paint_code": "YR05",
+        "slug": "sepia-crystal-metallic-yr05",
+        "reference_url": "https://www.paintscratch.com/colors/saab/sepia-crystal-metallic-yr05/",
+        "source_label": "PaintScratch 1973 Saab",
+        "hex_value": "#956035"
+      },
+      {
+        "display_name": "Sepia Metallic",
+        "paint_code": "YR2B",
+        "slug": "sepia-metallic-yr2b",
+        "reference_url": "https://www.paintscratch.com/colors/saab/sepia-metallic-yr2b/",
+        "source_label": "PaintScratch 1973 Saab",
+        "hex_value": "#695145"
+      }
+    ],
+    "1974": [
+      {
+        "display_name": "Burnt Orange",
+        "paint_code": "43193LH",
+        "slug": "burnt-orange-43193lh",
+        "reference_url": "https://www.paintscratch.com/colors/saab/burnt-orange-43193lh/",
+        "source_label": "PaintScratch 1974 Saab",
+        "hex_value": "#9A6444"
+      },
+      {
+        "display_name": "Baja Red",
+        "paint_code": "34251LH",
+        "slug": "baja-red-34251lh",
+        "reference_url": "https://www.paintscratch.com/colors/saab/baja-red-34251lh/",
+        "source_label": "PaintScratch 1974 Saab",
+        "hex_value": "#9C1619"
+      },
+      {
+        "display_name": "Emerald Green",
+        "paint_code": "34252L",
+        "slug": "emerald-green-34252l",
+        "reference_url": "https://www.paintscratch.com/colors/saab/emerald-green-34252l/",
+        "source_label": "PaintScratch 1974 Saab",
+        "hex_value": "#549281"
+      },
+      {
+        "display_name": "True Blue",
+        "paint_code": "34253L",
+        "slug": "true-blue-34253l",
+        "reference_url": "https://www.paintscratch.com/colors/saab/true-blue-34253l/",
+        "source_label": "PaintScratch 1974 Saab",
+        "hex_value": "#2E54A0"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "BK01",
+        "slug": "black-bk01",
+        "reference_url": "https://www.paintscratch.com/colors/saab/black-bk01/",
+        "source_label": "PaintScratch 1974 Saab",
+        "hex_value": "#191A1B"
+      },
+      {
+        "display_name": "Carolina Blue",
+        "paint_code": "B_08",
+        "slug": "carolina-blue-b-08",
+        "reference_url": "https://www.paintscratch.com/colors/saab/carolina-blue-b-08/",
+        "source_label": "PaintScratch 1974 Saab",
+        "hex_value": "#687B98"
+      },
+      {
+        "display_name": "Verona Green No. 2",
+        "paint_code": "GN09",
+        "slug": "verona-green-no-2-gn09",
+        "reference_url": "https://www.paintscratch.com/colors/saab/verona-green-no-2-gn09/",
+        "source_label": "PaintScratch 1974 Saab",
+        "hex_value": "#6D8983"
+      },
+      {
+        "display_name": "Torreador Red",
+        "paint_code": "R02",
+        "slug": "torreador-red-r02",
+        "reference_url": "https://www.paintscratch.com/colors/saab/torreador-red-r02/",
+        "source_label": "PaintScratch 1974 Saab",
+        "hex_value": "#9F2C1D"
+      },
+      {
+        "display_name": "Sienna Brown",
+        "paint_code": "R03",
+        "slug": "sienna-brown-r03",
+        "reference_url": "https://www.paintscratch.com/colors/saab/sienna-brown-r03/",
+        "source_label": "PaintScratch 1974 Saab",
+        "hex_value": "#83573D"
+      },
+      {
+        "display_name": "Burnt Orange",
+        "paint_code": "SA214",
+        "slug": "burnt-orange-sa214",
+        "reference_url": "https://www.paintscratch.com/colors/saab/burnt-orange-sa214/",
+        "source_label": "PaintScratch 1974 Saab",
+        "hex_value": "#EB9D23"
+      },
+      {
+        "display_name": "Sterling Silver Metallic",
+        "paint_code": "SK01",
+        "slug": "sterling-silver-metallic-sk01",
+        "reference_url": "https://www.paintscratch.com/colors/saab/sterling-silver-metallic-sk01/",
+        "source_label": "PaintScratch 1974 Saab",
+        "hex_value": "#C2C8D2"
+      },
+      {
+        "display_name": "Polar White",
+        "paint_code": "W01",
+        "slug": "polar-white-w01",
+        "reference_url": "https://www.paintscratch.com/colors/saab/polar-white-w01/",
+        "source_label": "PaintScratch 1974 Saab",
+        "hex_value": "#FEFDF6"
+      },
+      {
+        "display_name": "Amber Yellow",
+        "paint_code": "Y08",
+        "slug": "amber-yellow-y08",
+        "reference_url": "https://www.paintscratch.com/colors/saab/amber-yellow-y08/",
+        "source_label": "PaintScratch 1974 Saab",
+        "hex_value": "#DFBC5F"
+      },
+      {
+        "display_name": "Bright Yellow",
+        "paint_code": "Y9H",
+        "slug": "bright-yellow-y9h",
+        "reference_url": "https://www.paintscratch.com/colors/saab/bright-yellow-y9h/",
+        "source_label": "PaintScratch 1974 Saab",
+        "hex_value": "#FFFF00"
+      },
+      {
+        "display_name": "Sunset Orange",
+        "paint_code": "Y11",
+        "slug": "sunset-orange-y11",
+        "reference_url": "https://www.paintscratch.com/colors/saab/sunset-orange-y11/",
+        "source_label": "PaintScratch 1974 Saab",
+        "hex_value": "#F06714"
+      },
+      {
+        "display_name": "Sepia Crystal Metallic",
+        "paint_code": "YR05",
+        "slug": "sepia-crystal-metallic-yr05",
+        "reference_url": "https://www.paintscratch.com/colors/saab/sepia-crystal-metallic-yr05/",
+        "source_label": "PaintScratch 1974 Saab",
+        "hex_value": "#956035"
+      }
+    ],
+    "1975": [
+      {
+        "display_name": "Black",
+        "paint_code": "BK01",
+        "slug": "black-bk01",
+        "reference_url": "https://www.paintscratch.com/colors/saab/black-bk01/",
+        "source_label": "PaintScratch 1975 Saab",
+        "hex_value": "#191A1B"
+      },
+      {
+        "display_name": "Carolina Blue",
+        "paint_code": "B_08",
+        "slug": "carolina-blue-b-08",
+        "reference_url": "https://www.paintscratch.com/colors/saab/carolina-blue-b-08/",
+        "source_label": "PaintScratch 1975 Saab",
+        "hex_value": "#687B98"
+      },
+      {
+        "display_name": "Emerald Green",
+        "paint_code": "GN10",
+        "slug": "emerald-green-gn10",
+        "reference_url": "https://www.paintscratch.com/colors/saab/emerald-green-gn10/",
+        "source_label": "PaintScratch 1975 Saab",
+        "hex_value": "#46AAA4"
+      },
+      {
+        "display_name": "Sienna Brown",
+        "paint_code": "R03",
+        "slug": "sienna-brown-r03",
+        "reference_url": "https://www.paintscratch.com/colors/saab/sienna-brown-r03/",
+        "source_label": "PaintScratch 1975 Saab",
+        "hex_value": "#83573D"
+      },
+      {
+        "display_name": "Solar Red",
+        "paint_code": "R04",
+        "slug": "solar-red-r04",
+        "reference_url": "https://www.paintscratch.com/colors/saab/solar-red-r04/",
+        "source_label": "PaintScratch 1975 Saab",
+        "hex_value": "#AC3B2C"
+      },
+      {
+        "display_name": "Sterling Silver Metallic",
+        "paint_code": "SK01",
+        "slug": "sterling-silver-metallic-sk01",
+        "reference_url": "https://www.paintscratch.com/colors/saab/sterling-silver-metallic-sk01/",
+        "source_label": "PaintScratch 1975 Saab",
+        "hex_value": "#C2C8D2"
+      },
+      {
+        "display_name": "Coral White",
+        "paint_code": "W02",
+        "slug": "coral-white-w02",
+        "reference_url": "https://www.paintscratch.com/colors/saab/coral-white-w02/",
+        "source_label": "PaintScratch 1975 Saab",
+        "hex_value": "#FDF9E9"
+      },
+      {
+        "display_name": "Sunset Orange",
+        "paint_code": "Y11",
+        "slug": "sunset-orange-y11",
+        "reference_url": "https://www.paintscratch.com/colors/saab/sunset-orange-y11/",
+        "source_label": "PaintScratch 1975 Saab",
+        "hex_value": "#F06714"
+      },
+      {
+        "display_name": "Sepia Crystal Metallic",
+        "paint_code": "YR05",
+        "slug": "sepia-crystal-metallic-yr05",
+        "reference_url": "https://www.paintscratch.com/colors/saab/sepia-crystal-metallic-yr05/",
+        "source_label": "PaintScratch 1975 Saab",
+        "hex_value": "#956035"
+      }
+    ],
+    "1976": [
+      {
+        "display_name": "Red",
+        "paint_code": "127",
+        "slug": "red-127",
+        "reference_url": "https://www.paintscratch.com/colors/saab/red-127/",
+        "source_label": "PaintScratch 1976 Saab",
+        "hex_value": "#CD3219"
+      },
+      {
+        "display_name": "Red",
+        "paint_code": "206",
+        "slug": "red-206",
+        "reference_url": "https://www.paintscratch.com/colors/saab/red-206/",
+        "source_label": "PaintScratch 1976 Saab",
+        "hex_value": "#CE260A"
+      },
+      {
+        "display_name": "White",
+        "paint_code": "207",
+        "slug": "white-207",
+        "reference_url": "https://www.paintscratch.com/colors/saab/white-207/",
+        "source_label": "PaintScratch 1976 Saab",
+        "hex_value": "#FFFCF1"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "BK01",
+        "slug": "black-bk01",
+        "reference_url": "https://www.paintscratch.com/colors/saab/black-bk01/",
+        "source_label": "PaintScratch 1976 Saab",
+        "hex_value": "#191A1B"
+      },
+      {
+        "display_name": "Carolina Blue",
+        "paint_code": "B_08",
+        "slug": "carolina-blue-b-08",
+        "reference_url": "https://www.paintscratch.com/colors/saab/carolina-blue-b-08/",
+        "source_label": "PaintScratch 1976 Saab",
+        "hex_value": "#687B98"
+      },
+      {
+        "display_name": "Spring Green",
+        "paint_code": "GN11",
+        "slug": "spring-green-gn11",
+        "reference_url": "https://www.paintscratch.com/colors/saab/spring-green-gn11/",
+        "source_label": "PaintScratch 1976 Saab",
+        "hex_value": "#46AA65"
+      },
+      {
+        "display_name": "Sienna Brown",
+        "paint_code": "R03",
+        "slug": "sienna-brown-r03",
+        "reference_url": "https://www.paintscratch.com/colors/saab/sienna-brown-r03/",
+        "source_label": "PaintScratch 1976 Saab",
+        "hex_value": "#83573D"
+      },
+      {
+        "display_name": "Solar Red",
+        "paint_code": "R04",
+        "slug": "solar-red-r04",
+        "reference_url": "https://www.paintscratch.com/colors/saab/solar-red-r04/",
+        "source_label": "PaintScratch 1976 Saab",
+        "hex_value": "#AC3B2C"
+      },
+      {
+        "display_name": "Sterling Silver Metallic",
+        "paint_code": "SK01",
+        "slug": "sterling-silver-metallic-sk01",
+        "reference_url": "https://www.paintscratch.com/colors/saab/sterling-silver-metallic-sk01/",
+        "source_label": "PaintScratch 1976 Saab",
+        "hex_value": "#C2C8D2"
+      },
+      {
+        "display_name": "Coral White",
+        "paint_code": "W02",
+        "slug": "coral-white-w02",
+        "reference_url": "https://www.paintscratch.com/colors/saab/coral-white-w02/",
+        "source_label": "PaintScratch 1976 Saab",
+        "hex_value": "#FDF9E9"
+      },
+      {
+        "display_name": "Topaz Yellow",
+        "paint_code": "Y12",
+        "slug": "topaz-yellow-y12",
+        "reference_url": "https://www.paintscratch.com/colors/saab/topaz-yellow-y12/",
+        "source_label": "PaintScratch 1976 Saab",
+        "hex_value": "#CCC66C"
+      },
+      {
+        "display_name": "Sepia Crystal Metallic",
+        "paint_code": "YR05",
+        "slug": "sepia-crystal-metallic-yr05",
+        "reference_url": "https://www.paintscratch.com/colors/saab/sepia-crystal-metallic-yr05/",
+        "source_label": "PaintScratch 1976 Saab",
+        "hex_value": "#956035"
+      }
+    ],
+    "1977": [
+      {
+        "display_name": "Astral Blue",
+        "paint_code": "B09",
+        "slug": "astral-blue-b09",
+        "reference_url": "https://www.paintscratch.com/colors/saab/astral-blue-b09/",
+        "source_label": "PaintScratch 1977 Saab",
+        "hex_value": "#193765"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "BK01",
+        "slug": "black-bk01",
+        "reference_url": "https://www.paintscratch.com/colors/saab/black-bk01/",
+        "source_label": "PaintScratch 1977 Saab",
+        "hex_value": "#191A1B"
+      },
+      {
+        "display_name": "Dorado Brown",
+        "paint_code": "BK02",
+        "slug": "dorado-brown-bk02",
+        "reference_url": "https://www.paintscratch.com/colors/saab/dorado-brown-bk02/",
+        "source_label": "PaintScratch 1977 Saab",
+        "hex_value": "#78593E"
+      },
+      {
+        "display_name": "Spring Green",
+        "paint_code": "GN11",
+        "slug": "spring-green-gn11",
+        "reference_url": "https://www.paintscratch.com/colors/saab/spring-green-gn11/",
+        "source_label": "PaintScratch 1977 Saab",
+        "hex_value": "#46AA65"
+      },
+      {
+        "display_name": "Solar Red",
+        "paint_code": "R04",
+        "slug": "solar-red-r04",
+        "reference_url": "https://www.paintscratch.com/colors/saab/solar-red-r04/",
+        "source_label": "PaintScratch 1977 Saab",
+        "hex_value": "#AC3B2C"
+      },
+      {
+        "display_name": "Cardinal Red Metallic",
+        "paint_code": "R06",
+        "slug": "cardinal-red-metallic-r06",
+        "reference_url": "https://www.paintscratch.com/colors/saab/cardinal-red-metallic-r06/",
+        "source_label": "PaintScratch 1977 Saab",
+        "hex_value": "#AF2411"
+      },
+      {
+        "display_name": "Sterling Silver Metallic",
+        "paint_code": "SK01",
+        "slug": "sterling-silver-metallic-sk01",
+        "reference_url": "https://www.paintscratch.com/colors/saab/sterling-silver-metallic-sk01/",
+        "source_label": "PaintScratch 1977 Saab",
+        "hex_value": "#C2C8D2"
+      },
+      {
+        "display_name": "Anthracite Gray Metallic",
+        "paint_code": "SK02",
+        "slug": "anthracite-gray-metallic-sk02",
+        "reference_url": "https://www.paintscratch.com/colors/saab/anthracite-gray-metallic-sk02/",
+        "source_label": "PaintScratch 1977 Saab",
+        "hex_value": "#818387"
+      },
+      {
+        "display_name": "Silver Crystal Metallic",
+        "paint_code": "SK03B/SK1B",
+        "slug": "silver-crystal-metallic-sk03bsk1b",
+        "reference_url": "https://www.paintscratch.com/colors/saab/silver-crystal-metallic-sk03bsk1b/",
+        "source_label": "PaintScratch 1977 Saab",
+        "hex_value": "#B2B6BC"
+      },
+      {
+        "display_name": "Coral White",
+        "paint_code": "W02",
+        "slug": "coral-white-w02",
+        "reference_url": "https://www.paintscratch.com/colors/saab/coral-white-w02/",
+        "source_label": "PaintScratch 1977 Saab",
+        "hex_value": "#FDF9E9"
+      },
+      {
+        "display_name": "Antelope Brown",
+        "paint_code": "YR06",
+        "slug": "antelope-brown-yr06",
+        "reference_url": "https://www.paintscratch.com/colors/saab/antelope-brown-yr06/",
+        "source_label": "PaintScratch 1977 Saab",
+        "hex_value": "#6B5543"
+      }
+    ],
+    "1978": [
+      {
+        "display_name": "Azure Blue",
+        "paint_code": "B10",
+        "slug": "azure-blue-b10",
+        "reference_url": "https://www.paintscratch.com/colors/saab/azure-blue-b10/",
+        "source_label": "PaintScratch 1978 Saab",
+        "hex_value": "#193765"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "BK01",
+        "slug": "black-bk01",
+        "reference_url": "https://www.paintscratch.com/colors/saab/black-bk01/",
+        "source_label": "PaintScratch 1978 Saab",
+        "hex_value": "#191A1B"
+      },
+      {
+        "display_name": "Dorado Brown",
+        "paint_code": "BK02",
+        "slug": "dorado-brown-bk02",
+        "reference_url": "https://www.paintscratch.com/colors/saab/dorado-brown-bk02/",
+        "source_label": "PaintScratch 1978 Saab",
+        "hex_value": "#78593E"
+      },
+      {
+        "display_name": "Jade Green",
+        "paint_code": "GN12",
+        "slug": "jade-green-gn12",
+        "reference_url": "https://www.paintscratch.com/colors/saab/jade-green-gn12/",
+        "source_label": "PaintScratch 1978 Saab",
+        "hex_value": "#425C4A"
+      },
+      {
+        "display_name": "Solar Red",
+        "paint_code": "R04",
+        "slug": "solar-red-r04",
+        "reference_url": "https://www.paintscratch.com/colors/saab/solar-red-r04/",
+        "source_label": "PaintScratch 1978 Saab",
+        "hex_value": "#AC3B2C"
+      },
+      {
+        "display_name": "Cardinal Red Metallic",
+        "paint_code": "R06",
+        "slug": "cardinal-red-metallic-r06",
+        "reference_url": "https://www.paintscratch.com/colors/saab/cardinal-red-metallic-r06/",
+        "source_label": "PaintScratch 1978 Saab",
+        "hex_value": "#AF2411"
+      },
+      {
+        "display_name": "Sterling Silver Metallic",
+        "paint_code": "SK01",
+        "slug": "sterling-silver-metallic-sk01",
+        "reference_url": "https://www.paintscratch.com/colors/saab/sterling-silver-metallic-sk01/",
+        "source_label": "PaintScratch 1978 Saab",
+        "hex_value": "#C2C8D2"
+      },
+      {
+        "display_name": "Anthracite Gray Metallic",
+        "paint_code": "SK02",
+        "slug": "anthracite-gray-metallic-sk02",
+        "reference_url": "https://www.paintscratch.com/colors/saab/anthracite-gray-metallic-sk02/",
+        "source_label": "PaintScratch 1978 Saab",
+        "hex_value": "#818387"
+      },
+      {
+        "display_name": "Silver Crystal Metallic",
+        "paint_code": "SK03B/SK1B",
+        "slug": "silver-crystal-metallic-sk03bsk1b",
+        "reference_url": "https://www.paintscratch.com/colors/saab/silver-crystal-metallic-sk03bsk1b/",
+        "source_label": "PaintScratch 1978 Saab",
+        "hex_value": "#B2B6BC"
+      },
+      {
+        "display_name": "Coral White",
+        "paint_code": "W02",
+        "slug": "coral-white-w02",
+        "reference_url": "https://www.paintscratch.com/colors/saab/coral-white-w02/",
+        "source_label": "PaintScratch 1978 Saab",
+        "hex_value": "#FDF9E9"
+      },
+      {
+        "display_name": "Antelope Brown",
+        "paint_code": "YR06",
+        "slug": "antelope-brown-yr06",
+        "reference_url": "https://www.paintscratch.com/colors/saab/antelope-brown-yr06/",
+        "source_label": "PaintScratch 1978 Saab",
+        "hex_value": "#6B5543"
+      }
+    ],
+    "1979": [
+      {
+        "display_name": "Midnight Blue",
+        "paint_code": "136H",
+        "slug": "midnight-blue-136h",
+        "reference_url": "https://www.paintscratch.com/colors/saab/midnight-blue-136h/",
+        "source_label": "PaintScratch 1979 Saab",
+        "hex_value": "#283346"
+      },
+      {
+        "display_name": "Aquamarine Blue Metallic",
+        "paint_code": "137B",
+        "slug": "aquamarine-blue-metallic-137b",
+        "reference_url": "https://www.paintscratch.com/colors/saab/aquamarine-blue-metallic-137b/",
+        "source_label": "PaintScratch 1979 Saab",
+        "hex_value": "#3B8493"
+      },
+      {
+        "display_name": "Acacia Green Metallic",
+        "paint_code": "148B",
+        "slug": "acacia-green-metallic-148b",
+        "reference_url": "https://www.paintscratch.com/colors/saab/acacia-green-metallic-148b/",
+        "source_label": "PaintScratch 1979 Saab",
+        "hex_value": "#3B935C"
+      },
+      {
+        "display_name": "Marble White",
+        "paint_code": "152G",
+        "slug": "marble-white-152g",
+        "reference_url": "https://www.paintscratch.com/colors/saab/marble-white-152g/",
+        "source_label": "PaintScratch 1979 Saab",
+        "hex_value": "#FDFFF1"
+      },
+      {
+        "display_name": "Chamotte Bronze",
+        "paint_code": "167H",
+        "slug": "chamotte-bronze-167h",
+        "reference_url": "https://www.paintscratch.com/colors/saab/chamotte-bronze-167h/",
+        "source_label": "PaintScratch 1979 Saab",
+        "hex_value": "#906C48"
+      },
+      {
+        "display_name": "Alabaster Yellow",
+        "paint_code": "187B",
+        "slug": "alabaster-yellow-187b",
+        "reference_url": "https://www.paintscratch.com/colors/saab/alabaster-yellow-187b/",
+        "source_label": "PaintScratch 1979 Saab",
+        "hex_value": "#E9D563"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "BK01",
+        "slug": "black-bk01",
+        "reference_url": "https://www.paintscratch.com/colors/saab/black-bk01/",
+        "source_label": "PaintScratch 1979 Saab",
+        "hex_value": "#191A1B"
+      },
+      {
+        "display_name": "Dorado Brown",
+        "paint_code": "BK02",
+        "slug": "dorado-brown-bk02",
+        "reference_url": "https://www.paintscratch.com/colors/saab/dorado-brown-bk02/",
+        "source_label": "PaintScratch 1979 Saab",
+        "hex_value": "#78593E"
+      },
+      {
+        "display_name": "Solar Red",
+        "paint_code": "R04",
+        "slug": "solar-red-r04",
+        "reference_url": "https://www.paintscratch.com/colors/saab/solar-red-r04/",
+        "source_label": "PaintScratch 1979 Saab",
+        "hex_value": "#AC3B2C"
+      },
+      {
+        "display_name": "Cardinal Red Metallic",
+        "paint_code": "R06",
+        "slug": "cardinal-red-metallic-r06",
+        "reference_url": "https://www.paintscratch.com/colors/saab/cardinal-red-metallic-r06/",
+        "source_label": "PaintScratch 1979 Saab",
+        "hex_value": "#AF2411"
+      },
+      {
+        "display_name": "Anthracite Gray Metallic",
+        "paint_code": "SK02",
+        "slug": "anthracite-gray-metallic-sk02",
+        "reference_url": "https://www.paintscratch.com/colors/saab/anthracite-gray-metallic-sk02/",
+        "source_label": "PaintScratch 1979 Saab",
+        "hex_value": "#818387"
+      }
+    ],
+    "1980": [
+      {
+        "display_name": "Carmine Red Metallic",
+        "paint_code": "124B",
+        "slug": "carmine-red-metallic-124b",
+        "reference_url": "https://www.paintscratch.com/colors/saab/carmine-red-metallic-124b/",
+        "source_label": "PaintScratch 1980 Saab",
+        "hex_value": "#932C1B"
+      },
+      {
+        "display_name": "Midnight Blue",
+        "paint_code": "136H",
+        "slug": "midnight-blue-136h",
+        "reference_url": "https://www.paintscratch.com/colors/saab/midnight-blue-136h/",
+        "source_label": "PaintScratch 1980 Saab",
+        "hex_value": "#283346"
+      },
+      {
+        "display_name": "Aquamarine Blue Metallic",
+        "paint_code": "137B",
+        "slug": "aquamarine-blue-metallic-137b",
+        "reference_url": "https://www.paintscratch.com/colors/saab/aquamarine-blue-metallic-137b/",
+        "source_label": "PaintScratch 1980 Saab",
+        "hex_value": "#3B8493"
+      },
+      {
+        "display_name": "Acacia Green Metallic",
+        "paint_code": "148B",
+        "slug": "acacia-green-metallic-148b",
+        "reference_url": "https://www.paintscratch.com/colors/saab/acacia-green-metallic-148b/",
+        "source_label": "PaintScratch 1980 Saab",
+        "hex_value": "#3B935C"
+      },
+      {
+        "display_name": "Marble White",
+        "paint_code": "152G",
+        "slug": "marble-white-152g",
+        "reference_url": "https://www.paintscratch.com/colors/saab/marble-white-152g/",
+        "source_label": "PaintScratch 1980 Saab",
+        "hex_value": "#FDFFF1"
+      },
+      {
+        "display_name": "Chamotte Bronze",
+        "paint_code": "167H",
+        "slug": "chamotte-bronze-167h",
+        "reference_url": "https://www.paintscratch.com/colors/saab/chamotte-bronze-167h/",
+        "source_label": "PaintScratch 1980 Saab",
+        "hex_value": "#906C48"
+      },
+      {
+        "display_name": "Alabaster Yellow",
+        "paint_code": "187B",
+        "slug": "alabaster-yellow-187b",
+        "reference_url": "https://www.paintscratch.com/colors/saab/alabaster-yellow-187b/",
+        "source_label": "PaintScratch 1980 Saab",
+        "hex_value": "#E9D563"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "BK01",
+        "slug": "black-bk01",
+        "reference_url": "https://www.paintscratch.com/colors/saab/black-bk01/",
+        "source_label": "PaintScratch 1980 Saab",
+        "hex_value": "#191A1B"
+      },
+      {
+        "display_name": "Dorado Brown",
+        "paint_code": "BK02",
+        "slug": "dorado-brown-bk02",
+        "reference_url": "https://www.paintscratch.com/colors/saab/dorado-brown-bk02/",
+        "source_label": "PaintScratch 1980 Saab",
+        "hex_value": "#78593E"
+      },
+      {
+        "display_name": "Solar Red",
+        "paint_code": "R04",
+        "slug": "solar-red-r04",
+        "reference_url": "https://www.paintscratch.com/colors/saab/solar-red-r04/",
+        "source_label": "PaintScratch 1980 Saab",
+        "hex_value": "#AC3B2C"
+      },
+      {
+        "display_name": "Anthracite Gray Metallic",
+        "paint_code": "SK02",
+        "slug": "anthracite-gray-metallic-sk02",
+        "reference_url": "https://www.paintscratch.com/colors/saab/anthracite-gray-metallic-sk02/",
+        "source_label": "PaintScratch 1980 Saab",
+        "hex_value": "#818387"
+      }
+    ],
+    "1981": [
+      {
+        "display_name": "Carmine Red Metallic",
+        "paint_code": "124B",
+        "slug": "carmine-red-metallic-124b",
+        "reference_url": "https://www.paintscratch.com/colors/saab/carmine-red-metallic-124b/",
+        "source_label": "PaintScratch 1981 Saab",
+        "hex_value": "#932C1B"
+      },
+      {
+        "display_name": "Ruby Red Metallic",
+        "paint_code": "125H",
+        "slug": "ruby-red-metallic-125h",
+        "reference_url": "https://www.paintscratch.com/colors/saab/ruby-red-metallic-125h/",
+        "source_label": "PaintScratch 1981 Saab",
+        "hex_value": "#8D4141"
+      },
+      {
+        "display_name": "Terra Cotta",
+        "paint_code": "126G",
+        "slug": "terra-cotta-126g",
+        "reference_url": "https://www.paintscratch.com/colors/saab/terra-cotta-126g/",
+        "source_label": "PaintScratch 1981 Saab",
+        "hex_value": "#3D6B41"
+      },
+      {
+        "display_name": "Indigo Blue Metallic",
+        "paint_code": "130G",
+        "slug": "indigo-blue-metallic-130g",
+        "reference_url": "https://www.paintscratch.com/colors/saab/indigo-blue-metallic-130g/",
+        "source_label": "PaintScratch 1981 Saab",
+        "hex_value": "#1B2A45"
+      },
+      {
+        "display_name": "Midnight Blue",
+        "paint_code": "136H",
+        "slug": "midnight-blue-136h",
+        "reference_url": "https://www.paintscratch.com/colors/saab/midnight-blue-136h/",
+        "source_label": "PaintScratch 1981 Saab",
+        "hex_value": "#283346"
+      },
+      {
+        "display_name": "Indigo Blue Metallic",
+        "paint_code": "139B",
+        "slug": "indigo-blue-metallic-139b",
+        "reference_url": "https://www.paintscratch.com/colors/saab/indigo-blue-metallic-139b/",
+        "source_label": "PaintScratch 1981 Saab",
+        "hex_value": "#1B2A45"
+      },
+      {
+        "display_name": "Pine Green Metallic",
+        "paint_code": "140B",
+        "slug": "pine-green-metallic-140b",
+        "reference_url": "https://www.paintscratch.com/colors/saab/pine-green-metallic-140b/",
+        "source_label": "PaintScratch 1981 Saab",
+        "hex_value": "#1C623F"
+      },
+      {
+        "display_name": "Acacia Green Metallic",
+        "paint_code": "148B",
+        "slug": "acacia-green-metallic-148b",
+        "reference_url": "https://www.paintscratch.com/colors/saab/acacia-green-metallic-148b/",
+        "source_label": "PaintScratch 1981 Saab",
+        "hex_value": "#3B935C"
+      },
+      {
+        "display_name": "Pine Green Metallic",
+        "paint_code": "149B",
+        "slug": "pine-green-metallic-149b",
+        "reference_url": "https://www.paintscratch.com/colors/saab/pine-green-metallic-149b/",
+        "source_label": "PaintScratch 1981 Saab",
+        "hex_value": "#1C623F"
+      },
+      {
+        "display_name": "Cirrus White",
+        "paint_code": "153B",
+        "slug": "cirrus-white-153b",
+        "reference_url": "https://www.paintscratch.com/colors/saab/cirrus-white-153b/",
+        "source_label": "PaintScratch 1981 Saab",
+        "hex_value": "#E5EAD9"
+      },
+      {
+        "display_name": "Cameo Beige",
+        "paint_code": "161B",
+        "slug": "cameo-beige-161b",
+        "reference_url": "https://www.paintscratch.com/colors/saab/cameo-beige-161b/",
+        "source_label": "PaintScratch 1981 Saab",
+        "hex_value": "#D3CBB7"
+      },
+      {
+        "display_name": "Walnut Brown Metallic",
+        "paint_code": "169G",
+        "slug": "walnut-brown-metallic-169g",
+        "reference_url": "https://www.paintscratch.com/colors/saab/walnut-brown-metallic-169g/",
+        "source_label": "PaintScratch 1981 Saab",
+        "hex_value": "#6A573A"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "172B",
+        "slug": "silver-metallic-172b",
+        "reference_url": "https://www.paintscratch.com/colors/saab/silver-metallic-172b/",
+        "source_label": "PaintScratch 1981 Saab",
+        "hex_value": "#CED6DE"
+      },
+      {
+        "display_name": "Alabaster Yellow",
+        "paint_code": "187B",
+        "slug": "alabaster-yellow-187b",
+        "reference_url": "https://www.paintscratch.com/colors/saab/alabaster-yellow-187b/",
+        "source_label": "PaintScratch 1981 Saab",
+        "hex_value": "#E9D563"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "BK01/170B",
+        "slug": "black-bk01170b",
+        "reference_url": "https://www.paintscratch.com/colors/saab/black-bk01170b/",
+        "source_label": "PaintScratch 1981 Saab",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Dorado Brown",
+        "paint_code": "BK02/165B",
+        "slug": "dorado-brown-bk02165b",
+        "reference_url": "https://www.paintscratch.com/colors/saab/dorado-brown-bk02165b/",
+        "source_label": "PaintScratch 1981 Saab",
+        "hex_value": "#674A33"
+      }
+    ],
+    "1982": [
+      {
+        "display_name": "Cherry Red",
+        "paint_code": "127H",
+        "slug": "cherry-red-127h",
+        "reference_url": "https://www.paintscratch.com/colors/saab/cherry-red-127h/",
+        "source_label": "PaintScratch 1982 Saab",
+        "hex_value": "#A10303"
+      },
+      {
+        "display_name": "Slate Blue Metallic",
+        "paint_code": "112B",
+        "slug": "slate-blue-metallic-112b",
+        "reference_url": "https://www.paintscratch.com/colors/saab/slate-blue-metallic-112b/",
+        "source_label": "PaintScratch 1982 Saab",
+        "hex_value": "#ACACB4"
+      },
+      {
+        "display_name": "Amaranth Red Metallic",
+        "paint_code": "113G",
+        "slug": "amaranth-red-metallic-113g",
+        "reference_url": "https://www.paintscratch.com/colors/saab/amaranth-red-metallic-113g/",
+        "source_label": "PaintScratch 1982 Saab",
+        "hex_value": "#A03712"
+      },
+      {
+        "display_name": "Carmine Red Metallic",
+        "paint_code": "124B",
+        "slug": "carmine-red-metallic-124b",
+        "reference_url": "https://www.paintscratch.com/colors/saab/carmine-red-metallic-124b/",
+        "source_label": "PaintScratch 1982 Saab",
+        "hex_value": "#932C1B"
+      },
+      {
+        "display_name": "Indigo Blue Metallic",
+        "paint_code": "130G",
+        "slug": "indigo-blue-metallic-130g",
+        "reference_url": "https://www.paintscratch.com/colors/saab/indigo-blue-metallic-130g/",
+        "source_label": "PaintScratch 1982 Saab",
+        "hex_value": "#1B2A45"
+      },
+      {
+        "display_name": "Admiral Blue",
+        "paint_code": "131H",
+        "slug": "admiral-blue-131h",
+        "reference_url": "https://www.paintscratch.com/colors/saab/admiral-blue-131h/",
+        "source_label": "PaintScratch 1982 Saab",
+        "hex_value": "#02045E"
+      },
+      {
+        "display_name": "Indigo Blue Metallic",
+        "paint_code": "139B",
+        "slug": "indigo-blue-metallic-139b",
+        "reference_url": "https://www.paintscratch.com/colors/saab/indigo-blue-metallic-139b/",
+        "source_label": "PaintScratch 1982 Saab",
+        "hex_value": "#1B2A45"
+      },
+      {
+        "display_name": "Pine Green Metallic",
+        "paint_code": "140B",
+        "slug": "pine-green-metallic-140b",
+        "reference_url": "https://www.paintscratch.com/colors/saab/pine-green-metallic-140b/",
+        "source_label": "PaintScratch 1982 Saab",
+        "hex_value": "#1C623F"
+      },
+      {
+        "display_name": "Acacia Green Metallic",
+        "paint_code": "148B",
+        "slug": "acacia-green-metallic-148b",
+        "reference_url": "https://www.paintscratch.com/colors/saab/acacia-green-metallic-148b/",
+        "source_label": "PaintScratch 1982 Saab",
+        "hex_value": "#3B935C"
+      },
+      {
+        "display_name": "Pine Green Metallic",
+        "paint_code": "149B",
+        "slug": "pine-green-metallic-149b",
+        "reference_url": "https://www.paintscratch.com/colors/saab/pine-green-metallic-149b/",
+        "source_label": "PaintScratch 1982 Saab",
+        "hex_value": "#1C623F"
+      },
+      {
+        "display_name": "Cirrus White",
+        "paint_code": "153B",
+        "slug": "cirrus-white-153b",
+        "reference_url": "https://www.paintscratch.com/colors/saab/cirrus-white-153b/",
+        "source_label": "PaintScratch 1982 Saab",
+        "hex_value": "#E5EAD9"
+      },
+      {
+        "display_name": "Ivory",
+        "paint_code": "155G",
+        "slug": "ivory-155g",
+        "reference_url": "https://www.paintscratch.com/colors/saab/ivory-155g/",
+        "source_label": "PaintScratch 1982 Saab",
+        "hex_value": "#F9FCD6"
+      },
+      {
+        "display_name": "Cameo Beige",
+        "paint_code": "161B",
+        "slug": "cameo-beige-161b",
+        "reference_url": "https://www.paintscratch.com/colors/saab/cameo-beige-161b/",
+        "source_label": "PaintScratch 1982 Saab",
+        "hex_value": "#D3CBB7"
+      },
+      {
+        "display_name": "Maroon",
+        "paint_code": "168B",
+        "slug": "maroon-168b",
+        "reference_url": "https://www.paintscratch.com/colors/saab/maroon-168b/",
+        "source_label": "PaintScratch 1982 Saab",
+        "hex_value": "#620808"
+      },
+      {
+        "display_name": "Walnut Brown Metallic",
+        "paint_code": "169G",
+        "slug": "walnut-brown-metallic-169g",
+        "reference_url": "https://www.paintscratch.com/colors/saab/walnut-brown-metallic-169g/",
+        "source_label": "PaintScratch 1982 Saab",
+        "hex_value": "#6A573A"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "170B/BKD1",
+        "slug": "black-170bbkd1",
+        "reference_url": "https://www.paintscratch.com/colors/saab/black-170bbkd1/",
+        "source_label": "PaintScratch 1982 Saab",
+        "hex_value": "#000000"
+      }
+    ],
+    "1983": [
+      {
+        "display_name": "Cherry Red",
+        "paint_code": "127H",
+        "slug": "cherry-red-127h",
+        "reference_url": "https://www.paintscratch.com/colors/saab/cherry-red-127h/",
+        "source_label": "PaintScratch 1983 Saab",
+        "hex_value": "#A10303"
+      },
+      {
+        "display_name": "Slate Blue Metallic",
+        "paint_code": "112B",
+        "slug": "slate-blue-metallic-112b",
+        "reference_url": "https://www.paintscratch.com/colors/saab/slate-blue-metallic-112b/",
+        "source_label": "PaintScratch 1983 Saab",
+        "hex_value": "#ACACB4"
+      },
+      {
+        "display_name": "Amaranth Red Metallic",
+        "paint_code": "113G",
+        "slug": "amaranth-red-metallic-113g",
+        "reference_url": "https://www.paintscratch.com/colors/saab/amaranth-red-metallic-113g/",
+        "source_label": "PaintScratch 1983 Saab",
+        "hex_value": "#A03712"
+      },
+      {
+        "display_name": "Indigo Blue Metallic",
+        "paint_code": "130G",
+        "slug": "indigo-blue-metallic-130g",
+        "reference_url": "https://www.paintscratch.com/colors/saab/indigo-blue-metallic-130g/",
+        "source_label": "PaintScratch 1983 Saab",
+        "hex_value": "#1B2A45"
+      },
+      {
+        "display_name": "Admiral Blue",
+        "paint_code": "131H",
+        "slug": "admiral-blue-131h",
+        "reference_url": "https://www.paintscratch.com/colors/saab/admiral-blue-131h/",
+        "source_label": "PaintScratch 1983 Saab",
+        "hex_value": "#02045E"
+      },
+      {
+        "display_name": "Pine Green Metallic",
+        "paint_code": "140B",
+        "slug": "pine-green-metallic-140b",
+        "reference_url": "https://www.paintscratch.com/colors/saab/pine-green-metallic-140b/",
+        "source_label": "PaintScratch 1983 Saab",
+        "hex_value": "#1C623F"
+      },
+      {
+        "display_name": "Cirrus White",
+        "paint_code": "153B",
+        "slug": "cirrus-white-153b",
+        "reference_url": "https://www.paintscratch.com/colors/saab/cirrus-white-153b/",
+        "source_label": "PaintScratch 1983 Saab",
+        "hex_value": "#E5EAD9"
+      },
+      {
+        "display_name": "Ivory",
+        "paint_code": "155G",
+        "slug": "ivory-155g",
+        "reference_url": "https://www.paintscratch.com/colors/saab/ivory-155g/",
+        "source_label": "PaintScratch 1983 Saab",
+        "hex_value": "#F9FCD6"
+      },
+      {
+        "display_name": "Maroon",
+        "paint_code": "168B",
+        "slug": "maroon-168b",
+        "reference_url": "https://www.paintscratch.com/colors/saab/maroon-168b/",
+        "source_label": "PaintScratch 1983 Saab",
+        "hex_value": "#620808"
+      },
+      {
+        "display_name": "Walnut Brown Metallic",
+        "paint_code": "169G",
+        "slug": "walnut-brown-metallic-169g",
+        "reference_url": "https://www.paintscratch.com/colors/saab/walnut-brown-metallic-169g/",
+        "source_label": "PaintScratch 1983 Saab",
+        "hex_value": "#6A573A"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "170B/BKD1",
+        "slug": "black-170bbkd1",
+        "reference_url": "https://www.paintscratch.com/colors/saab/black-170bbkd1/",
+        "source_label": "PaintScratch 1983 Saab",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "172B",
+        "slug": "silver-metallic-172b",
+        "reference_url": "https://www.paintscratch.com/colors/saab/silver-metallic-172b/",
+        "source_label": "PaintScratch 1983 Saab",
+        "hex_value": "#CED6DE"
+      }
+    ],
+    "1984": [
+      {
+        "display_name": "Cherry Red",
+        "paint_code": "127H",
+        "slug": "cherry-red-127h",
+        "reference_url": "https://www.paintscratch.com/colors/saab/cherry-red-127h/",
+        "source_label": "PaintScratch 1984 Saab",
+        "hex_value": "#A10303"
+      },
+      {
+        "display_name": "Slate Blue Metallic",
+        "paint_code": "112B",
+        "slug": "slate-blue-metallic-112b",
+        "reference_url": "https://www.paintscratch.com/colors/saab/slate-blue-metallic-112b/",
+        "source_label": "PaintScratch 1984 Saab",
+        "hex_value": "#ACACB4"
+      },
+      {
+        "display_name": "Amaranth Red Metallic",
+        "paint_code": "113G",
+        "slug": "amaranth-red-metallic-113g",
+        "reference_url": "https://www.paintscratch.com/colors/saab/amaranth-red-metallic-113g/",
+        "source_label": "PaintScratch 1984 Saab",
+        "hex_value": "#A03712"
+      },
+      {
+        "display_name": "Azure Blue",
+        "paint_code": "116B",
+        "slug": "azure-blue-116b",
+        "reference_url": "https://www.paintscratch.com/colors/saab/azure-blue-116b/",
+        "source_label": "PaintScratch 1984 Saab",
+        "hex_value": "#44899A"
+      },
+      {
+        "display_name": "Platinum Blue Metallic",
+        "paint_code": "117M",
+        "slug": "platinum-blue-metallic-117m",
+        "reference_url": "https://www.paintscratch.com/colors/saab/platinum-blue-metallic-117m/",
+        "source_label": "PaintScratch 1984 Saab",
+        "hex_value": "#B7C3CF"
+      },
+      {
+        "display_name": "Admiral Blue",
+        "paint_code": "131H",
+        "slug": "admiral-blue-131h",
+        "reference_url": "https://www.paintscratch.com/colors/saab/admiral-blue-131h/",
+        "source_label": "PaintScratch 1984 Saab",
+        "hex_value": "#02045E"
+      },
+      {
+        "display_name": "Pine Green Metallic",
+        "paint_code": "140B",
+        "slug": "pine-green-metallic-140b",
+        "reference_url": "https://www.paintscratch.com/colors/saab/pine-green-metallic-140b/",
+        "source_label": "PaintScratch 1984 Saab",
+        "hex_value": "#1C623F"
+      },
+      {
+        "display_name": "Cirrus White",
+        "paint_code": "153B",
+        "slug": "cirrus-white-153b",
+        "reference_url": "https://www.paintscratch.com/colors/saab/cirrus-white-153b/",
+        "source_label": "PaintScratch 1984 Saab",
+        "hex_value": "#E5EAD9"
+      },
+      {
+        "display_name": "Ivory",
+        "paint_code": "155G",
+        "slug": "ivory-155g",
+        "reference_url": "https://www.paintscratch.com/colors/saab/ivory-155g/",
+        "source_label": "PaintScratch 1984 Saab",
+        "hex_value": "#F9FCD6"
+      },
+      {
+        "display_name": "Maroon",
+        "paint_code": "168B",
+        "slug": "maroon-168b",
+        "reference_url": "https://www.paintscratch.com/colors/saab/maroon-168b/",
+        "source_label": "PaintScratch 1984 Saab",
+        "hex_value": "#620808"
+      },
+      {
+        "display_name": "Walnut Brown Metallic",
+        "paint_code": "169G",
+        "slug": "walnut-brown-metallic-169g",
+        "reference_url": "https://www.paintscratch.com/colors/saab/walnut-brown-metallic-169g/",
+        "source_label": "PaintScratch 1984 Saab",
+        "hex_value": "#6A573A"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "170B/BKD1",
+        "slug": "black-170bbkd1",
+        "reference_url": "https://www.paintscratch.com/colors/saab/black-170bbkd1/",
+        "source_label": "PaintScratch 1984 Saab",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "172B",
+        "slug": "silver-metallic-172b",
+        "reference_url": "https://www.paintscratch.com/colors/saab/silver-metallic-172b/",
+        "source_label": "PaintScratch 1984 Saab",
+        "hex_value": "#CED6DE"
+      }
+    ],
+    "1985": [
+      {
+        "display_name": "Cherry Red",
+        "paint_code": "127H",
+        "slug": "cherry-red-127h",
+        "reference_url": "https://www.paintscratch.com/colors/saab/cherry-red-127h/",
+        "source_label": "PaintScratch 1985 Saab",
+        "hex_value": "#A10303"
+      },
+      {
+        "display_name": "Slate Blue Metallic",
+        "paint_code": "112B",
+        "slug": "slate-blue-metallic-112b",
+        "reference_url": "https://www.paintscratch.com/colors/saab/slate-blue-metallic-112b/",
+        "source_label": "PaintScratch 1985 Saab",
+        "hex_value": "#ACACB4"
+      },
+      {
+        "display_name": "Azure Blue",
+        "paint_code": "116B",
+        "slug": "azure-blue-116b",
+        "reference_url": "https://www.paintscratch.com/colors/saab/azure-blue-116b/",
+        "source_label": "PaintScratch 1985 Saab",
+        "hex_value": "#44899A"
+      },
+      {
+        "display_name": "Platinum Blue Metallic",
+        "paint_code": "117M",
+        "slug": "platinum-blue-metallic-117m",
+        "reference_url": "https://www.paintscratch.com/colors/saab/platinum-blue-metallic-117m/",
+        "source_label": "PaintScratch 1985 Saab",
+        "hex_value": "#B7C3CF"
+      },
+      {
+        "display_name": "Rose Quartz Metallic",
+        "paint_code": "129H",
+        "slug": "rose-quartz-metallic-129h",
+        "reference_url": "https://www.paintscratch.com/colors/saab/rose-quartz-metallic-129h/",
+        "source_label": "PaintScratch 1985 Saab",
+        "hex_value": "#E5DFE2"
+      },
+      {
+        "display_name": "Admiral Blue",
+        "paint_code": "131H",
+        "slug": "admiral-blue-131h",
+        "reference_url": "https://www.paintscratch.com/colors/saab/admiral-blue-131h/",
+        "source_label": "PaintScratch 1985 Saab",
+        "hex_value": "#02045E"
+      },
+      {
+        "display_name": "Pine Green Metallic",
+        "paint_code": "140B",
+        "slug": "pine-green-metallic-140b",
+        "reference_url": "https://www.paintscratch.com/colors/saab/pine-green-metallic-140b/",
+        "source_label": "PaintScratch 1985 Saab",
+        "hex_value": "#1C623F"
+      },
+      {
+        "display_name": "Cirrus White",
+        "paint_code": "153B",
+        "slug": "cirrus-white-153b",
+        "reference_url": "https://www.paintscratch.com/colors/saab/cirrus-white-153b/",
+        "source_label": "PaintScratch 1985 Saab",
+        "hex_value": "#E5EAD9"
+      },
+      {
+        "display_name": "Ivory",
+        "paint_code": "155G",
+        "slug": "ivory-155g",
+        "reference_url": "https://www.paintscratch.com/colors/saab/ivory-155g/",
+        "source_label": "PaintScratch 1985 Saab",
+        "hex_value": "#F9FCD6"
+      },
+      {
+        "display_name": "Maroon",
+        "paint_code": "168B",
+        "slug": "maroon-168b",
+        "reference_url": "https://www.paintscratch.com/colors/saab/maroon-168b/",
+        "source_label": "PaintScratch 1985 Saab",
+        "hex_value": "#620808"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "170B/BKD1",
+        "slug": "black-170bbkd1",
+        "reference_url": "https://www.paintscratch.com/colors/saab/black-170bbkd1/",
+        "source_label": "PaintScratch 1985 Saab",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "172B",
+        "slug": "silver-metallic-172b",
+        "reference_url": "https://www.paintscratch.com/colors/saab/silver-metallic-172b/",
+        "source_label": "PaintScratch 1985 Saab",
+        "hex_value": "#CED6DE"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "172H",
+        "slug": "silver-metallic-172h",
+        "reference_url": "https://www.paintscratch.com/colors/saab/silver-metallic-172h/",
+        "source_label": "PaintScratch 1985 Saab",
+        "hex_value": "#CED6DE"
+      }
+    ],
+    "1986": [
+      {
+        "display_name": "Cherry Red",
+        "paint_code": "127H",
+        "slug": "cherry-red-127h",
+        "reference_url": "https://www.paintscratch.com/colors/saab/cherry-red-127h/",
+        "source_label": "PaintScratch 1986 Saab",
+        "hex_value": "#A10303"
+      },
+      {
+        "display_name": "Slate Blue Metallic",
+        "paint_code": "112B",
+        "slug": "slate-blue-metallic-112b",
+        "reference_url": "https://www.paintscratch.com/colors/saab/slate-blue-metallic-112b/",
+        "source_label": "PaintScratch 1986 Saab",
+        "hex_value": "#ACACB4"
+      },
+      {
+        "display_name": "Platinum Blue Metallic",
+        "paint_code": "117H",
+        "slug": "platinum-blue-metallic-117h",
+        "reference_url": "https://www.paintscratch.com/colors/saab/platinum-blue-metallic-117h/",
+        "source_label": "PaintScratch 1986 Saab",
+        "hex_value": "#B7C3CF"
+      },
+      {
+        "display_name": "Carmosine Red Metallic",
+        "paint_code": "120G",
+        "slug": "carmosine-red-metallic-120g",
+        "reference_url": "https://www.paintscratch.com/colors/saab/carmosine-red-metallic-120g/",
+        "source_label": "PaintScratch 1986 Saab",
+        "hex_value": "#DA5AA2"
+      },
+      {
+        "display_name": "Rose Quartz Metallic",
+        "paint_code": "129H",
+        "slug": "rose-quartz-metallic-129h",
+        "reference_url": "https://www.paintscratch.com/colors/saab/rose-quartz-metallic-129h/",
+        "source_label": "PaintScratch 1986 Saab",
+        "hex_value": "#E5DFE2"
+      },
+      {
+        "display_name": "Admiral Blue",
+        "paint_code": "131H",
+        "slug": "admiral-blue-131h",
+        "reference_url": "https://www.paintscratch.com/colors/saab/admiral-blue-131h/",
+        "source_label": "PaintScratch 1986 Saab",
+        "hex_value": "#02045E"
+      },
+      {
+        "display_name": "Cirrus White",
+        "paint_code": "153B",
+        "slug": "cirrus-white-153b",
+        "reference_url": "https://www.paintscratch.com/colors/saab/cirrus-white-153b/",
+        "source_label": "PaintScratch 1986 Saab",
+        "hex_value": "#E5EAD9"
+      },
+      {
+        "display_name": "Pearl Metallic",
+        "paint_code": "156G",
+        "slug": "pearl-metallic-156g",
+        "reference_url": "https://www.paintscratch.com/colors/saab/pearl-metallic-156g/",
+        "source_label": "PaintScratch 1986 Saab",
+        "hex_value": "#C8C192"
+      },
+      {
+        "display_name": "Zircon Blue",
+        "paint_code": "157B",
+        "slug": "zircon-blue-157b",
+        "reference_url": "https://www.paintscratch.com/colors/saab/zircon-blue-157b/",
+        "source_label": "PaintScratch 1986 Saab",
+        "hex_value": "#A5AEBB"
+      },
+      {
+        "display_name": "Edwardian Gray Metallic",
+        "paint_code": "158G",
+        "slug": "edwardian-gray-metallic-158g",
+        "reference_url": "https://www.paintscratch.com/colors/saab/edwardian-gray-metallic-158g/",
+        "source_label": "PaintScratch 1986 Saab",
+        "hex_value": "#899488"
+      },
+      {
+        "display_name": "Malachite Green Metallic",
+        "paint_code": "159G",
+        "slug": "malachite-green-metallic-159g",
+        "reference_url": "https://www.paintscratch.com/colors/saab/malachite-green-metallic-159g/",
+        "source_label": "PaintScratch 1986 Saab",
+        "hex_value": "#A6C8A6"
+      },
+      {
+        "display_name": "Dolomite Sand",
+        "paint_code": "162B",
+        "slug": "dolomite-sand-162b",
+        "reference_url": "https://www.paintscratch.com/colors/saab/dolomite-sand-162b/",
+        "source_label": "PaintScratch 1986 Saab",
+        "hex_value": "#C4B28C"
+      },
+      {
+        "display_name": "Maroon",
+        "paint_code": "168B",
+        "slug": "maroon-168b",
+        "reference_url": "https://www.paintscratch.com/colors/saab/maroon-168b/",
+        "source_label": "PaintScratch 1986 Saab",
+        "hex_value": "#620808"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "170B/BKD1",
+        "slug": "black-170bbkd1",
+        "reference_url": "https://www.paintscratch.com/colors/saab/black-170bbkd1/",
+        "source_label": "PaintScratch 1986 Saab",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "172H",
+        "slug": "silver-metallic-172h",
+        "reference_url": "https://www.paintscratch.com/colors/saab/silver-metallic-172h/",
+        "source_label": "PaintScratch 1986 Saab",
+        "hex_value": "#CED6DE"
+      }
+    ],
+    "1987": [
+      {
+        "display_name": "Cherry Red",
+        "paint_code": "127H",
+        "slug": "cherry-red-127h",
+        "reference_url": "https://www.paintscratch.com/colors/saab/cherry-red-127h/",
+        "source_label": "PaintScratch 1987 Saab",
+        "hex_value": "#A10303"
+      },
+      {
+        "display_name": "Bronze Metallic",
+        "paint_code": "201H",
+        "slug": "bronze-metallic-201h",
+        "reference_url": "https://www.paintscratch.com/colors/saab/bronze-metallic-201h/",
+        "source_label": "PaintScratch 1987 Saab",
+        "hex_value": "#DCC6A0"
+      },
+      {
+        "display_name": "Cirrus White",
+        "paint_code": "153B",
+        "slug": "cirrus-white-153b",
+        "reference_url": "https://www.paintscratch.com/colors/saab/cirrus-white-153b/",
+        "source_label": "PaintScratch 1987 Saab",
+        "hex_value": "#E5EAD9"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "170B",
+        "slug": "black-170b",
+        "reference_url": "https://www.paintscratch.com/colors/saab/black-170b/",
+        "source_label": "PaintScratch 1987 Saab",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Ant Grey (matt) Metallic",
+        "paint_code": "176",
+        "slug": "ant-grey-matt-metallic-176",
+        "reference_url": "https://www.paintscratch.com/colors/saab/ant-grey-matt-metallic-176/",
+        "source_label": "PaintScratch 1987 Saab",
+        "hex_value": "#2F352C"
+      },
+      {
+        "display_name": "Florentine Yellow",
+        "paint_code": "188B",
+        "slug": "florentine-yellow-188b",
+        "reference_url": "https://www.paintscratch.com/colors/saab/florentine-yellow-188b/",
+        "source_label": "PaintScratch 1987 Saab",
+        "hex_value": "#EAE4A0"
+      },
+      {
+        "display_name": "Embassay Blue",
+        "paint_code": "198G",
+        "slug": "embassay-blue-198g",
+        "reference_url": "https://www.paintscratch.com/colors/saab/embassay-blue-198g/",
+        "source_label": "PaintScratch 1987 Saab",
+        "hex_value": "#010647"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "200H",
+        "slug": "silver-metallic-200h",
+        "reference_url": "https://www.paintscratch.com/colors/saab/silver-metallic-200h/",
+        "source_label": "PaintScratch 1987 Saab",
+        "hex_value": "#CED6DE"
+      },
+      {
+        "display_name": "Rose Quartz Metallic",
+        "paint_code": "202H",
+        "slug": "rose-quartz-metallic-202h",
+        "reference_url": "https://www.paintscratch.com/colors/saab/rose-quartz-metallic-202h/",
+        "source_label": "PaintScratch 1987 Saab",
+        "hex_value": "#BFB8AF"
+      },
+      {
+        "display_name": "Platinum Blue Metallic",
+        "paint_code": "203H",
+        "slug": "platinum-blue-metallic-203h",
+        "reference_url": "https://www.paintscratch.com/colors/saab/platinum-blue-metallic-203h/",
+        "source_label": "PaintScratch 1987 Saab",
+        "hex_value": "#C6D3D8"
+      },
+      {
+        "display_name": "Edwardian Gray Metallic",
+        "paint_code": "204",
+        "slug": "edwardian-gray-metallic-204",
+        "reference_url": "https://www.paintscratch.com/colors/saab/edwardian-gray-metallic-204/",
+        "source_label": "PaintScratch 1987 Saab",
+        "hex_value": "#899488"
+      },
+      {
+        "display_name": "Malachite Green Metallic",
+        "paint_code": "205G",
+        "slug": "malachite-green-metallic-205g",
+        "reference_url": "https://www.paintscratch.com/colors/saab/malachite-green-metallic-205g/",
+        "source_label": "PaintScratch 1987 Saab",
+        "hex_value": "#BED3BD"
+      },
+      {
+        "display_name": "Carmosine Red Metallic",
+        "paint_code": "206G",
+        "slug": "carmosine-red-metallic-206g",
+        "reference_url": "https://www.paintscratch.com/colors/saab/carmosine-red-metallic-206g/",
+        "source_label": "PaintScratch 1987 Saab",
+        "hex_value": "#DA5AA2"
+      },
+      {
+        "display_name": "Odoardo Grey Metallic",
+        "paint_code": "223",
+        "slug": "odoardo-grey-metallic-223",
+        "reference_url": "https://www.paintscratch.com/colors/saab/odoardo-grey-metallic-223/",
+        "source_label": "PaintScratch 1987 Saab",
+        "hex_value": "#31333A"
+      }
+    ],
+    "1988": [
+      {
+        "display_name": "Bronze Metallic",
+        "paint_code": "201H",
+        "slug": "bronze-metallic-201h",
+        "reference_url": "https://www.paintscratch.com/colors/saab/bronze-metallic-201h/",
+        "source_label": "PaintScratch 1988 Saab",
+        "hex_value": "#DCC6A0"
+      },
+      {
+        "display_name": "Cirrus White",
+        "paint_code": "153B",
+        "slug": "cirrus-white-153b",
+        "reference_url": "https://www.paintscratch.com/colors/saab/cirrus-white-153b/",
+        "source_label": "PaintScratch 1988 Saab",
+        "hex_value": "#E5EAD9"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "170B",
+        "slug": "black-170b",
+        "reference_url": "https://www.paintscratch.com/colors/saab/black-170b/",
+        "source_label": "PaintScratch 1988 Saab",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Ant Grey (matt) Metallic",
+        "paint_code": "176",
+        "slug": "ant-grey-matt-metallic-176",
+        "reference_url": "https://www.paintscratch.com/colors/saab/ant-grey-matt-metallic-176/",
+        "source_label": "PaintScratch 1988 Saab",
+        "hex_value": "#2F352C"
+      },
+      {
+        "display_name": "Florentine Yellow",
+        "paint_code": "188B",
+        "slug": "florentine-yellow-188b",
+        "reference_url": "https://www.paintscratch.com/colors/saab/florentine-yellow-188b/",
+        "source_label": "PaintScratch 1988 Saab",
+        "hex_value": "#EAE4A0"
+      },
+      {
+        "display_name": "Embassay Blue",
+        "paint_code": "198G",
+        "slug": "embassay-blue-198g",
+        "reference_url": "https://www.paintscratch.com/colors/saab/embassay-blue-198g/",
+        "source_label": "PaintScratch 1988 Saab",
+        "hex_value": "#010647"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "200H",
+        "slug": "silver-metallic-200h",
+        "reference_url": "https://www.paintscratch.com/colors/saab/silver-metallic-200h/",
+        "source_label": "PaintScratch 1988 Saab",
+        "hex_value": "#CED6DE"
+      },
+      {
+        "display_name": "Rose Quartz Metallic",
+        "paint_code": "202H",
+        "slug": "rose-quartz-metallic-202h",
+        "reference_url": "https://www.paintscratch.com/colors/saab/rose-quartz-metallic-202h/",
+        "source_label": "PaintScratch 1988 Saab",
+        "hex_value": "#BFB8AF"
+      },
+      {
+        "display_name": "Platinum Blue Metallic",
+        "paint_code": "203H",
+        "slug": "platinum-blue-metallic-203h",
+        "reference_url": "https://www.paintscratch.com/colors/saab/platinum-blue-metallic-203h/",
+        "source_label": "PaintScratch 1988 Saab",
+        "hex_value": "#C6D3D8"
+      },
+      {
+        "display_name": "Edwardian Gray Metallic",
+        "paint_code": "204B",
+        "slug": "edwardian-gray-metallic-204b",
+        "reference_url": "https://www.paintscratch.com/colors/saab/edwardian-gray-metallic-204b/",
+        "source_label": "PaintScratch 1988 Saab",
+        "hex_value": "#858A84"
+      },
+      {
+        "display_name": "Malachite Green Metallic",
+        "paint_code": "205G",
+        "slug": "malachite-green-metallic-205g",
+        "reference_url": "https://www.paintscratch.com/colors/saab/malachite-green-metallic-205g/",
+        "source_label": "PaintScratch 1988 Saab",
+        "hex_value": "#BED3BD"
+      },
+      {
+        "display_name": "Sandstone Metallic",
+        "paint_code": "212B",
+        "slug": "sandstone-metallic-212b",
+        "reference_url": "https://www.paintscratch.com/colors/saab/sandstone-metallic-212b/",
+        "source_label": "PaintScratch 1988 Saab",
+        "hex_value": "#BCA4AC"
+      },
+      {
+        "display_name": "Cherry Red II",
+        "paint_code": "214H",
+        "slug": "cherry-red-ii-214h",
+        "reference_url": "https://www.paintscratch.com/colors/saab/cherry-red-ii-214h/",
+        "source_label": "PaintScratch 1988 Saab",
+        "hex_value": "#801B14"
+      },
+      {
+        "display_name": "Odoardo Grey Metallic",
+        "paint_code": "223",
+        "slug": "odoardo-grey-metallic-223",
+        "reference_url": "https://www.paintscratch.com/colors/saab/odoardo-grey-metallic-223/",
+        "source_label": "PaintScratch 1988 Saab",
+        "hex_value": "#31333A"
+      }
+    ],
+    "1989": [
+      {
+        "display_name": "Cirrus White",
+        "paint_code": "153",
+        "slug": "cirrus-white-153",
+        "reference_url": "https://www.paintscratch.com/colors/saab/cirrus-white-153/",
+        "source_label": "PaintScratch 1989 Saab",
+        "hex_value": "#E5EAD9"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "170",
+        "slug": "black-170",
+        "reference_url": "https://www.paintscratch.com/colors/saab/black-170/",
+        "source_label": "PaintScratch 1989 Saab",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Ant Grey (matt) Metallic",
+        "paint_code": "176",
+        "slug": "ant-grey-matt-metallic-176",
+        "reference_url": "https://www.paintscratch.com/colors/saab/ant-grey-matt-metallic-176/",
+        "source_label": "PaintScratch 1989 Saab",
+        "hex_value": "#2F352C"
+      },
+      {
+        "display_name": "Ambasador Blue",
+        "paint_code": "198",
+        "slug": "ambasador-blue-198",
+        "reference_url": "https://www.paintscratch.com/colors/saab/ambasador-blue-198/",
+        "source_label": "PaintScratch 1989 Saab",
+        "hex_value": "#010647"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "200H",
+        "slug": "silver-metallic-200h",
+        "reference_url": "https://www.paintscratch.com/colors/saab/silver-metallic-200h/",
+        "source_label": "PaintScratch 1989 Saab",
+        "hex_value": "#CED6DE"
+      },
+      {
+        "display_name": "Edwardian Gray Metallic",
+        "paint_code": "204B",
+        "slug": "edwardian-gray-metallic-204b",
+        "reference_url": "https://www.paintscratch.com/colors/saab/edwardian-gray-metallic-204b/",
+        "source_label": "PaintScratch 1989 Saab",
+        "hex_value": "#858A84"
+      },
+      {
+        "display_name": "Rhodon Red",
+        "paint_code": "213",
+        "slug": "rhodon-red-213",
+        "reference_url": "https://www.paintscratch.com/colors/saab/rhodon-red-213/",
+        "source_label": "PaintScratch 1989 Saab",
+        "hex_value": "#58241C"
+      },
+      {
+        "display_name": "Cherry Red",
+        "paint_code": "214",
+        "slug": "cherry-red-214",
+        "reference_url": "https://www.paintscratch.com/colors/saab/cherry-red-214/",
+        "source_label": "PaintScratch 1989 Saab",
+        "hex_value": "#801B14"
+      },
+      {
+        "display_name": "Beryl Green Metallic",
+        "paint_code": "216",
+        "slug": "beryl-green-metallic-216",
+        "reference_url": "https://www.paintscratch.com/colors/saab/beryl-green-metallic-216/",
+        "source_label": "PaintScratch 1989 Saab",
+        "hex_value": "#468D8E"
+      },
+      {
+        "display_name": "Talladega Red",
+        "paint_code": "219",
+        "slug": "talladega-red-219",
+        "reference_url": "https://www.paintscratch.com/colors/saab/talladega-red-219/",
+        "source_label": "PaintScratch 1989 Saab",
+        "hex_value": "#A72919"
+      },
+      {
+        "display_name": "Iridium Blue Metallic",
+        "paint_code": "220",
+        "slug": "iridium-blue-metallic-220",
+        "reference_url": "https://www.paintscratch.com/colors/saab/iridium-blue-metallic-220/",
+        "source_label": "PaintScratch 1989 Saab",
+        "hex_value": "#8C959F"
+      },
+      {
+        "display_name": "Odoardo Grey Metallic",
+        "paint_code": "223",
+        "slug": "odoardo-grey-metallic-223",
+        "reference_url": "https://www.paintscratch.com/colors/saab/odoardo-grey-metallic-223/",
+        "source_label": "PaintScratch 1989 Saab",
+        "hex_value": "#31333A"
+      }
+    ],
+    "1990": [
+      {
+        "display_name": "Cirrus White",
+        "paint_code": "153",
+        "slug": "cirrus-white-153",
+        "reference_url": "https://www.paintscratch.com/colors/saab/cirrus-white-153/",
+        "source_label": "PaintScratch 1990 Saab",
+        "hex_value": "#E5EAD9"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "170",
+        "slug": "black-170",
+        "reference_url": "https://www.paintscratch.com/colors/saab/black-170/",
+        "source_label": "PaintScratch 1990 Saab",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Ant Grey (matt) Metallic",
+        "paint_code": "176",
+        "slug": "ant-grey-matt-metallic-176",
+        "reference_url": "https://www.paintscratch.com/colors/saab/ant-grey-matt-metallic-176/",
+        "source_label": "PaintScratch 1990 Saab",
+        "hex_value": "#2F352C"
+      },
+      {
+        "display_name": "Ambasador Blue",
+        "paint_code": "198",
+        "slug": "ambasador-blue-198",
+        "reference_url": "https://www.paintscratch.com/colors/saab/ambasador-blue-198/",
+        "source_label": "PaintScratch 1990 Saab",
+        "hex_value": "#010647"
+      },
+      {
+        "display_name": "Rose Quartz Metallic",
+        "paint_code": "202H",
+        "slug": "rose-quartz-metallic-202h",
+        "reference_url": "https://www.paintscratch.com/colors/saab/rose-quartz-metallic-202h/",
+        "source_label": "PaintScratch 1990 Saab",
+        "hex_value": "#BFB8AF"
+      },
+      {
+        "display_name": "Edwardian Gray Metallic",
+        "paint_code": "204B",
+        "slug": "edwardian-gray-metallic-204b",
+        "reference_url": "https://www.paintscratch.com/colors/saab/edwardian-gray-metallic-204b/",
+        "source_label": "PaintScratch 1990 Saab",
+        "hex_value": "#858A84"
+      },
+      {
+        "display_name": "Malachite Green Metallic",
+        "paint_code": "205G",
+        "slug": "malachite-green-metallic-205g",
+        "reference_url": "https://www.paintscratch.com/colors/saab/malachite-green-metallic-205g/",
+        "source_label": "PaintScratch 1990 Saab",
+        "hex_value": "#BED3BD"
+      },
+      {
+        "display_name": "Rhodon Red",
+        "paint_code": "213",
+        "slug": "rhodon-red-213",
+        "reference_url": "https://www.paintscratch.com/colors/saab/rhodon-red-213/",
+        "source_label": "PaintScratch 1990 Saab",
+        "hex_value": "#58241C"
+      },
+      {
+        "display_name": "Cherry Red",
+        "paint_code": "214",
+        "slug": "cherry-red-214",
+        "reference_url": "https://www.paintscratch.com/colors/saab/cherry-red-214/",
+        "source_label": "PaintScratch 1990 Saab",
+        "hex_value": "#801B14"
+      },
+      {
+        "display_name": "Beryl Green Metallic",
+        "paint_code": "215G",
+        "slug": "beryl-green-metallic-215g",
+        "reference_url": "https://www.paintscratch.com/colors/saab/beryl-green-metallic-215g/",
+        "source_label": "PaintScratch 1990 Saab",
+        "hex_value": "#315540"
+      },
+      {
+        "display_name": "Talladega Red",
+        "paint_code": "219",
+        "slug": "talladega-red-219",
+        "reference_url": "https://www.paintscratch.com/colors/saab/talladega-red-219/",
+        "source_label": "PaintScratch 1990 Saab",
+        "hex_value": "#A72919"
+      },
+      {
+        "display_name": "Iridium Blue Metallic",
+        "paint_code": "220",
+        "slug": "iridium-blue-metallic-220",
+        "reference_url": "https://www.paintscratch.com/colors/saab/iridium-blue-metallic-220/",
+        "source_label": "PaintScratch 1990 Saab",
+        "hex_value": "#8C959F"
+      }
+    ],
+    "1991": [
+      {
+        "display_name": "Cirrus White",
+        "paint_code": "153",
+        "slug": "cirrus-white-153",
+        "reference_url": "https://www.paintscratch.com/colors/saab/cirrus-white-153/",
+        "source_label": "PaintScratch 1991 Saab",
+        "hex_value": "#E5EAD9"
+      },
+      {
+        "display_name": "Citrin Beige Metallic",
+        "paint_code": "227",
+        "slug": "citrin-beige-metallic-227",
+        "reference_url": "https://www.paintscratch.com/colors/saab/citrin-beige-metallic-227/",
+        "source_label": "PaintScratch 1991 Saab",
+        "hex_value": "#C5C1B3"
+      },
+      {
+        "display_name": "Scarabe Green Metallic",
+        "paint_code": "230",
+        "slug": "scarabe-green-metallic-230",
+        "reference_url": "https://www.paintscratch.com/colors/saab/scarabe-green-metallic-230/",
+        "source_label": "PaintScratch 1991 Saab",
+        "hex_value": "#195132"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "170",
+        "slug": "black-170",
+        "reference_url": "https://www.paintscratch.com/colors/saab/black-170/",
+        "source_label": "PaintScratch 1991 Saab",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Ant Grey (matt) Metallic",
+        "paint_code": "176",
+        "slug": "ant-grey-matt-metallic-176",
+        "reference_url": "https://www.paintscratch.com/colors/saab/ant-grey-matt-metallic-176/",
+        "source_label": "PaintScratch 1991 Saab",
+        "hex_value": "#2F352C"
+      },
+      {
+        "display_name": "Ambasador Blue",
+        "paint_code": "198",
+        "slug": "ambasador-blue-198",
+        "reference_url": "https://www.paintscratch.com/colors/saab/ambasador-blue-198/",
+        "source_label": "PaintScratch 1991 Saab",
+        "hex_value": "#010647"
+      },
+      {
+        "display_name": "Rhodon Red",
+        "paint_code": "213",
+        "slug": "rhodon-red-213",
+        "reference_url": "https://www.paintscratch.com/colors/saab/rhodon-red-213/",
+        "source_label": "PaintScratch 1991 Saab",
+        "hex_value": "#58241C"
+      },
+      {
+        "display_name": "Cherry Red",
+        "paint_code": "214",
+        "slug": "cherry-red-214",
+        "reference_url": "https://www.paintscratch.com/colors/saab/cherry-red-214/",
+        "source_label": "PaintScratch 1991 Saab",
+        "hex_value": "#801B14"
+      },
+      {
+        "display_name": "Talladega Red",
+        "paint_code": "219",
+        "slug": "talladega-red-219",
+        "reference_url": "https://www.paintscratch.com/colors/saab/talladega-red-219/",
+        "source_label": "PaintScratch 1991 Saab",
+        "hex_value": "#A72919"
+      },
+      {
+        "display_name": "Iridium Blue Metallic",
+        "paint_code": "220",
+        "slug": "iridium-blue-metallic-220",
+        "reference_url": "https://www.paintscratch.com/colors/saab/iridium-blue-metallic-220/",
+        "source_label": "PaintScratch 1991 Saab",
+        "hex_value": "#8C959F"
+      },
+      {
+        "display_name": "Odoardo Grey Metallic",
+        "paint_code": "223",
+        "slug": "odoardo-grey-metallic-223",
+        "reference_url": "https://www.paintscratch.com/colors/saab/odoardo-grey-metallic-223/",
+        "source_label": "PaintScratch 1991 Saab",
+        "hex_value": "#31333A"
+      },
+      {
+        "display_name": "Berryl Green Metallic",
+        "paint_code": "226",
+        "slug": "berryl-green-metallic-226",
+        "reference_url": "https://www.paintscratch.com/colors/saab/berryl-green-metallic-226/",
+        "source_label": "PaintScratch 1991 Saab",
+        "hex_value": "#4C7A6B"
+      },
+      {
+        "display_name": "Platana Grey Metallic",
+        "paint_code": "228",
+        "slug": "platana-grey-metallic-228",
+        "reference_url": "https://www.paintscratch.com/colors/saab/platana-grey-metallic-228/",
+        "source_label": "PaintScratch 1991 Saab",
+        "hex_value": "#5F6B67"
+      },
+      {
+        "display_name": "Monte Carlo Yellow",
+        "paint_code": "231",
+        "slug": "monte-carlo-yellow-231",
+        "reference_url": "https://www.paintscratch.com/colors/saab/monte-carlo-yellow-231/",
+        "source_label": "PaintScratch 1991 Saab",
+        "hex_value": "#FFDF20"
+      }
+    ],
+    "1992": [
+      {
+        "display_name": "Cirrus White",
+        "paint_code": "153",
+        "slug": "cirrus-white-153",
+        "reference_url": "https://www.paintscratch.com/colors/saab/cirrus-white-153/",
+        "source_label": "PaintScratch 1992 Saab",
+        "hex_value": "#E5EAD9"
+      },
+      {
+        "display_name": "Citrin Beige Metallic",
+        "paint_code": "227",
+        "slug": "citrin-beige-metallic-227",
+        "reference_url": "https://www.paintscratch.com/colors/saab/citrin-beige-metallic-227/",
+        "source_label": "PaintScratch 1992 Saab",
+        "hex_value": "#C5C1B3"
+      },
+      {
+        "display_name": "Le Mans Blue Metallic",
+        "paint_code": "229",
+        "slug": "le-mans-blue-metallic-229",
+        "reference_url": "https://www.paintscratch.com/colors/saab/le-mans-blue-metallic-229/",
+        "source_label": "PaintScratch 1992 Saab",
+        "hex_value": "#22405C"
+      },
+      {
+        "display_name": "Scarabe Green Metallic",
+        "paint_code": "230",
+        "slug": "scarabe-green-metallic-230",
+        "reference_url": "https://www.paintscratch.com/colors/saab/scarabe-green-metallic-230/",
+        "source_label": "PaintScratch 1992 Saab",
+        "hex_value": "#195132"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "170",
+        "slug": "black-170",
+        "reference_url": "https://www.paintscratch.com/colors/saab/black-170/",
+        "source_label": "PaintScratch 1992 Saab",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Ant Grey (matt) Metallic",
+        "paint_code": "176",
+        "slug": "ant-grey-matt-metallic-176",
+        "reference_url": "https://www.paintscratch.com/colors/saab/ant-grey-matt-metallic-176/",
+        "source_label": "PaintScratch 1992 Saab",
+        "hex_value": "#2F352C"
+      },
+      {
+        "display_name": "Talladega Red",
+        "paint_code": "219",
+        "slug": "talladega-red-219",
+        "reference_url": "https://www.paintscratch.com/colors/saab/talladega-red-219/",
+        "source_label": "PaintScratch 1992 Saab",
+        "hex_value": "#A72919"
+      },
+      {
+        "display_name": "Iridium Blue Metallic",
+        "paint_code": "220",
+        "slug": "iridium-blue-metallic-220",
+        "reference_url": "https://www.paintscratch.com/colors/saab/iridium-blue-metallic-220/",
+        "source_label": "PaintScratch 1992 Saab",
+        "hex_value": "#8C959F"
+      },
+      {
+        "display_name": "Platana Grey Metallic",
+        "paint_code": "228",
+        "slug": "platana-grey-metallic-228",
+        "reference_url": "https://www.paintscratch.com/colors/saab/platana-grey-metallic-228/",
+        "source_label": "PaintScratch 1992 Saab",
+        "hex_value": "#5F6B67"
+      },
+      {
+        "display_name": "Monte Carlo Yellow",
+        "paint_code": "231",
+        "slug": "monte-carlo-yellow-231",
+        "reference_url": "https://www.paintscratch.com/colors/saab/monte-carlo-yellow-231/",
+        "source_label": "PaintScratch 1992 Saab",
+        "hex_value": "#FFDF20"
+      },
+      {
+        "display_name": "Carrara White",
+        "paint_code": "233",
+        "slug": "carrara-white-233",
+        "reference_url": "https://www.paintscratch.com/colors/saab/carrara-white-233/",
+        "source_label": "PaintScratch 1992 Saab",
+        "hex_value": "#DCDCC7"
+      },
+      {
+        "display_name": "Midnight Blue Metallic",
+        "paint_code": "234",
+        "slug": "midnight-blue-metallic-234",
+        "reference_url": "https://www.paintscratch.com/colors/saab/midnight-blue-metallic-234/",
+        "source_label": "PaintScratch 1992 Saab",
+        "hex_value": "#2C586A"
+      },
+      {
+        "display_name": "Eucalyptus Green Metallic",
+        "paint_code": "235",
+        "slug": "eucalyptus-green-metallic-235",
+        "reference_url": "https://www.paintscratch.com/colors/saab/eucalyptus-green-metallic-235/",
+        "source_label": "PaintScratch 1992 Saab",
+        "hex_value": "#195B3D"
+      }
+    ],
+    "1993": [
+      {
+        "display_name": "Cirrus White",
+        "paint_code": "153",
+        "slug": "cirrus-white-153",
+        "reference_url": "https://www.paintscratch.com/colors/saab/cirrus-white-153/",
+        "source_label": "PaintScratch 1993 Saab",
+        "hex_value": "#E5EAD9"
+      },
+      {
+        "display_name": "Citrin Beige Metallic",
+        "paint_code": "227",
+        "slug": "citrin-beige-metallic-227",
+        "reference_url": "https://www.paintscratch.com/colors/saab/citrin-beige-metallic-227/",
+        "source_label": "PaintScratch 1993 Saab",
+        "hex_value": "#C5C1B3"
+      },
+      {
+        "display_name": "Le Mans Blue Metallic",
+        "paint_code": "229",
+        "slug": "le-mans-blue-metallic-229",
+        "reference_url": "https://www.paintscratch.com/colors/saab/le-mans-blue-metallic-229/",
+        "source_label": "PaintScratch 1993 Saab",
+        "hex_value": "#22405C"
+      },
+      {
+        "display_name": "Scarabe Green Metallic",
+        "paint_code": "230",
+        "slug": "scarabe-green-metallic-230",
+        "reference_url": "https://www.paintscratch.com/colors/saab/scarabe-green-metallic-230/",
+        "source_label": "PaintScratch 1993 Saab",
+        "hex_value": "#195132"
+      },
+      {
+        "display_name": "Imola Red",
+        "paint_code": "240",
+        "slug": "imola-red-240",
+        "reference_url": "https://www.paintscratch.com/colors/saab/imola-red-240/",
+        "source_label": "PaintScratch 1993 Saab",
+        "hex_value": "#9D2113"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "170",
+        "slug": "black-170",
+        "reference_url": "https://www.paintscratch.com/colors/saab/black-170/",
+        "source_label": "PaintScratch 1993 Saab",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Ant Grey (matt) Metallic",
+        "paint_code": "176",
+        "slug": "ant-grey-matt-metallic-176",
+        "reference_url": "https://www.paintscratch.com/colors/saab/ant-grey-matt-metallic-176/",
+        "source_label": "PaintScratch 1993 Saab",
+        "hex_value": "#2F352C"
+      },
+      {
+        "display_name": "Iridium Blue Metallic",
+        "paint_code": "220",
+        "slug": "iridium-blue-metallic-220",
+        "reference_url": "https://www.paintscratch.com/colors/saab/iridium-blue-metallic-220/",
+        "source_label": "PaintScratch 1993 Saab",
+        "hex_value": "#8C959F"
+      },
+      {
+        "display_name": "Platana Grey Metallic",
+        "paint_code": "228",
+        "slug": "platana-grey-metallic-228",
+        "reference_url": "https://www.paintscratch.com/colors/saab/platana-grey-metallic-228/",
+        "source_label": "PaintScratch 1993 Saab",
+        "hex_value": "#5F6B67"
+      },
+      {
+        "display_name": "Monte Carlo Yellow",
+        "paint_code": "231",
+        "slug": "monte-carlo-yellow-231",
+        "reference_url": "https://www.paintscratch.com/colors/saab/monte-carlo-yellow-231/",
+        "source_label": "PaintScratch 1993 Saab",
+        "hex_value": "#FFDF20"
+      },
+      {
+        "display_name": "Carrara White",
+        "paint_code": "233",
+        "slug": "carrara-white-233",
+        "reference_url": "https://www.paintscratch.com/colors/saab/carrara-white-233/",
+        "source_label": "PaintScratch 1993 Saab",
+        "hex_value": "#DCDCC7"
+      },
+      {
+        "display_name": "Midnight Blue Metallic",
+        "paint_code": "234",
+        "slug": "midnight-blue-metallic-234",
+        "reference_url": "https://www.paintscratch.com/colors/saab/midnight-blue-metallic-234/",
+        "source_label": "PaintScratch 1993 Saab",
+        "hex_value": "#2C586A"
+      },
+      {
+        "display_name": "Eucalyptus Green Metallic",
+        "paint_code": "235",
+        "slug": "eucalyptus-green-metallic-235",
+        "reference_url": "https://www.paintscratch.com/colors/saab/eucalyptus-green-metallic-235/",
+        "source_label": "PaintScratch 1993 Saab",
+        "hex_value": "#195B3D"
+      },
+      {
+        "display_name": "Rubin Red Metallic",
+        "paint_code": "242",
+        "slug": "rubin-red-metallic-242",
+        "reference_url": "https://www.paintscratch.com/colors/saab/rubin-red-metallic-242/",
+        "source_label": "PaintScratch 1993 Saab",
+        "hex_value": "#541019"
+      }
+    ],
+    "1994": [
+      {
+        "display_name": "Cirrus White",
+        "paint_code": "153",
+        "slug": "cirrus-white-153",
+        "reference_url": "https://www.paintscratch.com/colors/saab/cirrus-white-153/",
+        "source_label": "PaintScratch 1994 Saab",
+        "hex_value": "#E5EAD9"
+      },
+      {
+        "display_name": "Citrin Beige Metallic",
+        "paint_code": "227",
+        "slug": "citrin-beige-metallic-227",
+        "reference_url": "https://www.paintscratch.com/colors/saab/citrin-beige-metallic-227/",
+        "source_label": "PaintScratch 1994 Saab",
+        "hex_value": "#C5C1B3"
+      },
+      {
+        "display_name": "Le Mans Blue Metallic",
+        "paint_code": "229",
+        "slug": "le-mans-blue-metallic-229",
+        "reference_url": "https://www.paintscratch.com/colors/saab/le-mans-blue-metallic-229/",
+        "source_label": "PaintScratch 1994 Saab",
+        "hex_value": "#22405C"
+      },
+      {
+        "display_name": "Scarabe Green Metallic",
+        "paint_code": "230",
+        "slug": "scarabe-green-metallic-230",
+        "reference_url": "https://www.paintscratch.com/colors/saab/scarabe-green-metallic-230/",
+        "source_label": "PaintScratch 1994 Saab",
+        "hex_value": "#195132"
+      },
+      {
+        "display_name": "Imola Red",
+        "paint_code": "240",
+        "slug": "imola-red-240",
+        "reference_url": "https://www.paintscratch.com/colors/saab/imola-red-240/",
+        "source_label": "PaintScratch 1994 Saab",
+        "hex_value": "#9D2113"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "170",
+        "slug": "black-170",
+        "reference_url": "https://www.paintscratch.com/colors/saab/black-170/",
+        "source_label": "PaintScratch 1994 Saab",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Ant Grey (matt) Metallic",
+        "paint_code": "176",
+        "slug": "ant-grey-matt-metallic-176",
+        "reference_url": "https://www.paintscratch.com/colors/saab/ant-grey-matt-metallic-176/",
+        "source_label": "PaintScratch 1994 Saab",
+        "hex_value": "#2F352C"
+      },
+      {
+        "display_name": "Iridium Blue Metallic",
+        "paint_code": "220",
+        "slug": "iridium-blue-metallic-220",
+        "reference_url": "https://www.paintscratch.com/colors/saab/iridium-blue-metallic-220/",
+        "source_label": "PaintScratch 1994 Saab",
+        "hex_value": "#8C959F"
+      },
+      {
+        "display_name": "Platana Grey Metallic",
+        "paint_code": "228",
+        "slug": "platana-grey-metallic-228",
+        "reference_url": "https://www.paintscratch.com/colors/saab/platana-grey-metallic-228/",
+        "source_label": "PaintScratch 1994 Saab",
+        "hex_value": "#5F6B67"
+      },
+      {
+        "display_name": "Monte Carlo Yellow",
+        "paint_code": "231",
+        "slug": "monte-carlo-yellow-231",
+        "reference_url": "https://www.paintscratch.com/colors/saab/monte-carlo-yellow-231/",
+        "source_label": "PaintScratch 1994 Saab",
+        "hex_value": "#FFDF20"
+      },
+      {
+        "display_name": "Eucalyptus Green Metallic",
+        "paint_code": "235",
+        "slug": "eucalyptus-green-metallic-235",
+        "reference_url": "https://www.paintscratch.com/colors/saab/eucalyptus-green-metallic-235/",
+        "source_label": "PaintScratch 1994 Saab",
+        "hex_value": "#195B3D"
+      },
+      {
+        "display_name": "Aubergine Pearl",
+        "paint_code": "241",
+        "slug": "aubergine-pearl-241",
+        "reference_url": "https://www.paintscratch.com/colors/saab/aubergine-pearl-241/",
+        "source_label": "PaintScratch 1994 Saab",
+        "hex_value": "#352121"
+      },
+      {
+        "display_name": "Rubin Red Metallic",
+        "paint_code": "242",
+        "slug": "rubin-red-metallic-242",
+        "reference_url": "https://www.paintscratch.com/colors/saab/rubin-red-metallic-242/",
+        "source_label": "PaintScratch 1994 Saab",
+        "hex_value": "#541019"
+      },
+      {
+        "display_name": "Nova Black Metallic",
+        "paint_code": "248",
+        "slug": "nova-black-metallic-248",
+        "reference_url": "https://www.paintscratch.com/colors/saab/nova-black-metallic-248/",
+        "source_label": "PaintScratch 1994 Saab",
+        "hex_value": "#141C1B"
+      }
+    ],
+    "1995": [
+      {
+        "display_name": "Cirrus White",
+        "paint_code": "153",
+        "slug": "cirrus-white-153",
+        "reference_url": "https://www.paintscratch.com/colors/saab/cirrus-white-153/",
+        "source_label": "PaintScratch 1995 Saab",
+        "hex_value": "#E5EAD9"
+      },
+      {
+        "display_name": "Citrin Beige Metallic",
+        "paint_code": "227",
+        "slug": "citrin-beige-metallic-227",
+        "reference_url": "https://www.paintscratch.com/colors/saab/citrin-beige-metallic-227/",
+        "source_label": "PaintScratch 1995 Saab",
+        "hex_value": "#C5C1B3"
+      },
+      {
+        "display_name": "Le Mans Blue Metallic",
+        "paint_code": "229",
+        "slug": "le-mans-blue-metallic-229",
+        "reference_url": "https://www.paintscratch.com/colors/saab/le-mans-blue-metallic-229/",
+        "source_label": "PaintScratch 1995 Saab",
+        "hex_value": "#22405C"
+      },
+      {
+        "display_name": "Scarabe Green Metallic",
+        "paint_code": "230",
+        "slug": "scarabe-green-metallic-230",
+        "reference_url": "https://www.paintscratch.com/colors/saab/scarabe-green-metallic-230/",
+        "source_label": "PaintScratch 1995 Saab",
+        "hex_value": "#195132"
+      },
+      {
+        "display_name": "Imola Red",
+        "paint_code": "240",
+        "slug": "imola-red-240",
+        "reference_url": "https://www.paintscratch.com/colors/saab/imola-red-240/",
+        "source_label": "PaintScratch 1995 Saab",
+        "hex_value": "#9D2113"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "170",
+        "slug": "black-170",
+        "reference_url": "https://www.paintscratch.com/colors/saab/black-170/",
+        "source_label": "PaintScratch 1995 Saab",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Ant Grey (matt) Metallic",
+        "paint_code": "176",
+        "slug": "ant-grey-matt-metallic-176",
+        "reference_url": "https://www.paintscratch.com/colors/saab/ant-grey-matt-metallic-176/",
+        "source_label": "PaintScratch 1995 Saab",
+        "hex_value": "#2F352C"
+      },
+      {
+        "display_name": "Iridium Blue Metallic",
+        "paint_code": "220",
+        "slug": "iridium-blue-metallic-220",
+        "reference_url": "https://www.paintscratch.com/colors/saab/iridium-blue-metallic-220/",
+        "source_label": "PaintScratch 1995 Saab",
+        "hex_value": "#8C959F"
+      },
+      {
+        "display_name": "Platana Grey Metallic",
+        "paint_code": "228",
+        "slug": "platana-grey-metallic-228",
+        "reference_url": "https://www.paintscratch.com/colors/saab/platana-grey-metallic-228/",
+        "source_label": "PaintScratch 1995 Saab",
+        "hex_value": "#5F6B67"
+      },
+      {
+        "display_name": "Monte Carlo Yellow",
+        "paint_code": "231",
+        "slug": "monte-carlo-yellow-231",
+        "reference_url": "https://www.paintscratch.com/colors/saab/monte-carlo-yellow-231/",
+        "source_label": "PaintScratch 1995 Saab",
+        "hex_value": "#FFDF20"
+      },
+      {
+        "display_name": "Eucalyptus Green Metallic",
+        "paint_code": "235",
+        "slug": "eucalyptus-green-metallic-235",
+        "reference_url": "https://www.paintscratch.com/colors/saab/eucalyptus-green-metallic-235/",
+        "source_label": "PaintScratch 1995 Saab",
+        "hex_value": "#195B3D"
+      },
+      {
+        "display_name": "Aubergine Pearl",
+        "paint_code": "241",
+        "slug": "aubergine-pearl-241",
+        "reference_url": "https://www.paintscratch.com/colors/saab/aubergine-pearl-241/",
+        "source_label": "PaintScratch 1995 Saab",
+        "hex_value": "#352121"
+      },
+      {
+        "display_name": "Rubin Red Metallic",
+        "paint_code": "242",
+        "slug": "rubin-red-metallic-242",
+        "reference_url": "https://www.paintscratch.com/colors/saab/rubin-red-metallic-242/",
+        "source_label": "PaintScratch 1995 Saab",
+        "hex_value": "#541019"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "247",
+        "slug": "silver-metallic-247",
+        "reference_url": "https://www.paintscratch.com/colors/saab/silver-metallic-247/",
+        "source_label": "PaintScratch 1995 Saab",
+        "hex_value": "#9FAAA2"
+      },
+      {
+        "display_name": "Nova Black Metallic",
+        "paint_code": "248",
+        "slug": "nova-black-metallic-248",
+        "reference_url": "https://www.paintscratch.com/colors/saab/nova-black-metallic-248/",
+        "source_label": "PaintScratch 1995 Saab",
+        "hex_value": "#141C1B"
+      }
+    ],
+    "1996": [
+      {
+        "display_name": "Cirrus White",
+        "paint_code": "153",
+        "slug": "cirrus-white-153",
+        "reference_url": "https://www.paintscratch.com/colors/saab/cirrus-white-153/",
+        "source_label": "PaintScratch 1996 Saab",
+        "hex_value": "#E5EAD9"
+      },
+      {
+        "display_name": "Citrin Beige Metallic",
+        "paint_code": "227",
+        "slug": "citrin-beige-metallic-227",
+        "reference_url": "https://www.paintscratch.com/colors/saab/citrin-beige-metallic-227/",
+        "source_label": "PaintScratch 1996 Saab",
+        "hex_value": "#C5C1B3"
+      },
+      {
+        "display_name": "Le Mans Blue Metallic",
+        "paint_code": "229",
+        "slug": "le-mans-blue-metallic-229",
+        "reference_url": "https://www.paintscratch.com/colors/saab/le-mans-blue-metallic-229/",
+        "source_label": "PaintScratch 1996 Saab",
+        "hex_value": "#22405C"
+      },
+      {
+        "display_name": "Scarabe Green Metallic",
+        "paint_code": "230",
+        "slug": "scarabe-green-metallic-230",
+        "reference_url": "https://www.paintscratch.com/colors/saab/scarabe-green-metallic-230/",
+        "source_label": "PaintScratch 1996 Saab",
+        "hex_value": "#195132"
+      },
+      {
+        "display_name": "Imola Red",
+        "paint_code": "240",
+        "slug": "imola-red-240",
+        "reference_url": "https://www.paintscratch.com/colors/saab/imola-red-240/",
+        "source_label": "PaintScratch 1996 Saab",
+        "hex_value": "#9D2113"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "170",
+        "slug": "black-170",
+        "reference_url": "https://www.paintscratch.com/colors/saab/black-170/",
+        "source_label": "PaintScratch 1996 Saab",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Ambasador Blue",
+        "paint_code": "198",
+        "slug": "ambasador-blue-198",
+        "reference_url": "https://www.paintscratch.com/colors/saab/ambasador-blue-198/",
+        "source_label": "PaintScratch 1996 Saab",
+        "hex_value": "#010647"
+      },
+      {
+        "display_name": "Iridium Blue Metallic",
+        "paint_code": "220",
+        "slug": "iridium-blue-metallic-220",
+        "reference_url": "https://www.paintscratch.com/colors/saab/iridium-blue-metallic-220/",
+        "source_label": "PaintScratch 1996 Saab",
+        "hex_value": "#8C959F"
+      },
+      {
+        "display_name": "Rubin Red Metallic",
+        "paint_code": "242",
+        "slug": "rubin-red-metallic-242",
+        "reference_url": "https://www.paintscratch.com/colors/saab/rubin-red-metallic-242/",
+        "source_label": "PaintScratch 1996 Saab",
+        "hex_value": "#541019"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "247",
+        "slug": "silver-metallic-247",
+        "reference_url": "https://www.paintscratch.com/colors/saab/silver-metallic-247/",
+        "source_label": "PaintScratch 1996 Saab",
+        "hex_value": "#9FAAA2"
+      },
+      {
+        "display_name": "Sky Blue Metallic",
+        "paint_code": "252",
+        "slug": "sky-blue-metallic-252",
+        "reference_url": "https://www.paintscratch.com/colors/saab/sky-blue-metallic-252/",
+        "source_label": "PaintScratch 1996 Saab",
+        "hex_value": "#A1A8D1"
+      },
+      {
+        "display_name": "Java Black Metallic",
+        "paint_code": "253",
+        "slug": "java-black-metallic-253",
+        "reference_url": "https://www.paintscratch.com/colors/saab/java-black-metallic-253/",
+        "source_label": "PaintScratch 1996 Saab",
+        "hex_value": "#232A2F"
+      }
+    ],
+    "1997": [
+      {
+        "display_name": "Cirrus White",
+        "paint_code": "153",
+        "slug": "cirrus-white-153",
+        "reference_url": "https://www.paintscratch.com/colors/saab/cirrus-white-153/",
+        "source_label": "PaintScratch 1997 Saab",
+        "hex_value": "#E5EAD9"
+      },
+      {
+        "display_name": "Citrin Beige Metallic",
+        "paint_code": "227",
+        "slug": "citrin-beige-metallic-227",
+        "reference_url": "https://www.paintscratch.com/colors/saab/citrin-beige-metallic-227/",
+        "source_label": "PaintScratch 1997 Saab",
+        "hex_value": "#C5C1B3"
+      },
+      {
+        "display_name": "Le Mans Blue Metallic",
+        "paint_code": "229",
+        "slug": "le-mans-blue-metallic-229",
+        "reference_url": "https://www.paintscratch.com/colors/saab/le-mans-blue-metallic-229/",
+        "source_label": "PaintScratch 1997 Saab",
+        "hex_value": "#22405C"
+      },
+      {
+        "display_name": "Scarabe Green Metallic",
+        "paint_code": "230",
+        "slug": "scarabe-green-metallic-230",
+        "reference_url": "https://www.paintscratch.com/colors/saab/scarabe-green-metallic-230/",
+        "source_label": "PaintScratch 1997 Saab",
+        "hex_value": "#195132"
+      },
+      {
+        "display_name": "Imola Red",
+        "paint_code": "240",
+        "slug": "imola-red-240",
+        "reference_url": "https://www.paintscratch.com/colors/saab/imola-red-240/",
+        "source_label": "PaintScratch 1997 Saab",
+        "hex_value": "#9D2113"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "170",
+        "slug": "black-170",
+        "reference_url": "https://www.paintscratch.com/colors/saab/black-170/",
+        "source_label": "PaintScratch 1997 Saab",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Ambasador Blue",
+        "paint_code": "198",
+        "slug": "ambasador-blue-198",
+        "reference_url": "https://www.paintscratch.com/colors/saab/ambasador-blue-198/",
+        "source_label": "PaintScratch 1997 Saab",
+        "hex_value": "#010647"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "247",
+        "slug": "silver-metallic-247",
+        "reference_url": "https://www.paintscratch.com/colors/saab/silver-metallic-247/",
+        "source_label": "PaintScratch 1997 Saab",
+        "hex_value": "#9FAAA2"
+      },
+      {
+        "display_name": "Sky Blue Metallic",
+        "paint_code": "252",
+        "slug": "sky-blue-metallic-252",
+        "reference_url": "https://www.paintscratch.com/colors/saab/sky-blue-metallic-252/",
+        "source_label": "PaintScratch 1997 Saab",
+        "hex_value": "#A1A8D1"
+      },
+      {
+        "display_name": "Java Black Metallic",
+        "paint_code": "253",
+        "slug": "java-black-metallic-253",
+        "reference_url": "https://www.paintscratch.com/colors/saab/java-black-metallic-253/",
+        "source_label": "PaintScratch 1997 Saab",
+        "hex_value": "#232A2F"
+      },
+      {
+        "display_name": "Cayenne Red Pearl Metallic",
+        "paint_code": "256",
+        "slug": "cayenne-red-pearl-metallic-256",
+        "reference_url": "https://www.paintscratch.com/colors/saab/cayenne-red-pearl-metallic-256/",
+        "source_label": "PaintScratch 1997 Saab",
+        "hex_value": "#8C1820"
+      },
+      {
+        "display_name": "Midnight Blue Pearl Metallic",
+        "paint_code": "257",
+        "slug": "midnight-blue-pearl-metallic-257",
+        "reference_url": "https://www.paintscratch.com/colors/saab/midnight-blue-pearl-metallic-257/",
+        "source_label": "PaintScratch 1997 Saab",
+        "hex_value": "#111755"
+      },
+      {
+        "display_name": "Amethyst Violet Pearl Metallic",
+        "paint_code": "258",
+        "slug": "amethyst-violet-pearl-metallic-258",
+        "reference_url": "https://www.paintscratch.com/colors/saab/amethyst-violet-pearl-metallic-258/",
+        "source_label": "PaintScratch 1997 Saab",
+        "hex_value": "#380D3B"
+      }
+    ],
+    "1998": [
+      {
+        "display_name": "Cirrus White",
+        "paint_code": "153",
+        "slug": "cirrus-white-153",
+        "reference_url": "https://www.paintscratch.com/colors/saab/cirrus-white-153/",
+        "source_label": "PaintScratch 1998 Saab",
+        "hex_value": "#E5EAD9"
+      },
+      {
+        "display_name": "Scarabe Green Metallic",
+        "paint_code": "230",
+        "slug": "scarabe-green-metallic-230",
+        "reference_url": "https://www.paintscratch.com/colors/saab/scarabe-green-metallic-230/",
+        "source_label": "PaintScratch 1998 Saab",
+        "hex_value": "#195132"
+      },
+      {
+        "display_name": "Imola Red",
+        "paint_code": "240",
+        "slug": "imola-red-240",
+        "reference_url": "https://www.paintscratch.com/colors/saab/imola-red-240/",
+        "source_label": "PaintScratch 1998 Saab",
+        "hex_value": "#9D2113"
+      },
+      {
+        "display_name": "Frost Gray Metallic",
+        "paint_code": "271",
+        "slug": "frost-gray-metallic-271",
+        "reference_url": "https://www.paintscratch.com/colors/saab/frost-gray-metallic-271/",
+        "source_label": "PaintScratch 1998 Saab",
+        "hex_value": "#5B615E"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "170",
+        "slug": "black-170",
+        "reference_url": "https://www.paintscratch.com/colors/saab/black-170/",
+        "source_label": "PaintScratch 1998 Saab",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Ambasador Blue",
+        "paint_code": "198",
+        "slug": "ambasador-blue-198",
+        "reference_url": "https://www.paintscratch.com/colors/saab/ambasador-blue-198/",
+        "source_label": "PaintScratch 1998 Saab",
+        "hex_value": "#010647"
+      },
+      {
+        "display_name": "Monte Carlo Yellow",
+        "paint_code": "231",
+        "slug": "monte-carlo-yellow-231",
+        "reference_url": "https://www.paintscratch.com/colors/saab/monte-carlo-yellow-231/",
+        "source_label": "PaintScratch 1998 Saab",
+        "hex_value": "#FFDF20"
+      },
+      {
+        "display_name": "Cayenne Red Pearl Metallic",
+        "paint_code": "256",
+        "slug": "cayenne-red-pearl-metallic-256",
+        "reference_url": "https://www.paintscratch.com/colors/saab/cayenne-red-pearl-metallic-256/",
+        "source_label": "PaintScratch 1998 Saab",
+        "hex_value": "#8C1820"
+      },
+      {
+        "display_name": "Midnight Blue Pearl Metallic",
+        "paint_code": "257",
+        "slug": "midnight-blue-pearl-metallic-257",
+        "reference_url": "https://www.paintscratch.com/colors/saab/midnight-blue-pearl-metallic-257/",
+        "source_label": "PaintScratch 1998 Saab",
+        "hex_value": "#111755"
+      },
+      {
+        "display_name": "Green Silver Pearl Metallic",
+        "paint_code": "261",
+        "slug": "green-silver-pearl-metallic-261",
+        "reference_url": "https://www.paintscratch.com/colors/saab/green-silver-pearl-metallic-261/",
+        "source_label": "PaintScratch 1998 Saab",
+        "hex_value": "#585E48"
+      },
+      {
+        "display_name": "Golden Sand Mica",
+        "paint_code": "262",
+        "slug": "golden-sand-mica-262",
+        "reference_url": "https://www.paintscratch.com/colors/saab/golden-sand-mica-262/",
+        "source_label": "PaintScratch 1998 Saab",
+        "hex_value": "#E3BD25"
+      },
+      {
+        "display_name": "Cosmic Blue Pearl Metallic",
+        "paint_code": "264",
+        "slug": "cosmic-blue-pearl-metallic-264",
+        "reference_url": "https://www.paintscratch.com/colors/saab/cosmic-blue-pearl-metallic-264/",
+        "source_label": "PaintScratch 1998 Saab",
+        "hex_value": "#3F4A8B"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "268",
+        "slug": "silver-metallic-268",
+        "reference_url": "https://www.paintscratch.com/colors/saab/silver-metallic-268/",
+        "source_label": "PaintScratch 1998 Saab",
+        "hex_value": "#9699A0"
+      }
+    ],
+    "1999": [
+      {
+        "display_name": "Cirrus White",
+        "paint_code": "153",
+        "slug": "cirrus-white-153",
+        "reference_url": "https://www.paintscratch.com/colors/saab/cirrus-white-153/",
+        "source_label": "PaintScratch 1999 Saab",
+        "hex_value": "#E5EAD9"
+      },
+      {
+        "display_name": "Scarabe Green Metallic",
+        "paint_code": "230",
+        "slug": "scarabe-green-metallic-230",
+        "reference_url": "https://www.paintscratch.com/colors/saab/scarabe-green-metallic-230/",
+        "source_label": "PaintScratch 1999 Saab",
+        "hex_value": "#195132"
+      },
+      {
+        "display_name": "Imola Red",
+        "paint_code": "240",
+        "slug": "imola-red-240",
+        "reference_url": "https://www.paintscratch.com/colors/saab/imola-red-240/",
+        "source_label": "PaintScratch 1999 Saab",
+        "hex_value": "#9D2113"
+      },
+      {
+        "display_name": "Frost Gray Metallic",
+        "paint_code": "271",
+        "slug": "frost-gray-metallic-271",
+        "reference_url": "https://www.paintscratch.com/colors/saab/frost-gray-metallic-271/",
+        "source_label": "PaintScratch 1999 Saab",
+        "hex_value": "#5B615E"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "170",
+        "slug": "black-170",
+        "reference_url": "https://www.paintscratch.com/colors/saab/black-170/",
+        "source_label": "PaintScratch 1999 Saab",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Ambasador Blue",
+        "paint_code": "198",
+        "slug": "ambasador-blue-198",
+        "reference_url": "https://www.paintscratch.com/colors/saab/ambasador-blue-198/",
+        "source_label": "PaintScratch 1999 Saab",
+        "hex_value": "#010647"
+      },
+      {
+        "display_name": "Monte Carlo Yellow",
+        "paint_code": "231",
+        "slug": "monte-carlo-yellow-231",
+        "reference_url": "https://www.paintscratch.com/colors/saab/monte-carlo-yellow-231/",
+        "source_label": "PaintScratch 1999 Saab",
+        "hex_value": "#FFDF20"
+      },
+      {
+        "display_name": "Cayenne Red Pearl Metallic",
+        "paint_code": "256",
+        "slug": "cayenne-red-pearl-metallic-256",
+        "reference_url": "https://www.paintscratch.com/colors/saab/cayenne-red-pearl-metallic-256/",
+        "source_label": "PaintScratch 1999 Saab",
+        "hex_value": "#8C1820"
+      },
+      {
+        "display_name": "Midnight Blue Pearl Metallic",
+        "paint_code": "257",
+        "slug": "midnight-blue-pearl-metallic-257",
+        "reference_url": "https://www.paintscratch.com/colors/saab/midnight-blue-pearl-metallic-257/",
+        "source_label": "PaintScratch 1999 Saab",
+        "hex_value": "#111755"
+      },
+      {
+        "display_name": "Green Silver Pearl Metallic",
+        "paint_code": "261",
+        "slug": "green-silver-pearl-metallic-261",
+        "reference_url": "https://www.paintscratch.com/colors/saab/green-silver-pearl-metallic-261/",
+        "source_label": "PaintScratch 1999 Saab",
+        "hex_value": "#585E48"
+      },
+      {
+        "display_name": "Cosmic Blue Pearl Metallic",
+        "paint_code": "264",
+        "slug": "cosmic-blue-pearl-metallic-264",
+        "reference_url": "https://www.paintscratch.com/colors/saab/cosmic-blue-pearl-metallic-264/",
+        "source_label": "PaintScratch 1999 Saab",
+        "hex_value": "#3F4A8B"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "268",
+        "slug": "silver-metallic-268",
+        "reference_url": "https://www.paintscratch.com/colors/saab/silver-metallic-268/",
+        "source_label": "PaintScratch 1999 Saab",
+        "hex_value": "#9699A0"
+      },
+      {
+        "display_name": "Lightning Blue Metallic",
+        "paint_code": "270",
+        "slug": "lightning-blue-metallic-270",
+        "reference_url": "https://www.paintscratch.com/colors/saab/lightning-blue-metallic-270/",
+        "source_label": "PaintScratch 1999 Saab",
+        "hex_value": "#2664CA"
+      }
+    ],
+    "2000": [
+      {
+        "display_name": "Cirrus White",
+        "paint_code": "153",
+        "slug": "cirrus-white-153",
+        "reference_url": "https://www.paintscratch.com/colors/saab/cirrus-white-153/",
+        "source_label": "PaintScratch 2000 Saab",
+        "hex_value": "#E5EAD9"
+      },
+      {
+        "display_name": "Scarabe Green Metallic",
+        "paint_code": "230",
+        "slug": "scarabe-green-metallic-230",
+        "reference_url": "https://www.paintscratch.com/colors/saab/scarabe-green-metallic-230/",
+        "source_label": "PaintScratch 2000 Saab",
+        "hex_value": "#195132"
+      },
+      {
+        "display_name": "Imola Red",
+        "paint_code": "240",
+        "slug": "imola-red-240",
+        "reference_url": "https://www.paintscratch.com/colors/saab/imola-red-240/",
+        "source_label": "PaintScratch 2000 Saab",
+        "hex_value": "#9D2113"
+      },
+      {
+        "display_name": "Frost Gray Metallic",
+        "paint_code": "271",
+        "slug": "frost-gray-metallic-271",
+        "reference_url": "https://www.paintscratch.com/colors/saab/frost-gray-metallic-271/",
+        "source_label": "PaintScratch 2000 Saab",
+        "hex_value": "#5B615E"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "170",
+        "slug": "black-170",
+        "reference_url": "https://www.paintscratch.com/colors/saab/black-170/",
+        "source_label": "PaintScratch 2000 Saab",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Ambasador Blue",
+        "paint_code": "198",
+        "slug": "ambasador-blue-198",
+        "reference_url": "https://www.paintscratch.com/colors/saab/ambasador-blue-198/",
+        "source_label": "PaintScratch 2000 Saab",
+        "hex_value": "#010647"
+      },
+      {
+        "display_name": "Monte Carlo Yellow",
+        "paint_code": "231",
+        "slug": "monte-carlo-yellow-231",
+        "reference_url": "https://www.paintscratch.com/colors/saab/monte-carlo-yellow-231/",
+        "source_label": "PaintScratch 2000 Saab",
+        "hex_value": "#FFDF20"
+      },
+      {
+        "display_name": "Cayenne Red Pearl Metallic",
+        "paint_code": "256",
+        "slug": "cayenne-red-pearl-metallic-256",
+        "reference_url": "https://www.paintscratch.com/colors/saab/cayenne-red-pearl-metallic-256/",
+        "source_label": "PaintScratch 2000 Saab",
+        "hex_value": "#8C1820"
+      },
+      {
+        "display_name": "Midnight Blue Pearl Metallic",
+        "paint_code": "257",
+        "slug": "midnight-blue-pearl-metallic-257",
+        "reference_url": "https://www.paintscratch.com/colors/saab/midnight-blue-pearl-metallic-257/",
+        "source_label": "PaintScratch 2000 Saab",
+        "hex_value": "#111755"
+      },
+      {
+        "display_name": "Cosmic Blue Pearl Metallic",
+        "paint_code": "264",
+        "slug": "cosmic-blue-pearl-metallic-264",
+        "reference_url": "https://www.paintscratch.com/colors/saab/cosmic-blue-pearl-metallic-264/",
+        "source_label": "PaintScratch 2000 Saab",
+        "hex_value": "#3F4A8B"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "268",
+        "slug": "silver-metallic-268",
+        "reference_url": "https://www.paintscratch.com/colors/saab/silver-metallic-268/",
+        "source_label": "PaintScratch 2000 Saab",
+        "hex_value": "#9699A0"
+      },
+      {
+        "display_name": "Lightning Blue Metallic",
+        "paint_code": "270",
+        "slug": "lightning-blue-metallic-270",
+        "reference_url": "https://www.paintscratch.com/colors/saab/lightning-blue-metallic-270/",
+        "source_label": "PaintScratch 2000 Saab",
+        "hex_value": "#2664CA"
+      },
+      {
+        "display_name": "Sun Green Metallic",
+        "paint_code": "273",
+        "slug": "sun-green-metallic-273",
+        "reference_url": "https://www.paintscratch.com/colors/saab/sun-green-metallic-273/",
+        "source_label": "PaintScratch 2000 Saab",
+        "hex_value": "#8BAB89"
+      }
+    ],
+    "2001": [
+      {
+        "display_name": "Cirrus White",
+        "paint_code": "153",
+        "slug": "cirrus-white-153",
+        "reference_url": "https://www.paintscratch.com/colors/saab/cirrus-white-153/",
+        "source_label": "PaintScratch 2001 Saab",
+        "hex_value": "#E5EAD9"
+      },
+      {
+        "display_name": "Laser Red",
+        "paint_code": "278",
+        "slug": "laser-red-278",
+        "reference_url": "https://www.paintscratch.com/colors/saab/laser-red-278/",
+        "source_label": "PaintScratch 2001 Saab",
+        "hex_value": "#DA1212"
+      },
+      {
+        "display_name": "Steel Gray Metallic",
+        "paint_code": "279",
+        "slug": "steel-gray-metallic-279",
+        "reference_url": "https://www.paintscratch.com/colors/saab/steel-gray-metallic-279/",
+        "source_label": "PaintScratch 2001 Saab",
+        "hex_value": "#B1B2B7"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "170",
+        "slug": "black-170",
+        "reference_url": "https://www.paintscratch.com/colors/saab/black-170/",
+        "source_label": "PaintScratch 2001 Saab",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Ambasador Blue",
+        "paint_code": "198",
+        "slug": "ambasador-blue-198",
+        "reference_url": "https://www.paintscratch.com/colors/saab/ambasador-blue-198/",
+        "source_label": "PaintScratch 2001 Saab",
+        "hex_value": "#010647"
+      },
+      {
+        "display_name": "Cayenne Red Pearl Metallic",
+        "paint_code": "256",
+        "slug": "cayenne-red-pearl-metallic-256",
+        "reference_url": "https://www.paintscratch.com/colors/saab/cayenne-red-pearl-metallic-256/",
+        "source_label": "PaintScratch 2001 Saab",
+        "hex_value": "#8C1820"
+      },
+      {
+        "display_name": "Midnight Blue Pearl Metallic",
+        "paint_code": "257",
+        "slug": "midnight-blue-pearl-metallic-257",
+        "reference_url": "https://www.paintscratch.com/colors/saab/midnight-blue-pearl-metallic-257/",
+        "source_label": "PaintScratch 2001 Saab",
+        "hex_value": "#111755"
+      },
+      {
+        "display_name": "Cosmic Blue Pearl Metallic",
+        "paint_code": "264",
+        "slug": "cosmic-blue-pearl-metallic-264",
+        "reference_url": "https://www.paintscratch.com/colors/saab/cosmic-blue-pearl-metallic-264/",
+        "source_label": "PaintScratch 2001 Saab",
+        "hex_value": "#3F4A8B"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "268",
+        "slug": "silver-metallic-268",
+        "reference_url": "https://www.paintscratch.com/colors/saab/silver-metallic-268/",
+        "source_label": "PaintScratch 2001 Saab",
+        "hex_value": "#9699A0"
+      },
+      {
+        "display_name": "Sun Green Metallic",
+        "paint_code": "273",
+        "slug": "sun-green-metallic-273",
+        "reference_url": "https://www.paintscratch.com/colors/saab/sun-green-metallic-273/",
+        "source_label": "PaintScratch 2001 Saab",
+        "hex_value": "#8BAB89"
+      },
+      {
+        "display_name": "Hazelnut Metallic",
+        "paint_code": "286",
+        "slug": "hazelnut-metallic-286",
+        "reference_url": "https://www.paintscratch.com/colors/saab/hazelnut-metallic-286/",
+        "source_label": "PaintScratch 2001 Saab",
+        "hex_value": "#AB9D89"
+      }
+    ],
+    "2002": [
+      {
+        "display_name": "Laser Red",
+        "paint_code": "278",
+        "slug": "laser-red-278",
+        "reference_url": "https://www.paintscratch.com/colors/saab/laser-red-278/",
+        "source_label": "PaintScratch 2002 Saab",
+        "hex_value": "#DA1212"
+      },
+      {
+        "display_name": "Steel Gray Metallic",
+        "paint_code": "279",
+        "slug": "steel-gray-metallic-279",
+        "reference_url": "https://www.paintscratch.com/colors/saab/steel-gray-metallic-279/",
+        "source_label": "PaintScratch 2002 Saab",
+        "hex_value": "#B1B2B7"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "170",
+        "slug": "black-170",
+        "reference_url": "https://www.paintscratch.com/colors/saab/black-170/",
+        "source_label": "PaintScratch 2002 Saab",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Midnight Blue Pearl Metallic",
+        "paint_code": "257",
+        "slug": "midnight-blue-pearl-metallic-257",
+        "reference_url": "https://www.paintscratch.com/colors/saab/midnight-blue-pearl-metallic-257/",
+        "source_label": "PaintScratch 2002 Saab",
+        "hex_value": "#111755"
+      },
+      {
+        "display_name": "Cosmic Blue Pearl Metallic",
+        "paint_code": "264",
+        "slug": "cosmic-blue-pearl-metallic-264",
+        "reference_url": "https://www.paintscratch.com/colors/saab/cosmic-blue-pearl-metallic-264/",
+        "source_label": "PaintScratch 2002 Saab",
+        "hex_value": "#3F4A8B"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "268",
+        "slug": "silver-metallic-268",
+        "reference_url": "https://www.paintscratch.com/colors/saab/silver-metallic-268/",
+        "source_label": "PaintScratch 2002 Saab",
+        "hex_value": "#9699A0"
+      },
+      {
+        "display_name": "Sun Green Metallic",
+        "paint_code": "273",
+        "slug": "sun-green-metallic-273",
+        "reference_url": "https://www.paintscratch.com/colors/saab/sun-green-metallic-273/",
+        "source_label": "PaintScratch 2002 Saab",
+        "hex_value": "#8BAB89"
+      },
+      {
+        "display_name": "Polar White",
+        "paint_code": "283",
+        "slug": "polar-white-283",
+        "reference_url": "https://www.paintscratch.com/colors/saab/polar-white-283/",
+        "source_label": "PaintScratch 2002 Saab",
+        "hex_value": "#FDFDE9"
+      },
+      {
+        "display_name": "Merlot Red Pearl",
+        "paint_code": "284",
+        "slug": "merlot-red-pearl-284",
+        "reference_url": "https://www.paintscratch.com/colors/saab/merlot-red-pearl-284/",
+        "source_label": "PaintScratch 2002 Saab",
+        "hex_value": "#A73131"
+      },
+      {
+        "display_name": "Hazelnut Metallic",
+        "paint_code": "286",
+        "slug": "hazelnut-metallic-286",
+        "reference_url": "https://www.paintscratch.com/colors/saab/hazelnut-metallic-286/",
+        "source_label": "PaintScratch 2002 Saab",
+        "hex_value": "#AB9D89"
+      }
+    ],
+    "2003": [
+      {
+        "display_name": "Laser Red",
+        "paint_code": "278",
+        "slug": "laser-red-278",
+        "reference_url": "https://www.paintscratch.com/colors/saab/laser-red-278/",
+        "source_label": "PaintScratch 2003 Saab",
+        "hex_value": "#DA1212"
+      },
+      {
+        "display_name": "Steel Gray Metallic",
+        "paint_code": "279",
+        "slug": "steel-gray-metallic-279",
+        "reference_url": "https://www.paintscratch.com/colors/saab/steel-gray-metallic-279/",
+        "source_label": "PaintScratch 2003 Saab",
+        "hex_value": "#B1B2B7"
+      },
+      {
+        "display_name": "Lime Yellow",
+        "paint_code": "292",
+        "slug": "lime-yellow-292",
+        "reference_url": "https://www.paintscratch.com/colors/saab/lime-yellow-292/",
+        "source_label": "PaintScratch 2003 Saab",
+        "hex_value": "#D0CB79"
+      },
+      {
+        "display_name": "Chili Red Pearl",
+        "paint_code": "294",
+        "slug": "chili-red-pearl-294",
+        "reference_url": "https://www.paintscratch.com/colors/saab/chili-red-pearl-294/",
+        "source_label": "PaintScratch 2003 Saab",
+        "hex_value": "#7A1616"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "170",
+        "slug": "black-170",
+        "reference_url": "https://www.paintscratch.com/colors/saab/black-170/",
+        "source_label": "PaintScratch 2003 Saab",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Midnight Blue Pearl Metallic",
+        "paint_code": "257",
+        "slug": "midnight-blue-pearl-metallic-257",
+        "reference_url": "https://www.paintscratch.com/colors/saab/midnight-blue-pearl-metallic-257/",
+        "source_label": "PaintScratch 2003 Saab",
+        "hex_value": "#111755"
+      },
+      {
+        "display_name": "Cosmic Blue Pearl Metallic",
+        "paint_code": "264",
+        "slug": "cosmic-blue-pearl-metallic-264",
+        "reference_url": "https://www.paintscratch.com/colors/saab/cosmic-blue-pearl-metallic-264/",
+        "source_label": "PaintScratch 2003 Saab",
+        "hex_value": "#3F4A8B"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "268",
+        "slug": "silver-metallic-268",
+        "reference_url": "https://www.paintscratch.com/colors/saab/silver-metallic-268/",
+        "source_label": "PaintScratch 2003 Saab",
+        "hex_value": "#9699A0"
+      },
+      {
+        "display_name": "Polar White",
+        "paint_code": "283",
+        "slug": "polar-white-283",
+        "reference_url": "https://www.paintscratch.com/colors/saab/polar-white-283/",
+        "source_label": "PaintScratch 2003 Saab",
+        "hex_value": "#FDFDE9"
+      },
+      {
+        "display_name": "Merlot Red Pearl",
+        "paint_code": "284",
+        "slug": "merlot-red-pearl-284",
+        "reference_url": "https://www.paintscratch.com/colors/saab/merlot-red-pearl-284/",
+        "source_label": "PaintScratch 2003 Saab",
+        "hex_value": "#A73131"
+      },
+      {
+        "display_name": "Hazelnut Metallic",
+        "paint_code": "286",
+        "slug": "hazelnut-metallic-286",
+        "reference_url": "https://www.paintscratch.com/colors/saab/hazelnut-metallic-286/",
+        "source_label": "PaintScratch 2003 Saab",
+        "hex_value": "#AB9D89"
+      },
+      {
+        "display_name": "Dolphin Grey",
+        "paint_code": "287",
+        "slug": "dolphin-grey-287",
+        "reference_url": "https://www.paintscratch.com/colors/saab/dolphin-grey-287/",
+        "source_label": "PaintScratch 2003 Saab",
+        "hex_value": "#787878"
+      },
+      {
+        "display_name": "Graphite Green Pearl",
+        "paint_code": "288",
+        "slug": "graphite-green-pearl-288",
+        "reference_url": "https://www.paintscratch.com/colors/saab/graphite-green-pearl-288/",
+        "source_label": "PaintScratch 2003 Saab",
+        "hex_value": "#565640"
+      }
+    ],
+    "2004": [
+      {
+        "display_name": "Laser Red",
+        "paint_code": "278",
+        "slug": "laser-red-278",
+        "reference_url": "https://www.paintscratch.com/colors/saab/laser-red-278/",
+        "source_label": "PaintScratch 2004 Saab",
+        "hex_value": "#DA1212"
+      },
+      {
+        "display_name": "Steel Gray Metallic",
+        "paint_code": "279",
+        "slug": "steel-gray-metallic-279",
+        "reference_url": "https://www.paintscratch.com/colors/saab/steel-gray-metallic-279/",
+        "source_label": "PaintScratch 2004 Saab",
+        "hex_value": "#B1B2B7"
+      },
+      {
+        "display_name": "Nocturne Blue Metallic",
+        "paint_code": "290",
+        "slug": "nocturne-blue-metallic-290",
+        "reference_url": "https://www.paintscratch.com/colors/saab/nocturne-blue-metallic-290/",
+        "source_label": "PaintScratch 2004 Saab",
+        "hex_value": "#251E50"
+      },
+      {
+        "display_name": "Lime Yellow",
+        "paint_code": "292",
+        "slug": "lime-yellow-292",
+        "reference_url": "https://www.paintscratch.com/colors/saab/lime-yellow-292/",
+        "source_label": "PaintScratch 2004 Saab",
+        "hex_value": "#D0CB79"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "170",
+        "slug": "black-170",
+        "reference_url": "https://www.paintscratch.com/colors/saab/black-170/",
+        "source_label": "PaintScratch 2004 Saab",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "268",
+        "slug": "silver-metallic-268",
+        "reference_url": "https://www.paintscratch.com/colors/saab/silver-metallic-268/",
+        "source_label": "PaintScratch 2004 Saab",
+        "hex_value": "#9699A0"
+      },
+      {
+        "display_name": "Polar White",
+        "paint_code": "283",
+        "slug": "polar-white-283",
+        "reference_url": "https://www.paintscratch.com/colors/saab/polar-white-283/",
+        "source_label": "PaintScratch 2004 Saab",
+        "hex_value": "#FDFDE9"
+      },
+      {
+        "display_name": "Merlot Red Pearl",
+        "paint_code": "284",
+        "slug": "merlot-red-pearl-284",
+        "reference_url": "https://www.paintscratch.com/colors/saab/merlot-red-pearl-284/",
+        "source_label": "PaintScratch 2004 Saab",
+        "hex_value": "#A73131"
+      },
+      {
+        "display_name": "Hazelnut Metallic",
+        "paint_code": "286",
+        "slug": "hazelnut-metallic-286",
+        "reference_url": "https://www.paintscratch.com/colors/saab/hazelnut-metallic-286/",
+        "source_label": "PaintScratch 2004 Saab",
+        "hex_value": "#AB9D89"
+      },
+      {
+        "display_name": "Dolphin Grey",
+        "paint_code": "287",
+        "slug": "dolphin-grey-287",
+        "reference_url": "https://www.paintscratch.com/colors/saab/dolphin-grey-287/",
+        "source_label": "PaintScratch 2004 Saab",
+        "hex_value": "#787878"
+      },
+      {
+        "display_name": "Graphite Green Pearl",
+        "paint_code": "288",
+        "slug": "graphite-green-pearl-288",
+        "reference_url": "https://www.paintscratch.com/colors/saab/graphite-green-pearl-288/",
+        "source_label": "PaintScratch 2004 Saab",
+        "hex_value": "#565640"
+      },
+      {
+        "display_name": "Espresso Black Metallic",
+        "paint_code": "289",
+        "slug": "espresso-black-metallic-289",
+        "reference_url": "https://www.paintscratch.com/colors/saab/espresso-black-metallic-289/",
+        "source_label": "PaintScratch 2004 Saab",
+        "hex_value": "#413D3D"
+      },
+      {
+        "display_name": "Glacier Blue Metallic",
+        "paint_code": "291",
+        "slug": "glacier-blue-metallic-291",
+        "reference_url": "https://www.paintscratch.com/colors/saab/glacier-blue-metallic-291/",
+        "source_label": "PaintScratch 2004 Saab",
+        "hex_value": "#8FA08A"
+      }
+    ],
+    "2005": [
+      {
+        "display_name": "Laser Red",
+        "paint_code": "278",
+        "slug": "laser-red-278",
+        "reference_url": "https://www.paintscratch.com/colors/saab/laser-red-278/",
+        "source_label": "PaintScratch 2005 Saab",
+        "hex_value": "#DA1212"
+      },
+      {
+        "display_name": "Steel Gray Metallic",
+        "paint_code": "279",
+        "slug": "steel-gray-metallic-279",
+        "reference_url": "https://www.paintscratch.com/colors/saab/steel-gray-metallic-279/",
+        "source_label": "PaintScratch 2005 Saab",
+        "hex_value": "#B1B2B7"
+      },
+      {
+        "display_name": "Nocturne Blue Metallic",
+        "paint_code": "290",
+        "slug": "nocturne-blue-metallic-290",
+        "reference_url": "https://www.paintscratch.com/colors/saab/nocturne-blue-metallic-290/",
+        "source_label": "PaintScratch 2005 Saab",
+        "hex_value": "#251E50"
+      },
+      {
+        "display_name": "Lime Yellow",
+        "paint_code": "292",
+        "slug": "lime-yellow-292",
+        "reference_url": "https://www.paintscratch.com/colors/saab/lime-yellow-292/",
+        "source_label": "PaintScratch 2005 Saab",
+        "hex_value": "#D0CB79"
+      },
+      {
+        "display_name": "Chili Red Pearl",
+        "paint_code": "294",
+        "slug": "chili-red-pearl-294",
+        "reference_url": "https://www.paintscratch.com/colors/saab/chili-red-pearl-294/",
+        "source_label": "PaintScratch 2005 Saab",
+        "hex_value": "#7A1616"
+      },
+      {
+        "display_name": "Fusion Blue Pearl Metallic",
+        "paint_code": "300",
+        "slug": "fusion-blue-pearl-metallic-300",
+        "reference_url": "https://www.paintscratch.com/colors/saab/fusion-blue-pearl-metallic-300/",
+        "source_label": "PaintScratch 2005 Saab",
+        "hex_value": "#517E9B"
+      },
+      {
+        "display_name": "Arctic Silver Metallic",
+        "paint_code": "01G",
+        "slug": "arctic-silver-metallic-01g",
+        "reference_url": "https://www.paintscratch.com/colors/saab/arctic-silver-metallic-01g/",
+        "source_label": "PaintScratch 2005 Saab",
+        "hex_value": "#F2EEE0"
+      },
+      {
+        "display_name": "Brilliant Red",
+        "paint_code": "22G",
+        "slug": "brilliant-red-22g",
+        "reference_url": "https://www.paintscratch.com/colors/saab/brilliant-red-22g/",
+        "source_label": "PaintScratch 2005 Saab",
+        "hex_value": "#DA1212"
+      },
+      {
+        "display_name": "Midnight Black Mica",
+        "paint_code": "32J",
+        "slug": "midnight-black-mica-32j",
+        "reference_url": "https://www.paintscratch.com/colors/saab/midnight-black-mica-32j/",
+        "source_label": "PaintScratch 2005 Saab",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Deep Blue Mica",
+        "paint_code": "35J",
+        "slug": "deep-blue-mica-35j",
+        "reference_url": "https://www.paintscratch.com/colors/saab/deep-blue-mica-35j/",
+        "source_label": "PaintScratch 2005 Saab",
+        "hex_value": "#1A4475"
+      },
+      {
+        "display_name": "Desert Silver Metallic",
+        "paint_code": "41V",
+        "slug": "desert-silver-metallic-41v",
+        "reference_url": "https://www.paintscratch.com/colors/saab/desert-silver-metallic-41v/",
+        "source_label": "PaintScratch 2005 Saab",
+        "hex_value": "#8D9299"
+      },
+      {
+        "display_name": "Satin Gray Metallic",
+        "paint_code": "48W",
+        "slug": "satin-gray-metallic-48w",
+        "reference_url": "https://www.paintscratch.com/colors/saab/satin-gray-metallic-48w/",
+        "source_label": "PaintScratch 2005 Saab",
+        "hex_value": "#AFADA7"
+      },
+      {
+        "display_name": "Light Tarnished Silver Metallic",
+        "paint_code": "67U/WA994L",
+        "slug": "light-tarnished-silver-metallic-67uwa994l",
+        "reference_url": "https://www.paintscratch.com/colors/saab/light-tarnished-silver-metallic-67uwa994l/",
+        "source_label": "PaintScratch 2005 Saab",
+        "hex_value": "#DFDED7"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "170",
+        "slug": "black-170",
+        "reference_url": "https://www.paintscratch.com/colors/saab/black-170/",
+        "source_label": "PaintScratch 2005 Saab",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "268",
+        "slug": "silver-metallic-268",
+        "reference_url": "https://www.paintscratch.com/colors/saab/silver-metallic-268/",
+        "source_label": "PaintScratch 2005 Saab",
+        "hex_value": "#9699A0"
+      },
+      {
+        "display_name": "Polar White",
+        "paint_code": "283",
+        "slug": "polar-white-283",
+        "reference_url": "https://www.paintscratch.com/colors/saab/polar-white-283/",
+        "source_label": "PaintScratch 2005 Saab",
+        "hex_value": "#FDFDE9"
+      }
+    ],
+    "2006": [
+      {
+        "display_name": "Laser Red",
+        "paint_code": "278",
+        "slug": "laser-red-278",
+        "reference_url": "https://www.paintscratch.com/colors/saab/laser-red-278/",
+        "source_label": "PaintScratch 2006 Saab",
+        "hex_value": "#DA1212"
+      },
+      {
+        "display_name": "Steel Gray Metallic",
+        "paint_code": "279",
+        "slug": "steel-gray-metallic-279",
+        "reference_url": "https://www.paintscratch.com/colors/saab/steel-gray-metallic-279/",
+        "source_label": "PaintScratch 2006 Saab",
+        "hex_value": "#B1B2B7"
+      },
+      {
+        "display_name": "Nocturne Blue Metallic",
+        "paint_code": "290",
+        "slug": "nocturne-blue-metallic-290",
+        "reference_url": "https://www.paintscratch.com/colors/saab/nocturne-blue-metallic-290/",
+        "source_label": "PaintScratch 2006 Saab",
+        "hex_value": "#251E50"
+      },
+      {
+        "display_name": "Lime Yellow",
+        "paint_code": "292",
+        "slug": "lime-yellow-292",
+        "reference_url": "https://www.paintscratch.com/colors/saab/lime-yellow-292/",
+        "source_label": "PaintScratch 2006 Saab",
+        "hex_value": "#D0CB79"
+      },
+      {
+        "display_name": "Chili Red Pearl",
+        "paint_code": "294",
+        "slug": "chili-red-pearl-294",
+        "reference_url": "https://www.paintscratch.com/colors/saab/chili-red-pearl-294/",
+        "source_label": "PaintScratch 2006 Saab",
+        "hex_value": "#7A1616"
+      },
+      {
+        "display_name": "Jet Black Pearl",
+        "paint_code": "298",
+        "slug": "jet-black-pearl-298",
+        "reference_url": "https://www.paintscratch.com/colors/saab/jet-black-pearl-298/",
+        "source_label": "PaintScratch 2006 Saab",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Fusion Blue Pearl Metallic",
+        "paint_code": "300",
+        "slug": "fusion-blue-pearl-metallic-300",
+        "reference_url": "https://www.paintscratch.com/colors/saab/fusion-blue-pearl-metallic-300/",
+        "source_label": "PaintScratch 2006 Saab",
+        "hex_value": "#517E9B"
+      },
+      {
+        "display_name": "Arctic Silver Metallic",
+        "paint_code": "01G",
+        "slug": "arctic-silver-metallic-01g",
+        "reference_url": "https://www.paintscratch.com/colors/saab/arctic-silver-metallic-01g/",
+        "source_label": "PaintScratch 2006 Saab",
+        "hex_value": "#F2EEE0"
+      },
+      {
+        "display_name": "Champaign Metallic",
+        "paint_code": "15U/WA929L",
+        "slug": "champaign-metallic-15uwa929l",
+        "reference_url": "https://www.paintscratch.com/colors/saab/champaign-metallic-15uwa929l/",
+        "source_label": "PaintScratch 2006 Saab",
+        "hex_value": "#D3C69B"
+      },
+      {
+        "display_name": "Graystone Metallic",
+        "paint_code": "16U/WA213M",
+        "slug": "graystone-metallic-16uwa213m",
+        "reference_url": "https://www.paintscratch.com/colors/saab/graystone-metallic-16uwa213m/",
+        "source_label": "PaintScratch 2006 Saab",
+        "hex_value": "#C0BAA8"
+      },
+      {
+        "display_name": "Brilliant Red",
+        "paint_code": "22G",
+        "slug": "brilliant-red-22g",
+        "reference_url": "https://www.paintscratch.com/colors/saab/brilliant-red-22g/",
+        "source_label": "PaintScratch 2006 Saab",
+        "hex_value": "#DA1212"
+      },
+      {
+        "display_name": "Superior Blue Metallic",
+        "paint_code": "22U/WA703J",
+        "slug": "superior-blue-metallic-22uwa703j",
+        "reference_url": "https://www.paintscratch.com/colors/saab/superior-blue-metallic-22uwa703j/",
+        "source_label": "PaintScratch 2006 Saab",
+        "hex_value": "#165484"
+      },
+      {
+        "display_name": "Gray",
+        "paint_code": "26D",
+        "slug": "gray-26d",
+        "reference_url": "https://www.paintscratch.com/colors/saab/gray-26d/",
+        "source_label": "PaintScratch 2006 Saab",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Midnight Black Mica",
+        "paint_code": "32J",
+        "slug": "midnight-black-mica-32j",
+        "reference_url": "https://www.paintscratch.com/colors/saab/midnight-black-mica-32j/",
+        "source_label": "PaintScratch 2006 Saab",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Deep Blue Mica",
+        "paint_code": "35J",
+        "slug": "deep-blue-mica-35j",
+        "reference_url": "https://www.paintscratch.com/colors/saab/deep-blue-mica-35j/",
+        "source_label": "PaintScratch 2006 Saab",
+        "hex_value": "#1A4475"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "41U/WA8555",
+        "slug": "black-41uwa8555",
+        "reference_url": "https://www.paintscratch.com/colors/saab/black-41uwa8555/",
+        "source_label": "PaintScratch 2006 Saab",
+        "hex_value": "#020202"
+      }
+    ],
+    "2007": [
+      {
+        "display_name": "Laser Red",
+        "paint_code": "278",
+        "slug": "laser-red-278",
+        "reference_url": "https://www.paintscratch.com/colors/saab/laser-red-278/",
+        "source_label": "PaintScratch 2007 Saab",
+        "hex_value": "#DA1212"
+      },
+      {
+        "display_name": "Steel Gray Metallic",
+        "paint_code": "279",
+        "slug": "steel-gray-metallic-279",
+        "reference_url": "https://www.paintscratch.com/colors/saab/steel-gray-metallic-279/",
+        "source_label": "PaintScratch 2007 Saab",
+        "hex_value": "#B1B2B7"
+      },
+      {
+        "display_name": "Nocturne Blue Metallic",
+        "paint_code": "290",
+        "slug": "nocturne-blue-metallic-290",
+        "reference_url": "https://www.paintscratch.com/colors/saab/nocturne-blue-metallic-290/",
+        "source_label": "PaintScratch 2007 Saab",
+        "hex_value": "#251E50"
+      },
+      {
+        "display_name": "Lime Yellow",
+        "paint_code": "292",
+        "slug": "lime-yellow-292",
+        "reference_url": "https://www.paintscratch.com/colors/saab/lime-yellow-292/",
+        "source_label": "PaintScratch 2007 Saab",
+        "hex_value": "#D0CB79"
+      },
+      {
+        "display_name": "Chili Red Pearl",
+        "paint_code": "294",
+        "slug": "chili-red-pearl-294",
+        "reference_url": "https://www.paintscratch.com/colors/saab/chili-red-pearl-294/",
+        "source_label": "PaintScratch 2007 Saab",
+        "hex_value": "#7A1616"
+      },
+      {
+        "display_name": "Jet Black Pearl",
+        "paint_code": "298",
+        "slug": "jet-black-pearl-298",
+        "reference_url": "https://www.paintscratch.com/colors/saab/jet-black-pearl-298/",
+        "source_label": "PaintScratch 2007 Saab",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Fusion Blue Pearl Metallic",
+        "paint_code": "300",
+        "slug": "fusion-blue-pearl-metallic-300",
+        "reference_url": "https://www.paintscratch.com/colors/saab/fusion-blue-pearl-metallic-300/",
+        "source_label": "PaintScratch 2007 Saab",
+        "hex_value": "#517E9B"
+      },
+      {
+        "display_name": "Graystone Metallic",
+        "paint_code": "16U/WA213M",
+        "slug": "graystone-metallic-16uwa213m",
+        "reference_url": "https://www.paintscratch.com/colors/saab/graystone-metallic-16uwa213m/",
+        "source_label": "PaintScratch 2007 Saab",
+        "hex_value": "#C0BAA8"
+      },
+      {
+        "display_name": "Imperial Blue Metallic",
+        "paint_code": "37U/WA403P",
+        "slug": "imperial-blue-metallic-37uwa403p",
+        "reference_url": "https://www.paintscratch.com/colors/saab/imperial-blue-metallic-37uwa403p/",
+        "source_label": "PaintScratch 2007 Saab",
+        "hex_value": "#2D364B"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "41U/WA8555",
+        "slug": "black-41uwa8555",
+        "reference_url": "https://www.paintscratch.com/colors/saab/black-41uwa8555/",
+        "source_label": "PaintScratch 2007 Saab",
+        "hex_value": "#020202"
+      },
+      {
+        "display_name": "Olympic White",
+        "paint_code": "50U/WA8624",
+        "slug": "olympic-white-50uwa8624",
+        "reference_url": "https://www.paintscratch.com/colors/saab/olympic-white-50uwa8624/",
+        "source_label": "PaintScratch 2007 Saab",
+        "hex_value": "#EFEFE9"
+      },
+      {
+        "display_name": "Graphite Gray Metallic",
+        "paint_code": "54U/WA323N",
+        "slug": "graphite-gray-metallic-54uwa323n",
+        "reference_url": "https://www.paintscratch.com/colors/saab/graphite-gray-metallic-54uwa323n/",
+        "source_label": "PaintScratch 2007 Saab",
+        "hex_value": "#555245"
+      },
+      {
+        "display_name": "Light Tarnished Silver Metallic",
+        "paint_code": "67U/WA994L",
+        "slug": "light-tarnished-silver-metallic-67uwa994l",
+        "reference_url": "https://www.paintscratch.com/colors/saab/light-tarnished-silver-metallic-67uwa994l/",
+        "source_label": "PaintScratch 2007 Saab",
+        "hex_value": "#DFDED7"
+      },
+      {
+        "display_name": "Red Jewel Tricoat",
+        "paint_code": "80U/WA301N",
+        "slug": "red-jewel-tricoat-80uwa301n",
+        "reference_url": "https://www.paintscratch.com/colors/saab/red-jewel-tricoat-80uwa301n/",
+        "source_label": "PaintScratch 2007 Saab",
+        "hex_value": "#891C11"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "170",
+        "slug": "black-170",
+        "reference_url": "https://www.paintscratch.com/colors/saab/black-170/",
+        "source_label": "PaintScratch 2007 Saab",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "268",
+        "slug": "silver-metallic-268",
+        "reference_url": "https://www.paintscratch.com/colors/saab/silver-metallic-268/",
+        "source_label": "PaintScratch 2007 Saab",
+        "hex_value": "#9699A0"
+      }
+    ],
+    "2008": [
+      {
+        "display_name": "Laser Red",
+        "paint_code": "278",
+        "slug": "laser-red-278",
+        "reference_url": "https://www.paintscratch.com/colors/saab/laser-red-278/",
+        "source_label": "PaintScratch 2008 Saab",
+        "hex_value": "#DA1212"
+      },
+      {
+        "display_name": "Steel Gray Metallic",
+        "paint_code": "279",
+        "slug": "steel-gray-metallic-279",
+        "reference_url": "https://www.paintscratch.com/colors/saab/steel-gray-metallic-279/",
+        "source_label": "PaintScratch 2008 Saab",
+        "hex_value": "#B1B2B7"
+      },
+      {
+        "display_name": "Nocturne Blue Metallic",
+        "paint_code": "290",
+        "slug": "nocturne-blue-metallic-290",
+        "reference_url": "https://www.paintscratch.com/colors/saab/nocturne-blue-metallic-290/",
+        "source_label": "PaintScratch 2008 Saab",
+        "hex_value": "#251E50"
+      },
+      {
+        "display_name": "Jet Black Pearl",
+        "paint_code": "298",
+        "slug": "jet-black-pearl-298",
+        "reference_url": "https://www.paintscratch.com/colors/saab/jet-black-pearl-298/",
+        "source_label": "PaintScratch 2008 Saab",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Fusion Blue Pearl Metallic",
+        "paint_code": "300",
+        "slug": "fusion-blue-pearl-metallic-300",
+        "reference_url": "https://www.paintscratch.com/colors/saab/fusion-blue-pearl-metallic-300/",
+        "source_label": "PaintScratch 2008 Saab",
+        "hex_value": "#517E9B"
+      },
+      {
+        "display_name": "Snow Silver Metallic",
+        "paint_code": "309",
+        "slug": "snow-silver-metallic-309",
+        "reference_url": "https://www.paintscratch.com/colors/saab/snow-silver-metallic-309/",
+        "source_label": "PaintScratch 2008 Saab",
+        "hex_value": "#D5D2C3"
+      },
+      {
+        "display_name": "Carbon Gray Metallic",
+        "paint_code": "310",
+        "slug": "carbon-gray-metallic-310",
+        "reference_url": "https://www.paintscratch.com/colors/saab/carbon-gray-metallic-310/",
+        "source_label": "PaintScratch 2008 Saab",
+        "hex_value": "#363430"
+      },
+      {
+        "display_name": "Graystone Metallic",
+        "paint_code": "16U/WA213M",
+        "slug": "graystone-metallic-16uwa213m",
+        "reference_url": "https://www.paintscratch.com/colors/saab/graystone-metallic-16uwa213m/",
+        "source_label": "PaintScratch 2008 Saab",
+        "hex_value": "#C0BAA8"
+      },
+      {
+        "display_name": "Imperial Blue Metallic",
+        "paint_code": "37U/WA403P",
+        "slug": "imperial-blue-metallic-37uwa403p",
+        "reference_url": "https://www.paintscratch.com/colors/saab/imperial-blue-metallic-37uwa403p/",
+        "source_label": "PaintScratch 2008 Saab",
+        "hex_value": "#2D364B"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "41U/WA8555",
+        "slug": "black-41uwa8555",
+        "reference_url": "https://www.paintscratch.com/colors/saab/black-41uwa8555/",
+        "source_label": "PaintScratch 2008 Saab",
+        "hex_value": "#020202"
+      },
+      {
+        "display_name": "Winter White",
+        "paint_code": "50U/WA8624/306/GAZ",
+        "slug": "winter-white-50uwa8624306gaz",
+        "reference_url": "https://www.paintscratch.com/colors/saab/winter-white-50uwa8624306gaz/",
+        "source_label": "PaintScratch 2008 Saab",
+        "hex_value": "#EFEFE9"
+      },
+      {
+        "display_name": "Graphite Gray Metallic",
+        "paint_code": "54U/WA323N",
+        "slug": "graphite-gray-metallic-54uwa323n",
+        "reference_url": "https://www.paintscratch.com/colors/saab/graphite-gray-metallic-54uwa323n/",
+        "source_label": "PaintScratch 2008 Saab",
+        "hex_value": "#555245"
+      },
+      {
+        "display_name": "Carbon Flash Metallic",
+        "paint_code": "58U/WA501Q",
+        "slug": "carbon-flash-metallic-58uwa501q",
+        "reference_url": "https://www.paintscratch.com/colors/saab/carbon-flash-metallic-58uwa501q/",
+        "source_label": "PaintScratch 2008 Saab",
+        "hex_value": "#E3E2DD"
+      },
+      {
+        "display_name": "Light Tarnished Silver Metallic",
+        "paint_code": "67U/WA994L",
+        "slug": "light-tarnished-silver-metallic-67uwa994l",
+        "reference_url": "https://www.paintscratch.com/colors/saab/light-tarnished-silver-metallic-67uwa994l/",
+        "source_label": "PaintScratch 2008 Saab",
+        "hex_value": "#DFDED7"
+      },
+      {
+        "display_name": "Red Jewel Tricoat",
+        "paint_code": "80U/WA301N",
+        "slug": "red-jewel-tricoat-80uwa301n",
+        "reference_url": "https://www.paintscratch.com/colors/saab/red-jewel-tricoat-80uwa301n/",
+        "source_label": "PaintScratch 2008 Saab",
+        "hex_value": "#891C11"
+      },
+      {
+        "display_name": "Cocoa Metallic",
+        "paint_code": "81U/WA414P",
+        "slug": "cocoa-metallic-81uwa414p",
+        "reference_url": "https://www.paintscratch.com/colors/saab/cocoa-metallic-81uwa414p/",
+        "source_label": "PaintScratch 2008 Saab",
+        "hex_value": "#8E775E"
+      }
+    ],
+    "2009": [
+      {
+        "display_name": "Laser Red",
+        "paint_code": "278",
+        "slug": "laser-red-278",
+        "reference_url": "https://www.paintscratch.com/colors/saab/laser-red-278/",
+        "source_label": "PaintScratch 2009 Saab",
+        "hex_value": "#DA1212"
+      },
+      {
+        "display_name": "Steel Gray Metallic",
+        "paint_code": "279",
+        "slug": "steel-gray-metallic-279",
+        "reference_url": "https://www.paintscratch.com/colors/saab/steel-gray-metallic-279/",
+        "source_label": "PaintScratch 2009 Saab",
+        "hex_value": "#B1B2B7"
+      },
+      {
+        "display_name": "Nocturne Blue Metallic",
+        "paint_code": "290",
+        "slug": "nocturne-blue-metallic-290",
+        "reference_url": "https://www.paintscratch.com/colors/saab/nocturne-blue-metallic-290/",
+        "source_label": "PaintScratch 2009 Saab",
+        "hex_value": "#251E50"
+      },
+      {
+        "display_name": "Chili Red Pearl",
+        "paint_code": "294",
+        "slug": "chili-red-pearl-294",
+        "reference_url": "https://www.paintscratch.com/colors/saab/chili-red-pearl-294/",
+        "source_label": "PaintScratch 2009 Saab",
+        "hex_value": "#7A1616"
+      },
+      {
+        "display_name": "Jet Black Pearl",
+        "paint_code": "298",
+        "slug": "jet-black-pearl-298",
+        "reference_url": "https://www.paintscratch.com/colors/saab/jet-black-pearl-298/",
+        "source_label": "PaintScratch 2009 Saab",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Fusion Blue Pearl Metallic",
+        "paint_code": "300",
+        "slug": "fusion-blue-pearl-metallic-300",
+        "reference_url": "https://www.paintscratch.com/colors/saab/fusion-blue-pearl-metallic-300/",
+        "source_label": "PaintScratch 2009 Saab",
+        "hex_value": "#517E9B"
+      },
+      {
+        "display_name": "Snow Silver Metallic",
+        "paint_code": "309",
+        "slug": "snow-silver-metallic-309",
+        "reference_url": "https://www.paintscratch.com/colors/saab/snow-silver-metallic-309/",
+        "source_label": "PaintScratch 2009 Saab",
+        "hex_value": "#D5D2C3"
+      },
+      {
+        "display_name": "Carbon Gray Metallic",
+        "paint_code": "310",
+        "slug": "carbon-gray-metallic-310",
+        "reference_url": "https://www.paintscratch.com/colors/saab/carbon-gray-metallic-310/",
+        "source_label": "PaintScratch 2009 Saab",
+        "hex_value": "#363430"
+      },
+      {
+        "display_name": "Graystone Metallic",
+        "paint_code": "12U/WA519Q",
+        "slug": "graystone-metallic-12uwa519q",
+        "reference_url": "https://www.paintscratch.com/colors/saab/graystone-metallic-12uwa519q/",
+        "source_label": "PaintScratch 2009 Saab",
+        "hex_value": "#430A09"
+      },
+      {
+        "display_name": "Graystone Metallic",
+        "paint_code": "16U/WA213M",
+        "slug": "graystone-metallic-16uwa213m",
+        "reference_url": "https://www.paintscratch.com/colors/saab/graystone-metallic-16uwa213m/",
+        "source_label": "PaintScratch 2009 Saab",
+        "hex_value": "#C0BAA8"
+      },
+      {
+        "display_name": "Blade Silver Metallic",
+        "paint_code": "17U/WA636R",
+        "slug": "blade-silver-metallic-17uwa636r",
+        "reference_url": "https://www.paintscratch.com/colors/saab/blade-silver-metallic-17uwa636r/",
+        "source_label": "PaintScratch 2009 Saab",
+        "hex_value": "#CCC8C4"
+      },
+      {
+        "display_name": "Imperial Blue Metallic",
+        "paint_code": "37U/WA403P",
+        "slug": "imperial-blue-metallic-37uwa403p",
+        "reference_url": "https://www.paintscratch.com/colors/saab/imperial-blue-metallic-37uwa403p/",
+        "source_label": "PaintScratch 2009 Saab",
+        "hex_value": "#2D364B"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "41U/WA8555",
+        "slug": "black-41uwa8555",
+        "reference_url": "https://www.paintscratch.com/colors/saab/black-41uwa8555/",
+        "source_label": "PaintScratch 2009 Saab",
+        "hex_value": "#020202"
+      },
+      {
+        "display_name": "Olympic White",
+        "paint_code": "50U/WA8624",
+        "slug": "olympic-white-50uwa8624",
+        "reference_url": "https://www.paintscratch.com/colors/saab/olympic-white-50uwa8624/",
+        "source_label": "PaintScratch 2009 Saab",
+        "hex_value": "#EFEFE9"
+      },
+      {
+        "display_name": "Cyber Gray Metallic",
+        "paint_code": "57U/WA637R",
+        "slug": "cyber-gray-metallic-57uwa637r",
+        "reference_url": "https://www.paintscratch.com/colors/saab/cyber-gray-metallic-57uwa637r/",
+        "source_label": "PaintScratch 2009 Saab",
+        "hex_value": "#706D68"
+      },
+      {
+        "display_name": "Carbon Flash Metallic",
+        "paint_code": "58U/WA501Q",
+        "slug": "carbon-flash-metallic-58uwa501q",
+        "reference_url": "https://www.paintscratch.com/colors/saab/carbon-flash-metallic-58uwa501q/",
+        "source_label": "PaintScratch 2009 Saab",
+        "hex_value": "#E3E2DD"
+      }
+    ],
+    "2010": [
+      {
+        "display_name": "Laser Red",
+        "paint_code": "278",
+        "slug": "laser-red-278",
+        "reference_url": "https://www.paintscratch.com/colors/saab/laser-red-278/",
+        "source_label": "PaintScratch 2010 Saab",
+        "hex_value": "#DA1212"
+      },
+      {
+        "display_name": "Steel Gray Metallic",
+        "paint_code": "279",
+        "slug": "steel-gray-metallic-279",
+        "reference_url": "https://www.paintscratch.com/colors/saab/steel-gray-metallic-279/",
+        "source_label": "PaintScratch 2010 Saab",
+        "hex_value": "#B1B2B7"
+      },
+      {
+        "display_name": "Nocturne Blue Metallic",
+        "paint_code": "290",
+        "slug": "nocturne-blue-metallic-290",
+        "reference_url": "https://www.paintscratch.com/colors/saab/nocturne-blue-metallic-290/",
+        "source_label": "PaintScratch 2010 Saab",
+        "hex_value": "#251E50"
+      },
+      {
+        "display_name": "Jet Black Pearl",
+        "paint_code": "298",
+        "slug": "jet-black-pearl-298",
+        "reference_url": "https://www.paintscratch.com/colors/saab/jet-black-pearl-298/",
+        "source_label": "PaintScratch 2010 Saab",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Fusion Blue Pearl Metallic",
+        "paint_code": "300",
+        "slug": "fusion-blue-pearl-metallic-300",
+        "reference_url": "https://www.paintscratch.com/colors/saab/fusion-blue-pearl-metallic-300/",
+        "source_label": "PaintScratch 2010 Saab",
+        "hex_value": "#517E9B"
+      },
+      {
+        "display_name": "Snow Silver Metallic",
+        "paint_code": "309",
+        "slug": "snow-silver-metallic-309",
+        "reference_url": "https://www.paintscratch.com/colors/saab/snow-silver-metallic-309/",
+        "source_label": "PaintScratch 2010 Saab",
+        "hex_value": "#D5D2C3"
+      },
+      {
+        "display_name": "Carbon Gray Metallic",
+        "paint_code": "310/GAG",
+        "slug": "carbon-gray-metallic-310gag",
+        "reference_url": "https://www.paintscratch.com/colors/saab/carbon-gray-metallic-310gag/",
+        "source_label": "PaintScratch 2010 Saab",
+        "hex_value": "#363430"
+      },
+      {
+        "display_name": "Switchblade Silver Metallic",
+        "paint_code": "17U/WA636R/GAN",
+        "slug": "switchblade-silver-metallic-17uwa636rgan",
+        "reference_url": "https://www.paintscratch.com/colors/saab/switchblade-silver-metallic-17uwa636rgan/",
+        "source_label": "PaintScratch 2010 Saab",
+        "hex_value": "#CCC8C4"
+      },
+      {
+        "display_name": "Imperial Blue Metallic",
+        "paint_code": "37U/WA403P",
+        "slug": "imperial-blue-metallic-37uwa403p",
+        "reference_url": "https://www.paintscratch.com/colors/saab/imperial-blue-metallic-37uwa403p/",
+        "source_label": "PaintScratch 2010 Saab",
+        "hex_value": "#2D364B"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "41U/WA8555",
+        "slug": "black-41uwa8555",
+        "reference_url": "https://www.paintscratch.com/colors/saab/black-41uwa8555/",
+        "source_label": "PaintScratch 2010 Saab",
+        "hex_value": "#020202"
+      },
+      {
+        "display_name": "Olympic White",
+        "paint_code": "50U/WA8624",
+        "slug": "olympic-white-50uwa8624",
+        "reference_url": "https://www.paintscratch.com/colors/saab/olympic-white-50uwa8624/",
+        "source_label": "PaintScratch 2010 Saab",
+        "hex_value": "#EFEFE9"
+      },
+      {
+        "display_name": "Gold Mist Metallic",
+        "paint_code": "51U/WA316N/GAO",
+        "slug": "gold-mist-metallic-51uwa316ngao",
+        "reference_url": "https://www.paintscratch.com/colors/saab/gold-mist-metallic-51uwa316ngao/",
+        "source_label": "PaintScratch 2010 Saab",
+        "hex_value": "#DFCE93"
+      },
+      {
+        "display_name": "Cyber Gray Metallic",
+        "paint_code": "57U/WA637R",
+        "slug": "cyber-gray-metallic-57uwa637r",
+        "reference_url": "https://www.paintscratch.com/colors/saab/cyber-gray-metallic-57uwa637r/",
+        "source_label": "PaintScratch 2010 Saab",
+        "hex_value": "#706D68"
+      },
+      {
+        "display_name": "Carbon Flash Metallic",
+        "paint_code": "58U/WA501Q",
+        "slug": "carbon-flash-metallic-58uwa501q",
+        "reference_url": "https://www.paintscratch.com/colors/saab/carbon-flash-metallic-58uwa501q/",
+        "source_label": "PaintScratch 2010 Saab",
+        "hex_value": "#E3E2DD"
+      },
+      {
+        "display_name": "Aqua Blue Metallic",
+        "paint_code": "61U/WA638R/GBD",
+        "slug": "aqua-blue-metallic-61uwa638rgbd",
+        "reference_url": "https://www.paintscratch.com/colors/saab/aqua-blue-metallic-61uwa638rgbd/",
+        "source_label": "PaintScratch 2010 Saab",
+        "hex_value": "#38737E"
+      },
+      {
+        "display_name": "Crystal Claret Pearl Tricoat",
+        "paint_code": "89U/WA505Q/GBE",
+        "slug": "crystal-claret-pearl-tricoat-89uwa505qgbe",
+        "reference_url": "https://www.paintscratch.com/colors/saab/crystal-claret-pearl-tricoat-89uwa505qgbe/",
+        "source_label": "PaintScratch 2010 Saab",
+        "hex_value": "#881621"
+      }
+    ],
+    "2011": [
+      {
+        "display_name": "Laser Red",
+        "paint_code": "278",
+        "slug": "laser-red-278",
+        "reference_url": "https://www.paintscratch.com/colors/saab/laser-red-278/",
+        "source_label": "PaintScratch 2011 Saab",
+        "hex_value": "#DA1212"
+      },
+      {
+        "display_name": "Nocturne Blue Metallic",
+        "paint_code": "290",
+        "slug": "nocturne-blue-metallic-290",
+        "reference_url": "https://www.paintscratch.com/colors/saab/nocturne-blue-metallic-290/",
+        "source_label": "PaintScratch 2011 Saab",
+        "hex_value": "#251E50"
+      },
+      {
+        "display_name": "Jet Black Pearl",
+        "paint_code": "298",
+        "slug": "jet-black-pearl-298",
+        "reference_url": "https://www.paintscratch.com/colors/saab/jet-black-pearl-298/",
+        "source_label": "PaintScratch 2011 Saab",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Carbon Gray Metallic",
+        "paint_code": "310/GAG",
+        "slug": "carbon-gray-metallic-310gag",
+        "reference_url": "https://www.paintscratch.com/colors/saab/carbon-gray-metallic-310gag/",
+        "source_label": "PaintScratch 2011 Saab",
+        "hex_value": "#363430"
+      },
+      {
+        "display_name": "Switchblade Silver Pearl",
+        "paint_code": "17U/WA636R/315/GAN",
+        "slug": "switchblade-silver-pearl-17uwa636r315gan",
+        "reference_url": "https://www.paintscratch.com/colors/saab/switchblade-silver-pearl-17uwa636r315gan/",
+        "source_label": "PaintScratch 2011 Saab",
+        "hex_value": "#DBD5C7"
+      },
+      {
+        "display_name": "Imperial Blue Metallic",
+        "paint_code": "37U/WA403P/GAP",
+        "slug": "imperial-blue-metallic-37uwa403pgap",
+        "reference_url": "https://www.paintscratch.com/colors/saab/imperial-blue-metallic-37uwa403pgap/",
+        "source_label": "PaintScratch 2011 Saab",
+        "hex_value": "#2D364B"
+      },
+      {
+        "display_name": "Winter White",
+        "paint_code": "50U/WA8624/306/GAZ",
+        "slug": "winter-white-50uwa8624306gaz",
+        "reference_url": "https://www.paintscratch.com/colors/saab/winter-white-50uwa8624306gaz/",
+        "source_label": "PaintScratch 2011 Saab",
+        "hex_value": "#EFEFE9"
+      },
+      {
+        "display_name": "Cyber Gray Metallic",
+        "paint_code": "57U/WA637R",
+        "slug": "cyber-gray-metallic-57uwa637r",
+        "reference_url": "https://www.paintscratch.com/colors/saab/cyber-gray-metallic-57uwa637r/",
+        "source_label": "PaintScratch 2011 Saab",
+        "hex_value": "#706D68"
+      },
+      {
+        "display_name": "Carbon Flash Metallic",
+        "paint_code": "58U/WA501Q/GAR",
+        "slug": "carbon-flash-metallic-58uwa501qgar",
+        "reference_url": "https://www.paintscratch.com/colors/saab/carbon-flash-metallic-58uwa501qgar/",
+        "source_label": "PaintScratch 2011 Saab",
+        "hex_value": "#E3E2DD"
+      },
+      {
+        "display_name": "Crystal Claret Pearl Tricoat",
+        "paint_code": "89U/WA505Q/GBE",
+        "slug": "crystal-claret-pearl-tricoat-89uwa505qgbe",
+        "reference_url": "https://www.paintscratch.com/colors/saab/crystal-claret-pearl-tricoat-89uwa505qgbe/",
+        "source_label": "PaintScratch 2011 Saab",
+        "hex_value": "#881621"
+      },
+      {
+        "display_name": "Platinum Ice Tricoat",
+        "paint_code": "94U/WA560Q/GBR",
+        "slug": "platinum-ice-tricoat-94uwa560qgbr",
+        "reference_url": "https://www.paintscratch.com/colors/saab/platinum-ice-tricoat-94uwa560qgbr/",
+        "source_label": "PaintScratch 2011 Saab",
+        "hex_value": "#E8E5DC"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "170",
+        "slug": "black-170",
+        "reference_url": "https://www.paintscratch.com/colors/saab/black-170/",
+        "source_label": "PaintScratch 2011 Saab",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Vanilla Pure Metallic",
+        "paint_code": "312/GAI",
+        "slug": "vanilla-pure-metallic-312gai",
+        "reference_url": "https://www.paintscratch.com/colors/saab/vanilla-pure-metallic-312gai/",
+        "source_label": "PaintScratch 2011 Saab",
+        "hex_value": "#E3DEA7"
+      },
+      {
+        "display_name": "Glacier Silver Metallic",
+        "paint_code": "313/GJG",
+        "slug": "glacier-silver-metallic-313gjg",
+        "reference_url": "https://www.paintscratch.com/colors/saab/glacier-silver-metallic-313gjg/",
+        "source_label": "PaintScratch 2011 Saab",
+        "hex_value": "#9CACA1"
+      },
+      {
+        "display_name": "Java Metallic",
+        "paint_code": "317/GOP",
+        "slug": "java-metallic-317gop",
+        "reference_url": "https://www.paintscratch.com/colors/saab/java-metallic-317gop/",
+        "source_label": "PaintScratch 2011 Saab",
+        "hex_value": "#45372F"
+      },
+      {
+        "display_name": "Dark Gray (matt) Metallic",
+        "paint_code": "SA9700",
+        "slug": "dark-gray-matt-metallic-sa9700",
+        "reference_url": "https://www.paintscratch.com/colors/saab/dark-gray-matt-metallic-sa9700/",
+        "source_label": "PaintScratch 2011 Saab",
+        "hex_value": "#54504A"
+      }
+    ],
+    "2012": [
+      {
+        "display_name": "Carbon Gray Metallic",
+        "paint_code": "310/GAG",
+        "slug": "carbon-gray-metallic-310gag",
+        "reference_url": "https://www.paintscratch.com/colors/saab/carbon-gray-metallic-310gag/",
+        "source_label": "PaintScratch 2012 Saab",
+        "hex_value": "#363430"
+      },
+      {
+        "display_name": "Switchblade Silver Pearl",
+        "paint_code": "17U/WA636R/315/GAN",
+        "slug": "switchblade-silver-pearl-17uwa636r315gan",
+        "reference_url": "https://www.paintscratch.com/colors/saab/switchblade-silver-pearl-17uwa636r315gan/",
+        "source_label": "PaintScratch 2012 Saab",
+        "hex_value": "#DBD5C7"
+      },
+      {
+        "display_name": "Obsidian Black",
+        "paint_code": "41U/WA8555/GBA",
+        "slug": "obsidian-black-41uwa8555gba",
+        "reference_url": "https://www.paintscratch.com/colors/saab/obsidian-black-41uwa8555gba/",
+        "source_label": "PaintScratch 2012 Saab",
+        "hex_value": "#050505"
+      },
+      {
+        "display_name": "Winter White",
+        "paint_code": "50U/WA8624/306/GAZ",
+        "slug": "winter-white-50uwa8624306gaz",
+        "reference_url": "https://www.paintscratch.com/colors/saab/winter-white-50uwa8624306gaz/",
+        "source_label": "PaintScratch 2012 Saab",
+        "hex_value": "#EFEFE9"
+      },
+      {
+        "display_name": "Cyber Gray Metallic",
+        "paint_code": "57U/WA637R/GBV",
+        "slug": "cyber-gray-metallic-57uwa637rgbv",
+        "reference_url": "https://www.paintscratch.com/colors/saab/cyber-gray-metallic-57uwa637rgbv/",
+        "source_label": "PaintScratch 2012 Saab",
+        "hex_value": "#706D68"
+      },
+      {
+        "display_name": "Carbon Flash Metallic",
+        "paint_code": "58U/WA501Q/GAR",
+        "slug": "carbon-flash-metallic-58uwa501qgar",
+        "reference_url": "https://www.paintscratch.com/colors/saab/carbon-flash-metallic-58uwa501qgar/",
+        "source_label": "PaintScratch 2012 Saab",
+        "hex_value": "#E3E2DD"
+      },
+      {
+        "display_name": "Crystal Claret Pearl Tricoat",
+        "paint_code": "89U/WA505Q/GBE",
+        "slug": "crystal-claret-pearl-tricoat-89uwa505qgbe",
+        "reference_url": "https://www.paintscratch.com/colors/saab/crystal-claret-pearl-tricoat-89uwa505qgbe/",
+        "source_label": "PaintScratch 2012 Saab",
+        "hex_value": "#881621"
+      },
+      {
+        "display_name": "Platinum Ice Tricoat",
+        "paint_code": "94U/WA560Q/GBR",
+        "slug": "platinum-ice-tricoat-94uwa560qgbr",
+        "reference_url": "https://www.paintscratch.com/colors/saab/platinum-ice-tricoat-94uwa560qgbr/",
+        "source_label": "PaintScratch 2012 Saab",
+        "hex_value": "#E8E5DC"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "170/2QU",
+        "slug": "black-1702qu",
+        "reference_url": "https://www.paintscratch.com/colors/saab/black-1702qu/",
+        "source_label": "PaintScratch 2012 Saab",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Laser Red",
+        "paint_code": "278/4VU",
+        "slug": "laser-red-2784vu",
+        "reference_url": "https://www.paintscratch.com/colors/saab/laser-red-2784vu/",
+        "source_label": "PaintScratch 2012 Saab",
+        "hex_value": "#DA1212"
+      },
+      {
+        "display_name": "Nocturne Blue Metallic",
+        "paint_code": "290/1XU",
+        "slug": "nocturne-blue-metallic-2901xu",
+        "reference_url": "https://www.paintscratch.com/colors/saab/nocturne-blue-metallic-2901xu/",
+        "source_label": "PaintScratch 2012 Saab",
+        "hex_value": "#251E50"
+      },
+      {
+        "display_name": "Jet Black Pearl",
+        "paint_code": "298/5MU",
+        "slug": "jet-black-pearl-2985mu",
+        "reference_url": "https://www.paintscratch.com/colors/saab/jet-black-pearl-2985mu/",
+        "source_label": "PaintScratch 2012 Saab",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Java Metallic",
+        "paint_code": "317/GOP",
+        "slug": "java-metallic-317gop",
+        "reference_url": "https://www.paintscratch.com/colors/saab/java-metallic-317gop/",
+        "source_label": "PaintScratch 2012 Saab",
+        "hex_value": "#45372F"
+      },
+      {
+        "display_name": "Sunset Red Metallic",
+        "paint_code": "325/GU1",
+        "slug": "sunset-red-metallic-325gu1",
+        "reference_url": "https://www.paintscratch.com/colors/saab/sunset-red-metallic-325gu1/",
+        "source_label": "PaintScratch 2012 Saab",
+        "hex_value": "#CB7D21"
+      },
+      {
+        "display_name": "Dark Gray (matt) Metallic",
+        "paint_code": "SA9700",
+        "slug": "dark-gray-matt-metallic-sa9700",
+        "reference_url": "https://www.paintscratch.com/colors/saab/dark-gray-matt-metallic-sa9700/",
+        "source_label": "PaintScratch 2012 Saab",
+        "hex_value": "#54504A"
+      },
+      {
+        "display_name": "Shale (Interior)",
+        "paint_code": "WA149B",
+        "slug": "shale-interior-wa149b",
+        "reference_url": "https://www.paintscratch.com/colors/saab/shale-interior-wa149b/",
+        "source_label": "PaintScratch 2012 Saab",
+        "hex_value": "#A69476"
+      }
+    ]
+  }
+}

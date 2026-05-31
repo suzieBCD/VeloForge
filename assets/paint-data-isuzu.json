@@ -1,0 +1,3556 @@
+{
+  "All Models": {
+    "1982": [
+      {
+        "display_name": "Sash Black",
+        "paint_code": "001/P11",
+        "slug": "sash-black-001p11",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/sash-black-001p11/",
+        "source_label": "PaintScratch 1982 Isuzu",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Cannon Metallic",
+        "paint_code": "0100/P1",
+        "slug": "cannon-metallic-0100p1",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/cannon-metallic-0100p1/",
+        "source_label": "PaintScratch 1982 Isuzu",
+        "hex_value": "#9DA0AB"
+      },
+      {
+        "display_name": "Calm White",
+        "paint_code": "0133/P1",
+        "slug": "calm-white-0133p1",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/calm-white-0133p1/",
+        "source_label": "PaintScratch 1982 Isuzu",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Cameo White",
+        "paint_code": "808",
+        "slug": "cameo-white-808",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/cameo-white-808/",
+        "source_label": "PaintScratch 1982 Isuzu",
+        "hex_value": "#FFFAF1"
+      },
+      {
+        "display_name": "Matterhorn Silver Metallic",
+        "paint_code": "821",
+        "slug": "matterhorn-silver-metallic-821",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/matterhorn-silver-metallic-821/",
+        "source_label": "PaintScratch 1982 Isuzu",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Charcoal Metallic",
+        "paint_code": "840",
+        "slug": "charcoal-metallic-840",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/charcoal-metallic-840/",
+        "source_label": "PaintScratch 1982 Isuzu",
+        "hex_value": "#68696C"
+      },
+      {
+        "display_name": "Claret Red",
+        "paint_code": "865",
+        "slug": "claret-red-865",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/claret-red-865/",
+        "source_label": "PaintScratch 1982 Isuzu",
+        "hex_value": "#C00000"
+      },
+      {
+        "display_name": "Bordeaux Red Metallic",
+        "paint_code": "1071/P1",
+        "slug": "bordeaux-red-metallic-1071p1",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/bordeaux-red-metallic-1071p1/",
+        "source_label": "PaintScratch 1982 Isuzu",
+        "hex_value": "#752929"
+      },
+      {
+        "display_name": "Gothic Brown Metallic",
+        "paint_code": "2153/P1",
+        "slug": "gothic-brown-metallic-2153p1",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/gothic-brown-metallic-2153p1/",
+        "source_label": "PaintScratch 1982 Isuzu",
+        "hex_value": "#61482F"
+      },
+      {
+        "display_name": "Champagne Beige Metallic",
+        "paint_code": "2154/P1",
+        "slug": "champagne-beige-metallic-2154p1",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/champagne-beige-metallic-2154p1/",
+        "source_label": "PaintScratch 1982 Isuzu",
+        "hex_value": "#D4C282"
+      },
+      {
+        "display_name": "Fawn Brown Metallic",
+        "paint_code": "2155/P1",
+        "slug": "fawn-brown-metallic-2155p1",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/fawn-brown-metallic-2155p1/",
+        "source_label": "PaintScratch 1982 Isuzu",
+        "hex_value": "#8B6C4D"
+      },
+      {
+        "display_name": "Yellow",
+        "paint_code": "2172/P1",
+        "slug": "yellow-2172p1",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/yellow-2172p1/",
+        "source_label": "PaintScratch 1982 Isuzu",
+        "hex_value": "#FFFF40"
+      },
+      {
+        "display_name": "Mist Blue Metallic",
+        "paint_code": "4119-P1",
+        "slug": "mist-blue-metallic-4119-p1",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/mist-blue-metallic-4119-p1/",
+        "source_label": "PaintScratch 1982 Isuzu",
+        "hex_value": "#9BA5C5"
+      },
+      {
+        "display_name": "Seine Blue Metallic",
+        "paint_code": "4126/P1",
+        "slug": "seine-blue-metallic-4126p1",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/seine-blue-metallic-4126p1/",
+        "source_label": "PaintScratch 1982 Isuzu",
+        "hex_value": "#7172A7"
+      },
+      {
+        "display_name": "Dark Blue Metallic",
+        "paint_code": "4129/P1",
+        "slug": "dark-blue-metallic-4129p1",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/dark-blue-metallic-4129p1/",
+        "source_label": "PaintScratch 1982 Isuzu",
+        "hex_value": "#273B65"
+      }
+    ],
+    "1983": [
+      {
+        "display_name": "Sash Black",
+        "paint_code": "001/P11",
+        "slug": "sash-black-001p11",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/sash-black-001p11/",
+        "source_label": "PaintScratch 1983 Isuzu",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Cannon Metallic",
+        "paint_code": "0100/P1",
+        "slug": "cannon-metallic-0100p1",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/cannon-metallic-0100p1/",
+        "source_label": "PaintScratch 1983 Isuzu",
+        "hex_value": "#9DA0AB"
+      },
+      {
+        "display_name": "Calm White",
+        "paint_code": "0133/P1",
+        "slug": "calm-white-0133p1",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/calm-white-0133p1/",
+        "source_label": "PaintScratch 1983 Isuzu",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Cameo White",
+        "paint_code": "808",
+        "slug": "cameo-white-808",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/cameo-white-808/",
+        "source_label": "PaintScratch 1983 Isuzu",
+        "hex_value": "#FFFAF1"
+      },
+      {
+        "display_name": "Matterhorn Silver Metallic",
+        "paint_code": "821",
+        "slug": "matterhorn-silver-metallic-821",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/matterhorn-silver-metallic-821/",
+        "source_label": "PaintScratch 1983 Isuzu",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Charcoal Metallic",
+        "paint_code": "840",
+        "slug": "charcoal-metallic-840",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/charcoal-metallic-840/",
+        "source_label": "PaintScratch 1983 Isuzu",
+        "hex_value": "#68696C"
+      },
+      {
+        "display_name": "Claret Red",
+        "paint_code": "865",
+        "slug": "claret-red-865",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/claret-red-865/",
+        "source_label": "PaintScratch 1983 Isuzu",
+        "hex_value": "#C00000"
+      },
+      {
+        "display_name": "Bordeaux Red Metallic",
+        "paint_code": "1071/P1",
+        "slug": "bordeaux-red-metallic-1071p1",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/bordeaux-red-metallic-1071p1/",
+        "source_label": "PaintScratch 1983 Isuzu",
+        "hex_value": "#752929"
+      },
+      {
+        "display_name": "Gothic Brown Metallic",
+        "paint_code": "2153/P1",
+        "slug": "gothic-brown-metallic-2153p1",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/gothic-brown-metallic-2153p1/",
+        "source_label": "PaintScratch 1983 Isuzu",
+        "hex_value": "#61482F"
+      },
+      {
+        "display_name": "Champagne Beige Metallic",
+        "paint_code": "2154/P1",
+        "slug": "champagne-beige-metallic-2154p1",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/champagne-beige-metallic-2154p1/",
+        "source_label": "PaintScratch 1983 Isuzu",
+        "hex_value": "#D4C282"
+      },
+      {
+        "display_name": "Fawn Brown Metallic",
+        "paint_code": "2155/P1",
+        "slug": "fawn-brown-metallic-2155p1",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/fawn-brown-metallic-2155p1/",
+        "source_label": "PaintScratch 1983 Isuzu",
+        "hex_value": "#8B6C4D"
+      },
+      {
+        "display_name": "Yellow",
+        "paint_code": "2172/P1",
+        "slug": "yellow-2172p1",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/yellow-2172p1/",
+        "source_label": "PaintScratch 1983 Isuzu",
+        "hex_value": "#FFFF40"
+      },
+      {
+        "display_name": "Seine Blue Metallic",
+        "paint_code": "4126/P1",
+        "slug": "seine-blue-metallic-4126p1",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/seine-blue-metallic-4126p1/",
+        "source_label": "PaintScratch 1983 Isuzu",
+        "hex_value": "#7172A7"
+      },
+      {
+        "display_name": "Dark Blue Metallic",
+        "paint_code": "4129/P1",
+        "slug": "dark-blue-metallic-4129p1",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/dark-blue-metallic-4129p1/",
+        "source_label": "PaintScratch 1983 Isuzu",
+        "hex_value": "#273B65"
+      }
+    ],
+    "1984": [
+      {
+        "display_name": "Sash Black",
+        "paint_code": "001/P11",
+        "slug": "sash-black-001p11",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/sash-black-001p11/",
+        "source_label": "PaintScratch 1984 Isuzu",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Cannon Metallic",
+        "paint_code": "0100/P1",
+        "slug": "cannon-metallic-0100p1",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/cannon-metallic-0100p1/",
+        "source_label": "PaintScratch 1984 Isuzu",
+        "hex_value": "#9DA0AB"
+      },
+      {
+        "display_name": "Calm White",
+        "paint_code": "0133/P1",
+        "slug": "calm-white-0133p1",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/calm-white-0133p1/",
+        "source_label": "PaintScratch 1984 Isuzu",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Cameo White",
+        "paint_code": "808",
+        "slug": "cameo-white-808",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/cameo-white-808/",
+        "source_label": "PaintScratch 1984 Isuzu",
+        "hex_value": "#FFFAF1"
+      },
+      {
+        "display_name": "Matterhorn Silver Metallic",
+        "paint_code": "821",
+        "slug": "matterhorn-silver-metallic-821",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/matterhorn-silver-metallic-821/",
+        "source_label": "PaintScratch 1984 Isuzu",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Ebony Black",
+        "paint_code": "826",
+        "slug": "ebony-black-826",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/ebony-black-826/",
+        "source_label": "PaintScratch 1984 Isuzu",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Charcoal Metallic",
+        "paint_code": "840",
+        "slug": "charcoal-metallic-840",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/charcoal-metallic-840/",
+        "source_label": "PaintScratch 1984 Isuzu",
+        "hex_value": "#68696C"
+      },
+      {
+        "display_name": "Claret Red",
+        "paint_code": "865",
+        "slug": "claret-red-865",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/claret-red-865/",
+        "source_label": "PaintScratch 1984 Isuzu",
+        "hex_value": "#C00000"
+      },
+      {
+        "display_name": "Bordeaux Red Metallic",
+        "paint_code": "1071/P1",
+        "slug": "bordeaux-red-metallic-1071p1",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/bordeaux-red-metallic-1071p1/",
+        "source_label": "PaintScratch 1984 Isuzu",
+        "hex_value": "#752929"
+      },
+      {
+        "display_name": "Gothic Brown Metallic",
+        "paint_code": "2153/P1",
+        "slug": "gothic-brown-metallic-2153p1",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/gothic-brown-metallic-2153p1/",
+        "source_label": "PaintScratch 1984 Isuzu",
+        "hex_value": "#61482F"
+      },
+      {
+        "display_name": "Champagne Beige Metallic",
+        "paint_code": "2154/P1",
+        "slug": "champagne-beige-metallic-2154p1",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/champagne-beige-metallic-2154p1/",
+        "source_label": "PaintScratch 1984 Isuzu",
+        "hex_value": "#D4C282"
+      },
+      {
+        "display_name": "Fawn Brown Metallic",
+        "paint_code": "2155/P1",
+        "slug": "fawn-brown-metallic-2155p1",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/fawn-brown-metallic-2155p1/",
+        "source_label": "PaintScratch 1984 Isuzu",
+        "hex_value": "#8B6C4D"
+      },
+      {
+        "display_name": "Yellow",
+        "paint_code": "2172/P1",
+        "slug": "yellow-2172p1",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/yellow-2172p1/",
+        "source_label": "PaintScratch 1984 Isuzu",
+        "hex_value": "#FFFF40"
+      },
+      {
+        "display_name": "Seine Blue Metallic",
+        "paint_code": "4126/P1",
+        "slug": "seine-blue-metallic-4126p1",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/seine-blue-metallic-4126p1/",
+        "source_label": "PaintScratch 1984 Isuzu",
+        "hex_value": "#7172A7"
+      },
+      {
+        "display_name": "Dark Blue Metallic",
+        "paint_code": "4129/P1",
+        "slug": "dark-blue-metallic-4129p1",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/dark-blue-metallic-4129p1/",
+        "source_label": "PaintScratch 1984 Isuzu",
+        "hex_value": "#273B65"
+      }
+    ],
+    "1985": [
+      {
+        "display_name": "Vivid Red",
+        "paint_code": "861",
+        "slug": "vivid-red-861",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/vivid-red-861/",
+        "source_label": "PaintScratch 1985 Isuzu",
+        "hex_value": "#D31313"
+      },
+      {
+        "display_name": "Sash Black",
+        "paint_code": "001/P11",
+        "slug": "sash-black-001p11",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/sash-black-001p11/",
+        "source_label": "PaintScratch 1985 Isuzu",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Glacier White",
+        "paint_code": "0172/P1",
+        "slug": "glacier-white-0172p1",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/glacier-white-0172p1/",
+        "source_label": "PaintScratch 1985 Isuzu",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Cavalier Blue",
+        "paint_code": "803",
+        "slug": "cavalier-blue-803",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/cavalier-blue-803/",
+        "source_label": "PaintScratch 1985 Isuzu",
+        "hex_value": "#042658"
+      },
+      {
+        "display_name": "Cameo White",
+        "paint_code": "808",
+        "slug": "cameo-white-808",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/cameo-white-808/",
+        "source_label": "PaintScratch 1985 Isuzu",
+        "hex_value": "#FFFAF1"
+      },
+      {
+        "display_name": "Med. Dk. Royal Blue Metallic",
+        "paint_code": "813",
+        "slug": "med-dk-royal-blue-metallic-813",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/med-dk-royal-blue-metallic-813/",
+        "source_label": "PaintScratch 1985 Isuzu",
+        "hex_value": "#5D89A3"
+      },
+      {
+        "display_name": "Matterhorn Silver Metallic",
+        "paint_code": "821",
+        "slug": "matterhorn-silver-metallic-821",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/matterhorn-silver-metallic-821/",
+        "source_label": "PaintScratch 1985 Isuzu",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Sky Blue Metallic",
+        "paint_code": "823",
+        "slug": "sky-blue-metallic-823",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/sky-blue-metallic-823/",
+        "source_label": "PaintScratch 1985 Isuzu",
+        "hex_value": "#AECFE2"
+      },
+      {
+        "display_name": "Silver Beige Metallic",
+        "paint_code": "824",
+        "slug": "silver-beige-metallic-824",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/silver-beige-metallic-824/",
+        "source_label": "PaintScratch 1985 Isuzu",
+        "hex_value": "#E3DED7"
+      },
+      {
+        "display_name": "Ebony Black",
+        "paint_code": "826",
+        "slug": "ebony-black-826",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/ebony-black-826/",
+        "source_label": "PaintScratch 1985 Isuzu",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Light Topaz Metallic",
+        "paint_code": "831",
+        "slug": "light-topaz-metallic-831",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/light-topaz-metallic-831/",
+        "source_label": "PaintScratch 1985 Isuzu",
+        "hex_value": "#D7AA79"
+      },
+      {
+        "display_name": "Charcoal Metallic",
+        "paint_code": "840",
+        "slug": "charcoal-metallic-840",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/charcoal-metallic-840/",
+        "source_label": "PaintScratch 1985 Isuzu",
+        "hex_value": "#68696C"
+      },
+      {
+        "display_name": "Dark Beige",
+        "paint_code": "860",
+        "slug": "dark-beige-860",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/dark-beige-860/",
+        "source_label": "PaintScratch 1985 Isuzu",
+        "hex_value": "#A59B8B"
+      },
+      {
+        "display_name": "Claret Red",
+        "paint_code": "865",
+        "slug": "claret-red-865",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/claret-red-865/",
+        "source_label": "PaintScratch 1985 Isuzu",
+        "hex_value": "#C00000"
+      },
+      {
+        "display_name": "Dark Fire Opal Metallic",
+        "paint_code": "885",
+        "slug": "dark-fire-opal-metallic-885",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/dark-fire-opal-metallic-885/",
+        "source_label": "PaintScratch 1985 Isuzu",
+        "hex_value": "#520404"
+      },
+      {
+        "display_name": "Crimson Maple Metallic",
+        "paint_code": "1112/P1",
+        "slug": "crimson-maple-metallic-1112p1",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/crimson-maple-metallic-1112p1/",
+        "source_label": "PaintScratch 1985 Isuzu",
+        "hex_value": "#663838"
+      }
+    ],
+    "1986": [
+      {
+        "display_name": "Vivid Red",
+        "paint_code": "861",
+        "slug": "vivid-red-861",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/vivid-red-861/",
+        "source_label": "PaintScratch 1986 Isuzu",
+        "hex_value": "#D31313"
+      },
+      {
+        "display_name": "Sash Black",
+        "paint_code": "001/P11",
+        "slug": "sash-black-001p11",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/sash-black-001p11/",
+        "source_label": "PaintScratch 1986 Isuzu",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Glacier White",
+        "paint_code": "0172/P1",
+        "slug": "glacier-white-0172p1",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/glacier-white-0172p1/",
+        "source_label": "PaintScratch 1986 Isuzu",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Cavalier Blue",
+        "paint_code": "803",
+        "slug": "cavalier-blue-803",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/cavalier-blue-803/",
+        "source_label": "PaintScratch 1986 Isuzu",
+        "hex_value": "#042658"
+      },
+      {
+        "display_name": "Cameo White",
+        "paint_code": "808",
+        "slug": "cameo-white-808",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/cameo-white-808/",
+        "source_label": "PaintScratch 1986 Isuzu",
+        "hex_value": "#FFFAF1"
+      },
+      {
+        "display_name": "Med. Dk. Royal Blue Metallic",
+        "paint_code": "813",
+        "slug": "med-dk-royal-blue-metallic-813",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/med-dk-royal-blue-metallic-813/",
+        "source_label": "PaintScratch 1986 Isuzu",
+        "hex_value": "#5D89A3"
+      },
+      {
+        "display_name": "Matterhorn Silver Metallic",
+        "paint_code": "821",
+        "slug": "matterhorn-silver-metallic-821",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/matterhorn-silver-metallic-821/",
+        "source_label": "PaintScratch 1986 Isuzu",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Sky Blue Metallic",
+        "paint_code": "823",
+        "slug": "sky-blue-metallic-823",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/sky-blue-metallic-823/",
+        "source_label": "PaintScratch 1986 Isuzu",
+        "hex_value": "#AECFE2"
+      },
+      {
+        "display_name": "Silver Beige Metallic",
+        "paint_code": "824",
+        "slug": "silver-beige-metallic-824",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/silver-beige-metallic-824/",
+        "source_label": "PaintScratch 1986 Isuzu",
+        "hex_value": "#E3DED7"
+      },
+      {
+        "display_name": "Ebony Black",
+        "paint_code": "826",
+        "slug": "ebony-black-826",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/ebony-black-826/",
+        "source_label": "PaintScratch 1986 Isuzu",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Light Topaz Metallic",
+        "paint_code": "831",
+        "slug": "light-topaz-metallic-831",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/light-topaz-metallic-831/",
+        "source_label": "PaintScratch 1986 Isuzu",
+        "hex_value": "#D7AA79"
+      },
+      {
+        "display_name": "Charcoal Metallic",
+        "paint_code": "840",
+        "slug": "charcoal-metallic-840",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/charcoal-metallic-840/",
+        "source_label": "PaintScratch 1986 Isuzu",
+        "hex_value": "#68696C"
+      },
+      {
+        "display_name": "Dark Beige",
+        "paint_code": "860",
+        "slug": "dark-beige-860",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/dark-beige-860/",
+        "source_label": "PaintScratch 1986 Isuzu",
+        "hex_value": "#A59B8B"
+      },
+      {
+        "display_name": "Claret Red",
+        "paint_code": "865",
+        "slug": "claret-red-865",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/claret-red-865/",
+        "source_label": "PaintScratch 1986 Isuzu",
+        "hex_value": "#C00000"
+      },
+      {
+        "display_name": "Hyper Silver Metallic",
+        "paint_code": "867",
+        "slug": "hyper-silver-metallic-867",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/hyper-silver-metallic-867/",
+        "source_label": "PaintScratch 1986 Isuzu",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Golden Glow Yellow",
+        "paint_code": "884",
+        "slug": "golden-glow-yellow-884",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/golden-glow-yellow-884/",
+        "source_label": "PaintScratch 1986 Isuzu",
+        "hex_value": "#F8F99F"
+      }
+    ],
+    "1987": [
+      {
+        "display_name": "Vivid Red",
+        "paint_code": "861",
+        "slug": "vivid-red-861",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/vivid-red-861/",
+        "source_label": "PaintScratch 1987 Isuzu",
+        "hex_value": "#D31313"
+      },
+      {
+        "display_name": "Sash Black",
+        "paint_code": "001/P11",
+        "slug": "sash-black-001p11",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/sash-black-001p11/",
+        "source_label": "PaintScratch 1987 Isuzu",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Cavalier Blue",
+        "paint_code": "803",
+        "slug": "cavalier-blue-803",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/cavalier-blue-803/",
+        "source_label": "PaintScratch 1987 Isuzu",
+        "hex_value": "#042658"
+      },
+      {
+        "display_name": "Spectra Red",
+        "paint_code": "806",
+        "slug": "spectra-red-806",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/spectra-red-806/",
+        "source_label": "PaintScratch 1987 Isuzu",
+        "hex_value": "#C00E0E"
+      },
+      {
+        "display_name": "Champagne Metallic",
+        "paint_code": "810",
+        "slug": "champagne-metallic-810",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/champagne-metallic-810/",
+        "source_label": "PaintScratch 1987 Isuzu",
+        "hex_value": "#D4C282"
+      },
+      {
+        "display_name": "Pure White",
+        "paint_code": "811",
+        "slug": "pure-white-811",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/pure-white-811/",
+        "source_label": "PaintScratch 1987 Isuzu",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Mulberry Metallic",
+        "paint_code": "816",
+        "slug": "mulberry-metallic-816",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/mulberry-metallic-816/",
+        "source_label": "PaintScratch 1987 Isuzu",
+        "hex_value": "#571717"
+      },
+      {
+        "display_name": "Pale Blue Metallic",
+        "paint_code": "818",
+        "slug": "pale-blue-metallic-818",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/pale-blue-metallic-818/",
+        "source_label": "PaintScratch 1987 Isuzu",
+        "hex_value": "#9FCFCE"
+      },
+      {
+        "display_name": "Sky Blue Metallic",
+        "paint_code": "823",
+        "slug": "sky-blue-metallic-823",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/sky-blue-metallic-823/",
+        "source_label": "PaintScratch 1987 Isuzu",
+        "hex_value": "#AECFE2"
+      },
+      {
+        "display_name": "Silver Beige Metallic",
+        "paint_code": "824",
+        "slug": "silver-beige-metallic-824",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/silver-beige-metallic-824/",
+        "source_label": "PaintScratch 1987 Isuzu",
+        "hex_value": "#E3DED7"
+      },
+      {
+        "display_name": "Pewter Metallic",
+        "paint_code": "825",
+        "slug": "pewter-metallic-825",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/pewter-metallic-825/",
+        "source_label": "PaintScratch 1987 Isuzu",
+        "hex_value": "#8C9294"
+      },
+      {
+        "display_name": "Light Topaz Metallic",
+        "paint_code": "831",
+        "slug": "light-topaz-metallic-831",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/light-topaz-metallic-831/",
+        "source_label": "PaintScratch 1987 Isuzu",
+        "hex_value": "#D7AA79"
+      },
+      {
+        "display_name": "Claret Red",
+        "paint_code": "865",
+        "slug": "claret-red-865",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/claret-red-865/",
+        "source_label": "PaintScratch 1987 Isuzu",
+        "hex_value": "#C00000"
+      },
+      {
+        "display_name": "Hyper Silver Metallic",
+        "paint_code": "867",
+        "slug": "hyper-silver-metallic-867",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/hyper-silver-metallic-867/",
+        "source_label": "PaintScratch 1987 Isuzu",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Dark Fire Opal Metallic",
+        "paint_code": "885",
+        "slug": "dark-fire-opal-metallic-885",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/dark-fire-opal-metallic-885/",
+        "source_label": "PaintScratch 1987 Isuzu",
+        "hex_value": "#520404"
+      },
+      {
+        "display_name": "Brittany Blue Metallic",
+        "paint_code": "888",
+        "slug": "brittany-blue-metallic-888",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/brittany-blue-metallic-888/",
+        "source_label": "PaintScratch 1987 Isuzu",
+        "hex_value": "#627E94"
+      }
+    ],
+    "1988": [
+      {
+        "display_name": "Vivid Red",
+        "paint_code": "861",
+        "slug": "vivid-red-861",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/vivid-red-861/",
+        "source_label": "PaintScratch 1988 Isuzu",
+        "hex_value": "#D31313"
+      },
+      {
+        "display_name": "Cavalier Blue",
+        "paint_code": "803",
+        "slug": "cavalier-blue-803",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/cavalier-blue-803/",
+        "source_label": "PaintScratch 1988 Isuzu",
+        "hex_value": "#042658"
+      },
+      {
+        "display_name": "Spectra Red",
+        "paint_code": "806",
+        "slug": "spectra-red-806",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/spectra-red-806/",
+        "source_label": "PaintScratch 1988 Isuzu",
+        "hex_value": "#C00E0E"
+      },
+      {
+        "display_name": "Parthenon Ivory",
+        "paint_code": "809",
+        "slug": "parthenon-ivory-809",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/parthenon-ivory-809/",
+        "source_label": "PaintScratch 1988 Isuzu",
+        "hex_value": "#FAF3D0"
+      },
+      {
+        "display_name": "Champagne Metallic",
+        "paint_code": "810",
+        "slug": "champagne-metallic-810",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/champagne-metallic-810/",
+        "source_label": "PaintScratch 1988 Isuzu",
+        "hex_value": "#D4C282"
+      },
+      {
+        "display_name": "Pure White",
+        "paint_code": "811",
+        "slug": "pure-white-811",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/pure-white-811/",
+        "source_label": "PaintScratch 1988 Isuzu",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "California Rose",
+        "paint_code": "822",
+        "slug": "california-rose-822",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/california-rose-822/",
+        "source_label": "PaintScratch 1988 Isuzu",
+        "hex_value": "#A73B3B"
+      },
+      {
+        "display_name": "Pewter Metallic",
+        "paint_code": "825",
+        "slug": "pewter-metallic-825",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/pewter-metallic-825/",
+        "source_label": "PaintScratch 1988 Isuzu",
+        "hex_value": "#8C9294"
+      },
+      {
+        "display_name": "Ebony Black",
+        "paint_code": "826",
+        "slug": "ebony-black-826",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/ebony-black-826/",
+        "source_label": "PaintScratch 1988 Isuzu",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Seaside Beige Metallic",
+        "paint_code": "827",
+        "slug": "seaside-beige-metallic-827",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/seaside-beige-metallic-827/",
+        "source_label": "PaintScratch 1988 Isuzu",
+        "hex_value": "#C5AB6B"
+      },
+      {
+        "display_name": "Hazelnut Metallic",
+        "paint_code": "832",
+        "slug": "hazelnut-metallic-832",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/hazelnut-metallic-832/",
+        "source_label": "PaintScratch 1988 Isuzu",
+        "hex_value": "#C8961E"
+      },
+      {
+        "display_name": "Trooper Blue",
+        "paint_code": "833",
+        "slug": "trooper-blue-833",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/trooper-blue-833/",
+        "source_label": "PaintScratch 1988 Isuzu",
+        "hex_value": "#091F1C"
+      },
+      {
+        "display_name": "Red Mahogany",
+        "paint_code": "834",
+        "slug": "red-mahogany-834",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/red-mahogany-834/",
+        "source_label": "PaintScratch 1988 Isuzu",
+        "hex_value": "#5B2327"
+      },
+      {
+        "display_name": "Cerulean Pearl Metallic",
+        "paint_code": "845",
+        "slug": "cerulean-pearl-metallic-845",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/cerulean-pearl-metallic-845/",
+        "source_label": "PaintScratch 1988 Isuzu",
+        "hex_value": "#6B97AD"
+      },
+      {
+        "display_name": "Romanesque Silver Metallic",
+        "paint_code": "851",
+        "slug": "romanesque-silver-metallic-851",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/romanesque-silver-metallic-851/",
+        "source_label": "PaintScratch 1988 Isuzu",
+        "hex_value": "#BABDC6"
+      },
+      {
+        "display_name": "Hyper Silver Metallic",
+        "paint_code": "867",
+        "slug": "hyper-silver-metallic-867",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/hyper-silver-metallic-867/",
+        "source_label": "PaintScratch 1988 Isuzu",
+        "hex_value": "#C0C0C0"
+      }
+    ],
+    "1989": [
+      {
+        "display_name": "Vivid Red",
+        "paint_code": "861",
+        "slug": "vivid-red-861",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/vivid-red-861/",
+        "source_label": "PaintScratch 1989 Isuzu",
+        "hex_value": "#D31313"
+      },
+      {
+        "display_name": "Spectra Red",
+        "paint_code": "806",
+        "slug": "spectra-red-806",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/spectra-red-806/",
+        "source_label": "PaintScratch 1989 Isuzu",
+        "hex_value": "#C00E0E"
+      },
+      {
+        "display_name": "Parthenon Ivory",
+        "paint_code": "809",
+        "slug": "parthenon-ivory-809",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/parthenon-ivory-809/",
+        "source_label": "PaintScratch 1989 Isuzu",
+        "hex_value": "#FAF3D0"
+      },
+      {
+        "display_name": "Champagne Metallic",
+        "paint_code": "810",
+        "slug": "champagne-metallic-810",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/champagne-metallic-810/",
+        "source_label": "PaintScratch 1989 Isuzu",
+        "hex_value": "#D4C282"
+      },
+      {
+        "display_name": "Pure White",
+        "paint_code": "811",
+        "slug": "pure-white-811",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/pure-white-811/",
+        "source_label": "PaintScratch 1989 Isuzu",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "French Vanilla",
+        "paint_code": "812",
+        "slug": "french-vanilla-812",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/french-vanilla-812/",
+        "source_label": "PaintScratch 1989 Isuzu",
+        "hex_value": "#EFDAA1"
+      },
+      {
+        "display_name": "Med. Dk. Royal Blue Metallic",
+        "paint_code": "813",
+        "slug": "med-dk-royal-blue-metallic-813",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/med-dk-royal-blue-metallic-813/",
+        "source_label": "PaintScratch 1989 Isuzu",
+        "hex_value": "#5D89A3"
+      },
+      {
+        "display_name": "Pewter Metallic",
+        "paint_code": "825",
+        "slug": "pewter-metallic-825",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/pewter-metallic-825/",
+        "source_label": "PaintScratch 1989 Isuzu",
+        "hex_value": "#8C9294"
+      },
+      {
+        "display_name": "Ebony Black",
+        "paint_code": "826",
+        "slug": "ebony-black-826",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/ebony-black-826/",
+        "source_label": "PaintScratch 1989 Isuzu",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Seaside Beige Metallic",
+        "paint_code": "827",
+        "slug": "seaside-beige-metallic-827",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/seaside-beige-metallic-827/",
+        "source_label": "PaintScratch 1989 Isuzu",
+        "hex_value": "#C5AB6B"
+      },
+      {
+        "display_name": "Cloud Gray",
+        "paint_code": "828",
+        "slug": "cloud-gray-828",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/cloud-gray-828/",
+        "source_label": "PaintScratch 1989 Isuzu",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Hazelnut Metallic",
+        "paint_code": "832",
+        "slug": "hazelnut-metallic-832",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/hazelnut-metallic-832/",
+        "source_label": "PaintScratch 1989 Isuzu",
+        "hex_value": "#C8961E"
+      },
+      {
+        "display_name": "Trooper Blue",
+        "paint_code": "833",
+        "slug": "trooper-blue-833",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/trooper-blue-833/",
+        "source_label": "PaintScratch 1989 Isuzu",
+        "hex_value": "#091F1C"
+      },
+      {
+        "display_name": "Red Mahogany",
+        "paint_code": "834",
+        "slug": "red-mahogany-834",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/red-mahogany-834/",
+        "source_label": "PaintScratch 1989 Isuzu",
+        "hex_value": "#5B2327"
+      },
+      {
+        "display_name": "Phantom Gray Metallic",
+        "paint_code": "835",
+        "slug": "phantom-gray-metallic-835",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/phantom-gray-metallic-835/",
+        "source_label": "PaintScratch 1989 Isuzu",
+        "hex_value": "#817F7F"
+      },
+      {
+        "display_name": "Walnut Beige Metallic",
+        "paint_code": "837",
+        "slug": "walnut-beige-metallic-837",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/walnut-beige-metallic-837/",
+        "source_label": "PaintScratch 1989 Isuzu",
+        "hex_value": "#BFA367"
+      }
+    ],
+    "1990": [
+      {
+        "display_name": "Vivid Red",
+        "paint_code": "861",
+        "slug": "vivid-red-861",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/vivid-red-861/",
+        "source_label": "PaintScratch 1990 Isuzu",
+        "hex_value": "#D31313"
+      },
+      {
+        "display_name": "Orange",
+        "paint_code": "702",
+        "slug": "orange-702",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/orange-702/",
+        "source_label": "PaintScratch 1990 Isuzu",
+        "hex_value": "#E75927"
+      },
+      {
+        "display_name": "Golden Yellow Pearl Metallic",
+        "paint_code": "703",
+        "slug": "golden-yellow-pearl-metallic-703",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/golden-yellow-pearl-metallic-703/",
+        "source_label": "PaintScratch 1990 Isuzu",
+        "hex_value": "#D9A64D"
+      },
+      {
+        "display_name": "Garnet Pearl",
+        "paint_code": "715",
+        "slug": "garnet-pearl-715",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/garnet-pearl-715/",
+        "source_label": "PaintScratch 1990 Isuzu",
+        "hex_value": "#6A1420"
+      },
+      {
+        "display_name": "Blue Pearl",
+        "paint_code": "717",
+        "slug": "blue-pearl-717",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/blue-pearl-717/",
+        "source_label": "PaintScratch 1990 Isuzu",
+        "hex_value": "#0E045C"
+      },
+      {
+        "display_name": "Green Pearl",
+        "paint_code": "719",
+        "slug": "green-pearl-719",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/green-pearl-719/",
+        "source_label": "PaintScratch 1990 Isuzu",
+        "hex_value": "#1B3722"
+      },
+      {
+        "display_name": "Spectra Red",
+        "paint_code": "806",
+        "slug": "spectra-red-806",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/spectra-red-806/",
+        "source_label": "PaintScratch 1990 Isuzu",
+        "hex_value": "#C00E0E"
+      },
+      {
+        "display_name": "Cameo White",
+        "paint_code": "808",
+        "slug": "cameo-white-808",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/cameo-white-808/",
+        "source_label": "PaintScratch 1990 Isuzu",
+        "hex_value": "#FFFAF1"
+      },
+      {
+        "display_name": "Parthenon Ivory",
+        "paint_code": "809",
+        "slug": "parthenon-ivory-809",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/parthenon-ivory-809/",
+        "source_label": "PaintScratch 1990 Isuzu",
+        "hex_value": "#FAF3D0"
+      },
+      {
+        "display_name": "Pure White",
+        "paint_code": "811",
+        "slug": "pure-white-811",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/pure-white-811/",
+        "source_label": "PaintScratch 1990 Isuzu",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Med. Dk. Royal Blue Metallic",
+        "paint_code": "813",
+        "slug": "med-dk-royal-blue-metallic-813",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/med-dk-royal-blue-metallic-813/",
+        "source_label": "PaintScratch 1990 Isuzu",
+        "hex_value": "#5D89A3"
+      },
+      {
+        "display_name": "Mulberry Metallic",
+        "paint_code": "816",
+        "slug": "mulberry-metallic-816",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/mulberry-metallic-816/",
+        "source_label": "PaintScratch 1990 Isuzu",
+        "hex_value": "#571717"
+      },
+      {
+        "display_name": "Sky Blue Metallic",
+        "paint_code": "823",
+        "slug": "sky-blue-metallic-823",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/sky-blue-metallic-823/",
+        "source_label": "PaintScratch 1990 Isuzu",
+        "hex_value": "#AECFE2"
+      },
+      {
+        "display_name": "Silver Beige Metallic",
+        "paint_code": "824",
+        "slug": "silver-beige-metallic-824",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/silver-beige-metallic-824/",
+        "source_label": "PaintScratch 1990 Isuzu",
+        "hex_value": "#E3DED7"
+      },
+      {
+        "display_name": "Pewter Metallic",
+        "paint_code": "825",
+        "slug": "pewter-metallic-825",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/pewter-metallic-825/",
+        "source_label": "PaintScratch 1990 Isuzu",
+        "hex_value": "#8C9294"
+      },
+      {
+        "display_name": "Ebony Black",
+        "paint_code": "826",
+        "slug": "ebony-black-826",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/ebony-black-826/",
+        "source_label": "PaintScratch 1990 Isuzu",
+        "hex_value": "#000000"
+      }
+    ],
+    "1991": [
+      {
+        "display_name": "Black (matt)",
+        "paint_code": "001-P11",
+        "slug": "black-matt-001-p11",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/black-matt-001-p11/",
+        "source_label": "PaintScratch 1991 Isuzu",
+        "hex_value": "#12180B"
+      },
+      {
+        "display_name": "Ebony Black (Trim)",
+        "paint_code": "001-P38",
+        "slug": "ebony-black-trim-001-p38",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/ebony-black-trim-001-p38/",
+        "source_label": "PaintScratch 1991 Isuzu",
+        "hex_value": "#0D1012"
+      },
+      {
+        "display_name": "Dark Gray (matt)",
+        "paint_code": "014-P12",
+        "slug": "dark-gray-matt-014-p12",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/dark-gray-matt-014-p12/",
+        "source_label": "PaintScratch 1991 Isuzu",
+        "hex_value": "#282A24"
+      },
+      {
+        "display_name": "Orchid Pink Metallic",
+        "paint_code": "704/P013",
+        "slug": "orchid-pink-metallic-704p013",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/orchid-pink-metallic-704p013/",
+        "source_label": "PaintScratch 1991 Isuzu",
+        "hex_value": "#944949"
+      },
+      {
+        "display_name": "Slate Violet Metallic",
+        "paint_code": "713/P010",
+        "slug": "slate-violet-metallic-713p010",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/slate-violet-metallic-713p010/",
+        "source_label": "PaintScratch 1991 Isuzu",
+        "hex_value": "#6A5671"
+      },
+      {
+        "display_name": "Garnet Pearl",
+        "paint_code": "715/R022",
+        "slug": "garnet-pearl-715r022",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/garnet-pearl-715r022/",
+        "source_label": "PaintScratch 1991 Isuzu",
+        "hex_value": "#6A1420"
+      },
+      {
+        "display_name": "Liberty Blue Pearl",
+        "paint_code": "717/B025",
+        "slug": "liberty-blue-pearl-717b025",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/liberty-blue-pearl-717b025/",
+        "source_label": "PaintScratch 1991 Isuzu",
+        "hex_value": "#0E045C"
+      },
+      {
+        "display_name": "Jasper Green Pearl",
+        "paint_code": "719/G013",
+        "slug": "jasper-green-pearl-719g013",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/jasper-green-pearl-719g013/",
+        "source_label": "PaintScratch 1991 Isuzu",
+        "hex_value": "#1B3722"
+      },
+      {
+        "display_name": "Bahamas Green",
+        "paint_code": "738/G010",
+        "slug": "bahamas-green-738g010",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/bahamas-green-738g010/",
+        "source_label": "PaintScratch 1991 Isuzu",
+        "hex_value": "#37A184"
+      },
+      {
+        "display_name": "Spectra Red",
+        "paint_code": "806/1113",
+        "slug": "spectra-red-8061113",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/spectra-red-8061113/",
+        "source_label": "PaintScratch 1991 Isuzu",
+        "hex_value": "#951B19"
+      },
+      {
+        "display_name": "Brilliant Red Pearl",
+        "paint_code": "808/R021",
+        "slug": "brilliant-red-pearl-808r021",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/brilliant-red-pearl-808r021/",
+        "source_label": "PaintScratch 1991 Isuzu",
+        "hex_value": "#6D1314"
+      },
+      {
+        "display_name": "Parthenon Ivroy",
+        "paint_code": "809/2050",
+        "slug": "parthenon-ivroy-8092050",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/parthenon-ivroy-8092050/",
+        "source_label": "PaintScratch 1991 Isuzu",
+        "hex_value": "#FDF3B8"
+      },
+      {
+        "display_name": "Pure White",
+        "paint_code": "811/W701",
+        "slug": "pure-white-811w701",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/pure-white-811w701/",
+        "source_label": "PaintScratch 1991 Isuzu",
+        "hex_value": "#F9FBFD"
+      },
+      {
+        "display_name": "Sparky Blue",
+        "paint_code": "813/B902",
+        "slug": "sparky-blue-813b902",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/sparky-blue-813b902/",
+        "source_label": "PaintScratch 1991 Isuzu",
+        "hex_value": "#1E1775"
+      },
+      {
+        "display_name": "Cobalt Blue Pearl",
+        "paint_code": "816/B022",
+        "slug": "cobalt-blue-pearl-816b022",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/cobalt-blue-pearl-816b022/",
+        "source_label": "PaintScratch 1991 Isuzu",
+        "hex_value": "#24247A"
+      },
+      {
+        "display_name": "Steel Blue Metallic",
+        "paint_code": "823/B021",
+        "slug": "steel-blue-metallic-823b021",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/steel-blue-metallic-823b021/",
+        "source_label": "PaintScratch 1991 Isuzu",
+        "hex_value": "#6F8AA8"
+      }
+    ],
+    "1992": [
+      {
+        "display_name": "Cream White",
+        "paint_code": "752/W101",
+        "slug": "cream-white-752w101",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/cream-white-752w101/",
+        "source_label": "PaintScratch 1992 Isuzu",
+        "hex_value": "#FAFCEC"
+      },
+      {
+        "display_name": "Black (matt)",
+        "paint_code": "001-P11",
+        "slug": "black-matt-001-p11",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/black-matt-001-p11/",
+        "source_label": "PaintScratch 1992 Isuzu",
+        "hex_value": "#12180B"
+      },
+      {
+        "display_name": "Ebony Black (Trim)",
+        "paint_code": "001-P38",
+        "slug": "ebony-black-trim-001-p38",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/ebony-black-trim-001-p38/",
+        "source_label": "PaintScratch 1992 Isuzu",
+        "hex_value": "#0D1012"
+      },
+      {
+        "display_name": "Dark Gray (matt)",
+        "paint_code": "014-P12",
+        "slug": "dark-gray-matt-014-p12",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/dark-gray-matt-014-p12/",
+        "source_label": "PaintScratch 1992 Isuzu",
+        "hex_value": "#282A24"
+      },
+      {
+        "display_name": "Blue Gitan Pearl",
+        "paint_code": "709/B033",
+        "slug": "blue-gitan-pearl-709b033",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/blue-gitan-pearl-709b033/",
+        "source_label": "PaintScratch 1992 Isuzu",
+        "hex_value": "#2C438A"
+      },
+      {
+        "display_name": "Garnet Pearl",
+        "paint_code": "715/R022",
+        "slug": "garnet-pearl-715r022",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/garnet-pearl-715r022/",
+        "source_label": "PaintScratch 1992 Isuzu",
+        "hex_value": "#6A1420"
+      },
+      {
+        "display_name": "Liberty Blue Pearl",
+        "paint_code": "717/B025",
+        "slug": "liberty-blue-pearl-717b025",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/liberty-blue-pearl-717b025/",
+        "source_label": "PaintScratch 1992 Isuzu",
+        "hex_value": "#0E045C"
+      },
+      {
+        "display_name": "Astra Blue Metallic",
+        "paint_code": "718/B204",
+        "slug": "astra-blue-metallic-718b204",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/astra-blue-metallic-718b204/",
+        "source_label": "PaintScratch 1992 Isuzu",
+        "hex_value": "#395E91"
+      },
+      {
+        "display_name": "Torch Red",
+        "paint_code": "721/R205",
+        "slug": "torch-red-721r205",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/torch-red-721r205/",
+        "source_label": "PaintScratch 1992 Isuzu",
+        "hex_value": "#BD1E0F"
+      },
+      {
+        "display_name": "Bahamas Green",
+        "paint_code": "738/G010",
+        "slug": "bahamas-green-738g010",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/bahamas-green-738g010/",
+        "source_label": "PaintScratch 1992 Isuzu",
+        "hex_value": "#37A184"
+      },
+      {
+        "display_name": "Light Silver Metallic",
+        "paint_code": "753/N105",
+        "slug": "light-silver-metallic-753n105",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/light-silver-metallic-753n105/",
+        "source_label": "PaintScratch 1992 Isuzu",
+        "hex_value": "#ADB8A8"
+      },
+      {
+        "display_name": "New Medium Brown Metallic",
+        "paint_code": "754/U102",
+        "slug": "new-medium-brown-metallic-754u102",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/new-medium-brown-metallic-754u102/",
+        "source_label": "PaintScratch 1992 Isuzu",
+        "hex_value": "#5B4C3B"
+      },
+      {
+        "display_name": "Windsor Blue Pearl",
+        "paint_code": "755/B102",
+        "slug": "windsor-blue-pearl-755b102",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/windsor-blue-pearl-755b102/",
+        "source_label": "PaintScratch 1992 Isuzu",
+        "hex_value": "#2D3655"
+      },
+      {
+        "display_name": "Radiant Red",
+        "paint_code": "756/R103",
+        "slug": "radiant-red-756r103",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/radiant-red-756r103/",
+        "source_label": "PaintScratch 1992 Isuzu",
+        "hex_value": "#A90911"
+      },
+      {
+        "display_name": "Gold Green Pearl",
+        "paint_code": "757/G103",
+        "slug": "gold-green-pearl-757g103",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/gold-green-pearl-757g103/",
+        "source_label": "PaintScratch 1992 Isuzu",
+        "hex_value": "#21452F"
+      },
+      {
+        "display_name": "Cranberry Pearl",
+        "paint_code": "758/R104",
+        "slug": "cranberry-pearl-758r104",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/cranberry-pearl-758r104/",
+        "source_label": "PaintScratch 1992 Isuzu",
+        "hex_value": "#601D06"
+      }
+    ],
+    "1993": [
+      {
+        "display_name": "Cream White",
+        "paint_code": "752/W101",
+        "slug": "cream-white-752w101",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/cream-white-752w101/",
+        "source_label": "PaintScratch 1993 Isuzu",
+        "hex_value": "#FAFCEC"
+      },
+      {
+        "display_name": "Black (matt)",
+        "paint_code": "001-P11",
+        "slug": "black-matt-001-p11",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/black-matt-001-p11/",
+        "source_label": "PaintScratch 1993 Isuzu",
+        "hex_value": "#12180B"
+      },
+      {
+        "display_name": "Ebony Black (Trim)",
+        "paint_code": "001-P38",
+        "slug": "ebony-black-trim-001-p38",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/ebony-black-trim-001-p38/",
+        "source_label": "PaintScratch 1993 Isuzu",
+        "hex_value": "#0D1012"
+      },
+      {
+        "display_name": "Dark Gray (matt)",
+        "paint_code": "014-P12",
+        "slug": "dark-gray-matt-014-p12",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/dark-gray-matt-014-p12/",
+        "source_label": "PaintScratch 1993 Isuzu",
+        "hex_value": "#282A24"
+      },
+      {
+        "display_name": "Blue Gitan Pearl",
+        "paint_code": "709/B033",
+        "slug": "blue-gitan-pearl-709b033",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/blue-gitan-pearl-709b033/",
+        "source_label": "PaintScratch 1993 Isuzu",
+        "hex_value": "#2C438A"
+      },
+      {
+        "display_name": "Amethyst Pearl",
+        "paint_code": "716/P301",
+        "slug": "amethyst-pearl-716p301",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/amethyst-pearl-716p301/",
+        "source_label": "PaintScratch 1993 Isuzu",
+        "hex_value": "#684A8C"
+      },
+      {
+        "display_name": "Liberty Blue Pearl",
+        "paint_code": "717/B025",
+        "slug": "liberty-blue-pearl-717b025",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/liberty-blue-pearl-717b025/",
+        "source_label": "PaintScratch 1993 Isuzu",
+        "hex_value": "#0E045C"
+      },
+      {
+        "display_name": "Torch Red",
+        "paint_code": "721/R205",
+        "slug": "torch-red-721r205",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/torch-red-721r205/",
+        "source_label": "PaintScratch 1993 Isuzu",
+        "hex_value": "#BD1E0F"
+      },
+      {
+        "display_name": "Bright Raspberry Pearl",
+        "paint_code": "723/R302",
+        "slug": "bright-raspberry-pearl-723r302",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/bright-raspberry-pearl-723r302/",
+        "source_label": "PaintScratch 1993 Isuzu",
+        "hex_value": "#73196C"
+      },
+      {
+        "display_name": "Raspberry Pearl",
+        "paint_code": "727/R303",
+        "slug": "raspberry-pearl-727r303",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/raspberry-pearl-727r303/",
+        "source_label": "PaintScratch 1993 Isuzu",
+        "hex_value": "#6B173B"
+      },
+      {
+        "display_name": "Lava Gray Metallic",
+        "paint_code": "728/N306",
+        "slug": "lava-gray-metallic-728n306",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/lava-gray-metallic-728n306/",
+        "source_label": "PaintScratch 1993 Isuzu",
+        "hex_value": "#232522"
+      },
+      {
+        "display_name": "Light Silver Metallic",
+        "paint_code": "753/N105",
+        "slug": "light-silver-metallic-753n105",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/light-silver-metallic-753n105/",
+        "source_label": "PaintScratch 1993 Isuzu",
+        "hex_value": "#ADB8A8"
+      },
+      {
+        "display_name": "Windsor Blue Pearl",
+        "paint_code": "755/B102",
+        "slug": "windsor-blue-pearl-755b102",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/windsor-blue-pearl-755b102/",
+        "source_label": "PaintScratch 1993 Isuzu",
+        "hex_value": "#2D3655"
+      },
+      {
+        "display_name": "Radiant Red",
+        "paint_code": "756/R103",
+        "slug": "radiant-red-756r103",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/radiant-red-756r103/",
+        "source_label": "PaintScratch 1993 Isuzu",
+        "hex_value": "#A90911"
+      },
+      {
+        "display_name": "Gold Green Pearl",
+        "paint_code": "757/G103",
+        "slug": "gold-green-pearl-757g103",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/gold-green-pearl-757g103/",
+        "source_label": "PaintScratch 1993 Isuzu",
+        "hex_value": "#21452F"
+      },
+      {
+        "display_name": "Cranberry Pearl",
+        "paint_code": "758/R104",
+        "slug": "cranberry-pearl-758r104",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/cranberry-pearl-758r104/",
+        "source_label": "PaintScratch 1993 Isuzu",
+        "hex_value": "#601D06"
+      }
+    ],
+    "1994": [
+      {
+        "display_name": "Cream White",
+        "paint_code": "752/W101",
+        "slug": "cream-white-752w101",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/cream-white-752w101/",
+        "source_label": "PaintScratch 1994 Isuzu",
+        "hex_value": "#FAFCEC"
+      },
+      {
+        "display_name": "Black (matt)",
+        "paint_code": "001-P11",
+        "slug": "black-matt-001-p11",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/black-matt-001-p11/",
+        "source_label": "PaintScratch 1994 Isuzu",
+        "hex_value": "#12180B"
+      },
+      {
+        "display_name": "Ebony Black (Trim)",
+        "paint_code": "001-P38",
+        "slug": "ebony-black-trim-001-p38",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/ebony-black-trim-001-p38/",
+        "source_label": "PaintScratch 1994 Isuzu",
+        "hex_value": "#0D1012"
+      },
+      {
+        "display_name": "Dark Gray (matt)",
+        "paint_code": "014-P12",
+        "slug": "dark-gray-matt-014-p12",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/dark-gray-matt-014-p12/",
+        "source_label": "PaintScratch 1994 Isuzu",
+        "hex_value": "#282A24"
+      },
+      {
+        "display_name": "Blue Gitan Pearl",
+        "paint_code": "709/B033",
+        "slug": "blue-gitan-pearl-709b033",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/blue-gitan-pearl-709b033/",
+        "source_label": "PaintScratch 1994 Isuzu",
+        "hex_value": "#2C438A"
+      },
+      {
+        "display_name": "Light Silver Metallic",
+        "paint_code": "714/N417",
+        "slug": "light-silver-metallic-714n417",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/light-silver-metallic-714n417/",
+        "source_label": "PaintScratch 1994 Isuzu",
+        "hex_value": "#A3A598"
+      },
+      {
+        "display_name": "Claret Red Pearl",
+        "paint_code": "731/R409",
+        "slug": "claret-red-pearl-731r409",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/claret-red-pearl-731r409/",
+        "source_label": "PaintScratch 1994 Isuzu",
+        "hex_value": "#C53135"
+      },
+      {
+        "display_name": "Viridian Green Pearl",
+        "paint_code": "732/G406",
+        "slug": "viridian-green-pearl-732g406",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/viridian-green-pearl-732g406/",
+        "source_label": "PaintScratch 1994 Isuzu",
+        "hex_value": "#2C6445"
+      },
+      {
+        "display_name": "Sunbrust Orange Pearl",
+        "paint_code": "735/U406",
+        "slug": "sunbrust-orange-pearl-735u406",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/sunbrust-orange-pearl-735u406/",
+        "source_label": "PaintScratch 1994 Isuzu",
+        "hex_value": "#993A21"
+      },
+      {
+        "display_name": "Light Silver Metallic",
+        "paint_code": "753/N105",
+        "slug": "light-silver-metallic-753n105",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/light-silver-metallic-753n105/",
+        "source_label": "PaintScratch 1994 Isuzu",
+        "hex_value": "#ADB8A8"
+      },
+      {
+        "display_name": "Windsor Blue Pearl",
+        "paint_code": "755/B102",
+        "slug": "windsor-blue-pearl-755b102",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/windsor-blue-pearl-755b102/",
+        "source_label": "PaintScratch 1994 Isuzu",
+        "hex_value": "#2D3655"
+      },
+      {
+        "display_name": "Radiant Red",
+        "paint_code": "756/R103",
+        "slug": "radiant-red-756r103",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/radiant-red-756r103/",
+        "source_label": "PaintScratch 1994 Isuzu",
+        "hex_value": "#A90911"
+      },
+      {
+        "display_name": "Gold Green Pearl",
+        "paint_code": "757/G103",
+        "slug": "gold-green-pearl-757g103",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/gold-green-pearl-757g103/",
+        "source_label": "PaintScratch 1994 Isuzu",
+        "hex_value": "#21452F"
+      },
+      {
+        "display_name": "Cranberry Pearl",
+        "paint_code": "758/R104",
+        "slug": "cranberry-pearl-758r104",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/cranberry-pearl-758r104/",
+        "source_label": "PaintScratch 1994 Isuzu",
+        "hex_value": "#601D06"
+      },
+      {
+        "display_name": "Dark Regatta",
+        "paint_code": "759/B409",
+        "slug": "dark-regatta-759b409",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/dark-regatta-759b409/",
+        "source_label": "PaintScratch 1994 Isuzu",
+        "hex_value": "#261D39"
+      },
+      {
+        "display_name": "Hunting Green Pearl",
+        "paint_code": "763/G202",
+        "slug": "hunting-green-pearl-763g202",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/hunting-green-pearl-763g202/",
+        "source_label": "PaintScratch 1994 Isuzu",
+        "hex_value": "#3F4D31"
+      }
+    ],
+    "1995": [
+      {
+        "display_name": "Cream White",
+        "paint_code": "752/W101",
+        "slug": "cream-white-752w101",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/cream-white-752w101/",
+        "source_label": "PaintScratch 1995 Isuzu",
+        "hex_value": "#FAFCEC"
+      },
+      {
+        "display_name": "Red Rock Pearl",
+        "paint_code": "872-R501",
+        "slug": "red-rock-pearl-872-r501",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/red-rock-pearl-872-r501/",
+        "source_label": "PaintScratch 1995 Isuzu",
+        "hex_value": "#960E28"
+      },
+      {
+        "display_name": "Black (matt)",
+        "paint_code": "001-P11",
+        "slug": "black-matt-001-p11",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/black-matt-001-p11/",
+        "source_label": "PaintScratch 1995 Isuzu",
+        "hex_value": "#12180B"
+      },
+      {
+        "display_name": "Ebony Black (Trim)",
+        "paint_code": "001-P38",
+        "slug": "ebony-black-trim-001-p38",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/ebony-black-trim-001-p38/",
+        "source_label": "PaintScratch 1995 Isuzu",
+        "hex_value": "#0D1012"
+      },
+      {
+        "display_name": "Dark Gray (matt)",
+        "paint_code": "014-P12",
+        "slug": "dark-gray-matt-014-p12",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/dark-gray-matt-014-p12/",
+        "source_label": "PaintScratch 1995 Isuzu",
+        "hex_value": "#282A24"
+      },
+      {
+        "display_name": "Stratus Blue Metallic",
+        "paint_code": "703/B502",
+        "slug": "stratus-blue-metallic-703b502",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/stratus-blue-metallic-703b502/",
+        "source_label": "PaintScratch 1995 Isuzu",
+        "hex_value": "#57537B"
+      },
+      {
+        "display_name": "Light Silver Metallic",
+        "paint_code": "714/N417",
+        "slug": "light-silver-metallic-714n417",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/light-silver-metallic-714n417/",
+        "source_label": "PaintScratch 1995 Isuzu",
+        "hex_value": "#A3A598"
+      },
+      {
+        "display_name": "Claret Red Pearl",
+        "paint_code": "731/R409",
+        "slug": "claret-red-pearl-731r409",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/claret-red-pearl-731r409/",
+        "source_label": "PaintScratch 1995 Isuzu",
+        "hex_value": "#C53135"
+      },
+      {
+        "display_name": "Viridian Green Pearl",
+        "paint_code": "732/G406",
+        "slug": "viridian-green-pearl-732g406",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/viridian-green-pearl-732g406/",
+        "source_label": "PaintScratch 1995 Isuzu",
+        "hex_value": "#2C6445"
+      },
+      {
+        "display_name": "Light Silver Metallic",
+        "paint_code": "753/N105",
+        "slug": "light-silver-metallic-753n105",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/light-silver-metallic-753n105/",
+        "source_label": "PaintScratch 1995 Isuzu",
+        "hex_value": "#ADB8A8"
+      },
+      {
+        "display_name": "Radiant Red",
+        "paint_code": "756/R103",
+        "slug": "radiant-red-756r103",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/radiant-red-756r103/",
+        "source_label": "PaintScratch 1995 Isuzu",
+        "hex_value": "#A90911"
+      },
+      {
+        "display_name": "Dark Regatta",
+        "paint_code": "759/B409",
+        "slug": "dark-regatta-759b409",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/dark-regatta-759b409/",
+        "source_label": "PaintScratch 1995 Isuzu",
+        "hex_value": "#261D39"
+      },
+      {
+        "display_name": "Bronze Blue Pearl",
+        "paint_code": "760/B103",
+        "slug": "bronze-blue-pearl-760b103",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/bronze-blue-pearl-760b103/",
+        "source_label": "PaintScratch 1995 Isuzu",
+        "hex_value": "#2A2149"
+      },
+      {
+        "display_name": "Hunting Green Pearl",
+        "paint_code": "763/G202",
+        "slug": "hunting-green-pearl-763g202",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/hunting-green-pearl-763g202/",
+        "source_label": "PaintScratch 1995 Isuzu",
+        "hex_value": "#3F4D31"
+      },
+      {
+        "display_name": "Ebony Black",
+        "paint_code": "826/001",
+        "slug": "ebony-black-826001",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/ebony-black-826001/",
+        "source_label": "PaintScratch 1995 Isuzu",
+        "hex_value": "#050505"
+      },
+      {
+        "display_name": "Iron Gray Metallic",
+        "paint_code": "849/N031",
+        "slug": "iron-gray-metallic-849n031",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/iron-gray-metallic-849n031/",
+        "source_label": "PaintScratch 1995 Isuzu",
+        "hex_value": "#6F6F6F"
+      }
+    ],
+    "1996": [
+      {
+        "display_name": "Cream White",
+        "paint_code": "752/W101",
+        "slug": "cream-white-752w101",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/cream-white-752w101/",
+        "source_label": "PaintScratch 1996 Isuzu",
+        "hex_value": "#FAFCEC"
+      },
+      {
+        "display_name": "Red Rock Pearl",
+        "paint_code": "872-R501",
+        "slug": "red-rock-pearl-872-r501",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/red-rock-pearl-872-r501/",
+        "source_label": "PaintScratch 1996 Isuzu",
+        "hex_value": "#960E28"
+      },
+      {
+        "display_name": "Radar Blue Metallic",
+        "paint_code": "21/WA9018",
+        "slug": "radar-blue-metallic-21wa9018",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/radar-blue-metallic-21wa9018/",
+        "source_label": "PaintScratch 1996 Isuzu",
+        "hex_value": "#282956"
+      },
+      {
+        "display_name": "Bright Teal Metallic",
+        "paint_code": "38/WA9794",
+        "slug": "bright-teal-metallic-38wa9794",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/bright-teal-metallic-38wa9794/",
+        "source_label": "PaintScratch 1996 Isuzu",
+        "hex_value": "#1E803E"
+      },
+      {
+        "display_name": "Olympic White",
+        "paint_code": "50/WA8624",
+        "slug": "olympic-white-50wa8624",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/olympic-white-50wa8624/",
+        "source_label": "PaintScratch 1996 Isuzu",
+        "hex_value": "#EFEFE9"
+      },
+      {
+        "display_name": "Standard Red",
+        "paint_code": "72/WA7475",
+        "slug": "standard-red-72wa7475",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/standard-red-72wa7475/",
+        "source_label": "PaintScratch 1996 Isuzu",
+        "hex_value": "#A81119"
+      },
+      {
+        "display_name": "Ultra Silver Metallic",
+        "paint_code": "96/WA8867",
+        "slug": "ultra-silver-metallic-96wa8867",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/ultra-silver-metallic-96wa8867/",
+        "source_label": "PaintScratch 1996 Isuzu",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Stratus Blue Metallic",
+        "paint_code": "703/B502",
+        "slug": "stratus-blue-metallic-703b502",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/stratus-blue-metallic-703b502/",
+        "source_label": "PaintScratch 1996 Isuzu",
+        "hex_value": "#57537B"
+      },
+      {
+        "display_name": "Light Silver Metallic",
+        "paint_code": "714/N417",
+        "slug": "light-silver-metallic-714n417",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/light-silver-metallic-714n417/",
+        "source_label": "PaintScratch 1996 Isuzu",
+        "hex_value": "#A3A598"
+      },
+      {
+        "display_name": "Claret Red Pearl",
+        "paint_code": "731/R409",
+        "slug": "claret-red-pearl-731r409",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/claret-red-pearl-731r409/",
+        "source_label": "PaintScratch 1996 Isuzu",
+        "hex_value": "#C53135"
+      },
+      {
+        "display_name": "Viridian Green Pearl",
+        "paint_code": "732/G406",
+        "slug": "viridian-green-pearl-732g406",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/viridian-green-pearl-732g406/",
+        "source_label": "PaintScratch 1996 Isuzu",
+        "hex_value": "#2C6445"
+      },
+      {
+        "display_name": "Light Silver Metallic",
+        "paint_code": "753/N105",
+        "slug": "light-silver-metallic-753n105",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/light-silver-metallic-753n105/",
+        "source_label": "PaintScratch 1996 Isuzu",
+        "hex_value": "#ADB8A8"
+      },
+      {
+        "display_name": "Radiant Red",
+        "paint_code": "756/R103",
+        "slug": "radiant-red-756r103",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/radiant-red-756r103/",
+        "source_label": "PaintScratch 1996 Isuzu",
+        "hex_value": "#A90911"
+      },
+      {
+        "display_name": "Bronze Blue Pearl",
+        "paint_code": "760/B103",
+        "slug": "bronze-blue-pearl-760b103",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/bronze-blue-pearl-760b103/",
+        "source_label": "PaintScratch 1996 Isuzu",
+        "hex_value": "#2A2149"
+      },
+      {
+        "display_name": "Ebony Black",
+        "paint_code": "826/001",
+        "slug": "ebony-black-826001",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/ebony-black-826001/",
+        "source_label": "PaintScratch 1996 Isuzu",
+        "hex_value": "#050505"
+      },
+      {
+        "display_name": "Iron Gray Metallic",
+        "paint_code": "849/N031",
+        "slug": "iron-gray-metallic-849n031",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/iron-gray-metallic-849n031/",
+        "source_label": "PaintScratch 1996 Isuzu",
+        "hex_value": "#6F6F6F"
+      }
+    ],
+    "1997": [
+      {
+        "display_name": "Onyx Black",
+        "paint_code": "41/WA8555",
+        "slug": "onyx-black-41wa8555",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/onyx-black-41wa8555/",
+        "source_label": "PaintScratch 1997 Isuzu",
+        "hex_value": "#020202"
+      },
+      {
+        "display_name": "Cream White",
+        "paint_code": "752/W101",
+        "slug": "cream-white-752w101",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/cream-white-752w101/",
+        "source_label": "PaintScratch 1997 Isuzu",
+        "hex_value": "#FAFCEC"
+      },
+      {
+        "display_name": "Red Rock Pearl",
+        "paint_code": "872-R501",
+        "slug": "red-rock-pearl-872-r501",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/red-rock-pearl-872-r501/",
+        "source_label": "PaintScratch 1997 Isuzu",
+        "hex_value": "#960E28"
+      },
+      {
+        "display_name": "Black (matt)",
+        "paint_code": "001-P11",
+        "slug": "black-matt-001-p11",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/black-matt-001-p11/",
+        "source_label": "PaintScratch 1997 Isuzu",
+        "hex_value": "#12180B"
+      },
+      {
+        "display_name": "Emerald Green Metallic",
+        "paint_code": "43/WA177B",
+        "slug": "emerald-green-metallic-43wa177b",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/emerald-green-metallic-43wa177b/",
+        "source_label": "PaintScratch 1997 Isuzu",
+        "hex_value": "#115533"
+      },
+      {
+        "display_name": "Olympic White",
+        "paint_code": "50/WA8624",
+        "slug": "olympic-white-50wa8624",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/olympic-white-50wa8624/",
+        "source_label": "PaintScratch 1997 Isuzu",
+        "hex_value": "#EFEFE9"
+      },
+      {
+        "display_name": "Standard Red",
+        "paint_code": "72/WA7475",
+        "slug": "standard-red-72wa7475",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/standard-red-72wa7475/",
+        "source_label": "PaintScratch 1997 Isuzu",
+        "hex_value": "#A81119"
+      },
+      {
+        "display_name": "Ultra Silver Metallic",
+        "paint_code": "96/WA8867",
+        "slug": "ultra-silver-metallic-96wa8867",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/ultra-silver-metallic-96wa8867/",
+        "source_label": "PaintScratch 1997 Isuzu",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Dark Gray (matt)",
+        "paint_code": "0147-P12",
+        "slug": "dark-gray-matt-0147-p12",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/dark-gray-matt-0147-p12/",
+        "source_label": "PaintScratch 1997 Isuzu",
+        "hex_value": "#47585D"
+      },
+      {
+        "display_name": "Stratus Blue Metallic",
+        "paint_code": "703/B502",
+        "slug": "stratus-blue-metallic-703b502",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/stratus-blue-metallic-703b502/",
+        "source_label": "PaintScratch 1997 Isuzu",
+        "hex_value": "#57537B"
+      },
+      {
+        "display_name": "Light Silver Metallic",
+        "paint_code": "714/N417",
+        "slug": "light-silver-metallic-714n417",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/light-silver-metallic-714n417/",
+        "source_label": "PaintScratch 1997 Isuzu",
+        "hex_value": "#A3A598"
+      },
+      {
+        "display_name": "Claret Red Pearl",
+        "paint_code": "731/R409",
+        "slug": "claret-red-pearl-731r409",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/claret-red-pearl-731r409/",
+        "source_label": "PaintScratch 1997 Isuzu",
+        "hex_value": "#C53135"
+      },
+      {
+        "display_name": "Light Silver Metallic",
+        "paint_code": "753/N105",
+        "slug": "light-silver-metallic-753n105",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/light-silver-metallic-753n105/",
+        "source_label": "PaintScratch 1997 Isuzu",
+        "hex_value": "#ADB8A8"
+      },
+      {
+        "display_name": "Radiant Red",
+        "paint_code": "756/R103",
+        "slug": "radiant-red-756r103",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/radiant-red-756r103/",
+        "source_label": "PaintScratch 1997 Isuzu",
+        "hex_value": "#A90911"
+      },
+      {
+        "display_name": "Bronze Blue Pearl",
+        "paint_code": "760/B103",
+        "slug": "bronze-blue-pearl-760b103",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/bronze-blue-pearl-760b103/",
+        "source_label": "PaintScratch 1997 Isuzu",
+        "hex_value": "#2A2149"
+      },
+      {
+        "display_name": "Moderate Blue Pearl",
+        "paint_code": "761/B603",
+        "slug": "moderate-blue-pearl-761b603",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/moderate-blue-pearl-761b603/",
+        "source_label": "PaintScratch 1997 Isuzu",
+        "hex_value": "#8EA3AA"
+      }
+    ],
+    "1998": [
+      {
+        "display_name": "Onyx Black",
+        "paint_code": "41/WA8555",
+        "slug": "onyx-black-41wa8555",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/onyx-black-41wa8555/",
+        "source_label": "PaintScratch 1998 Isuzu",
+        "hex_value": "#020202"
+      },
+      {
+        "display_name": "Cream White",
+        "paint_code": "752/W101",
+        "slug": "cream-white-752w101",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/cream-white-752w101/",
+        "source_label": "PaintScratch 1998 Isuzu",
+        "hex_value": "#FAFCEC"
+      },
+      {
+        "display_name": "Red Rock Pearl",
+        "paint_code": "872-R501",
+        "slug": "red-rock-pearl-872-r501",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/red-rock-pearl-872-r501/",
+        "source_label": "PaintScratch 1998 Isuzu",
+        "hex_value": "#960E28"
+      },
+      {
+        "display_name": "Pewter Metallic",
+        "paint_code": "11/WA382E",
+        "slug": "pewter-metallic-11wa382e",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/pewter-metallic-11wa382e/",
+        "source_label": "PaintScratch 1998 Isuzu",
+        "hex_value": "#AFAD81"
+      },
+      {
+        "display_name": "Emerald Green Metallic",
+        "paint_code": "43/WA177B",
+        "slug": "emerald-green-metallic-43wa177b",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/emerald-green-metallic-43wa177b/",
+        "source_label": "PaintScratch 1998 Isuzu",
+        "hex_value": "#115533"
+      },
+      {
+        "display_name": "Olympic White",
+        "paint_code": "50/WA8624",
+        "slug": "olympic-white-50wa8624",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/olympic-white-50wa8624/",
+        "source_label": "PaintScratch 1998 Isuzu",
+        "hex_value": "#EFEFE9"
+      },
+      {
+        "display_name": "Copper Metallic",
+        "paint_code": "69/WA381E",
+        "slug": "copper-metallic-69wa381e",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/copper-metallic-69wa381e/",
+        "source_label": "PaintScratch 1998 Isuzu",
+        "hex_value": "#882A35"
+      },
+      {
+        "display_name": "Standard Red",
+        "paint_code": "72/WA7475",
+        "slug": "standard-red-72wa7475",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/standard-red-72wa7475/",
+        "source_label": "PaintScratch 1998 Isuzu",
+        "hex_value": "#A81119"
+      },
+      {
+        "display_name": "Stratus Blue Metallic",
+        "paint_code": "703/B502",
+        "slug": "stratus-blue-metallic-703b502",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/stratus-blue-metallic-703b502/",
+        "source_label": "PaintScratch 1998 Isuzu",
+        "hex_value": "#57537B"
+      },
+      {
+        "display_name": "Claret Red Pearl",
+        "paint_code": "731/R409",
+        "slug": "claret-red-pearl-731r409",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/claret-red-pearl-731r409/",
+        "source_label": "PaintScratch 1998 Isuzu",
+        "hex_value": "#C53135"
+      },
+      {
+        "display_name": "Light Silver Metallic",
+        "paint_code": "753/N105",
+        "slug": "light-silver-metallic-753n105",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/light-silver-metallic-753n105/",
+        "source_label": "PaintScratch 1998 Isuzu",
+        "hex_value": "#ADB8A8"
+      },
+      {
+        "display_name": "Radiant Red",
+        "paint_code": "756/R103",
+        "slug": "radiant-red-756r103",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/radiant-red-756r103/",
+        "source_label": "PaintScratch 1998 Isuzu",
+        "hex_value": "#A90911"
+      },
+      {
+        "display_name": "Ebony Black",
+        "paint_code": "826/001",
+        "slug": "ebony-black-826001",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/ebony-black-826001/",
+        "source_label": "PaintScratch 1998 Isuzu",
+        "hex_value": "#050505"
+      },
+      {
+        "display_name": "Spruce Green Metallic",
+        "paint_code": "833/G711",
+        "slug": "spruce-green-metallic-833g711",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/spruce-green-metallic-833g711/",
+        "source_label": "PaintScratch 1998 Isuzu",
+        "hex_value": "#116737"
+      },
+      {
+        "display_name": "Bright Silver Metallic",
+        "paint_code": "835/N818",
+        "slug": "bright-silver-metallic-835n818",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/bright-silver-metallic-835n818/",
+        "source_label": "PaintScratch 1998 Isuzu",
+        "hex_value": "#C5C5BB"
+      },
+      {
+        "display_name": "Caprice Blue Metallic",
+        "paint_code": "836/B807",
+        "slug": "caprice-blue-metallic-836b807",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/caprice-blue-metallic-836b807/",
+        "source_label": "PaintScratch 1998 Isuzu",
+        "hex_value": "#1993AD"
+      }
+    ],
+    "1999": [
+      {
+        "display_name": "Onyx Black",
+        "paint_code": "41/WA8555",
+        "slug": "onyx-black-41wa8555",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/onyx-black-41wa8555/",
+        "source_label": "PaintScratch 1999 Isuzu",
+        "hex_value": "#020202"
+      },
+      {
+        "display_name": "Cream White",
+        "paint_code": "752/W101",
+        "slug": "cream-white-752w101",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/cream-white-752w101/",
+        "source_label": "PaintScratch 1999 Isuzu",
+        "hex_value": "#FAFCEC"
+      },
+      {
+        "display_name": "Red Rock Pearl",
+        "paint_code": "872-R501",
+        "slug": "red-rock-pearl-872-r501",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/red-rock-pearl-872-r501/",
+        "source_label": "PaintScratch 1999 Isuzu",
+        "hex_value": "#960E28"
+      },
+      {
+        "display_name": "Zephyr Green Pearl",
+        "paint_code": "898/G903",
+        "slug": "zephyr-green-pearl-898g903",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/zephyr-green-pearl-898g903/",
+        "source_label": "PaintScratch 1999 Isuzu",
+        "hex_value": "#39CB81"
+      },
+      {
+        "display_name": "Pewter Metallic",
+        "paint_code": "11/WA382E",
+        "slug": "pewter-metallic-11wa382e",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/pewter-metallic-11wa382e/",
+        "source_label": "PaintScratch 1999 Isuzu",
+        "hex_value": "#AFAD81"
+      },
+      {
+        "display_name": "Olympic White",
+        "paint_code": "50/WA8624",
+        "slug": "olympic-white-50wa8624",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/olympic-white-50wa8624/",
+        "source_label": "PaintScratch 1999 Isuzu",
+        "hex_value": "#EFEFE9"
+      },
+      {
+        "display_name": "Meadow Green Metallic",
+        "paint_code": "68/WA566F",
+        "slug": "meadow-green-metallic-68wa566f",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/meadow-green-metallic-68wa566f/",
+        "source_label": "PaintScratch 1999 Isuzu",
+        "hex_value": "#31953F"
+      },
+      {
+        "display_name": "Copper Metallic",
+        "paint_code": "69/WA381E",
+        "slug": "copper-metallic-69wa381e",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/copper-metallic-69wa381e/",
+        "source_label": "PaintScratch 1999 Isuzu",
+        "hex_value": "#882A35"
+      },
+      {
+        "display_name": "Victory Red",
+        "paint_code": "74/WA9260",
+        "slug": "victory-red-74wa9260",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/victory-red-74wa9260/",
+        "source_label": "PaintScratch 1999 Isuzu",
+        "hex_value": "#D31313"
+      },
+      {
+        "display_name": "Claret Red Pearl",
+        "paint_code": "731/R409",
+        "slug": "claret-red-pearl-731r409",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/claret-red-pearl-731r409/",
+        "source_label": "PaintScratch 1999 Isuzu",
+        "hex_value": "#C53135"
+      },
+      {
+        "display_name": "Light Silver Metallic",
+        "paint_code": "753/N105",
+        "slug": "light-silver-metallic-753n105",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/light-silver-metallic-753n105/",
+        "source_label": "PaintScratch 1999 Isuzu",
+        "hex_value": "#ADB8A8"
+      },
+      {
+        "display_name": "Radiant Red",
+        "paint_code": "756/R103",
+        "slug": "radiant-red-756r103",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/radiant-red-756r103/",
+        "source_label": "PaintScratch 1999 Isuzu",
+        "hex_value": "#A90911"
+      },
+      {
+        "display_name": "Palazzo Red Pearl",
+        "paint_code": "806/R902",
+        "slug": "palazzo-red-pearl-806r902",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/palazzo-red-pearl-806r902/",
+        "source_label": "PaintScratch 1999 Isuzu",
+        "hex_value": "#E32525"
+      },
+      {
+        "display_name": "Ebony Black",
+        "paint_code": "826/001",
+        "slug": "ebony-black-826001",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/ebony-black-826001/",
+        "source_label": "PaintScratch 1999 Isuzu",
+        "hex_value": "#050505"
+      },
+      {
+        "display_name": "Spruce Green Metallic",
+        "paint_code": "833/G711",
+        "slug": "spruce-green-metallic-833g711",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/spruce-green-metallic-833g711/",
+        "source_label": "PaintScratch 1999 Isuzu",
+        "hex_value": "#116737"
+      },
+      {
+        "display_name": "Bright Silver Metallic",
+        "paint_code": "835/N818",
+        "slug": "bright-silver-metallic-835n818",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/bright-silver-metallic-835n818/",
+        "source_label": "PaintScratch 1999 Isuzu",
+        "hex_value": "#C5C5BB"
+      }
+    ],
+    "2000": [
+      {
+        "display_name": "Onyx Black",
+        "paint_code": "41/WA8555",
+        "slug": "onyx-black-41wa8555",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/onyx-black-41wa8555/",
+        "source_label": "PaintScratch 2000 Isuzu",
+        "hex_value": "#020202"
+      },
+      {
+        "display_name": "Zephyr Green Pearl",
+        "paint_code": "898/G903",
+        "slug": "zephyr-green-pearl-898g903",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/zephyr-green-pearl-898g903/",
+        "source_label": "PaintScratch 2000 Isuzu",
+        "hex_value": "#39CB81"
+      },
+      {
+        "display_name": "Pewter Metallic",
+        "paint_code": "11/WA382E",
+        "slug": "pewter-metallic-11wa382e",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/pewter-metallic-11wa382e/",
+        "source_label": "PaintScratch 2000 Isuzu",
+        "hex_value": "#AFAD81"
+      },
+      {
+        "display_name": "Nordic Blue Metallic",
+        "paint_code": "39/WA9792",
+        "slug": "nordic-blue-metallic-39wa9792",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/nordic-blue-metallic-39wa9792/",
+        "source_label": "PaintScratch 2000 Isuzu",
+        "hex_value": "#0B536D"
+      },
+      {
+        "display_name": "Olympic White",
+        "paint_code": "50/WA8624",
+        "slug": "olympic-white-50wa8624",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/olympic-white-50wa8624/",
+        "source_label": "PaintScratch 2000 Isuzu",
+        "hex_value": "#EFEFE9"
+      },
+      {
+        "display_name": "Meadow Green Metallic",
+        "paint_code": "68/WA566F",
+        "slug": "meadow-green-metallic-68wa566f",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/meadow-green-metallic-68wa566f/",
+        "source_label": "PaintScratch 2000 Isuzu",
+        "hex_value": "#31953F"
+      },
+      {
+        "display_name": "Victory Red",
+        "paint_code": "74/WA9260",
+        "slug": "victory-red-74wa9260",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/victory-red-74wa9260/",
+        "source_label": "PaintScratch 2000 Isuzu",
+        "hex_value": "#D31313"
+      },
+      {
+        "display_name": "Light Silver Metallic",
+        "paint_code": "753/N105",
+        "slug": "light-silver-metallic-753n105",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/light-silver-metallic-753n105/",
+        "source_label": "PaintScratch 2000 Isuzu",
+        "hex_value": "#ADB8A8"
+      },
+      {
+        "display_name": "Proton Yellow",
+        "paint_code": "804/Y501",
+        "slug": "proton-yellow-804y501",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/proton-yellow-804y501/",
+        "source_label": "PaintScratch 2000 Isuzu",
+        "hex_value": "#FFE401"
+      },
+      {
+        "display_name": "Palazzo Red Pearl",
+        "paint_code": "806/R902",
+        "slug": "palazzo-red-pearl-806r902",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/palazzo-red-pearl-806r902/",
+        "source_label": "PaintScratch 2000 Isuzu",
+        "hex_value": "#E32525"
+      },
+      {
+        "display_name": "Ebony Black",
+        "paint_code": "826/001",
+        "slug": "ebony-black-826001",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/ebony-black-826001/",
+        "source_label": "PaintScratch 2000 Isuzu",
+        "hex_value": "#050505"
+      },
+      {
+        "display_name": "Bright Silver Metallic",
+        "paint_code": "835/N818",
+        "slug": "bright-silver-metallic-835n818",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/bright-silver-metallic-835n818/",
+        "source_label": "PaintScratch 2000 Isuzu",
+        "hex_value": "#C5C5BB"
+      },
+      {
+        "display_name": "Copper Orange Pearl",
+        "paint_code": "838/U805",
+        "slug": "copper-orange-pearl-838u805",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/copper-orange-pearl-838u805/",
+        "source_label": "PaintScratch 2000 Isuzu",
+        "hex_value": "#B3581B"
+      },
+      {
+        "display_name": "Moonmist Gray Pearl",
+        "paint_code": "857/N038",
+        "slug": "moonmist-gray-pearl-857n038",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/moonmist-gray-pearl-857n038/",
+        "source_label": "PaintScratch 2000 Isuzu",
+        "hex_value": "#8D9286"
+      },
+      {
+        "display_name": "Dragon Green Pearl",
+        "paint_code": "860/G016",
+        "slug": "dragon-green-pearl-860g016",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/dragon-green-pearl-860g016/",
+        "source_label": "PaintScratch 2000 Isuzu",
+        "hex_value": "#055137"
+      },
+      {
+        "display_name": "Alpine White",
+        "paint_code": "861/W011",
+        "slug": "alpine-white-861w011",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/alpine-white-861w011/",
+        "source_label": "PaintScratch 2000 Isuzu",
+        "hex_value": "#FCF9E6"
+      }
+    ],
+    "2001": [
+      {
+        "display_name": "Polar White Pearl Tricoat",
+        "paint_code": "610/W104",
+        "slug": "polar-white-pearl-tricoat-610w104",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/polar-white-pearl-tricoat-610w104/",
+        "source_label": "PaintScratch 2001 Isuzu",
+        "hex_value": "#ECECE6"
+      },
+      {
+        "display_name": "Light Silver Metallic",
+        "paint_code": "753/N105",
+        "slug": "light-silver-metallic-753n105",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/light-silver-metallic-753n105/",
+        "source_label": "PaintScratch 2001 Isuzu",
+        "hex_value": "#ADB8A8"
+      },
+      {
+        "display_name": "Acid Gold Metallic",
+        "paint_code": "789/U105",
+        "slug": "acid-gold-metallic-789u105",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/acid-gold-metallic-789u105/",
+        "source_label": "PaintScratch 2001 Isuzu",
+        "hex_value": "#CFC965"
+      },
+      {
+        "display_name": "Proton Yellow",
+        "paint_code": "804/Y501",
+        "slug": "proton-yellow-804y501",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/proton-yellow-804y501/",
+        "source_label": "PaintScratch 2001 Isuzu",
+        "hex_value": "#FFE401"
+      },
+      {
+        "display_name": "Palazzo Red Pearl",
+        "paint_code": "806/R902",
+        "slug": "palazzo-red-pearl-806r902",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/palazzo-red-pearl-806r902/",
+        "source_label": "PaintScratch 2001 Isuzu",
+        "hex_value": "#E32525"
+      },
+      {
+        "display_name": "Tangier Orange",
+        "paint_code": "815",
+        "slug": "tangier-orange-815",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/tangier-orange-815/",
+        "source_label": "PaintScratch 2001 Isuzu",
+        "hex_value": "#CB4C00"
+      },
+      {
+        "display_name": "Ebony Black",
+        "paint_code": "826/001",
+        "slug": "ebony-black-826001",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/ebony-black-826001/",
+        "source_label": "PaintScratch 2001 Isuzu",
+        "hex_value": "#050505"
+      },
+      {
+        "display_name": "Bright Silver Metallic",
+        "paint_code": "835/N818",
+        "slug": "bright-silver-metallic-835n818",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/bright-silver-metallic-835n818/",
+        "source_label": "PaintScratch 2001 Isuzu",
+        "hex_value": "#C5C5BB"
+      },
+      {
+        "display_name": "Moonmist Gray Pearl",
+        "paint_code": "857/N038",
+        "slug": "moonmist-gray-pearl-857n038",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/moonmist-gray-pearl-857n038/",
+        "source_label": "PaintScratch 2001 Isuzu",
+        "hex_value": "#8D9286"
+      },
+      {
+        "display_name": "Dragon Green Pearl",
+        "paint_code": "860/G016",
+        "slug": "dragon-green-pearl-860g016",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/dragon-green-pearl-860g016/",
+        "source_label": "PaintScratch 2001 Isuzu",
+        "hex_value": "#055137"
+      },
+      {
+        "display_name": "Alpine White",
+        "paint_code": "861/W011",
+        "slug": "alpine-white-861w011",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/alpine-white-861w011/",
+        "source_label": "PaintScratch 2001 Isuzu",
+        "hex_value": "#FCF9E6"
+      },
+      {
+        "display_name": "Canal Blue Pearl",
+        "paint_code": "862/B035",
+        "slug": "canal-blue-pearl-862b035",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/canal-blue-pearl-862b035/",
+        "source_label": "PaintScratch 2001 Isuzu",
+        "hex_value": "#2A728C"
+      },
+      {
+        "display_name": "Foxfire Red Pearl",
+        "paint_code": "865/R024",
+        "slug": "foxfire-red-pearl-865r024",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/foxfire-red-pearl-865r024/",
+        "source_label": "PaintScratch 2001 Isuzu",
+        "hex_value": "#800000"
+      },
+      {
+        "display_name": "Garden Green Pearl",
+        "paint_code": "870/G015",
+        "slug": "garden-green-pearl-870g015",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/garden-green-pearl-870g015/",
+        "source_label": "PaintScratch 2001 Isuzu",
+        "hex_value": "#037B14"
+      },
+      {
+        "display_name": "Alpine White",
+        "paint_code": "877/W901",
+        "slug": "alpine-white-877w901",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/alpine-white-877w901/",
+        "source_label": "PaintScratch 2001 Isuzu",
+        "hex_value": "#FAFBD7"
+      },
+      {
+        "display_name": "Kaiser Silver Metallic",
+        "paint_code": "878/N909",
+        "slug": "kaiser-silver-metallic-878n909",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/kaiser-silver-metallic-878n909/",
+        "source_label": "PaintScratch 2001 Isuzu",
+        "hex_value": "#8D9996"
+      }
+    ],
+    "2002": [
+      {
+        "display_name": "Polar White Pearl Tricoat",
+        "paint_code": "610/W104",
+        "slug": "polar-white-pearl-tricoat-610w104",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/polar-white-pearl-tricoat-610w104/",
+        "source_label": "PaintScratch 2002 Isuzu",
+        "hex_value": "#ECECE6"
+      },
+      {
+        "display_name": "Satin Gold Metallic",
+        "paint_code": "613/U108",
+        "slug": "satin-gold-metallic-613u108",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/satin-gold-metallic-613u108/",
+        "source_label": "PaintScratch 2002 Isuzu",
+        "hex_value": "#C1B98F"
+      },
+      {
+        "display_name": "Fjord Blue Metallic",
+        "paint_code": "627/B208",
+        "slug": "fjord-blue-metallic-627b208",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/fjord-blue-metallic-627b208/",
+        "source_label": "PaintScratch 2002 Isuzu",
+        "hex_value": "#8FC1AC"
+      },
+      {
+        "display_name": "Clipper Blue Metallic",
+        "paint_code": "639/B209",
+        "slug": "clipper-blue-metallic-639b209",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/clipper-blue-metallic-639b209/",
+        "source_label": "PaintScratch 2002 Isuzu",
+        "hex_value": "#38718E"
+      },
+      {
+        "display_name": "Currant Red Pearl",
+        "paint_code": "640/R211",
+        "slug": "currant-red-pearl-640r211",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/currant-red-pearl-640r211/",
+        "source_label": "PaintScratch 2002 Isuzu",
+        "hex_value": "#9B3342"
+      },
+      {
+        "display_name": "Glacier Blue Metalic",
+        "paint_code": "645",
+        "slug": "glacier-blue-metalic-645",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/glacier-blue-metalic-645/",
+        "source_label": "PaintScratch 2002 Isuzu",
+        "hex_value": "#D5D8DD"
+      },
+      {
+        "display_name": "Blond Gray Metallic",
+        "paint_code": "704/N109",
+        "slug": "blond-gray-metallic-704n109",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/blond-gray-metallic-704n109/",
+        "source_label": "PaintScratch 2002 Isuzu",
+        "hex_value": "#E8D794"
+      },
+      {
+        "display_name": "Anthracite Metallic",
+        "paint_code": "708/N110",
+        "slug": "anthracite-metallic-708n110",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/anthracite-metallic-708n110/",
+        "source_label": "PaintScratch 2002 Isuzu",
+        "hex_value": "#737373"
+      },
+      {
+        "display_name": "Light Silver Metallic",
+        "paint_code": "753/N105",
+        "slug": "light-silver-metallic-753n105",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/light-silver-metallic-753n105/",
+        "source_label": "PaintScratch 2002 Isuzu",
+        "hex_value": "#ADB8A8"
+      },
+      {
+        "display_name": "Star Gold Metallic",
+        "paint_code": "799/U106",
+        "slug": "star-gold-metallic-799u106",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/star-gold-metallic-799u106/",
+        "source_label": "PaintScratch 2002 Isuzu",
+        "hex_value": "#C8A654"
+      },
+      {
+        "display_name": "Ebony Black",
+        "paint_code": "826/001",
+        "slug": "ebony-black-826001",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/ebony-black-826001/",
+        "source_label": "PaintScratch 2002 Isuzu",
+        "hex_value": "#050505"
+      },
+      {
+        "display_name": "Bright Silver Metallic",
+        "paint_code": "835/N818",
+        "slug": "bright-silver-metallic-835n818",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/bright-silver-metallic-835n818/",
+        "source_label": "PaintScratch 2002 Isuzu",
+        "hex_value": "#C5C5BB"
+      },
+      {
+        "display_name": "Moonmist Gray Pearl",
+        "paint_code": "857/N038",
+        "slug": "moonmist-gray-pearl-857n038",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/moonmist-gray-pearl-857n038/",
+        "source_label": "PaintScratch 2002 Isuzu",
+        "hex_value": "#8D9286"
+      },
+      {
+        "display_name": "Dragon Green Pearl",
+        "paint_code": "860/G016",
+        "slug": "dragon-green-pearl-860g016",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/dragon-green-pearl-860g016/",
+        "source_label": "PaintScratch 2002 Isuzu",
+        "hex_value": "#055137"
+      },
+      {
+        "display_name": "Alpine White",
+        "paint_code": "861/W011",
+        "slug": "alpine-white-861w011",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/alpine-white-861w011/",
+        "source_label": "PaintScratch 2002 Isuzu",
+        "hex_value": "#FCF9E6"
+      },
+      {
+        "display_name": "Canal Blue Pearl",
+        "paint_code": "862/B035",
+        "slug": "canal-blue-pearl-862b035",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/canal-blue-pearl-862b035/",
+        "source_label": "PaintScratch 2002 Isuzu",
+        "hex_value": "#2A728C"
+      }
+    ],
+    "2003": [
+      {
+        "display_name": "Onyx Black",
+        "paint_code": "41/WA8555",
+        "slug": "onyx-black-41wa8555",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/onyx-black-41wa8555/",
+        "source_label": "PaintScratch 2003 Isuzu",
+        "hex_value": "#020202"
+      },
+      {
+        "display_name": "Pewter Metallic",
+        "paint_code": "11/WA382E",
+        "slug": "pewter-metallic-11wa382e",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/pewter-metallic-11wa382e/",
+        "source_label": "PaintScratch 2003 Isuzu",
+        "hex_value": "#AFAD81"
+      },
+      {
+        "display_name": "Nordic Blue Metallic",
+        "paint_code": "39/WA9792",
+        "slug": "nordic-blue-metallic-39wa9792",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/nordic-blue-metallic-39wa9792/",
+        "source_label": "PaintScratch 2003 Isuzu",
+        "hex_value": "#0B536D"
+      },
+      {
+        "display_name": "Medium Green Pri Metallic",
+        "paint_code": "47/WA9539",
+        "slug": "medium-green-pri-metallic-47wa9539",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/medium-green-pri-metallic-47wa9539/",
+        "source_label": "PaintScratch 2003 Isuzu",
+        "hex_value": "#246826"
+      },
+      {
+        "display_name": "Olympic White",
+        "paint_code": "50/WA8624",
+        "slug": "olympic-white-50wa8624",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/olympic-white-50wa8624/",
+        "source_label": "PaintScratch 2003 Isuzu",
+        "hex_value": "#EFEFE9"
+      },
+      {
+        "display_name": "Dark Bronzemist Metallic (Bumper)",
+        "paint_code": "76/WA528F",
+        "slug": "dark-bronzemist-metallic-bumper-76wa528f",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/dark-bronzemist-metallic-bumper-76wa528f/",
+        "source_label": "PaintScratch 2003 Isuzu",
+        "hex_value": "#978869"
+      },
+      {
+        "display_name": "Silver Green Metallic",
+        "paint_code": "92/WA816K",
+        "slug": "silver-green-metallic-92wa816k",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/silver-green-metallic-92wa816k/",
+        "source_label": "PaintScratch 2003 Isuzu",
+        "hex_value": "#B4C496"
+      },
+      {
+        "display_name": "Clipper Blue Metallic",
+        "paint_code": "639/B209",
+        "slug": "clipper-blue-metallic-639b209",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/clipper-blue-metallic-639b209/",
+        "source_label": "PaintScratch 2003 Isuzu",
+        "hex_value": "#38718E"
+      },
+      {
+        "display_name": "Currant Red Pearl",
+        "paint_code": "640/R211",
+        "slug": "currant-red-pearl-640r211",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/currant-red-pearl-640r211/",
+        "source_label": "PaintScratch 2003 Isuzu",
+        "hex_value": "#9B3342"
+      },
+      {
+        "display_name": "Black Diamond Metallic",
+        "paint_code": "663/N321",
+        "slug": "black-diamond-metallic-663n321",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/black-diamond-metallic-663n321/",
+        "source_label": "PaintScratch 2003 Isuzu",
+        "hex_value": "#3B3E36"
+      },
+      {
+        "display_name": "Mistral Green Pearl",
+        "paint_code": "664/G305",
+        "slug": "mistral-green-pearl-664g305",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/mistral-green-pearl-664g305/",
+        "source_label": "PaintScratch 2003 Isuzu",
+        "hex_value": "#69794D"
+      },
+      {
+        "display_name": "Crystal Blue Metallic",
+        "paint_code": "667/N320",
+        "slug": "crystal-blue-metallic-667n320",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/crystal-blue-metallic-667n320/",
+        "source_label": "PaintScratch 2003 Isuzu",
+        "hex_value": "#C5CECF"
+      },
+      {
+        "display_name": "Blond Gray Metallic",
+        "paint_code": "704/N109",
+        "slug": "blond-gray-metallic-704n109",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/blond-gray-metallic-704n109/",
+        "source_label": "PaintScratch 2003 Isuzu",
+        "hex_value": "#E8D794"
+      },
+      {
+        "display_name": "Anthracite Metallic",
+        "paint_code": "708/N110",
+        "slug": "anthracite-metallic-708n110",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/anthracite-metallic-708n110/",
+        "source_label": "PaintScratch 2003 Isuzu",
+        "hex_value": "#737373"
+      },
+      {
+        "display_name": "Ebony Black",
+        "paint_code": "826/001",
+        "slug": "ebony-black-826001",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/ebony-black-826001/",
+        "source_label": "PaintScratch 2003 Isuzu",
+        "hex_value": "#050505"
+      },
+      {
+        "display_name": "Bright Silver Metallic",
+        "paint_code": "835/N818",
+        "slug": "bright-silver-metallic-835n818",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/bright-silver-metallic-835n818/",
+        "source_label": "PaintScratch 2003 Isuzu",
+        "hex_value": "#C5C5BB"
+      }
+    ],
+    "2004": [
+      {
+        "display_name": "Onyx Black",
+        "paint_code": "41/WA8555",
+        "slug": "onyx-black-41wa8555",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/onyx-black-41wa8555/",
+        "source_label": "PaintScratch 2004 Isuzu",
+        "hex_value": "#020202"
+      },
+      {
+        "display_name": "Natural Suede Metallic",
+        "paint_code": "15/WA929L",
+        "slug": "natural-suede-metallic-15wa929l",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/natural-suede-metallic-15wa929l/",
+        "source_label": "PaintScratch 2004 Isuzu",
+        "hex_value": "#8F836E"
+      },
+      {
+        "display_name": "Nordic Blue Metallic",
+        "paint_code": "39/WA9792",
+        "slug": "nordic-blue-metallic-39wa9792",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/nordic-blue-metallic-39wa9792/",
+        "source_label": "PaintScratch 2004 Isuzu",
+        "hex_value": "#0B536D"
+      },
+      {
+        "display_name": "Napa Red Metallic",
+        "paint_code": "44/WA408G",
+        "slug": "napa-red-metallic-44wa408g",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/napa-red-metallic-44wa408g/",
+        "source_label": "PaintScratch 2004 Isuzu",
+        "hex_value": "#862C10"
+      },
+      {
+        "display_name": "Medium Green Pri Metallic",
+        "paint_code": "47/WA9539",
+        "slug": "medium-green-pri-metallic-47wa9539",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/medium-green-pri-metallic-47wa9539/",
+        "source_label": "PaintScratch 2004 Isuzu",
+        "hex_value": "#246826"
+      },
+      {
+        "display_name": "Olympic White",
+        "paint_code": "50/WA8624",
+        "slug": "olympic-white-50wa8624",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/olympic-white-50wa8624/",
+        "source_label": "PaintScratch 2004 Isuzu",
+        "hex_value": "#EFEFE9"
+      },
+      {
+        "display_name": "Mineral Silver Metallic",
+        "paint_code": "67/WA994L",
+        "slug": "mineral-silver-metallic-67wa994l",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/mineral-silver-metallic-67wa994l/",
+        "source_label": "PaintScratch 2004 Isuzu",
+        "hex_value": "#A09C90"
+      },
+      {
+        "display_name": "Dark Bronzemist Metallic (Bumper)",
+        "paint_code": "76/WA528F",
+        "slug": "dark-bronzemist-metallic-bumper-76wa528f",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/dark-bronzemist-metallic-bumper-76wa528f/",
+        "source_label": "PaintScratch 2004 Isuzu",
+        "hex_value": "#978869"
+      },
+      {
+        "display_name": "Gray Metallic (Bumper)",
+        "paint_code": "90/WA9798",
+        "slug": "gray-metallic-bumper-90wa9798",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/gray-metallic-bumper-90wa9798/",
+        "source_label": "PaintScratch 2004 Isuzu",
+        "hex_value": "#A4A6A2"
+      },
+      {
+        "display_name": "Clipper Blue Metallic",
+        "paint_code": "639/B209",
+        "slug": "clipper-blue-metallic-639b209",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/clipper-blue-metallic-639b209/",
+        "source_label": "PaintScratch 2004 Isuzu",
+        "hex_value": "#38718E"
+      },
+      {
+        "display_name": "Gold",
+        "paint_code": "643",
+        "slug": "gold-643",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/gold-643/",
+        "source_label": "PaintScratch 2004 Isuzu",
+        "hex_value": "#E3BD25"
+      },
+      {
+        "display_name": "Foxfire Red Mica",
+        "paint_code": "658/160",
+        "slug": "foxfire-red-mica-658160",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/foxfire-red-mica-658160/",
+        "source_label": "PaintScratch 2004 Isuzu",
+        "hex_value": "#761C1A"
+      },
+      {
+        "display_name": "Black Diamond Metallic",
+        "paint_code": "663/N321",
+        "slug": "black-diamond-metallic-663n321",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/black-diamond-metallic-663n321/",
+        "source_label": "PaintScratch 2004 Isuzu",
+        "hex_value": "#3B3E36"
+      },
+      {
+        "display_name": "Mistral Green Pearl",
+        "paint_code": "664/G305",
+        "slug": "mistral-green-pearl-664g305",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/mistral-green-pearl-664g305/",
+        "source_label": "PaintScratch 2004 Isuzu",
+        "hex_value": "#69794D"
+      },
+      {
+        "display_name": "Crystal Blue Metallic",
+        "paint_code": "667/N320",
+        "slug": "crystal-blue-metallic-667n320",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/crystal-blue-metallic-667n320/",
+        "source_label": "PaintScratch 2004 Isuzu",
+        "hex_value": "#C5CECF"
+      },
+      {
+        "display_name": "Mineral Blue Metallic",
+        "paint_code": "678/B412",
+        "slug": "mineral-blue-metallic-678b412",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/mineral-blue-metallic-678b412/",
+        "source_label": "PaintScratch 2004 Isuzu",
+        "hex_value": "#171832"
+      }
+    ],
+    "2005": [
+      {
+        "display_name": "Onyx Black",
+        "paint_code": "41/WA8555",
+        "slug": "onyx-black-41wa8555",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/onyx-black-41wa8555/",
+        "source_label": "PaintScratch 2005 Isuzu",
+        "hex_value": "#020202"
+      },
+      {
+        "display_name": "Natural Suede Metallic",
+        "paint_code": "15/WA929L",
+        "slug": "natural-suede-metallic-15wa929l",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/natural-suede-metallic-15wa929l/",
+        "source_label": "PaintScratch 2005 Isuzu",
+        "hex_value": "#8F836E"
+      },
+      {
+        "display_name": "Superior Blue Metallic",
+        "paint_code": "22/WA703J",
+        "slug": "superior-blue-metallic-22wa703j",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/superior-blue-metallic-22wa703j/",
+        "source_label": "PaintScratch 2005 Isuzu",
+        "hex_value": "#30286E"
+      },
+      {
+        "display_name": "Emerald Jewel Metallic",
+        "paint_code": "38/WA215M",
+        "slug": "emerald-jewel-metallic-38wa215m",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/emerald-jewel-metallic-38wa215m/",
+        "source_label": "PaintScratch 2005 Isuzu",
+        "hex_value": "#3B553D"
+      },
+      {
+        "display_name": "Napa Red Metallic",
+        "paint_code": "44/WA408G",
+        "slug": "napa-red-metallic-44wa408g",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/napa-red-metallic-44wa408g/",
+        "source_label": "PaintScratch 2005 Isuzu",
+        "hex_value": "#862C10"
+      },
+      {
+        "display_name": "Olympic White",
+        "paint_code": "50/WA8624",
+        "slug": "olympic-white-50wa8624",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/olympic-white-50wa8624/",
+        "source_label": "PaintScratch 2005 Isuzu",
+        "hex_value": "#EFEFE9"
+      },
+      {
+        "display_name": "Mineral Silver Metallic",
+        "paint_code": "67/WA994L",
+        "slug": "mineral-silver-metallic-67wa994l",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/mineral-silver-metallic-67wa994l/",
+        "source_label": "PaintScratch 2005 Isuzu",
+        "hex_value": "#A09C90"
+      },
+      {
+        "display_name": "Dark Bronzemist Metallic (Bumper)",
+        "paint_code": "76/WA528F",
+        "slug": "dark-bronzemist-metallic-bumper-76wa528f",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/dark-bronzemist-metallic-bumper-76wa528f/",
+        "source_label": "PaintScratch 2005 Isuzu",
+        "hex_value": "#978869"
+      },
+      {
+        "display_name": "Gray Metallic (Bumper)",
+        "paint_code": "90/WA8798",
+        "slug": "gray-metallic-bumper-90wa8798",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/gray-metallic-bumper-90wa8798/",
+        "source_label": "PaintScratch 2005 Isuzu",
+        "hex_value": "#A4A6A2"
+      },
+      {
+        "display_name": "Alpine White",
+        "paint_code": "877/W901",
+        "slug": "alpine-white-877w901",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/alpine-white-877w901/",
+        "source_label": "PaintScratch 2005 Isuzu",
+        "hex_value": "#FAFBD7"
+      }
+    ],
+    "2006": [
+      {
+        "display_name": "Onyx Black",
+        "paint_code": "41/WA8555",
+        "slug": "onyx-black-41wa8555",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/onyx-black-41wa8555/",
+        "source_label": "PaintScratch 2006 Isuzu",
+        "hex_value": "#020202"
+      },
+      {
+        "display_name": "Cosmic Quartz Metallic",
+        "paint_code": "14/WA308N",
+        "slug": "cosmic-quartz-metallic-14wa308n",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/cosmic-quartz-metallic-14wa308n/",
+        "source_label": "PaintScratch 2006 Isuzu",
+        "hex_value": "#AAA7B3"
+      },
+      {
+        "display_name": "Natural Suede Metallic",
+        "paint_code": "15/WA929L",
+        "slug": "natural-suede-metallic-15wa929l",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/natural-suede-metallic-15wa929l/",
+        "source_label": "PaintScratch 2006 Isuzu",
+        "hex_value": "#8F836E"
+      },
+      {
+        "display_name": "Superior Blue Metallic",
+        "paint_code": "22/WA703J",
+        "slug": "superior-blue-metallic-22wa703j",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/superior-blue-metallic-22wa703j/",
+        "source_label": "PaintScratch 2006 Isuzu",
+        "hex_value": "#30286E"
+      },
+      {
+        "display_name": "Tamarack Green Metallic",
+        "paint_code": "38U/WA215M",
+        "slug": "tamarack-green-metallic-38uwa215m",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/tamarack-green-metallic-38uwa215m/",
+        "source_label": "PaintScratch 2006 Isuzu",
+        "hex_value": "#3C5A3C"
+      },
+      {
+        "display_name": "Yellow",
+        "paint_code": "43U/WA5456",
+        "slug": "yellow-43uwa5456",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/yellow-43uwa5456/",
+        "source_label": "PaintScratch 2006 Isuzu",
+        "hex_value": "#FFCE02"
+      },
+      {
+        "display_name": "Teal Gray Metallic",
+        "paint_code": "46U/WA928L",
+        "slug": "teal-gray-metallic-46uwa928l",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/teal-gray-metallic-46uwa928l/",
+        "source_label": "PaintScratch 2006 Isuzu",
+        "hex_value": "#484A4D"
+      },
+      {
+        "display_name": "Current Red Metallic",
+        "paint_code": "49/WA204M",
+        "slug": "current-red-metallic-49wa204m",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/current-red-metallic-49wa204m/",
+        "source_label": "PaintScratch 2006 Isuzu",
+        "hex_value": "#8F1921"
+      },
+      {
+        "display_name": "Arctic White",
+        "paint_code": "50U/WA8624",
+        "slug": "arctic-white-50uwa8624",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/arctic-white-50uwa8624/",
+        "source_label": "PaintScratch 2006 Isuzu",
+        "hex_value": "#EFEFE9"
+      },
+      {
+        "display_name": "Platinum Silver Metallic",
+        "paint_code": "59U/WA926L",
+        "slug": "platinum-silver-metallic-59uwa926l",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/platinum-silver-metallic-59uwa926l/",
+        "source_label": "PaintScratch 2006 Isuzu",
+        "hex_value": "#CDCACB"
+      },
+      {
+        "display_name": "Dark Sprial Gray Metallic",
+        "paint_code": "62U/WA805K",
+        "slug": "dark-sprial-gray-metallic-62uwa805k",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/dark-sprial-gray-metallic-62uwa805k/",
+        "source_label": "PaintScratch 2006 Isuzu",
+        "hex_value": "#333434"
+      },
+      {
+        "display_name": "Mineral Silver Metallic",
+        "paint_code": "67/WA994L",
+        "slug": "mineral-silver-metallic-67wa994l",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/mineral-silver-metallic-67wa994l/",
+        "source_label": "PaintScratch 2006 Isuzu",
+        "hex_value": "#A09C90"
+      },
+      {
+        "display_name": "Radiant Red Metallic",
+        "paint_code": "74U/WA9260",
+        "slug": "radiant-red-metallic-74uwa9260",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/radiant-red-metallic-74uwa9260/",
+        "source_label": "PaintScratch 2006 Isuzu",
+        "hex_value": "#971229"
+      },
+      {
+        "display_name": "Dark Bronzemist Metallic (Bumper)",
+        "paint_code": "76/WA528F",
+        "slug": "dark-bronzemist-metallic-bumper-76wa528f",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/dark-bronzemist-metallic-bumper-76wa528f/",
+        "source_label": "PaintScratch 2006 Isuzu",
+        "hex_value": "#978869"
+      },
+      {
+        "display_name": "Copper Orange Metallic",
+        "paint_code": "85U/WA802K",
+        "slug": "copper-orange-metallic-85uwa802k",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/copper-orange-metallic-85uwa802k/",
+        "source_label": "PaintScratch 2006 Isuzu",
+        "hex_value": "#8D5015"
+      },
+      {
+        "display_name": "Gray Metallic (Bumper)",
+        "paint_code": "90/WA8798",
+        "slug": "gray-metallic-bumper-90wa8798",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/gray-metallic-bumper-90wa8798/",
+        "source_label": "PaintScratch 2006 Isuzu",
+        "hex_value": "#A4A6A2"
+      }
+    ],
+    "2007": [
+      {
+        "display_name": "Onyx Black",
+        "paint_code": "41/WA8555",
+        "slug": "onyx-black-41wa8555",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/onyx-black-41wa8555/",
+        "source_label": "PaintScratch 2007 Isuzu",
+        "hex_value": "#020202"
+      },
+      {
+        "display_name": "Natural Suede Metallic",
+        "paint_code": "15/WA929L",
+        "slug": "natural-suede-metallic-15wa929l",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/natural-suede-metallic-15wa929l/",
+        "source_label": "PaintScratch 2007 Isuzu",
+        "hex_value": "#8F836E"
+      },
+      {
+        "display_name": "Pacific Blue",
+        "paint_code": "20/WA408P",
+        "slug": "pacific-blue-20wa408p",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/pacific-blue-20wa408p/",
+        "source_label": "PaintScratch 2007 Isuzu",
+        "hex_value": "#233F85"
+      },
+      {
+        "display_name": "Bering Blue Metallic",
+        "paint_code": "37/WA403P",
+        "slug": "bering-blue-metallic-37wa403p",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/bering-blue-metallic-37wa403p/",
+        "source_label": "PaintScratch 2007 Isuzu",
+        "hex_value": "#202D4E"
+      },
+      {
+        "display_name": "Yellow",
+        "paint_code": "43U/WA5456",
+        "slug": "yellow-43uwa5456",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/yellow-43uwa5456/",
+        "source_label": "PaintScratch 2007 Isuzu",
+        "hex_value": "#FFCE02"
+      },
+      {
+        "display_name": "Teal Gray Metallic",
+        "paint_code": "46U/WA928L",
+        "slug": "teal-gray-metallic-46uwa928l",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/teal-gray-metallic-46uwa928l/",
+        "source_label": "PaintScratch 2007 Isuzu",
+        "hex_value": "#484A4D"
+      },
+      {
+        "display_name": "Current Red Metallic",
+        "paint_code": "49/WA204M",
+        "slug": "current-red-metallic-49wa204m",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/current-red-metallic-49wa204m/",
+        "source_label": "PaintScratch 2007 Isuzu",
+        "hex_value": "#8F1921"
+      },
+      {
+        "display_name": "Arctic White",
+        "paint_code": "50U/WA8624",
+        "slug": "arctic-white-50uwa8624",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/arctic-white-50uwa8624/",
+        "source_label": "PaintScratch 2007 Isuzu",
+        "hex_value": "#EFEFE9"
+      },
+      {
+        "display_name": "Storm Gray Metallic",
+        "paint_code": "54U/WA323N",
+        "slug": "storm-gray-metallic-54uwa323n",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/storm-gray-metallic-54uwa323n/",
+        "source_label": "PaintScratch 2007 Isuzu",
+        "hex_value": "#59554F"
+      },
+      {
+        "display_name": "Platinum Silver Metallic",
+        "paint_code": "59U/WA926L",
+        "slug": "platinum-silver-metallic-59uwa926l",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/platinum-silver-metallic-59uwa926l/",
+        "source_label": "PaintScratch 2007 Isuzu",
+        "hex_value": "#CDCACB"
+      },
+      {
+        "display_name": "Deep Crimson Metallic",
+        "paint_code": "66/WA412P",
+        "slug": "deep-crimson-metallic-66wa412p",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/deep-crimson-metallic-66wa412p/",
+        "source_label": "PaintScratch 2007 Isuzu",
+        "hex_value": "#572621"
+      },
+      {
+        "display_name": "Mineral Silver Metallic",
+        "paint_code": "67/WA994L",
+        "slug": "mineral-silver-metallic-67wa994l",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/mineral-silver-metallic-67wa994l/",
+        "source_label": "PaintScratch 2007 Isuzu",
+        "hex_value": "#A09C90"
+      },
+      {
+        "display_name": "Radiant Red Metallic",
+        "paint_code": "74U/WA9260",
+        "slug": "radiant-red-metallic-74uwa9260",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/radiant-red-metallic-74uwa9260/",
+        "source_label": "PaintScratch 2007 Isuzu",
+        "hex_value": "#971229"
+      },
+      {
+        "display_name": "Dark Bronzemist Metallic (Bumper)",
+        "paint_code": "76/WA528F",
+        "slug": "dark-bronzemist-metallic-bumper-76wa528f",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/dark-bronzemist-metallic-bumper-76wa528f/",
+        "source_label": "PaintScratch 2007 Isuzu",
+        "hex_value": "#978869"
+      },
+      {
+        "display_name": "Copper Orange Metallic",
+        "paint_code": "85U/WA802K",
+        "slug": "copper-orange-metallic-85uwa802k",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/copper-orange-metallic-85uwa802k/",
+        "source_label": "PaintScratch 2007 Isuzu",
+        "hex_value": "#8D5015"
+      },
+      {
+        "display_name": "Gray Metallic (Bumper)",
+        "paint_code": "90/WA8798",
+        "slug": "gray-metallic-bumper-90wa8798",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/gray-metallic-bumper-90wa8798/",
+        "source_label": "PaintScratch 2007 Isuzu",
+        "hex_value": "#A4A6A2"
+      }
+    ],
+    "2008": [
+      {
+        "display_name": "Onyx Black",
+        "paint_code": "41/WA8555",
+        "slug": "onyx-black-41wa8555",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/onyx-black-41wa8555/",
+        "source_label": "PaintScratch 2008 Isuzu",
+        "hex_value": "#020202"
+      },
+      {
+        "display_name": "Dark Brahma Jewel Metallic",
+        "paint_code": "12/WA519Q",
+        "slug": "dark-brahma-jewel-metallic-12wa519q",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/dark-brahma-jewel-metallic-12wa519q/",
+        "source_label": "PaintScratch 2008 Isuzu",
+        "hex_value": "#3B212E"
+      },
+      {
+        "display_name": "Graystone Metallic",
+        "paint_code": "16/WA213M",
+        "slug": "graystone-metallic-16wa213m",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/graystone-metallic-16wa213m/",
+        "source_label": "PaintScratch 2008 Isuzu",
+        "hex_value": "#847D62"
+      },
+      {
+        "display_name": "Pacific Blue",
+        "paint_code": "20/WA408P",
+        "slug": "pacific-blue-20wa408p",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/pacific-blue-20wa408p/",
+        "source_label": "PaintScratch 2008 Isuzu",
+        "hex_value": "#233F85"
+      },
+      {
+        "display_name": "Inferno Orange Metallic",
+        "paint_code": "28/WA502Q",
+        "slug": "inferno-orange-metallic-28wa502q",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/inferno-orange-metallic-28wa502q/",
+        "source_label": "PaintScratch 2008 Isuzu",
+        "hex_value": "#C25520"
+      },
+      {
+        "display_name": "Bering Blue Metallic",
+        "paint_code": "37/WA403P",
+        "slug": "bering-blue-metallic-37wa403p",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/bering-blue-metallic-37wa403p/",
+        "source_label": "PaintScratch 2008 Isuzu",
+        "hex_value": "#202D4E"
+      },
+      {
+        "display_name": "Arctic White",
+        "paint_code": "50U/WA8624",
+        "slug": "arctic-white-50uwa8624",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/arctic-white-50uwa8624/",
+        "source_label": "PaintScratch 2008 Isuzu",
+        "hex_value": "#EFEFE9"
+      },
+      {
+        "display_name": "Carbon Flash Metallic",
+        "paint_code": "58/WA501Q",
+        "slug": "carbon-flash-metallic-58wa501q",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/carbon-flash-metallic-58wa501q/",
+        "source_label": "PaintScratch 2008 Isuzu",
+        "hex_value": "#413833"
+      },
+      {
+        "display_name": "Platinum Silver Metallic",
+        "paint_code": "59U/WA926L",
+        "slug": "platinum-silver-metallic-59uwa926l",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/platinum-silver-metallic-59uwa926l/",
+        "source_label": "PaintScratch 2008 Isuzu",
+        "hex_value": "#CDCACB"
+      },
+      {
+        "display_name": "Deep Crimson Metallic",
+        "paint_code": "66/WA412P",
+        "slug": "deep-crimson-metallic-66wa412p",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/deep-crimson-metallic-66wa412p/",
+        "source_label": "PaintScratch 2008 Isuzu",
+        "hex_value": "#572621"
+      },
+      {
+        "display_name": "Mineral Silver Metallic",
+        "paint_code": "67/WA994L",
+        "slug": "mineral-silver-metallic-67wa994l",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/mineral-silver-metallic-67wa994l/",
+        "source_label": "PaintScratch 2008 Isuzu",
+        "hex_value": "#A09C90"
+      },
+      {
+        "display_name": "Radiant Red Metallic",
+        "paint_code": "74U/WA9260",
+        "slug": "radiant-red-metallic-74uwa9260",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/radiant-red-metallic-74uwa9260/",
+        "source_label": "PaintScratch 2008 Isuzu",
+        "hex_value": "#971229"
+      },
+      {
+        "display_name": "Techo Gray Metallic",
+        "paint_code": "75/WA411P",
+        "slug": "techo-gray-metallic-75wa411p",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/techo-gray-metallic-75wa411p/",
+        "source_label": "PaintScratch 2008 Isuzu",
+        "hex_value": "#5F5A4F"
+      },
+      {
+        "display_name": "Gray Metallic (Bumper)",
+        "paint_code": "90/WA8798",
+        "slug": "gray-metallic-bumper-90wa8798",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/gray-metallic-bumper-90wa8798/",
+        "source_label": "PaintScratch 2008 Isuzu",
+        "hex_value": "#A4A6A2"
+      },
+      {
+        "display_name": "Dark Smoke Gray (Bumper)",
+        "paint_code": "WA501F",
+        "slug": "dark-smoke-gray-bumper-wa501f",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/dark-smoke-gray-bumper-wa501f/",
+        "source_label": "PaintScratch 2008 Isuzu",
+        "hex_value": "#45433D"
+      }
+    ],
+    "2009": [
+      {
+        "display_name": "Onyx Black",
+        "paint_code": "41/WA8555",
+        "slug": "onyx-black-41wa8555",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/onyx-black-41wa8555/",
+        "source_label": "PaintScratch 2009 Isuzu",
+        "hex_value": "#020202"
+      },
+      {
+        "display_name": "Dark Brahma Jewel Metallic",
+        "paint_code": "12/WA519Q",
+        "slug": "dark-brahma-jewel-metallic-12wa519q",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/dark-brahma-jewel-metallic-12wa519q/",
+        "source_label": "PaintScratch 2009 Isuzu",
+        "hex_value": "#3B212E"
+      },
+      {
+        "display_name": "Graystone Metallic",
+        "paint_code": "16/WA213M",
+        "slug": "graystone-metallic-16wa213m",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/graystone-metallic-16wa213m/",
+        "source_label": "PaintScratch 2009 Isuzu",
+        "hex_value": "#847D62"
+      },
+      {
+        "display_name": "Blade Silver Metallic",
+        "paint_code": "17U/WA636R",
+        "slug": "blade-silver-metallic-17uwa636r",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/blade-silver-metallic-17uwa636r/",
+        "source_label": "PaintScratch 2009 Isuzu",
+        "hex_value": "#CCC8C4"
+      },
+      {
+        "display_name": "Inferno Orange Metallic",
+        "paint_code": "28/WA502Q",
+        "slug": "inferno-orange-metallic-28wa502q",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/inferno-orange-metallic-28wa502q/",
+        "source_label": "PaintScratch 2009 Isuzu",
+        "hex_value": "#C25520"
+      },
+      {
+        "display_name": "Bering Blue Metallic",
+        "paint_code": "37/WA403P",
+        "slug": "bering-blue-metallic-37wa403p",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/bering-blue-metallic-37wa403p/",
+        "source_label": "PaintScratch 2009 Isuzu",
+        "hex_value": "#202D4E"
+      },
+      {
+        "display_name": "All Terrain Blue",
+        "paint_code": "48/WA406P",
+        "slug": "all-terrain-blue-48wa406p",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/all-terrain-blue-48wa406p/",
+        "source_label": "PaintScratch 2009 Isuzu",
+        "hex_value": "#0D1349"
+      },
+      {
+        "display_name": "Arctic White",
+        "paint_code": "50U/WA8624",
+        "slug": "arctic-white-50uwa8624",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/arctic-white-50uwa8624/",
+        "source_label": "PaintScratch 2009 Isuzu",
+        "hex_value": "#EFEFE9"
+      },
+      {
+        "display_name": "Carbon Flash Metallic",
+        "paint_code": "58/WA501Q",
+        "slug": "carbon-flash-metallic-58wa501q",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/carbon-flash-metallic-58wa501q/",
+        "source_label": "PaintScratch 2009 Isuzu",
+        "hex_value": "#413833"
+      },
+      {
+        "display_name": "Platinum Silver Metallic",
+        "paint_code": "59U/WA926L",
+        "slug": "platinum-silver-metallic-59uwa926l",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/platinum-silver-metallic-59uwa926l/",
+        "source_label": "PaintScratch 2009 Isuzu",
+        "hex_value": "#CDCACB"
+      },
+      {
+        "display_name": "Aqua Blue Metallic",
+        "paint_code": "61/WA638R",
+        "slug": "aqua-blue-metallic-61wa638r",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/aqua-blue-metallic-61wa638r/",
+        "source_label": "PaintScratch 2009 Isuzu",
+        "hex_value": "#38737E"
+      },
+      {
+        "display_name": "Deep Crimson Metallic",
+        "paint_code": "66/WA412P",
+        "slug": "deep-crimson-metallic-66wa412p",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/deep-crimson-metallic-66wa412p/",
+        "source_label": "PaintScratch 2009 Isuzu",
+        "hex_value": "#572621"
+      },
+      {
+        "display_name": "Radiant Red Metallic",
+        "paint_code": "74U/WA9260",
+        "slug": "radiant-red-metallic-74uwa9260",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/radiant-red-metallic-74uwa9260/",
+        "source_label": "PaintScratch 2009 Isuzu",
+        "hex_value": "#971229"
+      },
+      {
+        "display_name": "Techo Gray Metallic",
+        "paint_code": "75/WA411P",
+        "slug": "techo-gray-metallic-75wa411p",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/techo-gray-metallic-75wa411p/",
+        "source_label": "PaintScratch 2009 Isuzu",
+        "hex_value": "#5F5A4F"
+      },
+      {
+        "display_name": "Gray Metallic (Bumper)",
+        "paint_code": "90/WA8798",
+        "slug": "gray-metallic-bumper-90wa8798",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/gray-metallic-bumper-90wa8798/",
+        "source_label": "PaintScratch 2009 Isuzu",
+        "hex_value": "#A4A6A2"
+      },
+      {
+        "display_name": "Urbane Moss Pearl",
+        "paint_code": "92/WA633R",
+        "slug": "urbane-moss-pearl-92wa633r",
+        "reference_url": "https://www.paintscratch.com/colors/isuzu/urbane-moss-pearl-92wa633r/",
+        "source_label": "PaintScratch 2009 Isuzu",
+        "hex_value": "#849F7D"
+      }
+    ]
+  }
+}

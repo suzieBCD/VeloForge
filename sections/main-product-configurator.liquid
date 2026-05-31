@@ -21,7 +21,7 @@
 {%- endif -%}
 
 <section class="vf" data-vf-configurator
-  data-vehicle-data-url="{{ 'vehicle-data-expanded.json' | asset_url }}"
+  data-paint-index-url="{{ 'paint-index.json' | asset_url }}"
   data-ring-base="{{ ring_base }}"
   data-ring-band="{{ ring_band }}"
   data-ring-inlay="{{ ring_inlay }}">
@@ -143,7 +143,7 @@
           <div class="vf-card__header">
             <div>
               <p class="vf-editorial-label">Vehicle info</p>
-              <p class="vf__helper">Select your make, model, year, and paint to preview your ring finish.</p>
+              <p class="vf__helper">Select your make, year, and paint to preview your ring finish.</p>
             </div>
             <a href="mailto:support@shopveloforge.com" class="vf__help-link">Can't find your paint code?</a>
           </div>
@@ -151,10 +151,6 @@
             <div class="vf-field">
               <label class="vf-editorial-label">Car make</label>
               <select data-select="make"><option value="">Select make</option></select>
-            </div>
-            <div class="vf-field">
-              <label class="vf-editorial-label">Car model</label>
-              <select data-select="model"><option value="">Select model</option></select>
             </div>
             <div class="vf-field">
               <label class="vf-editorial-label">Car year</label>

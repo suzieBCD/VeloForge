@@ -1,0 +1,1370 @@
+{
+  "All Models": {
+    "1988": [
+      {
+        "display_name": "Sterling Metallic",
+        "paint_code": "3D",
+        "slug": "sterling-metallic-3d",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/sterling-metallic-3d/",
+        "source_label": "PaintScratch 1988 Eagle",
+        "hex_value": "#D9DDE1"
+      },
+      {
+        "display_name": "Light Driftwood Metallic",
+        "paint_code": "BB",
+        "slug": "light-driftwood-metallic-bb",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/light-driftwood-metallic-bb/",
+        "source_label": "PaintScratch 1988 Eagle",
+        "hex_value": "#BDB6AB"
+      },
+      {
+        "display_name": "Pearl White",
+        "paint_code": "CA",
+        "slug": "pearl-white-ca",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/pearl-white-ca/",
+        "source_label": "PaintScratch 1988 Eagle",
+        "hex_value": "#F9F7F7"
+      },
+      {
+        "display_name": "Dover Gray Metallic",
+        "paint_code": "CC",
+        "slug": "dover-gray-metallic-cc",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/dover-gray-metallic-cc/",
+        "source_label": "PaintScratch 1988 Eagle",
+        "hex_value": "#9B9B95"
+      },
+      {
+        "display_name": "Dark Baltic Metallic",
+        "paint_code": "CE",
+        "slug": "dark-baltic-metallic-ce",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/dark-baltic-metallic-ce/",
+        "source_label": "PaintScratch 1988 Eagle",
+        "hex_value": "#43626F"
+      },
+      {
+        "display_name": "Vivid Red Metallic",
+        "paint_code": "CJ",
+        "slug": "vivid-red-metallic-cj",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/vivid-red-metallic-cj/",
+        "source_label": "PaintScratch 1988 Eagle",
+        "hex_value": "#AF1717"
+      },
+      {
+        "display_name": "Dark Driftwood Metallic",
+        "paint_code": "CL",
+        "slug": "dark-driftwood-metallic-cl",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/dark-driftwood-metallic-cl/",
+        "source_label": "PaintScratch 1988 Eagle",
+        "hex_value": "#998B6B"
+      },
+      {
+        "display_name": "Dark Cherry Pearl Metallic",
+        "paint_code": "CT",
+        "slug": "dark-cherry-pearl-metallic-ct",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/dark-cherry-pearl-metallic-ct/",
+        "source_label": "PaintScratch 1988 Eagle",
+        "hex_value": "#E2144E"
+      },
+      {
+        "display_name": "Medium Suede Metallic",
+        "paint_code": "GK4/PK4",
+        "slug": "medium-suede-metallic-gk4pk4",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/medium-suede-metallic-gk4pk4/",
+        "source_label": "PaintScratch 1988 Eagle",
+        "hex_value": "#8A765C"
+      },
+      {
+        "display_name": "Classic Black",
+        "paint_code": "P1",
+        "slug": "classic-black-p1",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/classic-black-p1/",
+        "source_label": "PaintScratch 1988 Eagle",
+        "hex_value": "#000000"
+      }
+    ],
+    "1989": [
+      {
+        "display_name": "Beige Metallic",
+        "paint_code": "102",
+        "slug": "beige-metallic-102",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/beige-metallic-102/",
+        "source_label": "PaintScratch 1989 Eagle",
+        "hex_value": "#AC914A"
+      },
+      {
+        "display_name": "White",
+        "paint_code": "348",
+        "slug": "white-348",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/white-348/",
+        "source_label": "PaintScratch 1989 Eagle",
+        "hex_value": "#F6F3EC"
+      },
+      {
+        "display_name": "Blue Metallic",
+        "paint_code": "428",
+        "slug": "blue-metallic-428",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/blue-metallic-428/",
+        "source_label": "PaintScratch 1989 Eagle",
+        "hex_value": "#9DACB9"
+      },
+      {
+        "display_name": "Dark Blue Metallic",
+        "paint_code": "447",
+        "slug": "dark-blue-metallic-447",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/dark-blue-metallic-447/",
+        "source_label": "PaintScratch 1989 Eagle",
+        "hex_value": "#34516A"
+      },
+      {
+        "display_name": "Tungstene Metallic",
+        "paint_code": "608",
+        "slug": "tungstene-metallic-608",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/tungstene-metallic-608/",
+        "source_label": "PaintScratch 1989 Eagle",
+        "hex_value": "#707376"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "620",
+        "slug": "silver-metallic-620",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/silver-metallic-620/",
+        "source_label": "PaintScratch 1989 Eagle",
+        "hex_value": "#CED1D4"
+      },
+      {
+        "display_name": "Maroon Metallic",
+        "paint_code": "710",
+        "slug": "maroon-metallic-710",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/maroon-metallic-710/",
+        "source_label": "PaintScratch 1989 Eagle",
+        "hex_value": "#800000"
+      },
+      {
+        "display_name": "Rogue Red",
+        "paint_code": "719",
+        "slug": "rogue-red-719",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/rogue-red-719/",
+        "source_label": "PaintScratch 1989 Eagle",
+        "hex_value": "#C00000"
+      },
+      {
+        "display_name": "Coral Blue Metallic",
+        "paint_code": "B80/PB2",
+        "slug": "coral-blue-metallic-b80pb2",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/coral-blue-metallic-b80pb2/",
+        "source_label": "PaintScratch 1989 Eagle",
+        "hex_value": "#B3BDC5"
+      },
+      {
+        "display_name": "Medium Louvre Brown Metallic",
+        "paint_code": "C46/PV8",
+        "slug": "medium-louvre-brown-metallic-c46pv8",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/medium-louvre-brown-metallic-c46pv8/",
+        "source_label": "PaintScratch 1989 Eagle",
+        "hex_value": "#9E8162"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "DX8",
+        "slug": "black-dx8",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/black-dx8/",
+        "source_label": "PaintScratch 1989 Eagle",
+        "hex_value": "#0A1112"
+      },
+      {
+        "display_name": "Bright White",
+        "paint_code": "GW7",
+        "slug": "bright-white-gw7",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/bright-white-gw7/",
+        "source_label": "PaintScratch 1989 Eagle",
+        "hex_value": "#FCFFFB"
+      },
+      {
+        "display_name": "Charcoal Metallic",
+        "paint_code": "H52/PS8",
+        "slug": "charcoal-metallic-h52ps8",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/charcoal-metallic-h52ps8/",
+        "source_label": "PaintScratch 1989 Eagle",
+        "hex_value": "#757B75"
+      },
+      {
+        "display_name": "Grace Silver Metallic",
+        "paint_code": "H84/PA4",
+        "slug": "grace-silver-metallic-h84pa4",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/grace-silver-metallic-h84pa4/",
+        "source_label": "PaintScratch 1989 Eagle",
+        "hex_value": "#CDD0D5"
+      },
+      {
+        "display_name": "Sterling Metallic",
+        "paint_code": "HA2/3D",
+        "slug": "sterling-metallic-ha23d",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/sterling-metallic-ha23d/",
+        "source_label": "PaintScratch 1989 Eagle",
+        "hex_value": "#ACAEB4"
+      },
+      {
+        "display_name": "Dark Driftwood Metallic",
+        "paint_code": "HF5/CL",
+        "slug": "dark-driftwood-metallic-hf5cl",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/dark-driftwood-metallic-hf5cl/",
+        "source_label": "PaintScratch 1989 Eagle",
+        "hex_value": "#A78853"
+      }
+    ],
+    "1990": [
+      {
+        "display_name": "Medium Louvre Brown Metallic",
+        "paint_code": "C46/PV8",
+        "slug": "medium-louvre-brown-metallic-c46pv8",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/medium-louvre-brown-metallic-c46pv8/",
+        "source_label": "PaintScratch 1990 Eagle",
+        "hex_value": "#9E8162"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "DX8",
+        "slug": "black-dx8",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/black-dx8/",
+        "source_label": "PaintScratch 1990 Eagle",
+        "hex_value": "#0A1112"
+      },
+      {
+        "display_name": "Light Rosewood Pearl Metallic",
+        "paint_code": "EE2",
+        "slug": "light-rosewood-pearl-metallic-ee2",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/light-rosewood-pearl-metallic-ee2/",
+        "source_label": "PaintScratch 1990 Eagle",
+        "hex_value": "#AF9A8A"
+      },
+      {
+        "display_name": "Bright White",
+        "paint_code": "GW7",
+        "slug": "bright-white-gw7",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/bright-white-gw7/",
+        "source_label": "PaintScratch 1990 Eagle",
+        "hex_value": "#FCFFFB"
+      },
+      {
+        "display_name": "Light Warm Grey Metallic",
+        "paint_code": "H18/PV1",
+        "slug": "light-warm-grey-metallic-h18pv1",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/light-warm-grey-metallic-h18pv1/",
+        "source_label": "PaintScratch 1990 Eagle",
+        "hex_value": "#9E9F88"
+      },
+      {
+        "display_name": "Charcoal Metallic",
+        "paint_code": "H52/PS8",
+        "slug": "charcoal-metallic-h52ps8",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/charcoal-metallic-h52ps8/",
+        "source_label": "PaintScratch 1990 Eagle",
+        "hex_value": "#757B75"
+      },
+      {
+        "display_name": "Grace Silver Metallic",
+        "paint_code": "H84/PA4",
+        "slug": "grace-silver-metallic-h84pa4",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/grace-silver-metallic-h84pa4/",
+        "source_label": "PaintScratch 1990 Eagle",
+        "hex_value": "#CDD0D5"
+      },
+      {
+        "display_name": "Sterling Metallic",
+        "paint_code": "HA2/3D",
+        "slug": "sterling-metallic-ha23d",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/sterling-metallic-ha23d/",
+        "source_label": "PaintScratch 1990 Eagle",
+        "hex_value": "#ACAEB4"
+      },
+      {
+        "display_name": "Colorado Red",
+        "paint_code": "HE4",
+        "slug": "colorado-red-he4",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/colorado-red-he4/",
+        "source_label": "PaintScratch 1990 Eagle",
+        "hex_value": "#971014"
+      },
+      {
+        "display_name": "Dark Cherry Pearl Metallic",
+        "paint_code": "HM2/CT",
+        "slug": "dark-cherry-pearl-metallic-hm2ct",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/dark-cherry-pearl-metallic-hm2ct/",
+        "source_label": "PaintScratch 1990 Eagle",
+        "hex_value": "#A11111"
+      },
+      {
+        "display_name": "Platinum Blue Metallic",
+        "paint_code": "HQ1/DH",
+        "slug": "platinum-blue-metallic-hq1dh",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/platinum-blue-metallic-hq1dh/",
+        "source_label": "PaintScratch 1990 Eagle",
+        "hex_value": "#B3C0C9"
+      },
+      {
+        "display_name": "Dark Baltic Blue Metallic",
+        "paint_code": "HQ9/CE",
+        "slug": "dark-baltic-blue-metallic-hq9ce",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/dark-baltic-blue-metallic-hq9ce/",
+        "source_label": "PaintScratch 1990 Eagle",
+        "hex_value": "#182C56"
+      },
+      {
+        "display_name": "Dover Gray Metallic",
+        "paint_code": "HS3/CC",
+        "slug": "dover-gray-metallic-hs3cc",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/dover-gray-metallic-hs3cc/",
+        "source_label": "PaintScratch 1990 Eagle",
+        "hex_value": "#79797D"
+      },
+      {
+        "display_name": "Sand Metallic",
+        "paint_code": "HY3/DL",
+        "slug": "sand-metallic-hy3dl",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/sand-metallic-hy3dl/",
+        "source_label": "PaintScratch 1990 Eagle",
+        "hex_value": "#BCA378"
+      },
+      {
+        "display_name": "Light Buckskin Metallic",
+        "paint_code": "L83/PV2",
+        "slug": "light-buckskin-metallic-l83pv2",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/light-buckskin-metallic-l83pv2/",
+        "source_label": "PaintScratch 1990 Eagle",
+        "hex_value": "#BCB8AC"
+      },
+      {
+        "display_name": "Pink Frost Metallic",
+        "paint_code": "P89/PE3",
+        "slug": "pink-frost-metallic-p89pe3",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/pink-frost-metallic-p89pe3/",
+        "source_label": "PaintScratch 1990 Eagle",
+        "hex_value": "#CEC2CC"
+      }
+    ],
+    "1991": [
+      {
+        "display_name": "Sterling Metallic",
+        "paint_code": "A2/HA2",
+        "slug": "sterling-metallic-a2ha2",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/sterling-metallic-a2ha2/",
+        "source_label": "PaintScratch 1991 Eagle",
+        "hex_value": "#ACAEB4"
+      },
+      {
+        "display_name": "Medium Quartz Metallic",
+        "paint_code": "A16/PD2",
+        "slug": "medium-quartz-metallic-a16pd2",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/medium-quartz-metallic-a16pd2/",
+        "source_label": "PaintScratch 1991 Eagle",
+        "hex_value": "#676B68"
+      },
+      {
+        "display_name": "Light Spectrum Blue Metallic",
+        "paint_code": "B32/PB2",
+        "slug": "light-spectrum-blue-metallic-b32pb2",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/light-spectrum-blue-metallic-b32pb2/",
+        "source_label": "PaintScratch 1991 Eagle",
+        "hex_value": "#668EC4"
+      },
+      {
+        "display_name": "Electric Blue Metallic",
+        "paint_code": "B35/PC3",
+        "slug": "electric-blue-metallic-b35pc3",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/electric-blue-metallic-b35pc3/",
+        "source_label": "PaintScratch 1991 Eagle",
+        "hex_value": "#2667A4"
+      },
+      {
+        "display_name": "Normandie Blue Metallic",
+        "paint_code": "B42/PBA",
+        "slug": "normandie-blue-metallic-b42pba",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/normandie-blue-metallic-b42pba/",
+        "source_label": "PaintScratch 1991 Eagle",
+        "hex_value": "#516179"
+      },
+      {
+        "display_name": "Dark Spectrum Blue Metallic",
+        "paint_code": "B47/PBN",
+        "slug": "dark-spectrum-blue-metallic-b47pbn",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/dark-spectrum-blue-metallic-b47pbn/",
+        "source_label": "PaintScratch 1991 Eagle",
+        "hex_value": "#4A6B98"
+      },
+      {
+        "display_name": "Light Spectrum Blue Metallic",
+        "paint_code": "B67/PBB",
+        "slug": "light-spectrum-blue-metallic-b67pbb",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/light-spectrum-blue-metallic-b67pbb/",
+        "source_label": "PaintScratch 1991 Eagle",
+        "hex_value": "#A6B5CC"
+      },
+      {
+        "display_name": "Twilight Blue Metallic",
+        "paint_code": "B76/PBH",
+        "slug": "twilight-blue-metallic-b76pbh",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/twilight-blue-metallic-b76pbh/",
+        "source_label": "PaintScratch 1991 Eagle",
+        "hex_value": "#0F104D"
+      },
+      {
+        "display_name": "Medium WaterBlue S/G Metallic",
+        "paint_code": "BF/KBF",
+        "slug": "medium-waterblue-sg-metallic-bfkbf",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/medium-waterblue-sg-metallic-bfkbf/",
+        "source_label": "PaintScratch 1991 Eagle",
+        "hex_value": "#18284C"
+      },
+      {
+        "display_name": "Diamond Blue Metallic",
+        "paint_code": "C1/HC1",
+        "slug": "diamond-blue-metallic-c1hc1",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/diamond-blue-metallic-c1hc1/",
+        "source_label": "PaintScratch 1991 Eagle",
+        "hex_value": "#93A9B7"
+      },
+      {
+        "display_name": "Medium Louvre Brown Metallic",
+        "paint_code": "C46/PV8",
+        "slug": "medium-louvre-brown-metallic-c46pv8",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/medium-louvre-brown-metallic-c46pv8/",
+        "source_label": "PaintScratch 1991 Eagle",
+        "hex_value": "#9E8162"
+      },
+      {
+        "display_name": "Misty Rose Pearl Metallic",
+        "paint_code": "E2/EE2",
+        "slug": "misty-rose-pearl-metallic-e2ee2",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/misty-rose-pearl-metallic-e2ee2/",
+        "source_label": "PaintScratch 1991 Eagle",
+        "hex_value": "#AF9A8A"
+      },
+      {
+        "display_name": "Colorado Red",
+        "paint_code": "E4/HE4",
+        "slug": "colorado-red-e4he4",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/colorado-red-e4he4/",
+        "source_label": "PaintScratch 1991 Eagle",
+        "hex_value": "#971014"
+      },
+      {
+        "display_name": "Light Warm Grey Metallic",
+        "paint_code": "H18/PV1",
+        "slug": "light-warm-grey-metallic-h18pv1",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/light-warm-grey-metallic-h18pv1/",
+        "source_label": "PaintScratch 1991 Eagle",
+        "hex_value": "#9E9F88"
+      },
+      {
+        "display_name": "Charcoal Metallic",
+        "paint_code": "H52/PS8",
+        "slug": "charcoal-metallic-h52ps8",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/charcoal-metallic-h52ps8/",
+        "source_label": "PaintScratch 1991 Eagle",
+        "hex_value": "#757B75"
+      },
+      {
+        "display_name": "Grace Silver Metallic",
+        "paint_code": "H84/PA4",
+        "slug": "grace-silver-metallic-h84pa4",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/grace-silver-metallic-h84pa4/",
+        "source_label": "PaintScratch 1991 Eagle",
+        "hex_value": "#CDD0D5"
+      }
+    ],
+    "1992": [
+      {
+        "display_name": "Sterling Metallic",
+        "paint_code": "A2/HA2",
+        "slug": "sterling-metallic-a2ha2",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/sterling-metallic-a2ha2/",
+        "source_label": "PaintScratch 1992 Eagle",
+        "hex_value": "#ACAEB4"
+      },
+      {
+        "display_name": "Medium Quartz Metallic",
+        "paint_code": "A16/PD2",
+        "slug": "medium-quartz-metallic-a16pd2",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/medium-quartz-metallic-a16pd2/",
+        "source_label": "PaintScratch 1992 Eagle",
+        "hex_value": "#676B68"
+      },
+      {
+        "display_name": "Light Spectrum Blue Metallic",
+        "paint_code": "B32/PB2",
+        "slug": "light-spectrum-blue-metallic-b32pb2",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/light-spectrum-blue-metallic-b32pb2/",
+        "source_label": "PaintScratch 1992 Eagle",
+        "hex_value": "#668EC4"
+      },
+      {
+        "display_name": "Electric Blue Metallic",
+        "paint_code": "B35/PC3",
+        "slug": "electric-blue-metallic-b35pc3",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/electric-blue-metallic-b35pc3/",
+        "source_label": "PaintScratch 1992 Eagle",
+        "hex_value": "#2667A4"
+      },
+      {
+        "display_name": "Normandie Blue Metallic",
+        "paint_code": "B42/PBA",
+        "slug": "normandie-blue-metallic-b42pba",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/normandie-blue-metallic-b42pba/",
+        "source_label": "PaintScratch 1992 Eagle",
+        "hex_value": "#516179"
+      },
+      {
+        "display_name": "Peacock Green",
+        "paint_code": "B60/PGA",
+        "slug": "peacock-green-b60pga",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/peacock-green-b60pga/",
+        "source_label": "PaintScratch 1992 Eagle",
+        "hex_value": "#0D5340"
+      },
+      {
+        "display_name": "Light Spectrum Blue Metallic",
+        "paint_code": "B67/PBB",
+        "slug": "light-spectrum-blue-metallic-b67pbb",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/light-spectrum-blue-metallic-b67pbb/",
+        "source_label": "PaintScratch 1992 Eagle",
+        "hex_value": "#A6B5CC"
+      },
+      {
+        "display_name": "Twilight Blue Metallic",
+        "paint_code": "B76/PBH",
+        "slug": "twilight-blue-metallic-b76pbh",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/twilight-blue-metallic-b76pbh/",
+        "source_label": "PaintScratch 1992 Eagle",
+        "hex_value": "#0F104D"
+      },
+      {
+        "display_name": "Medium WaterBlue S/G Metallic",
+        "paint_code": "BF/KBF",
+        "slug": "medium-waterblue-sg-metallic-bfkbf",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/medium-waterblue-sg-metallic-bfkbf/",
+        "source_label": "PaintScratch 1992 Eagle",
+        "hex_value": "#18284C"
+      },
+      {
+        "display_name": "Diamond Blue Metallic",
+        "paint_code": "C1/HC1",
+        "slug": "diamond-blue-metallic-c1hc1",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/diamond-blue-metallic-c1hc1/",
+        "source_label": "PaintScratch 1992 Eagle",
+        "hex_value": "#93A9B7"
+      },
+      {
+        "display_name": "Colorado Red",
+        "paint_code": "E4/HE4",
+        "slug": "colorado-red-e4he4",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/colorado-red-e4he4/",
+        "source_label": "PaintScratch 1992 Eagle",
+        "hex_value": "#971014"
+      },
+      {
+        "display_name": "Driftwood S/G Pearl Metallic",
+        "paint_code": "FA/MFA",
+        "slug": "driftwood-sg-pearl-metallic-famfa",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/driftwood-sg-pearl-metallic-famfa/",
+        "source_label": "PaintScratch 1992 Eagle",
+        "hex_value": "#9E9C92"
+      },
+      {
+        "display_name": "Emerald Green Pearl",
+        "paint_code": "GF/PGF",
+        "slug": "emerald-green-pearl-gfpgf",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/emerald-green-pearl-gfpgf/",
+        "source_label": "PaintScratch 1992 Eagle",
+        "hex_value": "#07553E"
+      },
+      {
+        "display_name": "Charcoal Metallic",
+        "paint_code": "H52/PS8",
+        "slug": "charcoal-metallic-h52ps8",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/charcoal-metallic-h52ps8/",
+        "source_label": "PaintScratch 1992 Eagle",
+        "hex_value": "#757B75"
+      },
+      {
+        "display_name": "Grace Silver Metallic",
+        "paint_code": "H84/PA4",
+        "slug": "grace-silver-metallic-h84pa4",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/grace-silver-metallic-h84pa4/",
+        "source_label": "PaintScratch 1992 Eagle",
+        "hex_value": "#CDD0D5"
+      },
+      {
+        "display_name": "Light Buckskin Metallic",
+        "paint_code": "L83/PV2",
+        "slug": "light-buckskin-metallic-l83pv2",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/light-buckskin-metallic-l83pv2/",
+        "source_label": "PaintScratch 1992 Eagle",
+        "hex_value": "#BCB8AC"
+      }
+    ],
+    "1993": [
+      {
+        "display_name": "Medium Quartz Metallic",
+        "paint_code": "A16/PD2",
+        "slug": "medium-quartz-metallic-a16pd2",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/medium-quartz-metallic-a16pd2/",
+        "source_label": "PaintScratch 1993 Eagle",
+        "hex_value": "#676B68"
+      },
+      {
+        "display_name": "Dark Blue Pearl",
+        "paint_code": "B01/PCL",
+        "slug": "dark-blue-pearl-b01pcl",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/dark-blue-pearl-b01pcl/",
+        "source_label": "PaintScratch 1993 Eagle",
+        "hex_value": "#07334F"
+      },
+      {
+        "display_name": "Electric Blue Metallic",
+        "paint_code": "B35/PC3",
+        "slug": "electric-blue-metallic-b35pc3",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/electric-blue-metallic-b35pc3/",
+        "source_label": "PaintScratch 1993 Eagle",
+        "hex_value": "#2667A4"
+      },
+      {
+        "display_name": "Normandie Blue Metallic",
+        "paint_code": "B42/PBA",
+        "slug": "normandie-blue-metallic-b42pba",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/normandie-blue-metallic-b42pba/",
+        "source_label": "PaintScratch 1993 Eagle",
+        "hex_value": "#516179"
+      },
+      {
+        "display_name": "Hessen Blue Metallic",
+        "paint_code": "B45/PCM",
+        "slug": "hessen-blue-metallic-b45pcm",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/hessen-blue-metallic-b45pcm/",
+        "source_label": "PaintScratch 1993 Eagle",
+        "hex_value": "#D1DBD1"
+      },
+      {
+        "display_name": "Peacock Green",
+        "paint_code": "B60/PGA",
+        "slug": "peacock-green-b60pga",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/peacock-green-b60pga/",
+        "source_label": "PaintScratch 1993 Eagle",
+        "hex_value": "#0D5340"
+      },
+      {
+        "display_name": "Medium WaterBlue S/G Metallic",
+        "paint_code": "BF/KBF",
+        "slug": "medium-waterblue-sg-metallic-bfkbf",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/medium-waterblue-sg-metallic-bfkbf/",
+        "source_label": "PaintScratch 1993 Eagle",
+        "hex_value": "#18284C"
+      },
+      {
+        "display_name": "Diamond Blue Metallic",
+        "paint_code": "C1/HC1",
+        "slug": "diamond-blue-metallic-c1hc1",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/diamond-blue-metallic-c1hc1/",
+        "source_label": "PaintScratch 1993 Eagle",
+        "hex_value": "#93A9B7"
+      },
+      {
+        "display_name": "Colorado Red",
+        "paint_code": "E4/HE4",
+        "slug": "colorado-red-e4he4",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/colorado-red-e4he4/",
+        "source_label": "PaintScratch 1993 Eagle",
+        "hex_value": "#971014"
+      },
+      {
+        "display_name": "Driftwood S/G Pearl Metallic",
+        "paint_code": "FA/MFA",
+        "slug": "driftwood-sg-pearl-metallic-famfa",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/driftwood-sg-pearl-metallic-famfa/",
+        "source_label": "PaintScratch 1993 Eagle",
+        "hex_value": "#9E9C92"
+      },
+      {
+        "display_name": "Deep Green Metallic",
+        "paint_code": "G36/PGK",
+        "slug": "deep-green-metallic-g36pgk",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/deep-green-metallic-g36pgk/",
+        "source_label": "PaintScratch 1993 Eagle",
+        "hex_value": "#124E29"
+      },
+      {
+        "display_name": "Sant-Armour Green Metallic",
+        "paint_code": "G98/PGJ",
+        "slug": "sant-armour-green-metallic-g98pgj",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/sant-armour-green-metallic-g98pgj/",
+        "source_label": "PaintScratch 1993 Eagle",
+        "hex_value": "#046204"
+      },
+      {
+        "display_name": "Emerald Green Pearl",
+        "paint_code": "GF/PGF",
+        "slug": "emerald-green-pearl-gfpgf",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/emerald-green-pearl-gfpgf/",
+        "source_label": "PaintScratch 1993 Eagle",
+        "hex_value": "#07553E"
+      },
+      {
+        "display_name": "Mild Gray Pearl",
+        "paint_code": "H07/PAE",
+        "slug": "mild-gray-pearl-h07pae",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/mild-gray-pearl-h07pae/",
+        "source_label": "PaintScratch 1993 Eagle",
+        "hex_value": "#6A7876"
+      },
+      {
+        "display_name": "Charcoal Metallic",
+        "paint_code": "H52/PS8",
+        "slug": "charcoal-metallic-h52ps8",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/charcoal-metallic-h52ps8/",
+        "source_label": "PaintScratch 1993 Eagle",
+        "hex_value": "#757B75"
+      },
+      {
+        "display_name": "Grace Silver Metallic",
+        "paint_code": "H84/PA4",
+        "slug": "grace-silver-metallic-h84pa4",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/grace-silver-metallic-h84pa4/",
+        "source_label": "PaintScratch 1993 Eagle",
+        "hex_value": "#CDD0D5"
+      }
+    ],
+    "1994": [
+      {
+        "display_name": "Medium Quartz Metallic",
+        "paint_code": "A16/PD2",
+        "slug": "medium-quartz-metallic-a16pd2",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/medium-quartz-metallic-a16pd2/",
+        "source_label": "PaintScratch 1994 Eagle",
+        "hex_value": "#676B68"
+      },
+      {
+        "display_name": "Medium Gray Metallic",
+        "paint_code": "A74/PAF",
+        "slug": "medium-gray-metallic-a74paf",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/medium-gray-metallic-a74paf/",
+        "source_label": "PaintScratch 1994 Eagle",
+        "hex_value": "#4C564F"
+      },
+      {
+        "display_name": "Electric Blue Metallic",
+        "paint_code": "B35/PC3",
+        "slug": "electric-blue-metallic-b35pc3",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/electric-blue-metallic-b35pc3/",
+        "source_label": "PaintScratch 1994 Eagle",
+        "hex_value": "#2667A4"
+      },
+      {
+        "display_name": "Peacock Green",
+        "paint_code": "B60/PGA",
+        "slug": "peacock-green-b60pga",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/peacock-green-b60pga/",
+        "source_label": "PaintScratch 1994 Eagle",
+        "hex_value": "#0D5340"
+      },
+      {
+        "display_name": "Blue Pearl",
+        "paint_code": "B73/PCG",
+        "slug": "blue-pearl-b73pcg",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/blue-pearl-b73pcg/",
+        "source_label": "PaintScratch 1994 Eagle",
+        "hex_value": "#2D98AB"
+      },
+      {
+        "display_name": "Medium WaterBlue S/G Metallic",
+        "paint_code": "BF/KBF",
+        "slug": "medium-waterblue-sg-metallic-bfkbf",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/medium-waterblue-sg-metallic-bfkbf/",
+        "source_label": "PaintScratch 1994 Eagle",
+        "hex_value": "#18284C"
+      },
+      {
+        "display_name": "Driftwood S/G Pearl Metallic",
+        "paint_code": "FA/MFA",
+        "slug": "driftwood-sg-pearl-metallic-famfa",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/driftwood-sg-pearl-metallic-famfa/",
+        "source_label": "PaintScratch 1994 Eagle",
+        "hex_value": "#9E9C92"
+      },
+      {
+        "display_name": "Deep Green Metallic",
+        "paint_code": "G36/PGK",
+        "slug": "deep-green-metallic-g36pgk",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/deep-green-metallic-g36pgk/",
+        "source_label": "PaintScratch 1994 Eagle",
+        "hex_value": "#124E29"
+      },
+      {
+        "display_name": "Light Green Metallic",
+        "paint_code": "G50/PGB",
+        "slug": "light-green-metallic-g50pgb",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/light-green-metallic-g50pgb/",
+        "source_label": "PaintScratch 1994 Eagle",
+        "hex_value": "#A5BEA2"
+      },
+      {
+        "display_name": "Dark Green Pearl",
+        "paint_code": "G89/PGD",
+        "slug": "dark-green-pearl-g89pgd",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/dark-green-pearl-g89pgd/",
+        "source_label": "PaintScratch 1994 Eagle",
+        "hex_value": "#0E5C2A"
+      },
+      {
+        "display_name": "Light Green Metallic",
+        "paint_code": "G90/PGC",
+        "slug": "light-green-metallic-g90pgc",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/light-green-metallic-g90pgc/",
+        "source_label": "PaintScratch 1994 Eagle",
+        "hex_value": "#9BD3C4"
+      },
+      {
+        "display_name": "Emerald Green Pearl",
+        "paint_code": "GF/PGF",
+        "slug": "emerald-green-pearl-gfpgf",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/emerald-green-pearl-gfpgf/",
+        "source_label": "PaintScratch 1994 Eagle",
+        "hex_value": "#07553E"
+      },
+      {
+        "display_name": "Char-Gold S/G Pearl",
+        "paint_code": "J8/MJ8",
+        "slug": "char-gold-sg-pearl-j8mj8",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/char-gold-sg-pearl-j8mj8/",
+        "source_label": "PaintScratch 1994 Eagle",
+        "hex_value": "#807646"
+      },
+      {
+        "display_name": "Black Cherry Pearl Metallic",
+        "paint_code": "M9/FM9",
+        "slug": "black-cherry-pearl-metallic-m9fm9",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/black-cherry-pearl-metallic-m9fm9/",
+        "source_label": "PaintScratch 1994 Eagle",
+        "hex_value": "#53253B"
+      },
+      {
+        "display_name": "Wildberry Pearl",
+        "paint_code": "MB/MMB",
+        "slug": "wildberry-pearl-mbmmb",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/wildberry-pearl-mbmmb/",
+        "source_label": "PaintScratch 1994 Eagle",
+        "hex_value": "#50283A"
+      },
+      {
+        "display_name": "Teal Pearl Metallic",
+        "paint_code": "P5/LP5",
+        "slug": "teal-pearl-metallic-p5lp5",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/teal-pearl-metallic-p5lp5/",
+        "source_label": "PaintScratch 1994 Eagle",
+        "hex_value": "#497E9D"
+      }
+    ],
+    "1995": [
+      {
+        "display_name": "Medium Gray Metallic",
+        "paint_code": "A74/PAF",
+        "slug": "medium-gray-metallic-a74paf",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/medium-gray-metallic-a74paf/",
+        "source_label": "PaintScratch 1995 Eagle",
+        "hex_value": "#4C564F"
+      },
+      {
+        "display_name": "Medium Blue Pearl",
+        "paint_code": "B3/RB3",
+        "slug": "medium-blue-pearl-b3rb3",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/medium-blue-pearl-b3rb3/",
+        "source_label": "PaintScratch 1995 Eagle",
+        "hex_value": "#5F6A83"
+      },
+      {
+        "display_name": "Blue Pearl",
+        "paint_code": "B73/PCG",
+        "slug": "blue-pearl-b73pcg",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/blue-pearl-b73pcg/",
+        "source_label": "PaintScratch 1995 Eagle",
+        "hex_value": "#2D98AB"
+      },
+      {
+        "display_name": "Driftwood S/G Pearl Metallic",
+        "paint_code": "FA/MFA",
+        "slug": "driftwood-sg-pearl-metallic-famfa",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/driftwood-sg-pearl-metallic-famfa/",
+        "source_label": "PaintScratch 1995 Eagle",
+        "hex_value": "#9E9C92"
+      },
+      {
+        "display_name": "Deep Green Metallic",
+        "paint_code": "G36/PGK",
+        "slug": "deep-green-metallic-g36pgk",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/deep-green-metallic-g36pgk/",
+        "source_label": "PaintScratch 1995 Eagle",
+        "hex_value": "#124E29"
+      },
+      {
+        "display_name": "Dark Green Pearl",
+        "paint_code": "G89/PGD",
+        "slug": "dark-green-pearl-g89pgd",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/dark-green-pearl-g89pgd/",
+        "source_label": "PaintScratch 1995 Eagle",
+        "hex_value": "#0E5C2A"
+      },
+      {
+        "display_name": "Light Green Metallic",
+        "paint_code": "G90/PGC",
+        "slug": "light-green-metallic-g90pgc",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/light-green-metallic-g90pgc/",
+        "source_label": "PaintScratch 1995 Eagle",
+        "hex_value": "#9BD3C4"
+      },
+      {
+        "display_name": "Emerald Green Pearl",
+        "paint_code": "GF/PGF",
+        "slug": "emerald-green-pearl-gfpgf",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/emerald-green-pearl-gfpgf/",
+        "source_label": "PaintScratch 1995 Eagle",
+        "hex_value": "#07553E"
+      },
+      {
+        "display_name": "Char-Gold S/G Pearl",
+        "paint_code": "J8/MJ8",
+        "slug": "char-gold-sg-pearl-j8mj8",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/char-gold-sg-pearl-j8mj8/",
+        "source_label": "PaintScratch 1995 Eagle",
+        "hex_value": "#807646"
+      },
+      {
+        "display_name": "Wildberry Pearl",
+        "paint_code": "MB/MMB",
+        "slug": "wildberry-pearl-mbmmb",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/wildberry-pearl-mbmmb/",
+        "source_label": "PaintScratch 1995 Eagle",
+        "hex_value": "#50283A"
+      },
+      {
+        "display_name": "Wild Orchid Pearl",
+        "paint_code": "MH/RMH",
+        "slug": "wild-orchid-pearl-mhrmh",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/wild-orchid-pearl-mhrmh/",
+        "source_label": "PaintScratch 1995 Eagle",
+        "hex_value": "#80547D"
+      },
+      {
+        "display_name": "Teal Pearl Metallic",
+        "paint_code": "P5/LP5",
+        "slug": "teal-pearl-metallic-p5lp5",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/teal-pearl-metallic-p5lp5/",
+        "source_label": "PaintScratch 1995 Eagle",
+        "hex_value": "#497E9D"
+      },
+      {
+        "display_name": "Wild Berry Pearl Metallic",
+        "paint_code": "P75/PMG",
+        "slug": "wild-berry-pearl-metallic-p75pmg",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/wild-berry-pearl-metallic-p75pmg/",
+        "source_label": "PaintScratch 1995 Eagle",
+        "hex_value": "#58202C"
+      },
+      {
+        "display_name": "Spruce Pearl Metallic",
+        "paint_code": "PE/RPE",
+        "slug": "spruce-pearl-metallic-perpe",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/spruce-pearl-metallic-perpe/",
+        "source_label": "PaintScratch 1995 Eagle",
+        "hex_value": "#075552"
+      },
+      {
+        "display_name": "Kutani Red Pearl",
+        "paint_code": "R25/PRG",
+        "slug": "kutani-red-pearl-r25prg",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/kutani-red-pearl-r25prg/",
+        "source_label": "PaintScratch 1995 Eagle",
+        "hex_value": "#7C0208"
+      },
+      {
+        "display_name": "Monaco Red",
+        "paint_code": "R82/PR6",
+        "slug": "monaco-red-r82pr6",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/monaco-red-r82pr6/",
+        "source_label": "PaintScratch 1995 Eagle",
+        "hex_value": "#AB201B"
+      }
+    ],
+    "1996": [
+      {
+        "display_name": "Polo Green Pearl",
+        "paint_code": "G56/PGE",
+        "slug": "polo-green-pearl-g56pge",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/polo-green-pearl-g56pge/",
+        "source_label": "PaintScratch 1996 Eagle",
+        "hex_value": "#0C6C30"
+      },
+      {
+        "display_name": "Medium Gray Metallic",
+        "paint_code": "A74/PAF",
+        "slug": "medium-gray-metallic-a74paf",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/medium-gray-metallic-a74paf/",
+        "source_label": "PaintScratch 1996 Eagle",
+        "hex_value": "#4C564F"
+      },
+      {
+        "display_name": "Celtic Blue Pearl",
+        "paint_code": "B59/PBM",
+        "slug": "celtic-blue-pearl-b59pbm",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/celtic-blue-pearl-b59pbm/",
+        "source_label": "PaintScratch 1996 Eagle",
+        "hex_value": "#7459A1"
+      },
+      {
+        "display_name": "Blue Pearl",
+        "paint_code": "B73/PCG",
+        "slug": "blue-pearl-b73pcg",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/blue-pearl-b73pcg/",
+        "source_label": "PaintScratch 1996 Eagle",
+        "hex_value": "#2D98AB"
+      },
+      {
+        "display_name": "Frosted Green Pearl",
+        "paint_code": "F89/PGZ",
+        "slug": "frosted-green-pearl-f89pgz",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/frosted-green-pearl-f89pgz/",
+        "source_label": "PaintScratch 1996 Eagle",
+        "hex_value": "#70BA96"
+      },
+      {
+        "display_name": "Dark Green Pearl",
+        "paint_code": "G89/PGD",
+        "slug": "dark-green-pearl-g89pgd",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/dark-green-pearl-g89pgd/",
+        "source_label": "PaintScratch 1996 Eagle",
+        "hex_value": "#0E5C2A"
+      },
+      {
+        "display_name": "Dark Gray Metallic (Cladding)",
+        "paint_code": "H39/PSB",
+        "slug": "dark-gray-metallic-cladding-h39psb",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/dark-gray-metallic-cladding-h39psb/",
+        "source_label": "PaintScratch 1996 Eagle",
+        "hex_value": "#57534D"
+      },
+      {
+        "display_name": "Light Silver Pearl Metallic (Cladding)",
+        "paint_code": "H81/PSD",
+        "slug": "light-silver-pearl-metallic-cladding-h81psd",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/light-silver-pearl-metallic-cladding-h81psd/",
+        "source_label": "PaintScratch 1996 Eagle",
+        "hex_value": "#BEBCBA"
+      },
+      {
+        "display_name": "Candy Apple Red Metallic Tricoat",
+        "paint_code": "HC/RHC",
+        "slug": "candy-apple-red-metallic-tricoat-hcrhc",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/candy-apple-red-metallic-tricoat-hcrhc/",
+        "source_label": "PaintScratch 1996 Eagle",
+        "hex_value": "#C00613"
+      },
+      {
+        "display_name": "Wildberry Pearl",
+        "paint_code": "MB/MMB",
+        "slug": "wildberry-pearl-mbmmb",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/wildberry-pearl-mbmmb/",
+        "source_label": "PaintScratch 1996 Eagle",
+        "hex_value": "#50283A"
+      },
+      {
+        "display_name": "Wild Berry Pearl Metallic",
+        "paint_code": "P75/PMG",
+        "slug": "wild-berry-pearl-metallic-p75pmg",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/wild-berry-pearl-metallic-p75pmg/",
+        "source_label": "PaintScratch 1996 Eagle",
+        "hex_value": "#58202C"
+      },
+      {
+        "display_name": "Roanne Red Pearl",
+        "paint_code": "P78/R78/PMP",
+        "slug": "roanne-red-pearl-p78r78pmp",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/roanne-red-pearl-p78r78pmp/",
+        "source_label": "PaintScratch 1996 Eagle",
+        "hex_value": "#580404"
+      },
+      {
+        "display_name": "True Red",
+        "paint_code": "P85/PRP",
+        "slug": "true-red-p85prp",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/true-red-p85prp/",
+        "source_label": "PaintScratch 1996 Eagle",
+        "hex_value": "#C41010"
+      },
+      {
+        "display_name": "Spruce Pearl Metallic",
+        "paint_code": "PE/RPE",
+        "slug": "spruce-pearl-metallic-perpe",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/spruce-pearl-metallic-perpe/",
+        "source_label": "PaintScratch 1996 Eagle",
+        "hex_value": "#075552"
+      },
+      {
+        "display_name": "Radiant Fire",
+        "paint_code": "R87/PRB",
+        "slug": "radiant-fire-r87prb",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/radiant-fire-r87prb/",
+        "source_label": "PaintScratch 1996 Eagle",
+        "hex_value": "#A51618"
+      },
+      {
+        "display_name": "Brite Platinum Metallic",
+        "paint_code": "S4/MS4",
+        "slug": "brite-platinum-metallic-s4ms4",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/brite-platinum-metallic-s4ms4/",
+        "source_label": "PaintScratch 1996 Eagle",
+        "hex_value": "#958B79"
+      }
+    ],
+    "1997": [
+      {
+        "display_name": "Polo Green Pearl",
+        "paint_code": "G56/PGE",
+        "slug": "polo-green-pearl-g56pge",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/polo-green-pearl-g56pge/",
+        "source_label": "PaintScratch 1997 Eagle",
+        "hex_value": "#0C6C30"
+      },
+      {
+        "display_name": "Paprika Red Pearl",
+        "paint_code": "P88/PRR",
+        "slug": "paprika-red-pearl-p88prr",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/paprika-red-pearl-p88prr/",
+        "source_label": "PaintScratch 1997 Eagle",
+        "hex_value": "#7A1010"
+      },
+      {
+        "display_name": "Pewter Blue Pearl",
+        "paint_code": "A87/PC7",
+        "slug": "pewter-blue-pearl-a87pc7",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/pewter-blue-pearl-a87pc7/",
+        "source_label": "PaintScratch 1997 Eagle",
+        "hex_value": "#666573"
+      },
+      {
+        "display_name": "Deep Amethyst Pearl",
+        "paint_code": "CU/TCU",
+        "slug": "deep-amethyst-pearl-cutcu",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/deep-amethyst-pearl-cutcu/",
+        "source_label": "PaintScratch 1997 Eagle",
+        "hex_value": "#170535"
+      },
+      {
+        "display_name": "Candy Apple Red Metallic Tricoat",
+        "paint_code": "HC/RHC",
+        "slug": "candy-apple-red-metallic-tricoat-hcrhc",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/candy-apple-red-metallic-tricoat-hcrhc/",
+        "source_label": "PaintScratch 1997 Eagle",
+        "hex_value": "#C00613"
+      },
+      {
+        "display_name": "Spanish Olive Pearl",
+        "paint_code": "L55/PFF",
+        "slug": "spanish-olive-pearl-l55pff",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/spanish-olive-pearl-l55pff/",
+        "source_label": "PaintScratch 1997 Eagle",
+        "hex_value": "#7D6B43"
+      },
+      {
+        "display_name": "Spruce Pearl Metallic",
+        "paint_code": "PE/RPE",
+        "slug": "spruce-pearl-metallic-perpe",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/spruce-pearl-metallic-perpe/",
+        "source_label": "PaintScratch 1997 Eagle",
+        "hex_value": "#075552"
+      },
+      {
+        "display_name": "Radiant Fire",
+        "paint_code": "R87/PRB",
+        "slug": "radiant-fire-r87prb",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/radiant-fire-r87prb/",
+        "source_label": "PaintScratch 1997 Eagle",
+        "hex_value": "#A51618"
+      },
+      {
+        "display_name": "Brite Platinum Metallic",
+        "paint_code": "S4/MS4",
+        "slug": "brite-platinum-metallic-s4ms4",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/brite-platinum-metallic-s4ms4/",
+        "source_label": "PaintScratch 1997 Eagle",
+        "hex_value": "#958B79"
+      },
+      {
+        "display_name": "Jade Metallic",
+        "paint_code": "T91/PQT",
+        "slug": "jade-metallic-t91pqt",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/jade-metallic-t91pqt/",
+        "source_label": "PaintScratch 1997 Eagle",
+        "hex_value": "#1C885C"
+      },
+      {
+        "display_name": "Stone White",
+        "paint_code": "W1/SW1",
+        "slug": "stone-white-w1sw1",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/stone-white-w1sw1/",
+        "source_label": "PaintScratch 1997 Eagle",
+        "hex_value": "#F8FEE9"
+      },
+      {
+        "display_name": "Bright White",
+        "paint_code": "W12/PW7",
+        "slug": "bright-white-w12pw7",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/bright-white-w12pw7/",
+        "source_label": "PaintScratch 1997 Eagle",
+        "hex_value": "#F5FEF6"
+      },
+      {
+        "display_name": "Black Crystal",
+        "paint_code": "X8/DX8",
+        "slug": "black-crystal-x8dx8",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/black-crystal-x8dx8/",
+        "source_label": "PaintScratch 1997 Eagle",
+        "hex_value": "#0A1112"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "X13/PX8",
+        "slug": "black-x13px8",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/black-x13px8/",
+        "source_label": "PaintScratch 1997 Eagle",
+        "hex_value": "#000000"
+      }
+    ],
+    "1998": [
+      {
+        "display_name": "Polo Green Pearl",
+        "paint_code": "G56/PGE",
+        "slug": "polo-green-pearl-g56pge",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/polo-green-pearl-g56pge/",
+        "source_label": "PaintScratch 1998 Eagle",
+        "hex_value": "#0C6C30"
+      },
+      {
+        "display_name": "Paprika Red Pearl",
+        "paint_code": "P88/PRR",
+        "slug": "paprika-red-pearl-p88prr",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/paprika-red-pearl-p88prr/",
+        "source_label": "PaintScratch 1998 Eagle",
+        "hex_value": "#7A1010"
+      },
+      {
+        "display_name": "Moonshine Pearl",
+        "paint_code": "A25",
+        "slug": "moonshine-pearl-a25",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/moonshine-pearl-a25/",
+        "source_label": "PaintScratch 1998 Eagle",
+        "hex_value": "#A09981"
+      },
+      {
+        "display_name": "Silver Mist Pearl",
+        "paint_code": "A52/PA5",
+        "slug": "silver-mist-pearl-a52pa5",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/silver-mist-pearl-a52pa5/",
+        "source_label": "PaintScratch 1998 Eagle",
+        "hex_value": "#ABB4AE"
+      },
+      {
+        "display_name": "Pewter Blue Pearl",
+        "paint_code": "A87/PC7",
+        "slug": "pewter-blue-pearl-a87pc7",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/pewter-blue-pearl-a87pc7/",
+        "source_label": "PaintScratch 1998 Eagle",
+        "hex_value": "#666573"
+      },
+      {
+        "display_name": "Dark Slate Pearl",
+        "paint_code": "AW/VAW",
+        "slug": "dark-slate-pearl-awvaw",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/dark-slate-pearl-awvaw/",
+        "source_label": "PaintScratch 1998 Eagle",
+        "hex_value": "#1E2E21"
+      },
+      {
+        "display_name": "Deep Amethyst Pearl",
+        "paint_code": "CN/TCN",
+        "slug": "deep-amethyst-pearl-cntcn",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/deep-amethyst-pearl-cntcn/",
+        "source_label": "PaintScratch 1998 Eagle",
+        "hex_value": "#170535"
+      },
+      {
+        "display_name": "Deep Hunter Green Pearl",
+        "paint_code": "G8/SG8",
+        "slug": "deep-hunter-green-pearl-g8sg8",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/deep-hunter-green-pearl-g8sg8/",
+        "source_label": "PaintScratch 1998 Eagle",
+        "hex_value": "#095D25"
+      },
+      {
+        "display_name": "Candy Apple Red Pearl",
+        "paint_code": "H2/RH2",
+        "slug": "candy-apple-red-pearl-h2rh2",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/candy-apple-red-pearl-h2rh2/",
+        "source_label": "PaintScratch 1998 Eagle",
+        "hex_value": "#BC121E"
+      },
+      {
+        "display_name": "Cinnamon Glaze Metallic",
+        "paint_code": "LB/VLB",
+        "slug": "cinnamon-glaze-metallic-lbvlb",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/cinnamon-glaze-metallic-lbvlb/",
+        "source_label": "PaintScratch 1998 Eagle",
+        "hex_value": "#A5957B"
+      },
+      {
+        "display_name": "Maroon Pearl",
+        "paint_code": "MT/VMT",
+        "slug": "maroon-pearl-mtvmt",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/maroon-pearl-mtvmt/",
+        "source_label": "PaintScratch 1998 Eagle",
+        "hex_value": "#6C323A"
+      },
+      {
+        "display_name": "Dark Plum Pearl",
+        "paint_code": "P51",
+        "slug": "dark-plum-pearl-p51",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/dark-plum-pearl-p51/",
+        "source_label": "PaintScratch 1998 Eagle",
+        "hex_value": "#200147"
+      },
+      {
+        "display_name": "Wild Berry Pearl Metallic",
+        "paint_code": "P75/PMG",
+        "slug": "wild-berry-pearl-metallic-p75pmg",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/wild-berry-pearl-metallic-p75pmg/",
+        "source_label": "PaintScratch 1998 Eagle",
+        "hex_value": "#58202C"
+      },
+      {
+        "display_name": "Radiant Fire",
+        "paint_code": "R87/PRB",
+        "slug": "radiant-fire-r87prb",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/radiant-fire-r87prb/",
+        "source_label": "PaintScratch 1998 Eagle",
+        "hex_value": "#A51618"
+      },
+      {
+        "display_name": "Brite Platinum Metallic",
+        "paint_code": "S4/MS4",
+        "slug": "brite-platinum-metallic-s4ms4",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/brite-platinum-metallic-s4ms4/",
+        "source_label": "PaintScratch 1998 Eagle",
+        "hex_value": "#958B79"
+      },
+      {
+        "display_name": "Champagne Pearl",
+        "paint_code": "TE/VTE",
+        "slug": "champagne-pearl-tevte",
+        "reference_url": "https://www.paintscratch.com/colors/eagle/champagne-pearl-tevte/",
+        "source_label": "PaintScratch 1998 Eagle",
+        "hex_value": "#DBC27F"
+      }
+    ]
+  }
+}

@@ -1,0 +1,3792 @@
+{
+  "All Models": {
+    "1998": [
+      {
+        "display_name": "Anthracite (PPG 4897)",
+        "paint_code": "48977",
+        "slug": "anthracite-ppg-4897-48977",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/anthracite-ppg-4897-48977/",
+        "source_label": "PaintScratch 1998 Newmar",
+        "hex_value": "#615555"
+      },
+      {
+        "display_name": "Mojave Beige (PPG 5256)",
+        "paint_code": "54190",
+        "slug": "mojave-beige-ppg-5256-54190",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/mojave-beige-ppg-5256-54190/",
+        "source_label": "PaintScratch 1998 Newmar",
+        "hex_value": "#BDAD85"
+      },
+      {
+        "display_name": "Topaz Metallic (PPG 4898)",
+        "paint_code": "49701",
+        "slug": "topaz-metallic-ppg-4898-49701",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/topaz-metallic-ppg-4898-49701/",
+        "source_label": "PaintScratch 1998 Newmar",
+        "hex_value": "#74675B"
+      },
+      {
+        "display_name": "Black Gold Metallic (PPG 4967)",
+        "paint_code": "50288",
+        "slug": "black-gold-metallic-ppg-4967-50288",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/black-gold-metallic-ppg-4967-50288/",
+        "source_label": "PaintScratch 1998 Newmar",
+        "hex_value": "#181414"
+      },
+      {
+        "display_name": "Coronado Sand Metallic (PPG 5041)",
+        "paint_code": "50503",
+        "slug": "coronado-sand-metallic-ppg-5041-50503",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/coronado-sand-metallic-ppg-5041-50503/",
+        "source_label": "PaintScratch 1998 Newmar",
+        "hex_value": "#96896A"
+      },
+      {
+        "display_name": "Light Driftwood (PPG 5011)",
+        "paint_code": "50736",
+        "slug": "light-driftwood-ppg-5011-50736",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/light-driftwood-ppg-5011-50736/",
+        "source_label": "PaintScratch 1998 Newmar",
+        "hex_value": "#DACBB0"
+      },
+      {
+        "display_name": "Desert Sand Mica",
+        "paint_code": "60703",
+        "slug": "desert-sand-mica-60703",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/desert-sand-mica-60703/",
+        "source_label": "PaintScratch 1998 Newmar",
+        "hex_value": "#C7B599"
+      },
+      {
+        "display_name": "Rainforest Pearl",
+        "paint_code": "61872",
+        "slug": "rainforest-pearl-61872",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/rainforest-pearl-61872/",
+        "source_label": "PaintScratch 1998 Newmar",
+        "hex_value": "#588672"
+      },
+      {
+        "display_name": "Kalahari Beige Metallic",
+        "paint_code": "64503",
+        "slug": "kalahari-beige-metallic-64503",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/kalahari-beige-metallic-64503/",
+        "source_label": "PaintScratch 1998 Newmar",
+        "hex_value": "#EBE7CF"
+      },
+      {
+        "display_name": "Gold (PPG 2762)",
+        "paint_code": "1006",
+        "slug": "gold-ppg-2762-1006",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/gold-ppg-2762-1006/",
+        "source_label": "PaintScratch 1998 Newmar",
+        "hex_value": "#E3BD25"
+      },
+      {
+        "display_name": "Midnight Pine Pearl",
+        "paint_code": "62432",
+        "slug": "midnight-pine-pearl-62432",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/midnight-pine-pearl-62432/",
+        "source_label": "PaintScratch 1998 Newmar",
+        "hex_value": "#162820"
+      },
+      {
+        "display_name": "Stratus Metallic",
+        "paint_code": "63043",
+        "slug": "stratus-metallic-63043",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/stratus-metallic-63043/",
+        "source_label": "PaintScratch 1998 Newmar",
+        "hex_value": "#D4D5CD"
+      }
+    ],
+    "1999": [
+      {
+        "display_name": "Anthracite (PPG 4897)",
+        "paint_code": "48977",
+        "slug": "anthracite-ppg-4897-48977",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/anthracite-ppg-4897-48977/",
+        "source_label": "PaintScratch 1999 Newmar",
+        "hex_value": "#615555"
+      },
+      {
+        "display_name": "Mojave Beige (PPG 5256)",
+        "paint_code": "54190",
+        "slug": "mojave-beige-ppg-5256-54190",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/mojave-beige-ppg-5256-54190/",
+        "source_label": "PaintScratch 1999 Newmar",
+        "hex_value": "#BDAD85"
+      },
+      {
+        "display_name": "Topaz Metallic (PPG 4898)",
+        "paint_code": "49701",
+        "slug": "topaz-metallic-ppg-4898-49701",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/topaz-metallic-ppg-4898-49701/",
+        "source_label": "PaintScratch 1999 Newmar",
+        "hex_value": "#74675B"
+      },
+      {
+        "display_name": "Black Gold Metallic (PPG 4967)",
+        "paint_code": "50288",
+        "slug": "black-gold-metallic-ppg-4967-50288",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/black-gold-metallic-ppg-4967-50288/",
+        "source_label": "PaintScratch 1999 Newmar",
+        "hex_value": "#181414"
+      },
+      {
+        "display_name": "Antelope Metallic (B9148K)",
+        "paint_code": "44429",
+        "slug": "antelope-metallic-b9148k-44429",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/antelope-metallic-b9148k-44429/",
+        "source_label": "PaintScratch 1999 Newmar",
+        "hex_value": "#E3DB85"
+      },
+      {
+        "display_name": "Coronado Sand Metallic (PPG 5041)",
+        "paint_code": "50503",
+        "slug": "coronado-sand-metallic-ppg-5041-50503",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/coronado-sand-metallic-ppg-5041-50503/",
+        "source_label": "PaintScratch 1999 Newmar",
+        "hex_value": "#96896A"
+      },
+      {
+        "display_name": "Light Driftwood (PPG 5011)",
+        "paint_code": "50736",
+        "slug": "light-driftwood-ppg-5011-50736",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/light-driftwood-ppg-5011-50736/",
+        "source_label": "PaintScratch 1999 Newmar",
+        "hex_value": "#DACBB0"
+      },
+      {
+        "display_name": "Winter Green (PPG 47634)",
+        "paint_code": "51108",
+        "slug": "winter-green-ppg-47634-51108",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/winter-green-ppg-47634-51108/",
+        "source_label": "PaintScratch 1999 Newmar",
+        "hex_value": "#37B515"
+      },
+      {
+        "display_name": "Desert Sand Mica",
+        "paint_code": "60703",
+        "slug": "desert-sand-mica-60703",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/desert-sand-mica-60703/",
+        "source_label": "PaintScratch 1999 Newmar",
+        "hex_value": "#C7B599"
+      },
+      {
+        "display_name": "Rainforest Pearl",
+        "paint_code": "61872",
+        "slug": "rainforest-pearl-61872",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/rainforest-pearl-61872/",
+        "source_label": "PaintScratch 1999 Newmar",
+        "hex_value": "#588672"
+      },
+      {
+        "display_name": "Kalahari Beige Metallic",
+        "paint_code": "64503",
+        "slug": "kalahari-beige-metallic-64503",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/kalahari-beige-metallic-64503/",
+        "source_label": "PaintScratch 1999 Newmar",
+        "hex_value": "#EBE7CF"
+      },
+      {
+        "display_name": "Gold (PPG 2762)",
+        "paint_code": "1006",
+        "slug": "gold-ppg-2762-1006",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/gold-ppg-2762-1006/",
+        "source_label": "PaintScratch 1999 Newmar",
+        "hex_value": "#E3BD25"
+      },
+      {
+        "display_name": "Isle Green (PPG 4770)",
+        "paint_code": "48083",
+        "slug": "isle-green-ppg-4770-48083",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/isle-green-ppg-4770-48083/",
+        "source_label": "PaintScratch 1999 Newmar",
+        "hex_value": "#2E6D1F"
+      },
+      {
+        "display_name": "Tuscany Silver (PPG 35627)",
+        "paint_code": "48119",
+        "slug": "tuscany-silver-ppg-35627-48119",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/tuscany-silver-ppg-35627-48119/",
+        "source_label": "PaintScratch 1999 Newmar",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Midnight Pine Pearl",
+        "paint_code": "62432",
+        "slug": "midnight-pine-pearl-62432",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/midnight-pine-pearl-62432/",
+        "source_label": "PaintScratch 1999 Newmar",
+        "hex_value": "#162820"
+      },
+      {
+        "display_name": "Stratus Metallic",
+        "paint_code": "63043",
+        "slug": "stratus-metallic-63043",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/stratus-metallic-63043/",
+        "source_label": "PaintScratch 1999 Newmar",
+        "hex_value": "#D4D5CD"
+      }
+    ],
+    "2000": [
+      {
+        "display_name": "Anthracite (PPG 4897)",
+        "paint_code": "48977",
+        "slug": "anthracite-ppg-4897-48977",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/anthracite-ppg-4897-48977/",
+        "source_label": "PaintScratch 2000 Newmar",
+        "hex_value": "#615555"
+      },
+      {
+        "display_name": "Mojave Beige (PPG 5256)",
+        "paint_code": "54190",
+        "slug": "mojave-beige-ppg-5256-54190",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/mojave-beige-ppg-5256-54190/",
+        "source_label": "PaintScratch 2000 Newmar",
+        "hex_value": "#BDAD85"
+      },
+      {
+        "display_name": "Topaz Metallic (PPG 4898)",
+        "paint_code": "49701",
+        "slug": "topaz-metallic-ppg-4898-49701",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/topaz-metallic-ppg-4898-49701/",
+        "source_label": "PaintScratch 2000 Newmar",
+        "hex_value": "#74675B"
+      },
+      {
+        "display_name": "Black Gold Metallic (PPG 4967)",
+        "paint_code": "50288",
+        "slug": "black-gold-metallic-ppg-4967-50288",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/black-gold-metallic-ppg-4967-50288/",
+        "source_label": "PaintScratch 2000 Newmar",
+        "hex_value": "#181414"
+      },
+      {
+        "display_name": "Coronado Sand Metallic (PPG 5041)",
+        "paint_code": "50503",
+        "slug": "coronado-sand-metallic-ppg-5041-50503",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/coronado-sand-metallic-ppg-5041-50503/",
+        "source_label": "PaintScratch 2000 Newmar",
+        "hex_value": "#96896A"
+      },
+      {
+        "display_name": "Light Driftwood (PPG 5011)",
+        "paint_code": "50736",
+        "slug": "light-driftwood-ppg-5011-50736",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/light-driftwood-ppg-5011-50736/",
+        "source_label": "PaintScratch 2000 Newmar",
+        "hex_value": "#DACBB0"
+      },
+      {
+        "display_name": "Desert Sand Mica",
+        "paint_code": "60703",
+        "slug": "desert-sand-mica-60703",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/desert-sand-mica-60703/",
+        "source_label": "PaintScratch 2000 Newmar",
+        "hex_value": "#C7B599"
+      },
+      {
+        "display_name": "Rainforest Pearl",
+        "paint_code": "61872",
+        "slug": "rainforest-pearl-61872",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/rainforest-pearl-61872/",
+        "source_label": "PaintScratch 2000 Newmar",
+        "hex_value": "#588672"
+      },
+      {
+        "display_name": "Kalahari Beige Metallic",
+        "paint_code": "64503",
+        "slug": "kalahari-beige-metallic-64503",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/kalahari-beige-metallic-64503/",
+        "source_label": "PaintScratch 2000 Newmar",
+        "hex_value": "#EBE7CF"
+      },
+      {
+        "display_name": "Gold (PPG 2762)",
+        "paint_code": "1006",
+        "slug": "gold-ppg-2762-1006",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/gold-ppg-2762-1006/",
+        "source_label": "PaintScratch 2000 Newmar",
+        "hex_value": "#E3BD25"
+      },
+      {
+        "display_name": "Brown",
+        "paint_code": "44091",
+        "slug": "brown-44091",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/brown-44091/",
+        "source_label": "PaintScratch 2000 Newmar",
+        "hex_value": "#C57E3F"
+      },
+      {
+        "display_name": "Mocha Frost (PPG 4282)",
+        "paint_code": "44092",
+        "slug": "mocha-frost-ppg-4282-44092",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/mocha-frost-ppg-4282-44092/",
+        "source_label": "PaintScratch 2000 Newmar",
+        "hex_value": "#D1A341"
+      },
+      {
+        "display_name": "Med Red",
+        "paint_code": "52409",
+        "slug": "med-red-52409",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/med-red-52409/",
+        "source_label": "PaintScratch 2000 Newmar",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "Midnight Pine Pearl",
+        "paint_code": "62432",
+        "slug": "midnight-pine-pearl-62432",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/midnight-pine-pearl-62432/",
+        "source_label": "PaintScratch 2000 Newmar",
+        "hex_value": "#162820"
+      },
+      {
+        "display_name": "Stratus Metallic",
+        "paint_code": "63043",
+        "slug": "stratus-metallic-63043",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/stratus-metallic-63043/",
+        "source_label": "PaintScratch 2000 Newmar",
+        "hex_value": "#D4D5CD"
+      }
+    ],
+    "2001": [
+      {
+        "display_name": "Anthracite (PPG 4897)",
+        "paint_code": "48977",
+        "slug": "anthracite-ppg-4897-48977",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/anthracite-ppg-4897-48977/",
+        "source_label": "PaintScratch 2001 Newmar",
+        "hex_value": "#615555"
+      },
+      {
+        "display_name": "Mojave Beige (PPG 5256)",
+        "paint_code": "54190",
+        "slug": "mojave-beige-ppg-5256-54190",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/mojave-beige-ppg-5256-54190/",
+        "source_label": "PaintScratch 2001 Newmar",
+        "hex_value": "#BDAD85"
+      },
+      {
+        "display_name": "Topaz Metallic (PPG 4898)",
+        "paint_code": "49701",
+        "slug": "topaz-metallic-ppg-4898-49701",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/topaz-metallic-ppg-4898-49701/",
+        "source_label": "PaintScratch 2001 Newmar",
+        "hex_value": "#74675B"
+      },
+      {
+        "display_name": "Black Gold Metallic (PPG 4967)",
+        "paint_code": "50288",
+        "slug": "black-gold-metallic-ppg-4967-50288",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/black-gold-metallic-ppg-4967-50288/",
+        "source_label": "PaintScratch 2001 Newmar",
+        "hex_value": "#181414"
+      },
+      {
+        "display_name": "Antelope Metallic (B9148K)",
+        "paint_code": "44429",
+        "slug": "antelope-metallic-b9148k-44429",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/antelope-metallic-b9148k-44429/",
+        "source_label": "PaintScratch 2001 Newmar",
+        "hex_value": "#E3DB85"
+      },
+      {
+        "display_name": "Lt Autumnwood (PPG 4817)",
+        "paint_code": "48507",
+        "slug": "lt-autumnwood-ppg-4817-48507",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/lt-autumnwood-ppg-4817-48507/",
+        "source_label": "PaintScratch 2001 Newmar",
+        "hex_value": "#E1DAC7"
+      },
+      {
+        "display_name": "Light Gold",
+        "paint_code": "51076",
+        "slug": "light-gold-51076",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/light-gold-51076/",
+        "source_label": "PaintScratch 2001 Newmar",
+        "hex_value": "#E3BD25"
+      },
+      {
+        "display_name": "Thunder Gray",
+        "paint_code": "49557",
+        "slug": "thunder-gray-49557",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/thunder-gray-49557/",
+        "source_label": "PaintScratch 2001 Newmar",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Coronado Sand Metallic (PPG 5041)",
+        "paint_code": "50503",
+        "slug": "coronado-sand-metallic-ppg-5041-50503",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/coronado-sand-metallic-ppg-5041-50503/",
+        "source_label": "PaintScratch 2001 Newmar",
+        "hex_value": "#96896A"
+      },
+      {
+        "display_name": "Light Driftwood (PPG 5011)",
+        "paint_code": "50736",
+        "slug": "light-driftwood-ppg-5011-50736",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/light-driftwood-ppg-5011-50736/",
+        "source_label": "PaintScratch 2001 Newmar",
+        "hex_value": "#DACBB0"
+      },
+      {
+        "display_name": "Med Suede",
+        "paint_code": "52976",
+        "slug": "med-suede-52976",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/med-suede-52976/",
+        "source_label": "PaintScratch 2001 Newmar",
+        "hex_value": "#BDA051"
+      },
+      {
+        "display_name": "Sand Metallic",
+        "paint_code": "53907",
+        "slug": "sand-metallic-53907",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/sand-metallic-53907/",
+        "source_label": "PaintScratch 2001 Newmar",
+        "hex_value": "#E5D6B3"
+      },
+      {
+        "display_name": "Cranberry Metallic",
+        "paint_code": "53908",
+        "slug": "cranberry-metallic-53908",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/cranberry-metallic-53908/",
+        "source_label": "PaintScratch 2001 Newmar",
+        "hex_value": "#8F2E27"
+      },
+      {
+        "display_name": "Silver",
+        "paint_code": "54898",
+        "slug": "silver-54898",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/silver-54898/",
+        "source_label": "PaintScratch 2001 Newmar",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Desert Sand Mica",
+        "paint_code": "60703",
+        "slug": "desert-sand-mica-60703",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/desert-sand-mica-60703/",
+        "source_label": "PaintScratch 2001 Newmar",
+        "hex_value": "#C7B599"
+      },
+      {
+        "display_name": "Rainforest Pearl",
+        "paint_code": "61872",
+        "slug": "rainforest-pearl-61872",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/rainforest-pearl-61872/",
+        "source_label": "PaintScratch 2001 Newmar",
+        "hex_value": "#588672"
+      }
+    ],
+    "2002": [
+      {
+        "display_name": "Anthracite (PPG 4897)",
+        "paint_code": "48977",
+        "slug": "anthracite-ppg-4897-48977",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/anthracite-ppg-4897-48977/",
+        "source_label": "PaintScratch 2002 Newmar",
+        "hex_value": "#615555"
+      },
+      {
+        "display_name": "Mojave Beige (PPG 5256)",
+        "paint_code": "54190",
+        "slug": "mojave-beige-ppg-5256-54190",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/mojave-beige-ppg-5256-54190/",
+        "source_label": "PaintScratch 2002 Newmar",
+        "hex_value": "#BDAD85"
+      },
+      {
+        "display_name": "Glory Gold (863600K)",
+        "paint_code": "703",
+        "slug": "glory-gold-863600k-703",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/glory-gold-863600k-703/",
+        "source_label": "PaintScratch 2002 Newmar",
+        "hex_value": "#938058"
+      },
+      {
+        "display_name": "Topaz Metallic (PPG 4898)",
+        "paint_code": "49701",
+        "slug": "topaz-metallic-ppg-4898-49701",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/topaz-metallic-ppg-4898-49701/",
+        "source_label": "PaintScratch 2002 Newmar",
+        "hex_value": "#74675B"
+      },
+      {
+        "display_name": "Black Gold Metallic (PPG 4967)",
+        "paint_code": "50288",
+        "slug": "black-gold-metallic-ppg-4967-50288",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/black-gold-metallic-ppg-4967-50288/",
+        "source_label": "PaintScratch 2002 Newmar",
+        "hex_value": "#181414"
+      },
+      {
+        "display_name": "Pebble Beige Metallic",
+        "paint_code": "38660",
+        "slug": "pebble-beige-metallic-38660",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/pebble-beige-metallic-38660/",
+        "source_label": "PaintScratch 2002 Newmar",
+        "hex_value": "#EBDF75"
+      },
+      {
+        "display_name": "Antelope Metallic (B9148K)",
+        "paint_code": "44429",
+        "slug": "antelope-metallic-b9148k-44429",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/antelope-metallic-b9148k-44429/",
+        "source_label": "PaintScratch 2002 Newmar",
+        "hex_value": "#E3DB85"
+      },
+      {
+        "display_name": "Lt Autumnwood (PPG 4817)",
+        "paint_code": "48507",
+        "slug": "lt-autumnwood-ppg-4817-48507",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/lt-autumnwood-ppg-4817-48507/",
+        "source_label": "PaintScratch 2002 Newmar",
+        "hex_value": "#E1DAC7"
+      },
+      {
+        "display_name": "Thunder Gray",
+        "paint_code": "49557",
+        "slug": "thunder-gray-49557",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/thunder-gray-49557/",
+        "source_label": "PaintScratch 2002 Newmar",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Coronado Sand Metallic (PPG 5041)",
+        "paint_code": "50503",
+        "slug": "coronado-sand-metallic-ppg-5041-50503",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/coronado-sand-metallic-ppg-5041-50503/",
+        "source_label": "PaintScratch 2002 Newmar",
+        "hex_value": "#96896A"
+      },
+      {
+        "display_name": "Light Driftwood (PPG 5011)",
+        "paint_code": "50736",
+        "slug": "light-driftwood-ppg-5011-50736",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/light-driftwood-ppg-5011-50736/",
+        "source_label": "PaintScratch 2002 Newmar",
+        "hex_value": "#DACBB0"
+      },
+      {
+        "display_name": "Med Suede",
+        "paint_code": "52976",
+        "slug": "med-suede-52976",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/med-suede-52976/",
+        "source_label": "PaintScratch 2002 Newmar",
+        "hex_value": "#BDA051"
+      },
+      {
+        "display_name": "Sand Metallic",
+        "paint_code": "53907",
+        "slug": "sand-metallic-53907",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/sand-metallic-53907/",
+        "source_label": "PaintScratch 2002 Newmar",
+        "hex_value": "#E5D6B3"
+      },
+      {
+        "display_name": "Cranberry Metallic",
+        "paint_code": "53908",
+        "slug": "cranberry-metallic-53908",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/cranberry-metallic-53908/",
+        "source_label": "PaintScratch 2002 Newmar",
+        "hex_value": "#8F2E27"
+      },
+      {
+        "display_name": "Silver",
+        "paint_code": "54898",
+        "slug": "silver-54898",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/silver-54898/",
+        "source_label": "PaintScratch 2002 Newmar",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Desert Sand Mica",
+        "paint_code": "60703",
+        "slug": "desert-sand-mica-60703",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/desert-sand-mica-60703/",
+        "source_label": "PaintScratch 2002 Newmar",
+        "hex_value": "#C7B599"
+      }
+    ],
+    "2003": [
+      {
+        "display_name": "Anthracite (PPG 4897)",
+        "paint_code": "48977",
+        "slug": "anthracite-ppg-4897-48977",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/anthracite-ppg-4897-48977/",
+        "source_label": "PaintScratch 2003 Newmar",
+        "hex_value": "#615555"
+      },
+      {
+        "display_name": "Mojave Beige (PPG 5256)",
+        "paint_code": "54190",
+        "slug": "mojave-beige-ppg-5256-54190",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/mojave-beige-ppg-5256-54190/",
+        "source_label": "PaintScratch 2003 Newmar",
+        "hex_value": "#BDAD85"
+      },
+      {
+        "display_name": "Topaz Metallic (PPG 4898)",
+        "paint_code": "49701",
+        "slug": "topaz-metallic-ppg-4898-49701",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/topaz-metallic-ppg-4898-49701/",
+        "source_label": "PaintScratch 2003 Newmar",
+        "hex_value": "#74675B"
+      },
+      {
+        "display_name": "Black Gold Metallic (PPG 4967)",
+        "paint_code": "50288",
+        "slug": "black-gold-metallic-ppg-4967-50288",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/black-gold-metallic-ppg-4967-50288/",
+        "source_label": "PaintScratch 2003 Newmar",
+        "hex_value": "#181414"
+      },
+      {
+        "display_name": "Pebble Beige Metallic",
+        "paint_code": "38660",
+        "slug": "pebble-beige-metallic-38660",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/pebble-beige-metallic-38660/",
+        "source_label": "PaintScratch 2003 Newmar",
+        "hex_value": "#EBDF75"
+      },
+      {
+        "display_name": "Lt Autumnwood (PPG 4817)",
+        "paint_code": "48507",
+        "slug": "lt-autumnwood-ppg-4817-48507",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/lt-autumnwood-ppg-4817-48507/",
+        "source_label": "PaintScratch 2003 Newmar",
+        "hex_value": "#E1DAC7"
+      },
+      {
+        "display_name": "Light Gold",
+        "paint_code": "51076",
+        "slug": "light-gold-51076",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/light-gold-51076/",
+        "source_label": "PaintScratch 2003 Newmar",
+        "hex_value": "#E3BD25"
+      },
+      {
+        "display_name": "Thunder Gray",
+        "paint_code": "49557",
+        "slug": "thunder-gray-49557",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/thunder-gray-49557/",
+        "source_label": "PaintScratch 2003 Newmar",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Light Pairie Tan",
+        "paint_code": "50228",
+        "slug": "light-pairie-tan-50228",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/light-pairie-tan-50228/",
+        "source_label": "PaintScratch 2003 Newmar",
+        "hex_value": "#D9D299"
+      },
+      {
+        "display_name": "Coronado Sand Metallic (PPG 5041)",
+        "paint_code": "50503",
+        "slug": "coronado-sand-metallic-ppg-5041-50503",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/coronado-sand-metallic-ppg-5041-50503/",
+        "source_label": "PaintScratch 2003 Newmar",
+        "hex_value": "#96896A"
+      },
+      {
+        "display_name": "Light Driftwood (PPG 5011)",
+        "paint_code": "50736",
+        "slug": "light-driftwood-ppg-5011-50736",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/light-driftwood-ppg-5011-50736/",
+        "source_label": "PaintScratch 2003 Newmar",
+        "hex_value": "#DACBB0"
+      },
+      {
+        "display_name": "Med Suede",
+        "paint_code": "52976",
+        "slug": "med-suede-52976",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/med-suede-52976/",
+        "source_label": "PaintScratch 2003 Newmar",
+        "hex_value": "#BDA051"
+      },
+      {
+        "display_name": "Sand Metallic",
+        "paint_code": "53907",
+        "slug": "sand-metallic-53907",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/sand-metallic-53907/",
+        "source_label": "PaintScratch 2003 Newmar",
+        "hex_value": "#E5D6B3"
+      },
+      {
+        "display_name": "Cranberry Metallic",
+        "paint_code": "53908",
+        "slug": "cranberry-metallic-53908",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/cranberry-metallic-53908/",
+        "source_label": "PaintScratch 2003 Newmar",
+        "hex_value": "#8F2E27"
+      },
+      {
+        "display_name": "Silver",
+        "paint_code": "54898",
+        "slug": "silver-54898",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/silver-54898/",
+        "source_label": "PaintScratch 2003 Newmar",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Desert Sand Mica",
+        "paint_code": "60703",
+        "slug": "desert-sand-mica-60703",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/desert-sand-mica-60703/",
+        "source_label": "PaintScratch 2003 Newmar",
+        "hex_value": "#C7B599"
+      }
+    ],
+    "2004": [
+      {
+        "display_name": "Anthracite (PPG 4897)",
+        "paint_code": "48977",
+        "slug": "anthracite-ppg-4897-48977",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/anthracite-ppg-4897-48977/",
+        "source_label": "PaintScratch 2004 Newmar",
+        "hex_value": "#615555"
+      },
+      {
+        "display_name": "Mojave Beige (PPG 5256)",
+        "paint_code": "54190",
+        "slug": "mojave-beige-ppg-5256-54190",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/mojave-beige-ppg-5256-54190/",
+        "source_label": "PaintScratch 2004 Newmar",
+        "hex_value": "#BDAD85"
+      },
+      {
+        "display_name": "Glory Gold (863600K)",
+        "paint_code": "703",
+        "slug": "glory-gold-863600k-703",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/glory-gold-863600k-703/",
+        "source_label": "PaintScratch 2004 Newmar",
+        "hex_value": "#938058"
+      },
+      {
+        "display_name": "Topaz Metallic (PPG 4898)",
+        "paint_code": "49701",
+        "slug": "topaz-metallic-ppg-4898-49701",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/topaz-metallic-ppg-4898-49701/",
+        "source_label": "PaintScratch 2004 Newmar",
+        "hex_value": "#74675B"
+      },
+      {
+        "display_name": "Black Gold Metallic (PPG 4967)",
+        "paint_code": "50288",
+        "slug": "black-gold-metallic-ppg-4967-50288",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/black-gold-metallic-ppg-4967-50288/",
+        "source_label": "PaintScratch 2004 Newmar",
+        "hex_value": "#181414"
+      },
+      {
+        "display_name": "Pebble Beige Metallic",
+        "paint_code": "38660",
+        "slug": "pebble-beige-metallic-38660",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/pebble-beige-metallic-38660/",
+        "source_label": "PaintScratch 2004 Newmar",
+        "hex_value": "#EBDF75"
+      },
+      {
+        "display_name": "Antelope Metallic (B9148K)",
+        "paint_code": "44429",
+        "slug": "antelope-metallic-b9148k-44429",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/antelope-metallic-b9148k-44429/",
+        "source_label": "PaintScratch 2004 Newmar",
+        "hex_value": "#E3DB85"
+      },
+      {
+        "display_name": "Galaxy Gold Metallic",
+        "paint_code": "62922",
+        "slug": "galaxy-gold-metallic-62922",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/galaxy-gold-metallic-62922/",
+        "source_label": "PaintScratch 2004 Newmar",
+        "hex_value": "#E3BD25"
+      },
+      {
+        "display_name": "Espresso (M9308K)",
+        "paint_code": "62930",
+        "slug": "espresso-m9308k-62930",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/espresso-m9308k-62930/",
+        "source_label": "PaintScratch 2004 Newmar",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Lt Autumnwood (PPG 4817)",
+        "paint_code": "48507",
+        "slug": "lt-autumnwood-ppg-4817-48507",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/lt-autumnwood-ppg-4817-48507/",
+        "source_label": "PaintScratch 2004 Newmar",
+        "hex_value": "#E1DAC7"
+      },
+      {
+        "display_name": "Light Gold",
+        "paint_code": "51076",
+        "slug": "light-gold-51076",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/light-gold-51076/",
+        "source_label": "PaintScratch 2004 Newmar",
+        "hex_value": "#E3BD25"
+      },
+      {
+        "display_name": "Light Pairie Tan",
+        "paint_code": "50228",
+        "slug": "light-pairie-tan-50228",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/light-pairie-tan-50228/",
+        "source_label": "PaintScratch 2004 Newmar",
+        "hex_value": "#D9D299"
+      },
+      {
+        "display_name": "Coronado Sand Metallic (PPG 5041)",
+        "paint_code": "50503",
+        "slug": "coronado-sand-metallic-ppg-5041-50503",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/coronado-sand-metallic-ppg-5041-50503/",
+        "source_label": "PaintScratch 2004 Newmar",
+        "hex_value": "#96896A"
+      },
+      {
+        "display_name": "Light Driftwood (PPG 5011)",
+        "paint_code": "50736",
+        "slug": "light-driftwood-ppg-5011-50736",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/light-driftwood-ppg-5011-50736/",
+        "source_label": "PaintScratch 2004 Newmar",
+        "hex_value": "#DACBB0"
+      },
+      {
+        "display_name": "Sapphire Blue Metallic",
+        "paint_code": "51424",
+        "slug": "sapphire-blue-metallic-51424",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/sapphire-blue-metallic-51424/",
+        "source_label": "PaintScratch 2004 Newmar",
+        "hex_value": "#0D2D97"
+      },
+      {
+        "display_name": "Med Suede",
+        "paint_code": "52976",
+        "slug": "med-suede-52976",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/med-suede-52976/",
+        "source_label": "PaintScratch 2004 Newmar",
+        "hex_value": "#BDA051"
+      }
+    ],
+    "2005": [
+      {
+        "display_name": "Anthracite (PPG 4897)",
+        "paint_code": "48977",
+        "slug": "anthracite-ppg-4897-48977",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/anthracite-ppg-4897-48977/",
+        "source_label": "PaintScratch 2005 Newmar",
+        "hex_value": "#615555"
+      },
+      {
+        "display_name": "Mojave Beige (PPG 5256)",
+        "paint_code": "54190",
+        "slug": "mojave-beige-ppg-5256-54190",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/mojave-beige-ppg-5256-54190/",
+        "source_label": "PaintScratch 2005 Newmar",
+        "hex_value": "#BDAD85"
+      },
+      {
+        "display_name": "Glory Gold (863600K)",
+        "paint_code": "703",
+        "slug": "glory-gold-863600k-703",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/glory-gold-863600k-703/",
+        "source_label": "PaintScratch 2005 Newmar",
+        "hex_value": "#938058"
+      },
+      {
+        "display_name": "Topaz Metallic (PPG 4898)",
+        "paint_code": "49701",
+        "slug": "topaz-metallic-ppg-4898-49701",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/topaz-metallic-ppg-4898-49701/",
+        "source_label": "PaintScratch 2005 Newmar",
+        "hex_value": "#74675B"
+      },
+      {
+        "display_name": "Black Gold Metallic (PPG 4967)",
+        "paint_code": "50288",
+        "slug": "black-gold-metallic-ppg-4967-50288",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/black-gold-metallic-ppg-4967-50288/",
+        "source_label": "PaintScratch 2005 Newmar",
+        "hex_value": "#181414"
+      },
+      {
+        "display_name": "Pebble Beige Metallic",
+        "paint_code": "38660",
+        "slug": "pebble-beige-metallic-38660",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/pebble-beige-metallic-38660/",
+        "source_label": "PaintScratch 2005 Newmar",
+        "hex_value": "#EBDF75"
+      },
+      {
+        "display_name": "Gold",
+        "paint_code": "54697",
+        "slug": "gold-54697",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/gold-54697/",
+        "source_label": "PaintScratch 2005 Newmar",
+        "hex_value": "#E3BD25"
+      },
+      {
+        "display_name": "Panama Brown Pearl",
+        "paint_code": "60751",
+        "slug": "panama-brown-pearl-60751",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/panama-brown-pearl-60751/",
+        "source_label": "PaintScratch 2005 Newmar",
+        "hex_value": "#985636"
+      },
+      {
+        "display_name": "Merlot Red (M8757K)",
+        "paint_code": "61881",
+        "slug": "merlot-red-m8757k-61881",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/merlot-red-m8757k-61881/",
+        "source_label": "PaintScratch 2005 Newmar",
+        "hex_value": "#662718"
+      },
+      {
+        "display_name": "Chestnut",
+        "paint_code": "62447",
+        "slug": "chestnut-62447",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/chestnut-62447/",
+        "source_label": "PaintScratch 2005 Newmar",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Galaxy Gold Metallic",
+        "paint_code": "62922",
+        "slug": "galaxy-gold-metallic-62922",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/galaxy-gold-metallic-62922/",
+        "source_label": "PaintScratch 2005 Newmar",
+        "hex_value": "#E3BD25"
+      },
+      {
+        "display_name": "Espresso (M9308K)",
+        "paint_code": "62930",
+        "slug": "espresso-m9308k-62930",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/espresso-m9308k-62930/",
+        "source_label": "PaintScratch 2005 Newmar",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Light Gold",
+        "paint_code": "51076",
+        "slug": "light-gold-51076",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/light-gold-51076/",
+        "source_label": "PaintScratch 2005 Newmar",
+        "hex_value": "#E3BD25"
+      },
+      {
+        "display_name": "Nimbus Gray",
+        "paint_code": "43597",
+        "slug": "nimbus-gray-43597",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/nimbus-gray-43597/",
+        "source_label": "PaintScratch 2005 Newmar",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Thunder Gray",
+        "paint_code": "49557",
+        "slug": "thunder-gray-49557",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/thunder-gray-49557/",
+        "source_label": "PaintScratch 2005 Newmar",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Light Pairie Tan",
+        "paint_code": "50228",
+        "slug": "light-pairie-tan-50228",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/light-pairie-tan-50228/",
+        "source_label": "PaintScratch 2005 Newmar",
+        "hex_value": "#D9D299"
+      }
+    ],
+    "2006": [
+      {
+        "display_name": "Anthracite (PPG 4897)",
+        "paint_code": "48977",
+        "slug": "anthracite-ppg-4897-48977",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/anthracite-ppg-4897-48977/",
+        "source_label": "PaintScratch 2006 Newmar",
+        "hex_value": "#615555"
+      },
+      {
+        "display_name": "Mojave Beige (PPG 5256)",
+        "paint_code": "54190",
+        "slug": "mojave-beige-ppg-5256-54190",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/mojave-beige-ppg-5256-54190/",
+        "source_label": "PaintScratch 2006 Newmar",
+        "hex_value": "#BDAD85"
+      },
+      {
+        "display_name": "Glory Gold (863600K)",
+        "paint_code": "703",
+        "slug": "glory-gold-863600k-703",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/glory-gold-863600k-703/",
+        "source_label": "PaintScratch 2006 Newmar",
+        "hex_value": "#938058"
+      },
+      {
+        "display_name": "Pearl Black",
+        "paint_code": "64443",
+        "slug": "pearl-black-64443",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/pearl-black-64443/",
+        "source_label": "PaintScratch 2006 Newmar",
+        "hex_value": "#0D0D0F"
+      },
+      {
+        "display_name": "Topaz Metallic (PPG 4898)",
+        "paint_code": "49701",
+        "slug": "topaz-metallic-ppg-4898-49701",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/topaz-metallic-ppg-4898-49701/",
+        "source_label": "PaintScratch 2006 Newmar",
+        "hex_value": "#74675B"
+      },
+      {
+        "display_name": "Black Gold Metallic (PPG 4967)",
+        "paint_code": "50288",
+        "slug": "black-gold-metallic-ppg-4967-50288",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/black-gold-metallic-ppg-4967-50288/",
+        "source_label": "PaintScratch 2006 Newmar",
+        "hex_value": "#181414"
+      },
+      {
+        "display_name": "Pebble Beige Metallic",
+        "paint_code": "38660",
+        "slug": "pebble-beige-metallic-38660",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/pebble-beige-metallic-38660/",
+        "source_label": "PaintScratch 2006 Newmar",
+        "hex_value": "#EBDF75"
+      },
+      {
+        "display_name": "Gold",
+        "paint_code": "54697",
+        "slug": "gold-54697",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/gold-54697/",
+        "source_label": "PaintScratch 2006 Newmar",
+        "hex_value": "#E3BD25"
+      },
+      {
+        "display_name": "Galaxy Gold Metallic",
+        "paint_code": "62922",
+        "slug": "galaxy-gold-metallic-62922",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/galaxy-gold-metallic-62922/",
+        "source_label": "PaintScratch 2006 Newmar",
+        "hex_value": "#E3BD25"
+      },
+      {
+        "display_name": "Espresso (M9308K)",
+        "paint_code": "62930",
+        "slug": "espresso-m9308k-62930",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/espresso-m9308k-62930/",
+        "source_label": "PaintScratch 2006 Newmar",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Pewter",
+        "paint_code": "63227",
+        "slug": "pewter-63227",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/pewter-63227/",
+        "source_label": "PaintScratch 2006 Newmar",
+        "hex_value": "#404040"
+      },
+      {
+        "display_name": "Thunder Gray",
+        "paint_code": "49557",
+        "slug": "thunder-gray-49557",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/thunder-gray-49557/",
+        "source_label": "PaintScratch 2006 Newmar",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Light Pairie Tan",
+        "paint_code": "50228",
+        "slug": "light-pairie-tan-50228",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/light-pairie-tan-50228/",
+        "source_label": "PaintScratch 2006 Newmar",
+        "hex_value": "#D9D299"
+      },
+      {
+        "display_name": "Coronado Sand Metallic (PPG 5041)",
+        "paint_code": "50503",
+        "slug": "coronado-sand-metallic-ppg-5041-50503",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/coronado-sand-metallic-ppg-5041-50503/",
+        "source_label": "PaintScratch 2006 Newmar",
+        "hex_value": "#96896A"
+      },
+      {
+        "display_name": "Light Driftwood (PPG 5011)",
+        "paint_code": "50736",
+        "slug": "light-driftwood-ppg-5011-50736",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/light-driftwood-ppg-5011-50736/",
+        "source_label": "PaintScratch 2006 Newmar",
+        "hex_value": "#DACBB0"
+      },
+      {
+        "display_name": "Med Suede",
+        "paint_code": "52976",
+        "slug": "med-suede-52976",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/med-suede-52976/",
+        "source_label": "PaintScratch 2006 Newmar",
+        "hex_value": "#BDA051"
+      }
+    ],
+    "2007": [
+      {
+        "display_name": "Mojave Beige (PPG 5256)",
+        "paint_code": "54190",
+        "slug": "mojave-beige-ppg-5256-54190",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/mojave-beige-ppg-5256-54190/",
+        "source_label": "PaintScratch 2007 Newmar",
+        "hex_value": "#BDAD85"
+      },
+      {
+        "display_name": "Glory Gold (863600K)",
+        "paint_code": "703",
+        "slug": "glory-gold-863600k-703",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/glory-gold-863600k-703/",
+        "source_label": "PaintScratch 2007 Newmar",
+        "hex_value": "#938058"
+      },
+      {
+        "display_name": "Pearl Black",
+        "paint_code": "64443",
+        "slug": "pearl-black-64443",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/pearl-black-64443/",
+        "source_label": "PaintScratch 2007 Newmar",
+        "hex_value": "#0D0D0F"
+      },
+      {
+        "display_name": "Topaz Metallic (PPG 4898)",
+        "paint_code": "49701",
+        "slug": "topaz-metallic-ppg-4898-49701",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/topaz-metallic-ppg-4898-49701/",
+        "source_label": "PaintScratch 2007 Newmar",
+        "hex_value": "#74675B"
+      },
+      {
+        "display_name": "Black Gold Metallic (PPG 4967)",
+        "paint_code": "50288",
+        "slug": "black-gold-metallic-ppg-4967-50288",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/black-gold-metallic-ppg-4967-50288/",
+        "source_label": "PaintScratch 2007 Newmar",
+        "hex_value": "#181414"
+      },
+      {
+        "display_name": "Gold",
+        "paint_code": "54697",
+        "slug": "gold-54697",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/gold-54697/",
+        "source_label": "PaintScratch 2007 Newmar",
+        "hex_value": "#E3BD25"
+      },
+      {
+        "display_name": "Panama Brown Pearl",
+        "paint_code": "60751",
+        "slug": "panama-brown-pearl-60751",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/panama-brown-pearl-60751/",
+        "source_label": "PaintScratch 2007 Newmar",
+        "hex_value": "#985636"
+      },
+      {
+        "display_name": "Chestnut",
+        "paint_code": "62447",
+        "slug": "chestnut-62447",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/chestnut-62447/",
+        "source_label": "PaintScratch 2007 Newmar",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Galaxy Gold Metallic",
+        "paint_code": "62922",
+        "slug": "galaxy-gold-metallic-62922",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/galaxy-gold-metallic-62922/",
+        "source_label": "PaintScratch 2007 Newmar",
+        "hex_value": "#E3BD25"
+      },
+      {
+        "display_name": "Espresso (M9308K)",
+        "paint_code": "62930",
+        "slug": "espresso-m9308k-62930",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/espresso-m9308k-62930/",
+        "source_label": "PaintScratch 2007 Newmar",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Pepper White",
+        "paint_code": "64546",
+        "slug": "pepper-white-64546",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/pepper-white-64546/",
+        "source_label": "PaintScratch 2007 Newmar",
+        "hex_value": "#F6F6F0"
+      },
+      {
+        "display_name": "Sandhill",
+        "paint_code": "60452",
+        "slug": "sandhill-60452",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/sandhill-60452/",
+        "source_label": "PaintScratch 2007 Newmar",
+        "hex_value": "#985636"
+      },
+      {
+        "display_name": "Silver (PPG 5763)",
+        "paint_code": "62431",
+        "slug": "silver-ppg-5763-62431",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/silver-ppg-5763-62431/",
+        "source_label": "PaintScratch 2007 Newmar",
+        "hex_value": "#E8E7E2"
+      },
+      {
+        "display_name": "Pewter",
+        "paint_code": "63227",
+        "slug": "pewter-63227",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/pewter-63227/",
+        "source_label": "PaintScratch 2007 Newmar",
+        "hex_value": "#404040"
+      },
+      {
+        "display_name": "Light Pairie Tan",
+        "paint_code": "50228",
+        "slug": "light-pairie-tan-50228",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/light-pairie-tan-50228/",
+        "source_label": "PaintScratch 2007 Newmar",
+        "hex_value": "#D9D299"
+      },
+      {
+        "display_name": "Coronado Sand Metallic (PPG 5041)",
+        "paint_code": "50503",
+        "slug": "coronado-sand-metallic-ppg-5041-50503",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/coronado-sand-metallic-ppg-5041-50503/",
+        "source_label": "PaintScratch 2007 Newmar",
+        "hex_value": "#96896A"
+      }
+    ],
+    "2008": [
+      {
+        "display_name": "Anthracite (PPG 4897)",
+        "paint_code": "48977",
+        "slug": "anthracite-ppg-4897-48977",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/anthracite-ppg-4897-48977/",
+        "source_label": "PaintScratch 2008 Newmar",
+        "hex_value": "#615555"
+      },
+      {
+        "display_name": "Mojave Beige (PPG 5256)",
+        "paint_code": "54190",
+        "slug": "mojave-beige-ppg-5256-54190",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/mojave-beige-ppg-5256-54190/",
+        "source_label": "PaintScratch 2008 Newmar",
+        "hex_value": "#BDAD85"
+      },
+      {
+        "display_name": "Glory Gold (863600K)",
+        "paint_code": "703",
+        "slug": "glory-gold-863600k-703",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/glory-gold-863600k-703/",
+        "source_label": "PaintScratch 2008 Newmar",
+        "hex_value": "#938058"
+      },
+      {
+        "display_name": "Pearl Black",
+        "paint_code": "64443",
+        "slug": "pearl-black-64443",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/pearl-black-64443/",
+        "source_label": "PaintScratch 2008 Newmar",
+        "hex_value": "#0D0D0F"
+      },
+      {
+        "display_name": "Black Gold Metallic (PPG 4967)",
+        "paint_code": "50288",
+        "slug": "black-gold-metallic-ppg-4967-50288",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/black-gold-metallic-ppg-4967-50288/",
+        "source_label": "PaintScratch 2008 Newmar",
+        "hex_value": "#181414"
+      },
+      {
+        "display_name": "Antelope Metallic (B9148K)",
+        "paint_code": "44429",
+        "slug": "antelope-metallic-b9148k-44429",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/antelope-metallic-b9148k-44429/",
+        "source_label": "PaintScratch 2008 Newmar",
+        "hex_value": "#E3DB85"
+      },
+      {
+        "display_name": "Gold",
+        "paint_code": "54697",
+        "slug": "gold-54697",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/gold-54697/",
+        "source_label": "PaintScratch 2008 Newmar",
+        "hex_value": "#E3BD25"
+      },
+      {
+        "display_name": "Merlot Red (M8757K)",
+        "paint_code": "61881",
+        "slug": "merlot-red-m8757k-61881",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/merlot-red-m8757k-61881/",
+        "source_label": "PaintScratch 2008 Newmar",
+        "hex_value": "#662718"
+      },
+      {
+        "display_name": "Chestnut",
+        "paint_code": "62447",
+        "slug": "chestnut-62447",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/chestnut-62447/",
+        "source_label": "PaintScratch 2008 Newmar",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Galaxy Gold Metallic",
+        "paint_code": "62922",
+        "slug": "galaxy-gold-metallic-62922",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/galaxy-gold-metallic-62922/",
+        "source_label": "PaintScratch 2008 Newmar",
+        "hex_value": "#E3BD25"
+      },
+      {
+        "display_name": "Espresso (M9308K)",
+        "paint_code": "62930",
+        "slug": "espresso-m9308k-62930",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/espresso-m9308k-62930/",
+        "source_label": "PaintScratch 2008 Newmar",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Pepper White",
+        "paint_code": "64546",
+        "slug": "pepper-white-64546",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/pepper-white-64546/",
+        "source_label": "PaintScratch 2008 Newmar",
+        "hex_value": "#F6F6F0"
+      },
+      {
+        "display_name": "Cajun Spice Obsidian",
+        "paint_code": "56680",
+        "slug": "cajun-spice-obsidian-56680",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/cajun-spice-obsidian-56680/",
+        "source_label": "PaintScratch 2008 Newmar",
+        "hex_value": "#4A1A16"
+      },
+      {
+        "display_name": "Silver (PPG 5763)",
+        "paint_code": "62431",
+        "slug": "silver-ppg-5763-62431",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/silver-ppg-5763-62431/",
+        "source_label": "PaintScratch 2008 Newmar",
+        "hex_value": "#E8E7E2"
+      },
+      {
+        "display_name": "Dark Grey Metallic",
+        "paint_code": "20562A",
+        "slug": "dark-grey-metallic-20562a",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/dark-grey-metallic-20562a/",
+        "source_label": "PaintScratch 2008 Newmar",
+        "hex_value": "#404040"
+      },
+      {
+        "display_name": "Thunder Gray",
+        "paint_code": "49557",
+        "slug": "thunder-gray-49557",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/thunder-gray-49557/",
+        "source_label": "PaintScratch 2008 Newmar",
+        "hex_value": "#808080"
+      }
+    ],
+    "2009": [
+      {
+        "display_name": "Mojave Beige (PPG 5256)",
+        "paint_code": "54190",
+        "slug": "mojave-beige-ppg-5256-54190",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/mojave-beige-ppg-5256-54190/",
+        "source_label": "PaintScratch 2009 Newmar",
+        "hex_value": "#BDAD85"
+      },
+      {
+        "display_name": "Glory Gold (863600K)",
+        "paint_code": "703",
+        "slug": "glory-gold-863600k-703",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/glory-gold-863600k-703/",
+        "source_label": "PaintScratch 2009 Newmar",
+        "hex_value": "#938058"
+      },
+      {
+        "display_name": "Pearl Black",
+        "paint_code": "64443",
+        "slug": "pearl-black-64443",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/pearl-black-64443/",
+        "source_label": "PaintScratch 2009 Newmar",
+        "hex_value": "#0D0D0F"
+      },
+      {
+        "display_name": "Black Gold Metallic (PPG 4967)",
+        "paint_code": "50288",
+        "slug": "black-gold-metallic-ppg-4967-50288",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/black-gold-metallic-ppg-4967-50288/",
+        "source_label": "PaintScratch 2009 Newmar",
+        "hex_value": "#181414"
+      },
+      {
+        "display_name": "Antelope Metallic (B9148K)",
+        "paint_code": "44429",
+        "slug": "antelope-metallic-b9148k-44429",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/antelope-metallic-b9148k-44429/",
+        "source_label": "PaintScratch 2009 Newmar",
+        "hex_value": "#E3DB85"
+      },
+      {
+        "display_name": "Gold",
+        "paint_code": "54697",
+        "slug": "gold-54697",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/gold-54697/",
+        "source_label": "PaintScratch 2009 Newmar",
+        "hex_value": "#E3BD25"
+      },
+      {
+        "display_name": "Merlot Red (M8757K)",
+        "paint_code": "61881",
+        "slug": "merlot-red-m8757k-61881",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/merlot-red-m8757k-61881/",
+        "source_label": "PaintScratch 2009 Newmar",
+        "hex_value": "#662718"
+      },
+      {
+        "display_name": "Chestnut",
+        "paint_code": "62447",
+        "slug": "chestnut-62447",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/chestnut-62447/",
+        "source_label": "PaintScratch 2009 Newmar",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Galaxy Gold Metallic",
+        "paint_code": "62922",
+        "slug": "galaxy-gold-metallic-62922",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/galaxy-gold-metallic-62922/",
+        "source_label": "PaintScratch 2009 Newmar",
+        "hex_value": "#E3BD25"
+      },
+      {
+        "display_name": "Espresso (M9308K)",
+        "paint_code": "62930",
+        "slug": "espresso-m9308k-62930",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/espresso-m9308k-62930/",
+        "source_label": "PaintScratch 2009 Newmar",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Pepper White",
+        "paint_code": "64546",
+        "slug": "pepper-white-64546",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/pepper-white-64546/",
+        "source_label": "PaintScratch 2009 Newmar",
+        "hex_value": "#F6F6F0"
+      },
+      {
+        "display_name": "Coronado Sand Metallic (PPG 5041)",
+        "paint_code": "50503",
+        "slug": "coronado-sand-metallic-ppg-5041-50503",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/coronado-sand-metallic-ppg-5041-50503/",
+        "source_label": "PaintScratch 2009 Newmar",
+        "hex_value": "#96896A"
+      },
+      {
+        "display_name": "Beige Metallic",
+        "paint_code": "53170C",
+        "slug": "beige-metallic-53170c",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/beige-metallic-53170c/",
+        "source_label": "PaintScratch 2009 Newmar",
+        "hex_value": "#C57E3F"
+      },
+      {
+        "display_name": "Dark Fawn Metallic",
+        "paint_code": "57714",
+        "slug": "dark-fawn-metallic-57714",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/dark-fawn-metallic-57714/",
+        "source_label": "PaintScratch 2009 Newmar",
+        "hex_value": "#373031"
+      },
+      {
+        "display_name": "Desert Sand Mica",
+        "paint_code": "60703",
+        "slug": "desert-sand-mica-60703",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/desert-sand-mica-60703/",
+        "source_label": "PaintScratch 2009 Newmar",
+        "hex_value": "#C7B599"
+      },
+      {
+        "display_name": "Rainforest Pearl",
+        "paint_code": "61872",
+        "slug": "rainforest-pearl-61872",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/rainforest-pearl-61872/",
+        "source_label": "PaintScratch 2009 Newmar",
+        "hex_value": "#588672"
+      }
+    ],
+    "2010": [
+      {
+        "display_name": "Mojave Beige (PPG 5256)",
+        "paint_code": "54190",
+        "slug": "mojave-beige-ppg-5256-54190",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/mojave-beige-ppg-5256-54190/",
+        "source_label": "PaintScratch 2010 Newmar",
+        "hex_value": "#BDAD85"
+      },
+      {
+        "display_name": "Pearl Black",
+        "paint_code": "64443",
+        "slug": "pearl-black-64443",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/pearl-black-64443/",
+        "source_label": "PaintScratch 2010 Newmar",
+        "hex_value": "#0D0D0F"
+      },
+      {
+        "display_name": "Black Gold Metallic (PPG 4967)",
+        "paint_code": "50288",
+        "slug": "black-gold-metallic-ppg-4967-50288",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/black-gold-metallic-ppg-4967-50288/",
+        "source_label": "PaintScratch 2010 Newmar",
+        "hex_value": "#181414"
+      },
+      {
+        "display_name": "Antelope Metallic (B9148K)",
+        "paint_code": "44429",
+        "slug": "antelope-metallic-b9148k-44429",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/antelope-metallic-b9148k-44429/",
+        "source_label": "PaintScratch 2010 Newmar",
+        "hex_value": "#E3DB85"
+      },
+      {
+        "display_name": "Merlot Red (M8757K)",
+        "paint_code": "61881",
+        "slug": "merlot-red-m8757k-61881",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/merlot-red-m8757k-61881/",
+        "source_label": "PaintScratch 2010 Newmar",
+        "hex_value": "#662718"
+      },
+      {
+        "display_name": "Galaxy Gold Metallic",
+        "paint_code": "62922",
+        "slug": "galaxy-gold-metallic-62922",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/galaxy-gold-metallic-62922/",
+        "source_label": "PaintScratch 2010 Newmar",
+        "hex_value": "#E3BD25"
+      },
+      {
+        "display_name": "Espresso (M9308K)",
+        "paint_code": "62930",
+        "slug": "espresso-m9308k-62930",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/espresso-m9308k-62930/",
+        "source_label": "PaintScratch 2010 Newmar",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Pepper White",
+        "paint_code": "64546",
+        "slug": "pepper-white-64546",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/pepper-white-64546/",
+        "source_label": "PaintScratch 2010 Newmar",
+        "hex_value": "#F6F6F0"
+      },
+      {
+        "display_name": "Coronado Sand Metallic (PPG 5041)",
+        "paint_code": "50503",
+        "slug": "coronado-sand-metallic-ppg-5041-50503",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/coronado-sand-metallic-ppg-5041-50503/",
+        "source_label": "PaintScratch 2010 Newmar",
+        "hex_value": "#96896A"
+      },
+      {
+        "display_name": "Beige Metallic",
+        "paint_code": "53170C",
+        "slug": "beige-metallic-53170c",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/beige-metallic-53170c/",
+        "source_label": "PaintScratch 2010 Newmar",
+        "hex_value": "#C57E3F"
+      },
+      {
+        "display_name": "Dark Fawn Metallic",
+        "paint_code": "57714",
+        "slug": "dark-fawn-metallic-57714",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/dark-fawn-metallic-57714/",
+        "source_label": "PaintScratch 2010 Newmar",
+        "hex_value": "#373031"
+      },
+      {
+        "display_name": "Desert Sand Mica",
+        "paint_code": "60703",
+        "slug": "desert-sand-mica-60703",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/desert-sand-mica-60703/",
+        "source_label": "PaintScratch 2010 Newmar",
+        "hex_value": "#C7B599"
+      },
+      {
+        "display_name": "Rainforest Pearl",
+        "paint_code": "61872",
+        "slug": "rainforest-pearl-61872",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/rainforest-pearl-61872/",
+        "source_label": "PaintScratch 2010 Newmar",
+        "hex_value": "#588672"
+      },
+      {
+        "display_name": "Roman Bronze Metallic",
+        "paint_code": "63034",
+        "slug": "roman-bronze-metallic-63034",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/roman-bronze-metallic-63034/",
+        "source_label": "PaintScratch 2010 Newmar",
+        "hex_value": "#985636"
+      },
+      {
+        "display_name": "Kalahari Beige Metallic",
+        "paint_code": "64503",
+        "slug": "kalahari-beige-metallic-64503",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/kalahari-beige-metallic-64503/",
+        "source_label": "PaintScratch 2010 Newmar",
+        "hex_value": "#EBE7CF"
+      },
+      {
+        "display_name": "Midnight Pine Pearl",
+        "paint_code": "62432",
+        "slug": "midnight-pine-pearl-62432",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/midnight-pine-pearl-62432/",
+        "source_label": "PaintScratch 2010 Newmar",
+        "hex_value": "#162820"
+      }
+    ],
+    "2011": [
+      {
+        "display_name": "Mojave Beige (PPG 5256)",
+        "paint_code": "54190",
+        "slug": "mojave-beige-ppg-5256-54190",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/mojave-beige-ppg-5256-54190/",
+        "source_label": "PaintScratch 2011 Newmar",
+        "hex_value": "#BDAD85"
+      },
+      {
+        "display_name": "Glory Gold (863600K)",
+        "paint_code": "703",
+        "slug": "glory-gold-863600k-703",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/glory-gold-863600k-703/",
+        "source_label": "PaintScratch 2011 Newmar",
+        "hex_value": "#938058"
+      },
+      {
+        "display_name": "Black Gold Metallic (PPG 4967)",
+        "paint_code": "50288",
+        "slug": "black-gold-metallic-ppg-4967-50288",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/black-gold-metallic-ppg-4967-50288/",
+        "source_label": "PaintScratch 2011 Newmar",
+        "hex_value": "#181414"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "62310",
+        "slug": "black-62310",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/black-62310/",
+        "source_label": "PaintScratch 2011 Newmar",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Antelope Metallic (B9148K)",
+        "paint_code": "44429",
+        "slug": "antelope-metallic-b9148k-44429",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/antelope-metallic-b9148k-44429/",
+        "source_label": "PaintScratch 2011 Newmar",
+        "hex_value": "#E3DB85"
+      },
+      {
+        "display_name": "Gold",
+        "paint_code": "54697",
+        "slug": "gold-54697",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/gold-54697/",
+        "source_label": "PaintScratch 2011 Newmar",
+        "hex_value": "#E3BD25"
+      },
+      {
+        "display_name": "Panama Brown Pearl",
+        "paint_code": "60751",
+        "slug": "panama-brown-pearl-60751",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/panama-brown-pearl-60751/",
+        "source_label": "PaintScratch 2011 Newmar",
+        "hex_value": "#985636"
+      },
+      {
+        "display_name": "Chestnut",
+        "paint_code": "62447",
+        "slug": "chestnut-62447",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/chestnut-62447/",
+        "source_label": "PaintScratch 2011 Newmar",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Sandhill",
+        "paint_code": "60452",
+        "slug": "sandhill-60452",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/sandhill-60452/",
+        "source_label": "PaintScratch 2011 Newmar",
+        "hex_value": "#985636"
+      },
+      {
+        "display_name": "Coronado Sand Metallic (PPG 5041)",
+        "paint_code": "50503",
+        "slug": "coronado-sand-metallic-ppg-5041-50503",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/coronado-sand-metallic-ppg-5041-50503/",
+        "source_label": "PaintScratch 2011 Newmar",
+        "hex_value": "#96896A"
+      },
+      {
+        "display_name": "Desert Sand Mica",
+        "paint_code": "60703",
+        "slug": "desert-sand-mica-60703",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/desert-sand-mica-60703/",
+        "source_label": "PaintScratch 2011 Newmar",
+        "hex_value": "#C7B599"
+      },
+      {
+        "display_name": "Rainforest Pearl",
+        "paint_code": "61872",
+        "slug": "rainforest-pearl-61872",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/rainforest-pearl-61872/",
+        "source_label": "PaintScratch 2011 Newmar",
+        "hex_value": "#588672"
+      },
+      {
+        "display_name": "Kalahari Beige Metallic",
+        "paint_code": "64503",
+        "slug": "kalahari-beige-metallic-64503",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/kalahari-beige-metallic-64503/",
+        "source_label": "PaintScratch 2011 Newmar",
+        "hex_value": "#EBE7CF"
+      },
+      {
+        "display_name": "Midnight Pine Pearl",
+        "paint_code": "62432",
+        "slug": "midnight-pine-pearl-62432",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/midnight-pine-pearl-62432/",
+        "source_label": "PaintScratch 2011 Newmar",
+        "hex_value": "#162820"
+      },
+      {
+        "display_name": "Stratus Metallic",
+        "paint_code": "63043",
+        "slug": "stratus-metallic-63043",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/stratus-metallic-63043/",
+        "source_label": "PaintScratch 2011 Newmar",
+        "hex_value": "#D4D5CD"
+      },
+      {
+        "display_name": "Cognac Brown Mica",
+        "paint_code": "PPG 5713",
+        "slug": "cognac-brown-mica-ppg-5713",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/cognac-brown-mica-ppg-5713/",
+        "source_label": "PaintScratch 2011 Newmar",
+        "hex_value": "#985636"
+      }
+    ],
+    "2012": [
+      {
+        "display_name": "Mojave Beige (PPG 5256)",
+        "paint_code": "54190",
+        "slug": "mojave-beige-ppg-5256-54190",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/mojave-beige-ppg-5256-54190/",
+        "source_label": "PaintScratch 2012 Newmar",
+        "hex_value": "#BDAD85"
+      },
+      {
+        "display_name": "Black Gold Metallic (PPG 4967)",
+        "paint_code": "50288",
+        "slug": "black-gold-metallic-ppg-4967-50288",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/black-gold-metallic-ppg-4967-50288/",
+        "source_label": "PaintScratch 2012 Newmar",
+        "hex_value": "#181414"
+      },
+      {
+        "display_name": "Antelope Metallic (B9148K)",
+        "paint_code": "44429",
+        "slug": "antelope-metallic-b9148k-44429",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/antelope-metallic-b9148k-44429/",
+        "source_label": "PaintScratch 2012 Newmar",
+        "hex_value": "#E3DB85"
+      },
+      {
+        "display_name": "Chestnut",
+        "paint_code": "62447",
+        "slug": "chestnut-62447",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/chestnut-62447/",
+        "source_label": "PaintScratch 2012 Newmar",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Thunder Gray",
+        "paint_code": "49557",
+        "slug": "thunder-gray-49557",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/thunder-gray-49557/",
+        "source_label": "PaintScratch 2012 Newmar",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Coronado Sand Metallic (PPG 5041)",
+        "paint_code": "50503",
+        "slug": "coronado-sand-metallic-ppg-5041-50503",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/coronado-sand-metallic-ppg-5041-50503/",
+        "source_label": "PaintScratch 2012 Newmar",
+        "hex_value": "#96896A"
+      },
+      {
+        "display_name": "Bright Silver",
+        "paint_code": "58829",
+        "slug": "bright-silver-58829",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/bright-silver-58829/",
+        "source_label": "PaintScratch 2012 Newmar",
+        "hex_value": "#E8E7E2"
+      },
+      {
+        "display_name": "Desert Sand Mica",
+        "paint_code": "60703",
+        "slug": "desert-sand-mica-60703",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/desert-sand-mica-60703/",
+        "source_label": "PaintScratch 2012 Newmar",
+        "hex_value": "#C7B599"
+      },
+      {
+        "display_name": "Rainforest Pearl",
+        "paint_code": "61872",
+        "slug": "rainforest-pearl-61872",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/rainforest-pearl-61872/",
+        "source_label": "PaintScratch 2012 Newmar",
+        "hex_value": "#588672"
+      },
+      {
+        "display_name": "Kalahari Beige Metallic",
+        "paint_code": "64503",
+        "slug": "kalahari-beige-metallic-64503",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/kalahari-beige-metallic-64503/",
+        "source_label": "PaintScratch 2012 Newmar",
+        "hex_value": "#EBE7CF"
+      },
+      {
+        "display_name": "Midnight Pine Pearl",
+        "paint_code": "62432",
+        "slug": "midnight-pine-pearl-62432",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/midnight-pine-pearl-62432/",
+        "source_label": "PaintScratch 2012 Newmar",
+        "hex_value": "#162820"
+      },
+      {
+        "display_name": "Stratus Metallic",
+        "paint_code": "63043",
+        "slug": "stratus-metallic-63043",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/stratus-metallic-63043/",
+        "source_label": "PaintScratch 2012 Newmar",
+        "hex_value": "#D4D5CD"
+      },
+      {
+        "display_name": "Brown Bronze",
+        "paint_code": "M4318K",
+        "slug": "brown-bronze-m4318k",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/brown-bronze-m4318k/",
+        "source_label": "PaintScratch 2012 Newmar",
+        "hex_value": "#C57E3F"
+      },
+      {
+        "display_name": "Labrador Black",
+        "paint_code": "M6936K",
+        "slug": "labrador-black-m6936k",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/labrador-black-m6936k/",
+        "source_label": "PaintScratch 2012 Newmar",
+        "hex_value": "#000000"
+      }
+    ],
+    "2013": [
+      {
+        "display_name": "Mojave Beige (PPG 5256)",
+        "paint_code": "54190",
+        "slug": "mojave-beige-ppg-5256-54190",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/mojave-beige-ppg-5256-54190/",
+        "source_label": "PaintScratch 2013 Newmar",
+        "hex_value": "#BDAD85"
+      },
+      {
+        "display_name": "Black Gold Metallic (PPG 4967)",
+        "paint_code": "50288",
+        "slug": "black-gold-metallic-ppg-4967-50288",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/black-gold-metallic-ppg-4967-50288/",
+        "source_label": "PaintScratch 2013 Newmar",
+        "hex_value": "#181414"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "62310",
+        "slug": "black-62310",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/black-62310/",
+        "source_label": "PaintScratch 2013 Newmar",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Antelope Metallic (B9148K)",
+        "paint_code": "44429",
+        "slug": "antelope-metallic-b9148k-44429",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/antelope-metallic-b9148k-44429/",
+        "source_label": "PaintScratch 2013 Newmar",
+        "hex_value": "#E3DB85"
+      },
+      {
+        "display_name": "Merlot Red (M8757K)",
+        "paint_code": "61881",
+        "slug": "merlot-red-m8757k-61881",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/merlot-red-m8757k-61881/",
+        "source_label": "PaintScratch 2013 Newmar",
+        "hex_value": "#662718"
+      },
+      {
+        "display_name": "Chestnut",
+        "paint_code": "62447",
+        "slug": "chestnut-62447",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/chestnut-62447/",
+        "source_label": "PaintScratch 2013 Newmar",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Cajun Spice Obsidian",
+        "paint_code": "56680",
+        "slug": "cajun-spice-obsidian-56680",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/cajun-spice-obsidian-56680/",
+        "source_label": "PaintScratch 2013 Newmar",
+        "hex_value": "#4A1A16"
+      },
+      {
+        "display_name": "Sandhill",
+        "paint_code": "60452",
+        "slug": "sandhill-60452",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/sandhill-60452/",
+        "source_label": "PaintScratch 2013 Newmar",
+        "hex_value": "#985636"
+      },
+      {
+        "display_name": "Coronado Sand Metallic (PPG 5041)",
+        "paint_code": "50503",
+        "slug": "coronado-sand-metallic-ppg-5041-50503",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/coronado-sand-metallic-ppg-5041-50503/",
+        "source_label": "PaintScratch 2013 Newmar",
+        "hex_value": "#96896A"
+      },
+      {
+        "display_name": "Desert Sand Mica",
+        "paint_code": "60703",
+        "slug": "desert-sand-mica-60703",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/desert-sand-mica-60703/",
+        "source_label": "PaintScratch 2013 Newmar",
+        "hex_value": "#C7B599"
+      },
+      {
+        "display_name": "Rainforest Pearl",
+        "paint_code": "61872",
+        "slug": "rainforest-pearl-61872",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/rainforest-pearl-61872/",
+        "source_label": "PaintScratch 2013 Newmar",
+        "hex_value": "#588672"
+      },
+      {
+        "display_name": "Dark Purple",
+        "paint_code": "62976",
+        "slug": "dark-purple-62976",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/dark-purple-62976/",
+        "source_label": "PaintScratch 2013 Newmar",
+        "hex_value": "#310D1A"
+      },
+      {
+        "display_name": "Kalahari Beige Metallic",
+        "paint_code": "64503",
+        "slug": "kalahari-beige-metallic-64503",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/kalahari-beige-metallic-64503/",
+        "source_label": "PaintScratch 2013 Newmar",
+        "hex_value": "#EBE7CF"
+      },
+      {
+        "display_name": "Sovereign",
+        "paint_code": "64548",
+        "slug": "sovereign-64548",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/sovereign-64548/",
+        "source_label": "PaintScratch 2013 Newmar",
+        "hex_value": "#E7DFC5"
+      },
+      {
+        "display_name": "Westminster Blue",
+        "paint_code": "60543",
+        "slug": "westminster-blue-60543",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/westminster-blue-60543/",
+        "source_label": "PaintScratch 2013 Newmar",
+        "hex_value": "#495EA3"
+      },
+      {
+        "display_name": "Panama Brown Pearl",
+        "paint_code": "60751B",
+        "slug": "panama-brown-pearl-60751b",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/panama-brown-pearl-60751b/",
+        "source_label": "PaintScratch 2013 Newmar",
+        "hex_value": "#761C1A"
+      }
+    ],
+    "2014": [
+      {
+        "display_name": "Mojave Beige (PPG 5256)",
+        "paint_code": "54190",
+        "slug": "mojave-beige-ppg-5256-54190",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/mojave-beige-ppg-5256-54190/",
+        "source_label": "PaintScratch 2014 Newmar",
+        "hex_value": "#BDAD85"
+      },
+      {
+        "display_name": "Glory Gold (863600K)",
+        "paint_code": "703",
+        "slug": "glory-gold-863600k-703",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/glory-gold-863600k-703/",
+        "source_label": "PaintScratch 2014 Newmar",
+        "hex_value": "#938058"
+      },
+      {
+        "display_name": "Biarritz White",
+        "paint_code": "60990",
+        "slug": "biarritz-white-60990",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/biarritz-white-60990/",
+        "source_label": "PaintScratch 2014 Newmar",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Pearl Black",
+        "paint_code": "64443",
+        "slug": "pearl-black-64443",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/pearl-black-64443/",
+        "source_label": "PaintScratch 2014 Newmar",
+        "hex_value": "#0D0D0F"
+      },
+      {
+        "display_name": "Black Gold Metallic (PPG 4967)",
+        "paint_code": "50288",
+        "slug": "black-gold-metallic-ppg-4967-50288",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/black-gold-metallic-ppg-4967-50288/",
+        "source_label": "PaintScratch 2014 Newmar",
+        "hex_value": "#181414"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "62310",
+        "slug": "black-62310",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/black-62310/",
+        "source_label": "PaintScratch 2014 Newmar",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Galaxy Gold Metallic",
+        "paint_code": "62922",
+        "slug": "galaxy-gold-metallic-62922",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/galaxy-gold-metallic-62922/",
+        "source_label": "PaintScratch 2014 Newmar",
+        "hex_value": "#E3BD25"
+      },
+      {
+        "display_name": "Light Gold",
+        "paint_code": "51076",
+        "slug": "light-gold-51076",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/light-gold-51076/",
+        "source_label": "PaintScratch 2014 Newmar",
+        "hex_value": "#E3BD25"
+      },
+      {
+        "display_name": "Sandhill",
+        "paint_code": "60452",
+        "slug": "sandhill-60452",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/sandhill-60452/",
+        "source_label": "PaintScratch 2014 Newmar",
+        "hex_value": "#985636"
+      },
+      {
+        "display_name": "Silver (PPG 5763)",
+        "paint_code": "62431",
+        "slug": "silver-ppg-5763-62431",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/silver-ppg-5763-62431/",
+        "source_label": "PaintScratch 2014 Newmar",
+        "hex_value": "#E8E7E2"
+      },
+      {
+        "display_name": "Pewter",
+        "paint_code": "63227",
+        "slug": "pewter-63227",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/pewter-63227/",
+        "source_label": "PaintScratch 2014 Newmar",
+        "hex_value": "#404040"
+      },
+      {
+        "display_name": "Coronado Sand Metallic (PPG 5041)",
+        "paint_code": "50503",
+        "slug": "coronado-sand-metallic-ppg-5041-50503",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/coronado-sand-metallic-ppg-5041-50503/",
+        "source_label": "PaintScratch 2014 Newmar",
+        "hex_value": "#96896A"
+      },
+      {
+        "display_name": "Beige Metallic",
+        "paint_code": "53170C",
+        "slug": "beige-metallic-53170c",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/beige-metallic-53170c/",
+        "source_label": "PaintScratch 2014 Newmar",
+        "hex_value": "#C57E3F"
+      },
+      {
+        "display_name": "Desert Sand Mica",
+        "paint_code": "60703",
+        "slug": "desert-sand-mica-60703",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/desert-sand-mica-60703/",
+        "source_label": "PaintScratch 2014 Newmar",
+        "hex_value": "#C7B599"
+      },
+      {
+        "display_name": "Rainforest Pearl",
+        "paint_code": "61872",
+        "slug": "rainforest-pearl-61872",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/rainforest-pearl-61872/",
+        "source_label": "PaintScratch 2014 Newmar",
+        "hex_value": "#588672"
+      },
+      {
+        "display_name": "Medium Gray",
+        "paint_code": "63488",
+        "slug": "medium-gray-63488",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/medium-gray-63488/",
+        "source_label": "PaintScratch 2014 Newmar",
+        "hex_value": "#808080"
+      }
+    ],
+    "2015": [
+      {
+        "display_name": "Mojave Beige (PPG 5256)",
+        "paint_code": "54190",
+        "slug": "mojave-beige-ppg-5256-54190",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/mojave-beige-ppg-5256-54190/",
+        "source_label": "PaintScratch 2015 Newmar",
+        "hex_value": "#BDAD85"
+      },
+      {
+        "display_name": "Biarritz White",
+        "paint_code": "60990",
+        "slug": "biarritz-white-60990",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/biarritz-white-60990/",
+        "source_label": "PaintScratch 2015 Newmar",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Pearl Black",
+        "paint_code": "64443",
+        "slug": "pearl-black-64443",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/pearl-black-64443/",
+        "source_label": "PaintScratch 2015 Newmar",
+        "hex_value": "#0D0D0F"
+      },
+      {
+        "display_name": "Topaz Metallic (PPG 4898)",
+        "paint_code": "49701",
+        "slug": "topaz-metallic-ppg-4898-49701",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/topaz-metallic-ppg-4898-49701/",
+        "source_label": "PaintScratch 2015 Newmar",
+        "hex_value": "#74675B"
+      },
+      {
+        "display_name": "Black Gold Metallic (PPG 4967)",
+        "paint_code": "50288",
+        "slug": "black-gold-metallic-ppg-4967-50288",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/black-gold-metallic-ppg-4967-50288/",
+        "source_label": "PaintScratch 2015 Newmar",
+        "hex_value": "#181414"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "62310",
+        "slug": "black-62310",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/black-62310/",
+        "source_label": "PaintScratch 2015 Newmar",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Antelope Metallic (B9148K)",
+        "paint_code": "44429",
+        "slug": "antelope-metallic-b9148k-44429",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/antelope-metallic-b9148k-44429/",
+        "source_label": "PaintScratch 2015 Newmar",
+        "hex_value": "#E3DB85"
+      },
+      {
+        "display_name": "Gold",
+        "paint_code": "54697",
+        "slug": "gold-54697",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/gold-54697/",
+        "source_label": "PaintScratch 2015 Newmar",
+        "hex_value": "#E3BD25"
+      },
+      {
+        "display_name": "Panama Brown Pearl",
+        "paint_code": "60751",
+        "slug": "panama-brown-pearl-60751",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/panama-brown-pearl-60751/",
+        "source_label": "PaintScratch 2015 Newmar",
+        "hex_value": "#985636"
+      },
+      {
+        "display_name": "Pepper White",
+        "paint_code": "64546",
+        "slug": "pepper-white-64546",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/pepper-white-64546/",
+        "source_label": "PaintScratch 2015 Newmar",
+        "hex_value": "#F6F6F0"
+      },
+      {
+        "display_name": "Light Gold",
+        "paint_code": "51076",
+        "slug": "light-gold-51076",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/light-gold-51076/",
+        "source_label": "PaintScratch 2015 Newmar",
+        "hex_value": "#E3BD25"
+      },
+      {
+        "display_name": "Sandhill",
+        "paint_code": "60452",
+        "slug": "sandhill-60452",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/sandhill-60452/",
+        "source_label": "PaintScratch 2015 Newmar",
+        "hex_value": "#985636"
+      },
+      {
+        "display_name": "Silver (PPG 5763)",
+        "paint_code": "62431",
+        "slug": "silver-ppg-5763-62431",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/silver-ppg-5763-62431/",
+        "source_label": "PaintScratch 2015 Newmar",
+        "hex_value": "#E8E7E2"
+      },
+      {
+        "display_name": "Pewter",
+        "paint_code": "63227",
+        "slug": "pewter-63227",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/pewter-63227/",
+        "source_label": "PaintScratch 2015 Newmar",
+        "hex_value": "#404040"
+      },
+      {
+        "display_name": "Coronado Sand Metallic (PPG 5041)",
+        "paint_code": "50503",
+        "slug": "coronado-sand-metallic-ppg-5041-50503",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/coronado-sand-metallic-ppg-5041-50503/",
+        "source_label": "PaintScratch 2015 Newmar",
+        "hex_value": "#96896A"
+      },
+      {
+        "display_name": "Light Brown-5185 PPG",
+        "paint_code": "53013A",
+        "slug": "light-brown-5185-ppg-53013a",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/light-brown-5185-ppg-53013a/",
+        "source_label": "PaintScratch 2015 Newmar",
+        "hex_value": "#D1A341"
+      }
+    ],
+    "2016": [
+      {
+        "display_name": "Mojave Beige (PPG 5256)",
+        "paint_code": "54190",
+        "slug": "mojave-beige-ppg-5256-54190",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/mojave-beige-ppg-5256-54190/",
+        "source_label": "PaintScratch 2016 Newmar",
+        "hex_value": "#BDAD85"
+      },
+      {
+        "display_name": "Biarritz White",
+        "paint_code": "60990",
+        "slug": "biarritz-white-60990",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/biarritz-white-60990/",
+        "source_label": "PaintScratch 2016 Newmar",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Pearl Black",
+        "paint_code": "64443",
+        "slug": "pearl-black-64443",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/pearl-black-64443/",
+        "source_label": "PaintScratch 2016 Newmar",
+        "hex_value": "#0D0D0F"
+      },
+      {
+        "display_name": "Topaz Metallic (PPG 4898)",
+        "paint_code": "49701",
+        "slug": "topaz-metallic-ppg-4898-49701",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/topaz-metallic-ppg-4898-49701/",
+        "source_label": "PaintScratch 2016 Newmar",
+        "hex_value": "#74675B"
+      },
+      {
+        "display_name": "Black Gold Metallic (PPG 4967)",
+        "paint_code": "50288",
+        "slug": "black-gold-metallic-ppg-4967-50288",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/black-gold-metallic-ppg-4967-50288/",
+        "source_label": "PaintScratch 2016 Newmar",
+        "hex_value": "#181414"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "62310",
+        "slug": "black-62310",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/black-62310/",
+        "source_label": "PaintScratch 2016 Newmar",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Gold",
+        "paint_code": "54697",
+        "slug": "gold-54697",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/gold-54697/",
+        "source_label": "PaintScratch 2016 Newmar",
+        "hex_value": "#E3BD25"
+      },
+      {
+        "display_name": "Panama Brown Pearl",
+        "paint_code": "60751",
+        "slug": "panama-brown-pearl-60751",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/panama-brown-pearl-60751/",
+        "source_label": "PaintScratch 2016 Newmar",
+        "hex_value": "#985636"
+      },
+      {
+        "display_name": "Beige",
+        "paint_code": "44429B",
+        "slug": "beige-44429b",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/beige-44429b/",
+        "source_label": "PaintScratch 2016 Newmar",
+        "hex_value": "#E9D9A1"
+      },
+      {
+        "display_name": "Pewter",
+        "paint_code": "63227",
+        "slug": "pewter-63227",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/pewter-63227/",
+        "source_label": "PaintScratch 2016 Newmar",
+        "hex_value": "#404040"
+      },
+      {
+        "display_name": "Coronado Sand Metallic (PPG 5041)",
+        "paint_code": "50503",
+        "slug": "coronado-sand-metallic-ppg-5041-50503",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/coronado-sand-metallic-ppg-5041-50503/",
+        "source_label": "PaintScratch 2016 Newmar",
+        "hex_value": "#96896A"
+      },
+      {
+        "display_name": "Gold Firemist Met",
+        "paint_code": "54697A",
+        "slug": "gold-firemist-met-54697a",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/gold-firemist-met-54697a/",
+        "source_label": "PaintScratch 2016 Newmar",
+        "hex_value": "#9C8C08"
+      },
+      {
+        "display_name": "Bright Silver",
+        "paint_code": "58829",
+        "slug": "bright-silver-58829",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/bright-silver-58829/",
+        "source_label": "PaintScratch 2016 Newmar",
+        "hex_value": "#E8E7E2"
+      },
+      {
+        "display_name": "Desert Sand Mica",
+        "paint_code": "60703",
+        "slug": "desert-sand-mica-60703",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/desert-sand-mica-60703/",
+        "source_label": "PaintScratch 2016 Newmar",
+        "hex_value": "#C7B599"
+      },
+      {
+        "display_name": "Dark Purple",
+        "paint_code": "61358",
+        "slug": "dark-purple-61358",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/dark-purple-61358/",
+        "source_label": "PaintScratch 2016 Newmar",
+        "hex_value": "#310D1A"
+      },
+      {
+        "display_name": "Iron Gray",
+        "paint_code": "61766",
+        "slug": "iron-gray-61766",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/iron-gray-61766/",
+        "source_label": "PaintScratch 2016 Newmar",
+        "hex_value": "#808080"
+      }
+    ],
+    "2017": [
+      {
+        "display_name": "Mojave Beige (PPG 5256)",
+        "paint_code": "54190",
+        "slug": "mojave-beige-ppg-5256-54190",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/mojave-beige-ppg-5256-54190/",
+        "source_label": "PaintScratch 2017 Newmar",
+        "hex_value": "#BDAD85"
+      },
+      {
+        "display_name": "Biarritz White",
+        "paint_code": "60990",
+        "slug": "biarritz-white-60990",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/biarritz-white-60990/",
+        "source_label": "PaintScratch 2017 Newmar",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Pearl Black",
+        "paint_code": "64443",
+        "slug": "pearl-black-64443",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/pearl-black-64443/",
+        "source_label": "PaintScratch 2017 Newmar",
+        "hex_value": "#0D0D0F"
+      },
+      {
+        "display_name": "Topaz Metallic (PPG 4898)",
+        "paint_code": "49701",
+        "slug": "topaz-metallic-ppg-4898-49701",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/topaz-metallic-ppg-4898-49701/",
+        "source_label": "PaintScratch 2017 Newmar",
+        "hex_value": "#74675B"
+      },
+      {
+        "display_name": "Black Gold Metallic (PPG 4967)",
+        "paint_code": "50288",
+        "slug": "black-gold-metallic-ppg-4967-50288",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/black-gold-metallic-ppg-4967-50288/",
+        "source_label": "PaintScratch 2017 Newmar",
+        "hex_value": "#181414"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "62310",
+        "slug": "black-62310",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/black-62310/",
+        "source_label": "PaintScratch 2017 Newmar",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Antelope Metallic (B9148K)",
+        "paint_code": "44429",
+        "slug": "antelope-metallic-b9148k-44429",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/antelope-metallic-b9148k-44429/",
+        "source_label": "PaintScratch 2017 Newmar",
+        "hex_value": "#E3DB85"
+      },
+      {
+        "display_name": "Chestnut",
+        "paint_code": "62447",
+        "slug": "chestnut-62447",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/chestnut-62447/",
+        "source_label": "PaintScratch 2017 Newmar",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Espresso (M9308K)",
+        "paint_code": "62930",
+        "slug": "espresso-m9308k-62930",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/espresso-m9308k-62930/",
+        "source_label": "PaintScratch 2017 Newmar",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Pepper White",
+        "paint_code": "64546",
+        "slug": "pepper-white-64546",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/pepper-white-64546/",
+        "source_label": "PaintScratch 2017 Newmar",
+        "hex_value": "#F6F6F0"
+      },
+      {
+        "display_name": "Beige",
+        "paint_code": "44429B",
+        "slug": "beige-44429b",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/beige-44429b/",
+        "source_label": "PaintScratch 2017 Newmar",
+        "hex_value": "#E9D9A1"
+      },
+      {
+        "display_name": "Cajun Spice Obsidian",
+        "paint_code": "56680",
+        "slug": "cajun-spice-obsidian-56680",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/cajun-spice-obsidian-56680/",
+        "source_label": "PaintScratch 2017 Newmar",
+        "hex_value": "#4A1A16"
+      },
+      {
+        "display_name": "Coronado Sand Metallic (PPG 5041)",
+        "paint_code": "50503",
+        "slug": "coronado-sand-metallic-ppg-5041-50503",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/coronado-sand-metallic-ppg-5041-50503/",
+        "source_label": "PaintScratch 2017 Newmar",
+        "hex_value": "#96896A"
+      },
+      {
+        "display_name": "Med Suede",
+        "paint_code": "52976",
+        "slug": "med-suede-52976",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/med-suede-52976/",
+        "source_label": "PaintScratch 2017 Newmar",
+        "hex_value": "#BDA051"
+      },
+      {
+        "display_name": "Bright Silver",
+        "paint_code": "58829",
+        "slug": "bright-silver-58829",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/bright-silver-58829/",
+        "source_label": "PaintScratch 2017 Newmar",
+        "hex_value": "#E8E7E2"
+      },
+      {
+        "display_name": "Desert Sand Mica",
+        "paint_code": "60703",
+        "slug": "desert-sand-mica-60703",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/desert-sand-mica-60703/",
+        "source_label": "PaintScratch 2017 Newmar",
+        "hex_value": "#C7B599"
+      }
+    ],
+    "2018": [
+      {
+        "display_name": "Mojave Beige (PPG 5256)",
+        "paint_code": "54190",
+        "slug": "mojave-beige-ppg-5256-54190",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/mojave-beige-ppg-5256-54190/",
+        "source_label": "PaintScratch 2018 Newmar",
+        "hex_value": "#BDAD85"
+      },
+      {
+        "display_name": "Biarritz White",
+        "paint_code": "60990",
+        "slug": "biarritz-white-60990",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/biarritz-white-60990/",
+        "source_label": "PaintScratch 2018 Newmar",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Pearl Black",
+        "paint_code": "64443",
+        "slug": "pearl-black-64443",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/pearl-black-64443/",
+        "source_label": "PaintScratch 2018 Newmar",
+        "hex_value": "#0D0D0F"
+      },
+      {
+        "display_name": "Topaz Metallic (PPG 4898)",
+        "paint_code": "49701",
+        "slug": "topaz-metallic-ppg-4898-49701",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/topaz-metallic-ppg-4898-49701/",
+        "source_label": "PaintScratch 2018 Newmar",
+        "hex_value": "#74675B"
+      },
+      {
+        "display_name": "Black Gold Metallic (PPG 4967)",
+        "paint_code": "50288",
+        "slug": "black-gold-metallic-ppg-4967-50288",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/black-gold-metallic-ppg-4967-50288/",
+        "source_label": "PaintScratch 2018 Newmar",
+        "hex_value": "#181414"
+      },
+      {
+        "display_name": "Merlot Red (M8757K)",
+        "paint_code": "61881",
+        "slug": "merlot-red-m8757k-61881",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/merlot-red-m8757k-61881/",
+        "source_label": "PaintScratch 2018 Newmar",
+        "hex_value": "#662718"
+      },
+      {
+        "display_name": "Galaxy Gold Metallic",
+        "paint_code": "62922",
+        "slug": "galaxy-gold-metallic-62922",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/galaxy-gold-metallic-62922/",
+        "source_label": "PaintScratch 2018 Newmar",
+        "hex_value": "#E3BD25"
+      },
+      {
+        "display_name": "Sandhill",
+        "paint_code": "60452",
+        "slug": "sandhill-60452",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/sandhill-60452/",
+        "source_label": "PaintScratch 2018 Newmar",
+        "hex_value": "#985636"
+      },
+      {
+        "display_name": "Silver (PPG 5763)",
+        "paint_code": "62431",
+        "slug": "silver-ppg-5763-62431",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/silver-ppg-5763-62431/",
+        "source_label": "PaintScratch 2018 Newmar",
+        "hex_value": "#E8E7E2"
+      },
+      {
+        "display_name": "Dark Grey Metallic",
+        "paint_code": "20562A",
+        "slug": "dark-grey-metallic-20562a",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/dark-grey-metallic-20562a/",
+        "source_label": "PaintScratch 2018 Newmar",
+        "hex_value": "#404040"
+      },
+      {
+        "display_name": "Coronado Sand Metallic (PPG 5041)",
+        "paint_code": "50503",
+        "slug": "coronado-sand-metallic-ppg-5041-50503",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/coronado-sand-metallic-ppg-5041-50503/",
+        "source_label": "PaintScratch 2018 Newmar",
+        "hex_value": "#96896A"
+      },
+      {
+        "display_name": "Dark Fawn Metallic",
+        "paint_code": "57714",
+        "slug": "dark-fawn-metallic-57714",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/dark-fawn-metallic-57714/",
+        "source_label": "PaintScratch 2018 Newmar",
+        "hex_value": "#373031"
+      },
+      {
+        "display_name": "Desert Sand Mica",
+        "paint_code": "60703",
+        "slug": "desert-sand-mica-60703",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/desert-sand-mica-60703/",
+        "source_label": "PaintScratch 2018 Newmar",
+        "hex_value": "#C7B599"
+      },
+      {
+        "display_name": "Rainforest Pearl",
+        "paint_code": "61872",
+        "slug": "rainforest-pearl-61872",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/rainforest-pearl-61872/",
+        "source_label": "PaintScratch 2018 Newmar",
+        "hex_value": "#588672"
+      },
+      {
+        "display_name": "Bright Platinum (PPG 37945)",
+        "paint_code": "62500",
+        "slug": "bright-platinum-ppg-37945-62500",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/bright-platinum-ppg-37945-62500/",
+        "source_label": "PaintScratch 2018 Newmar",
+        "hex_value": "#D8D6CA"
+      },
+      {
+        "display_name": "Kalahari Beige Metallic",
+        "paint_code": "64503",
+        "slug": "kalahari-beige-metallic-64503",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/kalahari-beige-metallic-64503/",
+        "source_label": "PaintScratch 2018 Newmar",
+        "hex_value": "#EBE7CF"
+      }
+    ],
+    "2019": [
+      {
+        "display_name": "Mojave Beige (PPG 5256)",
+        "paint_code": "54190",
+        "slug": "mojave-beige-ppg-5256-54190",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/mojave-beige-ppg-5256-54190/",
+        "source_label": "PaintScratch 2019 Newmar",
+        "hex_value": "#BDAD85"
+      },
+      {
+        "display_name": "Pearl Black",
+        "paint_code": "64443",
+        "slug": "pearl-black-64443",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/pearl-black-64443/",
+        "source_label": "PaintScratch 2019 Newmar",
+        "hex_value": "#0D0D0F"
+      },
+      {
+        "display_name": "Topaz Metallic (PPG 4898)",
+        "paint_code": "49701",
+        "slug": "topaz-metallic-ppg-4898-49701",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/topaz-metallic-ppg-4898-49701/",
+        "source_label": "PaintScratch 2019 Newmar",
+        "hex_value": "#74675B"
+      },
+      {
+        "display_name": "Black Gold Metallic (PPG 4967)",
+        "paint_code": "50288",
+        "slug": "black-gold-metallic-ppg-4967-50288",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/black-gold-metallic-ppg-4967-50288/",
+        "source_label": "PaintScratch 2019 Newmar",
+        "hex_value": "#181414"
+      },
+      {
+        "display_name": "Merlot Red (M8757K)",
+        "paint_code": "61881",
+        "slug": "merlot-red-m8757k-61881",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/merlot-red-m8757k-61881/",
+        "source_label": "PaintScratch 2019 Newmar",
+        "hex_value": "#662718"
+      },
+      {
+        "display_name": "Pepper White",
+        "paint_code": "64546",
+        "slug": "pepper-white-64546",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/pepper-white-64546/",
+        "source_label": "PaintScratch 2019 Newmar",
+        "hex_value": "#F6F6F0"
+      },
+      {
+        "display_name": "Silver (PPG 5763)",
+        "paint_code": "62431",
+        "slug": "silver-ppg-5763-62431",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/silver-ppg-5763-62431/",
+        "source_label": "PaintScratch 2019 Newmar",
+        "hex_value": "#E8E7E2"
+      },
+      {
+        "display_name": "Pewter",
+        "paint_code": "63227",
+        "slug": "pewter-63227",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/pewter-63227/",
+        "source_label": "PaintScratch 2019 Newmar",
+        "hex_value": "#404040"
+      },
+      {
+        "display_name": "Newmar Pewter Met",
+        "paint_code": "5377",
+        "slug": "newmar-pewter-met-5377",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/newmar-pewter-met-5377/",
+        "source_label": "PaintScratch 2019 Newmar",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Dark Grey Metallic",
+        "paint_code": "20562A",
+        "slug": "dark-grey-metallic-20562a",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/dark-grey-metallic-20562a/",
+        "source_label": "PaintScratch 2019 Newmar",
+        "hex_value": "#404040"
+      },
+      {
+        "display_name": "Nimbus Gray",
+        "paint_code": "43597",
+        "slug": "nimbus-gray-43597",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/nimbus-gray-43597/",
+        "source_label": "PaintScratch 2019 Newmar",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Coronado Sand Metallic (PPG 5041)",
+        "paint_code": "50503",
+        "slug": "coronado-sand-metallic-ppg-5041-50503",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/coronado-sand-metallic-ppg-5041-50503/",
+        "source_label": "PaintScratch 2019 Newmar",
+        "hex_value": "#96896A"
+      },
+      {
+        "display_name": "Desert Sand Mica",
+        "paint_code": "60703",
+        "slug": "desert-sand-mica-60703",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/desert-sand-mica-60703/",
+        "source_label": "PaintScratch 2019 Newmar",
+        "hex_value": "#C7B599"
+      },
+      {
+        "display_name": "Rainforest Pearl",
+        "paint_code": "61872",
+        "slug": "rainforest-pearl-61872",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/rainforest-pearl-61872/",
+        "source_label": "PaintScratch 2019 Newmar",
+        "hex_value": "#588672"
+      },
+      {
+        "display_name": "Kalahari Beige Metallic",
+        "paint_code": "64503",
+        "slug": "kalahari-beige-metallic-64503",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/kalahari-beige-metallic-64503/",
+        "source_label": "PaintScratch 2019 Newmar",
+        "hex_value": "#EBE7CF"
+      },
+      {
+        "display_name": "Sovereign",
+        "paint_code": "64548",
+        "slug": "sovereign-64548",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/sovereign-64548/",
+        "source_label": "PaintScratch 2019 Newmar",
+        "hex_value": "#E7DFC5"
+      }
+    ],
+    "2020": [
+      {
+        "display_name": "Mojave Beige (PPG 5256)",
+        "paint_code": "54190",
+        "slug": "mojave-beige-ppg-5256-54190",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/mojave-beige-ppg-5256-54190/",
+        "source_label": "PaintScratch 2020 Newmar",
+        "hex_value": "#BDAD85"
+      },
+      {
+        "display_name": "Pearl Black",
+        "paint_code": "64443",
+        "slug": "pearl-black-64443",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/pearl-black-64443/",
+        "source_label": "PaintScratch 2020 Newmar",
+        "hex_value": "#0D0D0F"
+      },
+      {
+        "display_name": "Topaz Metallic (PPG 4898)",
+        "paint_code": "49701",
+        "slug": "topaz-metallic-ppg-4898-49701",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/topaz-metallic-ppg-4898-49701/",
+        "source_label": "PaintScratch 2020 Newmar",
+        "hex_value": "#74675B"
+      },
+      {
+        "display_name": "Black Gold Metallic (PPG 4967)",
+        "paint_code": "50288",
+        "slug": "black-gold-metallic-ppg-4967-50288",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/black-gold-metallic-ppg-4967-50288/",
+        "source_label": "PaintScratch 2020 Newmar",
+        "hex_value": "#181414"
+      },
+      {
+        "display_name": "Twilight Blue Metallic",
+        "paint_code": "49545A",
+        "slug": "twilight-blue-metallic-49545a",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/twilight-blue-metallic-49545a/",
+        "source_label": "PaintScratch 2020 Newmar",
+        "hex_value": "#091231"
+      },
+      {
+        "display_name": "White",
+        "paint_code": "60990A",
+        "slug": "white-60990a",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/white-60990a/",
+        "source_label": "PaintScratch 2020 Newmar",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Merlot Red (M8757K)",
+        "paint_code": "61881",
+        "slug": "merlot-red-m8757k-61881",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/merlot-red-m8757k-61881/",
+        "source_label": "PaintScratch 2020 Newmar",
+        "hex_value": "#662718"
+      },
+      {
+        "display_name": "Espresso (M9308K)",
+        "paint_code": "62930",
+        "slug": "espresso-m9308k-62930",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/espresso-m9308k-62930/",
+        "source_label": "PaintScratch 2020 Newmar",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Coronado Sand Metallic (PPG 5041)",
+        "paint_code": "50503",
+        "slug": "coronado-sand-metallic-ppg-5041-50503",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/coronado-sand-metallic-ppg-5041-50503/",
+        "source_label": "PaintScratch 2020 Newmar",
+        "hex_value": "#96896A"
+      },
+      {
+        "display_name": "Sapphire Blue Metallic",
+        "paint_code": "51424",
+        "slug": "sapphire-blue-metallic-51424",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/sapphire-blue-metallic-51424/",
+        "source_label": "PaintScratch 2020 Newmar",
+        "hex_value": "#0D2D97"
+      },
+      {
+        "display_name": "Desert Sand Mica",
+        "paint_code": "60703",
+        "slug": "desert-sand-mica-60703",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/desert-sand-mica-60703/",
+        "source_label": "PaintScratch 2020 Newmar",
+        "hex_value": "#C7B599"
+      },
+      {
+        "display_name": "Rainforest Pearl",
+        "paint_code": "61872",
+        "slug": "rainforest-pearl-61872",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/rainforest-pearl-61872/",
+        "source_label": "PaintScratch 2020 Newmar",
+        "hex_value": "#588672"
+      },
+      {
+        "display_name": "Phantom Grey",
+        "paint_code": "64134",
+        "slug": "phantom-grey-64134",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/phantom-grey-64134/",
+        "source_label": "PaintScratch 2020 Newmar",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Kalahari Beige Metallic",
+        "paint_code": "64503",
+        "slug": "kalahari-beige-metallic-64503",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/kalahari-beige-metallic-64503/",
+        "source_label": "PaintScratch 2020 Newmar",
+        "hex_value": "#EBE7CF"
+      },
+      {
+        "display_name": "Sovereign",
+        "paint_code": "64548",
+        "slug": "sovereign-64548",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/sovereign-64548/",
+        "source_label": "PaintScratch 2020 Newmar",
+        "hex_value": "#E7DFC5"
+      },
+      {
+        "display_name": "Green Gold",
+        "paint_code": "65594",
+        "slug": "green-gold-65594",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/green-gold-65594/",
+        "source_label": "PaintScratch 2020 Newmar",
+        "hex_value": "#9C8C08"
+      }
+    ],
+    "2021": [
+      {
+        "display_name": "Mojave Beige (PPG 5256)",
+        "paint_code": "54190",
+        "slug": "mojave-beige-ppg-5256-54190",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/mojave-beige-ppg-5256-54190/",
+        "source_label": "PaintScratch 2021 Newmar",
+        "hex_value": "#BDAD85"
+      },
+      {
+        "display_name": "Biarritz White",
+        "paint_code": "60990",
+        "slug": "biarritz-white-60990",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/biarritz-white-60990/",
+        "source_label": "PaintScratch 2021 Newmar",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Pearl Black",
+        "paint_code": "64443",
+        "slug": "pearl-black-64443",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/pearl-black-64443/",
+        "source_label": "PaintScratch 2021 Newmar",
+        "hex_value": "#0D0D0F"
+      },
+      {
+        "display_name": "Topaz Metallic (PPG 4898)",
+        "paint_code": "49701",
+        "slug": "topaz-metallic-ppg-4898-49701",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/topaz-metallic-ppg-4898-49701/",
+        "source_label": "PaintScratch 2021 Newmar",
+        "hex_value": "#74675B"
+      },
+      {
+        "display_name": "Black Gold Metallic (PPG 4967)",
+        "paint_code": "50288",
+        "slug": "black-gold-metallic-ppg-4967-50288",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/black-gold-metallic-ppg-4967-50288/",
+        "source_label": "PaintScratch 2021 Newmar",
+        "hex_value": "#181414"
+      },
+      {
+        "display_name": "Twilight Blue Metallic",
+        "paint_code": "49545A",
+        "slug": "twilight-blue-metallic-49545a",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/twilight-blue-metallic-49545a/",
+        "source_label": "PaintScratch 2021 Newmar",
+        "hex_value": "#091231"
+      },
+      {
+        "display_name": "White",
+        "paint_code": "60990A",
+        "slug": "white-60990a",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/white-60990a/",
+        "source_label": "PaintScratch 2021 Newmar",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Merlot Red (M8757K)",
+        "paint_code": "61881",
+        "slug": "merlot-red-m8757k-61881",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/merlot-red-m8757k-61881/",
+        "source_label": "PaintScratch 2021 Newmar",
+        "hex_value": "#662718"
+      },
+      {
+        "display_name": "Chestnut",
+        "paint_code": "62447",
+        "slug": "chestnut-62447",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/chestnut-62447/",
+        "source_label": "PaintScratch 2021 Newmar",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Pewter",
+        "paint_code": "63227",
+        "slug": "pewter-63227",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/pewter-63227/",
+        "source_label": "PaintScratch 2021 Newmar",
+        "hex_value": "#404040"
+      },
+      {
+        "display_name": "Dark Grey Metallic",
+        "paint_code": "20562A",
+        "slug": "dark-grey-metallic-20562a",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/dark-grey-metallic-20562a/",
+        "source_label": "PaintScratch 2021 Newmar",
+        "hex_value": "#404040"
+      },
+      {
+        "display_name": "Coronado Sand Metallic (PPG 5041)",
+        "paint_code": "50503",
+        "slug": "coronado-sand-metallic-ppg-5041-50503",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/coronado-sand-metallic-ppg-5041-50503/",
+        "source_label": "PaintScratch 2021 Newmar",
+        "hex_value": "#96896A"
+      },
+      {
+        "display_name": "Sapphire Blue Metallic",
+        "paint_code": "51424",
+        "slug": "sapphire-blue-metallic-51424",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/sapphire-blue-metallic-51424/",
+        "source_label": "PaintScratch 2021 Newmar",
+        "hex_value": "#0D2D97"
+      },
+      {
+        "display_name": "Light Brown-5185 PPG",
+        "paint_code": "53013A",
+        "slug": "light-brown-5185-ppg-53013a",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/light-brown-5185-ppg-53013a/",
+        "source_label": "PaintScratch 2021 Newmar",
+        "hex_value": "#D1A341"
+      },
+      {
+        "display_name": "Bright Silver",
+        "paint_code": "58829",
+        "slug": "bright-silver-58829",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/bright-silver-58829/",
+        "source_label": "PaintScratch 2021 Newmar",
+        "hex_value": "#E8E7E2"
+      },
+      {
+        "display_name": "Desert Sand Mica",
+        "paint_code": "60703",
+        "slug": "desert-sand-mica-60703",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/desert-sand-mica-60703/",
+        "source_label": "PaintScratch 2021 Newmar",
+        "hex_value": "#C7B599"
+      }
+    ],
+    "2022": [
+      {
+        "display_name": "Mojave Beige (PPG 5256)",
+        "paint_code": "54190",
+        "slug": "mojave-beige-ppg-5256-54190",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/mojave-beige-ppg-5256-54190/",
+        "source_label": "PaintScratch 2022 Newmar",
+        "hex_value": "#BDAD85"
+      },
+      {
+        "display_name": "Pearl Black",
+        "paint_code": "64443",
+        "slug": "pearl-black-64443",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/pearl-black-64443/",
+        "source_label": "PaintScratch 2022 Newmar",
+        "hex_value": "#0D0D0F"
+      },
+      {
+        "display_name": "Topaz Metallic (PPG 4898)",
+        "paint_code": "49701",
+        "slug": "topaz-metallic-ppg-4898-49701",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/topaz-metallic-ppg-4898-49701/",
+        "source_label": "PaintScratch 2022 Newmar",
+        "hex_value": "#74675B"
+      },
+      {
+        "display_name": "Black Gold Metallic (PPG 4967)",
+        "paint_code": "50288",
+        "slug": "black-gold-metallic-ppg-4967-50288",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/black-gold-metallic-ppg-4967-50288/",
+        "source_label": "PaintScratch 2022 Newmar",
+        "hex_value": "#181414"
+      },
+      {
+        "display_name": "Merlot Red (M8757K)",
+        "paint_code": "61881",
+        "slug": "merlot-red-m8757k-61881",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/merlot-red-m8757k-61881/",
+        "source_label": "PaintScratch 2022 Newmar",
+        "hex_value": "#662718"
+      },
+      {
+        "display_name": "Coronado Sand Metallic (PPG 5041)",
+        "paint_code": "50503",
+        "slug": "coronado-sand-metallic-ppg-5041-50503",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/coronado-sand-metallic-ppg-5041-50503/",
+        "source_label": "PaintScratch 2022 Newmar",
+        "hex_value": "#96896A"
+      },
+      {
+        "display_name": "Sapphire Blue Metallic",
+        "paint_code": "51424",
+        "slug": "sapphire-blue-metallic-51424",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/sapphire-blue-metallic-51424/",
+        "source_label": "PaintScratch 2022 Newmar",
+        "hex_value": "#0D2D97"
+      },
+      {
+        "display_name": "Desert Sand Mica",
+        "paint_code": "60703",
+        "slug": "desert-sand-mica-60703",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/desert-sand-mica-60703/",
+        "source_label": "PaintScratch 2022 Newmar",
+        "hex_value": "#C7B599"
+      },
+      {
+        "display_name": "Rainforest Pearl",
+        "paint_code": "61872",
+        "slug": "rainforest-pearl-61872",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/rainforest-pearl-61872/",
+        "source_label": "PaintScratch 2022 Newmar",
+        "hex_value": "#588672"
+      },
+      {
+        "display_name": "Kalahari Beige Metallic",
+        "paint_code": "64503",
+        "slug": "kalahari-beige-metallic-64503",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/kalahari-beige-metallic-64503/",
+        "source_label": "PaintScratch 2022 Newmar",
+        "hex_value": "#EBE7CF"
+      },
+      {
+        "display_name": "Sovereign",
+        "paint_code": "64548",
+        "slug": "sovereign-64548",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/sovereign-64548/",
+        "source_label": "PaintScratch 2022 Newmar",
+        "hex_value": "#E7DFC5"
+      },
+      {
+        "display_name": "Green Gold",
+        "paint_code": "65594",
+        "slug": "green-gold-65594",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/green-gold-65594/",
+        "source_label": "PaintScratch 2022 Newmar",
+        "hex_value": "#9C8C08"
+      },
+      {
+        "display_name": "Light Grey Met",
+        "paint_code": "PPG 300887",
+        "slug": "light-grey-met-ppg-300887",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/light-grey-met-ppg-300887/",
+        "source_label": "PaintScratch 2022 Newmar",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Midnight Pine Pearl",
+        "paint_code": "62432",
+        "slug": "midnight-pine-pearl-62432",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/midnight-pine-pearl-62432/",
+        "source_label": "PaintScratch 2022 Newmar",
+        "hex_value": "#162820"
+      },
+      {
+        "display_name": "Stratus Metallic",
+        "paint_code": "63043",
+        "slug": "stratus-metallic-63043",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/stratus-metallic-63043/",
+        "source_label": "PaintScratch 2022 Newmar",
+        "hex_value": "#D4D5CD"
+      },
+      {
+        "display_name": "Gray",
+        "paint_code": "63226",
+        "slug": "gray-63226",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/gray-63226/",
+        "source_label": "PaintScratch 2022 Newmar",
+        "hex_value": "#C0C0C0"
+      }
+    ],
+    "2023": [
+      {
+        "display_name": "Mojave Beige (PPG 5256)",
+        "paint_code": "54190",
+        "slug": "mojave-beige-ppg-5256-54190",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/mojave-beige-ppg-5256-54190/",
+        "source_label": "PaintScratch 2023 Newmar",
+        "hex_value": "#BDAD85"
+      },
+      {
+        "display_name": "Pearl Black",
+        "paint_code": "64443",
+        "slug": "pearl-black-64443",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/pearl-black-64443/",
+        "source_label": "PaintScratch 2023 Newmar",
+        "hex_value": "#0D0D0F"
+      },
+      {
+        "display_name": "Topaz Metallic (PPG 4898)",
+        "paint_code": "49701",
+        "slug": "topaz-metallic-ppg-4898-49701",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/topaz-metallic-ppg-4898-49701/",
+        "source_label": "PaintScratch 2023 Newmar",
+        "hex_value": "#74675B"
+      },
+      {
+        "display_name": "Black Gold Metallic (PPG 4967)",
+        "paint_code": "50288",
+        "slug": "black-gold-metallic-ppg-4967-50288",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/black-gold-metallic-ppg-4967-50288/",
+        "source_label": "PaintScratch 2023 Newmar",
+        "hex_value": "#181414"
+      },
+      {
+        "display_name": "White",
+        "paint_code": "60990A",
+        "slug": "white-60990a",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/white-60990a/",
+        "source_label": "PaintScratch 2023 Newmar",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Merlot Red (M8757K)",
+        "paint_code": "61881",
+        "slug": "merlot-red-m8757k-61881",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/merlot-red-m8757k-61881/",
+        "source_label": "PaintScratch 2023 Newmar",
+        "hex_value": "#662718"
+      },
+      {
+        "display_name": "Pewter",
+        "paint_code": "63227",
+        "slug": "pewter-63227",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/pewter-63227/",
+        "source_label": "PaintScratch 2023 Newmar",
+        "hex_value": "#404040"
+      },
+      {
+        "display_name": "Nimbus Gray",
+        "paint_code": "43597",
+        "slug": "nimbus-gray-43597",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/nimbus-gray-43597/",
+        "source_label": "PaintScratch 2023 Newmar",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Coronado Sand Metallic (PPG 5041)",
+        "paint_code": "50503",
+        "slug": "coronado-sand-metallic-ppg-5041-50503",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/coronado-sand-metallic-ppg-5041-50503/",
+        "source_label": "PaintScratch 2023 Newmar",
+        "hex_value": "#96896A"
+      },
+      {
+        "display_name": "Sapphire Blue Metallic",
+        "paint_code": "51424",
+        "slug": "sapphire-blue-metallic-51424",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/sapphire-blue-metallic-51424/",
+        "source_label": "PaintScratch 2023 Newmar",
+        "hex_value": "#0D2D97"
+      },
+      {
+        "display_name": "Desert Sand Mica",
+        "paint_code": "60703",
+        "slug": "desert-sand-mica-60703",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/desert-sand-mica-60703/",
+        "source_label": "PaintScratch 2023 Newmar",
+        "hex_value": "#C7B599"
+      },
+      {
+        "display_name": "Rainforest Pearl",
+        "paint_code": "61872",
+        "slug": "rainforest-pearl-61872",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/rainforest-pearl-61872/",
+        "source_label": "PaintScratch 2023 Newmar",
+        "hex_value": "#588672"
+      },
+      {
+        "display_name": "Kalahari Beige Metallic",
+        "paint_code": "64503",
+        "slug": "kalahari-beige-metallic-64503",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/kalahari-beige-metallic-64503/",
+        "source_label": "PaintScratch 2023 Newmar",
+        "hex_value": "#EBE7CF"
+      },
+      {
+        "display_name": "Sovereign",
+        "paint_code": "64548",
+        "slug": "sovereign-64548",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/sovereign-64548/",
+        "source_label": "PaintScratch 2023 Newmar",
+        "hex_value": "#E7DFC5"
+      },
+      {
+        "display_name": "Green Gold",
+        "paint_code": "65594",
+        "slug": "green-gold-65594",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/green-gold-65594/",
+        "source_label": "PaintScratch 2023 Newmar",
+        "hex_value": "#9C8C08"
+      },
+      {
+        "display_name": "Beige Metallic",
+        "paint_code": "59836",
+        "slug": "beige-metallic-59836",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/beige-metallic-59836/",
+        "source_label": "PaintScratch 2023 Newmar",
+        "hex_value": "#C57E3F"
+      }
+    ],
+    "2024": [
+      {
+        "display_name": "Mojave Beige (PPG 5256)",
+        "paint_code": "54190",
+        "slug": "mojave-beige-ppg-5256-54190",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/mojave-beige-ppg-5256-54190/",
+        "source_label": "PaintScratch 2024 Newmar",
+        "hex_value": "#BDAD85"
+      },
+      {
+        "display_name": "Pearl Black",
+        "paint_code": "64443",
+        "slug": "pearl-black-64443",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/pearl-black-64443/",
+        "source_label": "PaintScratch 2024 Newmar",
+        "hex_value": "#0D0D0F"
+      },
+      {
+        "display_name": "Topaz Metallic (PPG 4898)",
+        "paint_code": "49701",
+        "slug": "topaz-metallic-ppg-4898-49701",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/topaz-metallic-ppg-4898-49701/",
+        "source_label": "PaintScratch 2024 Newmar",
+        "hex_value": "#74675B"
+      },
+      {
+        "display_name": "Black Gold Metallic (PPG 4967)",
+        "paint_code": "50288",
+        "slug": "black-gold-metallic-ppg-4967-50288",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/black-gold-metallic-ppg-4967-50288/",
+        "source_label": "PaintScratch 2024 Newmar",
+        "hex_value": "#181414"
+      },
+      {
+        "display_name": "Merlot Red (M8757K)",
+        "paint_code": "61881",
+        "slug": "merlot-red-m8757k-61881",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/merlot-red-m8757k-61881/",
+        "source_label": "PaintScratch 2024 Newmar",
+        "hex_value": "#662718"
+      },
+      {
+        "display_name": "Sandhill",
+        "paint_code": "60452",
+        "slug": "sandhill-60452",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/sandhill-60452/",
+        "source_label": "PaintScratch 2024 Newmar",
+        "hex_value": "#985636"
+      },
+      {
+        "display_name": "Coronado Sand Metallic (PPG 5041)",
+        "paint_code": "50503",
+        "slug": "coronado-sand-metallic-ppg-5041-50503",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/coronado-sand-metallic-ppg-5041-50503/",
+        "source_label": "PaintScratch 2024 Newmar",
+        "hex_value": "#96896A"
+      },
+      {
+        "display_name": "Sapphire Blue Metallic",
+        "paint_code": "51424",
+        "slug": "sapphire-blue-metallic-51424",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/sapphire-blue-metallic-51424/",
+        "source_label": "PaintScratch 2024 Newmar",
+        "hex_value": "#0D2D97"
+      },
+      {
+        "display_name": "Desert Sand Mica",
+        "paint_code": "60703",
+        "slug": "desert-sand-mica-60703",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/desert-sand-mica-60703/",
+        "source_label": "PaintScratch 2024 Newmar",
+        "hex_value": "#C7B599"
+      },
+      {
+        "display_name": "Rainforest Pearl",
+        "paint_code": "61872",
+        "slug": "rainforest-pearl-61872",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/rainforest-pearl-61872/",
+        "source_label": "PaintScratch 2024 Newmar",
+        "hex_value": "#588672"
+      },
+      {
+        "display_name": "Kalahari Beige Metallic",
+        "paint_code": "64503",
+        "slug": "kalahari-beige-metallic-64503",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/kalahari-beige-metallic-64503/",
+        "source_label": "PaintScratch 2024 Newmar",
+        "hex_value": "#EBE7CF"
+      },
+      {
+        "display_name": "Sovereign",
+        "paint_code": "64548",
+        "slug": "sovereign-64548",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/sovereign-64548/",
+        "source_label": "PaintScratch 2024 Newmar",
+        "hex_value": "#E7DFC5"
+      },
+      {
+        "display_name": "Green Gold",
+        "paint_code": "65594",
+        "slug": "green-gold-65594",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/green-gold-65594/",
+        "source_label": "PaintScratch 2024 Newmar",
+        "hex_value": "#9C8C08"
+      },
+      {
+        "display_name": "Midnight Pine Pearl",
+        "paint_code": "62432",
+        "slug": "midnight-pine-pearl-62432",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/midnight-pine-pearl-62432/",
+        "source_label": "PaintScratch 2024 Newmar",
+        "hex_value": "#162820"
+      },
+      {
+        "display_name": "Stratus Metallic",
+        "paint_code": "63043",
+        "slug": "stratus-metallic-63043",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/stratus-metallic-63043/",
+        "source_label": "PaintScratch 2024 Newmar",
+        "hex_value": "#D4D5CD"
+      }
+    ],
+    "2025": [
+      {
+        "display_name": "Mojave Beige (PPG 5256)",
+        "paint_code": "54190",
+        "slug": "mojave-beige-ppg-5256-54190",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/mojave-beige-ppg-5256-54190/",
+        "source_label": "PaintScratch 2025 Newmar",
+        "hex_value": "#BDAD85"
+      },
+      {
+        "display_name": "Pearl Black",
+        "paint_code": "64443",
+        "slug": "pearl-black-64443",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/pearl-black-64443/",
+        "source_label": "PaintScratch 2025 Newmar",
+        "hex_value": "#0D0D0F"
+      },
+      {
+        "display_name": "Topaz Metallic (PPG 4898)",
+        "paint_code": "49701",
+        "slug": "topaz-metallic-ppg-4898-49701",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/topaz-metallic-ppg-4898-49701/",
+        "source_label": "PaintScratch 2025 Newmar",
+        "hex_value": "#74675B"
+      },
+      {
+        "display_name": "Black Gold Metallic (PPG 4967)",
+        "paint_code": "50288",
+        "slug": "black-gold-metallic-ppg-4967-50288",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/black-gold-metallic-ppg-4967-50288/",
+        "source_label": "PaintScratch 2025 Newmar",
+        "hex_value": "#181414"
+      },
+      {
+        "display_name": "Merlot Red (M8757K)",
+        "paint_code": "61881",
+        "slug": "merlot-red-m8757k-61881",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/merlot-red-m8757k-61881/",
+        "source_label": "PaintScratch 2025 Newmar",
+        "hex_value": "#662718"
+      },
+      {
+        "display_name": "Coronado Sand Metallic (PPG 5041)",
+        "paint_code": "50503",
+        "slug": "coronado-sand-metallic-ppg-5041-50503",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/coronado-sand-metallic-ppg-5041-50503/",
+        "source_label": "PaintScratch 2025 Newmar",
+        "hex_value": "#96896A"
+      },
+      {
+        "display_name": "Sapphire Blue Metallic",
+        "paint_code": "51424",
+        "slug": "sapphire-blue-metallic-51424",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/sapphire-blue-metallic-51424/",
+        "source_label": "PaintScratch 2025 Newmar",
+        "hex_value": "#0D2D97"
+      },
+      {
+        "display_name": "Desert Sand Mica",
+        "paint_code": "60703",
+        "slug": "desert-sand-mica-60703",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/desert-sand-mica-60703/",
+        "source_label": "PaintScratch 2025 Newmar",
+        "hex_value": "#C7B599"
+      },
+      {
+        "display_name": "Rainforest Pearl",
+        "paint_code": "61872",
+        "slug": "rainforest-pearl-61872",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/rainforest-pearl-61872/",
+        "source_label": "PaintScratch 2025 Newmar",
+        "hex_value": "#588672"
+      },
+      {
+        "display_name": "Kalahari Beige Metallic",
+        "paint_code": "64503",
+        "slug": "kalahari-beige-metallic-64503",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/kalahari-beige-metallic-64503/",
+        "source_label": "PaintScratch 2025 Newmar",
+        "hex_value": "#EBE7CF"
+      },
+      {
+        "display_name": "Sovereign",
+        "paint_code": "64548",
+        "slug": "sovereign-64548",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/sovereign-64548/",
+        "source_label": "PaintScratch 2025 Newmar",
+        "hex_value": "#E7DFC5"
+      },
+      {
+        "display_name": "Green Gold",
+        "paint_code": "65594",
+        "slug": "green-gold-65594",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/green-gold-65594/",
+        "source_label": "PaintScratch 2025 Newmar",
+        "hex_value": "#9C8C08"
+      },
+      {
+        "display_name": "Midnight Pine Pearl",
+        "paint_code": "62432",
+        "slug": "midnight-pine-pearl-62432",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/midnight-pine-pearl-62432/",
+        "source_label": "PaintScratch 2025 Newmar",
+        "hex_value": "#162820"
+      },
+      {
+        "display_name": "Stratus Metallic",
+        "paint_code": "63043",
+        "slug": "stratus-metallic-63043",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/stratus-metallic-63043/",
+        "source_label": "PaintScratch 2025 Newmar",
+        "hex_value": "#D4D5CD"
+      }
+    ],
+    "2026": [
+      {
+        "display_name": "Mojave Beige (PPG 5256)",
+        "paint_code": "54190",
+        "slug": "mojave-beige-ppg-5256-54190",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/mojave-beige-ppg-5256-54190/",
+        "source_label": "PaintScratch 2026 Newmar",
+        "hex_value": "#BDAD85"
+      },
+      {
+        "display_name": "Pearl Black",
+        "paint_code": "64443",
+        "slug": "pearl-black-64443",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/pearl-black-64443/",
+        "source_label": "PaintScratch 2026 Newmar",
+        "hex_value": "#0D0D0F"
+      },
+      {
+        "display_name": "Topaz Metallic (PPG 4898)",
+        "paint_code": "49701",
+        "slug": "topaz-metallic-ppg-4898-49701",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/topaz-metallic-ppg-4898-49701/",
+        "source_label": "PaintScratch 2026 Newmar",
+        "hex_value": "#74675B"
+      },
+      {
+        "display_name": "Black Gold Metallic (PPG 4967)",
+        "paint_code": "50288",
+        "slug": "black-gold-metallic-ppg-4967-50288",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/black-gold-metallic-ppg-4967-50288/",
+        "source_label": "PaintScratch 2026 Newmar",
+        "hex_value": "#181414"
+      },
+      {
+        "display_name": "Merlot Red (M8757K)",
+        "paint_code": "61881",
+        "slug": "merlot-red-m8757k-61881",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/merlot-red-m8757k-61881/",
+        "source_label": "PaintScratch 2026 Newmar",
+        "hex_value": "#662718"
+      },
+      {
+        "display_name": "Coronado Sand Metallic (PPG 5041)",
+        "paint_code": "50503",
+        "slug": "coronado-sand-metallic-ppg-5041-50503",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/coronado-sand-metallic-ppg-5041-50503/",
+        "source_label": "PaintScratch 2026 Newmar",
+        "hex_value": "#96896A"
+      },
+      {
+        "display_name": "Sapphire Blue Metallic",
+        "paint_code": "51424",
+        "slug": "sapphire-blue-metallic-51424",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/sapphire-blue-metallic-51424/",
+        "source_label": "PaintScratch 2026 Newmar",
+        "hex_value": "#0D2D97"
+      },
+      {
+        "display_name": "Desert Sand Mica",
+        "paint_code": "60703",
+        "slug": "desert-sand-mica-60703",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/desert-sand-mica-60703/",
+        "source_label": "PaintScratch 2026 Newmar",
+        "hex_value": "#C7B599"
+      },
+      {
+        "display_name": "Rainforest Pearl",
+        "paint_code": "61872",
+        "slug": "rainforest-pearl-61872",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/rainforest-pearl-61872/",
+        "source_label": "PaintScratch 2026 Newmar",
+        "hex_value": "#588672"
+      },
+      {
+        "display_name": "Kalahari Beige Metallic",
+        "paint_code": "64503",
+        "slug": "kalahari-beige-metallic-64503",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/kalahari-beige-metallic-64503/",
+        "source_label": "PaintScratch 2026 Newmar",
+        "hex_value": "#EBE7CF"
+      },
+      {
+        "display_name": "Sovereign",
+        "paint_code": "64548",
+        "slug": "sovereign-64548",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/sovereign-64548/",
+        "source_label": "PaintScratch 2026 Newmar",
+        "hex_value": "#E7DFC5"
+      },
+      {
+        "display_name": "Green Gold",
+        "paint_code": "65594",
+        "slug": "green-gold-65594",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/green-gold-65594/",
+        "source_label": "PaintScratch 2026 Newmar",
+        "hex_value": "#9C8C08"
+      },
+      {
+        "display_name": "Midnight Pine Pearl",
+        "paint_code": "62432",
+        "slug": "midnight-pine-pearl-62432",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/midnight-pine-pearl-62432/",
+        "source_label": "PaintScratch 2026 Newmar",
+        "hex_value": "#162820"
+      },
+      {
+        "display_name": "Stratus Metallic",
+        "paint_code": "63043",
+        "slug": "stratus-metallic-63043",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/stratus-metallic-63043/",
+        "source_label": "PaintScratch 2026 Newmar",
+        "hex_value": "#D4D5CD"
+      }
+    ],
+    "2027": [
+      {
+        "display_name": "Mojave Beige (PPG 5256)",
+        "paint_code": "54190",
+        "slug": "mojave-beige-ppg-5256-54190",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/mojave-beige-ppg-5256-54190/",
+        "source_label": "PaintScratch 2027 Newmar",
+        "hex_value": "#BDAD85"
+      },
+      {
+        "display_name": "Pearl Black",
+        "paint_code": "64443",
+        "slug": "pearl-black-64443",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/pearl-black-64443/",
+        "source_label": "PaintScratch 2027 Newmar",
+        "hex_value": "#0D0D0F"
+      },
+      {
+        "display_name": "Topaz Metallic (PPG 4898)",
+        "paint_code": "49701",
+        "slug": "topaz-metallic-ppg-4898-49701",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/topaz-metallic-ppg-4898-49701/",
+        "source_label": "PaintScratch 2027 Newmar",
+        "hex_value": "#74675B"
+      },
+      {
+        "display_name": "Black Gold Metallic (PPG 4967)",
+        "paint_code": "50288",
+        "slug": "black-gold-metallic-ppg-4967-50288",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/black-gold-metallic-ppg-4967-50288/",
+        "source_label": "PaintScratch 2027 Newmar",
+        "hex_value": "#181414"
+      },
+      {
+        "display_name": "Merlot Red (M8757K)",
+        "paint_code": "61881",
+        "slug": "merlot-red-m8757k-61881",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/merlot-red-m8757k-61881/",
+        "source_label": "PaintScratch 2027 Newmar",
+        "hex_value": "#662718"
+      },
+      {
+        "display_name": "Coronado Sand Metallic (PPG 5041)",
+        "paint_code": "50503",
+        "slug": "coronado-sand-metallic-ppg-5041-50503",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/coronado-sand-metallic-ppg-5041-50503/",
+        "source_label": "PaintScratch 2027 Newmar",
+        "hex_value": "#96896A"
+      },
+      {
+        "display_name": "Sapphire Blue Metallic",
+        "paint_code": "51424",
+        "slug": "sapphire-blue-metallic-51424",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/sapphire-blue-metallic-51424/",
+        "source_label": "PaintScratch 2027 Newmar",
+        "hex_value": "#0D2D97"
+      },
+      {
+        "display_name": "Desert Sand Mica",
+        "paint_code": "60703",
+        "slug": "desert-sand-mica-60703",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/desert-sand-mica-60703/",
+        "source_label": "PaintScratch 2027 Newmar",
+        "hex_value": "#C7B599"
+      },
+      {
+        "display_name": "Rainforest Pearl",
+        "paint_code": "61872",
+        "slug": "rainforest-pearl-61872",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/rainforest-pearl-61872/",
+        "source_label": "PaintScratch 2027 Newmar",
+        "hex_value": "#588672"
+      },
+      {
+        "display_name": "Kalahari Beige Metallic",
+        "paint_code": "64503",
+        "slug": "kalahari-beige-metallic-64503",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/kalahari-beige-metallic-64503/",
+        "source_label": "PaintScratch 2027 Newmar",
+        "hex_value": "#EBE7CF"
+      },
+      {
+        "display_name": "Sovereign",
+        "paint_code": "64548",
+        "slug": "sovereign-64548",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/sovereign-64548/",
+        "source_label": "PaintScratch 2027 Newmar",
+        "hex_value": "#E7DFC5"
+      },
+      {
+        "display_name": "Green Gold",
+        "paint_code": "65594",
+        "slug": "green-gold-65594",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/green-gold-65594/",
+        "source_label": "PaintScratch 2027 Newmar",
+        "hex_value": "#9C8C08"
+      },
+      {
+        "display_name": "Midnight Pine Pearl",
+        "paint_code": "62432",
+        "slug": "midnight-pine-pearl-62432",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/midnight-pine-pearl-62432/",
+        "source_label": "PaintScratch 2027 Newmar",
+        "hex_value": "#162820"
+      },
+      {
+        "display_name": "Stratus Metallic",
+        "paint_code": "63043",
+        "slug": "stratus-metallic-63043",
+        "reference_url": "https://www.paintscratch.com/colors/newmar/stratus-metallic-63043/",
+        "source_label": "PaintScratch 2027 Newmar",
+        "hex_value": "#D4D5CD"
+      }
+    ]
+  }
+}

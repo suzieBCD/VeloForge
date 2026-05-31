@@ -1,0 +1,4600 @@
+{
+  "All Models": {
+    "1986": [
+      {
+        "display_name": "Smoke Gray Metallic",
+        "paint_code": "4103-DAU",
+        "slug": "smoke-gray-metallic-4103-dau",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/smoke-gray-metallic-4103-dau/",
+        "source_label": "PaintScratch 1986 Fleetwood",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Chamois",
+        "paint_code": "2923-DAU",
+        "slug": "chamois-2923-dau",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/chamois-2923-dau/",
+        "source_label": "PaintScratch 1986 Fleetwood",
+        "hex_value": "#FFDE01"
+      },
+      {
+        "display_name": "Light Teal",
+        "paint_code": "3574-DAU",
+        "slug": "light-teal-3574-dau",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/light-teal-3574-dau/",
+        "source_label": "PaintScratch 1986 Fleetwood",
+        "hex_value": "#468D8E"
+      },
+      {
+        "display_name": "Poll Gray",
+        "paint_code": "3603-DAU",
+        "slug": "poll-gray-3603-dau",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/poll-gray-3603-dau/",
+        "source_label": "PaintScratch 1986 Fleetwood",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Heather Firemist",
+        "paint_code": "3684-DAU",
+        "slug": "heather-firemist-3684-dau",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/heather-firemist-3684-dau/",
+        "source_label": "PaintScratch 1986 Fleetwood",
+        "hex_value": "#CEC6B8"
+      },
+      {
+        "display_name": "Nassau Blue",
+        "paint_code": "3881-DAU",
+        "slug": "nassau-blue-3881-dau",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/nassau-blue-3881-dau/",
+        "source_label": "PaintScratch 1986 Fleetwood",
+        "hex_value": "#1A68B0"
+      },
+      {
+        "display_name": "Light Beige Metallic",
+        "paint_code": "K9858K",
+        "slug": "light-beige-metallic-k9858k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/light-beige-metallic-k9858k/",
+        "source_label": "PaintScratch 1986 Fleetwood",
+        "hex_value": "#E7DFC5"
+      },
+      {
+        "display_name": "Light Adobe",
+        "paint_code": "USL 50377",
+        "slug": "light-adobe-usl-50377",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/light-adobe-usl-50377/",
+        "source_label": "PaintScratch 1986 Fleetwood",
+        "hex_value": "#D1A341"
+      }
+    ],
+    "1987": [
+      {
+        "display_name": "Smoke Gray Metallic",
+        "paint_code": "4103-DAU",
+        "slug": "smoke-gray-metallic-4103-dau",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/smoke-gray-metallic-4103-dau/",
+        "source_label": "PaintScratch 1987 Fleetwood",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Light Teal",
+        "paint_code": "3574-DAU",
+        "slug": "light-teal-3574-dau",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/light-teal-3574-dau/",
+        "source_label": "PaintScratch 1987 Fleetwood",
+        "hex_value": "#468D8E"
+      },
+      {
+        "display_name": "Poll Gray",
+        "paint_code": "3603-DAU",
+        "slug": "poll-gray-3603-dau",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/poll-gray-3603-dau/",
+        "source_label": "PaintScratch 1987 Fleetwood",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Heather Firemist",
+        "paint_code": "3684-DAU",
+        "slug": "heather-firemist-3684-dau",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/heather-firemist-3684-dau/",
+        "source_label": "PaintScratch 1987 Fleetwood",
+        "hex_value": "#CEC6B8"
+      },
+      {
+        "display_name": "Nassau Blue",
+        "paint_code": "3881-DAU",
+        "slug": "nassau-blue-3881-dau",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/nassau-blue-3881-dau/",
+        "source_label": "PaintScratch 1987 Fleetwood",
+        "hex_value": "#1A68B0"
+      },
+      {
+        "display_name": "Light Beige Metallic",
+        "paint_code": "K9858K",
+        "slug": "light-beige-metallic-k9858k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/light-beige-metallic-k9858k/",
+        "source_label": "PaintScratch 1987 Fleetwood",
+        "hex_value": "#E7DFC5"
+      },
+      {
+        "display_name": "Light Adobe",
+        "paint_code": "USL 50377",
+        "slug": "light-adobe-usl-50377",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/light-adobe-usl-50377/",
+        "source_label": "PaintScratch 1987 Fleetwood",
+        "hex_value": "#D1A341"
+      }
+    ],
+    "1988": [
+      {
+        "display_name": "Smoke Gray Metallic",
+        "paint_code": "4103-DAU",
+        "slug": "smoke-gray-metallic-4103-dau",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/smoke-gray-metallic-4103-dau/",
+        "source_label": "PaintScratch 1988 Fleetwood",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Light Teal",
+        "paint_code": "3574-DAU",
+        "slug": "light-teal-3574-dau",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/light-teal-3574-dau/",
+        "source_label": "PaintScratch 1988 Fleetwood",
+        "hex_value": "#468D8E"
+      },
+      {
+        "display_name": "Poll Gray",
+        "paint_code": "3603-DAU",
+        "slug": "poll-gray-3603-dau",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/poll-gray-3603-dau/",
+        "source_label": "PaintScratch 1988 Fleetwood",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Heather Firemist",
+        "paint_code": "3684-DAU",
+        "slug": "heather-firemist-3684-dau",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/heather-firemist-3684-dau/",
+        "source_label": "PaintScratch 1988 Fleetwood",
+        "hex_value": "#CEC6B8"
+      },
+      {
+        "display_name": "Nassau Blue",
+        "paint_code": "3881-DAU",
+        "slug": "nassau-blue-3881-dau",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/nassau-blue-3881-dau/",
+        "source_label": "PaintScratch 1988 Fleetwood",
+        "hex_value": "#1A68B0"
+      },
+      {
+        "display_name": "Light Beige Metallic",
+        "paint_code": "K9858K",
+        "slug": "light-beige-metallic-k9858k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/light-beige-metallic-k9858k/",
+        "source_label": "PaintScratch 1988 Fleetwood",
+        "hex_value": "#E7DFC5"
+      },
+      {
+        "display_name": "Light Adobe",
+        "paint_code": "USL 50377",
+        "slug": "light-adobe-usl-50377",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/light-adobe-usl-50377/",
+        "source_label": "PaintScratch 1988 Fleetwood",
+        "hex_value": "#D1A341"
+      }
+    ],
+    "1989": [
+      {
+        "display_name": "Smoke Gray Metallic",
+        "paint_code": "4103-DAU",
+        "slug": "smoke-gray-metallic-4103-dau",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/smoke-gray-metallic-4103-dau/",
+        "source_label": "PaintScratch 1989 Fleetwood",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Light Teal",
+        "paint_code": "3574-DAU",
+        "slug": "light-teal-3574-dau",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/light-teal-3574-dau/",
+        "source_label": "PaintScratch 1989 Fleetwood",
+        "hex_value": "#468D8E"
+      },
+      {
+        "display_name": "Poll Gray",
+        "paint_code": "3603-DAU",
+        "slug": "poll-gray-3603-dau",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/poll-gray-3603-dau/",
+        "source_label": "PaintScratch 1989 Fleetwood",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Heather Firemist",
+        "paint_code": "3684-DAU",
+        "slug": "heather-firemist-3684-dau",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/heather-firemist-3684-dau/",
+        "source_label": "PaintScratch 1989 Fleetwood",
+        "hex_value": "#CEC6B8"
+      },
+      {
+        "display_name": "Nassau Blue",
+        "paint_code": "3881-DAU",
+        "slug": "nassau-blue-3881-dau",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/nassau-blue-3881-dau/",
+        "source_label": "PaintScratch 1989 Fleetwood",
+        "hex_value": "#1A68B0"
+      },
+      {
+        "display_name": "Dark Rose Metallic",
+        "paint_code": "51346SC",
+        "slug": "dark-rose-metallic-51346sc",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/dark-rose-metallic-51346sc/",
+        "source_label": "PaintScratch 1989 Fleetwood",
+        "hex_value": "#761C1A"
+      },
+      {
+        "display_name": "Titanium",
+        "paint_code": "DAU3847",
+        "slug": "titanium-dau3847",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/titanium-dau3847/",
+        "source_label": "PaintScratch 1989 Fleetwood",
+        "hex_value": "#CAD1D8"
+      },
+      {
+        "display_name": "Light Beige Metallic",
+        "paint_code": "K9858K",
+        "slug": "light-beige-metallic-k9858k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/light-beige-metallic-k9858k/",
+        "source_label": "PaintScratch 1989 Fleetwood",
+        "hex_value": "#E7DFC5"
+      },
+      {
+        "display_name": "Light Adobe",
+        "paint_code": "USL 50377",
+        "slug": "light-adobe-usl-50377",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/light-adobe-usl-50377/",
+        "source_label": "PaintScratch 1989 Fleetwood",
+        "hex_value": "#D1A341"
+      }
+    ],
+    "1990": [
+      {
+        "display_name": "Smoke Gray Metallic",
+        "paint_code": "4103-DAU",
+        "slug": "smoke-gray-metallic-4103-dau",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/smoke-gray-metallic-4103-dau/",
+        "source_label": "PaintScratch 1990 Fleetwood",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Light Teal",
+        "paint_code": "3574-DAU",
+        "slug": "light-teal-3574-dau",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/light-teal-3574-dau/",
+        "source_label": "PaintScratch 1990 Fleetwood",
+        "hex_value": "#468D8E"
+      },
+      {
+        "display_name": "Poll Gray",
+        "paint_code": "3603-DAU",
+        "slug": "poll-gray-3603-dau",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/poll-gray-3603-dau/",
+        "source_label": "PaintScratch 1990 Fleetwood",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Heather Firemist",
+        "paint_code": "3684-DAU",
+        "slug": "heather-firemist-3684-dau",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/heather-firemist-3684-dau/",
+        "source_label": "PaintScratch 1990 Fleetwood",
+        "hex_value": "#CEC6B8"
+      },
+      {
+        "display_name": "Nassau Blue",
+        "paint_code": "3881-DAU",
+        "slug": "nassau-blue-3881-dau",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/nassau-blue-3881-dau/",
+        "source_label": "PaintScratch 1990 Fleetwood",
+        "hex_value": "#1A68B0"
+      },
+      {
+        "display_name": "Light Beige Metallic",
+        "paint_code": "K9858K",
+        "slug": "light-beige-metallic-k9858k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/light-beige-metallic-k9858k/",
+        "source_label": "PaintScratch 1990 Fleetwood",
+        "hex_value": "#E7DFC5"
+      },
+      {
+        "display_name": "Light Adobe",
+        "paint_code": "USL 50377",
+        "slug": "light-adobe-usl-50377",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/light-adobe-usl-50377/",
+        "source_label": "PaintScratch 1990 Fleetwood",
+        "hex_value": "#D1A341"
+      }
+    ],
+    "1991": [
+      {
+        "display_name": "Smoke Gray Metallic",
+        "paint_code": "4103-DAU",
+        "slug": "smoke-gray-metallic-4103-dau",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/smoke-gray-metallic-4103-dau/",
+        "source_label": "PaintScratch 1991 Fleetwood",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "True Royal Blue Metallic",
+        "paint_code": "U7-45789",
+        "slug": "true-royal-blue-metallic-u7-45789",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/true-royal-blue-metallic-u7-45789/",
+        "source_label": "PaintScratch 1991 Fleetwood",
+        "hex_value": "#111F71"
+      },
+      {
+        "display_name": "Light Teal",
+        "paint_code": "3574-DAU",
+        "slug": "light-teal-3574-dau",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/light-teal-3574-dau/",
+        "source_label": "PaintScratch 1991 Fleetwood",
+        "hex_value": "#468D8E"
+      },
+      {
+        "display_name": "Heather Firemist",
+        "paint_code": "3684-DAU",
+        "slug": "heather-firemist-3684-dau",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/heather-firemist-3684-dau/",
+        "source_label": "PaintScratch 1991 Fleetwood",
+        "hex_value": "#CEC6B8"
+      },
+      {
+        "display_name": "Nassau Blue",
+        "paint_code": "3881-DAU",
+        "slug": "nassau-blue-3881-dau",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/nassau-blue-3881-dau/",
+        "source_label": "PaintScratch 1991 Fleetwood",
+        "hex_value": "#1A68B0"
+      },
+      {
+        "display_name": "Montreal Blue Ploy-Day",
+        "paint_code": "16136",
+        "slug": "montreal-blue-ploy-day-16136",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/montreal-blue-ploy-day-16136/",
+        "source_label": "PaintScratch 1991 Fleetwood",
+        "hex_value": "#495EA3"
+      },
+      {
+        "display_name": "Gray",
+        "paint_code": "45788",
+        "slug": "gray-45788",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/gray-45788/",
+        "source_label": "PaintScratch 1991 Fleetwood",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Light Beige Metallic",
+        "paint_code": "K9858K",
+        "slug": "light-beige-metallic-k9858k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/light-beige-metallic-k9858k/",
+        "source_label": "PaintScratch 1991 Fleetwood",
+        "hex_value": "#E7DFC5"
+      },
+      {
+        "display_name": "Dark Pewter",
+        "paint_code": "U7-45712",
+        "slug": "dark-pewter-u7-45712",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/dark-pewter-u7-45712/",
+        "source_label": "PaintScratch 1991 Fleetwood",
+        "hex_value": "#985636"
+      }
+    ],
+    "1992": [
+      {
+        "display_name": "Smoke Gray Metallic",
+        "paint_code": "4103-DAU",
+        "slug": "smoke-gray-metallic-4103-dau",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/smoke-gray-metallic-4103-dau/",
+        "source_label": "PaintScratch 1992 Fleetwood",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "True Royal Blue Metallic",
+        "paint_code": "U7-45789",
+        "slug": "true-royal-blue-metallic-u7-45789",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/true-royal-blue-metallic-u7-45789/",
+        "source_label": "PaintScratch 1992 Fleetwood",
+        "hex_value": "#111F71"
+      },
+      {
+        "display_name": "Heather Firemist",
+        "paint_code": "3684-DAU",
+        "slug": "heather-firemist-3684-dau",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/heather-firemist-3684-dau/",
+        "source_label": "PaintScratch 1992 Fleetwood",
+        "hex_value": "#CEC6B8"
+      },
+      {
+        "display_name": "Med Aqua",
+        "paint_code": "8073",
+        "slug": "med-aqua-8073",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/med-aqua-8073/",
+        "source_label": "PaintScratch 1992 Fleetwood",
+        "hex_value": "#468D8E"
+      },
+      {
+        "display_name": "Med Smoke Metallic",
+        "paint_code": "45405",
+        "slug": "med-smoke-metallic-45405",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/med-smoke-metallic-45405/",
+        "source_label": "PaintScratch 1992 Fleetwood",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Gray",
+        "paint_code": "45788",
+        "slug": "gray-45788",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/gray-45788/",
+        "source_label": "PaintScratch 1992 Fleetwood",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Dark Pewter",
+        "paint_code": "U7-45712",
+        "slug": "dark-pewter-u7-45712",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/dark-pewter-u7-45712/",
+        "source_label": "PaintScratch 1992 Fleetwood",
+        "hex_value": "#985636"
+      },
+      {
+        "display_name": "Mendocino Pearl",
+        "paint_code": "USL- 45235/35604",
+        "slug": "mendocino-pearl-usl-4523535604",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/mendocino-pearl-usl-4523535604/",
+        "source_label": "PaintScratch 1992 Fleetwood",
+        "hex_value": "#F6F6F0"
+      },
+      {
+        "display_name": "Lt Topaz",
+        "paint_code": "USL46397",
+        "slug": "lt-topaz-usl46397",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/lt-topaz-usl46397/",
+        "source_label": "PaintScratch 1992 Fleetwood",
+        "hex_value": "#D1A341"
+      }
+    ],
+    "1993": [
+      {
+        "display_name": "Smoke Gray Metallic",
+        "paint_code": "4103-DAU",
+        "slug": "smoke-gray-metallic-4103-dau",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/smoke-gray-metallic-4103-dau/",
+        "source_label": "PaintScratch 1993 Fleetwood",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Heather Firemist",
+        "paint_code": "3684-DAU",
+        "slug": "heather-firemist-3684-dau",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/heather-firemist-3684-dau/",
+        "source_label": "PaintScratch 1993 Fleetwood",
+        "hex_value": "#CEC6B8"
+      },
+      {
+        "display_name": "White",
+        "paint_code": "45235",
+        "slug": "white-45235",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/white-45235/",
+        "source_label": "PaintScratch 1993 Fleetwood",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Med Smoke Metallic",
+        "paint_code": "45405",
+        "slug": "med-smoke-metallic-45405",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/med-smoke-metallic-45405/",
+        "source_label": "PaintScratch 1993 Fleetwood",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Slate Gray",
+        "paint_code": "46396",
+        "slug": "slate-gray-46396",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/slate-gray-46396/",
+        "source_label": "PaintScratch 1993 Fleetwood",
+        "hex_value": "#808080"
+      }
+    ],
+    "1994": [
+      {
+        "display_name": "Smoke Gray Metallic",
+        "paint_code": "4103-DAU",
+        "slug": "smoke-gray-metallic-4103-dau",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/smoke-gray-metallic-4103-dau/",
+        "source_label": "PaintScratch 1994 Fleetwood",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "True Royal Blue Metallic",
+        "paint_code": "U7-45789",
+        "slug": "true-royal-blue-metallic-u7-45789",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/true-royal-blue-metallic-u7-45789/",
+        "source_label": "PaintScratch 1994 Fleetwood",
+        "hex_value": "#111F71"
+      },
+      {
+        "display_name": "Heather Firemist",
+        "paint_code": "3684-DAU",
+        "slug": "heather-firemist-3684-dau",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/heather-firemist-3684-dau/",
+        "source_label": "PaintScratch 1994 Fleetwood",
+        "hex_value": "#CEC6B8"
+      },
+      {
+        "display_name": "Dark Pewter",
+        "paint_code": "U7-45712",
+        "slug": "dark-pewter-u7-45712",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/dark-pewter-u7-45712/",
+        "source_label": "PaintScratch 1994 Fleetwood",
+        "hex_value": "#985636"
+      }
+    ],
+    "1995": [
+      {
+        "display_name": "Smoke Metallic",
+        "paint_code": "745474K",
+        "slug": "smoke-metallic-745474k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/smoke-metallic-745474k/",
+        "source_label": "PaintScratch 1995 Fleetwood",
+        "hex_value": "#574F43"
+      },
+      {
+        "display_name": "Smoke Gray Metallic",
+        "paint_code": "4103-DAU",
+        "slug": "smoke-gray-metallic-4103-dau",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/smoke-gray-metallic-4103-dau/",
+        "source_label": "PaintScratch 1995 Fleetwood",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Light Beige (Catalyzed Spray Only)",
+        "paint_code": "27323-DAU",
+        "slug": "light-beige-catalyzed-spray-only-27323-dau",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/light-beige-catalyzed-spray-only-27323-dau/",
+        "source_label": "PaintScratch 1995 Fleetwood",
+        "hex_value": "#E7DFC5"
+      },
+      {
+        "display_name": "Heather Firemist",
+        "paint_code": "3684-DAU",
+        "slug": "heather-firemist-3684-dau",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/heather-firemist-3684-dau/",
+        "source_label": "PaintScratch 1995 Fleetwood",
+        "hex_value": "#CEC6B8"
+      },
+      {
+        "display_name": "Shale Poly",
+        "paint_code": "4993-DAU",
+        "slug": "shale-poly-4993-dau",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/shale-poly-4993-dau/",
+        "source_label": "PaintScratch 1995 Fleetwood",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Shale Poly",
+        "paint_code": "4995-DAU",
+        "slug": "shale-poly-4995-dau",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/shale-poly-4995-dau/",
+        "source_label": "PaintScratch 1995 Fleetwood",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Light Brown",
+        "paint_code": "U7-50817",
+        "slug": "light-brown-u7-50817",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/light-brown-u7-50817/",
+        "source_label": "PaintScratch 1995 Fleetwood",
+        "hex_value": "#D1A341"
+      },
+      {
+        "display_name": "Dark Brown",
+        "paint_code": "U7-50824",
+        "slug": "dark-brown-u7-50824",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/dark-brown-u7-50824/",
+        "source_label": "PaintScratch 1995 Fleetwood",
+        "hex_value": "#985636"
+      },
+      {
+        "display_name": "Light Adobe",
+        "paint_code": "USL 50377",
+        "slug": "light-adobe-usl-50377",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/light-adobe-usl-50377/",
+        "source_label": "PaintScratch 1995 Fleetwood",
+        "hex_value": "#D1A341"
+      }
+    ],
+    "1996": [
+      {
+        "display_name": "Mocha Frost Metallic",
+        "paint_code": "52939",
+        "slug": "mocha-frost-metallic-52939",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/mocha-frost-metallic-52939/",
+        "source_label": "PaintScratch 1996 Fleetwood",
+        "hex_value": "#E7DFC5"
+      },
+      {
+        "display_name": "Smoke Gray Metallic",
+        "paint_code": "4103-DAU",
+        "slug": "smoke-gray-metallic-4103-dau",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/smoke-gray-metallic-4103-dau/",
+        "source_label": "PaintScratch 1996 Fleetwood",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Heather Firemist",
+        "paint_code": "3684-DAU",
+        "slug": "heather-firemist-3684-dau",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/heather-firemist-3684-dau/",
+        "source_label": "PaintScratch 1996 Fleetwood",
+        "hex_value": "#CEC6B8"
+      },
+      {
+        "display_name": "Light Adobe",
+        "paint_code": "4168-DAU",
+        "slug": "light-adobe-4168-dau",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/light-adobe-4168-dau/",
+        "source_label": "PaintScratch 1996 Fleetwood",
+        "hex_value": "#CEB98C"
+      },
+      {
+        "display_name": "Shale Poly",
+        "paint_code": "4993-DAU",
+        "slug": "shale-poly-4993-dau",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/shale-poly-4993-dau/",
+        "source_label": "PaintScratch 1996 Fleetwood",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Shale Poly",
+        "paint_code": "4995-DAU",
+        "slug": "shale-poly-4995-dau",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/shale-poly-4995-dau/",
+        "source_label": "PaintScratch 1996 Fleetwood",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Warm Beige Metallic",
+        "paint_code": "748542K",
+        "slug": "warm-beige-metallic-748542k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/warm-beige-metallic-748542k/",
+        "source_label": "PaintScratch 1996 Fleetwood",
+        "hex_value": "#985636"
+      },
+      {
+        "display_name": "Garnet Red",
+        "paint_code": "748550K",
+        "slug": "garnet-red-748550k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/garnet-red-748550k/",
+        "source_label": "PaintScratch 1996 Fleetwood",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "Dream White",
+        "paint_code": "778687K",
+        "slug": "dream-white-778687k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/dream-white-778687k/",
+        "source_label": "PaintScratch 1996 Fleetwood",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Elegant Beige",
+        "paint_code": "G9574K",
+        "slug": "elegant-beige-g9574k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/elegant-beige-g9574k/",
+        "source_label": "PaintScratch 1996 Fleetwood",
+        "hex_value": "#E7DFC5"
+      },
+      {
+        "display_name": "Light Adobe",
+        "paint_code": "USL 50377",
+        "slug": "light-adobe-usl-50377",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/light-adobe-usl-50377/",
+        "source_label": "PaintScratch 1996 Fleetwood",
+        "hex_value": "#D1A341"
+      }
+    ],
+    "1997": [
+      {
+        "display_name": "Smoke Gray Metallic",
+        "paint_code": "4103-DAU",
+        "slug": "smoke-gray-metallic-4103-dau",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/smoke-gray-metallic-4103-dau/",
+        "source_label": "PaintScratch 1997 Fleetwood",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Beige",
+        "paint_code": "U7-54671",
+        "slug": "beige-u7-54671",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/beige-u7-54671/",
+        "source_label": "PaintScratch 1997 Fleetwood",
+        "hex_value": "#E9D9A1"
+      },
+      {
+        "display_name": "Light Beige",
+        "paint_code": "U7-51477",
+        "slug": "light-beige-u7-51477",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/light-beige-u7-51477/",
+        "source_label": "PaintScratch 1997 Fleetwood",
+        "hex_value": "#E7DFC5"
+      },
+      {
+        "display_name": "Heather Firemist",
+        "paint_code": "3684-DAU",
+        "slug": "heather-firemist-3684-dau",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/heather-firemist-3684-dau/",
+        "source_label": "PaintScratch 1997 Fleetwood",
+        "hex_value": "#CEC6B8"
+      },
+      {
+        "display_name": "Shale Poly",
+        "paint_code": "4993-DAU",
+        "slug": "shale-poly-4993-dau",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/shale-poly-4993-dau/",
+        "source_label": "PaintScratch 1997 Fleetwood",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Shale Poly",
+        "paint_code": "4995-DAU",
+        "slug": "shale-poly-4995-dau",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/shale-poly-4995-dau/",
+        "source_label": "PaintScratch 1997 Fleetwood",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Medium Smoke Metallic",
+        "paint_code": "36251-DAU",
+        "slug": "medium-smoke-metallic-36251-dau",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/medium-smoke-metallic-36251-dau/",
+        "source_label": "PaintScratch 1997 Fleetwood",
+        "hex_value": "#985636"
+      },
+      {
+        "display_name": "White",
+        "paint_code": "45235",
+        "slug": "white-45235",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/white-45235/",
+        "source_label": "PaintScratch 1997 Fleetwood",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Med Smoke Metallic",
+        "paint_code": "45405",
+        "slug": "med-smoke-metallic-45405",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/med-smoke-metallic-45405/",
+        "source_label": "PaintScratch 1997 Fleetwood",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Light Evergreen Frost",
+        "paint_code": "US 53896",
+        "slug": "light-evergreen-frost-us-53896",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/light-evergreen-frost-us-53896/",
+        "source_label": "PaintScratch 1997 Fleetwood",
+        "hex_value": "#468D8E"
+      },
+      {
+        "display_name": "Light Adobe",
+        "paint_code": "USL 50377",
+        "slug": "light-adobe-usl-50377",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/light-adobe-usl-50377/",
+        "source_label": "PaintScratch 1997 Fleetwood",
+        "hex_value": "#D1A341"
+      }
+    ],
+    "1998": [
+      {
+        "display_name": "Smoke Gray Metallic",
+        "paint_code": "4103-DAU",
+        "slug": "smoke-gray-metallic-4103-dau",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/smoke-gray-metallic-4103-dau/",
+        "source_label": "PaintScratch 1998 Fleetwood",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Light Adobe",
+        "paint_code": "27838-DAU",
+        "slug": "light-adobe-27838-dau",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/light-adobe-27838-dau/",
+        "source_label": "PaintScratch 1998 Fleetwood",
+        "hex_value": "#CEB98C"
+      },
+      {
+        "display_name": "Cashmere Silver",
+        "paint_code": "748544K",
+        "slug": "cashmere-silver-748544k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/cashmere-silver-748544k/",
+        "source_label": "PaintScratch 1998 Fleetwood",
+        "hex_value": "#D1A341"
+      },
+      {
+        "display_name": "Dark Toupe",
+        "paint_code": "K9861",
+        "slug": "dark-toupe-k9861",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/dark-toupe-k9861/",
+        "source_label": "PaintScratch 1998 Fleetwood",
+        "hex_value": "#504736"
+      },
+      {
+        "display_name": "Dream White",
+        "paint_code": "U7-50478",
+        "slug": "dream-white-u7-50478",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/dream-white-u7-50478/",
+        "source_label": "PaintScratch 1998 Fleetwood",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Light Beige",
+        "paint_code": "U7-51477",
+        "slug": "light-beige-u7-51477",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/light-beige-u7-51477/",
+        "source_label": "PaintScratch 1998 Fleetwood",
+        "hex_value": "#E7DFC5"
+      },
+      {
+        "display_name": "Medium Plum Metallic",
+        "paint_code": "U7-54663-E",
+        "slug": "medium-plum-metallic-u7-54663-e",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/medium-plum-metallic-u7-54663-e/",
+        "source_label": "PaintScratch 1998 Fleetwood",
+        "hex_value": "#6A3061"
+      },
+      {
+        "display_name": "Green Poly",
+        "paint_code": "USL 48874",
+        "slug": "green-poly-usl-48874",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/green-poly-usl-48874/",
+        "source_label": "PaintScratch 1998 Fleetwood",
+        "hex_value": "#468D8E"
+      },
+      {
+        "display_name": "Heather Firemist",
+        "paint_code": "3684-DAU",
+        "slug": "heather-firemist-3684-dau",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/heather-firemist-3684-dau/",
+        "source_label": "PaintScratch 1998 Fleetwood",
+        "hex_value": "#CEC6B8"
+      },
+      {
+        "display_name": "Shale Poly",
+        "paint_code": "4993-DAU",
+        "slug": "shale-poly-4993-dau",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/shale-poly-4993-dau/",
+        "source_label": "PaintScratch 1998 Fleetwood",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Shale Poly",
+        "paint_code": "4995-DAU",
+        "slug": "shale-poly-4995-dau",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/shale-poly-4995-dau/",
+        "source_label": "PaintScratch 1998 Fleetwood",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Medium Smoke Metallic",
+        "paint_code": "36251-DAU",
+        "slug": "medium-smoke-metallic-36251-dau",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/medium-smoke-metallic-36251-dau/",
+        "source_label": "PaintScratch 1998 Fleetwood",
+        "hex_value": "#985636"
+      },
+      {
+        "display_name": "Med Smoke Metallic",
+        "paint_code": "45405",
+        "slug": "med-smoke-metallic-45405",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/med-smoke-metallic-45405/",
+        "source_label": "PaintScratch 1998 Fleetwood",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Iron Gray Metallic",
+        "paint_code": "U7-54675",
+        "slug": "iron-gray-metallic-u7-54675",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/iron-gray-metallic-u7-54675/",
+        "source_label": "PaintScratch 1998 Fleetwood",
+        "hex_value": "#808080"
+      }
+    ],
+    "1999": [
+      {
+        "display_name": "Dark Green",
+        "paint_code": "U7-54682",
+        "slug": "dark-green-u7-54682",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/dark-green-u7-54682/",
+        "source_label": "PaintScratch 1999 Fleetwood",
+        "hex_value": "#2E5431"
+      },
+      {
+        "display_name": "Smoke Gray Metallic",
+        "paint_code": "4103-DAU",
+        "slug": "smoke-gray-metallic-4103-dau",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/smoke-gray-metallic-4103-dau/",
+        "source_label": "PaintScratch 1999 Fleetwood",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Ultra Metallic Alt 1",
+        "paint_code": "CV58829",
+        "slug": "ultra-metallic-alt-1-cv58829",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/ultra-metallic-alt-1-cv58829/",
+        "source_label": "PaintScratch 1999 Fleetwood",
+        "hex_value": "#707376"
+      },
+      {
+        "display_name": "Beige",
+        "paint_code": "U7-54671",
+        "slug": "beige-u7-54671",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/beige-u7-54671/",
+        "source_label": "PaintScratch 1999 Fleetwood",
+        "hex_value": "#E9D9A1"
+      },
+      {
+        "display_name": "Dream White",
+        "paint_code": "U7-50478",
+        "slug": "dream-white-u7-50478",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/dream-white-u7-50478/",
+        "source_label": "PaintScratch 1999 Fleetwood",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Light Beige",
+        "paint_code": "U7-51477",
+        "slug": "light-beige-u7-51477",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/light-beige-u7-51477/",
+        "source_label": "PaintScratch 1999 Fleetwood",
+        "hex_value": "#E7DFC5"
+      },
+      {
+        "display_name": "Burgundy Metallic",
+        "paint_code": "U7-58102/F0742K",
+        "slug": "burgundy-metallic-u7-58102f0742k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/burgundy-metallic-u7-58102f0742k/",
+        "source_label": "PaintScratch 1999 Fleetwood",
+        "hex_value": "#761C1A"
+      },
+      {
+        "display_name": "Polar White",
+        "paint_code": "USL-55895",
+        "slug": "polar-white-usl-55895",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/polar-white-usl-55895/",
+        "source_label": "PaintScratch 1999 Fleetwood",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Heather Firemist",
+        "paint_code": "3684-DAU",
+        "slug": "heather-firemist-3684-dau",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/heather-firemist-3684-dau/",
+        "source_label": "PaintScratch 1999 Fleetwood",
+        "hex_value": "#CEC6B8"
+      },
+      {
+        "display_name": "Shale Poly",
+        "paint_code": "4993-DAU",
+        "slug": "shale-poly-4993-dau",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/shale-poly-4993-dau/",
+        "source_label": "PaintScratch 1999 Fleetwood",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Shale Poly",
+        "paint_code": "4995-DAU",
+        "slug": "shale-poly-4995-dau",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/shale-poly-4995-dau/",
+        "source_label": "PaintScratch 1999 Fleetwood",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Mocha Metallic",
+        "paint_code": "CY54659R-G",
+        "slug": "mocha-metallic-cy54659r-g",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/mocha-metallic-cy54659r-g/",
+        "source_label": "PaintScratch 1999 Fleetwood",
+        "hex_value": "#E9D9A1"
+      },
+      {
+        "display_name": "Day Blue",
+        "paint_code": "M5325K/U7-58099",
+        "slug": "day-blue-m5325ku7-58099",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/day-blue-m5325ku7-58099/",
+        "source_label": "PaintScratch 1999 Fleetwood",
+        "hex_value": "#597DF3"
+      },
+      {
+        "display_name": "Light Beige",
+        "paint_code": "U7-45596/G9562K",
+        "slug": "light-beige-u7-45596g9562k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/light-beige-u7-45596g9562k/",
+        "source_label": "PaintScratch 1999 Fleetwood",
+        "hex_value": "#E7DFC5"
+      },
+      {
+        "display_name": "Light Brown",
+        "paint_code": "U7-54659-E/745475K",
+        "slug": "light-brown-u7-54659-e745475k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/light-brown-u7-54659-e745475k/",
+        "source_label": "PaintScratch 1999 Fleetwood",
+        "hex_value": "#D1A341"
+      },
+      {
+        "display_name": "Light Mocha Metallic",
+        "paint_code": "U7-54660-Y/748525K",
+        "slug": "light-mocha-metallic-u7-54660-y748525k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/light-mocha-metallic-u7-54660-y748525k/",
+        "source_label": "PaintScratch 1999 Fleetwood",
+        "hex_value": "#C57E3F"
+      }
+    ],
+    "2000": [
+      {
+        "display_name": "Smoke Gray Metallic",
+        "paint_code": "4103-DAU",
+        "slug": "smoke-gray-metallic-4103-dau",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/smoke-gray-metallic-4103-dau/",
+        "source_label": "PaintScratch 2000 Fleetwood",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Midnight Gray Metallic",
+        "paint_code": "U7-53719",
+        "slug": "midnight-gray-metallic-u7-53719",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/midnight-gray-metallic-u7-53719/",
+        "source_label": "PaintScratch 2000 Fleetwood",
+        "hex_value": "#494743"
+      },
+      {
+        "display_name": "Beige",
+        "paint_code": "U7-54671",
+        "slug": "beige-u7-54671",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/beige-u7-54671/",
+        "source_label": "PaintScratch 2000 Fleetwood",
+        "hex_value": "#E9D9A1"
+      },
+      {
+        "display_name": "Nimbus Gray Metallic",
+        "paint_code": "U7-43597",
+        "slug": "nimbus-gray-metallic-u7-43597",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/nimbus-gray-metallic-u7-43597/",
+        "source_label": "PaintScratch 2000 Fleetwood",
+        "hex_value": "#494643"
+      },
+      {
+        "display_name": "Dream White",
+        "paint_code": "U7-50478",
+        "slug": "dream-white-u7-50478",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/dream-white-u7-50478/",
+        "source_label": "PaintScratch 2000 Fleetwood",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Burnished Gold Metallic",
+        "paint_code": "U7-60054",
+        "slug": "burnished-gold-metallic-u7-60054",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/burnished-gold-metallic-u7-60054/",
+        "source_label": "PaintScratch 2000 Fleetwood",
+        "hex_value": "#D5D0A7"
+      },
+      {
+        "display_name": "Clearwater Blue Metallic",
+        "paint_code": "U7-60056",
+        "slug": "clearwater-blue-metallic-u7-60056",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/clearwater-blue-metallic-u7-60056/",
+        "source_label": "PaintScratch 2000 Fleetwood",
+        "hex_value": "#CAD1D8"
+      },
+      {
+        "display_name": "Medium Blue",
+        "paint_code": "16111",
+        "slug": "medium-blue-16111",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/medium-blue-16111/",
+        "source_label": "PaintScratch 2000 Fleetwood",
+        "hex_value": "#597DF3"
+      },
+      {
+        "display_name": "Iron Gray Metallic",
+        "paint_code": "U7-54675",
+        "slug": "iron-gray-metallic-u7-54675",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/iron-gray-metallic-u7-54675/",
+        "source_label": "PaintScratch 2000 Fleetwood",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Medium Gray",
+        "paint_code": "U7-54676",
+        "slug": "medium-gray-u7-54676",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/medium-gray-u7-54676/",
+        "source_label": "PaintScratch 2000 Fleetwood",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Gray",
+        "paint_code": "U7-54676-E",
+        "slug": "gray-u7-54676-e",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/gray-u7-54676-e/",
+        "source_label": "PaintScratch 2000 Fleetwood",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Dark Brown",
+        "paint_code": "U7-54678-E",
+        "slug": "dark-brown-u7-54678-e",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/dark-brown-u7-54678-e/",
+        "source_label": "PaintScratch 2000 Fleetwood",
+        "hex_value": "#985636"
+      },
+      {
+        "display_name": "Green",
+        "paint_code": "U7-54683",
+        "slug": "green-u7-54683",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/green-u7-54683/",
+        "source_label": "PaintScratch 2000 Fleetwood",
+        "hex_value": "#2E6D1F"
+      },
+      {
+        "display_name": "White Metallic",
+        "paint_code": "U7-55895",
+        "slug": "white-metallic-u7-55895",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/white-metallic-u7-55895/",
+        "source_label": "PaintScratch 2000 Fleetwood",
+        "hex_value": "#F6F6F0"
+      },
+      {
+        "display_name": "Gray",
+        "paint_code": "U7-60055",
+        "slug": "gray-u7-60055",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/gray-u7-60055/",
+        "source_label": "PaintScratch 2000 Fleetwood",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Crystal Blue",
+        "paint_code": "USL-5809",
+        "slug": "crystal-blue-usl-5809",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/crystal-blue-usl-5809/",
+        "source_label": "PaintScratch 2000 Fleetwood",
+        "hex_value": "#597DF3"
+      }
+    ],
+    "2001": [
+      {
+        "display_name": "Mocha Frost Metallic",
+        "paint_code": "52939",
+        "slug": "mocha-frost-metallic-52939",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/mocha-frost-metallic-52939/",
+        "source_label": "PaintScratch 2001 Fleetwood",
+        "hex_value": "#E7DFC5"
+      },
+      {
+        "display_name": "Coral Grey Metallic",
+        "paint_code": "747531K",
+        "slug": "coral-grey-metallic-747531k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/coral-grey-metallic-747531k/",
+        "source_label": "PaintScratch 2001 Fleetwood",
+        "hex_value": "#CAD1D8"
+      },
+      {
+        "display_name": "Smoke Gray Metallic",
+        "paint_code": "4103-DAU",
+        "slug": "smoke-gray-metallic-4103-dau",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/smoke-gray-metallic-4103-dau/",
+        "source_label": "PaintScratch 2001 Fleetwood",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Midnight Gray Metallic",
+        "paint_code": "U7-53719",
+        "slug": "midnight-gray-metallic-u7-53719",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/midnight-gray-metallic-u7-53719/",
+        "source_label": "PaintScratch 2001 Fleetwood",
+        "hex_value": "#494743"
+      },
+      {
+        "display_name": "Beige",
+        "paint_code": "U7-54671",
+        "slug": "beige-u7-54671",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/beige-u7-54671/",
+        "source_label": "PaintScratch 2001 Fleetwood",
+        "hex_value": "#E9D9A1"
+      },
+      {
+        "display_name": "Burnished Gold Metallic",
+        "paint_code": "U7-60054",
+        "slug": "burnished-gold-metallic-u7-60054",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/burnished-gold-metallic-u7-60054/",
+        "source_label": "PaintScratch 2001 Fleetwood",
+        "hex_value": "#D5D0A7"
+      },
+      {
+        "display_name": "Iron Gray Metallic",
+        "paint_code": "U7-54675",
+        "slug": "iron-gray-metallic-u7-54675",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/iron-gray-metallic-u7-54675/",
+        "source_label": "PaintScratch 2001 Fleetwood",
+        "hex_value": "#808080"
+      }
+    ],
+    "2002": [
+      {
+        "display_name": "Mocha Frost Metallic",
+        "paint_code": "52939",
+        "slug": "mocha-frost-metallic-52939",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/mocha-frost-metallic-52939/",
+        "source_label": "PaintScratch 2002 Fleetwood",
+        "hex_value": "#E7DFC5"
+      },
+      {
+        "display_name": "Dark Green",
+        "paint_code": "U7-54682",
+        "slug": "dark-green-u7-54682",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/dark-green-u7-54682/",
+        "source_label": "PaintScratch 2002 Fleetwood",
+        "hex_value": "#2E5431"
+      },
+      {
+        "display_name": "Smoke Gray Metallic",
+        "paint_code": "4103-DAU",
+        "slug": "smoke-gray-metallic-4103-dau",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/smoke-gray-metallic-4103-dau/",
+        "source_label": "PaintScratch 2002 Fleetwood",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Midnight Gray Metallic",
+        "paint_code": "U7-53719",
+        "slug": "midnight-gray-metallic-u7-53719",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/midnight-gray-metallic-u7-53719/",
+        "source_label": "PaintScratch 2002 Fleetwood",
+        "hex_value": "#494743"
+      },
+      {
+        "display_name": "Beige",
+        "paint_code": "U7-54671",
+        "slug": "beige-u7-54671",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/beige-u7-54671/",
+        "source_label": "PaintScratch 2002 Fleetwood",
+        "hex_value": "#E9D9A1"
+      },
+      {
+        "display_name": "Light Cypress Green Metallic",
+        "paint_code": "U7-56090",
+        "slug": "light-cypress-green-metallic-u7-56090",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/light-cypress-green-metallic-u7-56090/",
+        "source_label": "PaintScratch 2002 Fleetwood",
+        "hex_value": "#788377"
+      },
+      {
+        "display_name": "Burnished Gold Metallic",
+        "paint_code": "U7-60054",
+        "slug": "burnished-gold-metallic-u7-60054",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/burnished-gold-metallic-u7-60054/",
+        "source_label": "PaintScratch 2002 Fleetwood",
+        "hex_value": "#D5D0A7"
+      },
+      {
+        "display_name": "Clearwater Blue Metallic",
+        "paint_code": "U7-60056",
+        "slug": "clearwater-blue-metallic-u7-60056",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/clearwater-blue-metallic-u7-60056/",
+        "source_label": "PaintScratch 2002 Fleetwood",
+        "hex_value": "#CAD1D8"
+      },
+      {
+        "display_name": "Polar White",
+        "paint_code": "U7-62638",
+        "slug": "polar-white-u7-62638",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/polar-white-u7-62638/",
+        "source_label": "PaintScratch 2002 Fleetwood",
+        "hex_value": "#F7F3F3"
+      },
+      {
+        "display_name": "Medium Fern Metallic",
+        "paint_code": "748531K",
+        "slug": "medium-fern-metallic-748531k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/medium-fern-metallic-748531k/",
+        "source_label": "PaintScratch 2002 Fleetwood",
+        "hex_value": "#D9EBB7"
+      },
+      {
+        "display_name": "Alabaster Metallic",
+        "paint_code": "U7-44129",
+        "slug": "alabaster-metallic-u7-44129",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/alabaster-metallic-u7-44129/",
+        "source_label": "PaintScratch 2002 Fleetwood",
+        "hex_value": "#F6F6F0"
+      },
+      {
+        "display_name": "Autumwood Metallic",
+        "paint_code": "U7-48507",
+        "slug": "autumwood-metallic-u7-48507",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/autumwood-metallic-u7-48507/",
+        "source_label": "PaintScratch 2002 Fleetwood",
+        "hex_value": "#9C8C08"
+      },
+      {
+        "display_name": "Iron Gray Metallic",
+        "paint_code": "U7-54675",
+        "slug": "iron-gray-metallic-u7-54675",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/iron-gray-metallic-u7-54675/",
+        "source_label": "PaintScratch 2002 Fleetwood",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Medium Gray",
+        "paint_code": "U7-54676",
+        "slug": "medium-gray-u7-54676",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/medium-gray-u7-54676/",
+        "source_label": "PaintScratch 2002 Fleetwood",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "White Metallic",
+        "paint_code": "U7-55895",
+        "slug": "white-metallic-u7-55895",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/white-metallic-u7-55895/",
+        "source_label": "PaintScratch 2002 Fleetwood",
+        "hex_value": "#F6F6F0"
+      }
+    ],
+    "2003": [
+      {
+        "display_name": "Obsidian",
+        "paint_code": "745478K",
+        "slug": "obsidian-745478k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/obsidian-745478k/",
+        "source_label": "PaintScratch 2003 Fleetwood",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Champagne Pearl Metallic",
+        "paint_code": "748547K",
+        "slug": "champagne-pearl-metallic-748547k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/champagne-pearl-metallic-748547k/",
+        "source_label": "PaintScratch 2003 Fleetwood",
+        "hex_value": "#ECE5B6"
+      },
+      {
+        "display_name": "Bright Silver Metallic",
+        "paint_code": "745479K",
+        "slug": "bright-silver-metallic-745479k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/bright-silver-metallic-745479k/",
+        "source_label": "PaintScratch 2003 Fleetwood",
+        "hex_value": "#F4F3EE"
+      },
+      {
+        "display_name": "Coral Grey Metallic",
+        "paint_code": "747531K",
+        "slug": "coral-grey-metallic-747531k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/coral-grey-metallic-747531k/",
+        "source_label": "PaintScratch 2003 Fleetwood",
+        "hex_value": "#CAD1D8"
+      },
+      {
+        "display_name": "Obsidian Black Metallic",
+        "paint_code": "CV56680R",
+        "slug": "obsidian-black-metallic-cv56680r",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/obsidian-black-metallic-cv56680r/",
+        "source_label": "PaintScratch 2003 Fleetwood",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Cashmere Beige Metallic",
+        "paint_code": "748543K",
+        "slug": "cashmere-beige-metallic-748543k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/cashmere-beige-metallic-748543k/",
+        "source_label": "PaintScratch 2003 Fleetwood",
+        "hex_value": "#C57E3F"
+      },
+      {
+        "display_name": "Dark Green",
+        "paint_code": "U7-54682",
+        "slug": "dark-green-u7-54682",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/dark-green-u7-54682/",
+        "source_label": "PaintScratch 2003 Fleetwood",
+        "hex_value": "#2E5431"
+      },
+      {
+        "display_name": "Smoke Gray Metallic",
+        "paint_code": "4103-DAU",
+        "slug": "smoke-gray-metallic-4103-dau",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/smoke-gray-metallic-4103-dau/",
+        "source_label": "PaintScratch 2003 Fleetwood",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Mocha Metallic",
+        "paint_code": "745475K",
+        "slug": "mocha-metallic-745475k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/mocha-metallic-745475k/",
+        "source_label": "PaintScratch 2003 Fleetwood",
+        "hex_value": "#9F9173"
+      },
+      {
+        "display_name": "Parchment Gold Metallic",
+        "paint_code": "748536K",
+        "slug": "parchment-gold-metallic-748536k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/parchment-gold-metallic-748536k/",
+        "source_label": "PaintScratch 2003 Fleetwood",
+        "hex_value": "#D6CEB7"
+      },
+      {
+        "display_name": "Ultra Metallic Alt 1",
+        "paint_code": "CV58829",
+        "slug": "ultra-metallic-alt-1-cv58829",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/ultra-metallic-alt-1-cv58829/",
+        "source_label": "PaintScratch 2003 Fleetwood",
+        "hex_value": "#707376"
+      },
+      {
+        "display_name": "Beige",
+        "paint_code": "U7-54671",
+        "slug": "beige-u7-54671",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/beige-u7-54671/",
+        "source_label": "PaintScratch 2003 Fleetwood",
+        "hex_value": "#E9D9A1"
+      },
+      {
+        "display_name": "Light Cypress Green Metallic",
+        "paint_code": "U7-56090",
+        "slug": "light-cypress-green-metallic-u7-56090",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/light-cypress-green-metallic-u7-56090/",
+        "source_label": "PaintScratch 2003 Fleetwood",
+        "hex_value": "#788377"
+      },
+      {
+        "display_name": "Medium Sage Green Metallic",
+        "paint_code": "748535K",
+        "slug": "medium-sage-green-metallic-748535k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/medium-sage-green-metallic-748535k/",
+        "source_label": "PaintScratch 2003 Fleetwood",
+        "hex_value": "#2E6D1F"
+      },
+      {
+        "display_name": "Light Chestnut Metallic",
+        "paint_code": "748556K",
+        "slug": "light-chestnut-metallic-748556k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/light-chestnut-metallic-748556k/",
+        "source_label": "PaintScratch 2003 Fleetwood",
+        "hex_value": "#D1A341"
+      },
+      {
+        "display_name": "Dark Beechwood Metallic",
+        "paint_code": "750308K",
+        "slug": "dark-beechwood-metallic-750308k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/dark-beechwood-metallic-750308k/",
+        "source_label": "PaintScratch 2003 Fleetwood",
+        "hex_value": "#6E5740"
+      }
+    ],
+    "2004": [
+      {
+        "display_name": "Champagne Pearl Metallic",
+        "paint_code": "748547K",
+        "slug": "champagne-pearl-metallic-748547k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/champagne-pearl-metallic-748547k/",
+        "source_label": "PaintScratch 2004 Fleetwood",
+        "hex_value": "#ECE5B6"
+      },
+      {
+        "display_name": "Iron Gray Metallic",
+        "paint_code": "745477K",
+        "slug": "iron-gray-metallic-745477k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/iron-gray-metallic-745477k/",
+        "source_label": "PaintScratch 2004 Fleetwood",
+        "hex_value": "#202020"
+      },
+      {
+        "display_name": "Mocha Frost",
+        "paint_code": "740932K",
+        "slug": "mocha-frost-740932k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/mocha-frost-740932k/",
+        "source_label": "PaintScratch 2004 Fleetwood",
+        "hex_value": "#B2A38E"
+      },
+      {
+        "display_name": "Mocha Frost Metallic",
+        "paint_code": "52939",
+        "slug": "mocha-frost-metallic-52939",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/mocha-frost-metallic-52939/",
+        "source_label": "PaintScratch 2004 Fleetwood",
+        "hex_value": "#E7DFC5"
+      },
+      {
+        "display_name": "Partin Grey",
+        "paint_code": "CV-67081_ (745511K",
+        "slug": "partin-grey-cv-67081-745511k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/partin-grey-cv-67081-745511k/",
+        "source_label": "PaintScratch 2004 Fleetwood",
+        "hex_value": "#BDB4A7"
+      },
+      {
+        "display_name": "Coral Grey Metallic",
+        "paint_code": "747531K",
+        "slug": "coral-grey-metallic-747531k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/coral-grey-metallic-747531k/",
+        "source_label": "PaintScratch 2004 Fleetwood",
+        "hex_value": "#CAD1D8"
+      },
+      {
+        "display_name": "Obsidian Black Metallic",
+        "paint_code": "CV56680R",
+        "slug": "obsidian-black-metallic-cv56680r",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/obsidian-black-metallic-cv56680r/",
+        "source_label": "PaintScratch 2004 Fleetwood",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Polar White",
+        "paint_code": "740956 IM",
+        "slug": "polar-white-740956-im",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/polar-white-740956-im/",
+        "source_label": "PaintScratch 2004 Fleetwood",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Cashmere Beige Metallic",
+        "paint_code": "748543K",
+        "slug": "cashmere-beige-metallic-748543k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/cashmere-beige-metallic-748543k/",
+        "source_label": "PaintScratch 2004 Fleetwood",
+        "hex_value": "#C57E3F"
+      },
+      {
+        "display_name": "Paradise Lt. Grey Metallic",
+        "paint_code": "CV67077",
+        "slug": "paradise-lt-grey-metallic-cv67077",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/paradise-lt-grey-metallic-cv67077/",
+        "source_label": "PaintScratch 2004 Fleetwood",
+        "hex_value": "#202020"
+      },
+      {
+        "display_name": "Dark Green",
+        "paint_code": "U7-54682",
+        "slug": "dark-green-u7-54682",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/dark-green-u7-54682/",
+        "source_label": "PaintScratch 2004 Fleetwood",
+        "hex_value": "#2E5431"
+      },
+      {
+        "display_name": "Mocha Metallic",
+        "paint_code": "745475K",
+        "slug": "mocha-metallic-745475k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/mocha-metallic-745475k/",
+        "source_label": "PaintScratch 2004 Fleetwood",
+        "hex_value": "#9F9173"
+      },
+      {
+        "display_name": "Marissa Grey (67082)",
+        "paint_code": "745503K",
+        "slug": "marissa-grey-67082-745503k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/marissa-grey-67082-745503k/",
+        "source_label": "PaintScratch 2004 Fleetwood",
+        "hex_value": "#8F8D79"
+      },
+      {
+        "display_name": "Parchment Gold Metallic",
+        "paint_code": "748536K",
+        "slug": "parchment-gold-metallic-748536k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/parchment-gold-metallic-748536k/",
+        "source_label": "PaintScratch 2004 Fleetwood",
+        "hex_value": "#D6CEB7"
+      },
+      {
+        "display_name": "Petrill Dark Brown Metallic",
+        "paint_code": "748537K",
+        "slug": "petrill-dark-brown-metallic-748537k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/petrill-dark-brown-metallic-748537k/",
+        "source_label": "PaintScratch 2004 Fleetwood",
+        "hex_value": "#57372B"
+      },
+      {
+        "display_name": "Ultra Metallic Alt 1",
+        "paint_code": "CV58829",
+        "slug": "ultra-metallic-alt-1-cv58829",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/ultra-metallic-alt-1-cv58829/",
+        "source_label": "PaintScratch 2004 Fleetwood",
+        "hex_value": "#707376"
+      }
+    ],
+    "2005": [
+      {
+        "display_name": "Obsidian",
+        "paint_code": "745478K",
+        "slug": "obsidian-745478k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/obsidian-745478k/",
+        "source_label": "PaintScratch 2005 Fleetwood",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Champagne Pearl Metallic",
+        "paint_code": "748547K",
+        "slug": "champagne-pearl-metallic-748547k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/champagne-pearl-metallic-748547k/",
+        "source_label": "PaintScratch 2005 Fleetwood",
+        "hex_value": "#ECE5B6"
+      },
+      {
+        "display_name": "Light Champagne Metallic",
+        "paint_code": "751052K",
+        "slug": "light-champagne-metallic-751052k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/light-champagne-metallic-751052k/",
+        "source_label": "PaintScratch 2005 Fleetwood",
+        "hex_value": "#D6CEB7"
+      },
+      {
+        "display_name": "Summer Dust",
+        "paint_code": "776871K",
+        "slug": "summer-dust-776871k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/summer-dust-776871k/",
+        "source_label": "PaintScratch 2005 Fleetwood",
+        "hex_value": "#928A76"
+      },
+      {
+        "display_name": "Iron Gray Metallic",
+        "paint_code": "745477K",
+        "slug": "iron-gray-metallic-745477k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/iron-gray-metallic-745477k/",
+        "source_label": "PaintScratch 2005 Fleetwood",
+        "hex_value": "#202020"
+      },
+      {
+        "display_name": "Mocha Frost",
+        "paint_code": "740932K",
+        "slug": "mocha-frost-740932k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/mocha-frost-740932k/",
+        "source_label": "PaintScratch 2005 Fleetwood",
+        "hex_value": "#B2A38E"
+      },
+      {
+        "display_name": "Smoke Metallic",
+        "paint_code": "745474K",
+        "slug": "smoke-metallic-745474k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/smoke-metallic-745474k/",
+        "source_label": "PaintScratch 2005 Fleetwood",
+        "hex_value": "#574F43"
+      },
+      {
+        "display_name": "Bright Silver Metallic",
+        "paint_code": "745479K",
+        "slug": "bright-silver-metallic-745479k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/bright-silver-metallic-745479k/",
+        "source_label": "PaintScratch 2005 Fleetwood",
+        "hex_value": "#F4F3EE"
+      },
+      {
+        "display_name": "Partin Grey",
+        "paint_code": "CV-67081_ (745511K",
+        "slug": "partin-grey-cv-67081-745511k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/partin-grey-cv-67081-745511k/",
+        "source_label": "PaintScratch 2005 Fleetwood",
+        "hex_value": "#BDB4A7"
+      },
+      {
+        "display_name": "Coral Grey Metallic",
+        "paint_code": "747531K",
+        "slug": "coral-grey-metallic-747531k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/coral-grey-metallic-747531k/",
+        "source_label": "PaintScratch 2005 Fleetwood",
+        "hex_value": "#CAD1D8"
+      },
+      {
+        "display_name": "Blue Silver Metallic",
+        "paint_code": "769681K/FLNA95597",
+        "slug": "blue-silver-metallic-769681kflna95597",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/blue-silver-metallic-769681kflna95597/",
+        "source_label": "PaintScratch 2005 Fleetwood",
+        "hex_value": "#C6CCCE"
+      },
+      {
+        "display_name": "Polar White",
+        "paint_code": "740956 IM",
+        "slug": "polar-white-740956-im",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/polar-white-740956-im/",
+        "source_label": "PaintScratch 2005 Fleetwood",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Loubier Brown Metallic",
+        "paint_code": "745510K",
+        "slug": "loubier-brown-metallic-745510k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/loubier-brown-metallic-745510k/",
+        "source_label": "PaintScratch 2005 Fleetwood",
+        "hex_value": "#674A33"
+      },
+      {
+        "display_name": "Cashmere Beige Metallic",
+        "paint_code": "748543K",
+        "slug": "cashmere-beige-metallic-748543k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/cashmere-beige-metallic-748543k/",
+        "source_label": "PaintScratch 2005 Fleetwood",
+        "hex_value": "#C57E3F"
+      },
+      {
+        "display_name": "Alpine White",
+        "paint_code": "748557K",
+        "slug": "alpine-white-748557k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/alpine-white-748557k/",
+        "source_label": "PaintScratch 2005 Fleetwood",
+        "hex_value": "#EEECE0"
+      },
+      {
+        "display_name": "Panama Beige Metallic",
+        "paint_code": "751049K",
+        "slug": "panama-beige-metallic-751049k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/panama-beige-metallic-751049k/",
+        "source_label": "PaintScratch 2005 Fleetwood",
+        "hex_value": "#CBC2A3"
+      }
+    ],
+    "2006": [
+      {
+        "display_name": "Obsidian",
+        "paint_code": "745478K",
+        "slug": "obsidian-745478k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/obsidian-745478k/",
+        "source_label": "PaintScratch 2006 Fleetwood",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Java White Metallic",
+        "paint_code": "751051K",
+        "slug": "java-white-metallic-751051k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/java-white-metallic-751051k/",
+        "source_label": "PaintScratch 2006 Fleetwood",
+        "hex_value": "#EEECE0"
+      },
+      {
+        "display_name": "Champagne Pearl Metallic",
+        "paint_code": "748547K",
+        "slug": "champagne-pearl-metallic-748547k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/champagne-pearl-metallic-748547k/",
+        "source_label": "PaintScratch 2006 Fleetwood",
+        "hex_value": "#ECE5B6"
+      },
+      {
+        "display_name": "Light Champagne Metallic",
+        "paint_code": "751052K",
+        "slug": "light-champagne-metallic-751052k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/light-champagne-metallic-751052k/",
+        "source_label": "PaintScratch 2006 Fleetwood",
+        "hex_value": "#D6CEB7"
+      },
+      {
+        "display_name": "Summer Dust",
+        "paint_code": "776871K",
+        "slug": "summer-dust-776871k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/summer-dust-776871k/",
+        "source_label": "PaintScratch 2006 Fleetwood",
+        "hex_value": "#928A76"
+      },
+      {
+        "display_name": "Iron Gray Metallic",
+        "paint_code": "745477K",
+        "slug": "iron-gray-metallic-745477k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/iron-gray-metallic-745477k/",
+        "source_label": "PaintScratch 2006 Fleetwood",
+        "hex_value": "#202020"
+      },
+      {
+        "display_name": "Mocha Frost",
+        "paint_code": "740932K",
+        "slug": "mocha-frost-740932k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/mocha-frost-740932k/",
+        "source_label": "PaintScratch 2006 Fleetwood",
+        "hex_value": "#B2A38E"
+      },
+      {
+        "display_name": "Smoke Metallic",
+        "paint_code": "745474K",
+        "slug": "smoke-metallic-745474k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/smoke-metallic-745474k/",
+        "source_label": "PaintScratch 2006 Fleetwood",
+        "hex_value": "#574F43"
+      },
+      {
+        "display_name": "Bright Silver Metallic",
+        "paint_code": "745479K",
+        "slug": "bright-silver-metallic-745479k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/bright-silver-metallic-745479k/",
+        "source_label": "PaintScratch 2006 Fleetwood",
+        "hex_value": "#F4F3EE"
+      },
+      {
+        "display_name": "Partin Grey",
+        "paint_code": "CV-67081_ (745511K",
+        "slug": "partin-grey-cv-67081-745511k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/partin-grey-cv-67081-745511k/",
+        "source_label": "PaintScratch 2006 Fleetwood",
+        "hex_value": "#BDB4A7"
+      },
+      {
+        "display_name": "Coral Grey Metallic",
+        "paint_code": "747531K",
+        "slug": "coral-grey-metallic-747531k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/coral-grey-metallic-747531k/",
+        "source_label": "PaintScratch 2006 Fleetwood",
+        "hex_value": "#CAD1D8"
+      },
+      {
+        "display_name": "Blue Silver Metallic",
+        "paint_code": "769681K/FLNA95597",
+        "slug": "blue-silver-metallic-769681kflna95597",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/blue-silver-metallic-769681kflna95597/",
+        "source_label": "PaintScratch 2006 Fleetwood",
+        "hex_value": "#C6CCCE"
+      },
+      {
+        "display_name": "Polar White",
+        "paint_code": "740956 IM",
+        "slug": "polar-white-740956-im",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/polar-white-740956-im/",
+        "source_label": "PaintScratch 2006 Fleetwood",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Loubier Brown Metallic",
+        "paint_code": "745510K",
+        "slug": "loubier-brown-metallic-745510k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/loubier-brown-metallic-745510k/",
+        "source_label": "PaintScratch 2006 Fleetwood",
+        "hex_value": "#674A33"
+      },
+      {
+        "display_name": "Cashmere Beige Metallic",
+        "paint_code": "748543K",
+        "slug": "cashmere-beige-metallic-748543k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/cashmere-beige-metallic-748543k/",
+        "source_label": "PaintScratch 2006 Fleetwood",
+        "hex_value": "#C57E3F"
+      },
+      {
+        "display_name": "Alpine White",
+        "paint_code": "748557K",
+        "slug": "alpine-white-748557k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/alpine-white-748557k/",
+        "source_label": "PaintScratch 2006 Fleetwood",
+        "hex_value": "#EEECE0"
+      }
+    ],
+    "2007": [
+      {
+        "display_name": "Obsidian",
+        "paint_code": "745478K",
+        "slug": "obsidian-745478k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/obsidian-745478k/",
+        "source_label": "PaintScratch 2007 Fleetwood",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Java White Metallic",
+        "paint_code": "751051K",
+        "slug": "java-white-metallic-751051k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/java-white-metallic-751051k/",
+        "source_label": "PaintScratch 2007 Fleetwood",
+        "hex_value": "#EEECE0"
+      },
+      {
+        "display_name": "Champagne Pearl Metallic",
+        "paint_code": "748547K",
+        "slug": "champagne-pearl-metallic-748547k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/champagne-pearl-metallic-748547k/",
+        "source_label": "PaintScratch 2007 Fleetwood",
+        "hex_value": "#ECE5B6"
+      },
+      {
+        "display_name": "Merlot Red",
+        "paint_code": "776869",
+        "slug": "merlot-red-776869",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/merlot-red-776869/",
+        "source_label": "PaintScratch 2007 Fleetwood",
+        "hex_value": "#761C1A"
+      },
+      {
+        "display_name": "Light Champagne Metallic",
+        "paint_code": "751052K",
+        "slug": "light-champagne-metallic-751052k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/light-champagne-metallic-751052k/",
+        "source_label": "PaintScratch 2007 Fleetwood",
+        "hex_value": "#D6CEB7"
+      },
+      {
+        "display_name": "Summer Dust",
+        "paint_code": "776871K",
+        "slug": "summer-dust-776871k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/summer-dust-776871k/",
+        "source_label": "PaintScratch 2007 Fleetwood",
+        "hex_value": "#928A76"
+      },
+      {
+        "display_name": "Iron Gray Metallic",
+        "paint_code": "745477K",
+        "slug": "iron-gray-metallic-745477k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/iron-gray-metallic-745477k/",
+        "source_label": "PaintScratch 2007 Fleetwood",
+        "hex_value": "#202020"
+      },
+      {
+        "display_name": "Mocha Frost",
+        "paint_code": "740932K",
+        "slug": "mocha-frost-740932k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/mocha-frost-740932k/",
+        "source_label": "PaintScratch 2007 Fleetwood",
+        "hex_value": "#B2A38E"
+      },
+      {
+        "display_name": "Smoke Metallic",
+        "paint_code": "745474K",
+        "slug": "smoke-metallic-745474k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/smoke-metallic-745474k/",
+        "source_label": "PaintScratch 2007 Fleetwood",
+        "hex_value": "#574F43"
+      },
+      {
+        "display_name": "Bright Silver Metallic",
+        "paint_code": "745479K",
+        "slug": "bright-silver-metallic-745479k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/bright-silver-metallic-745479k/",
+        "source_label": "PaintScratch 2007 Fleetwood",
+        "hex_value": "#F4F3EE"
+      },
+      {
+        "display_name": "Partin Grey",
+        "paint_code": "CV-67081_ (745511K",
+        "slug": "partin-grey-cv-67081-745511k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/partin-grey-cv-67081-745511k/",
+        "source_label": "PaintScratch 2007 Fleetwood",
+        "hex_value": "#BDB4A7"
+      },
+      {
+        "display_name": "Blue Silver Metallic",
+        "paint_code": "769681K/FLNA95597",
+        "slug": "blue-silver-metallic-769681kflna95597",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/blue-silver-metallic-769681kflna95597/",
+        "source_label": "PaintScratch 2007 Fleetwood",
+        "hex_value": "#C6CCCE"
+      },
+      {
+        "display_name": "Polar White",
+        "paint_code": "740956 IM",
+        "slug": "polar-white-740956-im",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/polar-white-740956-im/",
+        "source_label": "PaintScratch 2007 Fleetwood",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Loubier Brown Metallic",
+        "paint_code": "745510K",
+        "slug": "loubier-brown-metallic-745510k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/loubier-brown-metallic-745510k/",
+        "source_label": "PaintScratch 2007 Fleetwood",
+        "hex_value": "#674A33"
+      },
+      {
+        "display_name": "Cashmere Beige Metallic",
+        "paint_code": "748543K",
+        "slug": "cashmere-beige-metallic-748543k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/cashmere-beige-metallic-748543k/",
+        "source_label": "PaintScratch 2007 Fleetwood",
+        "hex_value": "#C57E3F"
+      },
+      {
+        "display_name": "Alpine White",
+        "paint_code": "748557K",
+        "slug": "alpine-white-748557k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/alpine-white-748557k/",
+        "source_label": "PaintScratch 2007 Fleetwood",
+        "hex_value": "#EEECE0"
+      }
+    ],
+    "2008": [
+      {
+        "display_name": "Obsidian",
+        "paint_code": "745478K",
+        "slug": "obsidian-745478k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/obsidian-745478k/",
+        "source_label": "PaintScratch 2008 Fleetwood",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Java White Metallic",
+        "paint_code": "751051K",
+        "slug": "java-white-metallic-751051k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/java-white-metallic-751051k/",
+        "source_label": "PaintScratch 2008 Fleetwood",
+        "hex_value": "#EEECE0"
+      },
+      {
+        "display_name": "Champagne Pearl Metallic",
+        "paint_code": "748547K",
+        "slug": "champagne-pearl-metallic-748547k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/champagne-pearl-metallic-748547k/",
+        "source_label": "PaintScratch 2008 Fleetwood",
+        "hex_value": "#ECE5B6"
+      },
+      {
+        "display_name": "Merlot Red",
+        "paint_code": "776869",
+        "slug": "merlot-red-776869",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/merlot-red-776869/",
+        "source_label": "PaintScratch 2008 Fleetwood",
+        "hex_value": "#761C1A"
+      },
+      {
+        "display_name": "Light Champagne Metallic",
+        "paint_code": "751052K",
+        "slug": "light-champagne-metallic-751052k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/light-champagne-metallic-751052k/",
+        "source_label": "PaintScratch 2008 Fleetwood",
+        "hex_value": "#D6CEB7"
+      },
+      {
+        "display_name": "Summer Dust",
+        "paint_code": "776871K",
+        "slug": "summer-dust-776871k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/summer-dust-776871k/",
+        "source_label": "PaintScratch 2008 Fleetwood",
+        "hex_value": "#928A76"
+      },
+      {
+        "display_name": "Iron Gray Metallic",
+        "paint_code": "745477K",
+        "slug": "iron-gray-metallic-745477k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/iron-gray-metallic-745477k/",
+        "source_label": "PaintScratch 2008 Fleetwood",
+        "hex_value": "#202020"
+      },
+      {
+        "display_name": "Mocha Frost",
+        "paint_code": "740932K",
+        "slug": "mocha-frost-740932k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/mocha-frost-740932k/",
+        "source_label": "PaintScratch 2008 Fleetwood",
+        "hex_value": "#B2A38E"
+      },
+      {
+        "display_name": "Smoke Metallic",
+        "paint_code": "745474K",
+        "slug": "smoke-metallic-745474k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/smoke-metallic-745474k/",
+        "source_label": "PaintScratch 2008 Fleetwood",
+        "hex_value": "#574F43"
+      },
+      {
+        "display_name": "Bright Silver Metallic",
+        "paint_code": "745479K",
+        "slug": "bright-silver-metallic-745479k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/bright-silver-metallic-745479k/",
+        "source_label": "PaintScratch 2008 Fleetwood",
+        "hex_value": "#F4F3EE"
+      },
+      {
+        "display_name": "Partin Grey",
+        "paint_code": "CV-67081_ (745511K",
+        "slug": "partin-grey-cv-67081-745511k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/partin-grey-cv-67081-745511k/",
+        "source_label": "PaintScratch 2008 Fleetwood",
+        "hex_value": "#BDB4A7"
+      },
+      {
+        "display_name": "Blue Silver Metallic",
+        "paint_code": "769681K/FLNA95597",
+        "slug": "blue-silver-metallic-769681kflna95597",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/blue-silver-metallic-769681kflna95597/",
+        "source_label": "PaintScratch 2008 Fleetwood",
+        "hex_value": "#C6CCCE"
+      },
+      {
+        "display_name": "Polar White",
+        "paint_code": "740956 IM",
+        "slug": "polar-white-740956-im",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/polar-white-740956-im/",
+        "source_label": "PaintScratch 2008 Fleetwood",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Loubier Brown Metallic",
+        "paint_code": "745510K",
+        "slug": "loubier-brown-metallic-745510k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/loubier-brown-metallic-745510k/",
+        "source_label": "PaintScratch 2008 Fleetwood",
+        "hex_value": "#674A33"
+      },
+      {
+        "display_name": "Cashmere Beige Metallic",
+        "paint_code": "748543K",
+        "slug": "cashmere-beige-metallic-748543k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/cashmere-beige-metallic-748543k/",
+        "source_label": "PaintScratch 2008 Fleetwood",
+        "hex_value": "#C57E3F"
+      },
+      {
+        "display_name": "Alpine White",
+        "paint_code": "748557K",
+        "slug": "alpine-white-748557k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/alpine-white-748557k/",
+        "source_label": "PaintScratch 2008 Fleetwood",
+        "hex_value": "#EEECE0"
+      }
+    ],
+    "2009": [
+      {
+        "display_name": "Obsidian",
+        "paint_code": "745478K",
+        "slug": "obsidian-745478k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/obsidian-745478k/",
+        "source_label": "PaintScratch 2009 Fleetwood",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Java White Metallic",
+        "paint_code": "751051K",
+        "slug": "java-white-metallic-751051k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/java-white-metallic-751051k/",
+        "source_label": "PaintScratch 2009 Fleetwood",
+        "hex_value": "#EEECE0"
+      },
+      {
+        "display_name": "Champagne Pearl Metallic",
+        "paint_code": "748547K",
+        "slug": "champagne-pearl-metallic-748547k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/champagne-pearl-metallic-748547k/",
+        "source_label": "PaintScratch 2009 Fleetwood",
+        "hex_value": "#ECE5B6"
+      },
+      {
+        "display_name": "Merlot Red",
+        "paint_code": "776869",
+        "slug": "merlot-red-776869",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/merlot-red-776869/",
+        "source_label": "PaintScratch 2009 Fleetwood",
+        "hex_value": "#761C1A"
+      },
+      {
+        "display_name": "Light Champagne Metallic",
+        "paint_code": "751052K",
+        "slug": "light-champagne-metallic-751052k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/light-champagne-metallic-751052k/",
+        "source_label": "PaintScratch 2009 Fleetwood",
+        "hex_value": "#D6CEB7"
+      },
+      {
+        "display_name": "Summer Dust",
+        "paint_code": "776871K",
+        "slug": "summer-dust-776871k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/summer-dust-776871k/",
+        "source_label": "PaintScratch 2009 Fleetwood",
+        "hex_value": "#928A76"
+      },
+      {
+        "display_name": "Iron Gray Metallic",
+        "paint_code": "745477K",
+        "slug": "iron-gray-metallic-745477k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/iron-gray-metallic-745477k/",
+        "source_label": "PaintScratch 2009 Fleetwood",
+        "hex_value": "#202020"
+      },
+      {
+        "display_name": "Mocha Frost",
+        "paint_code": "740932K",
+        "slug": "mocha-frost-740932k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/mocha-frost-740932k/",
+        "source_label": "PaintScratch 2009 Fleetwood",
+        "hex_value": "#B2A38E"
+      },
+      {
+        "display_name": "Smoke Metallic",
+        "paint_code": "745474K",
+        "slug": "smoke-metallic-745474k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/smoke-metallic-745474k/",
+        "source_label": "PaintScratch 2009 Fleetwood",
+        "hex_value": "#574F43"
+      },
+      {
+        "display_name": "Bright Silver Metallic",
+        "paint_code": "745479K",
+        "slug": "bright-silver-metallic-745479k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/bright-silver-metallic-745479k/",
+        "source_label": "PaintScratch 2009 Fleetwood",
+        "hex_value": "#F4F3EE"
+      },
+      {
+        "display_name": "Partin Grey",
+        "paint_code": "CV-67081_ (745511K",
+        "slug": "partin-grey-cv-67081-745511k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/partin-grey-cv-67081-745511k/",
+        "source_label": "PaintScratch 2009 Fleetwood",
+        "hex_value": "#BDB4A7"
+      },
+      {
+        "display_name": "Blue Silver Metallic",
+        "paint_code": "769681K/FLNA95597",
+        "slug": "blue-silver-metallic-769681kflna95597",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/blue-silver-metallic-769681kflna95597/",
+        "source_label": "PaintScratch 2009 Fleetwood",
+        "hex_value": "#C6CCCE"
+      },
+      {
+        "display_name": "Polar White",
+        "paint_code": "740956 IM",
+        "slug": "polar-white-740956-im",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/polar-white-740956-im/",
+        "source_label": "PaintScratch 2009 Fleetwood",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Loubier Brown Metallic",
+        "paint_code": "745510K",
+        "slug": "loubier-brown-metallic-745510k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/loubier-brown-metallic-745510k/",
+        "source_label": "PaintScratch 2009 Fleetwood",
+        "hex_value": "#674A33"
+      },
+      {
+        "display_name": "Cashmere Beige Metallic",
+        "paint_code": "748543K",
+        "slug": "cashmere-beige-metallic-748543k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/cashmere-beige-metallic-748543k/",
+        "source_label": "PaintScratch 2009 Fleetwood",
+        "hex_value": "#C57E3F"
+      },
+      {
+        "display_name": "Alpine White",
+        "paint_code": "748557K",
+        "slug": "alpine-white-748557k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/alpine-white-748557k/",
+        "source_label": "PaintScratch 2009 Fleetwood",
+        "hex_value": "#EEECE0"
+      }
+    ],
+    "2010": [
+      {
+        "display_name": "Obsidian",
+        "paint_code": "745478K",
+        "slug": "obsidian-745478k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/obsidian-745478k/",
+        "source_label": "PaintScratch 2010 Fleetwood",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Java White Metallic",
+        "paint_code": "751051K",
+        "slug": "java-white-metallic-751051k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/java-white-metallic-751051k/",
+        "source_label": "PaintScratch 2010 Fleetwood",
+        "hex_value": "#EEECE0"
+      },
+      {
+        "display_name": "Champagne Pearl Metallic",
+        "paint_code": "748547K",
+        "slug": "champagne-pearl-metallic-748547k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/champagne-pearl-metallic-748547k/",
+        "source_label": "PaintScratch 2010 Fleetwood",
+        "hex_value": "#ECE5B6"
+      },
+      {
+        "display_name": "Merlot Red",
+        "paint_code": "776869",
+        "slug": "merlot-red-776869",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/merlot-red-776869/",
+        "source_label": "PaintScratch 2010 Fleetwood",
+        "hex_value": "#761C1A"
+      },
+      {
+        "display_name": "Light Champagne Metallic",
+        "paint_code": "751052K",
+        "slug": "light-champagne-metallic-751052k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/light-champagne-metallic-751052k/",
+        "source_label": "PaintScratch 2010 Fleetwood",
+        "hex_value": "#D6CEB7"
+      },
+      {
+        "display_name": "Summer Dust",
+        "paint_code": "776871K",
+        "slug": "summer-dust-776871k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/summer-dust-776871k/",
+        "source_label": "PaintScratch 2010 Fleetwood",
+        "hex_value": "#928A76"
+      },
+      {
+        "display_name": "Iron Gray Metallic",
+        "paint_code": "745477K",
+        "slug": "iron-gray-metallic-745477k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/iron-gray-metallic-745477k/",
+        "source_label": "PaintScratch 2010 Fleetwood",
+        "hex_value": "#202020"
+      },
+      {
+        "display_name": "Mocha Frost",
+        "paint_code": "740932K",
+        "slug": "mocha-frost-740932k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/mocha-frost-740932k/",
+        "source_label": "PaintScratch 2010 Fleetwood",
+        "hex_value": "#B2A38E"
+      },
+      {
+        "display_name": "Smoke Metallic",
+        "paint_code": "745474K",
+        "slug": "smoke-metallic-745474k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/smoke-metallic-745474k/",
+        "source_label": "PaintScratch 2010 Fleetwood",
+        "hex_value": "#574F43"
+      },
+      {
+        "display_name": "Bright Silver Metallic",
+        "paint_code": "745479K",
+        "slug": "bright-silver-metallic-745479k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/bright-silver-metallic-745479k/",
+        "source_label": "PaintScratch 2010 Fleetwood",
+        "hex_value": "#F4F3EE"
+      },
+      {
+        "display_name": "Partin Grey",
+        "paint_code": "CV-67081_ (745511K",
+        "slug": "partin-grey-cv-67081-745511k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/partin-grey-cv-67081-745511k/",
+        "source_label": "PaintScratch 2010 Fleetwood",
+        "hex_value": "#BDB4A7"
+      },
+      {
+        "display_name": "Blue Silver Metallic",
+        "paint_code": "769681K/FLNA95597",
+        "slug": "blue-silver-metallic-769681kflna95597",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/blue-silver-metallic-769681kflna95597/",
+        "source_label": "PaintScratch 2010 Fleetwood",
+        "hex_value": "#C6CCCE"
+      },
+      {
+        "display_name": "Polar White",
+        "paint_code": "740956 IM",
+        "slug": "polar-white-740956-im",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/polar-white-740956-im/",
+        "source_label": "PaintScratch 2010 Fleetwood",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Loubier Brown Metallic",
+        "paint_code": "745510K",
+        "slug": "loubier-brown-metallic-745510k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/loubier-brown-metallic-745510k/",
+        "source_label": "PaintScratch 2010 Fleetwood",
+        "hex_value": "#674A33"
+      },
+      {
+        "display_name": "Cashmere Beige Metallic",
+        "paint_code": "748543K",
+        "slug": "cashmere-beige-metallic-748543k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/cashmere-beige-metallic-748543k/",
+        "source_label": "PaintScratch 2010 Fleetwood",
+        "hex_value": "#C57E3F"
+      },
+      {
+        "display_name": "Alpine White",
+        "paint_code": "748557K",
+        "slug": "alpine-white-748557k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/alpine-white-748557k/",
+        "source_label": "PaintScratch 2010 Fleetwood",
+        "hex_value": "#EEECE0"
+      }
+    ],
+    "2011": [
+      {
+        "display_name": "Obsidian",
+        "paint_code": "745478K",
+        "slug": "obsidian-745478k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/obsidian-745478k/",
+        "source_label": "PaintScratch 2011 Fleetwood",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Java White Metallic",
+        "paint_code": "751051K",
+        "slug": "java-white-metallic-751051k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/java-white-metallic-751051k/",
+        "source_label": "PaintScratch 2011 Fleetwood",
+        "hex_value": "#EEECE0"
+      },
+      {
+        "display_name": "Champagne Pearl Metallic",
+        "paint_code": "748547K",
+        "slug": "champagne-pearl-metallic-748547k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/champagne-pearl-metallic-748547k/",
+        "source_label": "PaintScratch 2011 Fleetwood",
+        "hex_value": "#ECE5B6"
+      },
+      {
+        "display_name": "Merlot Red",
+        "paint_code": "776869",
+        "slug": "merlot-red-776869",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/merlot-red-776869/",
+        "source_label": "PaintScratch 2011 Fleetwood",
+        "hex_value": "#761C1A"
+      },
+      {
+        "display_name": "Light Champagne Metallic",
+        "paint_code": "751052K",
+        "slug": "light-champagne-metallic-751052k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/light-champagne-metallic-751052k/",
+        "source_label": "PaintScratch 2011 Fleetwood",
+        "hex_value": "#D6CEB7"
+      },
+      {
+        "display_name": "Summer Dust",
+        "paint_code": "776871K",
+        "slug": "summer-dust-776871k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/summer-dust-776871k/",
+        "source_label": "PaintScratch 2011 Fleetwood",
+        "hex_value": "#928A76"
+      },
+      {
+        "display_name": "Iron Gray Metallic",
+        "paint_code": "745477K",
+        "slug": "iron-gray-metallic-745477k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/iron-gray-metallic-745477k/",
+        "source_label": "PaintScratch 2011 Fleetwood",
+        "hex_value": "#202020"
+      },
+      {
+        "display_name": "Mocha Frost",
+        "paint_code": "740932K",
+        "slug": "mocha-frost-740932k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/mocha-frost-740932k/",
+        "source_label": "PaintScratch 2011 Fleetwood",
+        "hex_value": "#B2A38E"
+      },
+      {
+        "display_name": "Smoke Metallic",
+        "paint_code": "745474K",
+        "slug": "smoke-metallic-745474k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/smoke-metallic-745474k/",
+        "source_label": "PaintScratch 2011 Fleetwood",
+        "hex_value": "#574F43"
+      },
+      {
+        "display_name": "Bright Silver Metallic",
+        "paint_code": "745479K",
+        "slug": "bright-silver-metallic-745479k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/bright-silver-metallic-745479k/",
+        "source_label": "PaintScratch 2011 Fleetwood",
+        "hex_value": "#F4F3EE"
+      },
+      {
+        "display_name": "Partin Grey",
+        "paint_code": "CV-67081_ (745511K",
+        "slug": "partin-grey-cv-67081-745511k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/partin-grey-cv-67081-745511k/",
+        "source_label": "PaintScratch 2011 Fleetwood",
+        "hex_value": "#BDB4A7"
+      },
+      {
+        "display_name": "Blue Silver Metallic",
+        "paint_code": "769681K/FLNA95597",
+        "slug": "blue-silver-metallic-769681kflna95597",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/blue-silver-metallic-769681kflna95597/",
+        "source_label": "PaintScratch 2011 Fleetwood",
+        "hex_value": "#C6CCCE"
+      },
+      {
+        "display_name": "Polar White",
+        "paint_code": "740956 IM",
+        "slug": "polar-white-740956-im",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/polar-white-740956-im/",
+        "source_label": "PaintScratch 2011 Fleetwood",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Loubier Brown Metallic",
+        "paint_code": "745510K",
+        "slug": "loubier-brown-metallic-745510k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/loubier-brown-metallic-745510k/",
+        "source_label": "PaintScratch 2011 Fleetwood",
+        "hex_value": "#674A33"
+      },
+      {
+        "display_name": "Alpine White",
+        "paint_code": "748557K",
+        "slug": "alpine-white-748557k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/alpine-white-748557k/",
+        "source_label": "PaintScratch 2011 Fleetwood",
+        "hex_value": "#EEECE0"
+      },
+      {
+        "display_name": "Panama Beige Metallic",
+        "paint_code": "751049K",
+        "slug": "panama-beige-metallic-751049k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/panama-beige-metallic-751049k/",
+        "source_label": "PaintScratch 2011 Fleetwood",
+        "hex_value": "#CBC2A3"
+      }
+    ],
+    "2012": [
+      {
+        "display_name": "Obsidian",
+        "paint_code": "745478K",
+        "slug": "obsidian-745478k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/obsidian-745478k/",
+        "source_label": "PaintScratch 2012 Fleetwood",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Java White Metallic",
+        "paint_code": "751051K",
+        "slug": "java-white-metallic-751051k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/java-white-metallic-751051k/",
+        "source_label": "PaintScratch 2012 Fleetwood",
+        "hex_value": "#EEECE0"
+      },
+      {
+        "display_name": "Champagne Pearl Metallic",
+        "paint_code": "748547K",
+        "slug": "champagne-pearl-metallic-748547k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/champagne-pearl-metallic-748547k/",
+        "source_label": "PaintScratch 2012 Fleetwood",
+        "hex_value": "#ECE5B6"
+      },
+      {
+        "display_name": "Merlot Red",
+        "paint_code": "776869",
+        "slug": "merlot-red-776869",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/merlot-red-776869/",
+        "source_label": "PaintScratch 2012 Fleetwood",
+        "hex_value": "#761C1A"
+      },
+      {
+        "display_name": "Light Champagne Metallic",
+        "paint_code": "751052K",
+        "slug": "light-champagne-metallic-751052k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/light-champagne-metallic-751052k/",
+        "source_label": "PaintScratch 2012 Fleetwood",
+        "hex_value": "#D6CEB7"
+      },
+      {
+        "display_name": "Summer Dust",
+        "paint_code": "776871K",
+        "slug": "summer-dust-776871k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/summer-dust-776871k/",
+        "source_label": "PaintScratch 2012 Fleetwood",
+        "hex_value": "#928A76"
+      },
+      {
+        "display_name": "Iron Gray Metallic",
+        "paint_code": "745477K",
+        "slug": "iron-gray-metallic-745477k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/iron-gray-metallic-745477k/",
+        "source_label": "PaintScratch 2012 Fleetwood",
+        "hex_value": "#202020"
+      },
+      {
+        "display_name": "Mocha Frost",
+        "paint_code": "740932K",
+        "slug": "mocha-frost-740932k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/mocha-frost-740932k/",
+        "source_label": "PaintScratch 2012 Fleetwood",
+        "hex_value": "#B2A38E"
+      },
+      {
+        "display_name": "Smoke Metallic",
+        "paint_code": "745474K",
+        "slug": "smoke-metallic-745474k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/smoke-metallic-745474k/",
+        "source_label": "PaintScratch 2012 Fleetwood",
+        "hex_value": "#574F43"
+      },
+      {
+        "display_name": "Bright Silver Metallic",
+        "paint_code": "745479K",
+        "slug": "bright-silver-metallic-745479k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/bright-silver-metallic-745479k/",
+        "source_label": "PaintScratch 2012 Fleetwood",
+        "hex_value": "#F4F3EE"
+      },
+      {
+        "display_name": "Partin Grey",
+        "paint_code": "CV-67081_ (745511K",
+        "slug": "partin-grey-cv-67081-745511k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/partin-grey-cv-67081-745511k/",
+        "source_label": "PaintScratch 2012 Fleetwood",
+        "hex_value": "#BDB4A7"
+      },
+      {
+        "display_name": "Blue Silver Metallic",
+        "paint_code": "769681K/FLNA95597",
+        "slug": "blue-silver-metallic-769681kflna95597",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/blue-silver-metallic-769681kflna95597/",
+        "source_label": "PaintScratch 2012 Fleetwood",
+        "hex_value": "#C6CCCE"
+      },
+      {
+        "display_name": "Polar White",
+        "paint_code": "740956 IM",
+        "slug": "polar-white-740956-im",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/polar-white-740956-im/",
+        "source_label": "PaintScratch 2012 Fleetwood",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Loubier Brown Metallic",
+        "paint_code": "745510K",
+        "slug": "loubier-brown-metallic-745510k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/loubier-brown-metallic-745510k/",
+        "source_label": "PaintScratch 2012 Fleetwood",
+        "hex_value": "#674A33"
+      },
+      {
+        "display_name": "Alpine White",
+        "paint_code": "748557K",
+        "slug": "alpine-white-748557k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/alpine-white-748557k/",
+        "source_label": "PaintScratch 2012 Fleetwood",
+        "hex_value": "#EEECE0"
+      },
+      {
+        "display_name": "Panama Beige Metallic",
+        "paint_code": "751049K",
+        "slug": "panama-beige-metallic-751049k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/panama-beige-metallic-751049k/",
+        "source_label": "PaintScratch 2012 Fleetwood",
+        "hex_value": "#CBC2A3"
+      }
+    ],
+    "2013": [
+      {
+        "display_name": "Obsidian",
+        "paint_code": "745478K",
+        "slug": "obsidian-745478k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/obsidian-745478k/",
+        "source_label": "PaintScratch 2013 Fleetwood",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Java White Metallic",
+        "paint_code": "751051K",
+        "slug": "java-white-metallic-751051k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/java-white-metallic-751051k/",
+        "source_label": "PaintScratch 2013 Fleetwood",
+        "hex_value": "#EEECE0"
+      },
+      {
+        "display_name": "Champagne Pearl Metallic",
+        "paint_code": "748547K",
+        "slug": "champagne-pearl-metallic-748547k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/champagne-pearl-metallic-748547k/",
+        "source_label": "PaintScratch 2013 Fleetwood",
+        "hex_value": "#ECE5B6"
+      },
+      {
+        "display_name": "Merlot Red",
+        "paint_code": "776869",
+        "slug": "merlot-red-776869",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/merlot-red-776869/",
+        "source_label": "PaintScratch 2013 Fleetwood",
+        "hex_value": "#761C1A"
+      },
+      {
+        "display_name": "Light Champagne Metallic",
+        "paint_code": "751052K",
+        "slug": "light-champagne-metallic-751052k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/light-champagne-metallic-751052k/",
+        "source_label": "PaintScratch 2013 Fleetwood",
+        "hex_value": "#D6CEB7"
+      },
+      {
+        "display_name": "Summer Dust",
+        "paint_code": "776871K",
+        "slug": "summer-dust-776871k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/summer-dust-776871k/",
+        "source_label": "PaintScratch 2013 Fleetwood",
+        "hex_value": "#928A76"
+      },
+      {
+        "display_name": "Iron Gray Metallic",
+        "paint_code": "745477K",
+        "slug": "iron-gray-metallic-745477k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/iron-gray-metallic-745477k/",
+        "source_label": "PaintScratch 2013 Fleetwood",
+        "hex_value": "#202020"
+      },
+      {
+        "display_name": "Mocha Frost",
+        "paint_code": "740932K",
+        "slug": "mocha-frost-740932k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/mocha-frost-740932k/",
+        "source_label": "PaintScratch 2013 Fleetwood",
+        "hex_value": "#B2A38E"
+      },
+      {
+        "display_name": "Smoke Metallic",
+        "paint_code": "745474K",
+        "slug": "smoke-metallic-745474k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/smoke-metallic-745474k/",
+        "source_label": "PaintScratch 2013 Fleetwood",
+        "hex_value": "#574F43"
+      },
+      {
+        "display_name": "Bright Silver Metallic",
+        "paint_code": "745479K",
+        "slug": "bright-silver-metallic-745479k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/bright-silver-metallic-745479k/",
+        "source_label": "PaintScratch 2013 Fleetwood",
+        "hex_value": "#F4F3EE"
+      },
+      {
+        "display_name": "Partin Grey",
+        "paint_code": "CV-67081_ (745511K",
+        "slug": "partin-grey-cv-67081-745511k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/partin-grey-cv-67081-745511k/",
+        "source_label": "PaintScratch 2013 Fleetwood",
+        "hex_value": "#BDB4A7"
+      },
+      {
+        "display_name": "Blue Silver Metallic",
+        "paint_code": "769681K/FLNA95597",
+        "slug": "blue-silver-metallic-769681kflna95597",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/blue-silver-metallic-769681kflna95597/",
+        "source_label": "PaintScratch 2013 Fleetwood",
+        "hex_value": "#C6CCCE"
+      },
+      {
+        "display_name": "Polar White",
+        "paint_code": "740956 IM",
+        "slug": "polar-white-740956-im",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/polar-white-740956-im/",
+        "source_label": "PaintScratch 2013 Fleetwood",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Loubier Brown Metallic",
+        "paint_code": "745510K",
+        "slug": "loubier-brown-metallic-745510k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/loubier-brown-metallic-745510k/",
+        "source_label": "PaintScratch 2013 Fleetwood",
+        "hex_value": "#674A33"
+      },
+      {
+        "display_name": "Alpine White",
+        "paint_code": "748557K",
+        "slug": "alpine-white-748557k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/alpine-white-748557k/",
+        "source_label": "PaintScratch 2013 Fleetwood",
+        "hex_value": "#EEECE0"
+      },
+      {
+        "display_name": "Panama Beige Metallic",
+        "paint_code": "751049K",
+        "slug": "panama-beige-metallic-751049k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/panama-beige-metallic-751049k/",
+        "source_label": "PaintScratch 2013 Fleetwood",
+        "hex_value": "#CBC2A3"
+      }
+    ],
+    "2014": [
+      {
+        "display_name": "Obsidian",
+        "paint_code": "745478K",
+        "slug": "obsidian-745478k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/obsidian-745478k/",
+        "source_label": "PaintScratch 2014 Fleetwood",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Java White Metallic",
+        "paint_code": "751051K",
+        "slug": "java-white-metallic-751051k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/java-white-metallic-751051k/",
+        "source_label": "PaintScratch 2014 Fleetwood",
+        "hex_value": "#EEECE0"
+      },
+      {
+        "display_name": "Champagne Pearl Metallic",
+        "paint_code": "748547K",
+        "slug": "champagne-pearl-metallic-748547k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/champagne-pearl-metallic-748547k/",
+        "source_label": "PaintScratch 2014 Fleetwood",
+        "hex_value": "#ECE5B6"
+      },
+      {
+        "display_name": "Merlot Red",
+        "paint_code": "776869",
+        "slug": "merlot-red-776869",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/merlot-red-776869/",
+        "source_label": "PaintScratch 2014 Fleetwood",
+        "hex_value": "#761C1A"
+      },
+      {
+        "display_name": "Light Champagne Metallic",
+        "paint_code": "751052K",
+        "slug": "light-champagne-metallic-751052k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/light-champagne-metallic-751052k/",
+        "source_label": "PaintScratch 2014 Fleetwood",
+        "hex_value": "#D6CEB7"
+      },
+      {
+        "display_name": "Summer Dust",
+        "paint_code": "776871K",
+        "slug": "summer-dust-776871k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/summer-dust-776871k/",
+        "source_label": "PaintScratch 2014 Fleetwood",
+        "hex_value": "#928A76"
+      },
+      {
+        "display_name": "Iron Gray Metallic",
+        "paint_code": "745477K",
+        "slug": "iron-gray-metallic-745477k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/iron-gray-metallic-745477k/",
+        "source_label": "PaintScratch 2014 Fleetwood",
+        "hex_value": "#202020"
+      },
+      {
+        "display_name": "Mocha Frost",
+        "paint_code": "740932K",
+        "slug": "mocha-frost-740932k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/mocha-frost-740932k/",
+        "source_label": "PaintScratch 2014 Fleetwood",
+        "hex_value": "#B2A38E"
+      },
+      {
+        "display_name": "Smoke Metallic",
+        "paint_code": "745474K",
+        "slug": "smoke-metallic-745474k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/smoke-metallic-745474k/",
+        "source_label": "PaintScratch 2014 Fleetwood",
+        "hex_value": "#574F43"
+      },
+      {
+        "display_name": "Bright Silver Metallic",
+        "paint_code": "745479K",
+        "slug": "bright-silver-metallic-745479k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/bright-silver-metallic-745479k/",
+        "source_label": "PaintScratch 2014 Fleetwood",
+        "hex_value": "#F4F3EE"
+      },
+      {
+        "display_name": "Partin Grey",
+        "paint_code": "CV-67081_ (745511K",
+        "slug": "partin-grey-cv-67081-745511k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/partin-grey-cv-67081-745511k/",
+        "source_label": "PaintScratch 2014 Fleetwood",
+        "hex_value": "#BDB4A7"
+      },
+      {
+        "display_name": "Blue Silver Metallic",
+        "paint_code": "769681K/FLNA95597",
+        "slug": "blue-silver-metallic-769681kflna95597",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/blue-silver-metallic-769681kflna95597/",
+        "source_label": "PaintScratch 2014 Fleetwood",
+        "hex_value": "#C6CCCE"
+      },
+      {
+        "display_name": "Polar White",
+        "paint_code": "740956 IM",
+        "slug": "polar-white-740956-im",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/polar-white-740956-im/",
+        "source_label": "PaintScratch 2014 Fleetwood",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Loubier Brown Metallic",
+        "paint_code": "745510K",
+        "slug": "loubier-brown-metallic-745510k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/loubier-brown-metallic-745510k/",
+        "source_label": "PaintScratch 2014 Fleetwood",
+        "hex_value": "#674A33"
+      },
+      {
+        "display_name": "Alpine White",
+        "paint_code": "748557K",
+        "slug": "alpine-white-748557k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/alpine-white-748557k/",
+        "source_label": "PaintScratch 2014 Fleetwood",
+        "hex_value": "#EEECE0"
+      },
+      {
+        "display_name": "Panama Beige Metallic",
+        "paint_code": "751049K",
+        "slug": "panama-beige-metallic-751049k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/panama-beige-metallic-751049k/",
+        "source_label": "PaintScratch 2014 Fleetwood",
+        "hex_value": "#CBC2A3"
+      }
+    ],
+    "2015": [
+      {
+        "display_name": "Obsidian",
+        "paint_code": "745478K",
+        "slug": "obsidian-745478k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/obsidian-745478k/",
+        "source_label": "PaintScratch 2015 Fleetwood",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Java White Metallic",
+        "paint_code": "751051K",
+        "slug": "java-white-metallic-751051k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/java-white-metallic-751051k/",
+        "source_label": "PaintScratch 2015 Fleetwood",
+        "hex_value": "#EEECE0"
+      },
+      {
+        "display_name": "Champagne Pearl Metallic",
+        "paint_code": "748547K",
+        "slug": "champagne-pearl-metallic-748547k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/champagne-pearl-metallic-748547k/",
+        "source_label": "PaintScratch 2015 Fleetwood",
+        "hex_value": "#ECE5B6"
+      },
+      {
+        "display_name": "Merlot Red",
+        "paint_code": "776869",
+        "slug": "merlot-red-776869",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/merlot-red-776869/",
+        "source_label": "PaintScratch 2015 Fleetwood",
+        "hex_value": "#761C1A"
+      },
+      {
+        "display_name": "Light Champagne Metallic",
+        "paint_code": "751052K",
+        "slug": "light-champagne-metallic-751052k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/light-champagne-metallic-751052k/",
+        "source_label": "PaintScratch 2015 Fleetwood",
+        "hex_value": "#D6CEB7"
+      },
+      {
+        "display_name": "Summer Dust",
+        "paint_code": "776871K",
+        "slug": "summer-dust-776871k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/summer-dust-776871k/",
+        "source_label": "PaintScratch 2015 Fleetwood",
+        "hex_value": "#928A76"
+      },
+      {
+        "display_name": "Iron Gray Metallic",
+        "paint_code": "745477K",
+        "slug": "iron-gray-metallic-745477k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/iron-gray-metallic-745477k/",
+        "source_label": "PaintScratch 2015 Fleetwood",
+        "hex_value": "#202020"
+      },
+      {
+        "display_name": "Mocha Frost",
+        "paint_code": "740932K",
+        "slug": "mocha-frost-740932k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/mocha-frost-740932k/",
+        "source_label": "PaintScratch 2015 Fleetwood",
+        "hex_value": "#B2A38E"
+      },
+      {
+        "display_name": "Smoke Metallic",
+        "paint_code": "745474K",
+        "slug": "smoke-metallic-745474k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/smoke-metallic-745474k/",
+        "source_label": "PaintScratch 2015 Fleetwood",
+        "hex_value": "#574F43"
+      },
+      {
+        "display_name": "Bright Silver Metallic",
+        "paint_code": "745479K",
+        "slug": "bright-silver-metallic-745479k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/bright-silver-metallic-745479k/",
+        "source_label": "PaintScratch 2015 Fleetwood",
+        "hex_value": "#F4F3EE"
+      },
+      {
+        "display_name": "Partin Grey",
+        "paint_code": "CV-67081_ (745511K",
+        "slug": "partin-grey-cv-67081-745511k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/partin-grey-cv-67081-745511k/",
+        "source_label": "PaintScratch 2015 Fleetwood",
+        "hex_value": "#BDB4A7"
+      },
+      {
+        "display_name": "Blue Silver Metallic",
+        "paint_code": "769681K/FLNA95597",
+        "slug": "blue-silver-metallic-769681kflna95597",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/blue-silver-metallic-769681kflna95597/",
+        "source_label": "PaintScratch 2015 Fleetwood",
+        "hex_value": "#C6CCCE"
+      },
+      {
+        "display_name": "Polar White",
+        "paint_code": "740956 IM",
+        "slug": "polar-white-740956-im",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/polar-white-740956-im/",
+        "source_label": "PaintScratch 2015 Fleetwood",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Loubier Brown Metallic",
+        "paint_code": "745510K",
+        "slug": "loubier-brown-metallic-745510k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/loubier-brown-metallic-745510k/",
+        "source_label": "PaintScratch 2015 Fleetwood",
+        "hex_value": "#674A33"
+      },
+      {
+        "display_name": "Cashmere Beige Metallic",
+        "paint_code": "748543K",
+        "slug": "cashmere-beige-metallic-748543k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/cashmere-beige-metallic-748543k/",
+        "source_label": "PaintScratch 2015 Fleetwood",
+        "hex_value": "#C57E3F"
+      },
+      {
+        "display_name": "Alpine White",
+        "paint_code": "748557K",
+        "slug": "alpine-white-748557k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/alpine-white-748557k/",
+        "source_label": "PaintScratch 2015 Fleetwood",
+        "hex_value": "#EEECE0"
+      }
+    ],
+    "2016": [
+      {
+        "display_name": "Obsidian",
+        "paint_code": "745478K",
+        "slug": "obsidian-745478k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/obsidian-745478k/",
+        "source_label": "PaintScratch 2016 Fleetwood",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Java White Metallic",
+        "paint_code": "751051K",
+        "slug": "java-white-metallic-751051k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/java-white-metallic-751051k/",
+        "source_label": "PaintScratch 2016 Fleetwood",
+        "hex_value": "#EEECE0"
+      },
+      {
+        "display_name": "Champagne Pearl Metallic",
+        "paint_code": "748547K",
+        "slug": "champagne-pearl-metallic-748547k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/champagne-pearl-metallic-748547k/",
+        "source_label": "PaintScratch 2016 Fleetwood",
+        "hex_value": "#ECE5B6"
+      },
+      {
+        "display_name": "Merlot Red",
+        "paint_code": "776869",
+        "slug": "merlot-red-776869",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/merlot-red-776869/",
+        "source_label": "PaintScratch 2016 Fleetwood",
+        "hex_value": "#761C1A"
+      },
+      {
+        "display_name": "Light Champagne Metallic",
+        "paint_code": "751052K",
+        "slug": "light-champagne-metallic-751052k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/light-champagne-metallic-751052k/",
+        "source_label": "PaintScratch 2016 Fleetwood",
+        "hex_value": "#D6CEB7"
+      },
+      {
+        "display_name": "Summer Dust",
+        "paint_code": "776871K",
+        "slug": "summer-dust-776871k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/summer-dust-776871k/",
+        "source_label": "PaintScratch 2016 Fleetwood",
+        "hex_value": "#928A76"
+      },
+      {
+        "display_name": "Iron Gray Metallic",
+        "paint_code": "745477K",
+        "slug": "iron-gray-metallic-745477k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/iron-gray-metallic-745477k/",
+        "source_label": "PaintScratch 2016 Fleetwood",
+        "hex_value": "#202020"
+      },
+      {
+        "display_name": "Mocha Frost",
+        "paint_code": "740932K",
+        "slug": "mocha-frost-740932k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/mocha-frost-740932k/",
+        "source_label": "PaintScratch 2016 Fleetwood",
+        "hex_value": "#B2A38E"
+      },
+      {
+        "display_name": "Smoke Metallic",
+        "paint_code": "745474K",
+        "slug": "smoke-metallic-745474k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/smoke-metallic-745474k/",
+        "source_label": "PaintScratch 2016 Fleetwood",
+        "hex_value": "#574F43"
+      },
+      {
+        "display_name": "Bright Silver Metallic",
+        "paint_code": "745479K",
+        "slug": "bright-silver-metallic-745479k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/bright-silver-metallic-745479k/",
+        "source_label": "PaintScratch 2016 Fleetwood",
+        "hex_value": "#F4F3EE"
+      },
+      {
+        "display_name": "Brilliant Black",
+        "paint_code": "FLNA95598",
+        "slug": "brilliant-black-flna95598",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/brilliant-black-flna95598/",
+        "source_label": "PaintScratch 2016 Fleetwood",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Partin Grey",
+        "paint_code": "CV-67081_ (745511K",
+        "slug": "partin-grey-cv-67081-745511k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/partin-grey-cv-67081-745511k/",
+        "source_label": "PaintScratch 2016 Fleetwood",
+        "hex_value": "#BDB4A7"
+      },
+      {
+        "display_name": "Blue Silver Metallic",
+        "paint_code": "769681K/FLNA95597",
+        "slug": "blue-silver-metallic-769681kflna95597",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/blue-silver-metallic-769681kflna95597/",
+        "source_label": "PaintScratch 2016 Fleetwood",
+        "hex_value": "#C6CCCE"
+      },
+      {
+        "display_name": "Polar White",
+        "paint_code": "740956 IM",
+        "slug": "polar-white-740956-im",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/polar-white-740956-im/",
+        "source_label": "PaintScratch 2016 Fleetwood",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Loubier Brown Metallic",
+        "paint_code": "745510K",
+        "slug": "loubier-brown-metallic-745510k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/loubier-brown-metallic-745510k/",
+        "source_label": "PaintScratch 2016 Fleetwood",
+        "hex_value": "#674A33"
+      },
+      {
+        "display_name": "Alpine White",
+        "paint_code": "748557K",
+        "slug": "alpine-white-748557k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/alpine-white-748557k/",
+        "source_label": "PaintScratch 2016 Fleetwood",
+        "hex_value": "#EEECE0"
+      }
+    ],
+    "2017": [
+      {
+        "display_name": "Obsidian",
+        "paint_code": "745478K",
+        "slug": "obsidian-745478k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/obsidian-745478k/",
+        "source_label": "PaintScratch 2017 Fleetwood",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Java White Metallic",
+        "paint_code": "751051K",
+        "slug": "java-white-metallic-751051k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/java-white-metallic-751051k/",
+        "source_label": "PaintScratch 2017 Fleetwood",
+        "hex_value": "#EEECE0"
+      },
+      {
+        "display_name": "Champagne Pearl Metallic",
+        "paint_code": "748547K",
+        "slug": "champagne-pearl-metallic-748547k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/champagne-pearl-metallic-748547k/",
+        "source_label": "PaintScratch 2017 Fleetwood",
+        "hex_value": "#ECE5B6"
+      },
+      {
+        "display_name": "Merlot Red",
+        "paint_code": "776869",
+        "slug": "merlot-red-776869",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/merlot-red-776869/",
+        "source_label": "PaintScratch 2017 Fleetwood",
+        "hex_value": "#761C1A"
+      },
+      {
+        "display_name": "Summer Dust",
+        "paint_code": "776871K",
+        "slug": "summer-dust-776871k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/summer-dust-776871k/",
+        "source_label": "PaintScratch 2017 Fleetwood",
+        "hex_value": "#928A76"
+      },
+      {
+        "display_name": "Iron Gray Metallic",
+        "paint_code": "745477K",
+        "slug": "iron-gray-metallic-745477k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/iron-gray-metallic-745477k/",
+        "source_label": "PaintScratch 2017 Fleetwood",
+        "hex_value": "#202020"
+      },
+      {
+        "display_name": "Mocha Frost",
+        "paint_code": "740932K",
+        "slug": "mocha-frost-740932k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/mocha-frost-740932k/",
+        "source_label": "PaintScratch 2017 Fleetwood",
+        "hex_value": "#B2A38E"
+      },
+      {
+        "display_name": "Smoke Metallic",
+        "paint_code": "745474K",
+        "slug": "smoke-metallic-745474k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/smoke-metallic-745474k/",
+        "source_label": "PaintScratch 2017 Fleetwood",
+        "hex_value": "#574F43"
+      },
+      {
+        "display_name": "Bright Silver Metallic",
+        "paint_code": "745479K",
+        "slug": "bright-silver-metallic-745479k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/bright-silver-metallic-745479k/",
+        "source_label": "PaintScratch 2017 Fleetwood",
+        "hex_value": "#F4F3EE"
+      },
+      {
+        "display_name": "Brilliant Black",
+        "paint_code": "FLNA95598",
+        "slug": "brilliant-black-flna95598",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/brilliant-black-flna95598/",
+        "source_label": "PaintScratch 2017 Fleetwood",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Partin Grey",
+        "paint_code": "CV-67081_ (745511K",
+        "slug": "partin-grey-cv-67081-745511k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/partin-grey-cv-67081-745511k/",
+        "source_label": "PaintScratch 2017 Fleetwood",
+        "hex_value": "#BDB4A7"
+      },
+      {
+        "display_name": "Blue Silver Metallic",
+        "paint_code": "769681K/FLNA95597",
+        "slug": "blue-silver-metallic-769681kflna95597",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/blue-silver-metallic-769681kflna95597/",
+        "source_label": "PaintScratch 2017 Fleetwood",
+        "hex_value": "#C6CCCE"
+      },
+      {
+        "display_name": "Polar White",
+        "paint_code": "740956 IM",
+        "slug": "polar-white-740956-im",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/polar-white-740956-im/",
+        "source_label": "PaintScratch 2017 Fleetwood",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Loubier Brown Metallic",
+        "paint_code": "745510K",
+        "slug": "loubier-brown-metallic-745510k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/loubier-brown-metallic-745510k/",
+        "source_label": "PaintScratch 2017 Fleetwood",
+        "hex_value": "#674A33"
+      },
+      {
+        "display_name": "Alpine White",
+        "paint_code": "748557K",
+        "slug": "alpine-white-748557k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/alpine-white-748557k/",
+        "source_label": "PaintScratch 2017 Fleetwood",
+        "hex_value": "#EEECE0"
+      },
+      {
+        "display_name": "Panama Beige Metallic",
+        "paint_code": "751049K",
+        "slug": "panama-beige-metallic-751049k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/panama-beige-metallic-751049k/",
+        "source_label": "PaintScratch 2017 Fleetwood",
+        "hex_value": "#CBC2A3"
+      }
+    ],
+    "2018": [
+      {
+        "display_name": "Obsidian",
+        "paint_code": "745478K",
+        "slug": "obsidian-745478k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/obsidian-745478k/",
+        "source_label": "PaintScratch 2018 Fleetwood",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Java White Metallic",
+        "paint_code": "751051K",
+        "slug": "java-white-metallic-751051k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/java-white-metallic-751051k/",
+        "source_label": "PaintScratch 2018 Fleetwood",
+        "hex_value": "#EEECE0"
+      },
+      {
+        "display_name": "Champagne Pearl Metallic",
+        "paint_code": "748547K",
+        "slug": "champagne-pearl-metallic-748547k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/champagne-pearl-metallic-748547k/",
+        "source_label": "PaintScratch 2018 Fleetwood",
+        "hex_value": "#ECE5B6"
+      },
+      {
+        "display_name": "Merlot Red",
+        "paint_code": "776869",
+        "slug": "merlot-red-776869",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/merlot-red-776869/",
+        "source_label": "PaintScratch 2018 Fleetwood",
+        "hex_value": "#761C1A"
+      },
+      {
+        "display_name": "Summer Dust",
+        "paint_code": "776871K",
+        "slug": "summer-dust-776871k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/summer-dust-776871k/",
+        "source_label": "PaintScratch 2018 Fleetwood",
+        "hex_value": "#928A76"
+      },
+      {
+        "display_name": "Iron Gray Metallic",
+        "paint_code": "745477K",
+        "slug": "iron-gray-metallic-745477k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/iron-gray-metallic-745477k/",
+        "source_label": "PaintScratch 2018 Fleetwood",
+        "hex_value": "#202020"
+      },
+      {
+        "display_name": "Mocha Frost",
+        "paint_code": "740932K",
+        "slug": "mocha-frost-740932k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/mocha-frost-740932k/",
+        "source_label": "PaintScratch 2018 Fleetwood",
+        "hex_value": "#B2A38E"
+      },
+      {
+        "display_name": "Smoke Metallic",
+        "paint_code": "745474K",
+        "slug": "smoke-metallic-745474k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/smoke-metallic-745474k/",
+        "source_label": "PaintScratch 2018 Fleetwood",
+        "hex_value": "#574F43"
+      },
+      {
+        "display_name": "Bright Silver Metallic",
+        "paint_code": "745479K",
+        "slug": "bright-silver-metallic-745479k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/bright-silver-metallic-745479k/",
+        "source_label": "PaintScratch 2018 Fleetwood",
+        "hex_value": "#F4F3EE"
+      },
+      {
+        "display_name": "Brilliant Black",
+        "paint_code": "FLNA95598",
+        "slug": "brilliant-black-flna95598",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/brilliant-black-flna95598/",
+        "source_label": "PaintScratch 2018 Fleetwood",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Partin Grey",
+        "paint_code": "CV-67081_ (745511K",
+        "slug": "partin-grey-cv-67081-745511k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/partin-grey-cv-67081-745511k/",
+        "source_label": "PaintScratch 2018 Fleetwood",
+        "hex_value": "#BDB4A7"
+      },
+      {
+        "display_name": "Blue Silver Metallic",
+        "paint_code": "769681K/FLNA95597",
+        "slug": "blue-silver-metallic-769681kflna95597",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/blue-silver-metallic-769681kflna95597/",
+        "source_label": "PaintScratch 2018 Fleetwood",
+        "hex_value": "#C6CCCE"
+      },
+      {
+        "display_name": "Polar White",
+        "paint_code": "740956 IM",
+        "slug": "polar-white-740956-im",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/polar-white-740956-im/",
+        "source_label": "PaintScratch 2018 Fleetwood",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Loubier Brown Metallic",
+        "paint_code": "745510K",
+        "slug": "loubier-brown-metallic-745510k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/loubier-brown-metallic-745510k/",
+        "source_label": "PaintScratch 2018 Fleetwood",
+        "hex_value": "#674A33"
+      },
+      {
+        "display_name": "Alpine White",
+        "paint_code": "748557K",
+        "slug": "alpine-white-748557k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/alpine-white-748557k/",
+        "source_label": "PaintScratch 2018 Fleetwood",
+        "hex_value": "#EEECE0"
+      },
+      {
+        "display_name": "Panama Beige Metallic",
+        "paint_code": "751049K",
+        "slug": "panama-beige-metallic-751049k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/panama-beige-metallic-751049k/",
+        "source_label": "PaintScratch 2018 Fleetwood",
+        "hex_value": "#CBC2A3"
+      }
+    ],
+    "2019": [
+      {
+        "display_name": "Obsidian",
+        "paint_code": "745478K",
+        "slug": "obsidian-745478k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/obsidian-745478k/",
+        "source_label": "PaintScratch 2019 Fleetwood",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Java White Metallic",
+        "paint_code": "751051K",
+        "slug": "java-white-metallic-751051k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/java-white-metallic-751051k/",
+        "source_label": "PaintScratch 2019 Fleetwood",
+        "hex_value": "#EEECE0"
+      },
+      {
+        "display_name": "Champagne Pearl Metallic",
+        "paint_code": "748547K",
+        "slug": "champagne-pearl-metallic-748547k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/champagne-pearl-metallic-748547k/",
+        "source_label": "PaintScratch 2019 Fleetwood",
+        "hex_value": "#ECE5B6"
+      },
+      {
+        "display_name": "Merlot Red",
+        "paint_code": "776869",
+        "slug": "merlot-red-776869",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/merlot-red-776869/",
+        "source_label": "PaintScratch 2019 Fleetwood",
+        "hex_value": "#761C1A"
+      },
+      {
+        "display_name": "Summer Dust",
+        "paint_code": "776871K",
+        "slug": "summer-dust-776871k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/summer-dust-776871k/",
+        "source_label": "PaintScratch 2019 Fleetwood",
+        "hex_value": "#928A76"
+      },
+      {
+        "display_name": "Iron Gray Metallic",
+        "paint_code": "745477K",
+        "slug": "iron-gray-metallic-745477k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/iron-gray-metallic-745477k/",
+        "source_label": "PaintScratch 2019 Fleetwood",
+        "hex_value": "#202020"
+      },
+      {
+        "display_name": "Mocha Frost",
+        "paint_code": "740932K",
+        "slug": "mocha-frost-740932k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/mocha-frost-740932k/",
+        "source_label": "PaintScratch 2019 Fleetwood",
+        "hex_value": "#B2A38E"
+      },
+      {
+        "display_name": "Smoke Metallic",
+        "paint_code": "745474K",
+        "slug": "smoke-metallic-745474k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/smoke-metallic-745474k/",
+        "source_label": "PaintScratch 2019 Fleetwood",
+        "hex_value": "#574F43"
+      },
+      {
+        "display_name": "Bright Silver Metallic",
+        "paint_code": "745479K",
+        "slug": "bright-silver-metallic-745479k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/bright-silver-metallic-745479k/",
+        "source_label": "PaintScratch 2019 Fleetwood",
+        "hex_value": "#F4F3EE"
+      },
+      {
+        "display_name": "Brilliant Black",
+        "paint_code": "FLNA95598",
+        "slug": "brilliant-black-flna95598",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/brilliant-black-flna95598/",
+        "source_label": "PaintScratch 2019 Fleetwood",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Partin Grey",
+        "paint_code": "CV-67081_ (745511K",
+        "slug": "partin-grey-cv-67081-745511k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/partin-grey-cv-67081-745511k/",
+        "source_label": "PaintScratch 2019 Fleetwood",
+        "hex_value": "#BDB4A7"
+      },
+      {
+        "display_name": "Blue Silver Metallic",
+        "paint_code": "769681K/FLNA95597",
+        "slug": "blue-silver-metallic-769681kflna95597",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/blue-silver-metallic-769681kflna95597/",
+        "source_label": "PaintScratch 2019 Fleetwood",
+        "hex_value": "#C6CCCE"
+      },
+      {
+        "display_name": "Polar White",
+        "paint_code": "740956 IM",
+        "slug": "polar-white-740956-im",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/polar-white-740956-im/",
+        "source_label": "PaintScratch 2019 Fleetwood",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Loubier Brown Metallic",
+        "paint_code": "745510K",
+        "slug": "loubier-brown-metallic-745510k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/loubier-brown-metallic-745510k/",
+        "source_label": "PaintScratch 2019 Fleetwood",
+        "hex_value": "#674A33"
+      },
+      {
+        "display_name": "Alpine White",
+        "paint_code": "748557K",
+        "slug": "alpine-white-748557k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/alpine-white-748557k/",
+        "source_label": "PaintScratch 2019 Fleetwood",
+        "hex_value": "#EEECE0"
+      },
+      {
+        "display_name": "Panama Beige Metallic",
+        "paint_code": "751049K",
+        "slug": "panama-beige-metallic-751049k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/panama-beige-metallic-751049k/",
+        "source_label": "PaintScratch 2019 Fleetwood",
+        "hex_value": "#CBC2A3"
+      }
+    ],
+    "2020": [
+      {
+        "display_name": "Obsidian",
+        "paint_code": "745478K",
+        "slug": "obsidian-745478k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/obsidian-745478k/",
+        "source_label": "PaintScratch 2020 Fleetwood",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Java White Metallic",
+        "paint_code": "751051K",
+        "slug": "java-white-metallic-751051k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/java-white-metallic-751051k/",
+        "source_label": "PaintScratch 2020 Fleetwood",
+        "hex_value": "#EEECE0"
+      },
+      {
+        "display_name": "Champagne Pearl Metallic",
+        "paint_code": "748547K",
+        "slug": "champagne-pearl-metallic-748547k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/champagne-pearl-metallic-748547k/",
+        "source_label": "PaintScratch 2020 Fleetwood",
+        "hex_value": "#ECE5B6"
+      },
+      {
+        "display_name": "Merlot Red",
+        "paint_code": "776869",
+        "slug": "merlot-red-776869",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/merlot-red-776869/",
+        "source_label": "PaintScratch 2020 Fleetwood",
+        "hex_value": "#761C1A"
+      },
+      {
+        "display_name": "Summer Dust",
+        "paint_code": "776871K",
+        "slug": "summer-dust-776871k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/summer-dust-776871k/",
+        "source_label": "PaintScratch 2020 Fleetwood",
+        "hex_value": "#928A76"
+      },
+      {
+        "display_name": "Iron Gray Metallic",
+        "paint_code": "745477K",
+        "slug": "iron-gray-metallic-745477k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/iron-gray-metallic-745477k/",
+        "source_label": "PaintScratch 2020 Fleetwood",
+        "hex_value": "#202020"
+      },
+      {
+        "display_name": "Mocha Frost",
+        "paint_code": "740932K",
+        "slug": "mocha-frost-740932k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/mocha-frost-740932k/",
+        "source_label": "PaintScratch 2020 Fleetwood",
+        "hex_value": "#B2A38E"
+      },
+      {
+        "display_name": "Smoke Metallic",
+        "paint_code": "745474K",
+        "slug": "smoke-metallic-745474k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/smoke-metallic-745474k/",
+        "source_label": "PaintScratch 2020 Fleetwood",
+        "hex_value": "#574F43"
+      },
+      {
+        "display_name": "Bright Silver Metallic",
+        "paint_code": "745479K",
+        "slug": "bright-silver-metallic-745479k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/bright-silver-metallic-745479k/",
+        "source_label": "PaintScratch 2020 Fleetwood",
+        "hex_value": "#F4F3EE"
+      },
+      {
+        "display_name": "Brilliant Black",
+        "paint_code": "FLNA95598",
+        "slug": "brilliant-black-flna95598",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/brilliant-black-flna95598/",
+        "source_label": "PaintScratch 2020 Fleetwood",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Partin Grey",
+        "paint_code": "CV-67081_ (745511K",
+        "slug": "partin-grey-cv-67081-745511k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/partin-grey-cv-67081-745511k/",
+        "source_label": "PaintScratch 2020 Fleetwood",
+        "hex_value": "#BDB4A7"
+      },
+      {
+        "display_name": "Blue Silver Metallic",
+        "paint_code": "769681K/FLNA95597",
+        "slug": "blue-silver-metallic-769681kflna95597",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/blue-silver-metallic-769681kflna95597/",
+        "source_label": "PaintScratch 2020 Fleetwood",
+        "hex_value": "#C6CCCE"
+      },
+      {
+        "display_name": "Polar White",
+        "paint_code": "740956 IM",
+        "slug": "polar-white-740956-im",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/polar-white-740956-im/",
+        "source_label": "PaintScratch 2020 Fleetwood",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Loubier Brown Metallic",
+        "paint_code": "745510K",
+        "slug": "loubier-brown-metallic-745510k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/loubier-brown-metallic-745510k/",
+        "source_label": "PaintScratch 2020 Fleetwood",
+        "hex_value": "#674A33"
+      },
+      {
+        "display_name": "Alpine White",
+        "paint_code": "748557K",
+        "slug": "alpine-white-748557k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/alpine-white-748557k/",
+        "source_label": "PaintScratch 2020 Fleetwood",
+        "hex_value": "#EEECE0"
+      },
+      {
+        "display_name": "Panama Beige Metallic",
+        "paint_code": "751049K",
+        "slug": "panama-beige-metallic-751049k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/panama-beige-metallic-751049k/",
+        "source_label": "PaintScratch 2020 Fleetwood",
+        "hex_value": "#CBC2A3"
+      }
+    ],
+    "2021": [
+      {
+        "display_name": "Obsidian",
+        "paint_code": "745478K",
+        "slug": "obsidian-745478k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/obsidian-745478k/",
+        "source_label": "PaintScratch 2021 Fleetwood",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Java White Metallic",
+        "paint_code": "751051K",
+        "slug": "java-white-metallic-751051k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/java-white-metallic-751051k/",
+        "source_label": "PaintScratch 2021 Fleetwood",
+        "hex_value": "#EEECE0"
+      },
+      {
+        "display_name": "Champagne Pearl Metallic",
+        "paint_code": "748547K",
+        "slug": "champagne-pearl-metallic-748547k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/champagne-pearl-metallic-748547k/",
+        "source_label": "PaintScratch 2021 Fleetwood",
+        "hex_value": "#ECE5B6"
+      },
+      {
+        "display_name": "Merlot Red",
+        "paint_code": "776869",
+        "slug": "merlot-red-776869",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/merlot-red-776869/",
+        "source_label": "PaintScratch 2021 Fleetwood",
+        "hex_value": "#761C1A"
+      },
+      {
+        "display_name": "Summer Dust",
+        "paint_code": "776871K",
+        "slug": "summer-dust-776871k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/summer-dust-776871k/",
+        "source_label": "PaintScratch 2021 Fleetwood",
+        "hex_value": "#928A76"
+      },
+      {
+        "display_name": "Iron Gray Metallic",
+        "paint_code": "745477K",
+        "slug": "iron-gray-metallic-745477k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/iron-gray-metallic-745477k/",
+        "source_label": "PaintScratch 2021 Fleetwood",
+        "hex_value": "#202020"
+      },
+      {
+        "display_name": "Mocha Frost",
+        "paint_code": "740932K",
+        "slug": "mocha-frost-740932k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/mocha-frost-740932k/",
+        "source_label": "PaintScratch 2021 Fleetwood",
+        "hex_value": "#B2A38E"
+      },
+      {
+        "display_name": "Smoke Metallic",
+        "paint_code": "745474K",
+        "slug": "smoke-metallic-745474k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/smoke-metallic-745474k/",
+        "source_label": "PaintScratch 2021 Fleetwood",
+        "hex_value": "#574F43"
+      },
+      {
+        "display_name": "Bright Silver Metallic",
+        "paint_code": "745479K",
+        "slug": "bright-silver-metallic-745479k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/bright-silver-metallic-745479k/",
+        "source_label": "PaintScratch 2021 Fleetwood",
+        "hex_value": "#F4F3EE"
+      },
+      {
+        "display_name": "Brilliant Black",
+        "paint_code": "FLNA95598",
+        "slug": "brilliant-black-flna95598",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/brilliant-black-flna95598/",
+        "source_label": "PaintScratch 2021 Fleetwood",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Partin Grey",
+        "paint_code": "CV-67081_ (745511K",
+        "slug": "partin-grey-cv-67081-745511k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/partin-grey-cv-67081-745511k/",
+        "source_label": "PaintScratch 2021 Fleetwood",
+        "hex_value": "#BDB4A7"
+      },
+      {
+        "display_name": "Blue Silver Metallic",
+        "paint_code": "769681K/FLNA95597",
+        "slug": "blue-silver-metallic-769681kflna95597",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/blue-silver-metallic-769681kflna95597/",
+        "source_label": "PaintScratch 2021 Fleetwood",
+        "hex_value": "#C6CCCE"
+      },
+      {
+        "display_name": "Polar White",
+        "paint_code": "740956 IM",
+        "slug": "polar-white-740956-im",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/polar-white-740956-im/",
+        "source_label": "PaintScratch 2021 Fleetwood",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Loubier Brown Metallic",
+        "paint_code": "745510K",
+        "slug": "loubier-brown-metallic-745510k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/loubier-brown-metallic-745510k/",
+        "source_label": "PaintScratch 2021 Fleetwood",
+        "hex_value": "#674A33"
+      },
+      {
+        "display_name": "Alpine White",
+        "paint_code": "748557K",
+        "slug": "alpine-white-748557k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/alpine-white-748557k/",
+        "source_label": "PaintScratch 2021 Fleetwood",
+        "hex_value": "#EEECE0"
+      },
+      {
+        "display_name": "Panama Beige Metallic",
+        "paint_code": "751049K",
+        "slug": "panama-beige-metallic-751049k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/panama-beige-metallic-751049k/",
+        "source_label": "PaintScratch 2021 Fleetwood",
+        "hex_value": "#CBC2A3"
+      }
+    ],
+    "2022": [
+      {
+        "display_name": "Obsidian",
+        "paint_code": "745478K",
+        "slug": "obsidian-745478k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/obsidian-745478k/",
+        "source_label": "PaintScratch 2022 Fleetwood",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Java White Metallic",
+        "paint_code": "751051K",
+        "slug": "java-white-metallic-751051k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/java-white-metallic-751051k/",
+        "source_label": "PaintScratch 2022 Fleetwood",
+        "hex_value": "#EEECE0"
+      },
+      {
+        "display_name": "Champagne Pearl Metallic",
+        "paint_code": "748547K",
+        "slug": "champagne-pearl-metallic-748547k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/champagne-pearl-metallic-748547k/",
+        "source_label": "PaintScratch 2022 Fleetwood",
+        "hex_value": "#ECE5B6"
+      },
+      {
+        "display_name": "Merlot Red",
+        "paint_code": "776869",
+        "slug": "merlot-red-776869",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/merlot-red-776869/",
+        "source_label": "PaintScratch 2022 Fleetwood",
+        "hex_value": "#761C1A"
+      },
+      {
+        "display_name": "Summer Dust",
+        "paint_code": "776871K",
+        "slug": "summer-dust-776871k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/summer-dust-776871k/",
+        "source_label": "PaintScratch 2022 Fleetwood",
+        "hex_value": "#928A76"
+      },
+      {
+        "display_name": "Iron Gray Metallic",
+        "paint_code": "745477K",
+        "slug": "iron-gray-metallic-745477k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/iron-gray-metallic-745477k/",
+        "source_label": "PaintScratch 2022 Fleetwood",
+        "hex_value": "#202020"
+      },
+      {
+        "display_name": "Mocha Frost",
+        "paint_code": "740932K",
+        "slug": "mocha-frost-740932k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/mocha-frost-740932k/",
+        "source_label": "PaintScratch 2022 Fleetwood",
+        "hex_value": "#B2A38E"
+      },
+      {
+        "display_name": "Smoke Metallic",
+        "paint_code": "745474K",
+        "slug": "smoke-metallic-745474k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/smoke-metallic-745474k/",
+        "source_label": "PaintScratch 2022 Fleetwood",
+        "hex_value": "#574F43"
+      },
+      {
+        "display_name": "Bright Silver Metallic",
+        "paint_code": "745479K",
+        "slug": "bright-silver-metallic-745479k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/bright-silver-metallic-745479k/",
+        "source_label": "PaintScratch 2022 Fleetwood",
+        "hex_value": "#F4F3EE"
+      },
+      {
+        "display_name": "Brilliant Black",
+        "paint_code": "FLNA95598",
+        "slug": "brilliant-black-flna95598",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/brilliant-black-flna95598/",
+        "source_label": "PaintScratch 2022 Fleetwood",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Partin Grey",
+        "paint_code": "CV-67081_ (745511K",
+        "slug": "partin-grey-cv-67081-745511k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/partin-grey-cv-67081-745511k/",
+        "source_label": "PaintScratch 2022 Fleetwood",
+        "hex_value": "#BDB4A7"
+      },
+      {
+        "display_name": "Blue Silver Metallic",
+        "paint_code": "769681K/FLNA95597",
+        "slug": "blue-silver-metallic-769681kflna95597",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/blue-silver-metallic-769681kflna95597/",
+        "source_label": "PaintScratch 2022 Fleetwood",
+        "hex_value": "#C6CCCE"
+      },
+      {
+        "display_name": "Polar White",
+        "paint_code": "740956 IM",
+        "slug": "polar-white-740956-im",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/polar-white-740956-im/",
+        "source_label": "PaintScratch 2022 Fleetwood",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Loubier Brown Metallic",
+        "paint_code": "745510K",
+        "slug": "loubier-brown-metallic-745510k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/loubier-brown-metallic-745510k/",
+        "source_label": "PaintScratch 2022 Fleetwood",
+        "hex_value": "#674A33"
+      },
+      {
+        "display_name": "Alpine White",
+        "paint_code": "748557K",
+        "slug": "alpine-white-748557k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/alpine-white-748557k/",
+        "source_label": "PaintScratch 2022 Fleetwood",
+        "hex_value": "#EEECE0"
+      },
+      {
+        "display_name": "Panama Beige Metallic",
+        "paint_code": "751049K",
+        "slug": "panama-beige-metallic-751049k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/panama-beige-metallic-751049k/",
+        "source_label": "PaintScratch 2022 Fleetwood",
+        "hex_value": "#CBC2A3"
+      }
+    ],
+    "2023": [
+      {
+        "display_name": "Obsidian",
+        "paint_code": "745478K",
+        "slug": "obsidian-745478k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/obsidian-745478k/",
+        "source_label": "PaintScratch 2023 Fleetwood",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Java White Metallic",
+        "paint_code": "751051K",
+        "slug": "java-white-metallic-751051k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/java-white-metallic-751051k/",
+        "source_label": "PaintScratch 2023 Fleetwood",
+        "hex_value": "#EEECE0"
+      },
+      {
+        "display_name": "Champagne Pearl Metallic",
+        "paint_code": "748547K",
+        "slug": "champagne-pearl-metallic-748547k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/champagne-pearl-metallic-748547k/",
+        "source_label": "PaintScratch 2023 Fleetwood",
+        "hex_value": "#ECE5B6"
+      },
+      {
+        "display_name": "Merlot Red",
+        "paint_code": "776869",
+        "slug": "merlot-red-776869",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/merlot-red-776869/",
+        "source_label": "PaintScratch 2023 Fleetwood",
+        "hex_value": "#761C1A"
+      },
+      {
+        "display_name": "Summer Dust",
+        "paint_code": "776871K",
+        "slug": "summer-dust-776871k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/summer-dust-776871k/",
+        "source_label": "PaintScratch 2023 Fleetwood",
+        "hex_value": "#928A76"
+      },
+      {
+        "display_name": "Iron Gray Metallic",
+        "paint_code": "745477K",
+        "slug": "iron-gray-metallic-745477k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/iron-gray-metallic-745477k/",
+        "source_label": "PaintScratch 2023 Fleetwood",
+        "hex_value": "#202020"
+      },
+      {
+        "display_name": "Mocha Frost",
+        "paint_code": "740932K",
+        "slug": "mocha-frost-740932k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/mocha-frost-740932k/",
+        "source_label": "PaintScratch 2023 Fleetwood",
+        "hex_value": "#B2A38E"
+      },
+      {
+        "display_name": "Smoke Metallic",
+        "paint_code": "745474K",
+        "slug": "smoke-metallic-745474k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/smoke-metallic-745474k/",
+        "source_label": "PaintScratch 2023 Fleetwood",
+        "hex_value": "#574F43"
+      },
+      {
+        "display_name": "Bright Silver Metallic",
+        "paint_code": "745479K",
+        "slug": "bright-silver-metallic-745479k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/bright-silver-metallic-745479k/",
+        "source_label": "PaintScratch 2023 Fleetwood",
+        "hex_value": "#F4F3EE"
+      },
+      {
+        "display_name": "Brilliant Black",
+        "paint_code": "FLNA95598",
+        "slug": "brilliant-black-flna95598",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/brilliant-black-flna95598/",
+        "source_label": "PaintScratch 2023 Fleetwood",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Partin Grey",
+        "paint_code": "CV-67081_ (745511K",
+        "slug": "partin-grey-cv-67081-745511k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/partin-grey-cv-67081-745511k/",
+        "source_label": "PaintScratch 2023 Fleetwood",
+        "hex_value": "#BDB4A7"
+      },
+      {
+        "display_name": "Blue Silver Metallic",
+        "paint_code": "769681K/FLNA95597",
+        "slug": "blue-silver-metallic-769681kflna95597",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/blue-silver-metallic-769681kflna95597/",
+        "source_label": "PaintScratch 2023 Fleetwood",
+        "hex_value": "#C6CCCE"
+      },
+      {
+        "display_name": "Polar White",
+        "paint_code": "740956 IM",
+        "slug": "polar-white-740956-im",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/polar-white-740956-im/",
+        "source_label": "PaintScratch 2023 Fleetwood",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Loubier Brown Metallic",
+        "paint_code": "745510K",
+        "slug": "loubier-brown-metallic-745510k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/loubier-brown-metallic-745510k/",
+        "source_label": "PaintScratch 2023 Fleetwood",
+        "hex_value": "#674A33"
+      },
+      {
+        "display_name": "Alpine White",
+        "paint_code": "748557K",
+        "slug": "alpine-white-748557k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/alpine-white-748557k/",
+        "source_label": "PaintScratch 2023 Fleetwood",
+        "hex_value": "#EEECE0"
+      },
+      {
+        "display_name": "Panama Beige Metallic",
+        "paint_code": "751049K",
+        "slug": "panama-beige-metallic-751049k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/panama-beige-metallic-751049k/",
+        "source_label": "PaintScratch 2023 Fleetwood",
+        "hex_value": "#CBC2A3"
+      }
+    ],
+    "2024": [
+      {
+        "display_name": "Obsidian",
+        "paint_code": "745478K",
+        "slug": "obsidian-745478k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/obsidian-745478k/",
+        "source_label": "PaintScratch 2024 Fleetwood",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Java White Metallic",
+        "paint_code": "751051K",
+        "slug": "java-white-metallic-751051k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/java-white-metallic-751051k/",
+        "source_label": "PaintScratch 2024 Fleetwood",
+        "hex_value": "#EEECE0"
+      },
+      {
+        "display_name": "Champagne Pearl Metallic",
+        "paint_code": "748547K",
+        "slug": "champagne-pearl-metallic-748547k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/champagne-pearl-metallic-748547k/",
+        "source_label": "PaintScratch 2024 Fleetwood",
+        "hex_value": "#ECE5B6"
+      },
+      {
+        "display_name": "Merlot Red",
+        "paint_code": "776869",
+        "slug": "merlot-red-776869",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/merlot-red-776869/",
+        "source_label": "PaintScratch 2024 Fleetwood",
+        "hex_value": "#761C1A"
+      },
+      {
+        "display_name": "Summer Dust",
+        "paint_code": "776871K",
+        "slug": "summer-dust-776871k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/summer-dust-776871k/",
+        "source_label": "PaintScratch 2024 Fleetwood",
+        "hex_value": "#928A76"
+      },
+      {
+        "display_name": "Iron Gray Metallic",
+        "paint_code": "745477K",
+        "slug": "iron-gray-metallic-745477k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/iron-gray-metallic-745477k/",
+        "source_label": "PaintScratch 2024 Fleetwood",
+        "hex_value": "#202020"
+      },
+      {
+        "display_name": "Mocha Frost",
+        "paint_code": "740932K",
+        "slug": "mocha-frost-740932k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/mocha-frost-740932k/",
+        "source_label": "PaintScratch 2024 Fleetwood",
+        "hex_value": "#B2A38E"
+      },
+      {
+        "display_name": "Smoke Metallic",
+        "paint_code": "745474K",
+        "slug": "smoke-metallic-745474k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/smoke-metallic-745474k/",
+        "source_label": "PaintScratch 2024 Fleetwood",
+        "hex_value": "#574F43"
+      },
+      {
+        "display_name": "Bright Silver Metallic",
+        "paint_code": "745479K",
+        "slug": "bright-silver-metallic-745479k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/bright-silver-metallic-745479k/",
+        "source_label": "PaintScratch 2024 Fleetwood",
+        "hex_value": "#F4F3EE"
+      },
+      {
+        "display_name": "Brilliant Black",
+        "paint_code": "FLNA95598",
+        "slug": "brilliant-black-flna95598",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/brilliant-black-flna95598/",
+        "source_label": "PaintScratch 2024 Fleetwood",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Partin Grey",
+        "paint_code": "CV-67081_ (745511K",
+        "slug": "partin-grey-cv-67081-745511k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/partin-grey-cv-67081-745511k/",
+        "source_label": "PaintScratch 2024 Fleetwood",
+        "hex_value": "#BDB4A7"
+      },
+      {
+        "display_name": "Blue Silver Metallic",
+        "paint_code": "769681K/FLNA95597",
+        "slug": "blue-silver-metallic-769681kflna95597",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/blue-silver-metallic-769681kflna95597/",
+        "source_label": "PaintScratch 2024 Fleetwood",
+        "hex_value": "#C6CCCE"
+      },
+      {
+        "display_name": "Polar White",
+        "paint_code": "740956 IM",
+        "slug": "polar-white-740956-im",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/polar-white-740956-im/",
+        "source_label": "PaintScratch 2024 Fleetwood",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Loubier Brown Metallic",
+        "paint_code": "745510K",
+        "slug": "loubier-brown-metallic-745510k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/loubier-brown-metallic-745510k/",
+        "source_label": "PaintScratch 2024 Fleetwood",
+        "hex_value": "#674A33"
+      },
+      {
+        "display_name": "Alpine White",
+        "paint_code": "748557K",
+        "slug": "alpine-white-748557k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/alpine-white-748557k/",
+        "source_label": "PaintScratch 2024 Fleetwood",
+        "hex_value": "#EEECE0"
+      },
+      {
+        "display_name": "Panama Beige Metallic",
+        "paint_code": "751049K",
+        "slug": "panama-beige-metallic-751049k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/panama-beige-metallic-751049k/",
+        "source_label": "PaintScratch 2024 Fleetwood",
+        "hex_value": "#CBC2A3"
+      }
+    ],
+    "2025": [
+      {
+        "display_name": "Obsidian",
+        "paint_code": "745478K",
+        "slug": "obsidian-745478k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/obsidian-745478k/",
+        "source_label": "PaintScratch 2025 Fleetwood",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Java White Metallic",
+        "paint_code": "751051K",
+        "slug": "java-white-metallic-751051k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/java-white-metallic-751051k/",
+        "source_label": "PaintScratch 2025 Fleetwood",
+        "hex_value": "#EEECE0"
+      },
+      {
+        "display_name": "Champagne Pearl Metallic",
+        "paint_code": "748547K",
+        "slug": "champagne-pearl-metallic-748547k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/champagne-pearl-metallic-748547k/",
+        "source_label": "PaintScratch 2025 Fleetwood",
+        "hex_value": "#ECE5B6"
+      },
+      {
+        "display_name": "Merlot Red",
+        "paint_code": "776869",
+        "slug": "merlot-red-776869",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/merlot-red-776869/",
+        "source_label": "PaintScratch 2025 Fleetwood",
+        "hex_value": "#761C1A"
+      },
+      {
+        "display_name": "Summer Dust",
+        "paint_code": "776871K",
+        "slug": "summer-dust-776871k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/summer-dust-776871k/",
+        "source_label": "PaintScratch 2025 Fleetwood",
+        "hex_value": "#928A76"
+      },
+      {
+        "display_name": "Iron Gray Metallic",
+        "paint_code": "745477K",
+        "slug": "iron-gray-metallic-745477k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/iron-gray-metallic-745477k/",
+        "source_label": "PaintScratch 2025 Fleetwood",
+        "hex_value": "#202020"
+      },
+      {
+        "display_name": "Mocha Frost",
+        "paint_code": "740932K",
+        "slug": "mocha-frost-740932k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/mocha-frost-740932k/",
+        "source_label": "PaintScratch 2025 Fleetwood",
+        "hex_value": "#B2A38E"
+      },
+      {
+        "display_name": "Smoke Metallic",
+        "paint_code": "745474K",
+        "slug": "smoke-metallic-745474k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/smoke-metallic-745474k/",
+        "source_label": "PaintScratch 2025 Fleetwood",
+        "hex_value": "#574F43"
+      },
+      {
+        "display_name": "Bright Silver Metallic",
+        "paint_code": "745479K",
+        "slug": "bright-silver-metallic-745479k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/bright-silver-metallic-745479k/",
+        "source_label": "PaintScratch 2025 Fleetwood",
+        "hex_value": "#F4F3EE"
+      },
+      {
+        "display_name": "Brilliant Black",
+        "paint_code": "FLNA95598",
+        "slug": "brilliant-black-flna95598",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/brilliant-black-flna95598/",
+        "source_label": "PaintScratch 2025 Fleetwood",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Partin Grey",
+        "paint_code": "CV-67081_ (745511K",
+        "slug": "partin-grey-cv-67081-745511k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/partin-grey-cv-67081-745511k/",
+        "source_label": "PaintScratch 2025 Fleetwood",
+        "hex_value": "#BDB4A7"
+      },
+      {
+        "display_name": "Blue Silver Metallic",
+        "paint_code": "769681K/FLNA95597",
+        "slug": "blue-silver-metallic-769681kflna95597",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/blue-silver-metallic-769681kflna95597/",
+        "source_label": "PaintScratch 2025 Fleetwood",
+        "hex_value": "#C6CCCE"
+      },
+      {
+        "display_name": "Polar White",
+        "paint_code": "740956 IM",
+        "slug": "polar-white-740956-im",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/polar-white-740956-im/",
+        "source_label": "PaintScratch 2025 Fleetwood",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Loubier Brown Metallic",
+        "paint_code": "745510K",
+        "slug": "loubier-brown-metallic-745510k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/loubier-brown-metallic-745510k/",
+        "source_label": "PaintScratch 2025 Fleetwood",
+        "hex_value": "#674A33"
+      },
+      {
+        "display_name": "Alpine White",
+        "paint_code": "748557K",
+        "slug": "alpine-white-748557k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/alpine-white-748557k/",
+        "source_label": "PaintScratch 2025 Fleetwood",
+        "hex_value": "#EEECE0"
+      },
+      {
+        "display_name": "Panama Beige Metallic",
+        "paint_code": "751049K",
+        "slug": "panama-beige-metallic-751049k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/panama-beige-metallic-751049k/",
+        "source_label": "PaintScratch 2025 Fleetwood",
+        "hex_value": "#CBC2A3"
+      }
+    ],
+    "2026": [
+      {
+        "display_name": "Obsidian",
+        "paint_code": "745478K",
+        "slug": "obsidian-745478k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/obsidian-745478k/",
+        "source_label": "PaintScratch 2026 Fleetwood",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Java White Metallic",
+        "paint_code": "751051K",
+        "slug": "java-white-metallic-751051k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/java-white-metallic-751051k/",
+        "source_label": "PaintScratch 2026 Fleetwood",
+        "hex_value": "#EEECE0"
+      },
+      {
+        "display_name": "Champagne Pearl Metallic",
+        "paint_code": "748547K",
+        "slug": "champagne-pearl-metallic-748547k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/champagne-pearl-metallic-748547k/",
+        "source_label": "PaintScratch 2026 Fleetwood",
+        "hex_value": "#ECE5B6"
+      },
+      {
+        "display_name": "Merlot Red",
+        "paint_code": "776869",
+        "slug": "merlot-red-776869",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/merlot-red-776869/",
+        "source_label": "PaintScratch 2026 Fleetwood",
+        "hex_value": "#761C1A"
+      },
+      {
+        "display_name": "Summer Dust",
+        "paint_code": "776871K",
+        "slug": "summer-dust-776871k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/summer-dust-776871k/",
+        "source_label": "PaintScratch 2026 Fleetwood",
+        "hex_value": "#928A76"
+      },
+      {
+        "display_name": "Iron Gray Metallic",
+        "paint_code": "745477K",
+        "slug": "iron-gray-metallic-745477k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/iron-gray-metallic-745477k/",
+        "source_label": "PaintScratch 2026 Fleetwood",
+        "hex_value": "#202020"
+      },
+      {
+        "display_name": "Mocha Frost",
+        "paint_code": "740932K",
+        "slug": "mocha-frost-740932k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/mocha-frost-740932k/",
+        "source_label": "PaintScratch 2026 Fleetwood",
+        "hex_value": "#B2A38E"
+      },
+      {
+        "display_name": "Smoke Metallic",
+        "paint_code": "745474K",
+        "slug": "smoke-metallic-745474k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/smoke-metallic-745474k/",
+        "source_label": "PaintScratch 2026 Fleetwood",
+        "hex_value": "#574F43"
+      },
+      {
+        "display_name": "Bright Silver Metallic",
+        "paint_code": "745479K",
+        "slug": "bright-silver-metallic-745479k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/bright-silver-metallic-745479k/",
+        "source_label": "PaintScratch 2026 Fleetwood",
+        "hex_value": "#F4F3EE"
+      },
+      {
+        "display_name": "Brilliant Black",
+        "paint_code": "FLNA95598",
+        "slug": "brilliant-black-flna95598",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/brilliant-black-flna95598/",
+        "source_label": "PaintScratch 2026 Fleetwood",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Partin Grey",
+        "paint_code": "CV-67081_ (745511K",
+        "slug": "partin-grey-cv-67081-745511k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/partin-grey-cv-67081-745511k/",
+        "source_label": "PaintScratch 2026 Fleetwood",
+        "hex_value": "#BDB4A7"
+      },
+      {
+        "display_name": "Blue Silver Metallic",
+        "paint_code": "769681K/FLNA95597",
+        "slug": "blue-silver-metallic-769681kflna95597",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/blue-silver-metallic-769681kflna95597/",
+        "source_label": "PaintScratch 2026 Fleetwood",
+        "hex_value": "#C6CCCE"
+      },
+      {
+        "display_name": "Polar White",
+        "paint_code": "740956 IM",
+        "slug": "polar-white-740956-im",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/polar-white-740956-im/",
+        "source_label": "PaintScratch 2026 Fleetwood",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Loubier Brown Metallic",
+        "paint_code": "745510K",
+        "slug": "loubier-brown-metallic-745510k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/loubier-brown-metallic-745510k/",
+        "source_label": "PaintScratch 2026 Fleetwood",
+        "hex_value": "#674A33"
+      },
+      {
+        "display_name": "Alpine White",
+        "paint_code": "748557K",
+        "slug": "alpine-white-748557k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/alpine-white-748557k/",
+        "source_label": "PaintScratch 2026 Fleetwood",
+        "hex_value": "#EEECE0"
+      },
+      {
+        "display_name": "Panama Beige Metallic",
+        "paint_code": "751049K",
+        "slug": "panama-beige-metallic-751049k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/panama-beige-metallic-751049k/",
+        "source_label": "PaintScratch 2026 Fleetwood",
+        "hex_value": "#CBC2A3"
+      }
+    ],
+    "2027": [
+      {
+        "display_name": "Obsidian",
+        "paint_code": "745478K",
+        "slug": "obsidian-745478k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/obsidian-745478k/",
+        "source_label": "PaintScratch 2027 Fleetwood",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Java White Metallic",
+        "paint_code": "751051K",
+        "slug": "java-white-metallic-751051k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/java-white-metallic-751051k/",
+        "source_label": "PaintScratch 2027 Fleetwood",
+        "hex_value": "#EEECE0"
+      },
+      {
+        "display_name": "Champagne Pearl Metallic",
+        "paint_code": "748547K",
+        "slug": "champagne-pearl-metallic-748547k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/champagne-pearl-metallic-748547k/",
+        "source_label": "PaintScratch 2027 Fleetwood",
+        "hex_value": "#ECE5B6"
+      },
+      {
+        "display_name": "Merlot Red",
+        "paint_code": "776869",
+        "slug": "merlot-red-776869",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/merlot-red-776869/",
+        "source_label": "PaintScratch 2027 Fleetwood",
+        "hex_value": "#761C1A"
+      },
+      {
+        "display_name": "Summer Dust",
+        "paint_code": "776871K",
+        "slug": "summer-dust-776871k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/summer-dust-776871k/",
+        "source_label": "PaintScratch 2027 Fleetwood",
+        "hex_value": "#928A76"
+      },
+      {
+        "display_name": "Iron Gray Metallic",
+        "paint_code": "745477K",
+        "slug": "iron-gray-metallic-745477k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/iron-gray-metallic-745477k/",
+        "source_label": "PaintScratch 2027 Fleetwood",
+        "hex_value": "#202020"
+      },
+      {
+        "display_name": "Mocha Frost",
+        "paint_code": "740932K",
+        "slug": "mocha-frost-740932k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/mocha-frost-740932k/",
+        "source_label": "PaintScratch 2027 Fleetwood",
+        "hex_value": "#B2A38E"
+      },
+      {
+        "display_name": "Smoke Metallic",
+        "paint_code": "745474K",
+        "slug": "smoke-metallic-745474k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/smoke-metallic-745474k/",
+        "source_label": "PaintScratch 2027 Fleetwood",
+        "hex_value": "#574F43"
+      },
+      {
+        "display_name": "Bright Silver Metallic",
+        "paint_code": "745479K",
+        "slug": "bright-silver-metallic-745479k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/bright-silver-metallic-745479k/",
+        "source_label": "PaintScratch 2027 Fleetwood",
+        "hex_value": "#F4F3EE"
+      },
+      {
+        "display_name": "Brilliant Black",
+        "paint_code": "FLNA95598",
+        "slug": "brilliant-black-flna95598",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/brilliant-black-flna95598/",
+        "source_label": "PaintScratch 2027 Fleetwood",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Partin Grey",
+        "paint_code": "CV-67081_ (745511K",
+        "slug": "partin-grey-cv-67081-745511k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/partin-grey-cv-67081-745511k/",
+        "source_label": "PaintScratch 2027 Fleetwood",
+        "hex_value": "#BDB4A7"
+      },
+      {
+        "display_name": "Blue Silver Metallic",
+        "paint_code": "769681K/FLNA95597",
+        "slug": "blue-silver-metallic-769681kflna95597",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/blue-silver-metallic-769681kflna95597/",
+        "source_label": "PaintScratch 2027 Fleetwood",
+        "hex_value": "#C6CCCE"
+      },
+      {
+        "display_name": "Polar White",
+        "paint_code": "740956 IM",
+        "slug": "polar-white-740956-im",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/polar-white-740956-im/",
+        "source_label": "PaintScratch 2027 Fleetwood",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Loubier Brown Metallic",
+        "paint_code": "745510K",
+        "slug": "loubier-brown-metallic-745510k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/loubier-brown-metallic-745510k/",
+        "source_label": "PaintScratch 2027 Fleetwood",
+        "hex_value": "#674A33"
+      },
+      {
+        "display_name": "Alpine White",
+        "paint_code": "748557K",
+        "slug": "alpine-white-748557k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/alpine-white-748557k/",
+        "source_label": "PaintScratch 2027 Fleetwood",
+        "hex_value": "#EEECE0"
+      },
+      {
+        "display_name": "Panama Beige Metallic",
+        "paint_code": "751049K",
+        "slug": "panama-beige-metallic-751049k",
+        "reference_url": "https://www.paintscratch.com/colors/fleetwood/panama-beige-metallic-751049k/",
+        "source_label": "PaintScratch 2027 Fleetwood",
+        "hex_value": "#CBC2A3"
+      }
+    ]
+  }
+}

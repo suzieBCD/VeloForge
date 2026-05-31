@@ -10,8 +10,6 @@
   /** @type {HTMLSelectElement} */
   const makeSel = /** @type {any} */ (root.querySelector('[data-select="make"]'));
   /** @type {HTMLSelectElement} */
-  const modelSel = /** @type {any} */ (root.querySelector('[data-select="model"]'));
-  /** @type {HTMLSelectElement} */
   const yearSel = /** @type {any} */ (root.querySelector('[data-select="year"]'));
   const paintGrid = root.querySelector('[data-paint-grid]');
   const paintUnavailable = root.querySelector('[data-paint-unavailable]');
@@ -41,7 +39,10 @@
   const ringInlayMask = root.dataset.ringInlay;
 
   /* ===== STATE ===== */
-  let vehicleData = null;
+  /** @type {Map<string, object>} Cache of make → model tree, populated on demand */
+  const makeCache = new Map();
+  /** Internal model key, auto-selected from fetched make data */
+  let activeModelKey = null;
   let selectedPaint = null;
   let selectedSize = null;
 
@@ -49,45 +50,64 @@
   const variantMap = JSON.parse(root.querySelector('[data-variant-map]')?.textContent || '{}');
 
   /* ===== VEHICLE DATA ===== */
-  async function loadVehicleData() {
+
+  /** Same slug logic as split-paint-data.js */
+  function makeSlug(name) {
+    return name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+  }
+
+  async function loadPaintIndex() {
     try {
-      const url = root.dataset.vehicleDataUrl;
+      const url = root.dataset.paintIndexUrl;
       const res = await fetch(url);
       const json = await res.json();
-      vehicleData = json.vehicle_tree || json;
-      populateMakes();
+      populateMakes(json.makes);
     } catch (e) {
-      console.error('VeloForge: Failed to load vehicle data', e);
+      console.error('VeloForge: Failed to load paint index', e);
     }
   }
 
-  function populateMakes() {
-    const makes = Object.keys(vehicleData);
+  /**
+   * Fetch and cache a single make's data.
+   * Returns the model subtree or null on error.
+   * @param {string} make
+   * @returns {Promise<object|null>}
+   */
+  async function fetchMakeData(make) {
+    if (makeCache.has(make)) return makeCache.get(make);
+    try {
+      const indexUrl = root.dataset.paintIndexUrl;
+      const cdnBase = indexUrl.substring(0, indexUrl.lastIndexOf('/'));
+      const chunkUrl = `${cdnBase}/paint-data-${makeSlug(make)}.json`;
+      const res = await fetch(chunkUrl);
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      const data = await res.json();
+      makeCache.set(make, data);
+      return data;
+    } catch (e) {
+      console.error(`VeloForge: Failed to load paint data for "${make}"`, e);
+      return null;
+    }
+  }
+
+  function populateMakes(makes) {
     makeSel.innerHTML = '<option value="">Select Make</option>' +
       makes.map(m => `<option value="${m}">${m}</option>`).join('');
-    modelSel.innerHTML = '<option value="">Select Model</option>';
     yearSel.innerHTML = '<option value="">Select Year</option>';
   }
 
-  function onMakeChange() {
+  async function onMakeChange() {
     const make = makeSel.value;
-    modelSel.innerHTML = '<option value="">Select Model</option>';
     yearSel.innerHTML = '<option value="">Select Year</option>';
+    activeModelKey = null;
     clearPaints();
-    if (!make || !vehicleData?.[make]) return;
-    const models = Object.keys(vehicleData[make]);
-    modelSel.innerHTML += models.map(m => `<option value="${m}">${m}</option>`).join('');
-    updateSummaryVehicle();
-    updateReadiness();
-  }
-
-  function onModelChange() {
-    const make = makeSel.value;
-    const model = modelSel.value;
-    yearSel.innerHTML = '<option value="">Select Year</option>';
-    clearPaints();
-    if (!make || !model || !vehicleData?.[make]?.[model]) return;
-    const years = Object.keys(vehicleData[make][model]);
+    if (!make) return;
+    if (statusEl) statusEl.textContent = 'Loading colors…';
+    const makeData = await fetchMakeData(make);
+    if (statusEl) statusEl.textContent = '';
+    if (!makeData) return;
+    activeModelKey = Object.keys(makeData)[0];
+    const years = Object.keys(makeData[activeModelKey] || {});
     yearSel.innerHTML += years.map(y => `<option value="${y}">${y}</option>`).join('');
     updateSummaryVehicle();
     updateReadiness();
@@ -95,11 +115,10 @@
 
   function onYearChange() {
     const make = makeSel.value;
-    const model = modelSel.value;
     const year = yearSel.value;
     clearPaints();
-    if (!make || !model || !year) return;
-    const paints = vehicleData?.[make]?.[model]?.[year];
+    if (!make || !activeModelKey || !year) return;
+    const paints = makeCache.get(make)?.[activeModelKey]?.[year];
     if (paints?.length) {
       renderPaints(paints);
     } else {
@@ -270,14 +289,14 @@
 
   function updateSummaryVehicle() {
     if (!summaryVehicle) return;
-    const parts = [makeSel.value, modelSel.value, yearSel.value].filter(Boolean);
+    const parts = [makeSel.value, yearSel.value].filter(Boolean);
     summaryVehicle.textContent = parts.length ? parts.join(' ') : '—';
   }
 
   function updateReadiness() {
     if (!addBtn) return;
     const ready = !!selectedSize &&
-      !!makeSel.value && !!modelSel.value && !!yearSel.value &&
+      !!makeSel.value && !!yearSel.value &&
       !!(inputPaintName.value || inputPaintHex.value);
     addBtn.disabled = !ready;
   }
@@ -289,7 +308,7 @@
       showStatus('Please select a ring size.');
       return;
     }
-    if (!makeSel.value || !modelSel.value || !yearSel.value) {
+    if (!makeSel.value || !yearSel.value) {
       e.preventDefault();
       showStatus('Please complete all vehicle fields.');
       return;
@@ -313,7 +332,6 @@
   function saveState() {
     const state = {
       make: makeSel.value,
-      model: modelSel.value,
       year: yearSel.value,
       paintName: inputPaintName.value,
       paintCode: inputPaintCode.value,
@@ -332,16 +350,10 @@
       sessionStorage.removeItem(STATE_KEY);
     } catch (_) { return; }
 
-    /* Restore make and re-populate models */
+    /* Restore make — also fetches make data and populates years */
     if (state.make && makeSel.querySelector(`option[value="${CSS.escape(state.make)}"]`)) {
       makeSel.value = state.make;
-      onMakeChange();
-    } else { return; }
-
-    /* Restore model and re-populate years */
-    if (state.model && modelSel.querySelector(`option[value="${CSS.escape(state.model)}"]`)) {
-      modelSel.value = state.model;
-      onModelChange();
+      await onMakeChange();
     } else { return; }
 
     /* Restore year and load paints */
@@ -374,17 +386,8 @@
 
   /* ===== INIT ===== */
   if (makeSel) makeSel.addEventListener('change', onMakeChange);
-  if (modelSel) modelSel.addEventListener('change', onModelChange);
   if (yearSel) yearSel.addEventListener('change', onYearChange);
 
-  /* Also listen via event delegation as fallback */
-  root.addEventListener('change', (e) => {
-    const t = e.target;
-    if (t.matches('[data-select="make"]')) onMakeChange();
-    else if (t.matches('[data-select="model"]')) onModelChange();
-    else if (t.matches('[data-select="year"]')) onYearChange();
-  });
-
   applyRingMask();
-  loadVehicleData().then(restoreState);
+  loadPaintIndex().then(restoreState);
 })();

@@ -1,0 +1,4202 @@
+{
+  "All Models": {
+    "1972": [
+      {
+        "display_name": "Copper Metallic",
+        "paint_code": "106-R-49",
+        "slug": "copper-metallic-106-r-49",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/copper-metallic-106-r-49/",
+        "source_label": "PaintScratch 1972 Maserati",
+        "hex_value": "#9D6937"
+      }
+    ],
+    "1986": [
+      {
+        "display_name": "Dolomite White",
+        "paint_code": "217.201",
+        "slug": "dolomite-white-217201",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/dolomite-white-217201/",
+        "source_label": "PaintScratch 1986 Maserati",
+        "hex_value": "#F5F4DD"
+      },
+      {
+        "display_name": "Charcoal Gray Metallic",
+        "paint_code": "224.553",
+        "slug": "charcoal-gray-metallic-224553",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/charcoal-gray-metallic-224553/",
+        "source_label": "PaintScratch 1986 Maserati",
+        "hex_value": "#758369"
+      },
+      {
+        "display_name": "Silver Gray Metallic",
+        "paint_code": "224.652",
+        "slug": "silver-gray-metallic-224652",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/silver-gray-metallic-224652/",
+        "source_label": "PaintScratch 1986 Maserati",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Dark Aqua Metallic",
+        "paint_code": "224.853",
+        "slug": "dark-aqua-metallic-224853",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/dark-aqua-metallic-224853/",
+        "source_label": "PaintScratch 1986 Maserati",
+        "hex_value": "#366364"
+      },
+      {
+        "display_name": "Rosso Red",
+        "paint_code": "231.154",
+        "slug": "rosso-red-231154",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/rosso-red-231154/",
+        "source_label": "PaintScratch 1986 Maserati",
+        "hex_value": "#C00000"
+      },
+      {
+        "display_name": "Bordeaux",
+        "paint_code": "231.155",
+        "slug": "bordeaux-231155",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/bordeaux-231155/",
+        "source_label": "PaintScratch 1986 Maserati",
+        "hex_value": "#800000"
+      }
+    ],
+    "1987": [
+      {
+        "display_name": "Dolomite White",
+        "paint_code": "217.201",
+        "slug": "dolomite-white-217201",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/dolomite-white-217201/",
+        "source_label": "PaintScratch 1987 Maserati",
+        "hex_value": "#F5F4DD"
+      },
+      {
+        "display_name": "Sparkling Black Metallic",
+        "paint_code": "224.548",
+        "slug": "sparkling-black-metallic-224548",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/sparkling-black-metallic-224548/",
+        "source_label": "PaintScratch 1987 Maserati",
+        "hex_value": "#0F0F0D"
+      },
+      {
+        "display_name": "Gladis Gray Metallic",
+        "paint_code": "224.637",
+        "slug": "gladis-gray-metallic-224637",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/gladis-gray-metallic-224637/",
+        "source_label": "PaintScratch 1987 Maserati",
+        "hex_value": "#707276"
+      },
+      {
+        "display_name": "Stormy Sky Metallic",
+        "paint_code": "224.642",
+        "slug": "stormy-sky-metallic-224642",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/stormy-sky-metallic-224642/",
+        "source_label": "PaintScratch 1987 Maserati",
+        "hex_value": "#71879D"
+      },
+      {
+        "display_name": "Rifle Gray Metallic",
+        "paint_code": "224.643",
+        "slug": "rifle-gray-metallic-224643",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/rifle-gray-metallic-224643/",
+        "source_label": "PaintScratch 1987 Maserati",
+        "hex_value": "#6E7882"
+      },
+      {
+        "display_name": "Brown Metallic",
+        "paint_code": "224.753",
+        "slug": "brown-metallic-224753",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/brown-metallic-224753/",
+        "source_label": "PaintScratch 1987 Maserati",
+        "hex_value": "#6A5044"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "231.551",
+        "slug": "black-231551",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/black-231551/",
+        "source_label": "PaintScratch 1987 Maserati",
+        "hex_value": "#0E0E0E"
+      },
+      {
+        "display_name": "Rosso (DBC 72811)",
+        "paint_code": "287.4005",
+        "slug": "rosso-dbc-72811-2874005",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/rosso-dbc-72811-2874005/",
+        "source_label": "PaintScratch 1987 Maserati",
+        "hex_value": "#A31D1D"
+      },
+      {
+        "display_name": "Gold Metallic",
+        "paint_code": "334.018",
+        "slug": "gold-metallic-334018",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/gold-metallic-334018/",
+        "source_label": "PaintScratch 1987 Maserati",
+        "hex_value": "#CEAB7E"
+      },
+      {
+        "display_name": "Ruby Red Metallic",
+        "paint_code": "335.009",
+        "slug": "ruby-red-metallic-335009",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/ruby-red-metallic-335009/",
+        "source_label": "PaintScratch 1987 Maserati",
+        "hex_value": "#AF333F"
+      },
+      {
+        "display_name": "White",
+        "paint_code": "421.308",
+        "slug": "white-421308",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/white-421308/",
+        "source_label": "PaintScratch 1987 Maserati",
+        "hex_value": "#FFFBFB"
+      },
+      {
+        "display_name": "Cream",
+        "paint_code": "422.281",
+        "slug": "cream-422281",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/cream-422281/",
+        "source_label": "PaintScratch 1987 Maserati",
+        "hex_value": "#EEE9BE"
+      },
+      {
+        "display_name": "Brown Metallic",
+        "paint_code": "463.685",
+        "slug": "brown-metallic-463685",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/brown-metallic-463685/",
+        "source_label": "PaintScratch 1987 Maserati",
+        "hex_value": "#765340"
+      },
+      {
+        "display_name": "Smoky Quartz Metallic",
+        "paint_code": "873.358",
+        "slug": "smoky-quartz-metallic-873358",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/smoky-quartz-metallic-873358/",
+        "source_label": "PaintScratch 1987 Maserati",
+        "hex_value": "#B3BBB4"
+      },
+      {
+        "display_name": "Dark Golden Beryl Metallic",
+        "paint_code": "873.374",
+        "slug": "dark-golden-beryl-metallic-873374",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/dark-golden-beryl-metallic-873374/",
+        "source_label": "PaintScratch 1987 Maserati",
+        "hex_value": "#876C4D"
+      },
+      {
+        "display_name": "Dark Smokey Quartz Metallic",
+        "paint_code": "873.375",
+        "slug": "dark-smokey-quartz-metallic-873375",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/dark-smokey-quartz-metallic-873375/",
+        "source_label": "PaintScratch 1987 Maserati",
+        "hex_value": "#988F84"
+      }
+    ],
+    "1988": [
+      {
+        "display_name": "Dolomite White",
+        "paint_code": "217.201",
+        "slug": "dolomite-white-217201",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/dolomite-white-217201/",
+        "source_label": "PaintScratch 1988 Maserati",
+        "hex_value": "#F5F4DD"
+      },
+      {
+        "display_name": "Royal Cabernet Pearlcoat Metallic",
+        "paint_code": "224.123",
+        "slug": "royal-cabernet-pearlcoat-metallic-224123",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/royal-cabernet-pearlcoat-metallic-224123/",
+        "source_label": "PaintScratch 1988 Maserati",
+        "hex_value": "#601818"
+      },
+      {
+        "display_name": "Sparkling Black Metallic",
+        "paint_code": "224.548",
+        "slug": "sparkling-black-metallic-224548",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/sparkling-black-metallic-224548/",
+        "source_label": "PaintScratch 1988 Maserati",
+        "hex_value": "#0F0F0D"
+      },
+      {
+        "display_name": "Gladis Gray Metallic",
+        "paint_code": "224.637",
+        "slug": "gladis-gray-metallic-224637",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/gladis-gray-metallic-224637/",
+        "source_label": "PaintScratch 1988 Maserati",
+        "hex_value": "#707276"
+      },
+      {
+        "display_name": "Stormy Sky Metallic",
+        "paint_code": "224.642",
+        "slug": "stormy-sky-metallic-224642",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/stormy-sky-metallic-224642/",
+        "source_label": "PaintScratch 1988 Maserati",
+        "hex_value": "#71879D"
+      },
+      {
+        "display_name": "Rifle Gray Metallic",
+        "paint_code": "224.643",
+        "slug": "rifle-gray-metallic-224643",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/rifle-gray-metallic-224643/",
+        "source_label": "PaintScratch 1988 Maserati",
+        "hex_value": "#6E7882"
+      },
+      {
+        "display_name": "Brown Metallic",
+        "paint_code": "224.753",
+        "slug": "brown-metallic-224753",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/brown-metallic-224753/",
+        "source_label": "PaintScratch 1988 Maserati",
+        "hex_value": "#6A5044"
+      },
+      {
+        "display_name": "Pastel Ivory",
+        "paint_code": "231.052",
+        "slug": "pastel-ivory-231052",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/pastel-ivory-231052/",
+        "source_label": "PaintScratch 1988 Maserati",
+        "hex_value": "#F4F4DA"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "231.551",
+        "slug": "black-231551",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/black-231551/",
+        "source_label": "PaintScratch 1988 Maserati",
+        "hex_value": "#0E0E0E"
+      },
+      {
+        "display_name": "Gold Metallic",
+        "paint_code": "334.018",
+        "slug": "gold-metallic-334018",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/gold-metallic-334018/",
+        "source_label": "PaintScratch 1988 Maserati",
+        "hex_value": "#CEAB7E"
+      },
+      {
+        "display_name": "Ruby Red Metallic",
+        "paint_code": "335.009",
+        "slug": "ruby-red-metallic-335009",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/ruby-red-metallic-335009/",
+        "source_label": "PaintScratch 1988 Maserati",
+        "hex_value": "#AF333F"
+      },
+      {
+        "display_name": "White",
+        "paint_code": "421.308",
+        "slug": "white-421308",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/white-421308/",
+        "source_label": "PaintScratch 1988 Maserati",
+        "hex_value": "#FFFBFB"
+      }
+    ],
+    "1989": [
+      {
+        "display_name": "Royal Cabernet Pearlcoat Metallic",
+        "paint_code": "224.123",
+        "slug": "royal-cabernet-pearlcoat-metallic-224123",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/royal-cabernet-pearlcoat-metallic-224123/",
+        "source_label": "PaintScratch 1989 Maserati",
+        "hex_value": "#601818"
+      },
+      {
+        "display_name": "Sparkling Black Metallic",
+        "paint_code": "224.548",
+        "slug": "sparkling-black-metallic-224548",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/sparkling-black-metallic-224548/",
+        "source_label": "PaintScratch 1989 Maserati",
+        "hex_value": "#0F0F0D"
+      },
+      {
+        "display_name": "Rifle Gray Metallic",
+        "paint_code": "224.643",
+        "slug": "rifle-gray-metallic-224643",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/rifle-gray-metallic-224643/",
+        "source_label": "PaintScratch 1989 Maserati",
+        "hex_value": "#6E7882"
+      },
+      {
+        "display_name": "Silver Gray Metallic",
+        "paint_code": "224.652",
+        "slug": "silver-gray-metallic-224652",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/silver-gray-metallic-224652/",
+        "source_label": "PaintScratch 1989 Maserati",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Soft Grey Metallic",
+        "paint_code": "224.661",
+        "slug": "soft-grey-metallic-224661",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/soft-grey-metallic-224661/",
+        "source_label": "PaintScratch 1989 Maserati",
+        "hex_value": "#8B959B"
+      },
+      {
+        "display_name": "Dark Aqua Metallic",
+        "paint_code": "224.853",
+        "slug": "dark-aqua-metallic-224853",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/dark-aqua-metallic-224853/",
+        "source_label": "PaintScratch 1989 Maserati",
+        "hex_value": "#366364"
+      },
+      {
+        "display_name": "Swan White",
+        "paint_code": "231.018",
+        "slug": "swan-white-231018",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/swan-white-231018/",
+        "source_label": "PaintScratch 1989 Maserati",
+        "hex_value": "#F4F6F6"
+      },
+      {
+        "display_name": "Rosso Red",
+        "paint_code": "231.154",
+        "slug": "rosso-red-231154",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/rosso-red-231154/",
+        "source_label": "PaintScratch 1989 Maserati",
+        "hex_value": "#C00000"
+      },
+      {
+        "display_name": "Dark Gray",
+        "paint_code": "6717",
+        "slug": "dark-gray-6717",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/dark-gray-6717/",
+        "source_label": "PaintScratch 1989 Maserati",
+        "hex_value": "#5F5757"
+      },
+      {
+        "display_name": "Smoke Quartz Pearl Metallic",
+        "paint_code": "FE6",
+        "slug": "smoke-quartz-pearl-metallic-fe6",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/smoke-quartz-pearl-metallic-fe6/",
+        "source_label": "PaintScratch 1989 Maserati",
+        "hex_value": "#A9A3A5"
+      },
+      {
+        "display_name": "Royal Cabernet Pearl Metallic",
+        "paint_code": "FM8",
+        "slug": "royal-cabernet-pearl-metallic-fm8",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/royal-cabernet-pearl-metallic-fm8/",
+        "source_label": "PaintScratch 1989 Maserati",
+        "hex_value": "#603046"
+      },
+      {
+        "display_name": "Exotic Red (231.119)",
+        "paint_code": "FR2",
+        "slug": "exotic-red-231119-fr2",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/exotic-red-231119-fr2/",
+        "source_label": "PaintScratch 1989 Maserati",
+        "hex_value": "#AC1410"
+      },
+      {
+        "display_name": "Arctic White (PPG 90359)",
+        "paint_code": "FW4",
+        "slug": "arctic-white-ppg-90359-fw4",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/arctic-white-ppg-90359-fw4/",
+        "source_label": "PaintScratch 1989 Maserati",
+        "hex_value": "#FDFBE5"
+      },
+      {
+        "display_name": "Jet Black",
+        "paint_code": "FX7",
+        "slug": "jet-black-fx7",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/jet-black-fx7/",
+        "source_label": "PaintScratch 1989 Maserati",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Light Yellow",
+        "paint_code": "FY4",
+        "slug": "light-yellow-fy4",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/light-yellow-fy4/",
+        "source_label": "PaintScratch 1989 Maserati",
+        "hex_value": "#F3F293"
+      }
+    ],
+    "1990": [
+      {
+        "display_name": "Royal Cabernet Pearlcoat Metallic",
+        "paint_code": "224.123",
+        "slug": "royal-cabernet-pearlcoat-metallic-224123",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/royal-cabernet-pearlcoat-metallic-224123/",
+        "source_label": "PaintScratch 1990 Maserati",
+        "hex_value": "#601818"
+      },
+      {
+        "display_name": "Sparkling Black Metallic",
+        "paint_code": "224.548",
+        "slug": "sparkling-black-metallic-224548",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/sparkling-black-metallic-224548/",
+        "source_label": "PaintScratch 1990 Maserati",
+        "hex_value": "#0F0F0D"
+      },
+      {
+        "display_name": "Rifle Gray Metallic",
+        "paint_code": "224.643",
+        "slug": "rifle-gray-metallic-224643",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/rifle-gray-metallic-224643/",
+        "source_label": "PaintScratch 1990 Maserati",
+        "hex_value": "#6E7882"
+      },
+      {
+        "display_name": "Silver Gray Metallic",
+        "paint_code": "224.652",
+        "slug": "silver-gray-metallic-224652",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/silver-gray-metallic-224652/",
+        "source_label": "PaintScratch 1990 Maserati",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Soft Grey Metallic",
+        "paint_code": "224.661",
+        "slug": "soft-grey-metallic-224661",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/soft-grey-metallic-224661/",
+        "source_label": "PaintScratch 1990 Maserati",
+        "hex_value": "#8B959B"
+      },
+      {
+        "display_name": "Dark Aqua Metallic",
+        "paint_code": "224.853",
+        "slug": "dark-aqua-metallic-224853",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/dark-aqua-metallic-224853/",
+        "source_label": "PaintScratch 1990 Maserati",
+        "hex_value": "#366364"
+      },
+      {
+        "display_name": "Swan White",
+        "paint_code": "231.018",
+        "slug": "swan-white-231018",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/swan-white-231018/",
+        "source_label": "PaintScratch 1990 Maserati",
+        "hex_value": "#F4F6F6"
+      },
+      {
+        "display_name": "Rosso Red",
+        "paint_code": "231.154",
+        "slug": "rosso-red-231154",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/rosso-red-231154/",
+        "source_label": "PaintScratch 1990 Maserati",
+        "hex_value": "#C00000"
+      },
+      {
+        "display_name": "Dark Gray",
+        "paint_code": "6717",
+        "slug": "dark-gray-6717",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/dark-gray-6717/",
+        "source_label": "PaintScratch 1990 Maserati",
+        "hex_value": "#5F5757"
+      },
+      {
+        "display_name": "Smoke Quartz Pearl Metallic",
+        "paint_code": "FE6",
+        "slug": "smoke-quartz-pearl-metallic-fe6",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/smoke-quartz-pearl-metallic-fe6/",
+        "source_label": "PaintScratch 1990 Maserati",
+        "hex_value": "#A9A3A5"
+      },
+      {
+        "display_name": "Royal Cabernet Pearl Metallic",
+        "paint_code": "FM8",
+        "slug": "royal-cabernet-pearl-metallic-fm8",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/royal-cabernet-pearl-metallic-fm8/",
+        "source_label": "PaintScratch 1990 Maserati",
+        "hex_value": "#603046"
+      },
+      {
+        "display_name": "Exotic Red (231.119)",
+        "paint_code": "FR2",
+        "slug": "exotic-red-231119-fr2",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/exotic-red-231119-fr2/",
+        "source_label": "PaintScratch 1990 Maserati",
+        "hex_value": "#AC1410"
+      },
+      {
+        "display_name": "Arctic White (PPG 90359)",
+        "paint_code": "FW4",
+        "slug": "arctic-white-ppg-90359-fw4",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/arctic-white-ppg-90359-fw4/",
+        "source_label": "PaintScratch 1990 Maserati",
+        "hex_value": "#FDFBE5"
+      },
+      {
+        "display_name": "Jet Black",
+        "paint_code": "FX7",
+        "slug": "jet-black-fx7",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/jet-black-fx7/",
+        "source_label": "PaintScratch 1990 Maserati",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Light Yellow",
+        "paint_code": "FY4",
+        "slug": "light-yellow-fy4",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/light-yellow-fy4/",
+        "source_label": "PaintScratch 1990 Maserati",
+        "hex_value": "#F3F293"
+      },
+      {
+        "display_name": "Arctic White",
+        "paint_code": "PPG 231-015",
+        "slug": "arctic-white-ppg-231-015",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/arctic-white-ppg-231-015/",
+        "source_label": "PaintScratch 1990 Maserati",
+        "hex_value": "#FFFFFF"
+      }
+    ],
+    "1991": [
+      {
+        "display_name": "Sparkling Black Metallic",
+        "paint_code": "224.548",
+        "slug": "sparkling-black-metallic-224548",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/sparkling-black-metallic-224548/",
+        "source_label": "PaintScratch 1991 Maserati",
+        "hex_value": "#0F0F0D"
+      },
+      {
+        "display_name": "Rifle Gray Metallic",
+        "paint_code": "224.643",
+        "slug": "rifle-gray-metallic-224643",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/rifle-gray-metallic-224643/",
+        "source_label": "PaintScratch 1991 Maserati",
+        "hex_value": "#6E7882"
+      },
+      {
+        "display_name": "Silver Gray Metallic",
+        "paint_code": "224.652",
+        "slug": "silver-gray-metallic-224652",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/silver-gray-metallic-224652/",
+        "source_label": "PaintScratch 1991 Maserati",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Soft Grey Metallic",
+        "paint_code": "224.661",
+        "slug": "soft-grey-metallic-224661",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/soft-grey-metallic-224661/",
+        "source_label": "PaintScratch 1991 Maserati",
+        "hex_value": "#8B959B"
+      },
+      {
+        "display_name": "Dark Aqua Metallic",
+        "paint_code": "224.853",
+        "slug": "dark-aqua-metallic-224853",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/dark-aqua-metallic-224853/",
+        "source_label": "PaintScratch 1991 Maserati",
+        "hex_value": "#366364"
+      },
+      {
+        "display_name": "Swan White",
+        "paint_code": "231.018",
+        "slug": "swan-white-231018",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/swan-white-231018/",
+        "source_label": "PaintScratch 1991 Maserati",
+        "hex_value": "#F4F6F6"
+      },
+      {
+        "display_name": "Rosso Red",
+        "paint_code": "231.154",
+        "slug": "rosso-red-231154",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/rosso-red-231154/",
+        "source_label": "PaintScratch 1991 Maserati",
+        "hex_value": "#C00000"
+      },
+      {
+        "display_name": "Dark Gray",
+        "paint_code": "6717",
+        "slug": "dark-gray-6717",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/dark-gray-6717/",
+        "source_label": "PaintScratch 1991 Maserati",
+        "hex_value": "#5F5757"
+      },
+      {
+        "display_name": "Smoke Quartz Pearl Metallic",
+        "paint_code": "FE6",
+        "slug": "smoke-quartz-pearl-metallic-fe6",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/smoke-quartz-pearl-metallic-fe6/",
+        "source_label": "PaintScratch 1991 Maserati",
+        "hex_value": "#A9A3A5"
+      },
+      {
+        "display_name": "Royal Cabernet Pearl Metallic",
+        "paint_code": "FM8",
+        "slug": "royal-cabernet-pearl-metallic-fm8",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/royal-cabernet-pearl-metallic-fm8/",
+        "source_label": "PaintScratch 1991 Maserati",
+        "hex_value": "#603046"
+      },
+      {
+        "display_name": "Exotic Red (231.119)",
+        "paint_code": "FR2",
+        "slug": "exotic-red-231119-fr2",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/exotic-red-231119-fr2/",
+        "source_label": "PaintScratch 1991 Maserati",
+        "hex_value": "#AC1410"
+      },
+      {
+        "display_name": "Arctic White (PPG 90359)",
+        "paint_code": "FW4",
+        "slug": "arctic-white-ppg-90359-fw4",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/arctic-white-ppg-90359-fw4/",
+        "source_label": "PaintScratch 1991 Maserati",
+        "hex_value": "#FDFBE5"
+      },
+      {
+        "display_name": "Jet Black",
+        "paint_code": "FX7",
+        "slug": "jet-black-fx7",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/jet-black-fx7/",
+        "source_label": "PaintScratch 1991 Maserati",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Light Yellow",
+        "paint_code": "FY4",
+        "slug": "light-yellow-fy4",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/light-yellow-fy4/",
+        "source_label": "PaintScratch 1991 Maserati",
+        "hex_value": "#F3F293"
+      }
+    ],
+    "1992": [
+      {
+        "display_name": "Blue Sky Pearl",
+        "paint_code": "224.93",
+        "slug": "blue-sky-pearl-22493",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/blue-sky-pearl-22493/",
+        "source_label": "PaintScratch 1992 Maserati",
+        "hex_value": "#B4CAD6"
+      },
+      {
+        "display_name": "Dark Green Pearl",
+        "paint_code": "224.375",
+        "slug": "dark-green-pearl-224375",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/dark-green-pearl-224375/",
+        "source_label": "PaintScratch 1992 Maserati",
+        "hex_value": "#004000"
+      },
+      {
+        "display_name": "Blue Ischia Pearl",
+        "paint_code": "224.376",
+        "slug": "blue-ischia-pearl-224376",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/blue-ischia-pearl-224376/",
+        "source_label": "PaintScratch 1992 Maserati",
+        "hex_value": "#14456E"
+      },
+      {
+        "display_name": "Dark Moss Pearl",
+        "paint_code": "224.377",
+        "slug": "dark-moss-pearl-224377",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/dark-moss-pearl-224377/",
+        "source_label": "PaintScratch 1992 Maserati",
+        "hex_value": "#45643A"
+      },
+      {
+        "display_name": "Sparkling Black Metallic",
+        "paint_code": "224.548",
+        "slug": "sparkling-black-metallic-224548",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/sparkling-black-metallic-224548/",
+        "source_label": "PaintScratch 1992 Maserati",
+        "hex_value": "#0F0F0D"
+      },
+      {
+        "display_name": "Rifle Gray Metallic",
+        "paint_code": "224.643",
+        "slug": "rifle-gray-metallic-224643",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/rifle-gray-metallic-224643/",
+        "source_label": "PaintScratch 1992 Maserati",
+        "hex_value": "#6E7882"
+      },
+      {
+        "display_name": "Silver Gray Metallic",
+        "paint_code": "224.652",
+        "slug": "silver-gray-metallic-224652",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/silver-gray-metallic-224652/",
+        "source_label": "PaintScratch 1992 Maserati",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Soft Grey Metallic",
+        "paint_code": "224.661",
+        "slug": "soft-grey-metallic-224661",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/soft-grey-metallic-224661/",
+        "source_label": "PaintScratch 1992 Maserati",
+        "hex_value": "#8B959B"
+      },
+      {
+        "display_name": "Dark Aqua Metallic",
+        "paint_code": "224.853",
+        "slug": "dark-aqua-metallic-224853",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/dark-aqua-metallic-224853/",
+        "source_label": "PaintScratch 1992 Maserati",
+        "hex_value": "#366364"
+      },
+      {
+        "display_name": "Swan White",
+        "paint_code": "231.018",
+        "slug": "swan-white-231018",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/swan-white-231018/",
+        "source_label": "PaintScratch 1992 Maserati",
+        "hex_value": "#F4F6F6"
+      },
+      {
+        "display_name": "Rosso Red",
+        "paint_code": "231.154",
+        "slug": "rosso-red-231154",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/rosso-red-231154/",
+        "source_label": "PaintScratch 1992 Maserati",
+        "hex_value": "#C00000"
+      },
+      {
+        "display_name": "Dark Gray",
+        "paint_code": "6717",
+        "slug": "dark-gray-6717",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/dark-gray-6717/",
+        "source_label": "PaintScratch 1992 Maserati",
+        "hex_value": "#5F5757"
+      }
+    ],
+    "1993": [
+      {
+        "display_name": "Blue Sky Pearl",
+        "paint_code": "224.93",
+        "slug": "blue-sky-pearl-22493",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/blue-sky-pearl-22493/",
+        "source_label": "PaintScratch 1993 Maserati",
+        "hex_value": "#B4CAD6"
+      },
+      {
+        "display_name": "Dark Green Pearl",
+        "paint_code": "224.375",
+        "slug": "dark-green-pearl-224375",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/dark-green-pearl-224375/",
+        "source_label": "PaintScratch 1993 Maserati",
+        "hex_value": "#004000"
+      },
+      {
+        "display_name": "Blue Ischia Pearl",
+        "paint_code": "224.376",
+        "slug": "blue-ischia-pearl-224376",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/blue-ischia-pearl-224376/",
+        "source_label": "PaintScratch 1993 Maserati",
+        "hex_value": "#14456E"
+      },
+      {
+        "display_name": "Dark Moss Pearl",
+        "paint_code": "224.377",
+        "slug": "dark-moss-pearl-224377",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/dark-moss-pearl-224377/",
+        "source_label": "PaintScratch 1993 Maserati",
+        "hex_value": "#45643A"
+      },
+      {
+        "display_name": "Sparkling Black Metallic",
+        "paint_code": "224.548",
+        "slug": "sparkling-black-metallic-224548",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/sparkling-black-metallic-224548/",
+        "source_label": "PaintScratch 1993 Maserati",
+        "hex_value": "#0F0F0D"
+      },
+      {
+        "display_name": "Rifle Gray Metallic",
+        "paint_code": "224.643",
+        "slug": "rifle-gray-metallic-224643",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/rifle-gray-metallic-224643/",
+        "source_label": "PaintScratch 1993 Maserati",
+        "hex_value": "#6E7882"
+      },
+      {
+        "display_name": "Silver Gray Metallic",
+        "paint_code": "224.652",
+        "slug": "silver-gray-metallic-224652",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/silver-gray-metallic-224652/",
+        "source_label": "PaintScratch 1993 Maserati",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Soft Grey Metallic",
+        "paint_code": "224.661",
+        "slug": "soft-grey-metallic-224661",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/soft-grey-metallic-224661/",
+        "source_label": "PaintScratch 1993 Maserati",
+        "hex_value": "#8B959B"
+      },
+      {
+        "display_name": "Dark Aqua Metallic",
+        "paint_code": "224.853",
+        "slug": "dark-aqua-metallic-224853",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/dark-aqua-metallic-224853/",
+        "source_label": "PaintScratch 1993 Maserati",
+        "hex_value": "#366364"
+      },
+      {
+        "display_name": "Swan White",
+        "paint_code": "231.018",
+        "slug": "swan-white-231018",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/swan-white-231018/",
+        "source_label": "PaintScratch 1993 Maserati",
+        "hex_value": "#F4F6F6"
+      },
+      {
+        "display_name": "Rosso Red",
+        "paint_code": "231.154",
+        "slug": "rosso-red-231154",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/rosso-red-231154/",
+        "source_label": "PaintScratch 1993 Maserati",
+        "hex_value": "#C00000"
+      },
+      {
+        "display_name": "Dark Gray",
+        "paint_code": "6717",
+        "slug": "dark-gray-6717",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/dark-gray-6717/",
+        "source_label": "PaintScratch 1993 Maserati",
+        "hex_value": "#5F5757"
+      }
+    ],
+    "1994": [
+      {
+        "display_name": "Blue Sky Pearl",
+        "paint_code": "224.93",
+        "slug": "blue-sky-pearl-22493",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/blue-sky-pearl-22493/",
+        "source_label": "PaintScratch 1994 Maserati",
+        "hex_value": "#B4CAD6"
+      },
+      {
+        "display_name": "Dark Green Pearl",
+        "paint_code": "224.375",
+        "slug": "dark-green-pearl-224375",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/dark-green-pearl-224375/",
+        "source_label": "PaintScratch 1994 Maserati",
+        "hex_value": "#004000"
+      },
+      {
+        "display_name": "Blue Ischia Pearl",
+        "paint_code": "224.376",
+        "slug": "blue-ischia-pearl-224376",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/blue-ischia-pearl-224376/",
+        "source_label": "PaintScratch 1994 Maserati",
+        "hex_value": "#14456E"
+      },
+      {
+        "display_name": "Dark Moss Pearl",
+        "paint_code": "224.377",
+        "slug": "dark-moss-pearl-224377",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/dark-moss-pearl-224377/",
+        "source_label": "PaintScratch 1994 Maserati",
+        "hex_value": "#45643A"
+      },
+      {
+        "display_name": "Sparkling Black Metallic",
+        "paint_code": "224.548",
+        "slug": "sparkling-black-metallic-224548",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/sparkling-black-metallic-224548/",
+        "source_label": "PaintScratch 1994 Maserati",
+        "hex_value": "#0F0F0D"
+      },
+      {
+        "display_name": "Rifle Gray Metallic",
+        "paint_code": "224.643",
+        "slug": "rifle-gray-metallic-224643",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/rifle-gray-metallic-224643/",
+        "source_label": "PaintScratch 1994 Maserati",
+        "hex_value": "#6E7882"
+      },
+      {
+        "display_name": "Silver Gray Metallic",
+        "paint_code": "224.652",
+        "slug": "silver-gray-metallic-224652",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/silver-gray-metallic-224652/",
+        "source_label": "PaintScratch 1994 Maserati",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Soft Grey Metallic",
+        "paint_code": "224.661",
+        "slug": "soft-grey-metallic-224661",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/soft-grey-metallic-224661/",
+        "source_label": "PaintScratch 1994 Maserati",
+        "hex_value": "#8B959B"
+      },
+      {
+        "display_name": "Dark Aqua Metallic",
+        "paint_code": "224.853",
+        "slug": "dark-aqua-metallic-224853",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/dark-aqua-metallic-224853/",
+        "source_label": "PaintScratch 1994 Maserati",
+        "hex_value": "#366364"
+      },
+      {
+        "display_name": "Swan White",
+        "paint_code": "231.018",
+        "slug": "swan-white-231018",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/swan-white-231018/",
+        "source_label": "PaintScratch 1994 Maserati",
+        "hex_value": "#F4F6F6"
+      },
+      {
+        "display_name": "Rosso Red",
+        "paint_code": "231.154",
+        "slug": "rosso-red-231154",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/rosso-red-231154/",
+        "source_label": "PaintScratch 1994 Maserati",
+        "hex_value": "#C00000"
+      },
+      {
+        "display_name": "Dark Gray",
+        "paint_code": "6717",
+        "slug": "dark-gray-6717",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/dark-gray-6717/",
+        "source_label": "PaintScratch 1994 Maserati",
+        "hex_value": "#5F5757"
+      }
+    ],
+    "1995": [
+      {
+        "display_name": "Blue Sky Pearl",
+        "paint_code": "224.93",
+        "slug": "blue-sky-pearl-22493",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/blue-sky-pearl-22493/",
+        "source_label": "PaintScratch 1995 Maserati",
+        "hex_value": "#B4CAD6"
+      },
+      {
+        "display_name": "Dark Green Pearl",
+        "paint_code": "224.375",
+        "slug": "dark-green-pearl-224375",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/dark-green-pearl-224375/",
+        "source_label": "PaintScratch 1995 Maserati",
+        "hex_value": "#004000"
+      },
+      {
+        "display_name": "Blue Ischia Pearl",
+        "paint_code": "224.376",
+        "slug": "blue-ischia-pearl-224376",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/blue-ischia-pearl-224376/",
+        "source_label": "PaintScratch 1995 Maserati",
+        "hex_value": "#14456E"
+      },
+      {
+        "display_name": "Dark Moss Pearl",
+        "paint_code": "224.377",
+        "slug": "dark-moss-pearl-224377",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/dark-moss-pearl-224377/",
+        "source_label": "PaintScratch 1995 Maserati",
+        "hex_value": "#45643A"
+      },
+      {
+        "display_name": "Sparkling Black Metallic",
+        "paint_code": "224.548",
+        "slug": "sparkling-black-metallic-224548",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/sparkling-black-metallic-224548/",
+        "source_label": "PaintScratch 1995 Maserati",
+        "hex_value": "#0F0F0D"
+      },
+      {
+        "display_name": "Rifle Gray Metallic",
+        "paint_code": "224.643",
+        "slug": "rifle-gray-metallic-224643",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/rifle-gray-metallic-224643/",
+        "source_label": "PaintScratch 1995 Maserati",
+        "hex_value": "#6E7882"
+      },
+      {
+        "display_name": "Silver Gray Metallic",
+        "paint_code": "224.652",
+        "slug": "silver-gray-metallic-224652",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/silver-gray-metallic-224652/",
+        "source_label": "PaintScratch 1995 Maserati",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Soft Grey Metallic",
+        "paint_code": "224.661",
+        "slug": "soft-grey-metallic-224661",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/soft-grey-metallic-224661/",
+        "source_label": "PaintScratch 1995 Maserati",
+        "hex_value": "#8B959B"
+      },
+      {
+        "display_name": "Dark Aqua Metallic",
+        "paint_code": "224.853",
+        "slug": "dark-aqua-metallic-224853",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/dark-aqua-metallic-224853/",
+        "source_label": "PaintScratch 1995 Maserati",
+        "hex_value": "#366364"
+      },
+      {
+        "display_name": "Swan White",
+        "paint_code": "231.018",
+        "slug": "swan-white-231018",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/swan-white-231018/",
+        "source_label": "PaintScratch 1995 Maserati",
+        "hex_value": "#F4F6F6"
+      },
+      {
+        "display_name": "Rosso Red",
+        "paint_code": "231.154",
+        "slug": "rosso-red-231154",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/rosso-red-231154/",
+        "source_label": "PaintScratch 1995 Maserati",
+        "hex_value": "#C00000"
+      },
+      {
+        "display_name": "Dark Gray",
+        "paint_code": "6717",
+        "slug": "dark-gray-6717",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/dark-gray-6717/",
+        "source_label": "PaintScratch 1995 Maserati",
+        "hex_value": "#5F5757"
+      }
+    ],
+    "2000": [
+      {
+        "display_name": "Verde Mexico Pearl",
+        "paint_code": "157889",
+        "slug": "verde-mexico-pearl-157889",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/verde-mexico-pearl-157889/",
+        "source_label": "PaintScratch 2000 Maserati",
+        "hex_value": "#38703C"
+      },
+      {
+        "display_name": "Rosso Indianapolis",
+        "paint_code": "157897",
+        "slug": "rosso-indianapolis-157897",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/rosso-indianapolis-157897/",
+        "source_label": "PaintScratch 2000 Maserati",
+        "hex_value": "#BE3838"
+      },
+      {
+        "display_name": "Bianco Birdcage",
+        "paint_code": "157901",
+        "slug": "bianco-birdcage-157901",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/bianco-birdcage-157901/",
+        "source_label": "PaintScratch 2000 Maserati",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Luci Di Mezzan. Pearl",
+        "paint_code": "157902",
+        "slug": "luci-di-mezzan-pearl-157902",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/luci-di-mezzan-pearl-157902/",
+        "source_label": "PaintScratch 2000 Maserati",
+        "hex_value": "#644A4A"
+      },
+      {
+        "display_name": "Rosso Villoresi Pearl",
+        "paint_code": "158003",
+        "slug": "rosso-villoresi-pearl-158003",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/rosso-villoresi-pearl-158003/",
+        "source_label": "PaintScratch 2000 Maserati",
+        "hex_value": "#A72323"
+      },
+      {
+        "display_name": "Verde Moss",
+        "paint_code": "158004",
+        "slug": "verde-moss-158004",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/verde-moss-158004/",
+        "source_label": "PaintScratch 2000 Maserati",
+        "hex_value": "#42803C"
+      },
+      {
+        "display_name": "Grigio Oro (matt) Metallic",
+        "paint_code": "158523",
+        "slug": "grigio-oro-matt-metallic-158523",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/grigio-oro-matt-metallic-158523/",
+        "source_label": "PaintScratch 2000 Maserati",
+        "hex_value": "#586557"
+      },
+      {
+        "display_name": "Verde Metallic",
+        "paint_code": "158530",
+        "slug": "verde-metallic-158530",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/verde-metallic-158530/",
+        "source_label": "PaintScratch 2000 Maserati",
+        "hex_value": "#31552D"
+      },
+      {
+        "display_name": "Blu Metallic",
+        "paint_code": "158667",
+        "slug": "blu-metallic-158667",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/blu-metallic-158667/",
+        "source_label": "PaintScratch 2000 Maserati",
+        "hex_value": "#305374"
+      },
+      {
+        "display_name": "Giallo",
+        "paint_code": "158717",
+        "slug": "giallo-158717",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/giallo-158717/",
+        "source_label": "PaintScratch 2000 Maserati",
+        "hex_value": "#F6F43A"
+      },
+      {
+        "display_name": "Rosso Villoresi Pearl",
+        "paint_code": "203109",
+        "slug": "rosso-villoresi-pearl-203109",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/rosso-villoresi-pearl-203109/",
+        "source_label": "PaintScratch 2000 Maserati",
+        "hex_value": "#D7190B"
+      },
+      {
+        "display_name": "Verde Mexico Pearl",
+        "paint_code": "203330",
+        "slug": "verde-mexico-pearl-203330",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/verde-mexico-pearl-203330/",
+        "source_label": "PaintScratch 2000 Maserati",
+        "hex_value": "#2B7723"
+      },
+      {
+        "display_name": "Verde Mistral Metallic",
+        "paint_code": "203370",
+        "slug": "verde-mistral-metallic-203370",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/verde-mistral-metallic-203370/",
+        "source_label": "PaintScratch 2000 Maserati",
+        "hex_value": "#3F7539"
+      },
+      {
+        "display_name": "Quarzo Dolomite Metallic",
+        "paint_code": "203666",
+        "slug": "quarzo-dolomite-metallic-203666",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/quarzo-dolomite-metallic-203666/",
+        "source_label": "PaintScratch 2000 Maserati",
+        "hex_value": "#A5A698"
+      },
+      {
+        "display_name": "Luci Di Mezzan Pearl",
+        "paint_code": "203810",
+        "slug": "luci-di-mezzan-pearl-203810",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/luci-di-mezzan-pearl-203810/",
+        "source_label": "PaintScratch 2000 Maserati",
+        "hex_value": "#565842"
+      },
+      {
+        "display_name": "Blu Sebring Metallic",
+        "paint_code": "203852",
+        "slug": "blu-sebring-metallic-203852",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/blu-sebring-metallic-203852/",
+        "source_label": "PaintScratch 2000 Maserati",
+        "hex_value": "#215465"
+      }
+    ],
+    "2001": [
+      {
+        "display_name": "Verde Mexico Pearl",
+        "paint_code": "157889",
+        "slug": "verde-mexico-pearl-157889",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/verde-mexico-pearl-157889/",
+        "source_label": "PaintScratch 2001 Maserati",
+        "hex_value": "#38703C"
+      },
+      {
+        "display_name": "Rosso Indianapolis",
+        "paint_code": "157897",
+        "slug": "rosso-indianapolis-157897",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/rosso-indianapolis-157897/",
+        "source_label": "PaintScratch 2001 Maserati",
+        "hex_value": "#BE3838"
+      },
+      {
+        "display_name": "Bianco Birdcage",
+        "paint_code": "157901",
+        "slug": "bianco-birdcage-157901",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/bianco-birdcage-157901/",
+        "source_label": "PaintScratch 2001 Maserati",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Luci Di Mezzan. Pearl",
+        "paint_code": "157902",
+        "slug": "luci-di-mezzan-pearl-157902",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/luci-di-mezzan-pearl-157902/",
+        "source_label": "PaintScratch 2001 Maserati",
+        "hex_value": "#644A4A"
+      },
+      {
+        "display_name": "Rosso Villoresi Pearl",
+        "paint_code": "158003",
+        "slug": "rosso-villoresi-pearl-158003",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/rosso-villoresi-pearl-158003/",
+        "source_label": "PaintScratch 2001 Maserati",
+        "hex_value": "#A72323"
+      },
+      {
+        "display_name": "Verde Moss",
+        "paint_code": "158004",
+        "slug": "verde-moss-158004",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/verde-moss-158004/",
+        "source_label": "PaintScratch 2001 Maserati",
+        "hex_value": "#42803C"
+      },
+      {
+        "display_name": "Grigio Oro (matt) Metallic",
+        "paint_code": "158523",
+        "slug": "grigio-oro-matt-metallic-158523",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/grigio-oro-matt-metallic-158523/",
+        "source_label": "PaintScratch 2001 Maserati",
+        "hex_value": "#586557"
+      },
+      {
+        "display_name": "Verde Metallic",
+        "paint_code": "158530",
+        "slug": "verde-metallic-158530",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/verde-metallic-158530/",
+        "source_label": "PaintScratch 2001 Maserati",
+        "hex_value": "#31552D"
+      },
+      {
+        "display_name": "Blu Metallic",
+        "paint_code": "158667",
+        "slug": "blu-metallic-158667",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/blu-metallic-158667/",
+        "source_label": "PaintScratch 2001 Maserati",
+        "hex_value": "#305374"
+      },
+      {
+        "display_name": "Giallo",
+        "paint_code": "158717",
+        "slug": "giallo-158717",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/giallo-158717/",
+        "source_label": "PaintScratch 2001 Maserati",
+        "hex_value": "#F6F43A"
+      },
+      {
+        "display_name": "Rosso Villoresi Pearl",
+        "paint_code": "203109",
+        "slug": "rosso-villoresi-pearl-203109",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/rosso-villoresi-pearl-203109/",
+        "source_label": "PaintScratch 2001 Maserati",
+        "hex_value": "#D7190B"
+      },
+      {
+        "display_name": "Verde Mexico Pearl",
+        "paint_code": "203330",
+        "slug": "verde-mexico-pearl-203330",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/verde-mexico-pearl-203330/",
+        "source_label": "PaintScratch 2001 Maserati",
+        "hex_value": "#2B7723"
+      },
+      {
+        "display_name": "Verde Mistral Metallic",
+        "paint_code": "203370",
+        "slug": "verde-mistral-metallic-203370",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/verde-mistral-metallic-203370/",
+        "source_label": "PaintScratch 2001 Maserati",
+        "hex_value": "#3F7539"
+      },
+      {
+        "display_name": "Quarzo Dolomite Metallic",
+        "paint_code": "203666",
+        "slug": "quarzo-dolomite-metallic-203666",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/quarzo-dolomite-metallic-203666/",
+        "source_label": "PaintScratch 2001 Maserati",
+        "hex_value": "#A5A698"
+      },
+      {
+        "display_name": "Luci Di Mezzan Pearl",
+        "paint_code": "203810",
+        "slug": "luci-di-mezzan-pearl-203810",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/luci-di-mezzan-pearl-203810/",
+        "source_label": "PaintScratch 2001 Maserati",
+        "hex_value": "#565842"
+      },
+      {
+        "display_name": "Blu Sebring Metallic",
+        "paint_code": "203852",
+        "slug": "blu-sebring-metallic-203852",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/blu-sebring-metallic-203852/",
+        "source_label": "PaintScratch 2001 Maserati",
+        "hex_value": "#215465"
+      }
+    ],
+    "2002": [
+      {
+        "display_name": "Verde Mexico Pearl",
+        "paint_code": "157889",
+        "slug": "verde-mexico-pearl-157889",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/verde-mexico-pearl-157889/",
+        "source_label": "PaintScratch 2002 Maserati",
+        "hex_value": "#38703C"
+      },
+      {
+        "display_name": "Rosso Indianapolis",
+        "paint_code": "157897",
+        "slug": "rosso-indianapolis-157897",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/rosso-indianapolis-157897/",
+        "source_label": "PaintScratch 2002 Maserati",
+        "hex_value": "#BE3838"
+      },
+      {
+        "display_name": "Bianco Birdcage",
+        "paint_code": "157901",
+        "slug": "bianco-birdcage-157901",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/bianco-birdcage-157901/",
+        "source_label": "PaintScratch 2002 Maserati",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Luci Di Mezzan. Pearl",
+        "paint_code": "157902",
+        "slug": "luci-di-mezzan-pearl-157902",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/luci-di-mezzan-pearl-157902/",
+        "source_label": "PaintScratch 2002 Maserati",
+        "hex_value": "#644A4A"
+      },
+      {
+        "display_name": "Rosso Villoresi Pearl",
+        "paint_code": "158003",
+        "slug": "rosso-villoresi-pearl-158003",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/rosso-villoresi-pearl-158003/",
+        "source_label": "PaintScratch 2002 Maserati",
+        "hex_value": "#A72323"
+      },
+      {
+        "display_name": "Verde Moss",
+        "paint_code": "158004",
+        "slug": "verde-moss-158004",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/verde-moss-158004/",
+        "source_label": "PaintScratch 2002 Maserati",
+        "hex_value": "#42803C"
+      },
+      {
+        "display_name": "Grigio Oro (matt) Metallic",
+        "paint_code": "158523",
+        "slug": "grigio-oro-matt-metallic-158523",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/grigio-oro-matt-metallic-158523/",
+        "source_label": "PaintScratch 2002 Maserati",
+        "hex_value": "#586557"
+      },
+      {
+        "display_name": "Verde Metallic",
+        "paint_code": "158530",
+        "slug": "verde-metallic-158530",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/verde-metallic-158530/",
+        "source_label": "PaintScratch 2002 Maserati",
+        "hex_value": "#31552D"
+      },
+      {
+        "display_name": "Blu Metallic",
+        "paint_code": "158667",
+        "slug": "blu-metallic-158667",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/blu-metallic-158667/",
+        "source_label": "PaintScratch 2002 Maserati",
+        "hex_value": "#305374"
+      },
+      {
+        "display_name": "Giallo",
+        "paint_code": "158717",
+        "slug": "giallo-158717",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/giallo-158717/",
+        "source_label": "PaintScratch 2002 Maserati",
+        "hex_value": "#F6F43A"
+      },
+      {
+        "display_name": "Rosso Villoresi Pearl",
+        "paint_code": "203109",
+        "slug": "rosso-villoresi-pearl-203109",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/rosso-villoresi-pearl-203109/",
+        "source_label": "PaintScratch 2002 Maserati",
+        "hex_value": "#D7190B"
+      },
+      {
+        "display_name": "Rosso Bologna",
+        "paint_code": "203111",
+        "slug": "rosso-bologna-203111",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/rosso-bologna-203111/",
+        "source_label": "PaintScratch 2002 Maserati",
+        "hex_value": "#7F1F2B"
+      },
+      {
+        "display_name": "Verde Mexico Pearl",
+        "paint_code": "203330",
+        "slug": "verde-mexico-pearl-203330",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/verde-mexico-pearl-203330/",
+        "source_label": "PaintScratch 2002 Maserati",
+        "hex_value": "#2B7723"
+      },
+      {
+        "display_name": "Verde Mistral Metallic",
+        "paint_code": "203370",
+        "slug": "verde-mistral-metallic-203370",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/verde-mistral-metallic-203370/",
+        "source_label": "PaintScratch 2002 Maserati",
+        "hex_value": "#3F7539"
+      },
+      {
+        "display_name": "Grigio Alfieri",
+        "paint_code": "203633",
+        "slug": "grigio-alfieri-203633",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/grigio-alfieri-203633/",
+        "source_label": "PaintScratch 2002 Maserati",
+        "hex_value": "#404040"
+      },
+      {
+        "display_name": "Luci Di Mezzan Pearl",
+        "paint_code": "203810",
+        "slug": "luci-di-mezzan-pearl-203810",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/luci-di-mezzan-pearl-203810/",
+        "source_label": "PaintScratch 2002 Maserati",
+        "hex_value": "#565842"
+      }
+    ],
+    "2003": [
+      {
+        "display_name": "Verde Mexico Pearl",
+        "paint_code": "157889",
+        "slug": "verde-mexico-pearl-157889",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/verde-mexico-pearl-157889/",
+        "source_label": "PaintScratch 2003 Maserati",
+        "hex_value": "#38703C"
+      },
+      {
+        "display_name": "Rosso Indianapolis",
+        "paint_code": "157897",
+        "slug": "rosso-indianapolis-157897",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/rosso-indianapolis-157897/",
+        "source_label": "PaintScratch 2003 Maserati",
+        "hex_value": "#BE3838"
+      },
+      {
+        "display_name": "Bianco Birdcage",
+        "paint_code": "157901",
+        "slug": "bianco-birdcage-157901",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/bianco-birdcage-157901/",
+        "source_label": "PaintScratch 2003 Maserati",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Luci Di Mezzan. Pearl",
+        "paint_code": "157902",
+        "slug": "luci-di-mezzan-pearl-157902",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/luci-di-mezzan-pearl-157902/",
+        "source_label": "PaintScratch 2003 Maserati",
+        "hex_value": "#644A4A"
+      },
+      {
+        "display_name": "Rosso Villoresi Pearl",
+        "paint_code": "158003",
+        "slug": "rosso-villoresi-pearl-158003",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/rosso-villoresi-pearl-158003/",
+        "source_label": "PaintScratch 2003 Maserati",
+        "hex_value": "#A72323"
+      },
+      {
+        "display_name": "Verde Moss",
+        "paint_code": "158004",
+        "slug": "verde-moss-158004",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/verde-moss-158004/",
+        "source_label": "PaintScratch 2003 Maserati",
+        "hex_value": "#42803C"
+      },
+      {
+        "display_name": "Grigio Oro (matt) Metallic",
+        "paint_code": "158523",
+        "slug": "grigio-oro-matt-metallic-158523",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/grigio-oro-matt-metallic-158523/",
+        "source_label": "PaintScratch 2003 Maserati",
+        "hex_value": "#586557"
+      },
+      {
+        "display_name": "Verde Metallic",
+        "paint_code": "158530",
+        "slug": "verde-metallic-158530",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/verde-metallic-158530/",
+        "source_label": "PaintScratch 2003 Maserati",
+        "hex_value": "#31552D"
+      },
+      {
+        "display_name": "Blu Metallic",
+        "paint_code": "158667",
+        "slug": "blu-metallic-158667",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/blu-metallic-158667/",
+        "source_label": "PaintScratch 2003 Maserati",
+        "hex_value": "#305374"
+      },
+      {
+        "display_name": "Giallo",
+        "paint_code": "158717",
+        "slug": "giallo-158717",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/giallo-158717/",
+        "source_label": "PaintScratch 2003 Maserati",
+        "hex_value": "#F6F43A"
+      },
+      {
+        "display_name": "Rosso Villoresi Pearl",
+        "paint_code": "203109",
+        "slug": "rosso-villoresi-pearl-203109",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/rosso-villoresi-pearl-203109/",
+        "source_label": "PaintScratch 2003 Maserati",
+        "hex_value": "#D7190B"
+      },
+      {
+        "display_name": "Rosso Bologna",
+        "paint_code": "203111",
+        "slug": "rosso-bologna-203111",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/rosso-bologna-203111/",
+        "source_label": "PaintScratch 2003 Maserati",
+        "hex_value": "#7F1F2B"
+      },
+      {
+        "display_name": "Verde Mexico Pearl",
+        "paint_code": "203330",
+        "slug": "verde-mexico-pearl-203330",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/verde-mexico-pearl-203330/",
+        "source_label": "PaintScratch 2003 Maserati",
+        "hex_value": "#2B7723"
+      },
+      {
+        "display_name": "Verde Mistral Metallic",
+        "paint_code": "203370",
+        "slug": "verde-mistral-metallic-203370",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/verde-mistral-metallic-203370/",
+        "source_label": "PaintScratch 2003 Maserati",
+        "hex_value": "#3F7539"
+      },
+      {
+        "display_name": "Quarzo Dolomite Metallic",
+        "paint_code": "203666",
+        "slug": "quarzo-dolomite-metallic-203666",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/quarzo-dolomite-metallic-203666/",
+        "source_label": "PaintScratch 2003 Maserati",
+        "hex_value": "#A5A698"
+      },
+      {
+        "display_name": "Luci Di Mezzan Pearl",
+        "paint_code": "203810",
+        "slug": "luci-di-mezzan-pearl-203810",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/luci-di-mezzan-pearl-203810/",
+        "source_label": "PaintScratch 2003 Maserati",
+        "hex_value": "#565842"
+      }
+    ],
+    "2004": [
+      {
+        "display_name": "Verde Mexico Pearl",
+        "paint_code": "157889",
+        "slug": "verde-mexico-pearl-157889",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/verde-mexico-pearl-157889/",
+        "source_label": "PaintScratch 2004 Maserati",
+        "hex_value": "#38703C"
+      },
+      {
+        "display_name": "Rosso Indianapolis",
+        "paint_code": "157897",
+        "slug": "rosso-indianapolis-157897",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/rosso-indianapolis-157897/",
+        "source_label": "PaintScratch 2004 Maserati",
+        "hex_value": "#BE3838"
+      },
+      {
+        "display_name": "Bianco Birdcage",
+        "paint_code": "157901",
+        "slug": "bianco-birdcage-157901",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/bianco-birdcage-157901/",
+        "source_label": "PaintScratch 2004 Maserati",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Luci Di Mezzan. Pearl",
+        "paint_code": "157902",
+        "slug": "luci-di-mezzan-pearl-157902",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/luci-di-mezzan-pearl-157902/",
+        "source_label": "PaintScratch 2004 Maserati",
+        "hex_value": "#644A4A"
+      },
+      {
+        "display_name": "Rosso Villoresi Pearl",
+        "paint_code": "158003",
+        "slug": "rosso-villoresi-pearl-158003",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/rosso-villoresi-pearl-158003/",
+        "source_label": "PaintScratch 2004 Maserati",
+        "hex_value": "#A72323"
+      },
+      {
+        "display_name": "Verde Moss",
+        "paint_code": "158004",
+        "slug": "verde-moss-158004",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/verde-moss-158004/",
+        "source_label": "PaintScratch 2004 Maserati",
+        "hex_value": "#42803C"
+      },
+      {
+        "display_name": "Grigio Oro (matt) Metallic",
+        "paint_code": "158523",
+        "slug": "grigio-oro-matt-metallic-158523",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/grigio-oro-matt-metallic-158523/",
+        "source_label": "PaintScratch 2004 Maserati",
+        "hex_value": "#586557"
+      },
+      {
+        "display_name": "Verde Metallic",
+        "paint_code": "158530",
+        "slug": "verde-metallic-158530",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/verde-metallic-158530/",
+        "source_label": "PaintScratch 2004 Maserati",
+        "hex_value": "#31552D"
+      },
+      {
+        "display_name": "Blu Metallic",
+        "paint_code": "158667",
+        "slug": "blu-metallic-158667",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/blu-metallic-158667/",
+        "source_label": "PaintScratch 2004 Maserati",
+        "hex_value": "#305374"
+      },
+      {
+        "display_name": "Giallo",
+        "paint_code": "158717",
+        "slug": "giallo-158717",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/giallo-158717/",
+        "source_label": "PaintScratch 2004 Maserati",
+        "hex_value": "#F6F43A"
+      },
+      {
+        "display_name": "Rosso Villoresi Pearl",
+        "paint_code": "203109",
+        "slug": "rosso-villoresi-pearl-203109",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/rosso-villoresi-pearl-203109/",
+        "source_label": "PaintScratch 2004 Maserati",
+        "hex_value": "#D7190B"
+      },
+      {
+        "display_name": "Verde Mexico Pearl",
+        "paint_code": "203330",
+        "slug": "verde-mexico-pearl-203330",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/verde-mexico-pearl-203330/",
+        "source_label": "PaintScratch 2004 Maserati",
+        "hex_value": "#2B7723"
+      },
+      {
+        "display_name": "Verde Mistral Metallic",
+        "paint_code": "203370",
+        "slug": "verde-mistral-metallic-203370",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/verde-mistral-metallic-203370/",
+        "source_label": "PaintScratch 2004 Maserati",
+        "hex_value": "#3F7539"
+      },
+      {
+        "display_name": "Quarzo Dolomite Metallic",
+        "paint_code": "203666",
+        "slug": "quarzo-dolomite-metallic-203666",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/quarzo-dolomite-metallic-203666/",
+        "source_label": "PaintScratch 2004 Maserati",
+        "hex_value": "#A5A698"
+      },
+      {
+        "display_name": "Luci Di Mezzan Pearl",
+        "paint_code": "203810",
+        "slug": "luci-di-mezzan-pearl-203810",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/luci-di-mezzan-pearl-203810/",
+        "source_label": "PaintScratch 2004 Maserati",
+        "hex_value": "#565842"
+      },
+      {
+        "display_name": "Blu Sebring Metallic",
+        "paint_code": "203852",
+        "slug": "blu-sebring-metallic-203852",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/blu-sebring-metallic-203852/",
+        "source_label": "PaintScratch 2004 Maserati",
+        "hex_value": "#215465"
+      }
+    ],
+    "2005": [
+      {
+        "display_name": "Bronzo Montecarlo Metallic",
+        "paint_code": "203702",
+        "slug": "bronzo-montecarlo-metallic-203702",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/bronzo-montecarlo-metallic-203702/",
+        "source_label": "PaintScratch 2005 Maserati",
+        "hex_value": "#A5A698"
+      },
+      {
+        "display_name": "Blu Sebring Metallic",
+        "paint_code": "203852",
+        "slug": "blu-sebring-metallic-203852",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/blu-sebring-metallic-203852/",
+        "source_label": "PaintScratch 2005 Maserati",
+        "hex_value": "#215465"
+      },
+      {
+        "display_name": "Bordeaux Pontevecchio Mica",
+        "paint_code": "226125",
+        "slug": "bordeaux-pontevecchio-mica-226125",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/bordeaux-pontevecchio-mica-226125/",
+        "source_label": "PaintScratch 2005 Maserati",
+        "hex_value": "#7A0823"
+      },
+      {
+        "display_name": "Verde Acquamarina Mica",
+        "paint_code": "226357",
+        "slug": "verde-acquamarina-mica-226357",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/verde-acquamarina-mica-226357/",
+        "source_label": "PaintScratch 2005 Maserati",
+        "hex_value": "#CAD2BE"
+      },
+      {
+        "display_name": "Grigio Nuvolari WB Metallic",
+        "paint_code": "226686",
+        "slug": "grigio-nuvolari-wb-metallic-226686",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/grigio-nuvolari-wb-metallic-226686/",
+        "source_label": "PaintScratch 2005 Maserati",
+        "hex_value": "#D4D0C4"
+      },
+      {
+        "display_name": "Grigio Alfieri WB Metallic",
+        "paint_code": "226687",
+        "slug": "grigio-alfieri-wb-metallic-226687",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/grigio-alfieri-wb-metallic-226687/",
+        "source_label": "PaintScratch 2005 Maserati",
+        "hex_value": "#8A8988"
+      },
+      {
+        "display_name": "Grigio Touring WB Metallic",
+        "paint_code": "226689",
+        "slug": "grigio-touring-wb-metallic-226689",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/grigio-touring-wb-metallic-226689/",
+        "source_label": "PaintScratch 2005 Maserati",
+        "hex_value": "#ECEAE6"
+      },
+      {
+        "display_name": "Grigio Palladio WB Mica",
+        "paint_code": "226714",
+        "slug": "grigio-palladio-wb-mica-226714",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/grigio-palladio-wb-mica-226714/",
+        "source_label": "PaintScratch 2005 Maserati",
+        "hex_value": "#878C91"
+      },
+      {
+        "display_name": "Blu Nettuno WB Mica",
+        "paint_code": "226916",
+        "slug": "blu-nettuno-wb-mica-226916",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/blu-nettuno-wb-mica-226916/",
+        "source_label": "PaintScratch 2005 Maserati",
+        "hex_value": "#3F4169"
+      },
+      {
+        "display_name": "Blu Malago Mica",
+        "paint_code": "226919",
+        "slug": "blu-malago-mica-226919",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/blu-malago-mica-226919/",
+        "source_label": "PaintScratch 2005 Maserati",
+        "hex_value": "#046A42"
+      },
+      {
+        "display_name": "Nero WB",
+        "paint_code": "229506",
+        "slug": "nero-wb-229506",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/nero-wb-229506/",
+        "source_label": "PaintScratch 2005 Maserati",
+        "hex_value": "#141816"
+      },
+      {
+        "display_name": "Bianco Birdcage",
+        "paint_code": "231047",
+        "slug": "bianco-birdcage-231047",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/bianco-birdcage-231047/",
+        "source_label": "PaintScratch 2005 Maserati",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Nero",
+        "paint_code": "231536",
+        "slug": "nero-231536",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/nero-231536/",
+        "source_label": "PaintScratch 2005 Maserati",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Verde Goodwood Mica",
+        "paint_code": "290314",
+        "slug": "verde-goodwood-mica-290314",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/verde-goodwood-mica-290314/",
+        "source_label": "PaintScratch 2005 Maserati",
+        "hex_value": "#3C7258"
+      },
+      {
+        "display_name": "Nero Carbonio Metallic",
+        "paint_code": "290506",
+        "slug": "nero-carbonio-metallic-290506",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/nero-carbonio-metallic-290506/",
+        "source_label": "PaintScratch 2005 Maserati",
+        "hex_value": "#404040"
+      },
+      {
+        "display_name": "Argento Luna Mica",
+        "paint_code": "290616",
+        "slug": "argento-luna-mica-290616",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/argento-luna-mica-290616/",
+        "source_label": "PaintScratch 2005 Maserati",
+        "hex_value": "#C7D7D6"
+      }
+    ],
+    "2006": [
+      {
+        "display_name": "Bronzo Montecarlo Metallic",
+        "paint_code": "203702",
+        "slug": "bronzo-montecarlo-metallic-203702",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/bronzo-montecarlo-metallic-203702/",
+        "source_label": "PaintScratch 2006 Maserati",
+        "hex_value": "#A5A698"
+      },
+      {
+        "display_name": "Blu Sebring Metallic",
+        "paint_code": "203852",
+        "slug": "blu-sebring-metallic-203852",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/blu-sebring-metallic-203852/",
+        "source_label": "PaintScratch 2006 Maserati",
+        "hex_value": "#215465"
+      },
+      {
+        "display_name": "Bordeaux Pontevecchio Mica",
+        "paint_code": "226125",
+        "slug": "bordeaux-pontevecchio-mica-226125",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/bordeaux-pontevecchio-mica-226125/",
+        "source_label": "PaintScratch 2006 Maserati",
+        "hex_value": "#7A0823"
+      },
+      {
+        "display_name": "Verde Acquamarina Mica",
+        "paint_code": "226357",
+        "slug": "verde-acquamarina-mica-226357",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/verde-acquamarina-mica-226357/",
+        "source_label": "PaintScratch 2006 Maserati",
+        "hex_value": "#CAD2BE"
+      },
+      {
+        "display_name": "Grey",
+        "paint_code": "226679",
+        "slug": "grey-226679",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/grey-226679/",
+        "source_label": "PaintScratch 2006 Maserati",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Grigio Nuvolari WB Metallic",
+        "paint_code": "226686",
+        "slug": "grigio-nuvolari-wb-metallic-226686",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/grigio-nuvolari-wb-metallic-226686/",
+        "source_label": "PaintScratch 2006 Maserati",
+        "hex_value": "#D4D0C4"
+      },
+      {
+        "display_name": "Grigio Alfieri WB Metallic",
+        "paint_code": "226687",
+        "slug": "grigio-alfieri-wb-metallic-226687",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/grigio-alfieri-wb-metallic-226687/",
+        "source_label": "PaintScratch 2006 Maserati",
+        "hex_value": "#8A8988"
+      },
+      {
+        "display_name": "Grigio Touring WB Metallic",
+        "paint_code": "226689",
+        "slug": "grigio-touring-wb-metallic-226689",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/grigio-touring-wb-metallic-226689/",
+        "source_label": "PaintScratch 2006 Maserati",
+        "hex_value": "#ECEAE6"
+      },
+      {
+        "display_name": "Grigio Palladio WB Mica",
+        "paint_code": "226714",
+        "slug": "grigio-palladio-wb-mica-226714",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/grigio-palladio-wb-mica-226714/",
+        "source_label": "PaintScratch 2006 Maserati",
+        "hex_value": "#878C91"
+      },
+      {
+        "display_name": "Blu Nettuno WB Mica",
+        "paint_code": "226916",
+        "slug": "blu-nettuno-wb-mica-226916",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/blu-nettuno-wb-mica-226916/",
+        "source_label": "PaintScratch 2006 Maserati",
+        "hex_value": "#3F4169"
+      },
+      {
+        "display_name": "Blu Malago Mica",
+        "paint_code": "226919",
+        "slug": "blu-malago-mica-226919",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/blu-malago-mica-226919/",
+        "source_label": "PaintScratch 2006 Maserati",
+        "hex_value": "#046A42"
+      },
+      {
+        "display_name": "Nero WB",
+        "paint_code": "229506",
+        "slug": "nero-wb-229506",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/nero-wb-229506/",
+        "source_label": "PaintScratch 2006 Maserati",
+        "hex_value": "#141816"
+      },
+      {
+        "display_name": "Bianco Birdcage",
+        "paint_code": "231047",
+        "slug": "bianco-birdcage-231047",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/bianco-birdcage-231047/",
+        "source_label": "PaintScratch 2006 Maserati",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Grigio Granito",
+        "paint_code": "266663",
+        "slug": "grigio-granito-266663",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/grigio-granito-266663/",
+        "source_label": "PaintScratch 2006 Maserati",
+        "hex_value": "#7B857F"
+      },
+      {
+        "display_name": "Verde Goodwood Mica",
+        "paint_code": "290314",
+        "slug": "verde-goodwood-mica-290314",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/verde-goodwood-mica-290314/",
+        "source_label": "PaintScratch 2006 Maserati",
+        "hex_value": "#3C7258"
+      },
+      {
+        "display_name": "Nero Carbonio Metallic",
+        "paint_code": "290506",
+        "slug": "nero-carbonio-metallic-290506",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/nero-carbonio-metallic-290506/",
+        "source_label": "PaintScratch 2006 Maserati",
+        "hex_value": "#404040"
+      }
+    ],
+    "2007": [
+      {
+        "display_name": "Bronzo Montecarlo Metallic",
+        "paint_code": "203702",
+        "slug": "bronzo-montecarlo-metallic-203702",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/bronzo-montecarlo-metallic-203702/",
+        "source_label": "PaintScratch 2007 Maserati",
+        "hex_value": "#A5A698"
+      },
+      {
+        "display_name": "Blu Sebring Metallic",
+        "paint_code": "203852",
+        "slug": "blu-sebring-metallic-203852",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/blu-sebring-metallic-203852/",
+        "source_label": "PaintScratch 2007 Maserati",
+        "hex_value": "#215465"
+      },
+      {
+        "display_name": "Bordeaux Pontevecchio Mica",
+        "paint_code": "226125",
+        "slug": "bordeaux-pontevecchio-mica-226125",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/bordeaux-pontevecchio-mica-226125/",
+        "source_label": "PaintScratch 2007 Maserati",
+        "hex_value": "#7A0823"
+      },
+      {
+        "display_name": "Verde Acquamarina Mica",
+        "paint_code": "226357",
+        "slug": "verde-acquamarina-mica-226357",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/verde-acquamarina-mica-226357/",
+        "source_label": "PaintScratch 2007 Maserati",
+        "hex_value": "#CAD2BE"
+      },
+      {
+        "display_name": "Grigio Nuvolari WB Metallic",
+        "paint_code": "226686",
+        "slug": "grigio-nuvolari-wb-metallic-226686",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/grigio-nuvolari-wb-metallic-226686/",
+        "source_label": "PaintScratch 2007 Maserati",
+        "hex_value": "#D4D0C4"
+      },
+      {
+        "display_name": "Grigio Alfieri WB Metallic",
+        "paint_code": "226687",
+        "slug": "grigio-alfieri-wb-metallic-226687",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/grigio-alfieri-wb-metallic-226687/",
+        "source_label": "PaintScratch 2007 Maserati",
+        "hex_value": "#8A8988"
+      },
+      {
+        "display_name": "Grigio Touring WB Metallic",
+        "paint_code": "226689",
+        "slug": "grigio-touring-wb-metallic-226689",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/grigio-touring-wb-metallic-226689/",
+        "source_label": "PaintScratch 2007 Maserati",
+        "hex_value": "#ECEAE6"
+      },
+      {
+        "display_name": "Grigio Palladio WB Mica",
+        "paint_code": "226714",
+        "slug": "grigio-palladio-wb-mica-226714",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/grigio-palladio-wb-mica-226714/",
+        "source_label": "PaintScratch 2007 Maserati",
+        "hex_value": "#878C91"
+      },
+      {
+        "display_name": "Blu Nettuno WB Mica",
+        "paint_code": "226916",
+        "slug": "blu-nettuno-wb-mica-226916",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/blu-nettuno-wb-mica-226916/",
+        "source_label": "PaintScratch 2007 Maserati",
+        "hex_value": "#3F4169"
+      },
+      {
+        "display_name": "Blu Malago Mica",
+        "paint_code": "226919",
+        "slug": "blu-malago-mica-226919",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/blu-malago-mica-226919/",
+        "source_label": "PaintScratch 2007 Maserati",
+        "hex_value": "#046A42"
+      },
+      {
+        "display_name": "Nero WB",
+        "paint_code": "229506",
+        "slug": "nero-wb-229506",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/nero-wb-229506/",
+        "source_label": "PaintScratch 2007 Maserati",
+        "hex_value": "#141816"
+      },
+      {
+        "display_name": "Bianco Birdcage",
+        "paint_code": "231047",
+        "slug": "bianco-birdcage-231047",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/bianco-birdcage-231047/",
+        "source_label": "PaintScratch 2007 Maserati",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Grigio Granito",
+        "paint_code": "266663",
+        "slug": "grigio-granito-266663",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/grigio-granito-266663/",
+        "source_label": "PaintScratch 2007 Maserati",
+        "hex_value": "#7B857F"
+      },
+      {
+        "display_name": "Verde Goodwood Mica",
+        "paint_code": "290314",
+        "slug": "verde-goodwood-mica-290314",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/verde-goodwood-mica-290314/",
+        "source_label": "PaintScratch 2007 Maserati",
+        "hex_value": "#3C7258"
+      },
+      {
+        "display_name": "Nero Carbonio Metallic",
+        "paint_code": "290506",
+        "slug": "nero-carbonio-metallic-290506",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/nero-carbonio-metallic-290506/",
+        "source_label": "PaintScratch 2007 Maserati",
+        "hex_value": "#404040"
+      },
+      {
+        "display_name": "Argento Luna Mica",
+        "paint_code": "290616",
+        "slug": "argento-luna-mica-290616",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/argento-luna-mica-290616/",
+        "source_label": "PaintScratch 2007 Maserati",
+        "hex_value": "#C7D7D6"
+      }
+    ],
+    "2008": [
+      {
+        "display_name": "Bronzo Montecarlo Metallic",
+        "paint_code": "203702",
+        "slug": "bronzo-montecarlo-metallic-203702",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/bronzo-montecarlo-metallic-203702/",
+        "source_label": "PaintScratch 2008 Maserati",
+        "hex_value": "#A5A698"
+      },
+      {
+        "display_name": "Blu Sebring Metallic",
+        "paint_code": "203852",
+        "slug": "blu-sebring-metallic-203852",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/blu-sebring-metallic-203852/",
+        "source_label": "PaintScratch 2008 Maserati",
+        "hex_value": "#215465"
+      },
+      {
+        "display_name": "Bordeaux Pontevecchio Mica",
+        "paint_code": "226125",
+        "slug": "bordeaux-pontevecchio-mica-226125",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/bordeaux-pontevecchio-mica-226125/",
+        "source_label": "PaintScratch 2008 Maserati",
+        "hex_value": "#7A0823"
+      },
+      {
+        "display_name": "Verde Acquamarina Mica",
+        "paint_code": "226357",
+        "slug": "verde-acquamarina-mica-226357",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/verde-acquamarina-mica-226357/",
+        "source_label": "PaintScratch 2008 Maserati",
+        "hex_value": "#CAD2BE"
+      },
+      {
+        "display_name": "Grey",
+        "paint_code": "226679",
+        "slug": "grey-226679",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/grey-226679/",
+        "source_label": "PaintScratch 2008 Maserati",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Grigio Nuvolari WB Metallic",
+        "paint_code": "226686",
+        "slug": "grigio-nuvolari-wb-metallic-226686",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/grigio-nuvolari-wb-metallic-226686/",
+        "source_label": "PaintScratch 2008 Maserati",
+        "hex_value": "#D4D0C4"
+      },
+      {
+        "display_name": "Grigio Alfieri WB Metallic",
+        "paint_code": "226687",
+        "slug": "grigio-alfieri-wb-metallic-226687",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/grigio-alfieri-wb-metallic-226687/",
+        "source_label": "PaintScratch 2008 Maserati",
+        "hex_value": "#8A8988"
+      },
+      {
+        "display_name": "Grigio Touring WB Metallic",
+        "paint_code": "226689",
+        "slug": "grigio-touring-wb-metallic-226689",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/grigio-touring-wb-metallic-226689/",
+        "source_label": "PaintScratch 2008 Maserati",
+        "hex_value": "#ECEAE6"
+      },
+      {
+        "display_name": "Grigio Palladio WB Mica",
+        "paint_code": "226714",
+        "slug": "grigio-palladio-wb-mica-226714",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/grigio-palladio-wb-mica-226714/",
+        "source_label": "PaintScratch 2008 Maserati",
+        "hex_value": "#878C91"
+      },
+      {
+        "display_name": "Blu Nettuno WB Mica",
+        "paint_code": "226916",
+        "slug": "blu-nettuno-wb-mica-226916",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/blu-nettuno-wb-mica-226916/",
+        "source_label": "PaintScratch 2008 Maserati",
+        "hex_value": "#3F4169"
+      },
+      {
+        "display_name": "Blu Malago Mica",
+        "paint_code": "226919",
+        "slug": "blu-malago-mica-226919",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/blu-malago-mica-226919/",
+        "source_label": "PaintScratch 2008 Maserati",
+        "hex_value": "#046A42"
+      },
+      {
+        "display_name": "Nero WB",
+        "paint_code": "229506",
+        "slug": "nero-wb-229506",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/nero-wb-229506/",
+        "source_label": "PaintScratch 2008 Maserati",
+        "hex_value": "#141816"
+      },
+      {
+        "display_name": "Bianco Birdcage",
+        "paint_code": "231047",
+        "slug": "bianco-birdcage-231047",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/bianco-birdcage-231047/",
+        "source_label": "PaintScratch 2008 Maserati",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Grigio Granito",
+        "paint_code": "266663",
+        "slug": "grigio-granito-266663",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/grigio-granito-266663/",
+        "source_label": "PaintScratch 2008 Maserati",
+        "hex_value": "#7B857F"
+      },
+      {
+        "display_name": "Verde Goodwood Mica",
+        "paint_code": "290314",
+        "slug": "verde-goodwood-mica-290314",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/verde-goodwood-mica-290314/",
+        "source_label": "PaintScratch 2008 Maserati",
+        "hex_value": "#3C7258"
+      },
+      {
+        "display_name": "Nero Carbonio Metallic",
+        "paint_code": "290506",
+        "slug": "nero-carbonio-metallic-290506",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/nero-carbonio-metallic-290506/",
+        "source_label": "PaintScratch 2008 Maserati",
+        "hex_value": "#404040"
+      }
+    ],
+    "2009": [
+      {
+        "display_name": "Grigio Granito Metallic",
+        "paint_code": "69982400",
+        "slug": "grigio-granito-metallic-69982400",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/grigio-granito-metallic-69982400/",
+        "source_label": "PaintScratch 2009 Maserati",
+        "hex_value": "#7B857F"
+      },
+      {
+        "display_name": "Grigio Alfieri",
+        "paint_code": "203633",
+        "slug": "grigio-alfieri-203633",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/grigio-alfieri-203633/",
+        "source_label": "PaintScratch 2009 Maserati",
+        "hex_value": "#404040"
+      },
+      {
+        "display_name": "Grey",
+        "paint_code": "226679",
+        "slug": "grey-226679",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/grey-226679/",
+        "source_label": "PaintScratch 2009 Maserati",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Grigio Palladio WB Mica",
+        "paint_code": "226714",
+        "slug": "grigio-palladio-wb-mica-226714",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/grigio-palladio-wb-mica-226714/",
+        "source_label": "PaintScratch 2009 Maserati",
+        "hex_value": "#878C91"
+      },
+      {
+        "display_name": "Blu Nettuno WB Mica",
+        "paint_code": "226916",
+        "slug": "blu-nettuno-wb-mica-226916",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/blu-nettuno-wb-mica-226916/",
+        "source_label": "PaintScratch 2009 Maserati",
+        "hex_value": "#3F4169"
+      },
+      {
+        "display_name": "Blu Malago Mica",
+        "paint_code": "226919",
+        "slug": "blu-malago-mica-226919",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/blu-malago-mica-226919/",
+        "source_label": "PaintScratch 2009 Maserati",
+        "hex_value": "#046A42"
+      },
+      {
+        "display_name": "Nero WB",
+        "paint_code": "229506",
+        "slug": "nero-wb-229506",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/nero-wb-229506/",
+        "source_label": "PaintScratch 2009 Maserati",
+        "hex_value": "#141816"
+      },
+      {
+        "display_name": "Bianco Birdcage",
+        "paint_code": "231047",
+        "slug": "bianco-birdcage-231047",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/bianco-birdcage-231047/",
+        "source_label": "PaintScratch 2009 Maserati",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Verde Deep Emerald",
+        "paint_code": "266318",
+        "slug": "verde-deep-emerald-266318",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/verde-deep-emerald-266318/",
+        "source_label": "PaintScratch 2009 Maserati",
+        "hex_value": "#15350F"
+      },
+      {
+        "display_name": "Grigio Granito",
+        "paint_code": "266663",
+        "slug": "grigio-granito-266663",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/grigio-granito-266663/",
+        "source_label": "PaintScratch 2009 Maserati",
+        "hex_value": "#7B857F"
+      },
+      {
+        "display_name": "Verde Goodwood Mica",
+        "paint_code": "290314",
+        "slug": "verde-goodwood-mica-290314",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/verde-goodwood-mica-290314/",
+        "source_label": "PaintScratch 2009 Maserati",
+        "hex_value": "#3C7258"
+      },
+      {
+        "display_name": "Nero Carbonio Metallic",
+        "paint_code": "290506",
+        "slug": "nero-carbonio-metallic-290506",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/nero-carbonio-metallic-290506/",
+        "source_label": "PaintScratch 2009 Maserati",
+        "hex_value": "#404040"
+      },
+      {
+        "display_name": "Argento Luna Mica",
+        "paint_code": "290616",
+        "slug": "argento-luna-mica-290616",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/argento-luna-mica-290616/",
+        "source_label": "PaintScratch 2009 Maserati",
+        "hex_value": "#C7D7D6"
+      }
+    ],
+    "2010": [
+      {
+        "display_name": "Grigio Granito Metallic",
+        "paint_code": "69982400",
+        "slug": "grigio-granito-metallic-69982400",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/grigio-granito-metallic-69982400/",
+        "source_label": "PaintScratch 2010 Maserati",
+        "hex_value": "#7B857F"
+      },
+      {
+        "display_name": "Grigio Alfieri",
+        "paint_code": "203633",
+        "slug": "grigio-alfieri-203633",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/grigio-alfieri-203633/",
+        "source_label": "PaintScratch 2010 Maserati",
+        "hex_value": "#404040"
+      },
+      {
+        "display_name": "Nero WB",
+        "paint_code": "229506",
+        "slug": "nero-wb-229506",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/nero-wb-229506/",
+        "source_label": "PaintScratch 2010 Maserati",
+        "hex_value": "#141816"
+      }
+    ],
+    "2011": [
+      {
+        "display_name": "Grigio Granito Metallic",
+        "paint_code": "69982400",
+        "slug": "grigio-granito-metallic-69982400",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/grigio-granito-metallic-69982400/",
+        "source_label": "PaintScratch 2011 Maserati",
+        "hex_value": "#7B857F"
+      },
+      {
+        "display_name": "Ruby Red Tricoat",
+        "paint_code": "122/A",
+        "slug": "ruby-red-tricoat-122a",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/ruby-red-tricoat-122a/",
+        "source_label": "PaintScratch 2011 Maserati",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "Grigio Alfieri",
+        "paint_code": "203633",
+        "slug": "grigio-alfieri-203633",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/grigio-alfieri-203633/",
+        "source_label": "PaintScratch 2011 Maserati",
+        "hex_value": "#404040"
+      },
+      {
+        "display_name": "Nero WB",
+        "paint_code": "229506",
+        "slug": "nero-wb-229506",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/nero-wb-229506/",
+        "source_label": "PaintScratch 2011 Maserati",
+        "hex_value": "#141816"
+      }
+    ],
+    "2012": [
+      {
+        "display_name": "Grigio Granito Metallic",
+        "paint_code": "69982400",
+        "slug": "grigio-granito-metallic-69982400",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/grigio-granito-metallic-69982400/",
+        "source_label": "PaintScratch 2012 Maserati",
+        "hex_value": "#7B857F"
+      },
+      {
+        "display_name": "Ruby Red Tricoat",
+        "paint_code": "122/A",
+        "slug": "ruby-red-tricoat-122a",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/ruby-red-tricoat-122a/",
+        "source_label": "PaintScratch 2012 Maserati",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "Grigio Alfieri",
+        "paint_code": "203633",
+        "slug": "grigio-alfieri-203633",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/grigio-alfieri-203633/",
+        "source_label": "PaintScratch 2012 Maserati",
+        "hex_value": "#404040"
+      },
+      {
+        "display_name": "Grey",
+        "paint_code": "226679",
+        "slug": "grey-226679",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/grey-226679/",
+        "source_label": "PaintScratch 2012 Maserati",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Medium Blue (Interior)",
+        "paint_code": "226964",
+        "slug": "medium-blue-interior-226964",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/medium-blue-interior-226964/",
+        "source_label": "PaintScratch 2012 Maserati",
+        "hex_value": "#0D2D97"
+      },
+      {
+        "display_name": "Nero WB",
+        "paint_code": "229506",
+        "slug": "nero-wb-229506",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/nero-wb-229506/",
+        "source_label": "PaintScratch 2012 Maserati",
+        "hex_value": "#141816"
+      }
+    ],
+    "2013": [
+      {
+        "display_name": "Grigio Granito Metallic",
+        "paint_code": "69982400",
+        "slug": "grigio-granito-metallic-69982400",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/grigio-granito-metallic-69982400/",
+        "source_label": "PaintScratch 2013 Maserati",
+        "hex_value": "#7B857F"
+      },
+      {
+        "display_name": "Ruby Red Tricoat",
+        "paint_code": "122/A",
+        "slug": "ruby-red-tricoat-122a",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/ruby-red-tricoat-122a/",
+        "source_label": "PaintScratch 2013 Maserati",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "Grigio Alfieri",
+        "paint_code": "203633",
+        "slug": "grigio-alfieri-203633",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/grigio-alfieri-203633/",
+        "source_label": "PaintScratch 2013 Maserati",
+        "hex_value": "#404040"
+      },
+      {
+        "display_name": "Nero WB",
+        "paint_code": "229506",
+        "slug": "nero-wb-229506",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/nero-wb-229506/",
+        "source_label": "PaintScratch 2013 Maserati",
+        "hex_value": "#141816"
+      }
+    ],
+    "2014": [
+      {
+        "display_name": "Grigio Metallic",
+        "paint_code": "672",
+        "slug": "grigio-metallic-672",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/grigio-metallic-672/",
+        "source_label": "PaintScratch 2014 Maserati",
+        "hex_value": "#6D6A6B"
+      },
+      {
+        "display_name": "Nero Ribelle Mica",
+        "paint_code": "815",
+        "slug": "nero-ribelle-mica-815",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/nero-ribelle-mica-815/",
+        "source_label": "PaintScratch 2014 Maserati",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Grigio Granito Metallic",
+        "paint_code": "69982400",
+        "slug": "grigio-granito-metallic-69982400",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/grigio-granito-metallic-69982400/",
+        "source_label": "PaintScratch 2014 Maserati",
+        "hex_value": "#7B857F"
+      },
+      {
+        "display_name": "Ruby Red Tricoat",
+        "paint_code": "122/A",
+        "slug": "ruby-red-tricoat-122a",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/ruby-red-tricoat-122a/",
+        "source_label": "PaintScratch 2014 Maserati",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "Blu Passione Mica",
+        "paint_code": "426",
+        "slug": "blu-passione-mica-426",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/blu-passione-mica-426/",
+        "source_label": "PaintScratch 2014 Maserati",
+        "hex_value": "#002042"
+      },
+      {
+        "display_name": "Azzurro Allegria Tricoat",
+        "paint_code": "496/C",
+        "slug": "azzurro-allegria-tricoat-496c",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/azzurro-allegria-tricoat-496c/",
+        "source_label": "PaintScratch 2014 Maserati",
+        "hex_value": "#C0C0FF"
+      },
+      {
+        "display_name": "Champagne Metallescent",
+        "paint_code": "513",
+        "slug": "champagne-metallescent-513",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/champagne-metallescent-513/",
+        "source_label": "PaintScratch 2014 Maserati",
+        "hex_value": "#BAAA8E"
+      },
+      {
+        "display_name": "Nero",
+        "paint_code": "820",
+        "slug": "nero-820",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/nero-820/",
+        "source_label": "PaintScratch 2014 Maserati",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Grigio Alfieri",
+        "paint_code": "203633",
+        "slug": "grigio-alfieri-203633",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/grigio-alfieri-203633/",
+        "source_label": "PaintScratch 2014 Maserati",
+        "hex_value": "#404040"
+      },
+      {
+        "display_name": "Nero WB",
+        "paint_code": "229506",
+        "slug": "nero-wb-229506",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/nero-wb-229506/",
+        "source_label": "PaintScratch 2014 Maserati",
+        "hex_value": "#141816"
+      },
+      {
+        "display_name": "White",
+        "paint_code": "VR.268",
+        "slug": "white-vr268",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/white-vr268/",
+        "source_label": "PaintScratch 2014 Maserati",
+        "hex_value": "#FFFFFF"
+      }
+    ],
+    "2015": [
+      {
+        "display_name": "Nero Ribelle Mica",
+        "paint_code": "815",
+        "slug": "nero-ribelle-mica-815",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/nero-ribelle-mica-815/",
+        "source_label": "PaintScratch 2015 Maserati",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Medium Red Tricoat",
+        "paint_code": "266144",
+        "slug": "medium-red-tricoat-266144",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/medium-red-tricoat-266144/",
+        "source_label": "PaintScratch 2015 Maserati",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "Grigio Granito Metallic",
+        "paint_code": "69982400",
+        "slug": "grigio-granito-metallic-69982400",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/grigio-granito-metallic-69982400/",
+        "source_label": "PaintScratch 2015 Maserati",
+        "hex_value": "#7B857F"
+      },
+      {
+        "display_name": "Ruby Red Tricoat",
+        "paint_code": "122/A",
+        "slug": "ruby-red-tricoat-122a",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/ruby-red-tricoat-122a/",
+        "source_label": "PaintScratch 2015 Maserati",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "White",
+        "paint_code": "229025",
+        "slug": "white-229025",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/white-229025/",
+        "source_label": "PaintScratch 2015 Maserati",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Blanco Eldorado",
+        "paint_code": "231042",
+        "slug": "blanco-eldorado-231042",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/blanco-eldorado-231042/",
+        "source_label": "PaintScratch 2015 Maserati",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Bianco Birdcage",
+        "paint_code": "231047",
+        "slug": "bianco-birdcage-231047",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/bianco-birdcage-231047/",
+        "source_label": "PaintScratch 2015 Maserati",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Medium Gray",
+        "paint_code": "264627",
+        "slug": "medium-gray-264627",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/medium-gray-264627/",
+        "source_label": "PaintScratch 2015 Maserati",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Rosso Folgore Metallic",
+        "paint_code": "266152",
+        "slug": "rosso-folgore-metallic-266152",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/rosso-folgore-metallic-266152/",
+        "source_label": "PaintScratch 2015 Maserati",
+        "hex_value": "#4A1A16"
+      },
+      {
+        "display_name": "White",
+        "paint_code": "VR.268",
+        "slug": "white-vr268",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/white-vr268/",
+        "source_label": "PaintScratch 2015 Maserati",
+        "hex_value": "#FFFFFF"
+      }
+    ],
+    "2016": [
+      {
+        "display_name": "Blu Emozione Mica",
+        "paint_code": "406",
+        "slug": "blu-emozione-mica-406",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/blu-emozione-mica-406/",
+        "source_label": "PaintScratch 2016 Maserati",
+        "hex_value": "#1C2865"
+      },
+      {
+        "display_name": "Grigio Maratea Metallescent",
+        "paint_code": "571",
+        "slug": "grigio-maratea-metallescent-571",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/grigio-maratea-metallescent-571/",
+        "source_label": "PaintScratch 2016 Maserati",
+        "hex_value": "#454246"
+      },
+      {
+        "display_name": "Grigio Metallic",
+        "paint_code": "672",
+        "slug": "grigio-metallic-672",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/grigio-metallic-672/",
+        "source_label": "PaintScratch 2016 Maserati",
+        "hex_value": "#6D6A6B"
+      },
+      {
+        "display_name": "Nero Ribelle Mica",
+        "paint_code": "815",
+        "slug": "nero-ribelle-mica-815",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/nero-ribelle-mica-815/",
+        "source_label": "PaintScratch 2016 Maserati",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Bianco",
+        "paint_code": "Q268",
+        "slug": "bianco-q268",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/bianco-q268/",
+        "source_label": "PaintScratch 2016 Maserati",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Grigio",
+        "paint_code": "Q672",
+        "slug": "grigio-q672",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/grigio-q672/",
+        "source_label": "PaintScratch 2016 Maserati",
+        "hex_value": "#A3A2A7"
+      },
+      {
+        "display_name": "Rosso Folgore Mica",
+        "paint_code": "120",
+        "slug": "rosso-folgore-mica-120",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/rosso-folgore-mica-120/",
+        "source_label": "PaintScratch 2016 Maserati",
+        "hex_value": "#541638"
+      },
+      {
+        "display_name": "Rosso Energia Tricoat",
+        "paint_code": "122",
+        "slug": "rosso-energia-tricoat-122",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/rosso-energia-tricoat-122/",
+        "source_label": "PaintScratch 2016 Maserati",
+        "hex_value": "#991D28"
+      },
+      {
+        "display_name": "Bianco Alpi Tricoat",
+        "paint_code": "216",
+        "slug": "bianco-alpi-tricoat-216",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/bianco-alpi-tricoat-216/",
+        "source_label": "PaintScratch 2016 Maserati",
+        "hex_value": "#F5EEE3"
+      },
+      {
+        "display_name": "Bianco",
+        "paint_code": "268",
+        "slug": "bianco-268",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/bianco-268/",
+        "source_label": "PaintScratch 2016 Maserati",
+        "hex_value": "#FCF7F1"
+      },
+      {
+        "display_name": "Blu Passione Mica",
+        "paint_code": "426",
+        "slug": "blu-passione-mica-426",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/blu-passione-mica-426/",
+        "source_label": "PaintScratch 2016 Maserati",
+        "hex_value": "#002042"
+      },
+      {
+        "display_name": "Champagne Metallescent",
+        "paint_code": "513",
+        "slug": "champagne-metallescent-513",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/champagne-metallescent-513/",
+        "source_label": "PaintScratch 2016 Maserati",
+        "hex_value": "#BAAA8E"
+      },
+      {
+        "display_name": "Bronzo Sienna Metallescent",
+        "paint_code": "525",
+        "slug": "bronzo-sienna-metallescent-525",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/bronzo-sienna-metallescent-525/",
+        "source_label": "PaintScratch 2016 Maserati",
+        "hex_value": "#877667"
+      },
+      {
+        "display_name": "Grigio Metallo Metallic",
+        "paint_code": "817",
+        "slug": "grigio-metallo-metallic-817",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/grigio-metallo-metallic-817/",
+        "source_label": "PaintScratch 2016 Maserati",
+        "hex_value": "#989E97"
+      },
+      {
+        "display_name": "Nero",
+        "paint_code": "820",
+        "slug": "nero-820",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/nero-820/",
+        "source_label": "PaintScratch 2016 Maserati",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "White",
+        "paint_code": "229025",
+        "slug": "white-229025",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/white-229025/",
+        "source_label": "PaintScratch 2016 Maserati",
+        "hex_value": "#FFFFFF"
+      }
+    ],
+    "2017": [
+      {
+        "display_name": "Blu Emozione Mica",
+        "paint_code": "406",
+        "slug": "blu-emozione-mica-406",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/blu-emozione-mica-406/",
+        "source_label": "PaintScratch 2017 Maserati",
+        "hex_value": "#1C2865"
+      },
+      {
+        "display_name": "Grigio Maratea Metallescent",
+        "paint_code": "571",
+        "slug": "grigio-maratea-metallescent-571",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/grigio-maratea-metallescent-571/",
+        "source_label": "PaintScratch 2017 Maserati",
+        "hex_value": "#454246"
+      },
+      {
+        "display_name": "Grigio Metallic",
+        "paint_code": "672",
+        "slug": "grigio-metallic-672",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/grigio-metallic-672/",
+        "source_label": "PaintScratch 2017 Maserati",
+        "hex_value": "#6D6A6B"
+      },
+      {
+        "display_name": "Nero Ribelle Mica",
+        "paint_code": "815",
+        "slug": "nero-ribelle-mica-815",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/nero-ribelle-mica-815/",
+        "source_label": "PaintScratch 2017 Maserati",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Bianco",
+        "paint_code": "Q268",
+        "slug": "bianco-q268",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/bianco-q268/",
+        "source_label": "PaintScratch 2017 Maserati",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Grigio",
+        "paint_code": "Q672",
+        "slug": "grigio-q672",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/grigio-q672/",
+        "source_label": "PaintScratch 2017 Maserati",
+        "hex_value": "#A3A2A7"
+      },
+      {
+        "display_name": "Rosso Folgore Mica",
+        "paint_code": "120",
+        "slug": "rosso-folgore-mica-120",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/rosso-folgore-mica-120/",
+        "source_label": "PaintScratch 2017 Maserati",
+        "hex_value": "#541638"
+      },
+      {
+        "display_name": "Rosso Energia Tricoat",
+        "paint_code": "122",
+        "slug": "rosso-energia-tricoat-122",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/rosso-energia-tricoat-122/",
+        "source_label": "PaintScratch 2017 Maserati",
+        "hex_value": "#991D28"
+      },
+      {
+        "display_name": "Bianco Alpi Tricoat",
+        "paint_code": "216",
+        "slug": "bianco-alpi-tricoat-216",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/bianco-alpi-tricoat-216/",
+        "source_label": "PaintScratch 2017 Maserati",
+        "hex_value": "#F5EEE3"
+      },
+      {
+        "display_name": "Bianco",
+        "paint_code": "268",
+        "slug": "bianco-268",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/bianco-268/",
+        "source_label": "PaintScratch 2017 Maserati",
+        "hex_value": "#FCF7F1"
+      },
+      {
+        "display_name": "Blu Passione Mica",
+        "paint_code": "426",
+        "slug": "blu-passione-mica-426",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/blu-passione-mica-426/",
+        "source_label": "PaintScratch 2017 Maserati",
+        "hex_value": "#002042"
+      },
+      {
+        "display_name": "Champagne Metallescent",
+        "paint_code": "513",
+        "slug": "champagne-metallescent-513",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/champagne-metallescent-513/",
+        "source_label": "PaintScratch 2017 Maserati",
+        "hex_value": "#BAAA8E"
+      },
+      {
+        "display_name": "Bronzo Sienna Metallescent",
+        "paint_code": "525",
+        "slug": "bronzo-sienna-metallescent-525",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/bronzo-sienna-metallescent-525/",
+        "source_label": "PaintScratch 2017 Maserati",
+        "hex_value": "#877667"
+      },
+      {
+        "display_name": "Grigio Metallo Metallic",
+        "paint_code": "817",
+        "slug": "grigio-metallo-metallic-817",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/grigio-metallo-metallic-817/",
+        "source_label": "PaintScratch 2017 Maserati",
+        "hex_value": "#989E97"
+      },
+      {
+        "display_name": "Nero",
+        "paint_code": "820",
+        "slug": "nero-820",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/nero-820/",
+        "source_label": "PaintScratch 2017 Maserati",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Medium Gray",
+        "paint_code": "264627",
+        "slug": "medium-gray-264627",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/medium-gray-264627/",
+        "source_label": "PaintScratch 2017 Maserati",
+        "hex_value": "#808080"
+      }
+    ],
+    "2018": [
+      {
+        "display_name": "Blu Emozione Mica",
+        "paint_code": "406",
+        "slug": "blu-emozione-mica-406",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/blu-emozione-mica-406/",
+        "source_label": "PaintScratch 2018 Maserati",
+        "hex_value": "#1C2865"
+      },
+      {
+        "display_name": "Grigio Maratea Metallescent",
+        "paint_code": "571",
+        "slug": "grigio-maratea-metallescent-571",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/grigio-maratea-metallescent-571/",
+        "source_label": "PaintScratch 2018 Maserati",
+        "hex_value": "#454246"
+      },
+      {
+        "display_name": "Grigio Metallic",
+        "paint_code": "672",
+        "slug": "grigio-metallic-672",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/grigio-metallic-672/",
+        "source_label": "PaintScratch 2018 Maserati",
+        "hex_value": "#6D6A6B"
+      },
+      {
+        "display_name": "Nero Ribelle Mica",
+        "paint_code": "815",
+        "slug": "nero-ribelle-mica-815",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/nero-ribelle-mica-815/",
+        "source_label": "PaintScratch 2018 Maserati",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Grigio Granito Metallic",
+        "paint_code": "69982400",
+        "slug": "grigio-granito-metallic-69982400",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/grigio-granito-metallic-69982400/",
+        "source_label": "PaintScratch 2018 Maserati",
+        "hex_value": "#7B857F"
+      },
+      {
+        "display_name": "Bianco",
+        "paint_code": "Q268",
+        "slug": "bianco-q268",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/bianco-q268/",
+        "source_label": "PaintScratch 2018 Maserati",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Grigio",
+        "paint_code": "Q672",
+        "slug": "grigio-q672",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/grigio-q672/",
+        "source_label": "PaintScratch 2018 Maserati",
+        "hex_value": "#A3A2A7"
+      },
+      {
+        "display_name": "Rosso Folgore Mica",
+        "paint_code": "120",
+        "slug": "rosso-folgore-mica-120",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/rosso-folgore-mica-120/",
+        "source_label": "PaintScratch 2018 Maserati",
+        "hex_value": "#541638"
+      },
+      {
+        "display_name": "Rosso Energia Tricoat",
+        "paint_code": "122",
+        "slug": "rosso-energia-tricoat-122",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/rosso-energia-tricoat-122/",
+        "source_label": "PaintScratch 2018 Maserati",
+        "hex_value": "#991D28"
+      },
+      {
+        "display_name": "Bianco Alpi Tricoat",
+        "paint_code": "216",
+        "slug": "bianco-alpi-tricoat-216",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/bianco-alpi-tricoat-216/",
+        "source_label": "PaintScratch 2018 Maserati",
+        "hex_value": "#F5EEE3"
+      },
+      {
+        "display_name": "Bianco",
+        "paint_code": "268",
+        "slug": "bianco-268",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/bianco-268/",
+        "source_label": "PaintScratch 2018 Maserati",
+        "hex_value": "#FCF7F1"
+      },
+      {
+        "display_name": "Blu Passione Mica",
+        "paint_code": "426",
+        "slug": "blu-passione-mica-426",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/blu-passione-mica-426/",
+        "source_label": "PaintScratch 2018 Maserati",
+        "hex_value": "#002042"
+      },
+      {
+        "display_name": "Champagne Metallescent",
+        "paint_code": "513",
+        "slug": "champagne-metallescent-513",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/champagne-metallescent-513/",
+        "source_label": "PaintScratch 2018 Maserati",
+        "hex_value": "#BAAA8E"
+      },
+      {
+        "display_name": "Bronzo Sienna Metallescent",
+        "paint_code": "525",
+        "slug": "bronzo-sienna-metallescent-525",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/bronzo-sienna-metallescent-525/",
+        "source_label": "PaintScratch 2018 Maserati",
+        "hex_value": "#877667"
+      },
+      {
+        "display_name": "Grigio Metallo Metallic",
+        "paint_code": "817",
+        "slug": "grigio-metallo-metallic-817",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/grigio-metallo-metallic-817/",
+        "source_label": "PaintScratch 2018 Maserati",
+        "hex_value": "#989E97"
+      },
+      {
+        "display_name": "Nero",
+        "paint_code": "820",
+        "slug": "nero-820",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/nero-820/",
+        "source_label": "PaintScratch 2018 Maserati",
+        "hex_value": "#000000"
+      }
+    ],
+    "2019": [
+      {
+        "display_name": "Blu Emozione Mica",
+        "paint_code": "406",
+        "slug": "blu-emozione-mica-406",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/blu-emozione-mica-406/",
+        "source_label": "PaintScratch 2019 Maserati",
+        "hex_value": "#1C2865"
+      },
+      {
+        "display_name": "Grigio Maratea Metallescent",
+        "paint_code": "571",
+        "slug": "grigio-maratea-metallescent-571",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/grigio-maratea-metallescent-571/",
+        "source_label": "PaintScratch 2019 Maserati",
+        "hex_value": "#454246"
+      },
+      {
+        "display_name": "Grigio Metallic",
+        "paint_code": "672",
+        "slug": "grigio-metallic-672",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/grigio-metallic-672/",
+        "source_label": "PaintScratch 2019 Maserati",
+        "hex_value": "#6D6A6B"
+      },
+      {
+        "display_name": "Nero Ribelle Mica",
+        "paint_code": "815",
+        "slug": "nero-ribelle-mica-815",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/nero-ribelle-mica-815/",
+        "source_label": "PaintScratch 2019 Maserati",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Bianco",
+        "paint_code": "Q268",
+        "slug": "bianco-q268",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/bianco-q268/",
+        "source_label": "PaintScratch 2019 Maserati",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Grigio",
+        "paint_code": "Q672",
+        "slug": "grigio-q672",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/grigio-q672/",
+        "source_label": "PaintScratch 2019 Maserati",
+        "hex_value": "#A3A2A7"
+      },
+      {
+        "display_name": "Rosso Folgore Mica",
+        "paint_code": "120",
+        "slug": "rosso-folgore-mica-120",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/rosso-folgore-mica-120/",
+        "source_label": "PaintScratch 2019 Maserati",
+        "hex_value": "#541638"
+      },
+      {
+        "display_name": "Rosso Energia Tricoat",
+        "paint_code": "122",
+        "slug": "rosso-energia-tricoat-122",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/rosso-energia-tricoat-122/",
+        "source_label": "PaintScratch 2019 Maserati",
+        "hex_value": "#991D28"
+      },
+      {
+        "display_name": "Bianco Alpi Tricoat",
+        "paint_code": "216",
+        "slug": "bianco-alpi-tricoat-216",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/bianco-alpi-tricoat-216/",
+        "source_label": "PaintScratch 2019 Maserati",
+        "hex_value": "#F5EEE3"
+      },
+      {
+        "display_name": "Bianco",
+        "paint_code": "268",
+        "slug": "bianco-268",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/bianco-268/",
+        "source_label": "PaintScratch 2019 Maserati",
+        "hex_value": "#FCF7F1"
+      },
+      {
+        "display_name": "Blu Passione Mica",
+        "paint_code": "426",
+        "slug": "blu-passione-mica-426",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/blu-passione-mica-426/",
+        "source_label": "PaintScratch 2019 Maserati",
+        "hex_value": "#002042"
+      },
+      {
+        "display_name": "Blu Passione Mica",
+        "paint_code": "426B",
+        "slug": "blu-passione-mica-426b",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/blu-passione-mica-426b/",
+        "source_label": "PaintScratch 2019 Maserati",
+        "hex_value": "#0D2D97"
+      },
+      {
+        "display_name": "Champagne Metallescent",
+        "paint_code": "513",
+        "slug": "champagne-metallescent-513",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/champagne-metallescent-513/",
+        "source_label": "PaintScratch 2019 Maserati",
+        "hex_value": "#BAAA8E"
+      },
+      {
+        "display_name": "Bronzo Sienna Metallescent",
+        "paint_code": "525",
+        "slug": "bronzo-sienna-metallescent-525",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/bronzo-sienna-metallescent-525/",
+        "source_label": "PaintScratch 2019 Maserati",
+        "hex_value": "#877667"
+      },
+      {
+        "display_name": "Grigio Metallo Metallic",
+        "paint_code": "817",
+        "slug": "grigio-metallo-metallic-817",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/grigio-metallo-metallic-817/",
+        "source_label": "PaintScratch 2019 Maserati",
+        "hex_value": "#989E97"
+      },
+      {
+        "display_name": "Nero",
+        "paint_code": "820",
+        "slug": "nero-820",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/nero-820/",
+        "source_label": "PaintScratch 2019 Maserati",
+        "hex_value": "#000000"
+      }
+    ],
+    "2020": [
+      {
+        "display_name": "Blu Emozione Mica",
+        "paint_code": "406",
+        "slug": "blu-emozione-mica-406",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/blu-emozione-mica-406/",
+        "source_label": "PaintScratch 2020 Maserati",
+        "hex_value": "#1C2865"
+      },
+      {
+        "display_name": "Grigio Maratea Metallescent",
+        "paint_code": "571",
+        "slug": "grigio-maratea-metallescent-571",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/grigio-maratea-metallescent-571/",
+        "source_label": "PaintScratch 2020 Maserati",
+        "hex_value": "#454246"
+      },
+      {
+        "display_name": "Grigio Metallic",
+        "paint_code": "672",
+        "slug": "grigio-metallic-672",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/grigio-metallic-672/",
+        "source_label": "PaintScratch 2020 Maserati",
+        "hex_value": "#6D6A6B"
+      },
+      {
+        "display_name": "Nero Ribelle Mica",
+        "paint_code": "815",
+        "slug": "nero-ribelle-mica-815",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/nero-ribelle-mica-815/",
+        "source_label": "PaintScratch 2020 Maserati",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Bianco",
+        "paint_code": "Q268",
+        "slug": "bianco-q268",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/bianco-q268/",
+        "source_label": "PaintScratch 2020 Maserati",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Grigio",
+        "paint_code": "Q672",
+        "slug": "grigio-q672",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/grigio-q672/",
+        "source_label": "PaintScratch 2020 Maserati",
+        "hex_value": "#A3A2A7"
+      },
+      {
+        "display_name": "Rosso Folgore Mica",
+        "paint_code": "120",
+        "slug": "rosso-folgore-mica-120",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/rosso-folgore-mica-120/",
+        "source_label": "PaintScratch 2020 Maserati",
+        "hex_value": "#541638"
+      },
+      {
+        "display_name": "Rosso Energia Tricoat",
+        "paint_code": "122",
+        "slug": "rosso-energia-tricoat-122",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/rosso-energia-tricoat-122/",
+        "source_label": "PaintScratch 2020 Maserati",
+        "hex_value": "#991D28"
+      },
+      {
+        "display_name": "Bianco Alpi Tricoat",
+        "paint_code": "216",
+        "slug": "bianco-alpi-tricoat-216",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/bianco-alpi-tricoat-216/",
+        "source_label": "PaintScratch 2020 Maserati",
+        "hex_value": "#F5EEE3"
+      },
+      {
+        "display_name": "Bianco",
+        "paint_code": "268",
+        "slug": "bianco-268",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/bianco-268/",
+        "source_label": "PaintScratch 2020 Maserati",
+        "hex_value": "#FCF7F1"
+      },
+      {
+        "display_name": "Blu Passione Mica",
+        "paint_code": "426",
+        "slug": "blu-passione-mica-426",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/blu-passione-mica-426/",
+        "source_label": "PaintScratch 2020 Maserati",
+        "hex_value": "#002042"
+      },
+      {
+        "display_name": "Champagne Metallescent",
+        "paint_code": "513",
+        "slug": "champagne-metallescent-513",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/champagne-metallescent-513/",
+        "source_label": "PaintScratch 2020 Maserati",
+        "hex_value": "#BAAA8E"
+      },
+      {
+        "display_name": "Bronzo Sienna Metallescent",
+        "paint_code": "525",
+        "slug": "bronzo-sienna-metallescent-525",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/bronzo-sienna-metallescent-525/",
+        "source_label": "PaintScratch 2020 Maserati",
+        "hex_value": "#877667"
+      },
+      {
+        "display_name": "Grigio Metallo Metallic",
+        "paint_code": "817",
+        "slug": "grigio-metallo-metallic-817",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/grigio-metallo-metallic-817/",
+        "source_label": "PaintScratch 2020 Maserati",
+        "hex_value": "#989E97"
+      },
+      {
+        "display_name": "Nero",
+        "paint_code": "820",
+        "slug": "nero-820",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/nero-820/",
+        "source_label": "PaintScratch 2020 Maserati",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Rosso Italiano Tricoat",
+        "paint_code": "15082",
+        "slug": "rosso-italiano-tricoat-15082",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/rosso-italiano-tricoat-15082/",
+        "source_label": "PaintScratch 2020 Maserati",
+        "hex_value": "#AC2222"
+      }
+    ],
+    "2021": [
+      {
+        "display_name": "Blu Emozione Mica",
+        "paint_code": "406",
+        "slug": "blu-emozione-mica-406",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/blu-emozione-mica-406/",
+        "source_label": "PaintScratch 2021 Maserati",
+        "hex_value": "#1C2865"
+      },
+      {
+        "display_name": "Grigio Maratea Metallescent",
+        "paint_code": "571",
+        "slug": "grigio-maratea-metallescent-571",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/grigio-maratea-metallescent-571/",
+        "source_label": "PaintScratch 2021 Maserati",
+        "hex_value": "#454246"
+      },
+      {
+        "display_name": "Grigio Metallic",
+        "paint_code": "672",
+        "slug": "grigio-metallic-672",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/grigio-metallic-672/",
+        "source_label": "PaintScratch 2021 Maserati",
+        "hex_value": "#6D6A6B"
+      },
+      {
+        "display_name": "Nero Ribelle Mica",
+        "paint_code": "815",
+        "slug": "nero-ribelle-mica-815",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/nero-ribelle-mica-815/",
+        "source_label": "PaintScratch 2021 Maserati",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Bianco",
+        "paint_code": "Q268",
+        "slug": "bianco-q268",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/bianco-q268/",
+        "source_label": "PaintScratch 2021 Maserati",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Grigio",
+        "paint_code": "Q672",
+        "slug": "grigio-q672",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/grigio-q672/",
+        "source_label": "PaintScratch 2021 Maserati",
+        "hex_value": "#A3A2A7"
+      },
+      {
+        "display_name": "Rosso Folgore Mica",
+        "paint_code": "120",
+        "slug": "rosso-folgore-mica-120",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/rosso-folgore-mica-120/",
+        "source_label": "PaintScratch 2021 Maserati",
+        "hex_value": "#541638"
+      },
+      {
+        "display_name": "Rosso Energia Tricoat",
+        "paint_code": "122",
+        "slug": "rosso-energia-tricoat-122",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/rosso-energia-tricoat-122/",
+        "source_label": "PaintScratch 2021 Maserati",
+        "hex_value": "#991D28"
+      },
+      {
+        "display_name": "Bianco Alpi Tricoat",
+        "paint_code": "216",
+        "slug": "bianco-alpi-tricoat-216",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/bianco-alpi-tricoat-216/",
+        "source_label": "PaintScratch 2021 Maserati",
+        "hex_value": "#F5EEE3"
+      },
+      {
+        "display_name": "Bianco",
+        "paint_code": "268",
+        "slug": "bianco-268",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/bianco-268/",
+        "source_label": "PaintScratch 2021 Maserati",
+        "hex_value": "#FCF7F1"
+      },
+      {
+        "display_name": "Blu Passione Mica",
+        "paint_code": "426",
+        "slug": "blu-passione-mica-426",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/blu-passione-mica-426/",
+        "source_label": "PaintScratch 2021 Maserati",
+        "hex_value": "#002042"
+      },
+      {
+        "display_name": "Champagne Metallescent",
+        "paint_code": "513",
+        "slug": "champagne-metallescent-513",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/champagne-metallescent-513/",
+        "source_label": "PaintScratch 2021 Maserati",
+        "hex_value": "#BAAA8E"
+      },
+      {
+        "display_name": "Bronzo Sienna Metallescent",
+        "paint_code": "525",
+        "slug": "bronzo-sienna-metallescent-525",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/bronzo-sienna-metallescent-525/",
+        "source_label": "PaintScratch 2021 Maserati",
+        "hex_value": "#877667"
+      },
+      {
+        "display_name": "Grigio Metallo Metallic",
+        "paint_code": "817",
+        "slug": "grigio-metallo-metallic-817",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/grigio-metallo-metallic-817/",
+        "source_label": "PaintScratch 2021 Maserati",
+        "hex_value": "#989E97"
+      },
+      {
+        "display_name": "Nero",
+        "paint_code": "820",
+        "slug": "nero-820",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/nero-820/",
+        "source_label": "PaintScratch 2021 Maserati",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Rosso Italiano Tricoat",
+        "paint_code": "15082",
+        "slug": "rosso-italiano-tricoat-15082",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/rosso-italiano-tricoat-15082/",
+        "source_label": "PaintScratch 2021 Maserati",
+        "hex_value": "#AC2222"
+      }
+    ],
+    "2022": [
+      {
+        "display_name": "Blu Emozione Mica",
+        "paint_code": "406",
+        "slug": "blu-emozione-mica-406",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/blu-emozione-mica-406/",
+        "source_label": "PaintScratch 2022 Maserati",
+        "hex_value": "#1C2865"
+      },
+      {
+        "display_name": "Grigio Maratea Metallescent",
+        "paint_code": "571",
+        "slug": "grigio-maratea-metallescent-571",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/grigio-maratea-metallescent-571/",
+        "source_label": "PaintScratch 2022 Maserati",
+        "hex_value": "#454246"
+      },
+      {
+        "display_name": "Grigio Metallic",
+        "paint_code": "672",
+        "slug": "grigio-metallic-672",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/grigio-metallic-672/",
+        "source_label": "PaintScratch 2022 Maserati",
+        "hex_value": "#6D6A6B"
+      },
+      {
+        "display_name": "Nero Ribelle Mica",
+        "paint_code": "815",
+        "slug": "nero-ribelle-mica-815",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/nero-ribelle-mica-815/",
+        "source_label": "PaintScratch 2022 Maserati",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Bianco",
+        "paint_code": "Q268",
+        "slug": "bianco-q268",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/bianco-q268/",
+        "source_label": "PaintScratch 2022 Maserati",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Grigio",
+        "paint_code": "Q672",
+        "slug": "grigio-q672",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/grigio-q672/",
+        "source_label": "PaintScratch 2022 Maserati",
+        "hex_value": "#A3A2A7"
+      },
+      {
+        "display_name": "Rosso Folgore Mica",
+        "paint_code": "120",
+        "slug": "rosso-folgore-mica-120",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/rosso-folgore-mica-120/",
+        "source_label": "PaintScratch 2022 Maserati",
+        "hex_value": "#541638"
+      },
+      {
+        "display_name": "Rosso Energia Tricoat",
+        "paint_code": "122",
+        "slug": "rosso-energia-tricoat-122",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/rosso-energia-tricoat-122/",
+        "source_label": "PaintScratch 2022 Maserati",
+        "hex_value": "#991D28"
+      },
+      {
+        "display_name": "Bianco Alpi Tricoat",
+        "paint_code": "216",
+        "slug": "bianco-alpi-tricoat-216",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/bianco-alpi-tricoat-216/",
+        "source_label": "PaintScratch 2022 Maserati",
+        "hex_value": "#F5EEE3"
+      },
+      {
+        "display_name": "Bianco",
+        "paint_code": "268",
+        "slug": "bianco-268",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/bianco-268/",
+        "source_label": "PaintScratch 2022 Maserati",
+        "hex_value": "#FCF7F1"
+      },
+      {
+        "display_name": "Blu Passione Mica",
+        "paint_code": "426",
+        "slug": "blu-passione-mica-426",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/blu-passione-mica-426/",
+        "source_label": "PaintScratch 2022 Maserati",
+        "hex_value": "#002042"
+      },
+      {
+        "display_name": "Champagne Metallescent",
+        "paint_code": "513",
+        "slug": "champagne-metallescent-513",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/champagne-metallescent-513/",
+        "source_label": "PaintScratch 2022 Maserati",
+        "hex_value": "#BAAA8E"
+      },
+      {
+        "display_name": "Bronzo Sienna Metallescent",
+        "paint_code": "525",
+        "slug": "bronzo-sienna-metallescent-525",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/bronzo-sienna-metallescent-525/",
+        "source_label": "PaintScratch 2022 Maserati",
+        "hex_value": "#877667"
+      },
+      {
+        "display_name": "Grigio Metallo Metallic",
+        "paint_code": "817",
+        "slug": "grigio-metallo-metallic-817",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/grigio-metallo-metallic-817/",
+        "source_label": "PaintScratch 2022 Maserati",
+        "hex_value": "#989E97"
+      },
+      {
+        "display_name": "Nero",
+        "paint_code": "820",
+        "slug": "nero-820",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/nero-820/",
+        "source_label": "PaintScratch 2022 Maserati",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Rosso Italiano Tricoat",
+        "paint_code": "15082",
+        "slug": "rosso-italiano-tricoat-15082",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/rosso-italiano-tricoat-15082/",
+        "source_label": "PaintScratch 2022 Maserati",
+        "hex_value": "#AC2222"
+      }
+    ],
+    "2023": [
+      {
+        "display_name": "Blu Emozione Mica",
+        "paint_code": "406",
+        "slug": "blu-emozione-mica-406",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/blu-emozione-mica-406/",
+        "source_label": "PaintScratch 2023 Maserati",
+        "hex_value": "#1C2865"
+      },
+      {
+        "display_name": "Grigio Maratea Metallescent",
+        "paint_code": "571",
+        "slug": "grigio-maratea-metallescent-571",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/grigio-maratea-metallescent-571/",
+        "source_label": "PaintScratch 2023 Maserati",
+        "hex_value": "#454246"
+      },
+      {
+        "display_name": "Grigio Metallic",
+        "paint_code": "672",
+        "slug": "grigio-metallic-672",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/grigio-metallic-672/",
+        "source_label": "PaintScratch 2023 Maserati",
+        "hex_value": "#6D6A6B"
+      },
+      {
+        "display_name": "Nero Ribelle Mica",
+        "paint_code": "815",
+        "slug": "nero-ribelle-mica-815",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/nero-ribelle-mica-815/",
+        "source_label": "PaintScratch 2023 Maserati",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Bianco",
+        "paint_code": "Q268",
+        "slug": "bianco-q268",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/bianco-q268/",
+        "source_label": "PaintScratch 2023 Maserati",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Grigio",
+        "paint_code": "Q672",
+        "slug": "grigio-q672",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/grigio-q672/",
+        "source_label": "PaintScratch 2023 Maserati",
+        "hex_value": "#A3A2A7"
+      },
+      {
+        "display_name": "Rosso Folgore Mica",
+        "paint_code": "120",
+        "slug": "rosso-folgore-mica-120",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/rosso-folgore-mica-120/",
+        "source_label": "PaintScratch 2023 Maserati",
+        "hex_value": "#541638"
+      },
+      {
+        "display_name": "Rosso Energia Tricoat",
+        "paint_code": "122",
+        "slug": "rosso-energia-tricoat-122",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/rosso-energia-tricoat-122/",
+        "source_label": "PaintScratch 2023 Maserati",
+        "hex_value": "#991D28"
+      },
+      {
+        "display_name": "Bianco Alpi Tricoat",
+        "paint_code": "216",
+        "slug": "bianco-alpi-tricoat-216",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/bianco-alpi-tricoat-216/",
+        "source_label": "PaintScratch 2023 Maserati",
+        "hex_value": "#F5EEE3"
+      },
+      {
+        "display_name": "Bianco",
+        "paint_code": "268",
+        "slug": "bianco-268",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/bianco-268/",
+        "source_label": "PaintScratch 2023 Maserati",
+        "hex_value": "#FCF7F1"
+      },
+      {
+        "display_name": "Blu Passione Mica",
+        "paint_code": "426",
+        "slug": "blu-passione-mica-426",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/blu-passione-mica-426/",
+        "source_label": "PaintScratch 2023 Maserati",
+        "hex_value": "#002042"
+      },
+      {
+        "display_name": "Champagne Metallescent",
+        "paint_code": "513",
+        "slug": "champagne-metallescent-513",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/champagne-metallescent-513/",
+        "source_label": "PaintScratch 2023 Maserati",
+        "hex_value": "#BAAA8E"
+      },
+      {
+        "display_name": "Bronzo Sienna Metallescent",
+        "paint_code": "525",
+        "slug": "bronzo-sienna-metallescent-525",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/bronzo-sienna-metallescent-525/",
+        "source_label": "PaintScratch 2023 Maserati",
+        "hex_value": "#877667"
+      },
+      {
+        "display_name": "Grigio Metallo Metallic",
+        "paint_code": "817",
+        "slug": "grigio-metallo-metallic-817",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/grigio-metallo-metallic-817/",
+        "source_label": "PaintScratch 2023 Maserati",
+        "hex_value": "#989E97"
+      },
+      {
+        "display_name": "Nero",
+        "paint_code": "820",
+        "slug": "nero-820",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/nero-820/",
+        "source_label": "PaintScratch 2023 Maserati",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Rosso Italiano Tricoat",
+        "paint_code": "15082",
+        "slug": "rosso-italiano-tricoat-15082",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/rosso-italiano-tricoat-15082/",
+        "source_label": "PaintScratch 2023 Maserati",
+        "hex_value": "#AC2222"
+      }
+    ],
+    "2024": [
+      {
+        "display_name": "Blu Emozione Mica",
+        "paint_code": "406",
+        "slug": "blu-emozione-mica-406",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/blu-emozione-mica-406/",
+        "source_label": "PaintScratch 2024 Maserati",
+        "hex_value": "#1C2865"
+      },
+      {
+        "display_name": "Grigio Maratea Metallescent",
+        "paint_code": "571",
+        "slug": "grigio-maratea-metallescent-571",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/grigio-maratea-metallescent-571/",
+        "source_label": "PaintScratch 2024 Maserati",
+        "hex_value": "#454246"
+      },
+      {
+        "display_name": "Grigio Metallic",
+        "paint_code": "672",
+        "slug": "grigio-metallic-672",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/grigio-metallic-672/",
+        "source_label": "PaintScratch 2024 Maserati",
+        "hex_value": "#6D6A6B"
+      },
+      {
+        "display_name": "Nero Ribelle Mica",
+        "paint_code": "815",
+        "slug": "nero-ribelle-mica-815",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/nero-ribelle-mica-815/",
+        "source_label": "PaintScratch 2024 Maserati",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Bianco",
+        "paint_code": "Q268",
+        "slug": "bianco-q268",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/bianco-q268/",
+        "source_label": "PaintScratch 2024 Maserati",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Grigio",
+        "paint_code": "Q672",
+        "slug": "grigio-q672",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/grigio-q672/",
+        "source_label": "PaintScratch 2024 Maserati",
+        "hex_value": "#A3A2A7"
+      },
+      {
+        "display_name": "Rosso Folgore Mica",
+        "paint_code": "120",
+        "slug": "rosso-folgore-mica-120",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/rosso-folgore-mica-120/",
+        "source_label": "PaintScratch 2024 Maserati",
+        "hex_value": "#541638"
+      },
+      {
+        "display_name": "Rosso Energia Tricoat",
+        "paint_code": "122",
+        "slug": "rosso-energia-tricoat-122",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/rosso-energia-tricoat-122/",
+        "source_label": "PaintScratch 2024 Maserati",
+        "hex_value": "#991D28"
+      },
+      {
+        "display_name": "Bianco Alpi Tricoat",
+        "paint_code": "216",
+        "slug": "bianco-alpi-tricoat-216",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/bianco-alpi-tricoat-216/",
+        "source_label": "PaintScratch 2024 Maserati",
+        "hex_value": "#F5EEE3"
+      },
+      {
+        "display_name": "Bianco",
+        "paint_code": "268",
+        "slug": "bianco-268",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/bianco-268/",
+        "source_label": "PaintScratch 2024 Maserati",
+        "hex_value": "#FCF7F1"
+      },
+      {
+        "display_name": "Blu Passione Mica",
+        "paint_code": "426",
+        "slug": "blu-passione-mica-426",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/blu-passione-mica-426/",
+        "source_label": "PaintScratch 2024 Maserati",
+        "hex_value": "#002042"
+      },
+      {
+        "display_name": "Champagne Metallescent",
+        "paint_code": "513",
+        "slug": "champagne-metallescent-513",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/champagne-metallescent-513/",
+        "source_label": "PaintScratch 2024 Maserati",
+        "hex_value": "#BAAA8E"
+      },
+      {
+        "display_name": "Bronzo Sienna Metallescent",
+        "paint_code": "525",
+        "slug": "bronzo-sienna-metallescent-525",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/bronzo-sienna-metallescent-525/",
+        "source_label": "PaintScratch 2024 Maserati",
+        "hex_value": "#877667"
+      },
+      {
+        "display_name": "Grigio Metallo Metallic",
+        "paint_code": "817",
+        "slug": "grigio-metallo-metallic-817",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/grigio-metallo-metallic-817/",
+        "source_label": "PaintScratch 2024 Maserati",
+        "hex_value": "#989E97"
+      },
+      {
+        "display_name": "Nero",
+        "paint_code": "820",
+        "slug": "nero-820",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/nero-820/",
+        "source_label": "PaintScratch 2024 Maserati",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Rosso Italiano Tricoat",
+        "paint_code": "15082",
+        "slug": "rosso-italiano-tricoat-15082",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/rosso-italiano-tricoat-15082/",
+        "source_label": "PaintScratch 2024 Maserati",
+        "hex_value": "#AC2222"
+      }
+    ],
+    "2025": [
+      {
+        "display_name": "Blu Emozione Mica",
+        "paint_code": "406",
+        "slug": "blu-emozione-mica-406",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/blu-emozione-mica-406/",
+        "source_label": "PaintScratch 2025 Maserati",
+        "hex_value": "#1C2865"
+      },
+      {
+        "display_name": "Grigio Maratea Metallescent",
+        "paint_code": "571",
+        "slug": "grigio-maratea-metallescent-571",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/grigio-maratea-metallescent-571/",
+        "source_label": "PaintScratch 2025 Maserati",
+        "hex_value": "#454246"
+      },
+      {
+        "display_name": "Grigio Metallic",
+        "paint_code": "672",
+        "slug": "grigio-metallic-672",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/grigio-metallic-672/",
+        "source_label": "PaintScratch 2025 Maserati",
+        "hex_value": "#6D6A6B"
+      },
+      {
+        "display_name": "Nero Ribelle Mica",
+        "paint_code": "815",
+        "slug": "nero-ribelle-mica-815",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/nero-ribelle-mica-815/",
+        "source_label": "PaintScratch 2025 Maserati",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Bianco",
+        "paint_code": "Q268",
+        "slug": "bianco-q268",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/bianco-q268/",
+        "source_label": "PaintScratch 2025 Maserati",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Grigio",
+        "paint_code": "Q672",
+        "slug": "grigio-q672",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/grigio-q672/",
+        "source_label": "PaintScratch 2025 Maserati",
+        "hex_value": "#A3A2A7"
+      },
+      {
+        "display_name": "Rosso Folgore Mica",
+        "paint_code": "120",
+        "slug": "rosso-folgore-mica-120",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/rosso-folgore-mica-120/",
+        "source_label": "PaintScratch 2025 Maserati",
+        "hex_value": "#541638"
+      },
+      {
+        "display_name": "Rosso Energia Tricoat",
+        "paint_code": "122",
+        "slug": "rosso-energia-tricoat-122",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/rosso-energia-tricoat-122/",
+        "source_label": "PaintScratch 2025 Maserati",
+        "hex_value": "#991D28"
+      },
+      {
+        "display_name": "Bianco Alpi Tricoat",
+        "paint_code": "216",
+        "slug": "bianco-alpi-tricoat-216",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/bianco-alpi-tricoat-216/",
+        "source_label": "PaintScratch 2025 Maserati",
+        "hex_value": "#F5EEE3"
+      },
+      {
+        "display_name": "Bianco",
+        "paint_code": "268",
+        "slug": "bianco-268",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/bianco-268/",
+        "source_label": "PaintScratch 2025 Maserati",
+        "hex_value": "#FCF7F1"
+      },
+      {
+        "display_name": "Blu Passione Mica",
+        "paint_code": "426",
+        "slug": "blu-passione-mica-426",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/blu-passione-mica-426/",
+        "source_label": "PaintScratch 2025 Maserati",
+        "hex_value": "#002042"
+      },
+      {
+        "display_name": "Champagne Metallescent",
+        "paint_code": "513",
+        "slug": "champagne-metallescent-513",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/champagne-metallescent-513/",
+        "source_label": "PaintScratch 2025 Maserati",
+        "hex_value": "#BAAA8E"
+      },
+      {
+        "display_name": "Bronzo Sienna Metallescent",
+        "paint_code": "525",
+        "slug": "bronzo-sienna-metallescent-525",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/bronzo-sienna-metallescent-525/",
+        "source_label": "PaintScratch 2025 Maserati",
+        "hex_value": "#877667"
+      },
+      {
+        "display_name": "Grigio Metallo Metallic",
+        "paint_code": "817",
+        "slug": "grigio-metallo-metallic-817",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/grigio-metallo-metallic-817/",
+        "source_label": "PaintScratch 2025 Maserati",
+        "hex_value": "#989E97"
+      },
+      {
+        "display_name": "Nero",
+        "paint_code": "820",
+        "slug": "nero-820",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/nero-820/",
+        "source_label": "PaintScratch 2025 Maserati",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Rosso Italiano Tricoat",
+        "paint_code": "15082",
+        "slug": "rosso-italiano-tricoat-15082",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/rosso-italiano-tricoat-15082/",
+        "source_label": "PaintScratch 2025 Maserati",
+        "hex_value": "#AC2222"
+      }
+    ],
+    "2026": [
+      {
+        "display_name": "Nero Ribelle Mica",
+        "paint_code": "815",
+        "slug": "nero-ribelle-mica-815",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/nero-ribelle-mica-815/",
+        "source_label": "PaintScratch 2026 Maserati",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Blu Universo",
+        "paint_code": "002",
+        "slug": "blu-universo-002",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/blu-universo-002/",
+        "source_label": "PaintScratch 2026 Maserati",
+        "hex_value": "#10121D"
+      },
+      {
+        "display_name": "Blu Nobile Tricoat",
+        "paint_code": "004",
+        "slug": "blu-nobile-tricoat-004",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/blu-nobile-tricoat-004/",
+        "source_label": "PaintScratch 2026 Maserati",
+        "hex_value": "#0C1014"
+      },
+      {
+        "display_name": "Giallo Genio",
+        "paint_code": "21",
+        "slug": "giallo-genio-21",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/giallo-genio-21/",
+        "source_label": "PaintScratch 2026 Maserati",
+        "hex_value": "#221A18"
+      },
+      {
+        "display_name": "Vesuvio Grey",
+        "paint_code": "035",
+        "slug": "vesuvio-grey-035",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/vesuvio-grey-035/",
+        "source_label": "PaintScratch 2026 Maserati",
+        "hex_value": "#2D2E2F"
+      },
+      {
+        "display_name": "Blu",
+        "paint_code": "071",
+        "slug": "blu-071",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/blu-071/",
+        "source_label": "PaintScratch 2026 Maserati",
+        "hex_value": "#040507"
+      },
+      {
+        "display_name": "Vesuvio Grey",
+        "paint_code": "103",
+        "slug": "vesuvio-grey-103",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/vesuvio-grey-103/",
+        "source_label": "PaintScratch 2026 Maserati",
+        "hex_value": "#2A2B2D"
+      },
+      {
+        "display_name": "Rame",
+        "paint_code": "121",
+        "slug": "rame-121",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/rame-121/",
+        "source_label": "PaintScratch 2026 Maserati",
+        "hex_value": "#1E0E09"
+      },
+      {
+        "display_name": "White",
+        "paint_code": "217",
+        "slug": "white-217",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/white-217/",
+        "source_label": "PaintScratch 2026 Maserati",
+        "hex_value": "#E1E6E6"
+      },
+      {
+        "display_name": "Bianco Astro",
+        "paint_code": "252",
+        "slug": "bianco-astro-252",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/bianco-astro-252/",
+        "source_label": "PaintScratch 2026 Maserati",
+        "hex_value": "#7B8185"
+      },
+      {
+        "display_name": "Vulcano Black",
+        "paint_code": "408",
+        "slug": "vulcano-black-408",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/vulcano-black-408/",
+        "source_label": "PaintScratch 2026 Maserati",
+        "hex_value": "#0B0C0E"
+      },
+      {
+        "display_name": "Blu Modena",
+        "paint_code": "461",
+        "slug": "blu-modena-461",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/blu-modena-461/",
+        "source_label": "PaintScratch 2026 Maserati",
+        "hex_value": "#0E1620"
+      },
+      {
+        "display_name": "Blu Sofisticato",
+        "paint_code": "481",
+        "slug": "blu-sofisticato-481",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/blu-sofisticato-481/",
+        "source_label": "PaintScratch 2026 Maserati",
+        "hex_value": "#13335E"
+      },
+      {
+        "display_name": "Blu Intenso",
+        "paint_code": "486",
+        "slug": "blu-intenso-486",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/blu-intenso-486/",
+        "source_label": "PaintScratch 2026 Maserati",
+        "hex_value": "#06102C"
+      },
+      {
+        "display_name": "Blu Infinito Tricoat",
+        "paint_code": "543",
+        "slug": "blu-infinito-tricoat-543",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/blu-infinito-tricoat-543/",
+        "source_label": "PaintScratch 2026 Maserati",
+        "hex_value": "#004584"
+      },
+      {
+        "display_name": "Giallo Genio Matte",
+        "paint_code": "553",
+        "slug": "giallo-genio-matte-553",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/giallo-genio-matte-553/",
+        "source_label": "PaintScratch 2026 Maserati",
+        "hex_value": "#E3A223"
+      }
+    ],
+    "2027": [
+      {
+        "display_name": "Nero Ribelle Mica",
+        "paint_code": "815",
+        "slug": "nero-ribelle-mica-815",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/nero-ribelle-mica-815/",
+        "source_label": "PaintScratch 2027 Maserati",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Blu Universo",
+        "paint_code": "002",
+        "slug": "blu-universo-002",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/blu-universo-002/",
+        "source_label": "PaintScratch 2027 Maserati",
+        "hex_value": "#10121D"
+      },
+      {
+        "display_name": "Blu Nobile Tricoat",
+        "paint_code": "004",
+        "slug": "blu-nobile-tricoat-004",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/blu-nobile-tricoat-004/",
+        "source_label": "PaintScratch 2027 Maserati",
+        "hex_value": "#0C1014"
+      },
+      {
+        "display_name": "Giallo Genio",
+        "paint_code": "21",
+        "slug": "giallo-genio-21",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/giallo-genio-21/",
+        "source_label": "PaintScratch 2027 Maserati",
+        "hex_value": "#221A18"
+      },
+      {
+        "display_name": "Vesuvio Grey",
+        "paint_code": "035",
+        "slug": "vesuvio-grey-035",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/vesuvio-grey-035/",
+        "source_label": "PaintScratch 2027 Maserati",
+        "hex_value": "#2D2E2F"
+      },
+      {
+        "display_name": "Blu",
+        "paint_code": "071",
+        "slug": "blu-071",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/blu-071/",
+        "source_label": "PaintScratch 2027 Maserati",
+        "hex_value": "#040507"
+      },
+      {
+        "display_name": "Vesuvio Grey",
+        "paint_code": "103",
+        "slug": "vesuvio-grey-103",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/vesuvio-grey-103/",
+        "source_label": "PaintScratch 2027 Maserati",
+        "hex_value": "#2A2B2D"
+      },
+      {
+        "display_name": "Rame",
+        "paint_code": "121",
+        "slug": "rame-121",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/rame-121/",
+        "source_label": "PaintScratch 2027 Maserati",
+        "hex_value": "#1E0E09"
+      },
+      {
+        "display_name": "White",
+        "paint_code": "217",
+        "slug": "white-217",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/white-217/",
+        "source_label": "PaintScratch 2027 Maserati",
+        "hex_value": "#E1E6E6"
+      },
+      {
+        "display_name": "Bianco Astro",
+        "paint_code": "252",
+        "slug": "bianco-astro-252",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/bianco-astro-252/",
+        "source_label": "PaintScratch 2027 Maserati",
+        "hex_value": "#7B8185"
+      },
+      {
+        "display_name": "Vulcano Black",
+        "paint_code": "408",
+        "slug": "vulcano-black-408",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/vulcano-black-408/",
+        "source_label": "PaintScratch 2027 Maserati",
+        "hex_value": "#0B0C0E"
+      },
+      {
+        "display_name": "Blu Modena",
+        "paint_code": "461",
+        "slug": "blu-modena-461",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/blu-modena-461/",
+        "source_label": "PaintScratch 2027 Maserati",
+        "hex_value": "#0E1620"
+      },
+      {
+        "display_name": "Blu Sofisticato",
+        "paint_code": "481",
+        "slug": "blu-sofisticato-481",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/blu-sofisticato-481/",
+        "source_label": "PaintScratch 2027 Maserati",
+        "hex_value": "#13335E"
+      },
+      {
+        "display_name": "Blu Intenso",
+        "paint_code": "486",
+        "slug": "blu-intenso-486",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/blu-intenso-486/",
+        "source_label": "PaintScratch 2027 Maserati",
+        "hex_value": "#06102C"
+      },
+      {
+        "display_name": "Blu Infinito Tricoat",
+        "paint_code": "543",
+        "slug": "blu-infinito-tricoat-543",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/blu-infinito-tricoat-543/",
+        "source_label": "PaintScratch 2027 Maserati",
+        "hex_value": "#004584"
+      },
+      {
+        "display_name": "Giallo Genio Matte",
+        "paint_code": "553",
+        "slug": "giallo-genio-matte-553",
+        "reference_url": "https://www.paintscratch.com/colors/maserati/giallo-genio-matte-553/",
+        "source_label": "PaintScratch 2027 Maserati",
+        "hex_value": "#E3A223"
+      }
+    ]
+  }
+}

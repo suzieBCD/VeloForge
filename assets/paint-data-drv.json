@@ -1,0 +1,38 @@
+{
+  "All Models": {
+    "2010": [
+      {
+        "display_name": "Beige",
+        "paint_code": "F5285F",
+        "slug": "beige-f5285f",
+        "reference_url": "https://www.paintscratch.com/colors/drv/beige-f5285f/",
+        "source_label": "PaintScratch 2010 DRV",
+        "hex_value": "#EFE7AF"
+      },
+      {
+        "display_name": "Obsidian Black",
+        "paint_code": "738599",
+        "slug": "obsidian-black-738599",
+        "reference_url": "https://www.paintscratch.com/colors/drv/obsidian-black-738599/",
+        "source_label": "PaintScratch 2010 DRV",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Cherry Blossom White (DFHS 866)",
+        "paint_code": "746784F",
+        "slug": "cherry-blossom-white-dfhs-866-746784f",
+        "reference_url": "https://www.paintscratch.com/colors/drv/cherry-blossom-white-dfhs-866-746784f/",
+        "source_label": "PaintScratch 2010 DRV",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Mahogany Red",
+        "paint_code": "767094F",
+        "slug": "mahogany-red-767094f",
+        "reference_url": "https://www.paintscratch.com/colors/drv/mahogany-red-767094f/",
+        "source_label": "PaintScratch 2010 DRV",
+        "hex_value": "#76251A"
+      }
+    ]
+  }
+}

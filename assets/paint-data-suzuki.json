@@ -1,0 +1,4400 @@
+{
+  "All Models": {
+    "1979": [
+      {
+        "display_name": "Fantasy Black",
+        "paint_code": "07B",
+        "slug": "fantasy-black-07b",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/fantasy-black-07b/",
+        "source_label": "PaintScratch 1979 Suzuki",
+        "hex_value": "#0D1411"
+      }
+    ],
+    "1980": [
+      {
+        "display_name": "Fantasy Black",
+        "paint_code": "07B",
+        "slug": "fantasy-black-07b",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/fantasy-black-07b/",
+        "source_label": "PaintScratch 1980 Suzuki",
+        "hex_value": "#0D1411"
+      },
+      {
+        "display_name": "Wheel Silver Metallic (Samurai/Side)",
+        "paint_code": "27S",
+        "slug": "wheel-silver-metallic-samuraiside-27s",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/wheel-silver-metallic-samuraiside-27s/",
+        "source_label": "PaintScratch 1980 Suzuki",
+        "hex_value": "#D3DFDC"
+      },
+      {
+        "display_name": "Medium Red",
+        "paint_code": "37V",
+        "slug": "medium-red-37v",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/medium-red-37v/",
+        "source_label": "PaintScratch 1980 Suzuki",
+        "hex_value": "#971816"
+      }
+    ],
+    "1981": [
+      {
+        "display_name": "Fantasy Black",
+        "paint_code": "07B",
+        "slug": "fantasy-black-07b",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/fantasy-black-07b/",
+        "source_label": "PaintScratch 1981 Suzuki",
+        "hex_value": "#0D1411"
+      },
+      {
+        "display_name": "Wheel Silver Metallic (Samurai/Side)",
+        "paint_code": "27S",
+        "slug": "wheel-silver-metallic-samuraiside-27s",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/wheel-silver-metallic-samuraiside-27s/",
+        "source_label": "PaintScratch 1981 Suzuki",
+        "hex_value": "#D3DFDC"
+      },
+      {
+        "display_name": "Medium Red",
+        "paint_code": "37V",
+        "slug": "medium-red-37v",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/medium-red-37v/",
+        "source_label": "PaintScratch 1981 Suzuki",
+        "hex_value": "#971816"
+      }
+    ],
+    "1982": [
+      {
+        "display_name": "Fantasy Black",
+        "paint_code": "07B",
+        "slug": "fantasy-black-07b",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/fantasy-black-07b/",
+        "source_label": "PaintScratch 1982 Suzuki",
+        "hex_value": "#0D1411"
+      },
+      {
+        "display_name": "Wheel Silver Metallic (Samurai/Side)",
+        "paint_code": "27S",
+        "slug": "wheel-silver-metallic-samuraiside-27s",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/wheel-silver-metallic-samuraiside-27s/",
+        "source_label": "PaintScratch 1982 Suzuki",
+        "hex_value": "#D3DFDC"
+      },
+      {
+        "display_name": "Medium Red",
+        "paint_code": "37V",
+        "slug": "medium-red-37v",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/medium-red-37v/",
+        "source_label": "PaintScratch 1982 Suzuki",
+        "hex_value": "#971816"
+      }
+    ],
+    "1983": [
+      {
+        "display_name": "Fantasy Black",
+        "paint_code": "07B",
+        "slug": "fantasy-black-07b",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/fantasy-black-07b/",
+        "source_label": "PaintScratch 1983 Suzuki",
+        "hex_value": "#0D1411"
+      },
+      {
+        "display_name": "St. Germain Red",
+        "paint_code": "15P",
+        "slug": "st-germain-red-15p",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/st-germain-red-15p/",
+        "source_label": "PaintScratch 1983 Suzuki",
+        "hex_value": "#C42919"
+      },
+      {
+        "display_name": "Crystal Silver Metallic",
+        "paint_code": "18J",
+        "slug": "crystal-silver-metallic-18j",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/crystal-silver-metallic-18j/",
+        "source_label": "PaintScratch 1983 Suzuki",
+        "hex_value": "#DDE0E3"
+      },
+      {
+        "display_name": "Wheel Silver Metallic (Samurai/Side)",
+        "paint_code": "27S",
+        "slug": "wheel-silver-metallic-samuraiside-27s",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/wheel-silver-metallic-samuraiside-27s/",
+        "source_label": "PaintScratch 1983 Suzuki",
+        "hex_value": "#D3DFDC"
+      },
+      {
+        "display_name": "Medium Red",
+        "paint_code": "37V",
+        "slug": "medium-red-37v",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/medium-red-37v/",
+        "source_label": "PaintScratch 1983 Suzuki",
+        "hex_value": "#971816"
+      }
+    ],
+    "1984": [
+      {
+        "display_name": "Fantasy Black",
+        "paint_code": "07B",
+        "slug": "fantasy-black-07b",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/fantasy-black-07b/",
+        "source_label": "PaintScratch 1984 Suzuki",
+        "hex_value": "#0D1411"
+      },
+      {
+        "display_name": "St. Germain Red",
+        "paint_code": "15P",
+        "slug": "st-germain-red-15p",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/st-germain-red-15p/",
+        "source_label": "PaintScratch 1984 Suzuki",
+        "hex_value": "#C42919"
+      },
+      {
+        "display_name": "Crystal Silver Metallic",
+        "paint_code": "18J",
+        "slug": "crystal-silver-metallic-18j",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/crystal-silver-metallic-18j/",
+        "source_label": "PaintScratch 1984 Suzuki",
+        "hex_value": "#DDE0E3"
+      },
+      {
+        "display_name": "Wheel Silver Metallic (Samurai/Side)",
+        "paint_code": "27S",
+        "slug": "wheel-silver-metallic-samuraiside-27s",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/wheel-silver-metallic-samuraiside-27s/",
+        "source_label": "PaintScratch 1984 Suzuki",
+        "hex_value": "#D3DFDC"
+      },
+      {
+        "display_name": "Medium Red",
+        "paint_code": "37V",
+        "slug": "medium-red-37v",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/medium-red-37v/",
+        "source_label": "PaintScratch 1984 Suzuki",
+        "hex_value": "#971816"
+      }
+    ],
+    "1985": [
+      {
+        "display_name": "Fantasy Black",
+        "paint_code": "07B",
+        "slug": "fantasy-black-07b",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/fantasy-black-07b/",
+        "source_label": "PaintScratch 1985 Suzuki",
+        "hex_value": "#0D1411"
+      },
+      {
+        "display_name": "St. Germain Red",
+        "paint_code": "15P",
+        "slug": "st-germain-red-15p",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/st-germain-red-15p/",
+        "source_label": "PaintScratch 1985 Suzuki",
+        "hex_value": "#C42919"
+      },
+      {
+        "display_name": "Crystal Silver Metallic",
+        "paint_code": "18J",
+        "slug": "crystal-silver-metallic-18j",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/crystal-silver-metallic-18j/",
+        "source_label": "PaintScratch 1985 Suzuki",
+        "hex_value": "#DDE0E3"
+      },
+      {
+        "display_name": "Wheel Silver Metallic (Samurai/Side)",
+        "paint_code": "27S",
+        "slug": "wheel-silver-metallic-samuraiside-27s",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/wheel-silver-metallic-samuraiside-27s/",
+        "source_label": "PaintScratch 1985 Suzuki",
+        "hex_value": "#D3DFDC"
+      },
+      {
+        "display_name": "Medium Red",
+        "paint_code": "37V",
+        "slug": "medium-red-37v",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/medium-red-37v/",
+        "source_label": "PaintScratch 1985 Suzuki",
+        "hex_value": "#971816"
+      }
+    ],
+    "1986": [
+      {
+        "display_name": "Peruchet Red",
+        "paint_code": "21L",
+        "slug": "peruchet-red-21l",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/peruchet-red-21l/",
+        "source_label": "PaintScratch 1986 Suzuki",
+        "hex_value": "#9A0A0A"
+      },
+      {
+        "display_name": "White",
+        "paint_code": "17A",
+        "slug": "white-17a",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/white-17a/",
+        "source_label": "PaintScratch 1986 Suzuki",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Fantasy Black",
+        "paint_code": "07B",
+        "slug": "fantasy-black-07b",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/fantasy-black-07b/",
+        "source_label": "PaintScratch 1986 Suzuki",
+        "hex_value": "#0D1411"
+      },
+      {
+        "display_name": "Iceland Blue Metallic",
+        "paint_code": "09R",
+        "slug": "iceland-blue-metallic-09r",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/iceland-blue-metallic-09r/",
+        "source_label": "PaintScratch 1986 Suzuki",
+        "hex_value": "#91ADB7"
+      },
+      {
+        "display_name": "St. Germain Red",
+        "paint_code": "15P",
+        "slug": "st-germain-red-15p",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/st-germain-red-15p/",
+        "source_label": "PaintScratch 1986 Suzuki",
+        "hex_value": "#C42919"
+      },
+      {
+        "display_name": "Crystal Silver Metallic",
+        "paint_code": "18J",
+        "slug": "crystal-silver-metallic-18j",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/crystal-silver-metallic-18j/",
+        "source_label": "PaintScratch 1986 Suzuki",
+        "hex_value": "#DDE0E3"
+      },
+      {
+        "display_name": "Gray Metallic",
+        "paint_code": "20V",
+        "slug": "gray-metallic-20v",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/gray-metallic-20v/",
+        "source_label": "PaintScratch 1986 Suzuki",
+        "hex_value": "#888C90"
+      },
+      {
+        "display_name": "Worcester Blue Metallic",
+        "paint_code": "24U",
+        "slug": "worcester-blue-metallic-24u",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/worcester-blue-metallic-24u/",
+        "source_label": "PaintScratch 1986 Suzuki",
+        "hex_value": "#465B70"
+      },
+      {
+        "display_name": "Wheel Silver Metallic (Samurai/Side)",
+        "paint_code": "27S",
+        "slug": "wheel-silver-metallic-samuraiside-27s",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/wheel-silver-metallic-samuraiside-27s/",
+        "source_label": "PaintScratch 1986 Suzuki",
+        "hex_value": "#D3DFDC"
+      },
+      {
+        "display_name": "Medium Red",
+        "paint_code": "37V",
+        "slug": "medium-red-37v",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/medium-red-37v/",
+        "source_label": "PaintScratch 1986 Suzuki",
+        "hex_value": "#971816"
+      }
+    ],
+    "1987": [
+      {
+        "display_name": "Peruchet Red",
+        "paint_code": "21L",
+        "slug": "peruchet-red-21l",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/peruchet-red-21l/",
+        "source_label": "PaintScratch 1987 Suzuki",
+        "hex_value": "#9A0A0A"
+      },
+      {
+        "display_name": "White",
+        "paint_code": "17A",
+        "slug": "white-17a",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/white-17a/",
+        "source_label": "PaintScratch 1987 Suzuki",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Fantasy Black",
+        "paint_code": "07B",
+        "slug": "fantasy-black-07b",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/fantasy-black-07b/",
+        "source_label": "PaintScratch 1987 Suzuki",
+        "hex_value": "#0D1411"
+      },
+      {
+        "display_name": "Iceland Blue Metallic",
+        "paint_code": "09R",
+        "slug": "iceland-blue-metallic-09r",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/iceland-blue-metallic-09r/",
+        "source_label": "PaintScratch 1987 Suzuki",
+        "hex_value": "#91ADB7"
+      },
+      {
+        "display_name": "St. Germain Red",
+        "paint_code": "15P",
+        "slug": "st-germain-red-15p",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/st-germain-red-15p/",
+        "source_label": "PaintScratch 1987 Suzuki",
+        "hex_value": "#C42919"
+      },
+      {
+        "display_name": "Crystal Silver Metallic",
+        "paint_code": "18J",
+        "slug": "crystal-silver-metallic-18j",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/crystal-silver-metallic-18j/",
+        "source_label": "PaintScratch 1987 Suzuki",
+        "hex_value": "#DDE0E3"
+      },
+      {
+        "display_name": "Gray Metallic",
+        "paint_code": "20V",
+        "slug": "gray-metallic-20v",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/gray-metallic-20v/",
+        "source_label": "PaintScratch 1987 Suzuki",
+        "hex_value": "#888C90"
+      },
+      {
+        "display_name": "Sahara Tan",
+        "paint_code": "24N",
+        "slug": "sahara-tan-24n",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/sahara-tan-24n/",
+        "source_label": "PaintScratch 1987 Suzuki",
+        "hex_value": "#BBAF95"
+      },
+      {
+        "display_name": "Neptune Blue",
+        "paint_code": "24P",
+        "slug": "neptune-blue-24p",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/neptune-blue-24p/",
+        "source_label": "PaintScratch 1987 Suzuki",
+        "hex_value": "#231A4C"
+      },
+      {
+        "display_name": "Worcester Blue Metallic",
+        "paint_code": "24U",
+        "slug": "worcester-blue-metallic-24u",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/worcester-blue-metallic-24u/",
+        "source_label": "PaintScratch 1987 Suzuki",
+        "hex_value": "#465B70"
+      },
+      {
+        "display_name": "Teal Green Metallic",
+        "paint_code": "27G",
+        "slug": "teal-green-metallic-27g",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/teal-green-metallic-27g/",
+        "source_label": "PaintScratch 1987 Suzuki",
+        "hex_value": "#589872"
+      },
+      {
+        "display_name": "Wheel Silver Metallic (Samurai/Side)",
+        "paint_code": "27S",
+        "slug": "wheel-silver-metallic-samuraiside-27s",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/wheel-silver-metallic-samuraiside-27s/",
+        "source_label": "PaintScratch 1987 Suzuki",
+        "hex_value": "#D3DFDC"
+      },
+      {
+        "display_name": "Medium Red",
+        "paint_code": "37V",
+        "slug": "medium-red-37v",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/medium-red-37v/",
+        "source_label": "PaintScratch 1987 Suzuki",
+        "hex_value": "#971816"
+      }
+    ],
+    "1988": [
+      {
+        "display_name": "Peruchet Red",
+        "paint_code": "21L",
+        "slug": "peruchet-red-21l",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/peruchet-red-21l/",
+        "source_label": "PaintScratch 1988 Suzuki",
+        "hex_value": "#9A0A0A"
+      },
+      {
+        "display_name": "White",
+        "paint_code": "17A",
+        "slug": "white-17a",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/white-17a/",
+        "source_label": "PaintScratch 1988 Suzuki",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Saturn Black Metallic",
+        "paint_code": "0DG",
+        "slug": "saturn-black-metallic-0dg",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/saturn-black-metallic-0dg/",
+        "source_label": "PaintScratch 1988 Suzuki",
+        "hex_value": "#121713"
+      },
+      {
+        "display_name": "Fantasy Black",
+        "paint_code": "07B",
+        "slug": "fantasy-black-07b",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/fantasy-black-07b/",
+        "source_label": "PaintScratch 1988 Suzuki",
+        "hex_value": "#0D1411"
+      },
+      {
+        "display_name": "Iceland Blue Metallic",
+        "paint_code": "09R",
+        "slug": "iceland-blue-metallic-09r",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/iceland-blue-metallic-09r/",
+        "source_label": "PaintScratch 1988 Suzuki",
+        "hex_value": "#91ADB7"
+      },
+      {
+        "display_name": "St. Germain Red",
+        "paint_code": "15P",
+        "slug": "st-germain-red-15p",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/st-germain-red-15p/",
+        "source_label": "PaintScratch 1988 Suzuki",
+        "hex_value": "#C42919"
+      },
+      {
+        "display_name": "Crystal Silver Metallic",
+        "paint_code": "18J",
+        "slug": "crystal-silver-metallic-18j",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/crystal-silver-metallic-18j/",
+        "source_label": "PaintScratch 1988 Suzuki",
+        "hex_value": "#DDE0E3"
+      },
+      {
+        "display_name": "Gray Metallic",
+        "paint_code": "20V",
+        "slug": "gray-metallic-20v",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/gray-metallic-20v/",
+        "source_label": "PaintScratch 1988 Suzuki",
+        "hex_value": "#888C90"
+      },
+      {
+        "display_name": "Sahara Tan",
+        "paint_code": "24N",
+        "slug": "sahara-tan-24n",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/sahara-tan-24n/",
+        "source_label": "PaintScratch 1988 Suzuki",
+        "hex_value": "#BBAF95"
+      },
+      {
+        "display_name": "Neptune Blue",
+        "paint_code": "24P",
+        "slug": "neptune-blue-24p",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/neptune-blue-24p/",
+        "source_label": "PaintScratch 1988 Suzuki",
+        "hex_value": "#231A4C"
+      },
+      {
+        "display_name": "Worcester Blue Metallic",
+        "paint_code": "24U",
+        "slug": "worcester-blue-metallic-24u",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/worcester-blue-metallic-24u/",
+        "source_label": "PaintScratch 1988 Suzuki",
+        "hex_value": "#465B70"
+      },
+      {
+        "display_name": "Teal Green Metallic",
+        "paint_code": "27G",
+        "slug": "teal-green-metallic-27g",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/teal-green-metallic-27g/",
+        "source_label": "PaintScratch 1988 Suzuki",
+        "hex_value": "#589872"
+      },
+      {
+        "display_name": "Wheel Silver Metallic (Samurai/Side)",
+        "paint_code": "27S",
+        "slug": "wheel-silver-metallic-samuraiside-27s",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/wheel-silver-metallic-samuraiside-27s/",
+        "source_label": "PaintScratch 1988 Suzuki",
+        "hex_value": "#D3DFDC"
+      },
+      {
+        "display_name": "Super Gray (Wheel and Front Grille)",
+        "paint_code": "37E",
+        "slug": "super-gray-wheel-and-front-grille-37e",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/super-gray-wheel-and-front-grille-37e/",
+        "source_label": "PaintScratch 1988 Suzuki",
+        "hex_value": "#BAB9B8"
+      },
+      {
+        "display_name": "Nova Brown Metallic",
+        "paint_code": "37T",
+        "slug": "nova-brown-metallic-37t",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/nova-brown-metallic-37t/",
+        "source_label": "PaintScratch 1988 Suzuki",
+        "hex_value": "#B79E6F"
+      },
+      {
+        "display_name": "Medium Red",
+        "paint_code": "37V",
+        "slug": "medium-red-37v",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/medium-red-37v/",
+        "source_label": "PaintScratch 1988 Suzuki",
+        "hex_value": "#971816"
+      }
+    ],
+    "1989": [
+      {
+        "display_name": "White",
+        "paint_code": "17A",
+        "slug": "white-17a",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/white-17a/",
+        "source_label": "PaintScratch 1989 Suzuki",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Dark Blue Metallic",
+        "paint_code": "0AA",
+        "slug": "dark-blue-metallic-0aa",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/dark-blue-metallic-0aa/",
+        "source_label": "PaintScratch 1989 Suzuki",
+        "hex_value": "#536C7B"
+      },
+      {
+        "display_name": "Saturn Black Metallic",
+        "paint_code": "0DG",
+        "slug": "saturn-black-metallic-0dg",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/saturn-black-metallic-0dg/",
+        "source_label": "PaintScratch 1989 Suzuki",
+        "hex_value": "#121713"
+      },
+      {
+        "display_name": "Fantasy Black",
+        "paint_code": "07B",
+        "slug": "fantasy-black-07b",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/fantasy-black-07b/",
+        "source_label": "PaintScratch 1989 Suzuki",
+        "hex_value": "#0D1411"
+      },
+      {
+        "display_name": "St. Germain Red",
+        "paint_code": "15P",
+        "slug": "st-germain-red-15p",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/st-germain-red-15p/",
+        "source_label": "PaintScratch 1989 Suzuki",
+        "hex_value": "#C42919"
+      },
+      {
+        "display_name": "Crystal Silver Metallic",
+        "paint_code": "18J",
+        "slug": "crystal-silver-metallic-18j",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/crystal-silver-metallic-18j/",
+        "source_label": "PaintScratch 1989 Suzuki",
+        "hex_value": "#DDE0E3"
+      },
+      {
+        "display_name": "Superior White",
+        "paint_code": "26U",
+        "slug": "superior-white-26u",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/superior-white-26u/",
+        "source_label": "PaintScratch 1989 Suzuki",
+        "hex_value": "#FEFDF6"
+      },
+      {
+        "display_name": "Wheel Silver Metallic (Samurai/Side)",
+        "paint_code": "27S",
+        "slug": "wheel-silver-metallic-samuraiside-27s",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/wheel-silver-metallic-samuraiside-27s/",
+        "source_label": "PaintScratch 1989 Suzuki",
+        "hex_value": "#D3DFDC"
+      },
+      {
+        "display_name": "Medium Red",
+        "paint_code": "37V",
+        "slug": "medium-red-37v",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/medium-red-37v/",
+        "source_label": "PaintScratch 1989 Suzuki",
+        "hex_value": "#971816"
+      },
+      {
+        "display_name": "Charcoal Gray Metallic (Samurai Wheel)",
+        "paint_code": "38B",
+        "slug": "charcoal-gray-metallic-samurai-wheel-38b",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/charcoal-gray-metallic-samurai-wheel-38b/",
+        "source_label": "PaintScratch 1989 Suzuki",
+        "hex_value": "#77797F"
+      },
+      {
+        "display_name": "Sand Beige Metallic",
+        "paint_code": "ODM",
+        "slug": "sand-beige-metallic-odm",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/sand-beige-metallic-odm/",
+        "source_label": "PaintScratch 1989 Suzuki",
+        "hex_value": "#C3AE93"
+      },
+      {
+        "display_name": "Atlantic Blue Metallic",
+        "paint_code": "OEN",
+        "slug": "atlantic-blue-metallic-oen",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/atlantic-blue-metallic-oen/",
+        "source_label": "PaintScratch 1989 Suzuki",
+        "hex_value": "#80A3BE"
+      },
+      {
+        "display_name": "Radiant Red Pearl",
+        "paint_code": "OFT",
+        "slug": "radiant-red-pearl-oft",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/radiant-red-pearl-oft/",
+        "source_label": "PaintScratch 1989 Suzuki",
+        "hex_value": "#CE0B06"
+      }
+    ],
+    "1990": [
+      {
+        "display_name": "Dark Blue Metallic",
+        "paint_code": "0AA",
+        "slug": "dark-blue-metallic-0aa",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/dark-blue-metallic-0aa/",
+        "source_label": "PaintScratch 1990 Suzuki",
+        "hex_value": "#536C7B"
+      },
+      {
+        "display_name": "Medium Gray Metallic",
+        "paint_code": "0BK",
+        "slug": "medium-gray-metallic-0bk",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/medium-gray-metallic-0bk/",
+        "source_label": "PaintScratch 1990 Suzuki",
+        "hex_value": "#A19E9D"
+      },
+      {
+        "display_name": "Saturn Black Metallic",
+        "paint_code": "0DG",
+        "slug": "saturn-black-metallic-0dg",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/saturn-black-metallic-0dg/",
+        "source_label": "PaintScratch 1990 Suzuki",
+        "hex_value": "#121713"
+      },
+      {
+        "display_name": "Fantasy Black",
+        "paint_code": "07B",
+        "slug": "fantasy-black-07b",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/fantasy-black-07b/",
+        "source_label": "PaintScratch 1990 Suzuki",
+        "hex_value": "#0D1411"
+      },
+      {
+        "display_name": "St. Germain Red",
+        "paint_code": "15P",
+        "slug": "st-germain-red-15p",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/st-germain-red-15p/",
+        "source_label": "PaintScratch 1990 Suzuki",
+        "hex_value": "#C42919"
+      },
+      {
+        "display_name": "Crystal Silver Metallic",
+        "paint_code": "18J",
+        "slug": "crystal-silver-metallic-18j",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/crystal-silver-metallic-18j/",
+        "source_label": "PaintScratch 1990 Suzuki",
+        "hex_value": "#DDE0E3"
+      },
+      {
+        "display_name": "Superior White",
+        "paint_code": "26U",
+        "slug": "superior-white-26u",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/superior-white-26u/",
+        "source_label": "PaintScratch 1990 Suzuki",
+        "hex_value": "#FEFDF6"
+      },
+      {
+        "display_name": "Wheel Silver Metallic (Samurai/Side)",
+        "paint_code": "27S",
+        "slug": "wheel-silver-metallic-samuraiside-27s",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/wheel-silver-metallic-samuraiside-27s/",
+        "source_label": "PaintScratch 1990 Suzuki",
+        "hex_value": "#D3DFDC"
+      },
+      {
+        "display_name": "Medium Red",
+        "paint_code": "37V",
+        "slug": "medium-red-37v",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/medium-red-37v/",
+        "source_label": "PaintScratch 1990 Suzuki",
+        "hex_value": "#971816"
+      },
+      {
+        "display_name": "Charcoal Gray Metallic (Samurai Wheel)",
+        "paint_code": "38B",
+        "slug": "charcoal-gray-metallic-samurai-wheel-38b",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/charcoal-gray-metallic-samurai-wheel-38b/",
+        "source_label": "PaintScratch 1990 Suzuki",
+        "hex_value": "#77797F"
+      },
+      {
+        "display_name": "Sand Beige Metallic",
+        "paint_code": "ODM",
+        "slug": "sand-beige-metallic-odm",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/sand-beige-metallic-odm/",
+        "source_label": "PaintScratch 1990 Suzuki",
+        "hex_value": "#C3AE93"
+      },
+      {
+        "display_name": "Atlantic Blue Metallic",
+        "paint_code": "OEN",
+        "slug": "atlantic-blue-metallic-oen",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/atlantic-blue-metallic-oen/",
+        "source_label": "PaintScratch 1990 Suzuki",
+        "hex_value": "#80A3BE"
+      },
+      {
+        "display_name": "Radiant Red Pearl",
+        "paint_code": "OFT",
+        "slug": "radiant-red-pearl-oft",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/radiant-red-pearl-oft/",
+        "source_label": "PaintScratch 1990 Suzuki",
+        "hex_value": "#CE0B06"
+      },
+      {
+        "display_name": "Clover Green Metallic",
+        "paint_code": "OJJ",
+        "slug": "clover-green-metallic-ojj",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/clover-green-metallic-ojj/",
+        "source_label": "PaintScratch 1990 Suzuki",
+        "hex_value": "#84B095"
+      }
+    ],
+    "1991": [
+      {
+        "display_name": "Deep Blue Pearl",
+        "paint_code": "1FG",
+        "slug": "deep-blue-pearl-1fg",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/deep-blue-pearl-1fg/",
+        "source_label": "PaintScratch 1991 Suzuki",
+        "hex_value": "#3A5374"
+      },
+      {
+        "display_name": "Dark Blue Metallic",
+        "paint_code": "0AA",
+        "slug": "dark-blue-metallic-0aa",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/dark-blue-metallic-0aa/",
+        "source_label": "PaintScratch 1991 Suzuki",
+        "hex_value": "#536C7B"
+      },
+      {
+        "display_name": "Medium Gray Metallic",
+        "paint_code": "0BK",
+        "slug": "medium-gray-metallic-0bk",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/medium-gray-metallic-0bk/",
+        "source_label": "PaintScratch 1991 Suzuki",
+        "hex_value": "#A19E9D"
+      },
+      {
+        "display_name": "Saturn Black Metallic",
+        "paint_code": "0DG",
+        "slug": "saturn-black-metallic-0dg",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/saturn-black-metallic-0dg/",
+        "source_label": "PaintScratch 1991 Suzuki",
+        "hex_value": "#121713"
+      },
+      {
+        "display_name": "Blue Metallic",
+        "paint_code": "1HT",
+        "slug": "blue-metallic-1ht",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/blue-metallic-1ht/",
+        "source_label": "PaintScratch 1991 Suzuki",
+        "hex_value": "#94C6C5"
+      },
+      {
+        "display_name": "Fantasy Black",
+        "paint_code": "07B",
+        "slug": "fantasy-black-07b",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/fantasy-black-07b/",
+        "source_label": "PaintScratch 1991 Suzuki",
+        "hex_value": "#0D1411"
+      },
+      {
+        "display_name": "St. Germain Red",
+        "paint_code": "15P",
+        "slug": "st-germain-red-15p",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/st-germain-red-15p/",
+        "source_label": "PaintScratch 1991 Suzuki",
+        "hex_value": "#C42919"
+      },
+      {
+        "display_name": "Crystal Silver Metallic",
+        "paint_code": "18J",
+        "slug": "crystal-silver-metallic-18j",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/crystal-silver-metallic-18j/",
+        "source_label": "PaintScratch 1991 Suzuki",
+        "hex_value": "#DDE0E3"
+      },
+      {
+        "display_name": "Superior White",
+        "paint_code": "26U",
+        "slug": "superior-white-26u",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/superior-white-26u/",
+        "source_label": "PaintScratch 1991 Suzuki",
+        "hex_value": "#FEFDF6"
+      },
+      {
+        "display_name": "Wheel Silver Metallic (Samurai/Side)",
+        "paint_code": "27S",
+        "slug": "wheel-silver-metallic-samuraiside-27s",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/wheel-silver-metallic-samuraiside-27s/",
+        "source_label": "PaintScratch 1991 Suzuki",
+        "hex_value": "#D3DFDC"
+      },
+      {
+        "display_name": "Medium Red",
+        "paint_code": "37V",
+        "slug": "medium-red-37v",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/medium-red-37v/",
+        "source_label": "PaintScratch 1991 Suzuki",
+        "hex_value": "#971816"
+      },
+      {
+        "display_name": "Charcoal Gray Metallic (Samurai Wheel)",
+        "paint_code": "38B",
+        "slug": "charcoal-gray-metallic-samurai-wheel-38b",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/charcoal-gray-metallic-samurai-wheel-38b/",
+        "source_label": "PaintScratch 1991 Suzuki",
+        "hex_value": "#77797F"
+      },
+      {
+        "display_name": "Sand Beige Metallic",
+        "paint_code": "ODM",
+        "slug": "sand-beige-metallic-odm",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/sand-beige-metallic-odm/",
+        "source_label": "PaintScratch 1991 Suzuki",
+        "hex_value": "#C3AE93"
+      },
+      {
+        "display_name": "Atlantic Blue Metallic",
+        "paint_code": "OEN",
+        "slug": "atlantic-blue-metallic-oen",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/atlantic-blue-metallic-oen/",
+        "source_label": "PaintScratch 1991 Suzuki",
+        "hex_value": "#80A3BE"
+      },
+      {
+        "display_name": "Radiant Red Pearl",
+        "paint_code": "OFT",
+        "slug": "radiant-red-pearl-oft",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/radiant-red-pearl-oft/",
+        "source_label": "PaintScratch 1991 Suzuki",
+        "hex_value": "#CE0B06"
+      },
+      {
+        "display_name": "Clover Green Metallic",
+        "paint_code": "OJJ",
+        "slug": "clover-green-metallic-ojj",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/clover-green-metallic-ojj/",
+        "source_label": "PaintScratch 1991 Suzuki",
+        "hex_value": "#84B095"
+      }
+    ],
+    "1992": [
+      {
+        "display_name": "Deep Blue Pearl",
+        "paint_code": "1FG",
+        "slug": "deep-blue-pearl-1fg",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/deep-blue-pearl-1fg/",
+        "source_label": "PaintScratch 1992 Suzuki",
+        "hex_value": "#3A5374"
+      },
+      {
+        "display_name": "Medium Gray Metallic",
+        "paint_code": "0BK",
+        "slug": "medium-gray-metallic-0bk",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/medium-gray-metallic-0bk/",
+        "source_label": "PaintScratch 1992 Suzuki",
+        "hex_value": "#A19E9D"
+      },
+      {
+        "display_name": "Satellite Silver Metallic",
+        "paint_code": "0DE",
+        "slug": "satellite-silver-metallic-0de",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/satellite-silver-metallic-0de/",
+        "source_label": "PaintScratch 1992 Suzuki",
+        "hex_value": "#C9C6C1"
+      },
+      {
+        "display_name": "Saturn Black Metallic",
+        "paint_code": "0DG",
+        "slug": "saturn-black-metallic-0dg",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/saturn-black-metallic-0dg/",
+        "source_label": "PaintScratch 1992 Suzuki",
+        "hex_value": "#121713"
+      },
+      {
+        "display_name": "Triton Blue Metallic",
+        "paint_code": "1FH",
+        "slug": "triton-blue-metallic-1fh",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/triton-blue-metallic-1fh/",
+        "source_label": "PaintScratch 1992 Suzuki",
+        "hex_value": "#449A99"
+      },
+      {
+        "display_name": "Blue Metallic",
+        "paint_code": "1HT",
+        "slug": "blue-metallic-1ht",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/blue-metallic-1ht/",
+        "source_label": "PaintScratch 1992 Suzuki",
+        "hex_value": "#94C6C5"
+      },
+      {
+        "display_name": "Breakwater Pearl Metallic",
+        "paint_code": "1RZ",
+        "slug": "breakwater-pearl-metallic-1rz",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/breakwater-pearl-metallic-1rz/",
+        "source_label": "PaintScratch 1992 Suzuki",
+        "hex_value": "#AA769A"
+      },
+      {
+        "display_name": "Satin Black",
+        "paint_code": "1SC",
+        "slug": "satin-black-1sc",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/satin-black-1sc/",
+        "source_label": "PaintScratch 1992 Suzuki",
+        "hex_value": "#0D1315"
+      },
+      {
+        "display_name": "Wildfire Red",
+        "paint_code": "1SH",
+        "slug": "wildfire-red-1sh",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/wildfire-red-1sh/",
+        "source_label": "PaintScratch 1992 Suzuki",
+        "hex_value": "#AD1513"
+      },
+      {
+        "display_name": "Fantasy Black",
+        "paint_code": "07B",
+        "slug": "fantasy-black-07b",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/fantasy-black-07b/",
+        "source_label": "PaintScratch 1992 Suzuki",
+        "hex_value": "#0D1411"
+      },
+      {
+        "display_name": "St. Germain Red",
+        "paint_code": "15P",
+        "slug": "st-germain-red-15p",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/st-germain-red-15p/",
+        "source_label": "PaintScratch 1992 Suzuki",
+        "hex_value": "#C42919"
+      },
+      {
+        "display_name": "Superior White",
+        "paint_code": "26U",
+        "slug": "superior-white-26u",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/superior-white-26u/",
+        "source_label": "PaintScratch 1992 Suzuki",
+        "hex_value": "#FEFDF6"
+      },
+      {
+        "display_name": "Wheel Silver Metallic (Samurai/Side)",
+        "paint_code": "27S",
+        "slug": "wheel-silver-metallic-samuraiside-27s",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/wheel-silver-metallic-samuraiside-27s/",
+        "source_label": "PaintScratch 1992 Suzuki",
+        "hex_value": "#D3DFDC"
+      },
+      {
+        "display_name": "Medium Red",
+        "paint_code": "37V",
+        "slug": "medium-red-37v",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/medium-red-37v/",
+        "source_label": "PaintScratch 1992 Suzuki",
+        "hex_value": "#971816"
+      },
+      {
+        "display_name": "Charcoal Gray Metallic (Samurai Wheel)",
+        "paint_code": "38B",
+        "slug": "charcoal-gray-metallic-samurai-wheel-38b",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/charcoal-gray-metallic-samurai-wheel-38b/",
+        "source_label": "PaintScratch 1992 Suzuki",
+        "hex_value": "#77797F"
+      },
+      {
+        "display_name": "Radiant Red Pearl",
+        "paint_code": "OFT",
+        "slug": "radiant-red-pearl-oft",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/radiant-red-pearl-oft/",
+        "source_label": "PaintScratch 1992 Suzuki",
+        "hex_value": "#CE0B06"
+      }
+    ],
+    "1993": [
+      {
+        "display_name": "Deep Blue Pearl",
+        "paint_code": "1FG",
+        "slug": "deep-blue-pearl-1fg",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/deep-blue-pearl-1fg/",
+        "source_label": "PaintScratch 1993 Suzuki",
+        "hex_value": "#3A5374"
+      },
+      {
+        "display_name": "Medium Gray Metallic",
+        "paint_code": "0BK",
+        "slug": "medium-gray-metallic-0bk",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/medium-gray-metallic-0bk/",
+        "source_label": "PaintScratch 1993 Suzuki",
+        "hex_value": "#A19E9D"
+      },
+      {
+        "display_name": "Saturn Black Metallic",
+        "paint_code": "0DG",
+        "slug": "saturn-black-metallic-0dg",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/saturn-black-metallic-0dg/",
+        "source_label": "PaintScratch 1993 Suzuki",
+        "hex_value": "#121713"
+      },
+      {
+        "display_name": "Triton Blue Metallic",
+        "paint_code": "1FH",
+        "slug": "triton-blue-metallic-1fh",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/triton-blue-metallic-1fh/",
+        "source_label": "PaintScratch 1993 Suzuki",
+        "hex_value": "#449A99"
+      },
+      {
+        "display_name": "Blue Metallic",
+        "paint_code": "1HT",
+        "slug": "blue-metallic-1ht",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/blue-metallic-1ht/",
+        "source_label": "PaintScratch 1993 Suzuki",
+        "hex_value": "#94C6C5"
+      },
+      {
+        "display_name": "Breakwater Pearl Metallic",
+        "paint_code": "1RZ",
+        "slug": "breakwater-pearl-metallic-1rz",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/breakwater-pearl-metallic-1rz/",
+        "source_label": "PaintScratch 1993 Suzuki",
+        "hex_value": "#AA769A"
+      },
+      {
+        "display_name": "Satin Black",
+        "paint_code": "1SC",
+        "slug": "satin-black-1sc",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/satin-black-1sc/",
+        "source_label": "PaintScratch 1993 Suzuki",
+        "hex_value": "#0D1315"
+      },
+      {
+        "display_name": "Wildfire Red",
+        "paint_code": "1SH",
+        "slug": "wildfire-red-1sh",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/wildfire-red-1sh/",
+        "source_label": "PaintScratch 1993 Suzuki",
+        "hex_value": "#AD1513"
+      },
+      {
+        "display_name": "Brilliant Red Metallic",
+        "paint_code": "1VB",
+        "slug": "brilliant-red-metallic-1vb",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/brilliant-red-metallic-1vb/",
+        "source_label": "PaintScratch 1993 Suzuki",
+        "hex_value": "#C72525"
+      },
+      {
+        "display_name": "Medium Bright Aubergine Pearl",
+        "paint_code": "1VE",
+        "slug": "medium-bright-aubergine-pearl-1ve",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/medium-bright-aubergine-pearl-1ve/",
+        "source_label": "PaintScratch 1993 Suzuki",
+        "hex_value": "#8C1490"
+      },
+      {
+        "display_name": "Fantasy Black",
+        "paint_code": "07B",
+        "slug": "fantasy-black-07b",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/fantasy-black-07b/",
+        "source_label": "PaintScratch 1993 Suzuki",
+        "hex_value": "#0D1411"
+      },
+      {
+        "display_name": "Wheel Black (matt) (Swift Wheel)",
+        "paint_code": "09L",
+        "slug": "wheel-black-matt-swift-wheel-09l",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/wheel-black-matt-swift-wheel-09l/",
+        "source_label": "PaintScratch 1993 Suzuki",
+        "hex_value": "#151114"
+      },
+      {
+        "display_name": "St. Germain Red",
+        "paint_code": "15P",
+        "slug": "st-germain-red-15p",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/st-germain-red-15p/",
+        "source_label": "PaintScratch 1993 Suzuki",
+        "hex_value": "#C42919"
+      },
+      {
+        "display_name": "Superior White",
+        "paint_code": "26U",
+        "slug": "superior-white-26u",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/superior-white-26u/",
+        "source_label": "PaintScratch 1993 Suzuki",
+        "hex_value": "#FEFDF6"
+      },
+      {
+        "display_name": "Wheel Silver Metallic (Samurai/Side)",
+        "paint_code": "27S",
+        "slug": "wheel-silver-metallic-samuraiside-27s",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/wheel-silver-metallic-samuraiside-27s/",
+        "source_label": "PaintScratch 1993 Suzuki",
+        "hex_value": "#D3DFDC"
+      },
+      {
+        "display_name": "Medium Red",
+        "paint_code": "37V",
+        "slug": "medium-red-37v",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/medium-red-37v/",
+        "source_label": "PaintScratch 1993 Suzuki",
+        "hex_value": "#971816"
+      }
+    ],
+    "1994": [
+      {
+        "display_name": "Bermuda Green Metallic",
+        "paint_code": "1ZB",
+        "slug": "bermuda-green-metallic-1zb",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/bermuda-green-metallic-1zb/",
+        "source_label": "PaintScratch 1994 Suzuki",
+        "hex_value": "#248E71"
+      },
+      {
+        "display_name": "Deep Blue Pearl",
+        "paint_code": "1FG",
+        "slug": "deep-blue-pearl-1fg",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/deep-blue-pearl-1fg/",
+        "source_label": "PaintScratch 1994 Suzuki",
+        "hex_value": "#3A5374"
+      },
+      {
+        "display_name": "Medium Gray Metallic",
+        "paint_code": "0BK",
+        "slug": "medium-gray-metallic-0bk",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/medium-gray-metallic-0bk/",
+        "source_label": "PaintScratch 1994 Suzuki",
+        "hex_value": "#A19E9D"
+      },
+      {
+        "display_name": "Saturn Black Metallic",
+        "paint_code": "0DG",
+        "slug": "saturn-black-metallic-0dg",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/saturn-black-metallic-0dg/",
+        "source_label": "PaintScratch 1994 Suzuki",
+        "hex_value": "#121713"
+      },
+      {
+        "display_name": "Satin Black",
+        "paint_code": "1SC",
+        "slug": "satin-black-1sc",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/satin-black-1sc/",
+        "source_label": "PaintScratch 1994 Suzuki",
+        "hex_value": "#0D1315"
+      },
+      {
+        "display_name": "Wildfire Red",
+        "paint_code": "1SH",
+        "slug": "wildfire-red-1sh",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/wildfire-red-1sh/",
+        "source_label": "PaintScratch 1994 Suzuki",
+        "hex_value": "#AD1513"
+      },
+      {
+        "display_name": "Brilliant Red Metallic",
+        "paint_code": "1VB",
+        "slug": "brilliant-red-metallic-1vb",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/brilliant-red-metallic-1vb/",
+        "source_label": "PaintScratch 1994 Suzuki",
+        "hex_value": "#C72525"
+      },
+      {
+        "display_name": "Wheel Black (matt) (Swift Wheel)",
+        "paint_code": "09L",
+        "slug": "wheel-black-matt-swift-wheel-09l",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/wheel-black-matt-swift-wheel-09l/",
+        "source_label": "PaintScratch 1994 Suzuki",
+        "hex_value": "#151114"
+      },
+      {
+        "display_name": "St. Germain Red",
+        "paint_code": "15P",
+        "slug": "st-germain-red-15p",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/st-germain-red-15p/",
+        "source_label": "PaintScratch 1994 Suzuki",
+        "hex_value": "#C42919"
+      },
+      {
+        "display_name": "Superior White",
+        "paint_code": "26U",
+        "slug": "superior-white-26u",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/superior-white-26u/",
+        "source_label": "PaintScratch 1994 Suzuki",
+        "hex_value": "#FEFDF6"
+      },
+      {
+        "display_name": "Medium Red",
+        "paint_code": "37V",
+        "slug": "medium-red-37v",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/medium-red-37v/",
+        "source_label": "PaintScratch 1994 Suzuki",
+        "hex_value": "#971816"
+      },
+      {
+        "display_name": "Charcoal Gray Metallic (Samurai Wheel)",
+        "paint_code": "38B",
+        "slug": "charcoal-gray-metallic-samurai-wheel-38b",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/charcoal-gray-metallic-samurai-wheel-38b/",
+        "source_label": "PaintScratch 1994 Suzuki",
+        "hex_value": "#77797F"
+      },
+      {
+        "display_name": "Wheel Silver Metallic (Samurai/Sidekick)",
+        "paint_code": "39M",
+        "slug": "wheel-silver-metallic-samuraisidekick-39m",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/wheel-silver-metallic-samuraisidekick-39m/",
+        "source_label": "PaintScratch 1994 Suzuki",
+        "hex_value": "#E2E3E8"
+      },
+      {
+        "display_name": "Radiant Red Pearl",
+        "paint_code": "OFT",
+        "slug": "radiant-red-pearl-oft",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/radiant-red-pearl-oft/",
+        "source_label": "PaintScratch 1994 Suzuki",
+        "hex_value": "#CE0B06"
+      },
+      {
+        "display_name": "Medium Quasar Blue Metallic",
+        "paint_code": "OSH",
+        "slug": "medium-quasar-blue-metallic-osh",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/medium-quasar-blue-metallic-osh/",
+        "source_label": "PaintScratch 1994 Suzuki",
+        "hex_value": "#2F7D97"
+      },
+      {
+        "display_name": "Dark Classic Jade Pearl",
+        "paint_code": "OVP",
+        "slug": "dark-classic-jade-pearl-ovp",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/dark-classic-jade-pearl-ovp/",
+        "source_label": "PaintScratch 1994 Suzuki",
+        "hex_value": "#366441"
+      }
+    ],
+    "1995": [
+      {
+        "display_name": "Bermuda Green Metallic",
+        "paint_code": "1ZB",
+        "slug": "bermuda-green-metallic-1zb",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/bermuda-green-metallic-1zb/",
+        "source_label": "PaintScratch 1995 Suzuki",
+        "hex_value": "#248E71"
+      },
+      {
+        "display_name": "Deep Blue Pearl",
+        "paint_code": "1FG",
+        "slug": "deep-blue-pearl-1fg",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/deep-blue-pearl-1fg/",
+        "source_label": "PaintScratch 1995 Suzuki",
+        "hex_value": "#3A5374"
+      },
+      {
+        "display_name": "Satin Black",
+        "paint_code": "1SC",
+        "slug": "satin-black-1sc",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/satin-black-1sc/",
+        "source_label": "PaintScratch 1995 Suzuki",
+        "hex_value": "#0D1315"
+      },
+      {
+        "display_name": "Brilliant Red Metallic",
+        "paint_code": "1VB",
+        "slug": "brilliant-red-metallic-1vb",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/brilliant-red-metallic-1vb/",
+        "source_label": "PaintScratch 1995 Suzuki",
+        "hex_value": "#C72525"
+      },
+      {
+        "display_name": "St. Germain Red",
+        "paint_code": "15P",
+        "slug": "st-germain-red-15p",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/st-germain-red-15p/",
+        "source_label": "PaintScratch 1995 Suzuki",
+        "hex_value": "#C42919"
+      },
+      {
+        "display_name": "Superior White",
+        "paint_code": "26U",
+        "slug": "superior-white-26u",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/superior-white-26u/",
+        "source_label": "PaintScratch 1995 Suzuki",
+        "hex_value": "#FEFDF6"
+      },
+      {
+        "display_name": "Charcoal Gray Metallic (Samurai Wheel)",
+        "paint_code": "38B",
+        "slug": "charcoal-gray-metallic-samurai-wheel-38b",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/charcoal-gray-metallic-samurai-wheel-38b/",
+        "source_label": "PaintScratch 1995 Suzuki",
+        "hex_value": "#77797F"
+      },
+      {
+        "display_name": "Radiant Red Pearl",
+        "paint_code": "OFT",
+        "slug": "radiant-red-pearl-oft",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/radiant-red-pearl-oft/",
+        "source_label": "PaintScratch 1995 Suzuki",
+        "hex_value": "#CE0B06"
+      },
+      {
+        "display_name": "Dark Classic Jade Pearl",
+        "paint_code": "OVP",
+        "slug": "dark-classic-jade-pearl-ovp",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/dark-classic-jade-pearl-ovp/",
+        "source_label": "PaintScratch 1995 Suzuki",
+        "hex_value": "#366441"
+      },
+      {
+        "display_name": "Medium Blue Metallic",
+        "paint_code": "Y05",
+        "slug": "medium-blue-metallic-y05",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/medium-blue-metallic-y05/",
+        "source_label": "PaintScratch 1995 Suzuki",
+        "hex_value": "#6D84AB"
+      },
+      {
+        "display_name": "Blue Magenta Metallic",
+        "paint_code": "Y06",
+        "slug": "blue-magenta-metallic-y06",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/blue-magenta-metallic-y06/",
+        "source_label": "PaintScratch 1995 Suzuki",
+        "hex_value": "#A72D66"
+      },
+      {
+        "display_name": "Urban Gray Metallic",
+        "paint_code": "Y27",
+        "slug": "urban-gray-metallic-y27",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/urban-gray-metallic-y27/",
+        "source_label": "PaintScratch 1995 Suzuki",
+        "hex_value": "#5D5D5F"
+      },
+      {
+        "display_name": "Dark Turquoise Pearl",
+        "paint_code": "Y33",
+        "slug": "dark-turquoise-pearl-y33",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/dark-turquoise-pearl-y33/",
+        "source_label": "PaintScratch 1995 Suzuki",
+        "hex_value": "#15553F"
+      },
+      {
+        "display_name": "Subtle Gr. Gray Metallic",
+        "paint_code": "Y45",
+        "slug": "subtle-gr-gray-metallic-y45",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/subtle-gr-gray-metallic-y45/",
+        "source_label": "PaintScratch 1995 Suzuki",
+        "hex_value": "#B3A699"
+      }
+    ],
+    "1996": [
+      {
+        "display_name": "Saturn Black Metallic",
+        "paint_code": "0DG",
+        "slug": "saturn-black-metallic-0dg",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/saturn-black-metallic-0dg/",
+        "source_label": "PaintScratch 1996 Suzuki",
+        "hex_value": "#121713"
+      },
+      {
+        "display_name": "Satin Black",
+        "paint_code": "1SC",
+        "slug": "satin-black-1sc",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/satin-black-1sc/",
+        "source_label": "PaintScratch 1996 Suzuki",
+        "hex_value": "#0D1315"
+      },
+      {
+        "display_name": "Mercury Silver Metallic",
+        "paint_code": "1VN",
+        "slug": "mercury-silver-metallic-1vn",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/mercury-silver-metallic-1vn/",
+        "source_label": "PaintScratch 1996 Suzuki",
+        "hex_value": "#BFC3C7"
+      },
+      {
+        "display_name": "Superior White",
+        "paint_code": "26U",
+        "slug": "superior-white-26u",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/superior-white-26u/",
+        "source_label": "PaintScratch 1996 Suzuki",
+        "hex_value": "#FEFDF6"
+      },
+      {
+        "display_name": "Radiant Red Pearl",
+        "paint_code": "OFT",
+        "slug": "radiant-red-pearl-oft",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/radiant-red-pearl-oft/",
+        "source_label": "PaintScratch 1996 Suzuki",
+        "hex_value": "#CE0B06"
+      },
+      {
+        "display_name": "Medium Blue Metallic",
+        "paint_code": "Y05",
+        "slug": "medium-blue-metallic-y05",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/medium-blue-metallic-y05/",
+        "source_label": "PaintScratch 1996 Suzuki",
+        "hex_value": "#6D84AB"
+      },
+      {
+        "display_name": "Blue Magenta Metallic",
+        "paint_code": "Y06",
+        "slug": "blue-magenta-metallic-y06",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/blue-magenta-metallic-y06/",
+        "source_label": "PaintScratch 1996 Suzuki",
+        "hex_value": "#A72D66"
+      },
+      {
+        "display_name": "Warm Silver Metallic",
+        "paint_code": "Y26",
+        "slug": "warm-silver-metallic-y26",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/warm-silver-metallic-y26/",
+        "source_label": "PaintScratch 1996 Suzuki",
+        "hex_value": "#979477"
+      },
+      {
+        "display_name": "Urban Gray Metallic",
+        "paint_code": "Y27",
+        "slug": "urban-gray-metallic-y27",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/urban-gray-metallic-y27/",
+        "source_label": "PaintScratch 1996 Suzuki",
+        "hex_value": "#5D5D5F"
+      },
+      {
+        "display_name": "Antares Red",
+        "paint_code": "Y28",
+        "slug": "antares-red-y28",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/antares-red-y28/",
+        "source_label": "PaintScratch 1996 Suzuki",
+        "hex_value": "#A82820"
+      },
+      {
+        "display_name": "Scuba Blue Metallic",
+        "paint_code": "Y29",
+        "slug": "scuba-blue-metallic-y29",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/scuba-blue-metallic-y29/",
+        "source_label": "PaintScratch 1996 Suzuki",
+        "hex_value": "#1B304F"
+      },
+      {
+        "display_name": "Reddish Blue Metallic",
+        "paint_code": "Y31",
+        "slug": "reddish-blue-metallic-y31",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/reddish-blue-metallic-y31/",
+        "source_label": "PaintScratch 1996 Suzuki",
+        "hex_value": "#4D3D89"
+      },
+      {
+        "display_name": "Dark Turquoise Pearl",
+        "paint_code": "Y33",
+        "slug": "dark-turquoise-pearl-y33",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/dark-turquoise-pearl-y33/",
+        "source_label": "PaintScratch 1996 Suzuki",
+        "hex_value": "#15553F"
+      },
+      {
+        "display_name": "Envision Green Metallic",
+        "paint_code": "Y34",
+        "slug": "envision-green-metallic-y34",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/envision-green-metallic-y34/",
+        "source_label": "PaintScratch 1996 Suzuki",
+        "hex_value": "#045C12"
+      },
+      {
+        "display_name": "Subtle Gr. Gray Metallic",
+        "paint_code": "Y45",
+        "slug": "subtle-gr-gray-metallic-y45",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/subtle-gr-gray-metallic-y45/",
+        "source_label": "PaintScratch 1996 Suzuki",
+        "hex_value": "#B3A699"
+      },
+      {
+        "display_name": "Aqua Green Metallic",
+        "paint_code": "Z01",
+        "slug": "aqua-green-metallic-z01",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/aqua-green-metallic-z01/",
+        "source_label": "PaintScratch 1996 Suzuki",
+        "hex_value": "#22B6AA"
+      }
+    ],
+    "1997": [
+      {
+        "display_name": "Saturn Black Metallic",
+        "paint_code": "0DG",
+        "slug": "saturn-black-metallic-0dg",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/saturn-black-metallic-0dg/",
+        "source_label": "PaintScratch 1997 Suzuki",
+        "hex_value": "#121713"
+      },
+      {
+        "display_name": "Satin Black",
+        "paint_code": "1SC",
+        "slug": "satin-black-1sc",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/satin-black-1sc/",
+        "source_label": "PaintScratch 1997 Suzuki",
+        "hex_value": "#0D1315"
+      },
+      {
+        "display_name": "Mercury Silver Metallic",
+        "paint_code": "1VN",
+        "slug": "mercury-silver-metallic-1vn",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/mercury-silver-metallic-1vn/",
+        "source_label": "PaintScratch 1997 Suzuki",
+        "hex_value": "#BFC3C7"
+      },
+      {
+        "display_name": "Superior White",
+        "paint_code": "26U",
+        "slug": "superior-white-26u",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/superior-white-26u/",
+        "source_label": "PaintScratch 1997 Suzuki",
+        "hex_value": "#FEFDF6"
+      },
+      {
+        "display_name": "Radiant Red Pearl",
+        "paint_code": "OFT",
+        "slug": "radiant-red-pearl-oft",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/radiant-red-pearl-oft/",
+        "source_label": "PaintScratch 1997 Suzuki",
+        "hex_value": "#CE0B06"
+      },
+      {
+        "display_name": "Medium Blue Metallic",
+        "paint_code": "Y05",
+        "slug": "medium-blue-metallic-y05",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/medium-blue-metallic-y05/",
+        "source_label": "PaintScratch 1997 Suzuki",
+        "hex_value": "#6D84AB"
+      },
+      {
+        "display_name": "Blue Magenta Metallic",
+        "paint_code": "Y06",
+        "slug": "blue-magenta-metallic-y06",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/blue-magenta-metallic-y06/",
+        "source_label": "PaintScratch 1997 Suzuki",
+        "hex_value": "#A72D66"
+      },
+      {
+        "display_name": "Warm Silver Metallic",
+        "paint_code": "Y26",
+        "slug": "warm-silver-metallic-y26",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/warm-silver-metallic-y26/",
+        "source_label": "PaintScratch 1997 Suzuki",
+        "hex_value": "#979477"
+      },
+      {
+        "display_name": "Urban Gray Metallic",
+        "paint_code": "Y27",
+        "slug": "urban-gray-metallic-y27",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/urban-gray-metallic-y27/",
+        "source_label": "PaintScratch 1997 Suzuki",
+        "hex_value": "#5D5D5F"
+      },
+      {
+        "display_name": "Antares Red",
+        "paint_code": "Y28",
+        "slug": "antares-red-y28",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/antares-red-y28/",
+        "source_label": "PaintScratch 1997 Suzuki",
+        "hex_value": "#A82820"
+      },
+      {
+        "display_name": "Scuba Blue Metallic",
+        "paint_code": "Y29",
+        "slug": "scuba-blue-metallic-y29",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/scuba-blue-metallic-y29/",
+        "source_label": "PaintScratch 1997 Suzuki",
+        "hex_value": "#1B304F"
+      },
+      {
+        "display_name": "Reddish Blue Metallic",
+        "paint_code": "Y31",
+        "slug": "reddish-blue-metallic-y31",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/reddish-blue-metallic-y31/",
+        "source_label": "PaintScratch 1997 Suzuki",
+        "hex_value": "#4D3D89"
+      },
+      {
+        "display_name": "Dark Turquoise Pearl",
+        "paint_code": "Y33",
+        "slug": "dark-turquoise-pearl-y33",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/dark-turquoise-pearl-y33/",
+        "source_label": "PaintScratch 1997 Suzuki",
+        "hex_value": "#15553F"
+      },
+      {
+        "display_name": "Envision Green Metallic",
+        "paint_code": "Y34",
+        "slug": "envision-green-metallic-y34",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/envision-green-metallic-y34/",
+        "source_label": "PaintScratch 1997 Suzuki",
+        "hex_value": "#045C12"
+      },
+      {
+        "display_name": "Subtle Gr. Gray Metallic",
+        "paint_code": "Y45",
+        "slug": "subtle-gr-gray-metallic-y45",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/subtle-gr-gray-metallic-y45/",
+        "source_label": "PaintScratch 1997 Suzuki",
+        "hex_value": "#B3A699"
+      },
+      {
+        "display_name": "Light Toreador Red Metallic",
+        "paint_code": "Z0A",
+        "slug": "light-toreador-red-metallic-z0a",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/light-toreador-red-metallic-z0a/",
+        "source_label": "PaintScratch 1997 Suzuki",
+        "hex_value": "#6B1B1F"
+      }
+    ],
+    "1998": [
+      {
+        "display_name": "Reddish Blue Metallic",
+        "paint_code": "0BM",
+        "slug": "reddish-blue-metallic-0bm",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/reddish-blue-metallic-0bm/",
+        "source_label": "PaintScratch 1998 Suzuki",
+        "hex_value": "#3C438C"
+      },
+      {
+        "display_name": "Saturn Black Metallic",
+        "paint_code": "0DG",
+        "slug": "saturn-black-metallic-0dg",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/saturn-black-metallic-0dg/",
+        "source_label": "PaintScratch 1998 Suzuki",
+        "hex_value": "#121713"
+      },
+      {
+        "display_name": "Satin Black",
+        "paint_code": "1SC",
+        "slug": "satin-black-1sc",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/satin-black-1sc/",
+        "source_label": "PaintScratch 1998 Suzuki",
+        "hex_value": "#0D1315"
+      },
+      {
+        "display_name": "Mercury Silver Metallic",
+        "paint_code": "1VN",
+        "slug": "mercury-silver-metallic-1vn",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/mercury-silver-metallic-1vn/",
+        "source_label": "PaintScratch 1998 Suzuki",
+        "hex_value": "#BFC3C7"
+      },
+      {
+        "display_name": "Superior White",
+        "paint_code": "26U",
+        "slug": "superior-white-26u",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/superior-white-26u/",
+        "source_label": "PaintScratch 1998 Suzuki",
+        "hex_value": "#FEFDF6"
+      },
+      {
+        "display_name": "Radiant Red Pearl",
+        "paint_code": "OFT",
+        "slug": "radiant-red-pearl-oft",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/radiant-red-pearl-oft/",
+        "source_label": "PaintScratch 1998 Suzuki",
+        "hex_value": "#CE0B06"
+      },
+      {
+        "display_name": "Medium Blue Metallic",
+        "paint_code": "Y05",
+        "slug": "medium-blue-metallic-y05",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/medium-blue-metallic-y05/",
+        "source_label": "PaintScratch 1998 Suzuki",
+        "hex_value": "#6D84AB"
+      },
+      {
+        "display_name": "Warm Silver Metallic",
+        "paint_code": "Y26",
+        "slug": "warm-silver-metallic-y26",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/warm-silver-metallic-y26/",
+        "source_label": "PaintScratch 1998 Suzuki",
+        "hex_value": "#979477"
+      },
+      {
+        "display_name": "Antares Red",
+        "paint_code": "Y28",
+        "slug": "antares-red-y28",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/antares-red-y28/",
+        "source_label": "PaintScratch 1998 Suzuki",
+        "hex_value": "#A82820"
+      },
+      {
+        "display_name": "Scuba Blue Metallic",
+        "paint_code": "Y29",
+        "slug": "scuba-blue-metallic-y29",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/scuba-blue-metallic-y29/",
+        "source_label": "PaintScratch 1998 Suzuki",
+        "hex_value": "#1B304F"
+      },
+      {
+        "display_name": "Reddish Blue Metallic",
+        "paint_code": "Y31",
+        "slug": "reddish-blue-metallic-y31",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/reddish-blue-metallic-y31/",
+        "source_label": "PaintScratch 1998 Suzuki",
+        "hex_value": "#4D3D89"
+      },
+      {
+        "display_name": "Envision Green Metallic",
+        "paint_code": "Y34",
+        "slug": "envision-green-metallic-y34",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/envision-green-metallic-y34/",
+        "source_label": "PaintScratch 1998 Suzuki",
+        "hex_value": "#045C12"
+      },
+      {
+        "display_name": "Subtle Gr. Gray Metallic",
+        "paint_code": "Y45",
+        "slug": "subtle-gr-gray-metallic-y45",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/subtle-gr-gray-metallic-y45/",
+        "source_label": "PaintScratch 1998 Suzuki",
+        "hex_value": "#B3A699"
+      },
+      {
+        "display_name": "Light Toreador Red Metallic",
+        "paint_code": "Z0A",
+        "slug": "light-toreador-red-metallic-z0a",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/light-toreador-red-metallic-z0a/",
+        "source_label": "PaintScratch 1998 Suzuki",
+        "hex_value": "#6B1B1F"
+      },
+      {
+        "display_name": "Keen Gold Metallic (Cladding)",
+        "paint_code": "Z0N",
+        "slug": "keen-gold-metallic-cladding-z0n",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/keen-gold-metallic-cladding-z0n/",
+        "source_label": "PaintScratch 1998 Suzuki",
+        "hex_value": "#B3AC85"
+      },
+      {
+        "display_name": "Victory Red",
+        "paint_code": "Z07",
+        "slug": "victory-red-z07",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/victory-red-z07/",
+        "source_label": "PaintScratch 1998 Suzuki",
+        "hex_value": "#A72415"
+      }
+    ],
+    "1999": [
+      {
+        "display_name": "Saturn Black Metallic",
+        "paint_code": "0DG",
+        "slug": "saturn-black-metallic-0dg",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/saturn-black-metallic-0dg/",
+        "source_label": "PaintScratch 1999 Suzuki",
+        "hex_value": "#121713"
+      },
+      {
+        "display_name": "Satin Black",
+        "paint_code": "1SC",
+        "slug": "satin-black-1sc",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/satin-black-1sc/",
+        "source_label": "PaintScratch 1999 Suzuki",
+        "hex_value": "#0D1315"
+      },
+      {
+        "display_name": "Superior White",
+        "paint_code": "26U",
+        "slug": "superior-white-26u",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/superior-white-26u/",
+        "source_label": "PaintScratch 1999 Suzuki",
+        "hex_value": "#FEFDF6"
+      },
+      {
+        "display_name": "Medium Blue Metallic",
+        "paint_code": "Y05",
+        "slug": "medium-blue-metallic-y05",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/medium-blue-metallic-y05/",
+        "source_label": "PaintScratch 1999 Suzuki",
+        "hex_value": "#6D84AB"
+      },
+      {
+        "display_name": "Scuba Blue Metallic",
+        "paint_code": "Y29",
+        "slug": "scuba-blue-metallic-y29",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/scuba-blue-metallic-y29/",
+        "source_label": "PaintScratch 1999 Suzuki",
+        "hex_value": "#1B304F"
+      },
+      {
+        "display_name": "Light Toreador Red Metallic",
+        "paint_code": "Z0A",
+        "slug": "light-toreador-red-metallic-z0a",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/light-toreador-red-metallic-z0a/",
+        "source_label": "PaintScratch 1999 Suzuki",
+        "hex_value": "#6B1B1F"
+      },
+      {
+        "display_name": "Victory Red",
+        "paint_code": "Z07",
+        "slug": "victory-red-z07",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/victory-red-z07/",
+        "source_label": "PaintScratch 1999 Suzuki",
+        "hex_value": "#A72415"
+      },
+      {
+        "display_name": "Purple Graphite Metallic",
+        "paint_code": "Z1F",
+        "slug": "purple-graphite-metallic-z1f",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/purple-graphite-metallic-z1f/",
+        "source_label": "PaintScratch 1999 Suzuki",
+        "hex_value": "#5B194B"
+      },
+      {
+        "display_name": "Sapphire Blue Metallic",
+        "paint_code": "Z1Z",
+        "slug": "sapphire-blue-metallic-z1z",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/sapphire-blue-metallic-z1z/",
+        "source_label": "PaintScratch 1999 Suzuki",
+        "hex_value": "#211C88"
+      },
+      {
+        "display_name": "Bordeaux Red Pearl",
+        "paint_code": "Z2A",
+        "slug": "bordeaux-red-pearl-z2a",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/bordeaux-red-pearl-z2a/",
+        "source_label": "PaintScratch 1999 Suzuki",
+        "hex_value": "#971B2A"
+      },
+      {
+        "display_name": "Silky Silver Metallic",
+        "paint_code": "Z2S",
+        "slug": "silky-silver-metallic-z2s",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/silky-silver-metallic-z2s/",
+        "source_label": "PaintScratch 1999 Suzuki",
+        "hex_value": "#BCC1BB"
+      },
+      {
+        "display_name": "Grove Green Pearl Metallic",
+        "paint_code": "Z2T",
+        "slug": "grove-green-pearl-metallic-z2t",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/grove-green-pearl-metallic-z2t/",
+        "source_label": "PaintScratch 1999 Suzuki",
+        "hex_value": "#155F15"
+      },
+      {
+        "display_name": "Planet Gold Metallic",
+        "paint_code": "Z2Z",
+        "slug": "planet-gold-metallic-z2z",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/planet-gold-metallic-z2z/",
+        "source_label": "PaintScratch 1999 Suzuki",
+        "hex_value": "#CABA82"
+      },
+      {
+        "display_name": "Sky Blue Metallic",
+        "paint_code": "Z4A",
+        "slug": "sky-blue-metallic-z4a",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/sky-blue-metallic-z4a/",
+        "source_label": "PaintScratch 1999 Suzuki",
+        "hex_value": "#51A5D5"
+      },
+      {
+        "display_name": "Medium Green Metallic",
+        "paint_code": "Z4F",
+        "slug": "medium-green-metallic-z4f",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/medium-green-metallic-z4f/",
+        "source_label": "PaintScratch 1999 Suzuki",
+        "hex_value": "#6D824C"
+      },
+      {
+        "display_name": "Mercury Silver Metallic",
+        "paint_code": "Z4G",
+        "slug": "mercury-silver-metallic-z4g",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/mercury-silver-metallic-z4g/",
+        "source_label": "PaintScratch 1999 Suzuki",
+        "hex_value": "#C3CDC3"
+      }
+    ],
+    "2000": [
+      {
+        "display_name": "Saturn Black Metallic",
+        "paint_code": "0DG",
+        "slug": "saturn-black-metallic-0dg",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/saturn-black-metallic-0dg/",
+        "source_label": "PaintScratch 2000 Suzuki",
+        "hex_value": "#121713"
+      },
+      {
+        "display_name": "Satin Black",
+        "paint_code": "1SC",
+        "slug": "satin-black-1sc",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/satin-black-1sc/",
+        "source_label": "PaintScratch 2000 Suzuki",
+        "hex_value": "#0D1315"
+      },
+      {
+        "display_name": "Superior White",
+        "paint_code": "26U",
+        "slug": "superior-white-26u",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/superior-white-26u/",
+        "source_label": "PaintScratch 2000 Suzuki",
+        "hex_value": "#FEFDF6"
+      },
+      {
+        "display_name": "Scuba Blue Metallic",
+        "paint_code": "Y29",
+        "slug": "scuba-blue-metallic-y29",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/scuba-blue-metallic-y29/",
+        "source_label": "PaintScratch 2000 Suzuki",
+        "hex_value": "#1B304F"
+      },
+      {
+        "display_name": "Light Toreador Red Metallic",
+        "paint_code": "Z0A",
+        "slug": "light-toreador-red-metallic-z0a",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/light-toreador-red-metallic-z0a/",
+        "source_label": "PaintScratch 2000 Suzuki",
+        "hex_value": "#6B1B1F"
+      },
+      {
+        "display_name": "Victory Red",
+        "paint_code": "Z07",
+        "slug": "victory-red-z07",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/victory-red-z07/",
+        "source_label": "PaintScratch 2000 Suzuki",
+        "hex_value": "#A72415"
+      },
+      {
+        "display_name": "Sapphire Blue Metallic",
+        "paint_code": "Z1Z",
+        "slug": "sapphire-blue-metallic-z1z",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/sapphire-blue-metallic-z1z/",
+        "source_label": "PaintScratch 2000 Suzuki",
+        "hex_value": "#211C88"
+      },
+      {
+        "display_name": "Bordeaux Red Pearl",
+        "paint_code": "Z2A",
+        "slug": "bordeaux-red-pearl-z2a",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/bordeaux-red-pearl-z2a/",
+        "source_label": "PaintScratch 2000 Suzuki",
+        "hex_value": "#971B2A"
+      },
+      {
+        "display_name": "Silky Silver Metallic",
+        "paint_code": "Z2S",
+        "slug": "silky-silver-metallic-z2s",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/silky-silver-metallic-z2s/",
+        "source_label": "PaintScratch 2000 Suzuki",
+        "hex_value": "#BCC1BB"
+      },
+      {
+        "display_name": "Grove Green Pearl Metallic",
+        "paint_code": "Z2T",
+        "slug": "grove-green-pearl-metallic-z2t",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/grove-green-pearl-metallic-z2t/",
+        "source_label": "PaintScratch 2000 Suzuki",
+        "hex_value": "#155F15"
+      },
+      {
+        "display_name": "Planet Gold Metallic",
+        "paint_code": "Z2Z",
+        "slug": "planet-gold-metallic-z2z",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/planet-gold-metallic-z2z/",
+        "source_label": "PaintScratch 2000 Suzuki",
+        "hex_value": "#CABA82"
+      },
+      {
+        "display_name": "Sky Blue Metallic",
+        "paint_code": "Z4A",
+        "slug": "sky-blue-metallic-z4a",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/sky-blue-metallic-z4a/",
+        "source_label": "PaintScratch 2000 Suzuki",
+        "hex_value": "#51A5D5"
+      },
+      {
+        "display_name": "Medium Green Metallic",
+        "paint_code": "Z4F",
+        "slug": "medium-green-metallic-z4f",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/medium-green-metallic-z4f/",
+        "source_label": "PaintScratch 2000 Suzuki",
+        "hex_value": "#6D824C"
+      },
+      {
+        "display_name": "Mercury Silver Metallic",
+        "paint_code": "Z4G",
+        "slug": "mercury-silver-metallic-z4g",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/mercury-silver-metallic-z4g/",
+        "source_label": "PaintScratch 2000 Suzuki",
+        "hex_value": "#C3CDC3"
+      },
+      {
+        "display_name": "Bluish Black Pearl",
+        "paint_code": "Z5J",
+        "slug": "bluish-black-pearl-z5j",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/bluish-black-pearl-z5j/",
+        "source_label": "PaintScratch 2000 Suzuki",
+        "hex_value": "#121713"
+      },
+      {
+        "display_name": "Cassis Red Pearl",
+        "paint_code": "Z5K",
+        "slug": "cassis-red-pearl-z5k",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/cassis-red-pearl-z5k/",
+        "source_label": "PaintScratch 2000 Suzuki",
+        "hex_value": "#96262B"
+      }
+    ],
+    "2001": [
+      {
+        "display_name": "Saturn Black Metallic",
+        "paint_code": "0DG",
+        "slug": "saturn-black-metallic-0dg",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/saturn-black-metallic-0dg/",
+        "source_label": "PaintScratch 2001 Suzuki",
+        "hex_value": "#121713"
+      },
+      {
+        "display_name": "Satin Black",
+        "paint_code": "1SC",
+        "slug": "satin-black-1sc",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/satin-black-1sc/",
+        "source_label": "PaintScratch 2001 Suzuki",
+        "hex_value": "#0D1315"
+      },
+      {
+        "display_name": "Superior White",
+        "paint_code": "26U",
+        "slug": "superior-white-26u",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/superior-white-26u/",
+        "source_label": "PaintScratch 2001 Suzuki",
+        "hex_value": "#FEFDF6"
+      },
+      {
+        "display_name": "Scuba Blue Metallic",
+        "paint_code": "Y29",
+        "slug": "scuba-blue-metallic-y29",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/scuba-blue-metallic-y29/",
+        "source_label": "PaintScratch 2001 Suzuki",
+        "hex_value": "#1B304F"
+      },
+      {
+        "display_name": "Light Toreador Red Metallic",
+        "paint_code": "Z0A",
+        "slug": "light-toreador-red-metallic-z0a",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/light-toreador-red-metallic-z0a/",
+        "source_label": "PaintScratch 2001 Suzuki",
+        "hex_value": "#6B1B1F"
+      },
+      {
+        "display_name": "Victory Red",
+        "paint_code": "Z07",
+        "slug": "victory-red-z07",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/victory-red-z07/",
+        "source_label": "PaintScratch 2001 Suzuki",
+        "hex_value": "#A72415"
+      },
+      {
+        "display_name": "Sapphire Blue Metallic",
+        "paint_code": "Z1Z",
+        "slug": "sapphire-blue-metallic-z1z",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/sapphire-blue-metallic-z1z/",
+        "source_label": "PaintScratch 2001 Suzuki",
+        "hex_value": "#211C88"
+      },
+      {
+        "display_name": "Bordeaux Red Pearl",
+        "paint_code": "Z2A",
+        "slug": "bordeaux-red-pearl-z2a",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/bordeaux-red-pearl-z2a/",
+        "source_label": "PaintScratch 2001 Suzuki",
+        "hex_value": "#971B2A"
+      },
+      {
+        "display_name": "Silky Silver Metallic",
+        "paint_code": "Z2S",
+        "slug": "silky-silver-metallic-z2s",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/silky-silver-metallic-z2s/",
+        "source_label": "PaintScratch 2001 Suzuki",
+        "hex_value": "#BCC1BB"
+      },
+      {
+        "display_name": "Grove Green Pearl Metallic",
+        "paint_code": "Z2T",
+        "slug": "grove-green-pearl-metallic-z2t",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/grove-green-pearl-metallic-z2t/",
+        "source_label": "PaintScratch 2001 Suzuki",
+        "hex_value": "#155F15"
+      },
+      {
+        "display_name": "Cat's Eye Blue Metallic",
+        "paint_code": "Z2U",
+        "slug": "cats-eye-blue-metallic-z2u",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/cats-eye-blue-metallic-z2u/",
+        "source_label": "PaintScratch 2001 Suzuki",
+        "hex_value": "#3B5481"
+      },
+      {
+        "display_name": "Planet Gold Metallic",
+        "paint_code": "Z2Z",
+        "slug": "planet-gold-metallic-z2z",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/planet-gold-metallic-z2z/",
+        "source_label": "PaintScratch 2001 Suzuki",
+        "hex_value": "#CABA82"
+      },
+      {
+        "display_name": "Sky Blue Metallic",
+        "paint_code": "Z4A",
+        "slug": "sky-blue-metallic-z4a",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/sky-blue-metallic-z4a/",
+        "source_label": "PaintScratch 2001 Suzuki",
+        "hex_value": "#51A5D5"
+      },
+      {
+        "display_name": "Medium Green Metallic",
+        "paint_code": "Z4F",
+        "slug": "medium-green-metallic-z4f",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/medium-green-metallic-z4f/",
+        "source_label": "PaintScratch 2001 Suzuki",
+        "hex_value": "#6D824C"
+      },
+      {
+        "display_name": "Mercury Silver Metallic",
+        "paint_code": "Z4G",
+        "slug": "mercury-silver-metallic-z4g",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/mercury-silver-metallic-z4g/",
+        "source_label": "PaintScratch 2001 Suzuki",
+        "hex_value": "#C3CDC3"
+      },
+      {
+        "display_name": "Bluish Black Pearl",
+        "paint_code": "Z5J",
+        "slug": "bluish-black-pearl-z5j",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/bluish-black-pearl-z5j/",
+        "source_label": "PaintScratch 2001 Suzuki",
+        "hex_value": "#121713"
+      }
+    ],
+    "2002": [
+      {
+        "display_name": "Satin Black",
+        "paint_code": "1SC",
+        "slug": "satin-black-1sc",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/satin-black-1sc/",
+        "source_label": "PaintScratch 2002 Suzuki",
+        "hex_value": "#0D1315"
+      },
+      {
+        "display_name": "Light Toreador Red Metallic",
+        "paint_code": "Z0A",
+        "slug": "light-toreador-red-metallic-z0a",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/light-toreador-red-metallic-z0a/",
+        "source_label": "PaintScratch 2002 Suzuki",
+        "hex_value": "#6B1B1F"
+      },
+      {
+        "display_name": "Victory Red",
+        "paint_code": "Z07",
+        "slug": "victory-red-z07",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/victory-red-z07/",
+        "source_label": "PaintScratch 2002 Suzuki",
+        "hex_value": "#A72415"
+      },
+      {
+        "display_name": "Silky Silver Metallic",
+        "paint_code": "Z2S",
+        "slug": "silky-silver-metallic-z2s",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/silky-silver-metallic-z2s/",
+        "source_label": "PaintScratch 2002 Suzuki",
+        "hex_value": "#BCC1BB"
+      },
+      {
+        "display_name": "Grove Green Pearl Metallic",
+        "paint_code": "Z2T",
+        "slug": "grove-green-pearl-metallic-z2t",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/grove-green-pearl-metallic-z2t/",
+        "source_label": "PaintScratch 2002 Suzuki",
+        "hex_value": "#155F15"
+      },
+      {
+        "display_name": "Cat's Eye Blue Metallic",
+        "paint_code": "Z2U",
+        "slug": "cats-eye-blue-metallic-z2u",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/cats-eye-blue-metallic-z2u/",
+        "source_label": "PaintScratch 2002 Suzuki",
+        "hex_value": "#3B5481"
+      },
+      {
+        "display_name": "Medium Green Metallic",
+        "paint_code": "Z4F",
+        "slug": "medium-green-metallic-z4f",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/medium-green-metallic-z4f/",
+        "source_label": "PaintScratch 2002 Suzuki",
+        "hex_value": "#6D824C"
+      },
+      {
+        "display_name": "Bluish Black Pearl",
+        "paint_code": "Z5J",
+        "slug": "bluish-black-pearl-z5j",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/bluish-black-pearl-z5j/",
+        "source_label": "PaintScratch 2002 Suzuki",
+        "hex_value": "#121713"
+      },
+      {
+        "display_name": "Cassis Red Pearl",
+        "paint_code": "Z5K",
+        "slug": "cassis-red-pearl-z5k",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/cassis-red-pearl-z5k/",
+        "source_label": "PaintScratch 2002 Suzuki",
+        "hex_value": "#96262B"
+      },
+      {
+        "display_name": "Cat's Eye Blue No. 2 Metallic",
+        "paint_code": "Z7J",
+        "slug": "cats-eye-blue-no-2-metallic-z7j",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/cats-eye-blue-no-2-metallic-z7j/",
+        "source_label": "PaintScratch 2002 Suzuki",
+        "hex_value": "#13325B"
+      },
+      {
+        "display_name": "Brilliant Blue Metallic",
+        "paint_code": "Z7K",
+        "slug": "brilliant-blue-metallic-z7k",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/brilliant-blue-metallic-z7k/",
+        "source_label": "PaintScratch 2002 Suzuki",
+        "hex_value": "#1AA5C8"
+      },
+      {
+        "display_name": "Absolute White",
+        "paint_code": "Z9F",
+        "slug": "absolute-white-z9f",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/absolute-white-z9f/",
+        "source_label": "PaintScratch 2002 Suzuki",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Platinum Silver Metallic",
+        "paint_code": "Z9J",
+        "slug": "platinum-silver-metallic-z9j",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/platinum-silver-metallic-z9j/",
+        "source_label": "PaintScratch 2002 Suzuki",
+        "hex_value": "#D9D7CF"
+      },
+      {
+        "display_name": "Flash Red",
+        "paint_code": "Z9T",
+        "slug": "flash-red-z9t",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/flash-red-z9t/",
+        "source_label": "PaintScratch 2002 Suzuki",
+        "hex_value": "#DF0707"
+      },
+      {
+        "display_name": "Burgundy Pearl Metallic",
+        "paint_code": "ZA3",
+        "slug": "burgundy-pearl-metallic-za3",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/burgundy-pearl-metallic-za3/",
+        "source_label": "PaintScratch 2002 Suzuki",
+        "hex_value": "#651313"
+      },
+      {
+        "display_name": "Cool Beige Metallic",
+        "paint_code": "ZA4",
+        "slug": "cool-beige-metallic-za4",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/cool-beige-metallic-za4/",
+        "source_label": "PaintScratch 2002 Suzuki",
+        "hex_value": "#C6BEA2"
+      }
+    ],
+    "2003": [
+      {
+        "display_name": "Satin Black",
+        "paint_code": "1SC",
+        "slug": "satin-black-1sc",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/satin-black-1sc/",
+        "source_label": "PaintScratch 2003 Suzuki",
+        "hex_value": "#0D1315"
+      },
+      {
+        "display_name": "Light Toreador Red Metallic",
+        "paint_code": "Z0A",
+        "slug": "light-toreador-red-metallic-z0a",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/light-toreador-red-metallic-z0a/",
+        "source_label": "PaintScratch 2003 Suzuki",
+        "hex_value": "#6B1B1F"
+      },
+      {
+        "display_name": "Victory Red",
+        "paint_code": "Z07",
+        "slug": "victory-red-z07",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/victory-red-z07/",
+        "source_label": "PaintScratch 2003 Suzuki",
+        "hex_value": "#A72415"
+      },
+      {
+        "display_name": "Mellow Yellow",
+        "paint_code": "Z1E",
+        "slug": "mellow-yellow-z1e",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/mellow-yellow-z1e/",
+        "source_label": "PaintScratch 2003 Suzuki",
+        "hex_value": "#F7E629"
+      },
+      {
+        "display_name": "Silky Silver Metallic",
+        "paint_code": "Z2S",
+        "slug": "silky-silver-metallic-z2s",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/silky-silver-metallic-z2s/",
+        "source_label": "PaintScratch 2003 Suzuki",
+        "hex_value": "#BCC1BB"
+      },
+      {
+        "display_name": "Grove Green Pearl Metallic",
+        "paint_code": "Z2T",
+        "slug": "grove-green-pearl-metallic-z2t",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/grove-green-pearl-metallic-z2t/",
+        "source_label": "PaintScratch 2003 Suzuki",
+        "hex_value": "#155F15"
+      },
+      {
+        "display_name": "Cat's Eye Blue Metallic",
+        "paint_code": "Z2U",
+        "slug": "cats-eye-blue-metallic-z2u",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/cats-eye-blue-metallic-z2u/",
+        "source_label": "PaintScratch 2003 Suzuki",
+        "hex_value": "#3B5481"
+      },
+      {
+        "display_name": "Medium Green Metallic",
+        "paint_code": "Z4F",
+        "slug": "medium-green-metallic-z4f",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/medium-green-metallic-z4f/",
+        "source_label": "PaintScratch 2003 Suzuki",
+        "hex_value": "#6D824C"
+      },
+      {
+        "display_name": "Bluish Black Pearl",
+        "paint_code": "Z5J",
+        "slug": "bluish-black-pearl-z5j",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/bluish-black-pearl-z5j/",
+        "source_label": "PaintScratch 2003 Suzuki",
+        "hex_value": "#121713"
+      },
+      {
+        "display_name": "Cassis Red Pearl",
+        "paint_code": "Z5K",
+        "slug": "cassis-red-pearl-z5k",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/cassis-red-pearl-z5k/",
+        "source_label": "PaintScratch 2003 Suzuki",
+        "hex_value": "#96262B"
+      },
+      {
+        "display_name": "Cat's Eye Blue No. 2 Metallic",
+        "paint_code": "Z7J",
+        "slug": "cats-eye-blue-no-2-metallic-z7j",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/cats-eye-blue-no-2-metallic-z7j/",
+        "source_label": "PaintScratch 2003 Suzuki",
+        "hex_value": "#13325B"
+      },
+      {
+        "display_name": "Brilliant Blue Metallic",
+        "paint_code": "Z7K",
+        "slug": "brilliant-blue-metallic-z7k",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/brilliant-blue-metallic-z7k/",
+        "source_label": "PaintScratch 2003 Suzuki",
+        "hex_value": "#1AA5C8"
+      },
+      {
+        "display_name": "White Pearl Tricoat",
+        "paint_code": "Z7T",
+        "slug": "white-pearl-tricoat-z7t",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/white-pearl-tricoat-z7t/",
+        "source_label": "PaintScratch 2003 Suzuki",
+        "hex_value": "#EFEDDB"
+      },
+      {
+        "display_name": "Absolute White",
+        "paint_code": "Z9F",
+        "slug": "absolute-white-z9f",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/absolute-white-z9f/",
+        "source_label": "PaintScratch 2003 Suzuki",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Platinum Silver Metallic",
+        "paint_code": "Z9J",
+        "slug": "platinum-silver-metallic-z9j",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/platinum-silver-metallic-z9j/",
+        "source_label": "PaintScratch 2003 Suzuki",
+        "hex_value": "#D9D7CF"
+      },
+      {
+        "display_name": "Flash Red",
+        "paint_code": "Z9T",
+        "slug": "flash-red-z9t",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/flash-red-z9t/",
+        "source_label": "PaintScratch 2003 Suzuki",
+        "hex_value": "#DF0707"
+      }
+    ],
+    "2004": [
+      {
+        "display_name": "Azure Blue Pearl Metallic",
+        "paint_code": "ZY4",
+        "slug": "azure-blue-pearl-metallic-zy4",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/azure-blue-pearl-metallic-zy4/",
+        "source_label": "PaintScratch 2004 Suzuki",
+        "hex_value": "#AFB5B9"
+      },
+      {
+        "display_name": "Satin Black",
+        "paint_code": "1SC",
+        "slug": "satin-black-1sc",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/satin-black-1sc/",
+        "source_label": "PaintScratch 2004 Suzuki",
+        "hex_value": "#0D1315"
+      },
+      {
+        "display_name": "Absolute White",
+        "paint_code": "11U",
+        "slug": "absolute-white-11u",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/absolute-white-11u/",
+        "source_label": "PaintScratch 2004 Suzuki",
+        "hex_value": "#FFFDF5"
+      },
+      {
+        "display_name": "Superior White",
+        "paint_code": "26U",
+        "slug": "superior-white-26u",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/superior-white-26u/",
+        "source_label": "PaintScratch 2004 Suzuki",
+        "hex_value": "#FEFDF6"
+      },
+      {
+        "display_name": "Monarch Blue Metallic",
+        "paint_code": "30U",
+        "slug": "monarch-blue-metallic-30u",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/monarch-blue-metallic-30u/",
+        "source_label": "PaintScratch 2004 Suzuki",
+        "hex_value": "#445A6E"
+      },
+      {
+        "display_name": "Harvest Gold Metallic",
+        "paint_code": "60V",
+        "slug": "harvest-gold-metallic-60v",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/harvest-gold-metallic-60v/",
+        "source_label": "PaintScratch 2004 Suzuki",
+        "hex_value": "#D8C274"
+      },
+      {
+        "display_name": "Garnet Red Metallic",
+        "paint_code": "64U",
+        "slug": "garnet-red-metallic-64u",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/garnet-red-metallic-64u/",
+        "source_label": "PaintScratch 2004 Suzuki",
+        "hex_value": "#B04828"
+      },
+      {
+        "display_name": "Tuxedo Black Pearl",
+        "paint_code": "83L",
+        "slug": "tuxedo-black-pearl-83l",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/tuxedo-black-pearl-83l/",
+        "source_label": "PaintScratch 2004 Suzuki",
+        "hex_value": "#0C0C0C"
+      },
+      {
+        "display_name": "Sapphire Gray Metallic",
+        "paint_code": "83U",
+        "slug": "sapphire-gray-metallic-83u",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/sapphire-gray-metallic-83u/",
+        "source_label": "PaintScratch 2004 Suzuki",
+        "hex_value": "#DEE2D4"
+      },
+      {
+        "display_name": "Titanium Silver Metallic",
+        "paint_code": "92U",
+        "slug": "titanium-silver-metallic-92u",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/titanium-silver-metallic-92u/",
+        "source_label": "PaintScratch 2004 Suzuki",
+        "hex_value": "#E8E4C4"
+      },
+      {
+        "display_name": "Metallic Marine Blue",
+        "paint_code": "B17",
+        "slug": "metallic-marine-blue-b17",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/metallic-marine-blue-b17/",
+        "source_label": "PaintScratch 2004 Suzuki",
+        "hex_value": "#597DF3"
+      },
+      {
+        "display_name": "Victory Red",
+        "paint_code": "Z07",
+        "slug": "victory-red-z07",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/victory-red-z07/",
+        "source_label": "PaintScratch 2004 Suzuki",
+        "hex_value": "#A72415"
+      },
+      {
+        "display_name": "Mellow Yellow",
+        "paint_code": "Z1E",
+        "slug": "mellow-yellow-z1e",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/mellow-yellow-z1e/",
+        "source_label": "PaintScratch 2004 Suzuki",
+        "hex_value": "#F7E629"
+      },
+      {
+        "display_name": "Cypress Blue Metallic",
+        "paint_code": "Z2J",
+        "slug": "cypress-blue-metallic-z2j",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/cypress-blue-metallic-z2j/",
+        "source_label": "PaintScratch 2004 Suzuki",
+        "hex_value": "#4B7697"
+      },
+      {
+        "display_name": "Silky Silver Metallic",
+        "paint_code": "Z2S",
+        "slug": "silky-silver-metallic-z2s",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/silky-silver-metallic-z2s/",
+        "source_label": "PaintScratch 2004 Suzuki",
+        "hex_value": "#BCC1BB"
+      },
+      {
+        "display_name": "Grove Green Pearl Metallic",
+        "paint_code": "Z2T",
+        "slug": "grove-green-pearl-metallic-z2t",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/grove-green-pearl-metallic-z2t/",
+        "source_label": "PaintScratch 2004 Suzuki",
+        "hex_value": "#155F15"
+      }
+    ],
+    "2005": [
+      {
+        "display_name": "Azure Blue Pearl Metallic",
+        "paint_code": "ZY4",
+        "slug": "azure-blue-pearl-metallic-zy4",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/azure-blue-pearl-metallic-zy4/",
+        "source_label": "PaintScratch 2005 Suzuki",
+        "hex_value": "#AFB5B9"
+      },
+      {
+        "display_name": "Absolute White",
+        "paint_code": "11U",
+        "slug": "absolute-white-11u",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/absolute-white-11u/",
+        "source_label": "PaintScratch 2005 Suzuki",
+        "hex_value": "#FFFDF5"
+      },
+      {
+        "display_name": "Cobalt Blue Metallic",
+        "paint_code": "26V",
+        "slug": "cobalt-blue-metallic-26v",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/cobalt-blue-metallic-26v/",
+        "source_label": "PaintScratch 2005 Suzuki",
+        "hex_value": "#003366"
+      },
+      {
+        "display_name": "Monarch Blue Metallic",
+        "paint_code": "30U",
+        "slug": "monarch-blue-metallic-30u",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/monarch-blue-metallic-30u/",
+        "source_label": "PaintScratch 2005 Suzuki",
+        "hex_value": "#445A6E"
+      },
+      {
+        "display_name": "Desert Green Metallic",
+        "paint_code": "44V",
+        "slug": "desert-green-metallic-44v",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/desert-green-metallic-44v/",
+        "source_label": "PaintScratch 2005 Suzuki",
+        "hex_value": "#87A163"
+      },
+      {
+        "display_name": "Sunburst Metallic",
+        "paint_code": "54U",
+        "slug": "sunburst-metallic-54u",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/sunburst-metallic-54u/",
+        "source_label": "PaintScratch 2005 Suzuki",
+        "hex_value": "#863825"
+      },
+      {
+        "display_name": "Garnet Red Metallic",
+        "paint_code": "64U",
+        "slug": "garnet-red-metallic-64u",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/garnet-red-metallic-64u/",
+        "source_label": "PaintScratch 2005 Suzuki",
+        "hex_value": "#B04828"
+      },
+      {
+        "display_name": "Champagne Beige Metallic",
+        "paint_code": "68U",
+        "slug": "champagne-beige-metallic-68u",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/champagne-beige-metallic-68u/",
+        "source_label": "PaintScratch 2005 Suzuki",
+        "hex_value": "#AF9F77"
+      },
+      {
+        "display_name": "Fusion Red Metallic",
+        "paint_code": "70U",
+        "slug": "fusion-red-metallic-70u",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/fusion-red-metallic-70u/",
+        "source_label": "PaintScratch 2005 Suzuki",
+        "hex_value": "#781818"
+      },
+      {
+        "display_name": "Bright Red",
+        "paint_code": "73L",
+        "slug": "bright-red-73l",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/bright-red-73l/",
+        "source_label": "PaintScratch 2005 Suzuki",
+        "hex_value": "#D30B0B"
+      },
+      {
+        "display_name": "Tuxedo Black Pearl",
+        "paint_code": "83L",
+        "slug": "tuxedo-black-pearl-83l",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/tuxedo-black-pearl-83l/",
+        "source_label": "PaintScratch 2005 Suzuki",
+        "hex_value": "#0C0C0C"
+      },
+      {
+        "display_name": "Sapphire Gray Metallic",
+        "paint_code": "83U",
+        "slug": "sapphire-gray-metallic-83u",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/sapphire-gray-metallic-83u/",
+        "source_label": "PaintScratch 2005 Suzuki",
+        "hex_value": "#DEE2D4"
+      },
+      {
+        "display_name": "Tuxedo Black Pearl Metallic",
+        "paint_code": "87U",
+        "slug": "tuxedo-black-pearl-metallic-87u",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/tuxedo-black-pearl-metallic-87u/",
+        "source_label": "PaintScratch 2005 Suzuki",
+        "hex_value": "#2D2525"
+      },
+      {
+        "display_name": "Titanium Silver Metallic",
+        "paint_code": "92U",
+        "slug": "titanium-silver-metallic-92u",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/titanium-silver-metallic-92u/",
+        "source_label": "PaintScratch 2005 Suzuki",
+        "hex_value": "#E8E4C4"
+      },
+      {
+        "display_name": "Cypress Blue Metallic",
+        "paint_code": "Z2J",
+        "slug": "cypress-blue-metallic-z2j",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/cypress-blue-metallic-z2j/",
+        "source_label": "PaintScratch 2005 Suzuki",
+        "hex_value": "#4B7697"
+      },
+      {
+        "display_name": "Silky Silver Metallic",
+        "paint_code": "Z2S",
+        "slug": "silky-silver-metallic-z2s",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/silky-silver-metallic-z2s/",
+        "source_label": "PaintScratch 2005 Suzuki",
+        "hex_value": "#BCC1BB"
+      }
+    ],
+    "2006": [
+      {
+        "display_name": "Azure Blue Pearl Metallic",
+        "paint_code": "ZY4",
+        "slug": "azure-blue-pearl-metallic-zy4",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/azure-blue-pearl-metallic-zy4/",
+        "source_label": "PaintScratch 2006 Suzuki",
+        "hex_value": "#AFB5B9"
+      },
+      {
+        "display_name": "Misty Blue Metallic",
+        "paint_code": "05U",
+        "slug": "misty-blue-metallic-05u",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/misty-blue-metallic-05u/",
+        "source_label": "PaintScratch 2006 Suzuki",
+        "hex_value": "#A2B5C2"
+      },
+      {
+        "display_name": "Absolute White",
+        "paint_code": "11U",
+        "slug": "absolute-white-11u",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/absolute-white-11u/",
+        "source_label": "PaintScratch 2006 Suzuki",
+        "hex_value": "#FFFDF5"
+      },
+      {
+        "display_name": "White Pearl Metallic Tricoat",
+        "paint_code": "13U",
+        "slug": "white-pearl-metallic-tricoat-13u",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/white-pearl-metallic-tricoat-13u/",
+        "source_label": "PaintScratch 2006 Suzuki",
+        "hex_value": "#F3F1E9"
+      },
+      {
+        "display_name": "Cobalt Blue Metallic",
+        "paint_code": "26V",
+        "slug": "cobalt-blue-metallic-26v",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/cobalt-blue-metallic-26v/",
+        "source_label": "PaintScratch 2006 Suzuki",
+        "hex_value": "#003366"
+      },
+      {
+        "display_name": "Desert Green Metallic",
+        "paint_code": "44V",
+        "slug": "desert-green-metallic-44v",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/desert-green-metallic-44v/",
+        "source_label": "PaintScratch 2006 Suzuki",
+        "hex_value": "#87A163"
+      },
+      {
+        "display_name": "Napa Red",
+        "paint_code": "53U",
+        "slug": "napa-red-53u",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/napa-red-53u/",
+        "source_label": "PaintScratch 2006 Suzuki",
+        "hex_value": "#6E1614"
+      },
+      {
+        "display_name": "Sunburst Metallic",
+        "paint_code": "54U",
+        "slug": "sunburst-metallic-54u",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/sunburst-metallic-54u/",
+        "source_label": "PaintScratch 2006 Suzuki",
+        "hex_value": "#863825"
+      },
+      {
+        "display_name": "Sandstone Beige",
+        "paint_code": "55U",
+        "slug": "sandstone-beige-55u",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/sandstone-beige-55u/",
+        "source_label": "PaintScratch 2006 Suzuki",
+        "hex_value": "#D5C88B"
+      },
+      {
+        "display_name": "Champagne Beige Metallic",
+        "paint_code": "68U",
+        "slug": "champagne-beige-metallic-68u",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/champagne-beige-metallic-68u/",
+        "source_label": "PaintScratch 2006 Suzuki",
+        "hex_value": "#AF9F77"
+      },
+      {
+        "display_name": "Fusion Red Metallic",
+        "paint_code": "70U",
+        "slug": "fusion-red-metallic-70u",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/fusion-red-metallic-70u/",
+        "source_label": "PaintScratch 2006 Suzuki",
+        "hex_value": "#781818"
+      },
+      {
+        "display_name": "Bright Red",
+        "paint_code": "73L",
+        "slug": "bright-red-73l",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/bright-red-73l/",
+        "source_label": "PaintScratch 2006 Suzuki",
+        "hex_value": "#D30B0B"
+      },
+      {
+        "display_name": "Deep Khaki",
+        "paint_code": "79U",
+        "slug": "deep-khaki-79u",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/deep-khaki-79u/",
+        "source_label": "PaintScratch 2006 Suzuki",
+        "hex_value": "#BBB883"
+      },
+      {
+        "display_name": "Tuxedo Black Pearl",
+        "paint_code": "83L",
+        "slug": "tuxedo-black-pearl-83l",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/tuxedo-black-pearl-83l/",
+        "source_label": "PaintScratch 2006 Suzuki",
+        "hex_value": "#0C0C0C"
+      },
+      {
+        "display_name": "Tuxedo Black Pearl Metallic",
+        "paint_code": "87U",
+        "slug": "tuxedo-black-pearl-metallic-87u",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/tuxedo-black-pearl-metallic-87u/",
+        "source_label": "PaintScratch 2006 Suzuki",
+        "hex_value": "#2D2525"
+      },
+      {
+        "display_name": "Titanium Silver Metallic",
+        "paint_code": "92U",
+        "slug": "titanium-silver-metallic-92u",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/titanium-silver-metallic-92u/",
+        "source_label": "PaintScratch 2006 Suzuki",
+        "hex_value": "#E8E4C4"
+      }
+    ],
+    "2007": [
+      {
+        "display_name": "Sunlight Copper Pearl Metallic",
+        "paint_code": "ZFM",
+        "slug": "sunlight-copper-pearl-metallic-zfm",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/sunlight-copper-pearl-metallic-zfm/",
+        "source_label": "PaintScratch 2007 Suzuki",
+        "hex_value": "#9F512B"
+      },
+      {
+        "display_name": "Azure Blue Pearl Metallic",
+        "paint_code": "ZY4",
+        "slug": "azure-blue-pearl-metallic-zy4",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/azure-blue-pearl-metallic-zy4/",
+        "source_label": "PaintScratch 2007 Suzuki",
+        "hex_value": "#AFB5B9"
+      },
+      {
+        "display_name": "Satin Black",
+        "paint_code": "1SC",
+        "slug": "satin-black-1sc",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/satin-black-1sc/",
+        "source_label": "PaintScratch 2007 Suzuki",
+        "hex_value": "#0D1315"
+      },
+      {
+        "display_name": "Misty Blue Metallic",
+        "paint_code": "05U",
+        "slug": "misty-blue-metallic-05u",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/misty-blue-metallic-05u/",
+        "source_label": "PaintScratch 2007 Suzuki",
+        "hex_value": "#A2B5C2"
+      },
+      {
+        "display_name": "Absolute White",
+        "paint_code": "11U",
+        "slug": "absolute-white-11u",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/absolute-white-11u/",
+        "source_label": "PaintScratch 2007 Suzuki",
+        "hex_value": "#FFFDF5"
+      },
+      {
+        "display_name": "Cobalt Blue Metallic",
+        "paint_code": "26V",
+        "slug": "cobalt-blue-metallic-26v",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/cobalt-blue-metallic-26v/",
+        "source_label": "PaintScratch 2007 Suzuki",
+        "hex_value": "#003366"
+      },
+      {
+        "display_name": "Desert Green Metallic",
+        "paint_code": "44V",
+        "slug": "desert-green-metallic-44v",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/desert-green-metallic-44v/",
+        "source_label": "PaintScratch 2007 Suzuki",
+        "hex_value": "#87A163"
+      },
+      {
+        "display_name": "Napa Red",
+        "paint_code": "53U",
+        "slug": "napa-red-53u",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/napa-red-53u/",
+        "source_label": "PaintScratch 2007 Suzuki",
+        "hex_value": "#6E1614"
+      },
+      {
+        "display_name": "Sunburst Metallic",
+        "paint_code": "54U",
+        "slug": "sunburst-metallic-54u",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/sunburst-metallic-54u/",
+        "source_label": "PaintScratch 2007 Suzuki",
+        "hex_value": "#863825"
+      },
+      {
+        "display_name": "Champagne Beige Metallic",
+        "paint_code": "68U",
+        "slug": "champagne-beige-metallic-68u",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/champagne-beige-metallic-68u/",
+        "source_label": "PaintScratch 2007 Suzuki",
+        "hex_value": "#AF9F77"
+      },
+      {
+        "display_name": "Fusion Red Metallic",
+        "paint_code": "70U",
+        "slug": "fusion-red-metallic-70u",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/fusion-red-metallic-70u/",
+        "source_label": "PaintScratch 2007 Suzuki",
+        "hex_value": "#781818"
+      },
+      {
+        "display_name": "Bright Red",
+        "paint_code": "73L",
+        "slug": "bright-red-73l",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/bright-red-73l/",
+        "source_label": "PaintScratch 2007 Suzuki",
+        "hex_value": "#D30B0B"
+      },
+      {
+        "display_name": "Tuxedo Black Pearl Metallic",
+        "paint_code": "87U",
+        "slug": "tuxedo-black-pearl-metallic-87u",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/tuxedo-black-pearl-metallic-87u/",
+        "source_label": "PaintScratch 2007 Suzuki",
+        "hex_value": "#2D2525"
+      },
+      {
+        "display_name": "Titanium Silver Metallic",
+        "paint_code": "92U",
+        "slug": "titanium-silver-metallic-92u",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/titanium-silver-metallic-92u/",
+        "source_label": "PaintScratch 2007 Suzuki",
+        "hex_value": "#E8E4C4"
+      },
+      {
+        "display_name": "Titanium Silver Metallic",
+        "paint_code": "95U",
+        "slug": "titanium-silver-metallic-95u",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/titanium-silver-metallic-95u/",
+        "source_label": "PaintScratch 2007 Suzuki",
+        "hex_value": "#DCE1E4"
+      },
+      {
+        "display_name": "Silky Silver Metallic",
+        "paint_code": "Z2S",
+        "slug": "silky-silver-metallic-z2s",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/silky-silver-metallic-z2s/",
+        "source_label": "PaintScratch 2007 Suzuki",
+        "hex_value": "#BCC1BB"
+      }
+    ],
+    "2008": [
+      {
+        "display_name": "Sunlight Copper Pearl Metallic",
+        "paint_code": "ZFM",
+        "slug": "sunlight-copper-pearl-metallic-zfm",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/sunlight-copper-pearl-metallic-zfm/",
+        "source_label": "PaintScratch 2008 Suzuki",
+        "hex_value": "#9F512B"
+      },
+      {
+        "display_name": "Azure Blue Pearl Metallic",
+        "paint_code": "ZY4",
+        "slug": "azure-blue-pearl-metallic-zy4",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/azure-blue-pearl-metallic-zy4/",
+        "source_label": "PaintScratch 2008 Suzuki",
+        "hex_value": "#AFB5B9"
+      },
+      {
+        "display_name": "Satin Black",
+        "paint_code": "1SC",
+        "slug": "satin-black-1sc",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/satin-black-1sc/",
+        "source_label": "PaintScratch 2008 Suzuki",
+        "hex_value": "#0D1315"
+      },
+      {
+        "display_name": "Misty Blue Metallic",
+        "paint_code": "05U",
+        "slug": "misty-blue-metallic-05u",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/misty-blue-metallic-05u/",
+        "source_label": "PaintScratch 2008 Suzuki",
+        "hex_value": "#A2B5C2"
+      },
+      {
+        "display_name": "Absolute White",
+        "paint_code": "11U",
+        "slug": "absolute-white-11u",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/absolute-white-11u/",
+        "source_label": "PaintScratch 2008 Suzuki",
+        "hex_value": "#FFFDF5"
+      },
+      {
+        "display_name": "Cobalt Blue Metallic",
+        "paint_code": "26V",
+        "slug": "cobalt-blue-metallic-26v",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/cobalt-blue-metallic-26v/",
+        "source_label": "PaintScratch 2008 Suzuki",
+        "hex_value": "#003366"
+      },
+      {
+        "display_name": "Cobalt Blue Pearl",
+        "paint_code": "33U",
+        "slug": "cobalt-blue-pearl-33u",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/cobalt-blue-pearl-33u/",
+        "source_label": "PaintScratch 2008 Suzuki",
+        "hex_value": "#3F6399"
+      },
+      {
+        "display_name": "Desert Green Metallic",
+        "paint_code": "44V",
+        "slug": "desert-green-metallic-44v",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/desert-green-metallic-44v/",
+        "source_label": "PaintScratch 2008 Suzuki",
+        "hex_value": "#87A163"
+      },
+      {
+        "display_name": "Sunburst Metallic",
+        "paint_code": "54U",
+        "slug": "sunburst-metallic-54u",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/sunburst-metallic-54u/",
+        "source_label": "PaintScratch 2008 Suzuki",
+        "hex_value": "#863825"
+      },
+      {
+        "display_name": "Champagne Beige Metallic",
+        "paint_code": "68U",
+        "slug": "champagne-beige-metallic-68u",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/champagne-beige-metallic-68u/",
+        "source_label": "PaintScratch 2008 Suzuki",
+        "hex_value": "#AF9F77"
+      },
+      {
+        "display_name": "Fusion Red Metallic",
+        "paint_code": "70U",
+        "slug": "fusion-red-metallic-70u",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/fusion-red-metallic-70u/",
+        "source_label": "PaintScratch 2008 Suzuki",
+        "hex_value": "#781818"
+      },
+      {
+        "display_name": "Bright Red",
+        "paint_code": "73L",
+        "slug": "bright-red-73l",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/bright-red-73l/",
+        "source_label": "PaintScratch 2008 Suzuki",
+        "hex_value": "#D30B0B"
+      },
+      {
+        "display_name": "Tuxedo Black Pearl Metallic",
+        "paint_code": "87U",
+        "slug": "tuxedo-black-pearl-metallic-87u",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/tuxedo-black-pearl-metallic-87u/",
+        "source_label": "PaintScratch 2008 Suzuki",
+        "hex_value": "#2D2525"
+      },
+      {
+        "display_name": "Titanium Silver Metallic",
+        "paint_code": "92U",
+        "slug": "titanium-silver-metallic-92u",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/titanium-silver-metallic-92u/",
+        "source_label": "PaintScratch 2008 Suzuki",
+        "hex_value": "#E8E4C4"
+      },
+      {
+        "display_name": "Silky Silver Metallic",
+        "paint_code": "Z2S",
+        "slug": "silky-silver-metallic-z2s",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/silky-silver-metallic-z2s/",
+        "source_label": "PaintScratch 2008 Suzuki",
+        "hex_value": "#BCC1BB"
+      },
+      {
+        "display_name": "White Pearl Tricoat",
+        "paint_code": "Z7T",
+        "slug": "white-pearl-tricoat-z7t",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/white-pearl-tricoat-z7t/",
+        "source_label": "PaintScratch 2008 Suzuki",
+        "hex_value": "#EFEDDB"
+      }
+    ],
+    "2009": [
+      {
+        "display_name": "Sunlight Copper Pearl Metallic",
+        "paint_code": "ZFM",
+        "slug": "sunlight-copper-pearl-metallic-zfm",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/sunlight-copper-pearl-metallic-zfm/",
+        "source_label": "PaintScratch 2009 Suzuki",
+        "hex_value": "#9F512B"
+      },
+      {
+        "display_name": "Azure Blue Pearl Metallic",
+        "paint_code": "ZY4",
+        "slug": "azure-blue-pearl-metallic-zy4",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/azure-blue-pearl-metallic-zy4/",
+        "source_label": "PaintScratch 2009 Suzuki",
+        "hex_value": "#AFB5B9"
+      },
+      {
+        "display_name": "Satin Black",
+        "paint_code": "1SC",
+        "slug": "satin-black-1sc",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/satin-black-1sc/",
+        "source_label": "PaintScratch 2009 Suzuki",
+        "hex_value": "#0D1315"
+      },
+      {
+        "display_name": "Urban Gray Metallic",
+        "paint_code": "04U",
+        "slug": "urban-gray-metallic-04u",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/urban-gray-metallic-04u/",
+        "source_label": "PaintScratch 2009 Suzuki",
+        "hex_value": "#8A8876"
+      },
+      {
+        "display_name": "Cobalt Blue Pearl",
+        "paint_code": "33U",
+        "slug": "cobalt-blue-pearl-33u",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/cobalt-blue-pearl-33u/",
+        "source_label": "PaintScratch 2009 Suzuki",
+        "hex_value": "#3F6399"
+      },
+      {
+        "display_name": "Carbon Black Metallic",
+        "paint_code": "58U",
+        "slug": "carbon-black-metallic-58u",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/carbon-black-metallic-58u/",
+        "source_label": "PaintScratch 2009 Suzuki",
+        "hex_value": "#251F1F"
+      },
+      {
+        "display_name": "Bright Red",
+        "paint_code": "73L",
+        "slug": "bright-red-73l",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/bright-red-73l/",
+        "source_label": "PaintScratch 2009 Suzuki",
+        "hex_value": "#D30B0B"
+      },
+      {
+        "display_name": "Titanium Silver Metallic",
+        "paint_code": "92U",
+        "slug": "titanium-silver-metallic-92u",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/titanium-silver-metallic-92u/",
+        "source_label": "PaintScratch 2009 Suzuki",
+        "hex_value": "#E8E4C4"
+      },
+      {
+        "display_name": "Red",
+        "paint_code": "A20",
+        "slug": "red-a20",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/red-a20/",
+        "source_label": "PaintScratch 2009 Suzuki",
+        "hex_value": "#B0211E"
+      },
+      {
+        "display_name": "Radiant Silver Metallic",
+        "paint_code": "K12",
+        "slug": "radiant-silver-metallic-k12",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/radiant-silver-metallic-k12/",
+        "source_label": "PaintScratch 2009 Suzuki",
+        "hex_value": "#E1DED9"
+      },
+      {
+        "display_name": "Storm Gray Metallic",
+        "paint_code": "K27",
+        "slug": "storm-gray-metallic-k27",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/storm-gray-metallic-k27/",
+        "source_label": "PaintScratch 2009 Suzuki",
+        "hex_value": "#5E5A50"
+      },
+      {
+        "display_name": "Super Black",
+        "paint_code": "KH3",
+        "slug": "super-black-kh3",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/super-black-kh3/",
+        "source_label": "PaintScratch 2009 Suzuki",
+        "hex_value": "#0A0A0A"
+      },
+      {
+        "display_name": "Avalanche White",
+        "paint_code": "QM1",
+        "slug": "avalanche-white-qm1",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/avalanche-white-qm1/",
+        "source_label": "PaintScratch 2009 Suzuki",
+        "hex_value": "#FAF9F6"
+      },
+      {
+        "display_name": "Majestic Blue Metallic",
+        "paint_code": "RAB",
+        "slug": "majestic-blue-metallic-rab",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/majestic-blue-metallic-rab/",
+        "source_label": "PaintScratch 2009 Suzuki",
+        "hex_value": "#2C3D5A"
+      },
+      {
+        "display_name": "Silky Silver Metallic",
+        "paint_code": "Z2S",
+        "slug": "silky-silver-metallic-z2s",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/silky-silver-metallic-z2s/",
+        "source_label": "PaintScratch 2009 Suzuki",
+        "hex_value": "#BCC1BB"
+      },
+      {
+        "display_name": "White Pearl Tricoat",
+        "paint_code": "Z7T",
+        "slug": "white-pearl-tricoat-z7t",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/white-pearl-tricoat-z7t/",
+        "source_label": "PaintScratch 2009 Suzuki",
+        "hex_value": "#EFEDDB"
+      }
+    ],
+    "2010": [
+      {
+        "display_name": "Sunlight Copper Pearl Metallic",
+        "paint_code": "ZFM",
+        "slug": "sunlight-copper-pearl-metallic-zfm",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/sunlight-copper-pearl-metallic-zfm/",
+        "source_label": "PaintScratch 2010 Suzuki",
+        "hex_value": "#9F512B"
+      },
+      {
+        "display_name": "White Pearl Tricoat",
+        "paint_code": "ZMT",
+        "slug": "white-pearl-tricoat-zmt",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/white-pearl-tricoat-zmt/",
+        "source_label": "PaintScratch 2010 Suzuki",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Prussian Blue Metallic",
+        "paint_code": "ZMZ",
+        "slug": "prussian-blue-metallic-zmz",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/prussian-blue-metallic-zmz/",
+        "source_label": "PaintScratch 2010 Suzuki",
+        "hex_value": "#2B3A6B"
+      },
+      {
+        "display_name": "Urban Gray Metallic",
+        "paint_code": "04U",
+        "slug": "urban-gray-metallic-04u",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/urban-gray-metallic-04u/",
+        "source_label": "PaintScratch 2010 Suzuki",
+        "hex_value": "#8A8876"
+      },
+      {
+        "display_name": "Cobalt Blue Pearl",
+        "paint_code": "33U",
+        "slug": "cobalt-blue-pearl-33u",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/cobalt-blue-pearl-33u/",
+        "source_label": "PaintScratch 2010 Suzuki",
+        "hex_value": "#3F6399"
+      },
+      {
+        "display_name": "Carbon Black Metallic",
+        "paint_code": "58U",
+        "slug": "carbon-black-metallic-58u",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/carbon-black-metallic-58u/",
+        "source_label": "PaintScratch 2010 Suzuki",
+        "hex_value": "#251F1F"
+      },
+      {
+        "display_name": "Bright Red",
+        "paint_code": "73L",
+        "slug": "bright-red-73l",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/bright-red-73l/",
+        "source_label": "PaintScratch 2010 Suzuki",
+        "hex_value": "#D30B0B"
+      },
+      {
+        "display_name": "Titanium Silver Metallic",
+        "paint_code": "92U",
+        "slug": "titanium-silver-metallic-92u",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/titanium-silver-metallic-92u/",
+        "source_label": "PaintScratch 2010 Suzuki",
+        "hex_value": "#E8E4C4"
+      },
+      {
+        "display_name": "Red",
+        "paint_code": "A20",
+        "slug": "red-a20",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/red-a20/",
+        "source_label": "PaintScratch 2010 Suzuki",
+        "hex_value": "#B0211E"
+      },
+      {
+        "display_name": "Radiant Silver Metallic",
+        "paint_code": "K12",
+        "slug": "radiant-silver-metallic-k12",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/radiant-silver-metallic-k12/",
+        "source_label": "PaintScratch 2010 Suzuki",
+        "hex_value": "#E1DED9"
+      },
+      {
+        "display_name": "Storm Gray Metallic",
+        "paint_code": "K27",
+        "slug": "storm-gray-metallic-k27",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/storm-gray-metallic-k27/",
+        "source_label": "PaintScratch 2010 Suzuki",
+        "hex_value": "#5E5A50"
+      },
+      {
+        "display_name": "Super Black",
+        "paint_code": "KH3",
+        "slug": "super-black-kh3",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/super-black-kh3/",
+        "source_label": "PaintScratch 2010 Suzuki",
+        "hex_value": "#0A0A0A"
+      },
+      {
+        "display_name": "Avalanche White",
+        "paint_code": "QM1",
+        "slug": "avalanche-white-qm1",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/avalanche-white-qm1/",
+        "source_label": "PaintScratch 2010 Suzuki",
+        "hex_value": "#FAF9F6"
+      },
+      {
+        "display_name": "Majestic Blue Metallic",
+        "paint_code": "RAB",
+        "slug": "majestic-blue-metallic-rab",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/majestic-blue-metallic-rab/",
+        "source_label": "PaintScratch 2010 Suzuki",
+        "hex_value": "#2C3D5A"
+      },
+      {
+        "display_name": "Silky Silver Metallic",
+        "paint_code": "Z2S",
+        "slug": "silky-silver-metallic-z2s",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/silky-silver-metallic-z2s/",
+        "source_label": "PaintScratch 2010 Suzuki",
+        "hex_value": "#BCC1BB"
+      },
+      {
+        "display_name": "White Pearl Tricoat",
+        "paint_code": "Z7T",
+        "slug": "white-pearl-tricoat-z7t",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/white-pearl-tricoat-z7t/",
+        "source_label": "PaintScratch 2010 Suzuki",
+        "hex_value": "#EFEDDB"
+      }
+    ],
+    "2011": [
+      {
+        "display_name": "Sunlight Copper Pearl Metallic",
+        "paint_code": "ZFM",
+        "slug": "sunlight-copper-pearl-metallic-zfm",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/sunlight-copper-pearl-metallic-zfm/",
+        "source_label": "PaintScratch 2011 Suzuki",
+        "hex_value": "#9F512B"
+      },
+      {
+        "display_name": "White Pearl Tricoat",
+        "paint_code": "ZMT",
+        "slug": "white-pearl-tricoat-zmt",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/white-pearl-tricoat-zmt/",
+        "source_label": "PaintScratch 2011 Suzuki",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Prussian Blue Metallic",
+        "paint_code": "ZMZ",
+        "slug": "prussian-blue-metallic-zmz",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/prussian-blue-metallic-zmz/",
+        "source_label": "PaintScratch 2011 Suzuki",
+        "hex_value": "#2B3A6B"
+      },
+      {
+        "display_name": "Boost Blue Pearl",
+        "paint_code": "ZRZ",
+        "slug": "boost-blue-pearl-zrz",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/boost-blue-pearl-zrz/",
+        "source_label": "PaintScratch 2011 Suzuki",
+        "hex_value": "#7563E5"
+      },
+      {
+        "display_name": "Urban Gray Metallic",
+        "paint_code": "04U",
+        "slug": "urban-gray-metallic-04u",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/urban-gray-metallic-04u/",
+        "source_label": "PaintScratch 2011 Suzuki",
+        "hex_value": "#8A8876"
+      },
+      {
+        "display_name": "Superior White",
+        "paint_code": "26U",
+        "slug": "superior-white-26u",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/superior-white-26u/",
+        "source_label": "PaintScratch 2011 Suzuki",
+        "hex_value": "#FEFDF6"
+      },
+      {
+        "display_name": "Carbon Black Metallic",
+        "paint_code": "58U",
+        "slug": "carbon-black-metallic-58u",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/carbon-black-metallic-58u/",
+        "source_label": "PaintScratch 2011 Suzuki",
+        "hex_value": "#251F1F"
+      },
+      {
+        "display_name": "Red",
+        "paint_code": "A20",
+        "slug": "red-a20",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/red-a20/",
+        "source_label": "PaintScratch 2011 Suzuki",
+        "hex_value": "#B0211E"
+      },
+      {
+        "display_name": "Radiant Silver Metallic",
+        "paint_code": "K12",
+        "slug": "radiant-silver-metallic-k12",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/radiant-silver-metallic-k12/",
+        "source_label": "PaintScratch 2011 Suzuki",
+        "hex_value": "#E1DED9"
+      },
+      {
+        "display_name": "Storm Gray Metallic",
+        "paint_code": "K27",
+        "slug": "storm-gray-metallic-k27",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/storm-gray-metallic-k27/",
+        "source_label": "PaintScratch 2011 Suzuki",
+        "hex_value": "#5E5A50"
+      },
+      {
+        "display_name": "Super Black",
+        "paint_code": "KH3",
+        "slug": "super-black-kh3",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/super-black-kh3/",
+        "source_label": "PaintScratch 2011 Suzuki",
+        "hex_value": "#0A0A0A"
+      },
+      {
+        "display_name": "Avalanche White",
+        "paint_code": "QM1",
+        "slug": "avalanche-white-qm1",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/avalanche-white-qm1/",
+        "source_label": "PaintScratch 2011 Suzuki",
+        "hex_value": "#FAF9F6"
+      },
+      {
+        "display_name": "Majestic Blue Metallic",
+        "paint_code": "RAB",
+        "slug": "majestic-blue-metallic-rab",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/majestic-blue-metallic-rab/",
+        "source_label": "PaintScratch 2011 Suzuki",
+        "hex_value": "#2C3D5A"
+      },
+      {
+        "display_name": "Bordeaux Red Pearl",
+        "paint_code": "Z2A",
+        "slug": "bordeaux-red-pearl-z2a",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/bordeaux-red-pearl-z2a/",
+        "source_label": "PaintScratch 2011 Suzuki",
+        "hex_value": "#971B2A"
+      },
+      {
+        "display_name": "Silky Silver Metallic",
+        "paint_code": "Z2S",
+        "slug": "silky-silver-metallic-z2s",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/silky-silver-metallic-z2s/",
+        "source_label": "PaintScratch 2011 Suzuki",
+        "hex_value": "#BCC1BB"
+      },
+      {
+        "display_name": "White Pearl Tricoat",
+        "paint_code": "Z7T",
+        "slug": "white-pearl-tricoat-z7t",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/white-pearl-tricoat-z7t/",
+        "source_label": "PaintScratch 2011 Suzuki",
+        "hex_value": "#EFEDDB"
+      }
+    ],
+    "2012": [
+      {
+        "display_name": "Sunlight Copper Pearl Metallic",
+        "paint_code": "ZFM",
+        "slug": "sunlight-copper-pearl-metallic-zfm",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/sunlight-copper-pearl-metallic-zfm/",
+        "source_label": "PaintScratch 2012 Suzuki",
+        "hex_value": "#9F512B"
+      },
+      {
+        "display_name": "White Pearl Tricoat",
+        "paint_code": "ZMT",
+        "slug": "white-pearl-tricoat-zmt",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/white-pearl-tricoat-zmt/",
+        "source_label": "PaintScratch 2012 Suzuki",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Prussian Blue Metallic",
+        "paint_code": "ZMZ",
+        "slug": "prussian-blue-metallic-zmz",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/prussian-blue-metallic-zmz/",
+        "source_label": "PaintScratch 2012 Suzuki",
+        "hex_value": "#2B3A6B"
+      },
+      {
+        "display_name": "Boost Blue Pearl",
+        "paint_code": "ZRZ",
+        "slug": "boost-blue-pearl-zrz",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/boost-blue-pearl-zrz/",
+        "source_label": "PaintScratch 2012 Suzuki",
+        "hex_value": "#7563E5"
+      },
+      {
+        "display_name": "Superior White",
+        "paint_code": "26U",
+        "slug": "superior-white-26u",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/superior-white-26u/",
+        "source_label": "PaintScratch 2012 Suzuki",
+        "hex_value": "#FEFDF6"
+      },
+      {
+        "display_name": "Red",
+        "paint_code": "A20",
+        "slug": "red-a20",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/red-a20/",
+        "source_label": "PaintScratch 2012 Suzuki",
+        "hex_value": "#B0211E"
+      },
+      {
+        "display_name": "Radiant Silver Metallic",
+        "paint_code": "K12",
+        "slug": "radiant-silver-metallic-k12",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/radiant-silver-metallic-k12/",
+        "source_label": "PaintScratch 2012 Suzuki",
+        "hex_value": "#E1DED9"
+      },
+      {
+        "display_name": "Super Black",
+        "paint_code": "KH3",
+        "slug": "super-black-kh3",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/super-black-kh3/",
+        "source_label": "PaintScratch 2012 Suzuki",
+        "hex_value": "#0A0A0A"
+      },
+      {
+        "display_name": "Avalanche White",
+        "paint_code": "QM1",
+        "slug": "avalanche-white-qm1",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/avalanche-white-qm1/",
+        "source_label": "PaintScratch 2012 Suzuki",
+        "hex_value": "#FAF9F6"
+      },
+      {
+        "display_name": "Majestic Blue Metallic",
+        "paint_code": "RAB",
+        "slug": "majestic-blue-metallic-rab",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/majestic-blue-metallic-rab/",
+        "source_label": "PaintScratch 2012 Suzuki",
+        "hex_value": "#2C3D5A"
+      },
+      {
+        "display_name": "Silky Silver Metallic",
+        "paint_code": "Z2S",
+        "slug": "silky-silver-metallic-z2s",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/silky-silver-metallic-z2s/",
+        "source_label": "PaintScratch 2012 Suzuki",
+        "hex_value": "#BCC1BB"
+      },
+      {
+        "display_name": "White Pearl Tricoat",
+        "paint_code": "Z7T",
+        "slug": "white-pearl-tricoat-z7t",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/white-pearl-tricoat-z7t/",
+        "source_label": "PaintScratch 2012 Suzuki",
+        "hex_value": "#EFEDDB"
+      },
+      {
+        "display_name": "Clear Beige Metallic",
+        "paint_code": "ZDK",
+        "slug": "clear-beige-metallic-zdk",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/clear-beige-metallic-zdk/",
+        "source_label": "PaintScratch 2012 Suzuki",
+        "hex_value": "#DBD1A1"
+      },
+      {
+        "display_name": "Bluish Black Pearl Metallic",
+        "paint_code": "ZJ3",
+        "slug": "bluish-black-pearl-metallic-zj3",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/bluish-black-pearl-metallic-zj3/",
+        "source_label": "PaintScratch 2012 Suzuki",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Nocturne Blue Pearl",
+        "paint_code": "ZJP",
+        "slug": "nocturne-blue-pearl-zjp",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/nocturne-blue-pearl-zjp/",
+        "source_label": "PaintScratch 2012 Suzuki",
+        "hex_value": "#2B2C49"
+      },
+      {
+        "display_name": "Phoenix Red Pearl",
+        "paint_code": "ZLB",
+        "slug": "phoenix-red-pearl-zlb",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/phoenix-red-pearl-zlb/",
+        "source_label": "PaintScratch 2012 Suzuki",
+        "hex_value": "#872417"
+      }
+    ],
+    "2013": [
+      {
+        "display_name": "Sunlight Copper Pearl Metallic",
+        "paint_code": "ZFM",
+        "slug": "sunlight-copper-pearl-metallic-zfm",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/sunlight-copper-pearl-metallic-zfm/",
+        "source_label": "PaintScratch 2013 Suzuki",
+        "hex_value": "#9F512B"
+      },
+      {
+        "display_name": "White Pearl Tricoat",
+        "paint_code": "ZMT",
+        "slug": "white-pearl-tricoat-zmt",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/white-pearl-tricoat-zmt/",
+        "source_label": "PaintScratch 2013 Suzuki",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Prussian Blue Metallic",
+        "paint_code": "ZMZ",
+        "slug": "prussian-blue-metallic-zmz",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/prussian-blue-metallic-zmz/",
+        "source_label": "PaintScratch 2013 Suzuki",
+        "hex_value": "#2B3A6B"
+      },
+      {
+        "display_name": "Boost Blue Pearl",
+        "paint_code": "ZRZ",
+        "slug": "boost-blue-pearl-zrz",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/boost-blue-pearl-zrz/",
+        "source_label": "PaintScratch 2013 Suzuki",
+        "hex_value": "#7563E5"
+      },
+      {
+        "display_name": "Superior White",
+        "paint_code": "26U",
+        "slug": "superior-white-26u",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/superior-white-26u/",
+        "source_label": "PaintScratch 2013 Suzuki",
+        "hex_value": "#FEFDF6"
+      },
+      {
+        "display_name": "Red",
+        "paint_code": "A20",
+        "slug": "red-a20",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/red-a20/",
+        "source_label": "PaintScratch 2013 Suzuki",
+        "hex_value": "#B0211E"
+      },
+      {
+        "display_name": "Radiant Silver Metallic",
+        "paint_code": "K12",
+        "slug": "radiant-silver-metallic-k12",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/radiant-silver-metallic-k12/",
+        "source_label": "PaintScratch 2013 Suzuki",
+        "hex_value": "#E1DED9"
+      },
+      {
+        "display_name": "Super Black",
+        "paint_code": "KH3",
+        "slug": "super-black-kh3",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/super-black-kh3/",
+        "source_label": "PaintScratch 2013 Suzuki",
+        "hex_value": "#0A0A0A"
+      },
+      {
+        "display_name": "Avalanche White",
+        "paint_code": "QM1",
+        "slug": "avalanche-white-qm1",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/avalanche-white-qm1/",
+        "source_label": "PaintScratch 2013 Suzuki",
+        "hex_value": "#FAF9F6"
+      },
+      {
+        "display_name": "Majestic Blue Metallic",
+        "paint_code": "RAB",
+        "slug": "majestic-blue-metallic-rab",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/majestic-blue-metallic-rab/",
+        "source_label": "PaintScratch 2013 Suzuki",
+        "hex_value": "#2C3D5A"
+      },
+      {
+        "display_name": "Silky Silver Metallic",
+        "paint_code": "Z2S",
+        "slug": "silky-silver-metallic-z2s",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/silky-silver-metallic-z2s/",
+        "source_label": "PaintScratch 2013 Suzuki",
+        "hex_value": "#BCC1BB"
+      },
+      {
+        "display_name": "White Pearl Tricoat",
+        "paint_code": "Z7T",
+        "slug": "white-pearl-tricoat-z7t",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/white-pearl-tricoat-z7t/",
+        "source_label": "PaintScratch 2013 Suzuki",
+        "hex_value": "#EFEDDB"
+      },
+      {
+        "display_name": "Silky Silver",
+        "paint_code": "ZCC/C02",
+        "slug": "silky-silver-zccc02",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/silky-silver-zccc02/",
+        "source_label": "PaintScratch 2013 Suzuki",
+        "hex_value": "#D6E0F8"
+      },
+      {
+        "display_name": "Bluish Black Pearl Metallic",
+        "paint_code": "ZJ3",
+        "slug": "bluish-black-pearl-metallic-zj3",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/bluish-black-pearl-metallic-zj3/",
+        "source_label": "PaintScratch 2013 Suzuki",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Nocturne Blue Pearl",
+        "paint_code": "ZJP",
+        "slug": "nocturne-blue-pearl-zjp",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/nocturne-blue-pearl-zjp/",
+        "source_label": "PaintScratch 2013 Suzuki",
+        "hex_value": "#2B2C49"
+      },
+      {
+        "display_name": "Phoenix Red Pearl",
+        "paint_code": "ZLB",
+        "slug": "phoenix-red-pearl-zlb",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/phoenix-red-pearl-zlb/",
+        "source_label": "PaintScratch 2013 Suzuki",
+        "hex_value": "#872417"
+      }
+    ],
+    "2014": [
+      {
+        "display_name": "Sunlight Copper Pearl Metallic",
+        "paint_code": "ZFM",
+        "slug": "sunlight-copper-pearl-metallic-zfm",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/sunlight-copper-pearl-metallic-zfm/",
+        "source_label": "PaintScratch 2014 Suzuki",
+        "hex_value": "#9F512B"
+      },
+      {
+        "display_name": "White Pearl Tricoat",
+        "paint_code": "ZMT",
+        "slug": "white-pearl-tricoat-zmt",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/white-pearl-tricoat-zmt/",
+        "source_label": "PaintScratch 2014 Suzuki",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Prussian Blue Metallic",
+        "paint_code": "ZMZ",
+        "slug": "prussian-blue-metallic-zmz",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/prussian-blue-metallic-zmz/",
+        "source_label": "PaintScratch 2014 Suzuki",
+        "hex_value": "#2B3A6B"
+      },
+      {
+        "display_name": "Boost Blue Pearl",
+        "paint_code": "ZRZ",
+        "slug": "boost-blue-pearl-zrz",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/boost-blue-pearl-zrz/",
+        "source_label": "PaintScratch 2014 Suzuki",
+        "hex_value": "#7563E5"
+      },
+      {
+        "display_name": "Urban Gray Metallic",
+        "paint_code": "04U",
+        "slug": "urban-gray-metallic-04u",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/urban-gray-metallic-04u/",
+        "source_label": "PaintScratch 2014 Suzuki",
+        "hex_value": "#8A8876"
+      },
+      {
+        "display_name": "Superior White",
+        "paint_code": "26U",
+        "slug": "superior-white-26u",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/superior-white-26u/",
+        "source_label": "PaintScratch 2014 Suzuki",
+        "hex_value": "#FEFDF6"
+      },
+      {
+        "display_name": "Carbon Black Metallic",
+        "paint_code": "58U",
+        "slug": "carbon-black-metallic-58u",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/carbon-black-metallic-58u/",
+        "source_label": "PaintScratch 2014 Suzuki",
+        "hex_value": "#251F1F"
+      },
+      {
+        "display_name": "Red",
+        "paint_code": "A20",
+        "slug": "red-a20",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/red-a20/",
+        "source_label": "PaintScratch 2014 Suzuki",
+        "hex_value": "#B0211E"
+      },
+      {
+        "display_name": "Radiant Silver Metallic",
+        "paint_code": "K12",
+        "slug": "radiant-silver-metallic-k12",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/radiant-silver-metallic-k12/",
+        "source_label": "PaintScratch 2014 Suzuki",
+        "hex_value": "#E1DED9"
+      },
+      {
+        "display_name": "Super Black",
+        "paint_code": "KH3",
+        "slug": "super-black-kh3",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/super-black-kh3/",
+        "source_label": "PaintScratch 2014 Suzuki",
+        "hex_value": "#0A0A0A"
+      },
+      {
+        "display_name": "Avalanche White",
+        "paint_code": "QM1",
+        "slug": "avalanche-white-qm1",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/avalanche-white-qm1/",
+        "source_label": "PaintScratch 2014 Suzuki",
+        "hex_value": "#FAF9F6"
+      },
+      {
+        "display_name": "Majestic Blue Metallic",
+        "paint_code": "RAB",
+        "slug": "majestic-blue-metallic-rab",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/majestic-blue-metallic-rab/",
+        "source_label": "PaintScratch 2014 Suzuki",
+        "hex_value": "#2C3D5A"
+      },
+      {
+        "display_name": "Bordeaux Red Pearl",
+        "paint_code": "Z2A",
+        "slug": "bordeaux-red-pearl-z2a",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/bordeaux-red-pearl-z2a/",
+        "source_label": "PaintScratch 2014 Suzuki",
+        "hex_value": "#971B2A"
+      },
+      {
+        "display_name": "Silky Silver Metallic",
+        "paint_code": "Z2S",
+        "slug": "silky-silver-metallic-z2s",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/silky-silver-metallic-z2s/",
+        "source_label": "PaintScratch 2014 Suzuki",
+        "hex_value": "#BCC1BB"
+      },
+      {
+        "display_name": "White Pearl Tricoat",
+        "paint_code": "Z7T",
+        "slug": "white-pearl-tricoat-z7t",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/white-pearl-tricoat-z7t/",
+        "source_label": "PaintScratch 2014 Suzuki",
+        "hex_value": "#EFEDDB"
+      },
+      {
+        "display_name": "Bright Red",
+        "paint_code": "ZCF",
+        "slug": "bright-red-zcf",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/bright-red-zcf/",
+        "source_label": "PaintScratch 2014 Suzuki",
+        "hex_value": "#F31515"
+      }
+    ],
+    "2015": [
+      {
+        "display_name": "Boost Blue Pearl",
+        "paint_code": "ZRZ",
+        "slug": "boost-blue-pearl-zrz",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/boost-blue-pearl-zrz/",
+        "source_label": "PaintScratch 2015 Suzuki",
+        "hex_value": "#7563E5"
+      },
+      {
+        "display_name": "Urban Gray Metallic",
+        "paint_code": "04U",
+        "slug": "urban-gray-metallic-04u",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/urban-gray-metallic-04u/",
+        "source_label": "PaintScratch 2015 Suzuki",
+        "hex_value": "#8A8876"
+      },
+      {
+        "display_name": "Carbon Black Metallic",
+        "paint_code": "58U",
+        "slug": "carbon-black-metallic-58u",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/carbon-black-metallic-58u/",
+        "source_label": "PaintScratch 2015 Suzuki",
+        "hex_value": "#251F1F"
+      },
+      {
+        "display_name": "Bordeaux Red Pearl",
+        "paint_code": "Z2A",
+        "slug": "bordeaux-red-pearl-z2a",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/bordeaux-red-pearl-z2a/",
+        "source_label": "PaintScratch 2015 Suzuki",
+        "hex_value": "#971B2A"
+      },
+      {
+        "display_name": "Bright Red",
+        "paint_code": "ZCF",
+        "slug": "bright-red-zcf",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/bright-red-zcf/",
+        "source_label": "PaintScratch 2015 Suzuki",
+        "hex_value": "#F31515"
+      },
+      {
+        "display_name": "Switchblade Silver Pearl",
+        "paint_code": "ZLF",
+        "slug": "switchblade-silver-pearl-zlf",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/switchblade-silver-pearl-zlf/",
+        "source_label": "PaintScratch 2015 Suzuki",
+        "hex_value": "#E6E4DE"
+      },
+      {
+        "display_name": "Bright Red Tricoat",
+        "paint_code": "ZWP",
+        "slug": "bright-red-tricoat-zwp",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/bright-red-tricoat-zwp/",
+        "source_label": "PaintScratch 2015 Suzuki",
+        "hex_value": "#F31515"
+      }
+    ],
+    "2016": [
+      {
+        "display_name": "Boost Blue Pearl",
+        "paint_code": "ZRZ",
+        "slug": "boost-blue-pearl-zrz",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/boost-blue-pearl-zrz/",
+        "source_label": "PaintScratch 2016 Suzuki",
+        "hex_value": "#7563E5"
+      },
+      {
+        "display_name": "Urban Gray Metallic",
+        "paint_code": "04U",
+        "slug": "urban-gray-metallic-04u",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/urban-gray-metallic-04u/",
+        "source_label": "PaintScratch 2016 Suzuki",
+        "hex_value": "#8A8876"
+      },
+      {
+        "display_name": "Carbon Black Metallic",
+        "paint_code": "58U",
+        "slug": "carbon-black-metallic-58u",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/carbon-black-metallic-58u/",
+        "source_label": "PaintScratch 2016 Suzuki",
+        "hex_value": "#251F1F"
+      },
+      {
+        "display_name": "Bordeaux Red Pearl",
+        "paint_code": "Z2A",
+        "slug": "bordeaux-red-pearl-z2a",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/bordeaux-red-pearl-z2a/",
+        "source_label": "PaintScratch 2016 Suzuki",
+        "hex_value": "#971B2A"
+      },
+      {
+        "display_name": "Bright Red",
+        "paint_code": "Z4Q",
+        "slug": "bright-red-z4q",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/bright-red-z4q/",
+        "source_label": "PaintScratch 2016 Suzuki",
+        "hex_value": "#F31515"
+      },
+      {
+        "display_name": "Bright Red",
+        "paint_code": "ZCF",
+        "slug": "bright-red-zcf",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/bright-red-zcf/",
+        "source_label": "PaintScratch 2016 Suzuki",
+        "hex_value": "#F31515"
+      },
+      {
+        "display_name": "Switchblade Silver Pearl",
+        "paint_code": "ZLF",
+        "slug": "switchblade-silver-pearl-zlf",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/switchblade-silver-pearl-zlf/",
+        "source_label": "PaintScratch 2016 Suzuki",
+        "hex_value": "#E6E4DE"
+      },
+      {
+        "display_name": "Burgundy Red Pearl",
+        "paint_code": "ZLL",
+        "slug": "burgundy-red-pearl-zll",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/burgundy-red-pearl-zll/",
+        "source_label": "PaintScratch 2016 Suzuki",
+        "hex_value": "#761C1A"
+      },
+      {
+        "display_name": "Ablaze Red 2 Metallic",
+        "paint_code": "ZRJ",
+        "slug": "ablaze-red-2-metallic-zrj",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/ablaze-red-2-metallic-zrj/",
+        "source_label": "PaintScratch 2016 Suzuki",
+        "hex_value": "#C22616"
+      },
+      {
+        "display_name": "White Tricoat",
+        "paint_code": "ZTR",
+        "slug": "white-tricoat-ztr",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/white-tricoat-ztr/",
+        "source_label": "PaintScratch 2016 Suzuki",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Bright Red Tricoat",
+        "paint_code": "ZWP",
+        "slug": "bright-red-tricoat-zwp",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/bright-red-tricoat-zwp/",
+        "source_label": "PaintScratch 2016 Suzuki",
+        "hex_value": "#F31515"
+      }
+    ],
+    "2017": [
+      {
+        "display_name": "Boost Blue Pearl",
+        "paint_code": "ZRZ",
+        "slug": "boost-blue-pearl-zrz",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/boost-blue-pearl-zrz/",
+        "source_label": "PaintScratch 2017 Suzuki",
+        "hex_value": "#7563E5"
+      },
+      {
+        "display_name": "Urban Gray Metallic",
+        "paint_code": "04U",
+        "slug": "urban-gray-metallic-04u",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/urban-gray-metallic-04u/",
+        "source_label": "PaintScratch 2017 Suzuki",
+        "hex_value": "#8A8876"
+      },
+      {
+        "display_name": "Carbon Black Metallic",
+        "paint_code": "58U",
+        "slug": "carbon-black-metallic-58u",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/carbon-black-metallic-58u/",
+        "source_label": "PaintScratch 2017 Suzuki",
+        "hex_value": "#251F1F"
+      },
+      {
+        "display_name": "Bordeaux Red Pearl",
+        "paint_code": "Z2A",
+        "slug": "bordeaux-red-pearl-z2a",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/bordeaux-red-pearl-z2a/",
+        "source_label": "PaintScratch 2017 Suzuki",
+        "hex_value": "#971B2A"
+      },
+      {
+        "display_name": "Bright Red",
+        "paint_code": "Z4Q",
+        "slug": "bright-red-z4q",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/bright-red-z4q/",
+        "source_label": "PaintScratch 2017 Suzuki",
+        "hex_value": "#F31515"
+      },
+      {
+        "display_name": "Silky Silver",
+        "paint_code": "ZCC/C02",
+        "slug": "silky-silver-zccc02",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/silky-silver-zccc02/",
+        "source_label": "PaintScratch 2017 Suzuki",
+        "hex_value": "#D6E0F8"
+      },
+      {
+        "display_name": "Bright Red",
+        "paint_code": "ZCF",
+        "slug": "bright-red-zcf",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/bright-red-zcf/",
+        "source_label": "PaintScratch 2017 Suzuki",
+        "hex_value": "#F31515"
+      },
+      {
+        "display_name": "Switchblade Silver Pearl",
+        "paint_code": "ZLF",
+        "slug": "switchblade-silver-pearl-zlf",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/switchblade-silver-pearl-zlf/",
+        "source_label": "PaintScratch 2017 Suzuki",
+        "hex_value": "#E6E4DE"
+      },
+      {
+        "display_name": "Medium Gray",
+        "paint_code": "ZNZ",
+        "slug": "medium-gray-znz",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/medium-gray-znz/",
+        "source_label": "PaintScratch 2017 Suzuki",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Gray",
+        "paint_code": "ZQS",
+        "slug": "gray-zqs",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/gray-zqs/",
+        "source_label": "PaintScratch 2017 Suzuki",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Bright Red Tricoat",
+        "paint_code": "ZWP",
+        "slug": "bright-red-tricoat-zwp",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/bright-red-tricoat-zwp/",
+        "source_label": "PaintScratch 2017 Suzuki",
+        "hex_value": "#F31515"
+      }
+    ],
+    "2018": [
+      {
+        "display_name": "Boost Blue Pearl",
+        "paint_code": "ZRZ",
+        "slug": "boost-blue-pearl-zrz",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/boost-blue-pearl-zrz/",
+        "source_label": "PaintScratch 2018 Suzuki",
+        "hex_value": "#7563E5"
+      },
+      {
+        "display_name": "Urban Gray Metallic",
+        "paint_code": "04U",
+        "slug": "urban-gray-metallic-04u",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/urban-gray-metallic-04u/",
+        "source_label": "PaintScratch 2018 Suzuki",
+        "hex_value": "#8A8876"
+      },
+      {
+        "display_name": "Carbon Black Metallic",
+        "paint_code": "58U",
+        "slug": "carbon-black-metallic-58u",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/carbon-black-metallic-58u/",
+        "source_label": "PaintScratch 2018 Suzuki",
+        "hex_value": "#251F1F"
+      },
+      {
+        "display_name": "Bordeaux Red Pearl",
+        "paint_code": "Z2A",
+        "slug": "bordeaux-red-pearl-z2a",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/bordeaux-red-pearl-z2a/",
+        "source_label": "PaintScratch 2018 Suzuki",
+        "hex_value": "#971B2A"
+      },
+      {
+        "display_name": "Bright Red",
+        "paint_code": "ZCF",
+        "slug": "bright-red-zcf",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/bright-red-zcf/",
+        "source_label": "PaintScratch 2018 Suzuki",
+        "hex_value": "#F31515"
+      },
+      {
+        "display_name": "Switchblade Silver Pearl",
+        "paint_code": "ZLF",
+        "slug": "switchblade-silver-pearl-zlf",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/switchblade-silver-pearl-zlf/",
+        "source_label": "PaintScratch 2018 Suzuki",
+        "hex_value": "#E6E4DE"
+      },
+      {
+        "display_name": "Super Black Pearl",
+        "paint_code": "ZMV",
+        "slug": "super-black-pearl-zmv",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/super-black-pearl-zmv/",
+        "source_label": "PaintScratch 2018 Suzuki",
+        "hex_value": "#111111"
+      },
+      {
+        "display_name": "Bright Red Tricoat",
+        "paint_code": "ZWP",
+        "slug": "bright-red-tricoat-zwp",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/bright-red-tricoat-zwp/",
+        "source_label": "PaintScratch 2018 Suzuki",
+        "hex_value": "#F31515"
+      }
+    ],
+    "2019": [
+      {
+        "display_name": "Boost Blue Pearl",
+        "paint_code": "ZRZ",
+        "slug": "boost-blue-pearl-zrz",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/boost-blue-pearl-zrz/",
+        "source_label": "PaintScratch 2019 Suzuki",
+        "hex_value": "#7563E5"
+      },
+      {
+        "display_name": "Urban Gray Metallic",
+        "paint_code": "04U",
+        "slug": "urban-gray-metallic-04u",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/urban-gray-metallic-04u/",
+        "source_label": "PaintScratch 2019 Suzuki",
+        "hex_value": "#8A8876"
+      },
+      {
+        "display_name": "Carbon Black Metallic",
+        "paint_code": "58U",
+        "slug": "carbon-black-metallic-58u",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/carbon-black-metallic-58u/",
+        "source_label": "PaintScratch 2019 Suzuki",
+        "hex_value": "#251F1F"
+      },
+      {
+        "display_name": "Galactic Grey",
+        "paint_code": "A9G",
+        "slug": "galactic-grey-a9g",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/galactic-grey-a9g/",
+        "source_label": "PaintScratch 2019 Suzuki",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Light Beige",
+        "paint_code": "A9N",
+        "slug": "light-beige-a9n",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/light-beige-a9n/",
+        "source_label": "PaintScratch 2019 Suzuki",
+        "hex_value": "#E7DFC5"
+      },
+      {
+        "display_name": "Bordeaux Red Pearl",
+        "paint_code": "Z2A",
+        "slug": "bordeaux-red-pearl-z2a",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/bordeaux-red-pearl-z2a/",
+        "source_label": "PaintScratch 2019 Suzuki",
+        "hex_value": "#971B2A"
+      },
+      {
+        "display_name": "Bright Red",
+        "paint_code": "Z4Q",
+        "slug": "bright-red-z4q",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/bright-red-z4q/",
+        "source_label": "PaintScratch 2019 Suzuki",
+        "hex_value": "#F31515"
+      },
+      {
+        "display_name": "Medium Gray Metallic",
+        "paint_code": "Z7Q",
+        "slug": "medium-gray-metallic-z7q",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/medium-gray-metallic-z7q/",
+        "source_label": "PaintScratch 2019 Suzuki",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Bright Red",
+        "paint_code": "ZCF",
+        "slug": "bright-red-zcf",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/bright-red-zcf/",
+        "source_label": "PaintScratch 2019 Suzuki",
+        "hex_value": "#F31515"
+      },
+      {
+        "display_name": "Graphite Gray Pearl Metallic",
+        "paint_code": "ZDL",
+        "slug": "graphite-gray-pearl-metallic-zdl",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/graphite-gray-pearl-metallic-zdl/",
+        "source_label": "PaintScratch 2019 Suzuki",
+        "hex_value": "#685D58"
+      },
+      {
+        "display_name": "Switchblade Silver Pearl",
+        "paint_code": "ZLF",
+        "slug": "switchblade-silver-pearl-zlf",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/switchblade-silver-pearl-zlf/",
+        "source_label": "PaintScratch 2019 Suzuki",
+        "hex_value": "#E6E4DE"
+      },
+      {
+        "display_name": "Bright Red Tricoat",
+        "paint_code": "ZWP",
+        "slug": "bright-red-tricoat-zwp",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/bright-red-tricoat-zwp/",
+        "source_label": "PaintScratch 2019 Suzuki",
+        "hex_value": "#F31515"
+      },
+      {
+        "display_name": "Gallant Red",
+        "paint_code": "ZYC",
+        "slug": "gallant-red-zyc",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/gallant-red-zyc/",
+        "source_label": "PaintScratch 2019 Suzuki",
+        "hex_value": "#F31515"
+      }
+    ],
+    "2020": [
+      {
+        "display_name": "Boost Blue Pearl",
+        "paint_code": "ZRZ",
+        "slug": "boost-blue-pearl-zrz",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/boost-blue-pearl-zrz/",
+        "source_label": "PaintScratch 2020 Suzuki",
+        "hex_value": "#7563E5"
+      },
+      {
+        "display_name": "Urban Gray Metallic",
+        "paint_code": "04U",
+        "slug": "urban-gray-metallic-04u",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/urban-gray-metallic-04u/",
+        "source_label": "PaintScratch 2020 Suzuki",
+        "hex_value": "#8A8876"
+      },
+      {
+        "display_name": "Superior White",
+        "paint_code": "26U",
+        "slug": "superior-white-26u",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/superior-white-26u/",
+        "source_label": "PaintScratch 2020 Suzuki",
+        "hex_value": "#FEFDF6"
+      },
+      {
+        "display_name": "Carbon Black Metallic",
+        "paint_code": "58U",
+        "slug": "carbon-black-metallic-58u",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/carbon-black-metallic-58u/",
+        "source_label": "PaintScratch 2020 Suzuki",
+        "hex_value": "#251F1F"
+      },
+      {
+        "display_name": "Light Beige",
+        "paint_code": "A9N",
+        "slug": "light-beige-a9n",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/light-beige-a9n/",
+        "source_label": "PaintScratch 2020 Suzuki",
+        "hex_value": "#E7DFC5"
+      },
+      {
+        "display_name": "Bordeaux Red Pearl",
+        "paint_code": "Z2A",
+        "slug": "bordeaux-red-pearl-z2a",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/bordeaux-red-pearl-z2a/",
+        "source_label": "PaintScratch 2020 Suzuki",
+        "hex_value": "#971B2A"
+      },
+      {
+        "display_name": "Silky Silver Metallic",
+        "paint_code": "Z2S",
+        "slug": "silky-silver-metallic-z2s",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/silky-silver-metallic-z2s/",
+        "source_label": "PaintScratch 2020 Suzuki",
+        "hex_value": "#BCC1BB"
+      },
+      {
+        "display_name": "Medium Gray Metallic",
+        "paint_code": "Z7Q",
+        "slug": "medium-gray-metallic-z7q",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/medium-gray-metallic-z7q/",
+        "source_label": "PaintScratch 2020 Suzuki",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "White Pearl Tricoat",
+        "paint_code": "Z7T",
+        "slug": "white-pearl-tricoat-z7t",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/white-pearl-tricoat-z7t/",
+        "source_label": "PaintScratch 2020 Suzuki",
+        "hex_value": "#EFEDDB"
+      },
+      {
+        "display_name": "Bright Red",
+        "paint_code": "ZCF",
+        "slug": "bright-red-zcf",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/bright-red-zcf/",
+        "source_label": "PaintScratch 2020 Suzuki",
+        "hex_value": "#F31515"
+      },
+      {
+        "display_name": "Clear Beige Metallic",
+        "paint_code": "ZDK",
+        "slug": "clear-beige-metallic-zdk",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/clear-beige-metallic-zdk/",
+        "source_label": "PaintScratch 2020 Suzuki",
+        "hex_value": "#DBD1A1"
+      },
+      {
+        "display_name": "Bluish Black Pearl Metallic",
+        "paint_code": "ZJ3",
+        "slug": "bluish-black-pearl-metallic-zj3",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/bluish-black-pearl-metallic-zj3/",
+        "source_label": "PaintScratch 2020 Suzuki",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Nocturne Blue Pearl",
+        "paint_code": "ZJP",
+        "slug": "nocturne-blue-pearl-zjp",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/nocturne-blue-pearl-zjp/",
+        "source_label": "PaintScratch 2020 Suzuki",
+        "hex_value": "#2B2C49"
+      },
+      {
+        "display_name": "Phoenix Red Pearl",
+        "paint_code": "ZLB",
+        "slug": "phoenix-red-pearl-zlb",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/phoenix-red-pearl-zlb/",
+        "source_label": "PaintScratch 2020 Suzuki",
+        "hex_value": "#872417"
+      },
+      {
+        "display_name": "Switchblade Silver Pearl",
+        "paint_code": "ZLF",
+        "slug": "switchblade-silver-pearl-zlf",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/switchblade-silver-pearl-zlf/",
+        "source_label": "PaintScratch 2020 Suzuki",
+        "hex_value": "#E6E4DE"
+      },
+      {
+        "display_name": "Quasar Gray Metallic",
+        "paint_code": "ZMA",
+        "slug": "quasar-gray-metallic-zma",
+        "reference_url": "https://www.paintscratch.com/colors/suzuki/quasar-gray-metallic-zma/",
+        "source_label": "PaintScratch 2020 Suzuki",
+        "hex_value": "#5A5240"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1306 @@
+{
+  "All Models": {
+    "2017": [
+      {
+        "display_name": "Carbon Metal Metallic",
+        "paint_code": "N5M",
+        "slug": "carbon-metal-metallic-n5m",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/carbon-metal-metallic-n5m/",
+        "source_label": "PaintScratch 2017 Genesis",
+        "hex_value": "#6C6554"
+      },
+      {
+        "display_name": "Caspian Black",
+        "paint_code": "YB6/YB",
+        "slug": "caspian-black-yb6yb",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/caspian-black-yb6yb/",
+        "source_label": "PaintScratch 2017 Genesis",
+        "hex_value": "#181818"
+      },
+      {
+        "display_name": "Cosmo Gray Pearl",
+        "paint_code": "YG6",
+        "slug": "cosmo-gray-pearl-yg6",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/cosmo-gray-pearl-yg6/",
+        "source_label": "PaintScratch 2017 Genesis",
+        "hex_value": "#787666"
+      },
+      {
+        "display_name": "Marble White Pearl Tricoat",
+        "paint_code": "YW6/MW",
+        "slug": "marble-white-pearl-tricoat-yw6mw",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/marble-white-pearl-tricoat-yw6mw/",
+        "source_label": "PaintScratch 2017 Genesis",
+        "hex_value": "#FBFCFF"
+      },
+      {
+        "display_name": "Fine Titanium Pearl",
+        "paint_code": "TG6",
+        "slug": "fine-titanium-pearl-tg6",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/fine-titanium-pearl-tg6/",
+        "source_label": "PaintScratch 2017 Genesis",
+        "hex_value": "#969082"
+      },
+      {
+        "display_name": "Turbine Red Pearl",
+        "paint_code": "TR5",
+        "slug": "turbine-red-pearl-tr5",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/turbine-red-pearl-tr5/",
+        "source_label": "PaintScratch 2017 Genesis",
+        "hex_value": "#AB1C11"
+      },
+      {
+        "display_name": "Urban Gray Metallic",
+        "paint_code": "U6G/UG",
+        "slug": "urban-gray-metallic-u6gug",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/urban-gray-metallic-u6gug/",
+        "source_label": "PaintScratch 2017 Genesis",
+        "hex_value": "#5F646F"
+      },
+      {
+        "display_name": "Polished Metal Metallic",
+        "paint_code": "V6S/V7S/VS/V8S",
+        "slug": "polished-metal-metallic-v6sv7svsv8s",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/polished-metal-metallic-v6sv7svsv8s/",
+        "source_label": "PaintScratch 2017 Genesis",
+        "hex_value": "#8B919F"
+      },
+      {
+        "display_name": "Coast Blue Pearl",
+        "paint_code": "WU6/WU/VU8/WU7",
+        "slug": "coast-blue-pearl-wu6wuvu8wu7",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/coast-blue-pearl-wu6wuvu8wu7/",
+        "source_label": "PaintScratch 2017 Genesis",
+        "hex_value": "#19336D"
+      },
+      {
+        "display_name": "Platinum Silver Metallic",
+        "paint_code": "Y6S/Y7S/YS/T8S/T8T",
+        "slug": "platinum-silver-metallic-y6sy7syst8st8t",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/platinum-silver-metallic-y6sy7syst8st8t/",
+        "source_label": "PaintScratch 2017 Genesis",
+        "hex_value": "#F1F2F5"
+      },
+      {
+        "display_name": "Tan Brown Pearl",
+        "paint_code": "YN6/YN/YN7",
+        "slug": "tan-brown-pearl-yn6ynyn7",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/tan-brown-pearl-yn6ynyn7/",
+        "source_label": "PaintScratch 2017 Genesis",
+        "hex_value": "#513423"
+      },
+      {
+        "display_name": "Vintage Wine Pearl",
+        "paint_code": "YR6/VW",
+        "slug": "vintage-wine-pearl-yr6vw",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/vintage-wine-pearl-yr6vw/",
+        "source_label": "PaintScratch 2017 Genesis",
+        "hex_value": "#B11919"
+      }
+    ],
+    "2018": [
+      {
+        "display_name": "Adriatic Blue",
+        "paint_code": "RY5",
+        "slug": "adriatic-blue-ry5",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/adriatic-blue-ry5/",
+        "source_label": "PaintScratch 2018 Genesis",
+        "hex_value": "#20273C"
+      },
+      {
+        "display_name": "Carbon Metal Metallic",
+        "paint_code": "N5M",
+        "slug": "carbon-metal-metallic-n5m",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/carbon-metal-metallic-n5m/",
+        "source_label": "PaintScratch 2018 Genesis",
+        "hex_value": "#6C6554"
+      },
+      {
+        "display_name": "Siberian Ice",
+        "paint_code": "RGY",
+        "slug": "siberian-ice-rgy",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/siberian-ice-rgy/",
+        "source_label": "PaintScratch 2018 Genesis",
+        "hex_value": "#9D9375"
+      },
+      {
+        "display_name": "Victoria Black Metallic",
+        "paint_code": "T5K",
+        "slug": "victoria-black-metallic-t5k",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/victoria-black-metallic-t5k/",
+        "source_label": "PaintScratch 2018 Genesis",
+        "hex_value": "#0F0F0D"
+      },
+      {
+        "display_name": "Polished Metal Metallic",
+        "paint_code": "V6S/V7S",
+        "slug": "polished-metal-metallic-v6sv7s",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/polished-metal-metallic-v6sv7s/",
+        "source_label": "PaintScratch 2018 Genesis",
+        "hex_value": "#8B919F"
+      },
+      {
+        "display_name": "Cosmo Gray Pearl",
+        "paint_code": "YG6",
+        "slug": "cosmo-gray-pearl-yg6",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/cosmo-gray-pearl-yg6/",
+        "source_label": "PaintScratch 2018 Genesis",
+        "hex_value": "#787666"
+      },
+      {
+        "display_name": "Marble White Pearl Tricoat",
+        "paint_code": "YW6",
+        "slug": "marble-white-pearl-tricoat-yw6",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/marble-white-pearl-tricoat-yw6/",
+        "source_label": "PaintScratch 2018 Genesis",
+        "hex_value": "#FBFCFF"
+      },
+      {
+        "display_name": "Havana Red Tricoat",
+        "paint_code": "Z5E",
+        "slug": "havana-red-tricoat-z5e",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/havana-red-tricoat-z5e/",
+        "source_label": "PaintScratch 2018 Genesis",
+        "hex_value": "#A31313"
+      },
+      {
+        "display_name": "Polar Ice Pearl Metallic",
+        "paint_code": "P5C",
+        "slug": "polar-ice-pearl-metallic-p5c",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/polar-ice-pearl-metallic-p5c/",
+        "source_label": "PaintScratch 2018 Genesis",
+        "hex_value": "#7CAE84"
+      },
+      {
+        "display_name": "San Simeon Gray Pearl",
+        "paint_code": "SY6",
+        "slug": "san-simeon-gray-pearl-sy6",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/san-simeon-gray-pearl-sy6/",
+        "source_label": "PaintScratch 2018 Genesis",
+        "hex_value": "#CFC079"
+      },
+      {
+        "display_name": "Turbine Red Pearl",
+        "paint_code": "TR5",
+        "slug": "turbine-red-pearl-tr5",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/turbine-red-pearl-tr5/",
+        "source_label": "PaintScratch 2018 Genesis",
+        "hex_value": "#AB1C11"
+      },
+      {
+        "display_name": "Serengeti Brown Pearl",
+        "paint_code": "U5B",
+        "slug": "serengeti-brown-pearl-u5b",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/serengeti-brown-pearl-u5b/",
+        "source_label": "PaintScratch 2018 Genesis",
+        "hex_value": "#38281E"
+      },
+      {
+        "display_name": "Platinum Silver Metallic",
+        "paint_code": "Y6S/Y7S/YS/T8S/T8T",
+        "slug": "platinum-silver-metallic-y6sy7syst8st8t",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/platinum-silver-metallic-y6sy7syst8st8t/",
+        "source_label": "PaintScratch 2018 Genesis",
+        "hex_value": "#F1F2F5"
+      },
+      {
+        "display_name": "Caspian Black",
+        "paint_code": "YB6",
+        "slug": "caspian-black-yb6",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/caspian-black-yb6/",
+        "source_label": "PaintScratch 2018 Genesis",
+        "hex_value": "#181818"
+      },
+      {
+        "display_name": "Tan Brown Pearl",
+        "paint_code": "YN6",
+        "slug": "tan-brown-pearl-yn6",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/tan-brown-pearl-yn6/",
+        "source_label": "PaintScratch 2018 Genesis",
+        "hex_value": "#513423"
+      }
+    ],
+    "2019": [
+      {
+        "display_name": "Adriatic Blue",
+        "paint_code": "RY5",
+        "slug": "adriatic-blue-ry5",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/adriatic-blue-ry5/",
+        "source_label": "PaintScratch 2019 Genesis",
+        "hex_value": "#20273C"
+      },
+      {
+        "display_name": "Carbon Metal Metallic",
+        "paint_code": "N5M",
+        "slug": "carbon-metal-metallic-n5m",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/carbon-metal-metallic-n5m/",
+        "source_label": "PaintScratch 2019 Genesis",
+        "hex_value": "#6C6554"
+      },
+      {
+        "display_name": "Mallorca Blue Pearl",
+        "paint_code": "PS5",
+        "slug": "mallorca-blue-pearl-ps5",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/mallorca-blue-pearl-ps5/",
+        "source_label": "PaintScratch 2019 Genesis",
+        "hex_value": "#4C21D9"
+      },
+      {
+        "display_name": "Siberian Ice",
+        "paint_code": "RGY",
+        "slug": "siberian-ice-rgy",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/siberian-ice-rgy/",
+        "source_label": "PaintScratch 2019 Genesis",
+        "hex_value": "#9D9375"
+      },
+      {
+        "display_name": "Victoria Black Metallic",
+        "paint_code": "T5K",
+        "slug": "victoria-black-metallic-t5k",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/victoria-black-metallic-t5k/",
+        "source_label": "PaintScratch 2019 Genesis",
+        "hex_value": "#0F0F0D"
+      },
+      {
+        "display_name": "Marble White Pearl Tricoat",
+        "paint_code": "YW6",
+        "slug": "marble-white-pearl-tricoat-yw6",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/marble-white-pearl-tricoat-yw6/",
+        "source_label": "PaintScratch 2019 Genesis",
+        "hex_value": "#FBFCFF"
+      },
+      {
+        "display_name": "Havana Red Tricoat",
+        "paint_code": "Z5E",
+        "slug": "havana-red-tricoat-z5e",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/havana-red-tricoat-z5e/",
+        "source_label": "PaintScratch 2019 Genesis",
+        "hex_value": "#A31313"
+      },
+      {
+        "display_name": "Polar Ice Pearl Metallic",
+        "paint_code": "P5C",
+        "slug": "polar-ice-pearl-metallic-p5c",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/polar-ice-pearl-metallic-p5c/",
+        "source_label": "PaintScratch 2019 Genesis",
+        "hex_value": "#7CAE84"
+      },
+      {
+        "display_name": "San Simeon Gray Pearl",
+        "paint_code": "SY6",
+        "slug": "san-simeon-gray-pearl-sy6",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/san-simeon-gray-pearl-sy6/",
+        "source_label": "PaintScratch 2019 Genesis",
+        "hex_value": "#CFC079"
+      },
+      {
+        "display_name": "Serengeti Brown Pearl",
+        "paint_code": "U5B",
+        "slug": "serengeti-brown-pearl-u5b",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/serengeti-brown-pearl-u5b/",
+        "source_label": "PaintScratch 2019 Genesis",
+        "hex_value": "#38281E"
+      },
+      {
+        "display_name": "Platinum Silver Metallic",
+        "paint_code": "Y6S/Y7S/YS/T8S/T8T",
+        "slug": "platinum-silver-metallic-y6sy7syst8st8t",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/platinum-silver-metallic-y6sy7syst8st8t/",
+        "source_label": "PaintScratch 2019 Genesis",
+        "hex_value": "#F1F2F5"
+      }
+    ],
+    "2020": [
+      {
+        "display_name": "Uyuni White Tricoat",
+        "paint_code": "UYH",
+        "slug": "uyuni-white-tricoat-uyh",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/uyuni-white-tricoat-uyh/",
+        "source_label": "PaintScratch 2020 Genesis",
+        "hex_value": "#FBFCF8"
+      },
+      {
+        "display_name": "Adriatic Blue",
+        "paint_code": "RY5",
+        "slug": "adriatic-blue-ry5",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/adriatic-blue-ry5/",
+        "source_label": "PaintScratch 2020 Genesis",
+        "hex_value": "#20273C"
+      },
+      {
+        "display_name": "Vik Black Pearl",
+        "paint_code": "PH3",
+        "slug": "vik-black-pearl-ph3",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/vik-black-pearl-ph3/",
+        "source_label": "PaintScratch 2020 Genesis",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Saville Silver Metallic",
+        "paint_code": "SSS",
+        "slug": "saville-silver-metallic-sss",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/saville-silver-metallic-sss/",
+        "source_label": "PaintScratch 2020 Genesis",
+        "hex_value": "#E3E7C1"
+      },
+      {
+        "display_name": "Carbon Metal Metallic",
+        "paint_code": "N5M",
+        "slug": "carbon-metal-metallic-n5m",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/carbon-metal-metallic-n5m/",
+        "source_label": "PaintScratch 2020 Genesis",
+        "hex_value": "#6C6554"
+      },
+      {
+        "display_name": "Gold Coast Silver Metallic",
+        "paint_code": "NA2",
+        "slug": "gold-coast-silver-metallic-na2",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/gold-coast-silver-metallic-na2/",
+        "source_label": "PaintScratch 2020 Genesis",
+        "hex_value": "#F2EEC0"
+      },
+      {
+        "display_name": "Mallorca Blue Pearl",
+        "paint_code": "PS5",
+        "slug": "mallorca-blue-pearl-ps5",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/mallorca-blue-pearl-ps5/",
+        "source_label": "PaintScratch 2020 Genesis",
+        "hex_value": "#4C21D9"
+      },
+      {
+        "display_name": "Siberian Ice",
+        "paint_code": "RGY",
+        "slug": "siberian-ice-rgy",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/siberian-ice-rgy/",
+        "source_label": "PaintScratch 2020 Genesis",
+        "hex_value": "#9D9375"
+      },
+      {
+        "display_name": "Havana Red Tricoat",
+        "paint_code": "Z5E",
+        "slug": "havana-red-tricoat-z5e",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/havana-red-tricoat-z5e/",
+        "source_label": "PaintScratch 2020 Genesis",
+        "hex_value": "#A31313"
+      },
+      {
+        "display_name": "Black Forest Green Pearl",
+        "paint_code": "E5E",
+        "slug": "black-forest-green-pearl-e5e",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/black-forest-green-pearl-e5e/",
+        "source_label": "PaintScratch 2020 Genesis",
+        "hex_value": "#405F27"
+      },
+      {
+        "display_name": "Porto Red Metallic",
+        "paint_code": "NA1",
+        "slug": "porto-red-metallic-na1",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/porto-red-metallic-na1/",
+        "source_label": "PaintScratch 2020 Genesis",
+        "hex_value": "#4D1409"
+      }
+    ],
+    "2021": [
+      {
+        "display_name": "Uyuni White Tricoat",
+        "paint_code": "UYH",
+        "slug": "uyuni-white-tricoat-uyh",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/uyuni-white-tricoat-uyh/",
+        "source_label": "PaintScratch 2021 Genesis",
+        "hex_value": "#FBFCF8"
+      },
+      {
+        "display_name": "Adriatic Blue",
+        "paint_code": "RY5",
+        "slug": "adriatic-blue-ry5",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/adriatic-blue-ry5/",
+        "source_label": "PaintScratch 2021 Genesis",
+        "hex_value": "#20273C"
+      },
+      {
+        "display_name": "Alta White",
+        "paint_code": "WHT",
+        "slug": "alta-white-wht",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/alta-white-wht/",
+        "source_label": "PaintScratch 2021 Genesis",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Cardiff Green Pearl",
+        "paint_code": "HT7",
+        "slug": "cardiff-green-pearl-ht7",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/cardiff-green-pearl-ht7/",
+        "source_label": "PaintScratch 2021 Genesis",
+        "hex_value": "#51B37B"
+      },
+      {
+        "display_name": "Vik Black Pearl",
+        "paint_code": "PH3",
+        "slug": "vik-black-pearl-ph3",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/vik-black-pearl-ph3/",
+        "source_label": "PaintScratch 2021 Genesis",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Saville Silver Metallic",
+        "paint_code": "SSS",
+        "slug": "saville-silver-metallic-sss",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/saville-silver-metallic-sss/",
+        "source_label": "PaintScratch 2021 Genesis",
+        "hex_value": "#E3E7C1"
+      },
+      {
+        "display_name": "Tasman Blue Pearl",
+        "paint_code": "URA",
+        "slug": "tasman-blue-pearl-ura",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/tasman-blue-pearl-ura/",
+        "source_label": "PaintScratch 2021 Genesis",
+        "hex_value": "#577774"
+      },
+      {
+        "display_name": "Carbon Metal Metallic",
+        "paint_code": "N5M",
+        "slug": "carbon-metal-metallic-n5m",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/carbon-metal-metallic-n5m/",
+        "source_label": "PaintScratch 2021 Genesis",
+        "hex_value": "#6C6554"
+      },
+      {
+        "display_name": "Gold Coast Silver Metallic",
+        "paint_code": "NA2",
+        "slug": "gold-coast-silver-metallic-na2",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/gold-coast-silver-metallic-na2/",
+        "source_label": "PaintScratch 2021 Genesis",
+        "hex_value": "#F2EEC0"
+      },
+      {
+        "display_name": "Mallorca Blue Pearl",
+        "paint_code": "PS5",
+        "slug": "mallorca-blue-pearl-ps5",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/mallorca-blue-pearl-ps5/",
+        "source_label": "PaintScratch 2021 Genesis",
+        "hex_value": "#4C21D9"
+      },
+      {
+        "display_name": "Siberian Ice",
+        "paint_code": "RGY",
+        "slug": "siberian-ice-rgy",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/siberian-ice-rgy/",
+        "source_label": "PaintScratch 2021 Genesis",
+        "hex_value": "#9D9375"
+      },
+      {
+        "display_name": "Havana Red Tricoat",
+        "paint_code": "Z5E",
+        "slug": "havana-red-tricoat-z5e",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/havana-red-tricoat-z5e/",
+        "source_label": "PaintScratch 2021 Genesis",
+        "hex_value": "#A31313"
+      },
+      {
+        "display_name": "Black Forest Green Pearl",
+        "paint_code": "E5E",
+        "slug": "black-forest-green-pearl-e5e",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/black-forest-green-pearl-e5e/",
+        "source_label": "PaintScratch 2021 Genesis",
+        "hex_value": "#405F27"
+      },
+      {
+        "display_name": "Lima Red Pearl",
+        "paint_code": "FR7",
+        "slug": "lima-red-pearl-fr7",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/lima-red-pearl-fr7/",
+        "source_label": "PaintScratch 2021 Genesis",
+        "hex_value": "#9E3814"
+      },
+      {
+        "display_name": "Porto Red Metallic",
+        "paint_code": "NA1",
+        "slug": "porto-red-metallic-na1",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/porto-red-metallic-na1/",
+        "source_label": "PaintScratch 2021 Genesis",
+        "hex_value": "#4D1409"
+      }
+    ],
+    "2022": [
+      {
+        "display_name": "Uyuni White Tricoat",
+        "paint_code": "UYH",
+        "slug": "uyuni-white-tricoat-uyh",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/uyuni-white-tricoat-uyh/",
+        "source_label": "PaintScratch 2022 Genesis",
+        "hex_value": "#FBFCF8"
+      },
+      {
+        "display_name": "Capri Blue Pearl",
+        "paint_code": "NRB",
+        "slug": "capri-blue-pearl-nrb",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/capri-blue-pearl-nrb/",
+        "source_label": "PaintScratch 2022 Genesis",
+        "hex_value": "#343C52"
+      },
+      {
+        "display_name": "Adriatic Blue",
+        "paint_code": "RY5",
+        "slug": "adriatic-blue-ry5",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/adriatic-blue-ry5/",
+        "source_label": "PaintScratch 2022 Genesis",
+        "hex_value": "#20273C"
+      },
+      {
+        "display_name": "Alta White",
+        "paint_code": "WHT",
+        "slug": "alta-white-wht",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/alta-white-wht/",
+        "source_label": "PaintScratch 2022 Genesis",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Cardiff Green Pearl",
+        "paint_code": "HT7",
+        "slug": "cardiff-green-pearl-ht7",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/cardiff-green-pearl-ht7/",
+        "source_label": "PaintScratch 2022 Genesis",
+        "hex_value": "#51B37B"
+      },
+      {
+        "display_name": "Makalu Gray Metallic",
+        "paint_code": "NCM",
+        "slug": "makalu-gray-metallic-ncm",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/makalu-gray-metallic-ncm/",
+        "source_label": "PaintScratch 2022 Genesis",
+        "hex_value": "#737C62"
+      },
+      {
+        "display_name": "Vik Black Pearl",
+        "paint_code": "PH3",
+        "slug": "vik-black-pearl-ph3",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/vik-black-pearl-ph3/",
+        "source_label": "PaintScratch 2022 Genesis",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Mauna Red Pearl",
+        "paint_code": "RJK",
+        "slug": "mauna-red-pearl-rjk",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/mauna-red-pearl-rjk/",
+        "source_label": "PaintScratch 2022 Genesis",
+        "hex_value": "#C61828"
+      },
+      {
+        "display_name": "Saville Silver Metallic",
+        "paint_code": "SSS",
+        "slug": "saville-silver-metallic-sss",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/saville-silver-metallic-sss/",
+        "source_label": "PaintScratch 2022 Genesis",
+        "hex_value": "#E3E7C1"
+      },
+      {
+        "display_name": "Tasman Blue Pearl",
+        "paint_code": "URA",
+        "slug": "tasman-blue-pearl-ura",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/tasman-blue-pearl-ura/",
+        "source_label": "PaintScratch 2022 Genesis",
+        "hex_value": "#577774"
+      },
+      {
+        "display_name": "Carbon Metal Metallic",
+        "paint_code": "N5M",
+        "slug": "carbon-metal-metallic-n5m",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/carbon-metal-metallic-n5m/",
+        "source_label": "PaintScratch 2022 Genesis",
+        "hex_value": "#6C6554"
+      },
+      {
+        "display_name": "Gold Coast Silver Metallic",
+        "paint_code": "NA2",
+        "slug": "gold-coast-silver-metallic-na2",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/gold-coast-silver-metallic-na2/",
+        "source_label": "PaintScratch 2022 Genesis",
+        "hex_value": "#F2EEC0"
+      },
+      {
+        "display_name": "Mallorca Blue Pearl",
+        "paint_code": "PS5",
+        "slug": "mallorca-blue-pearl-ps5",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/mallorca-blue-pearl-ps5/",
+        "source_label": "PaintScratch 2022 Genesis",
+        "hex_value": "#4C21D9"
+      },
+      {
+        "display_name": "Siberian Ice",
+        "paint_code": "RGY",
+        "slug": "siberian-ice-rgy",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/siberian-ice-rgy/",
+        "source_label": "PaintScratch 2022 Genesis",
+        "hex_value": "#9D9375"
+      },
+      {
+        "display_name": "Havana Red Tricoat",
+        "paint_code": "Z5E",
+        "slug": "havana-red-tricoat-z5e",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/havana-red-tricoat-z5e/",
+        "source_label": "PaintScratch 2022 Genesis",
+        "hex_value": "#A31313"
+      },
+      {
+        "display_name": "Barossa Burgundy Pearl",
+        "paint_code": "BJK",
+        "slug": "barossa-burgundy-pearl-bjk",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/barossa-burgundy-pearl-bjk/",
+        "source_label": "PaintScratch 2022 Genesis",
+        "hex_value": "#6A432C"
+      }
+    ],
+    "2023": [
+      {
+        "display_name": "Uyuni White Tricoat",
+        "paint_code": "UYH",
+        "slug": "uyuni-white-tricoat-uyh",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/uyuni-white-tricoat-uyh/",
+        "source_label": "PaintScratch 2023 Genesis",
+        "hex_value": "#FBFCF8"
+      },
+      {
+        "display_name": "Capri Blue Pearl",
+        "paint_code": "NRB",
+        "slug": "capri-blue-pearl-nrb",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/capri-blue-pearl-nrb/",
+        "source_label": "PaintScratch 2023 Genesis",
+        "hex_value": "#343C52"
+      },
+      {
+        "display_name": "Adriatic Blue",
+        "paint_code": "RY5",
+        "slug": "adriatic-blue-ry5",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/adriatic-blue-ry5/",
+        "source_label": "PaintScratch 2023 Genesis",
+        "hex_value": "#20273C"
+      },
+      {
+        "display_name": "Alta White",
+        "paint_code": "WHT",
+        "slug": "alta-white-wht",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/alta-white-wht/",
+        "source_label": "PaintScratch 2023 Genesis",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Cardiff Green Pearl",
+        "paint_code": "HT7",
+        "slug": "cardiff-green-pearl-ht7",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/cardiff-green-pearl-ht7/",
+        "source_label": "PaintScratch 2023 Genesis",
+        "hex_value": "#51B37B"
+      },
+      {
+        "display_name": "Makalu Gray Metallic",
+        "paint_code": "NCM",
+        "slug": "makalu-gray-metallic-ncm",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/makalu-gray-metallic-ncm/",
+        "source_label": "PaintScratch 2023 Genesis",
+        "hex_value": "#737C62"
+      },
+      {
+        "display_name": "Vik Black Pearl",
+        "paint_code": "PH3",
+        "slug": "vik-black-pearl-ph3",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/vik-black-pearl-ph3/",
+        "source_label": "PaintScratch 2023 Genesis",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Mauna Red Pearl",
+        "paint_code": "RJK",
+        "slug": "mauna-red-pearl-rjk",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/mauna-red-pearl-rjk/",
+        "source_label": "PaintScratch 2023 Genesis",
+        "hex_value": "#C61828"
+      },
+      {
+        "display_name": "Saville Silver Metallic",
+        "paint_code": "SSS",
+        "slug": "saville-silver-metallic-sss",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/saville-silver-metallic-sss/",
+        "source_label": "PaintScratch 2023 Genesis",
+        "hex_value": "#E3E7C1"
+      },
+      {
+        "display_name": "Tasman Blue Pearl",
+        "paint_code": "URA",
+        "slug": "tasman-blue-pearl-ura",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/tasman-blue-pearl-ura/",
+        "source_label": "PaintScratch 2023 Genesis",
+        "hex_value": "#577774"
+      },
+      {
+        "display_name": "Vanta Grey",
+        "paint_code": "GRY",
+        "slug": "vanta-grey-gry",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/vanta-grey-gry/",
+        "source_label": "PaintScratch 2023 Genesis",
+        "hex_value": "#676A71"
+      },
+      {
+        "display_name": "Carbon Metal Metallic",
+        "paint_code": "N5M",
+        "slug": "carbon-metal-metallic-n5m",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/carbon-metal-metallic-n5m/",
+        "source_label": "PaintScratch 2023 Genesis",
+        "hex_value": "#6C6554"
+      },
+      {
+        "display_name": "Mallorca Blue Pearl",
+        "paint_code": "PS5",
+        "slug": "mallorca-blue-pearl-ps5",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/mallorca-blue-pearl-ps5/",
+        "source_label": "PaintScratch 2023 Genesis",
+        "hex_value": "#4C21D9"
+      },
+      {
+        "display_name": "Siberian Ice",
+        "paint_code": "RGY",
+        "slug": "siberian-ice-rgy",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/siberian-ice-rgy/",
+        "source_label": "PaintScratch 2023 Genesis",
+        "hex_value": "#9D9375"
+      },
+      {
+        "display_name": "Havana Red Tricoat",
+        "paint_code": "Z5E",
+        "slug": "havana-red-tricoat-z5e",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/havana-red-tricoat-z5e/",
+        "source_label": "PaintScratch 2023 Genesis",
+        "hex_value": "#A31313"
+      },
+      {
+        "display_name": "Barossa Burgundy Pearl",
+        "paint_code": "BJK",
+        "slug": "barossa-burgundy-pearl-bjk",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/barossa-burgundy-pearl-bjk/",
+        "source_label": "PaintScratch 2023 Genesis",
+        "hex_value": "#6A432C"
+      }
+    ],
+    "2024": [
+      {
+        "display_name": "Uyuni White Tricoat",
+        "paint_code": "UYH",
+        "slug": "uyuni-white-tricoat-uyh",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/uyuni-white-tricoat-uyh/",
+        "source_label": "PaintScratch 2024 Genesis",
+        "hex_value": "#FBFCF8"
+      },
+      {
+        "display_name": "Capri Blue Pearl",
+        "paint_code": "NRB",
+        "slug": "capri-blue-pearl-nrb",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/capri-blue-pearl-nrb/",
+        "source_label": "PaintScratch 2024 Genesis",
+        "hex_value": "#343C52"
+      },
+      {
+        "display_name": "Adriatic Blue",
+        "paint_code": "RY5",
+        "slug": "adriatic-blue-ry5",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/adriatic-blue-ry5/",
+        "source_label": "PaintScratch 2024 Genesis",
+        "hex_value": "#20273C"
+      },
+      {
+        "display_name": "Alta White",
+        "paint_code": "WHT",
+        "slug": "alta-white-wht",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/alta-white-wht/",
+        "source_label": "PaintScratch 2024 Genesis",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Cardiff Green Pearl",
+        "paint_code": "HT7",
+        "slug": "cardiff-green-pearl-ht7",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/cardiff-green-pearl-ht7/",
+        "source_label": "PaintScratch 2024 Genesis",
+        "hex_value": "#51B37B"
+      },
+      {
+        "display_name": "Makalu Gray Metallic",
+        "paint_code": "NCM",
+        "slug": "makalu-gray-metallic-ncm",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/makalu-gray-metallic-ncm/",
+        "source_label": "PaintScratch 2024 Genesis",
+        "hex_value": "#737C62"
+      },
+      {
+        "display_name": "Vik Black Pearl",
+        "paint_code": "PH3",
+        "slug": "vik-black-pearl-ph3",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/vik-black-pearl-ph3/",
+        "source_label": "PaintScratch 2024 Genesis",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Mauna Red Pearl",
+        "paint_code": "RJK",
+        "slug": "mauna-red-pearl-rjk",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/mauna-red-pearl-rjk/",
+        "source_label": "PaintScratch 2024 Genesis",
+        "hex_value": "#C61828"
+      },
+      {
+        "display_name": "Saville Silver Metallic",
+        "paint_code": "SSS",
+        "slug": "saville-silver-metallic-sss",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/saville-silver-metallic-sss/",
+        "source_label": "PaintScratch 2024 Genesis",
+        "hex_value": "#E3E7C1"
+      },
+      {
+        "display_name": "Tasman Blue Pearl",
+        "paint_code": "URA",
+        "slug": "tasman-blue-pearl-ura",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/tasman-blue-pearl-ura/",
+        "source_label": "PaintScratch 2024 Genesis",
+        "hex_value": "#577774"
+      },
+      {
+        "display_name": "Vanta Grey",
+        "paint_code": "GRY",
+        "slug": "vanta-grey-gry",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/vanta-grey-gry/",
+        "source_label": "PaintScratch 2024 Genesis",
+        "hex_value": "#676A71"
+      },
+      {
+        "display_name": "Carbon Metal Metallic",
+        "paint_code": "N5M",
+        "slug": "carbon-metal-metallic-n5m",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/carbon-metal-metallic-n5m/",
+        "source_label": "PaintScratch 2024 Genesis",
+        "hex_value": "#6C6554"
+      },
+      {
+        "display_name": "Mallorca Blue Pearl",
+        "paint_code": "PS5",
+        "slug": "mallorca-blue-pearl-ps5",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/mallorca-blue-pearl-ps5/",
+        "source_label": "PaintScratch 2024 Genesis",
+        "hex_value": "#4C21D9"
+      },
+      {
+        "display_name": "Siberian Ice",
+        "paint_code": "RGY",
+        "slug": "siberian-ice-rgy",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/siberian-ice-rgy/",
+        "source_label": "PaintScratch 2024 Genesis",
+        "hex_value": "#9D9375"
+      },
+      {
+        "display_name": "Havana Red Tricoat",
+        "paint_code": "Z5E",
+        "slug": "havana-red-tricoat-z5e",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/havana-red-tricoat-z5e/",
+        "source_label": "PaintScratch 2024 Genesis",
+        "hex_value": "#A31313"
+      },
+      {
+        "display_name": "Barossa Burgundy Pearl",
+        "paint_code": "BJK",
+        "slug": "barossa-burgundy-pearl-bjk",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/barossa-burgundy-pearl-bjk/",
+        "source_label": "PaintScratch 2024 Genesis",
+        "hex_value": "#6A432C"
+      }
+    ],
+    "2025": [
+      {
+        "display_name": "Uyuni White Tricoat",
+        "paint_code": "UYH",
+        "slug": "uyuni-white-tricoat-uyh",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/uyuni-white-tricoat-uyh/",
+        "source_label": "PaintScratch 2025 Genesis",
+        "hex_value": "#FBFCF8"
+      },
+      {
+        "display_name": "Capri Blue Pearl",
+        "paint_code": "NRB",
+        "slug": "capri-blue-pearl-nrb",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/capri-blue-pearl-nrb/",
+        "source_label": "PaintScratch 2025 Genesis",
+        "hex_value": "#343C52"
+      },
+      {
+        "display_name": "Alta White",
+        "paint_code": "WHT",
+        "slug": "alta-white-wht",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/alta-white-wht/",
+        "source_label": "PaintScratch 2025 Genesis",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Bering Blue",
+        "paint_code": "GBE",
+        "slug": "bering-blue-gbe",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/bering-blue-gbe/",
+        "source_label": "PaintScratch 2025 Genesis",
+        "hex_value": "#A3A7AD"
+      },
+      {
+        "display_name": "Makalu Gray Metallic",
+        "paint_code": "NCM",
+        "slug": "makalu-gray-metallic-ncm",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/makalu-gray-metallic-ncm/",
+        "source_label": "PaintScratch 2025 Genesis",
+        "hex_value": "#737C62"
+      },
+      {
+        "display_name": "Vik Black Pearl",
+        "paint_code": "PH3",
+        "slug": "vik-black-pearl-ph3",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/vik-black-pearl-ph3/",
+        "source_label": "PaintScratch 2025 Genesis",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Mauna Red Pearl",
+        "paint_code": "RJK",
+        "slug": "mauna-red-pearl-rjk",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/mauna-red-pearl-rjk/",
+        "source_label": "PaintScratch 2025 Genesis",
+        "hex_value": "#C61828"
+      },
+      {
+        "display_name": "Saville Silver Metallic",
+        "paint_code": "SSS",
+        "slug": "saville-silver-metallic-sss",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/saville-silver-metallic-sss/",
+        "source_label": "PaintScratch 2025 Genesis",
+        "hex_value": "#E3E7C1"
+      },
+      {
+        "display_name": "Tasman Blue Pearl",
+        "paint_code": "URA",
+        "slug": "tasman-blue-pearl-ura",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/tasman-blue-pearl-ura/",
+        "source_label": "PaintScratch 2025 Genesis",
+        "hex_value": "#577774"
+      },
+      {
+        "display_name": "Astro Blue",
+        "paint_code": "ASA",
+        "slug": "astro-blue-asa",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/astro-blue-asa/",
+        "source_label": "PaintScratch 2025 Genesis",
+        "hex_value": "#5A6270"
+      },
+      {
+        "display_name": "Vanta Grey",
+        "paint_code": "GRY",
+        "slug": "vanta-grey-gry",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/vanta-grey-gry/",
+        "source_label": "PaintScratch 2025 Genesis",
+        "hex_value": "#676A71"
+      },
+      {
+        "display_name": "Storr Green",
+        "paint_code": "KGN",
+        "slug": "storr-green-kgn",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/storr-green-kgn/",
+        "source_label": "PaintScratch 2025 Genesis",
+        "hex_value": "#43574D"
+      },
+      {
+        "display_name": "Storr Green Matt",
+        "paint_code": "MKG",
+        "slug": "storr-green-matt-mkg",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/storr-green-matt-mkg/",
+        "source_label": "PaintScratch 2025 Genesis",
+        "hex_value": "#3E413D"
+      },
+      {
+        "display_name": "Barossa Burgundy Pearl",
+        "paint_code": "BJK",
+        "slug": "barossa-burgundy-pearl-bjk",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/barossa-burgundy-pearl-bjk/",
+        "source_label": "PaintScratch 2025 Genesis",
+        "hex_value": "#6A432C"
+      },
+      {
+        "display_name": "Kawah Blue",
+        "paint_code": "BLE",
+        "slug": "kawah-blue-ble",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/kawah-blue-ble/",
+        "source_label": "PaintScratch 2025 Genesis",
+        "hex_value": "#1E3C6E"
+      },
+      {
+        "display_name": "Brooklyn Brown",
+        "paint_code": "BRN",
+        "slug": "brooklyn-brown-brn",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/brooklyn-brown-brn/",
+        "source_label": "PaintScratch 2025 Genesis",
+        "hex_value": "#544638"
+      }
+    ],
+    "2026": [
+      {
+        "display_name": "Uyuni White Tricoat",
+        "paint_code": "UYH",
+        "slug": "uyuni-white-tricoat-uyh",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/uyuni-white-tricoat-uyh/",
+        "source_label": "PaintScratch 2026 Genesis",
+        "hex_value": "#FBFCF8"
+      },
+      {
+        "display_name": "Capri Blue Pearl",
+        "paint_code": "NRB",
+        "slug": "capri-blue-pearl-nrb",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/capri-blue-pearl-nrb/",
+        "source_label": "PaintScratch 2026 Genesis",
+        "hex_value": "#343C52"
+      },
+      {
+        "display_name": "Alta White",
+        "paint_code": "WHT",
+        "slug": "alta-white-wht",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/alta-white-wht/",
+        "source_label": "PaintScratch 2026 Genesis",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Bering Blue",
+        "paint_code": "GBE",
+        "slug": "bering-blue-gbe",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/bering-blue-gbe/",
+        "source_label": "PaintScratch 2026 Genesis",
+        "hex_value": "#A3A7AD"
+      },
+      {
+        "display_name": "Vik Black Pearl",
+        "paint_code": "PH3",
+        "slug": "vik-black-pearl-ph3",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/vik-black-pearl-ph3/",
+        "source_label": "PaintScratch 2026 Genesis",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Mauna Red Pearl",
+        "paint_code": "RJK",
+        "slug": "mauna-red-pearl-rjk",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/mauna-red-pearl-rjk/",
+        "source_label": "PaintScratch 2026 Genesis",
+        "hex_value": "#C61828"
+      },
+      {
+        "display_name": "Saville Silver Metallic",
+        "paint_code": "SSS",
+        "slug": "saville-silver-metallic-sss",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/saville-silver-metallic-sss/",
+        "source_label": "PaintScratch 2026 Genesis",
+        "hex_value": "#E3E7C1"
+      },
+      {
+        "display_name": "Tasman Blue Pearl",
+        "paint_code": "URA",
+        "slug": "tasman-blue-pearl-ura",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/tasman-blue-pearl-ura/",
+        "source_label": "PaintScratch 2026 Genesis",
+        "hex_value": "#577774"
+      },
+      {
+        "display_name": "Astro Blue",
+        "paint_code": "ASA",
+        "slug": "astro-blue-asa",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/astro-blue-asa/",
+        "source_label": "PaintScratch 2026 Genesis",
+        "hex_value": "#5A6270"
+      },
+      {
+        "display_name": "Vanta Grey",
+        "paint_code": "GRY",
+        "slug": "vanta-grey-gry",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/vanta-grey-gry/",
+        "source_label": "PaintScratch 2026 Genesis",
+        "hex_value": "#676A71"
+      },
+      {
+        "display_name": "Storr Green",
+        "paint_code": "KGN",
+        "slug": "storr-green-kgn",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/storr-green-kgn/",
+        "source_label": "PaintScratch 2026 Genesis",
+        "hex_value": "#43574D"
+      },
+      {
+        "display_name": "Storr Green Matt",
+        "paint_code": "MKG",
+        "slug": "storr-green-matt-mkg",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/storr-green-matt-mkg/",
+        "source_label": "PaintScratch 2026 Genesis",
+        "hex_value": "#3E413D"
+      },
+      {
+        "display_name": "Kawah Blue",
+        "paint_code": "BLE",
+        "slug": "kawah-blue-ble",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/kawah-blue-ble/",
+        "source_label": "PaintScratch 2026 Genesis",
+        "hex_value": "#1E3C6E"
+      },
+      {
+        "display_name": "Brooklyn Brown",
+        "paint_code": "BRN",
+        "slug": "brooklyn-brown-brn",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/brooklyn-brown-brn/",
+        "source_label": "PaintScratch 2026 Genesis",
+        "hex_value": "#544638"
+      },
+      {
+        "display_name": "Hanauma Mint",
+        "paint_code": "EMT",
+        "slug": "hanauma-mint-emt",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/hanauma-mint-emt/",
+        "source_label": "PaintScratch 2026 Genesis",
+        "hex_value": "#829A9A"
+      },
+      {
+        "display_name": "Matterhorn White Tricoat",
+        "paint_code": "FT7",
+        "slug": "matterhorn-white-tricoat-ft7",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/matterhorn-white-tricoat-ft7/",
+        "source_label": "PaintScratch 2026 Genesis",
+        "hex_value": "#FEFDF6"
+      }
+    ],
+    "2027": [
+      {
+        "display_name": "Uyuni White Tricoat",
+        "paint_code": "UYH",
+        "slug": "uyuni-white-tricoat-uyh",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/uyuni-white-tricoat-uyh/",
+        "source_label": "PaintScratch 2027 Genesis",
+        "hex_value": "#FBFCF8"
+      },
+      {
+        "display_name": "Capri Blue Pearl",
+        "paint_code": "NRB",
+        "slug": "capri-blue-pearl-nrb",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/capri-blue-pearl-nrb/",
+        "source_label": "PaintScratch 2027 Genesis",
+        "hex_value": "#343C52"
+      },
+      {
+        "display_name": "Alta White",
+        "paint_code": "WHT",
+        "slug": "alta-white-wht",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/alta-white-wht/",
+        "source_label": "PaintScratch 2027 Genesis",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Bering Blue",
+        "paint_code": "GBE",
+        "slug": "bering-blue-gbe",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/bering-blue-gbe/",
+        "source_label": "PaintScratch 2027 Genesis",
+        "hex_value": "#A3A7AD"
+      },
+      {
+        "display_name": "Vik Black Pearl",
+        "paint_code": "PH3",
+        "slug": "vik-black-pearl-ph3",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/vik-black-pearl-ph3/",
+        "source_label": "PaintScratch 2027 Genesis",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Mauna Red Pearl",
+        "paint_code": "RJK",
+        "slug": "mauna-red-pearl-rjk",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/mauna-red-pearl-rjk/",
+        "source_label": "PaintScratch 2027 Genesis",
+        "hex_value": "#C61828"
+      },
+      {
+        "display_name": "Saville Silver Metallic",
+        "paint_code": "SSS",
+        "slug": "saville-silver-metallic-sss",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/saville-silver-metallic-sss/",
+        "source_label": "PaintScratch 2027 Genesis",
+        "hex_value": "#E3E7C1"
+      },
+      {
+        "display_name": "Tasman Blue Pearl",
+        "paint_code": "URA",
+        "slug": "tasman-blue-pearl-ura",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/tasman-blue-pearl-ura/",
+        "source_label": "PaintScratch 2027 Genesis",
+        "hex_value": "#577774"
+      },
+      {
+        "display_name": "Astro Blue",
+        "paint_code": "ASA",
+        "slug": "astro-blue-asa",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/astro-blue-asa/",
+        "source_label": "PaintScratch 2027 Genesis",
+        "hex_value": "#5A6270"
+      },
+      {
+        "display_name": "Vanta Grey",
+        "paint_code": "GRY",
+        "slug": "vanta-grey-gry",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/vanta-grey-gry/",
+        "source_label": "PaintScratch 2027 Genesis",
+        "hex_value": "#676A71"
+      },
+      {
+        "display_name": "Storr Green",
+        "paint_code": "KGN",
+        "slug": "storr-green-kgn",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/storr-green-kgn/",
+        "source_label": "PaintScratch 2027 Genesis",
+        "hex_value": "#43574D"
+      },
+      {
+        "display_name": "Storr Green Matt",
+        "paint_code": "MKG",
+        "slug": "storr-green-matt-mkg",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/storr-green-matt-mkg/",
+        "source_label": "PaintScratch 2027 Genesis",
+        "hex_value": "#3E413D"
+      },
+      {
+        "display_name": "Kawah Blue",
+        "paint_code": "BLE",
+        "slug": "kawah-blue-ble",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/kawah-blue-ble/",
+        "source_label": "PaintScratch 2027 Genesis",
+        "hex_value": "#1E3C6E"
+      },
+      {
+        "display_name": "Brooklyn Brown",
+        "paint_code": "BRN",
+        "slug": "brooklyn-brown-brn",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/brooklyn-brown-brn/",
+        "source_label": "PaintScratch 2027 Genesis",
+        "hex_value": "#544638"
+      },
+      {
+        "display_name": "Hanauma Mint",
+        "paint_code": "EMT",
+        "slug": "hanauma-mint-emt",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/hanauma-mint-emt/",
+        "source_label": "PaintScratch 2027 Genesis",
+        "hex_value": "#829A9A"
+      },
+      {
+        "display_name": "Matterhorn White Tricoat",
+        "paint_code": "FT7",
+        "slug": "matterhorn-white-tricoat-ft7",
+        "reference_url": "https://www.paintscratch.com/colors/genesis/matterhorn-white-tricoat-ft7/",
+        "source_label": "PaintScratch 2027 Genesis",
+        "hex_value": "#FEFDF6"
+      }
+    ]
+  }
+}

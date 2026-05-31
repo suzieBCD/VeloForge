@@ -1,0 +1,520 @@
+{
+  "All Models": {
+    "2002": [
+      {
+        "display_name": "Black Cherry",
+        "paint_code": "0957",
+        "slug": "black-cherry-0957",
+        "reference_url": "https://www.paintscratch.com/colors/yamaha/black-cherry-0957/",
+        "source_label": "PaintScratch 2002 Yamaha",
+        "hex_value": "#5D1A14"
+      },
+      {
+        "display_name": "Raven (DBC 906478)",
+        "paint_code": "R6",
+        "slug": "raven-dbc-906478-r6",
+        "reference_url": "https://www.paintscratch.com/colors/yamaha/raven-dbc-906478-r6/",
+        "source_label": "PaintScratch 2002 Yamaha",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Bright Red",
+        "paint_code": "121",
+        "slug": "bright-red-121",
+        "reference_url": "https://www.paintscratch.com/colors/yamaha/bright-red-121/",
+        "source_label": "PaintScratch 2002 Yamaha",
+        "hex_value": "#F31515"
+      }
+    ],
+    "2003": [
+      {
+        "display_name": "Black Cherry",
+        "paint_code": "0957",
+        "slug": "black-cherry-0957",
+        "reference_url": "https://www.paintscratch.com/colors/yamaha/black-cherry-0957/",
+        "source_label": "PaintScratch 2003 Yamaha",
+        "hex_value": "#5D1A14"
+      },
+      {
+        "display_name": "Raven (DBC 906478)",
+        "paint_code": "R6",
+        "slug": "raven-dbc-906478-r6",
+        "reference_url": "https://www.paintscratch.com/colors/yamaha/raven-dbc-906478-r6/",
+        "source_label": "PaintScratch 2003 Yamaha",
+        "hex_value": "#000000"
+      }
+    ],
+    "2004": [
+      {
+        "display_name": "Black Cherry",
+        "paint_code": "0957",
+        "slug": "black-cherry-0957",
+        "reference_url": "https://www.paintscratch.com/colors/yamaha/black-cherry-0957/",
+        "source_label": "PaintScratch 2004 Yamaha",
+        "hex_value": "#5D1A14"
+      },
+      {
+        "display_name": "Raven (DBC 906478)",
+        "paint_code": "R6",
+        "slug": "raven-dbc-906478-r6",
+        "reference_url": "https://www.paintscratch.com/colors/yamaha/raven-dbc-906478-r6/",
+        "source_label": "PaintScratch 2004 Yamaha",
+        "hex_value": "#000000"
+      }
+    ],
+    "2005": [
+      {
+        "display_name": "Black Cherry",
+        "paint_code": "0957",
+        "slug": "black-cherry-0957",
+        "reference_url": "https://www.paintscratch.com/colors/yamaha/black-cherry-0957/",
+        "source_label": "PaintScratch 2005 Yamaha",
+        "hex_value": "#5D1A14"
+      },
+      {
+        "display_name": "Raven (DBC 906478)",
+        "paint_code": "R6",
+        "slug": "raven-dbc-906478-r6",
+        "reference_url": "https://www.paintscratch.com/colors/yamaha/raven-dbc-906478-r6/",
+        "source_label": "PaintScratch 2005 Yamaha",
+        "hex_value": "#000000"
+      }
+    ],
+    "2006": [
+      {
+        "display_name": "Black Cherry",
+        "paint_code": "0957",
+        "slug": "black-cherry-0957",
+        "reference_url": "https://www.paintscratch.com/colors/yamaha/black-cherry-0957/",
+        "source_label": "PaintScratch 2006 Yamaha",
+        "hex_value": "#5D1A14"
+      },
+      {
+        "display_name": "Raven (DBC 906478)",
+        "paint_code": "R6",
+        "slug": "raven-dbc-906478-r6",
+        "reference_url": "https://www.paintscratch.com/colors/yamaha/raven-dbc-906478-r6/",
+        "source_label": "PaintScratch 2006 Yamaha",
+        "hex_value": "#000000"
+      }
+    ],
+    "2007": [
+      {
+        "display_name": "Black Cherry",
+        "paint_code": "0957",
+        "slug": "black-cherry-0957",
+        "reference_url": "https://www.paintscratch.com/colors/yamaha/black-cherry-0957/",
+        "source_label": "PaintScratch 2007 Yamaha",
+        "hex_value": "#5D1A14"
+      },
+      {
+        "display_name": "Raven (DBC 906478)",
+        "paint_code": "R6",
+        "slug": "raven-dbc-906478-r6",
+        "reference_url": "https://www.paintscratch.com/colors/yamaha/raven-dbc-906478-r6/",
+        "source_label": "PaintScratch 2007 Yamaha",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Bluish Gray Metallic",
+        "paint_code": "DBNM8",
+        "slug": "bluish-gray-metallic-dbnm8",
+        "reference_url": "https://www.paintscratch.com/colors/yamaha/bluish-gray-metallic-dbnm8/",
+        "source_label": "PaintScratch 2007 Yamaha",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Midnight Blue (920344)",
+        "paint_code": "DPBMU",
+        "slug": "midnight-blue-920344-dpbmu",
+        "reference_url": "https://www.paintscratch.com/colors/yamaha/midnight-blue-920344-dpbmu/",
+        "source_label": "PaintScratch 2007 Yamaha",
+        "hex_value": "#171056"
+      },
+      {
+        "display_name": "Silver (903142)",
+        "paint_code": "S3",
+        "slug": "silver-903142-s3",
+        "reference_url": "https://www.paintscratch.com/colors/yamaha/silver-903142-s3/",
+        "source_label": "PaintScratch 2007 Yamaha",
+        "hex_value": "#DFE2EB"
+      }
+    ],
+    "2008": [
+      {
+        "display_name": "Black Cherry",
+        "paint_code": "0957",
+        "slug": "black-cherry-0957",
+        "reference_url": "https://www.paintscratch.com/colors/yamaha/black-cherry-0957/",
+        "source_label": "PaintScratch 2008 Yamaha",
+        "hex_value": "#5D1A14"
+      },
+      {
+        "display_name": "Raven (DBC 906478)",
+        "paint_code": "R6",
+        "slug": "raven-dbc-906478-r6",
+        "reference_url": "https://www.paintscratch.com/colors/yamaha/raven-dbc-906478-r6/",
+        "source_label": "PaintScratch 2008 Yamaha",
+        "hex_value": "#000000"
+      }
+    ],
+    "2009": [
+      {
+        "display_name": "Black Cherry",
+        "paint_code": "0957",
+        "slug": "black-cherry-0957",
+        "reference_url": "https://www.paintscratch.com/colors/yamaha/black-cherry-0957/",
+        "source_label": "PaintScratch 2009 Yamaha",
+        "hex_value": "#5D1A14"
+      },
+      {
+        "display_name": "Raven (DBC 906478)",
+        "paint_code": "R6",
+        "slug": "raven-dbc-906478-r6",
+        "reference_url": "https://www.paintscratch.com/colors/yamaha/raven-dbc-906478-r6/",
+        "source_label": "PaintScratch 2009 Yamaha",
+        "hex_value": "#000000"
+      }
+    ],
+    "2010": [
+      {
+        "display_name": "Black Cherry",
+        "paint_code": "0957",
+        "slug": "black-cherry-0957",
+        "reference_url": "https://www.paintscratch.com/colors/yamaha/black-cherry-0957/",
+        "source_label": "PaintScratch 2010 Yamaha",
+        "hex_value": "#5D1A14"
+      },
+      {
+        "display_name": "Raven (DBC 906478)",
+        "paint_code": "R6",
+        "slug": "raven-dbc-906478-r6",
+        "reference_url": "https://www.paintscratch.com/colors/yamaha/raven-dbc-906478-r6/",
+        "source_label": "PaintScratch 2010 Yamaha",
+        "hex_value": "#000000"
+      }
+    ],
+    "2011": [
+      {
+        "display_name": "Black Cherry",
+        "paint_code": "0957",
+        "slug": "black-cherry-0957",
+        "reference_url": "https://www.paintscratch.com/colors/yamaha/black-cherry-0957/",
+        "source_label": "PaintScratch 2011 Yamaha",
+        "hex_value": "#5D1A14"
+      },
+      {
+        "display_name": "Raven (DBC 906478)",
+        "paint_code": "R6",
+        "slug": "raven-dbc-906478-r6",
+        "reference_url": "https://www.paintscratch.com/colors/yamaha/raven-dbc-906478-r6/",
+        "source_label": "PaintScratch 2011 Yamaha",
+        "hex_value": "#000000"
+      }
+    ],
+    "2012": [
+      {
+        "display_name": "Black Cherry",
+        "paint_code": "0957",
+        "slug": "black-cherry-0957",
+        "reference_url": "https://www.paintscratch.com/colors/yamaha/black-cherry-0957/",
+        "source_label": "PaintScratch 2012 Yamaha",
+        "hex_value": "#5D1A14"
+      },
+      {
+        "display_name": "Raven (DBC 906478)",
+        "paint_code": "R6",
+        "slug": "raven-dbc-906478-r6",
+        "reference_url": "https://www.paintscratch.com/colors/yamaha/raven-dbc-906478-r6/",
+        "source_label": "PaintScratch 2012 Yamaha",
+        "hex_value": "#000000"
+      }
+    ],
+    "2013": [
+      {
+        "display_name": "Black Cherry",
+        "paint_code": "0957",
+        "slug": "black-cherry-0957",
+        "reference_url": "https://www.paintscratch.com/colors/yamaha/black-cherry-0957/",
+        "source_label": "PaintScratch 2013 Yamaha",
+        "hex_value": "#5D1A14"
+      },
+      {
+        "display_name": "Raven (DBC 906478)",
+        "paint_code": "R6",
+        "slug": "raven-dbc-906478-r6",
+        "reference_url": "https://www.paintscratch.com/colors/yamaha/raven-dbc-906478-r6/",
+        "source_label": "PaintScratch 2013 Yamaha",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Light Gold",
+        "paint_code": "918523",
+        "slug": "light-gold-918523",
+        "reference_url": "https://www.paintscratch.com/colors/yamaha/light-gold-918523/",
+        "source_label": "PaintScratch 2013 Yamaha",
+        "hex_value": "#E7DFC5"
+      }
+    ],
+    "2014": [
+      {
+        "display_name": "Black Cherry",
+        "paint_code": "0957",
+        "slug": "black-cherry-0957",
+        "reference_url": "https://www.paintscratch.com/colors/yamaha/black-cherry-0957/",
+        "source_label": "PaintScratch 2014 Yamaha",
+        "hex_value": "#5D1A14"
+      },
+      {
+        "display_name": "Raven (DBC 906478)",
+        "paint_code": "R6",
+        "slug": "raven-dbc-906478-r6",
+        "reference_url": "https://www.paintscratch.com/colors/yamaha/raven-dbc-906478-r6/",
+        "source_label": "PaintScratch 2014 Yamaha",
+        "hex_value": "#000000"
+      }
+    ],
+    "2015": [
+      {
+        "display_name": "Black Cherry",
+        "paint_code": "0957",
+        "slug": "black-cherry-0957",
+        "reference_url": "https://www.paintscratch.com/colors/yamaha/black-cherry-0957/",
+        "source_label": "PaintScratch 2015 Yamaha",
+        "hex_value": "#5D1A14"
+      },
+      {
+        "display_name": "Raven (DBC 906478)",
+        "paint_code": "R6",
+        "slug": "raven-dbc-906478-r6",
+        "reference_url": "https://www.paintscratch.com/colors/yamaha/raven-dbc-906478-r6/",
+        "source_label": "PaintScratch 2015 Yamaha",
+        "hex_value": "#000000"
+      }
+    ],
+    "2016": [
+      {
+        "display_name": "Black Cherry",
+        "paint_code": "0957",
+        "slug": "black-cherry-0957",
+        "reference_url": "https://www.paintscratch.com/colors/yamaha/black-cherry-0957/",
+        "source_label": "PaintScratch 2016 Yamaha",
+        "hex_value": "#5D1A14"
+      },
+      {
+        "display_name": "Raven (DBC 906478)",
+        "paint_code": "R6",
+        "slug": "raven-dbc-906478-r6",
+        "reference_url": "https://www.paintscratch.com/colors/yamaha/raven-dbc-906478-r6/",
+        "source_label": "PaintScratch 2016 Yamaha",
+        "hex_value": "#000000"
+      }
+    ],
+    "2017": [
+      {
+        "display_name": "Sandstone Metallic",
+        "paint_code": "AH9064",
+        "slug": "sandstone-metallic-ah9064",
+        "reference_url": "https://www.paintscratch.com/colors/yamaha/sandstone-metallic-ah9064/",
+        "source_label": "PaintScratch 2017 Yamaha",
+        "hex_value": "#E4EAA0"
+      },
+      {
+        "display_name": "Black Cherry",
+        "paint_code": "0957",
+        "slug": "black-cherry-0957",
+        "reference_url": "https://www.paintscratch.com/colors/yamaha/black-cherry-0957/",
+        "source_label": "PaintScratch 2017 Yamaha",
+        "hex_value": "#5D1A14"
+      },
+      {
+        "display_name": "Raven (DBC 906478)",
+        "paint_code": "R6",
+        "slug": "raven-dbc-906478-r6",
+        "reference_url": "https://www.paintscratch.com/colors/yamaha/raven-dbc-906478-r6/",
+        "source_label": "PaintScratch 2017 Yamaha",
+        "hex_value": "#000000"
+      }
+    ],
+    "2018": [
+      {
+        "display_name": "Black Cherry",
+        "paint_code": "0957",
+        "slug": "black-cherry-0957",
+        "reference_url": "https://www.paintscratch.com/colors/yamaha/black-cherry-0957/",
+        "source_label": "PaintScratch 2018 Yamaha",
+        "hex_value": "#5D1A14"
+      },
+      {
+        "display_name": "Raven (DBC 906478)",
+        "paint_code": "R6",
+        "slug": "raven-dbc-906478-r6",
+        "reference_url": "https://www.paintscratch.com/colors/yamaha/raven-dbc-906478-r6/",
+        "source_label": "PaintScratch 2018 Yamaha",
+        "hex_value": "#000000"
+      }
+    ],
+    "2019": [
+      {
+        "display_name": "Black Cherry",
+        "paint_code": "0957",
+        "slug": "black-cherry-0957",
+        "reference_url": "https://www.paintscratch.com/colors/yamaha/black-cherry-0957/",
+        "source_label": "PaintScratch 2019 Yamaha",
+        "hex_value": "#5D1A14"
+      },
+      {
+        "display_name": "Raven (DBC 906478)",
+        "paint_code": "R6",
+        "slug": "raven-dbc-906478-r6",
+        "reference_url": "https://www.paintscratch.com/colors/yamaha/raven-dbc-906478-r6/",
+        "source_label": "PaintScratch 2019 Yamaha",
+        "hex_value": "#000000"
+      }
+    ],
+    "2020": [
+      {
+        "display_name": "Black Cherry",
+        "paint_code": "0957",
+        "slug": "black-cherry-0957",
+        "reference_url": "https://www.paintscratch.com/colors/yamaha/black-cherry-0957/",
+        "source_label": "PaintScratch 2020 Yamaha",
+        "hex_value": "#5D1A14"
+      },
+      {
+        "display_name": "Raven (DBC 906478)",
+        "paint_code": "R6",
+        "slug": "raven-dbc-906478-r6",
+        "reference_url": "https://www.paintscratch.com/colors/yamaha/raven-dbc-906478-r6/",
+        "source_label": "PaintScratch 2020 Yamaha",
+        "hex_value": "#000000"
+      }
+    ],
+    "2021": [
+      {
+        "display_name": "Black Cherry",
+        "paint_code": "0957",
+        "slug": "black-cherry-0957",
+        "reference_url": "https://www.paintscratch.com/colors/yamaha/black-cherry-0957/",
+        "source_label": "PaintScratch 2021 Yamaha",
+        "hex_value": "#5D1A14"
+      },
+      {
+        "display_name": "Raven (DBC 906478)",
+        "paint_code": "R6",
+        "slug": "raven-dbc-906478-r6",
+        "reference_url": "https://www.paintscratch.com/colors/yamaha/raven-dbc-906478-r6/",
+        "source_label": "PaintScratch 2021 Yamaha",
+        "hex_value": "#000000"
+      }
+    ],
+    "2022": [
+      {
+        "display_name": "Black Cherry",
+        "paint_code": "0957",
+        "slug": "black-cherry-0957",
+        "reference_url": "https://www.paintscratch.com/colors/yamaha/black-cherry-0957/",
+        "source_label": "PaintScratch 2022 Yamaha",
+        "hex_value": "#5D1A14"
+      },
+      {
+        "display_name": "Raven (DBC 906478)",
+        "paint_code": "R6",
+        "slug": "raven-dbc-906478-r6",
+        "reference_url": "https://www.paintscratch.com/colors/yamaha/raven-dbc-906478-r6/",
+        "source_label": "PaintScratch 2022 Yamaha",
+        "hex_value": "#000000"
+      }
+    ],
+    "2023": [
+      {
+        "display_name": "Black Cherry",
+        "paint_code": "0957",
+        "slug": "black-cherry-0957",
+        "reference_url": "https://www.paintscratch.com/colors/yamaha/black-cherry-0957/",
+        "source_label": "PaintScratch 2023 Yamaha",
+        "hex_value": "#5D1A14"
+      },
+      {
+        "display_name": "Raven (DBC 906478)",
+        "paint_code": "R6",
+        "slug": "raven-dbc-906478-r6",
+        "reference_url": "https://www.paintscratch.com/colors/yamaha/raven-dbc-906478-r6/",
+        "source_label": "PaintScratch 2023 Yamaha",
+        "hex_value": "#000000"
+      }
+    ],
+    "2024": [
+      {
+        "display_name": "Black Cherry",
+        "paint_code": "0957",
+        "slug": "black-cherry-0957",
+        "reference_url": "https://www.paintscratch.com/colors/yamaha/black-cherry-0957/",
+        "source_label": "PaintScratch 2024 Yamaha",
+        "hex_value": "#5D1A14"
+      },
+      {
+        "display_name": "Raven (DBC 906478)",
+        "paint_code": "R6",
+        "slug": "raven-dbc-906478-r6",
+        "reference_url": "https://www.paintscratch.com/colors/yamaha/raven-dbc-906478-r6/",
+        "source_label": "PaintScratch 2024 Yamaha",
+        "hex_value": "#000000"
+      }
+    ],
+    "2025": [
+      {
+        "display_name": "Black Cherry",
+        "paint_code": "0957",
+        "slug": "black-cherry-0957",
+        "reference_url": "https://www.paintscratch.com/colors/yamaha/black-cherry-0957/",
+        "source_label": "PaintScratch 2025 Yamaha",
+        "hex_value": "#5D1A14"
+      },
+      {
+        "display_name": "Raven (DBC 906478)",
+        "paint_code": "R6",
+        "slug": "raven-dbc-906478-r6",
+        "reference_url": "https://www.paintscratch.com/colors/yamaha/raven-dbc-906478-r6/",
+        "source_label": "PaintScratch 2025 Yamaha",
+        "hex_value": "#000000"
+      }
+    ],
+    "2026": [
+      {
+        "display_name": "Black Cherry",
+        "paint_code": "0957",
+        "slug": "black-cherry-0957",
+        "reference_url": "https://www.paintscratch.com/colors/yamaha/black-cherry-0957/",
+        "source_label": "PaintScratch 2026 Yamaha",
+        "hex_value": "#5D1A14"
+      },
+      {
+        "display_name": "Raven (DBC 906478)",
+        "paint_code": "R6",
+        "slug": "raven-dbc-906478-r6",
+        "reference_url": "https://www.paintscratch.com/colors/yamaha/raven-dbc-906478-r6/",
+        "source_label": "PaintScratch 2026 Yamaha",
+        "hex_value": "#000000"
+      }
+    ],
+    "2027": [
+      {
+        "display_name": "Black Cherry",
+        "paint_code": "0957",
+        "slug": "black-cherry-0957",
+        "reference_url": "https://www.paintscratch.com/colors/yamaha/black-cherry-0957/",
+        "source_label": "PaintScratch 2027 Yamaha",
+        "hex_value": "#5D1A14"
+      },
+      {
+        "display_name": "Raven (DBC 906478)",
+        "paint_code": "R6",
+        "slug": "raven-dbc-906478-r6",
+        "reference_url": "https://www.paintscratch.com/colors/yamaha/raven-dbc-906478-r6/",
+        "source_label": "PaintScratch 2027 Yamaha",
+        "hex_value": "#000000"
+      }
+    ]
+  }
+}

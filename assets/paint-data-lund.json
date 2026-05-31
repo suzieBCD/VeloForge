@@ -1,0 +1,3618 @@
+{
+  "All Models": {
+    "1989": [
+      {
+        "display_name": "Sand Beach",
+        "paint_code": "DCC28805",
+        "slug": "sand-beach-dcc28805",
+        "reference_url": "https://www.paintscratch.com/colors/lund/sand-beach-dcc28805/",
+        "source_label": "PaintScratch 1989 Lund",
+        "hex_value": "#D1A341"
+      },
+      {
+        "display_name": "Forest Green",
+        "paint_code": "DCC400390",
+        "slug": "forest-green-dcc400390",
+        "reference_url": "https://www.paintscratch.com/colors/lund/forest-green-dcc400390/",
+        "source_label": "PaintScratch 1989 Lund",
+        "hex_value": "#15350F"
+      },
+      {
+        "display_name": "Green",
+        "paint_code": "DCC4215",
+        "slug": "green-dcc4215",
+        "reference_url": "https://www.paintscratch.com/colors/lund/green-dcc4215/",
+        "source_label": "PaintScratch 1989 Lund",
+        "hex_value": "#336220"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "DCC9000",
+        "slug": "black-dcc9000",
+        "reference_url": "https://www.paintscratch.com/colors/lund/black-dcc9000/",
+        "source_label": "PaintScratch 1989 Lund",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Pewter",
+        "paint_code": "DCC37308",
+        "slug": "pewter-dcc37308",
+        "reference_url": "https://www.paintscratch.com/colors/lund/pewter-dcc37308/",
+        "source_label": "PaintScratch 1989 Lund",
+        "hex_value": "#404040"
+      },
+      {
+        "display_name": "Cobalt Blue Metallic",
+        "paint_code": "DCC191056",
+        "slug": "cobalt-blue-metallic-dcc191056",
+        "reference_url": "https://www.paintscratch.com/colors/lund/cobalt-blue-metallic-dcc191056/",
+        "source_label": "PaintScratch 1989 Lund",
+        "hex_value": "#1E1252"
+      },
+      {
+        "display_name": "Artic White",
+        "paint_code": "DCC90271",
+        "slug": "artic-white-dcc90271",
+        "reference_url": "https://www.paintscratch.com/colors/lund/artic-white-dcc90271/",
+        "source_label": "PaintScratch 1989 Lund",
+        "hex_value": "#EEEDF9"
+      },
+      {
+        "display_name": "Graphite Gray",
+        "paint_code": "DCC35831",
+        "slug": "graphite-gray-dcc35831",
+        "reference_url": "https://www.paintscratch.com/colors/lund/graphite-gray-dcc35831/",
+        "source_label": "PaintScratch 1989 Lund",
+        "hex_value": "#484444"
+      },
+      {
+        "display_name": "Navy Blue Metallic",
+        "paint_code": "DCC3497",
+        "slug": "navy-blue-metallic-dcc3497",
+        "reference_url": "https://www.paintscratch.com/colors/lund/navy-blue-metallic-dcc3497/",
+        "source_label": "PaintScratch 1989 Lund",
+        "hex_value": "#545972"
+      },
+      {
+        "display_name": "Red Reef",
+        "paint_code": "DCC5080",
+        "slug": "red-reef-dcc5080",
+        "reference_url": "https://www.paintscratch.com/colors/lund/red-reef-dcc5080/",
+        "source_label": "PaintScratch 1989 Lund",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "Slate Gray",
+        "paint_code": "36014",
+        "slug": "slate-gray-36014",
+        "reference_url": "https://www.paintscratch.com/colors/lund/slate-gray-36014/",
+        "source_label": "PaintScratch 1989 Lund",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Medium Red",
+        "paint_code": "DCC4679",
+        "slug": "medium-red-dcc4679",
+        "reference_url": "https://www.paintscratch.com/colors/lund/medium-red-dcc4679/",
+        "source_label": "PaintScratch 1989 Lund",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "Medium Blue",
+        "paint_code": "DCC18986",
+        "slug": "medium-blue-dcc18986",
+        "reference_url": "https://www.paintscratch.com/colors/lund/medium-blue-dcc18986/",
+        "source_label": "PaintScratch 1989 Lund",
+        "hex_value": "#0D2D97"
+      }
+    ],
+    "1990": [
+      {
+        "display_name": "Sand Beach",
+        "paint_code": "DCC28805",
+        "slug": "sand-beach-dcc28805",
+        "reference_url": "https://www.paintscratch.com/colors/lund/sand-beach-dcc28805/",
+        "source_label": "PaintScratch 1990 Lund",
+        "hex_value": "#D1A341"
+      },
+      {
+        "display_name": "Forest Green",
+        "paint_code": "DCC400390",
+        "slug": "forest-green-dcc400390",
+        "reference_url": "https://www.paintscratch.com/colors/lund/forest-green-dcc400390/",
+        "source_label": "PaintScratch 1990 Lund",
+        "hex_value": "#15350F"
+      },
+      {
+        "display_name": "Green",
+        "paint_code": "DCC4215",
+        "slug": "green-dcc4215",
+        "reference_url": "https://www.paintscratch.com/colors/lund/green-dcc4215/",
+        "source_label": "PaintScratch 1990 Lund",
+        "hex_value": "#336220"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "DCC9000",
+        "slug": "black-dcc9000",
+        "reference_url": "https://www.paintscratch.com/colors/lund/black-dcc9000/",
+        "source_label": "PaintScratch 1990 Lund",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Pewter",
+        "paint_code": "DCC37308",
+        "slug": "pewter-dcc37308",
+        "reference_url": "https://www.paintscratch.com/colors/lund/pewter-dcc37308/",
+        "source_label": "PaintScratch 1990 Lund",
+        "hex_value": "#404040"
+      },
+      {
+        "display_name": "Cobalt Blue Metallic",
+        "paint_code": "DCC191056",
+        "slug": "cobalt-blue-metallic-dcc191056",
+        "reference_url": "https://www.paintscratch.com/colors/lund/cobalt-blue-metallic-dcc191056/",
+        "source_label": "PaintScratch 1990 Lund",
+        "hex_value": "#1E1252"
+      },
+      {
+        "display_name": "Artic White",
+        "paint_code": "DCC90271",
+        "slug": "artic-white-dcc90271",
+        "reference_url": "https://www.paintscratch.com/colors/lund/artic-white-dcc90271/",
+        "source_label": "PaintScratch 1990 Lund",
+        "hex_value": "#EEEDF9"
+      },
+      {
+        "display_name": "Graphite Gray",
+        "paint_code": "DCC35831",
+        "slug": "graphite-gray-dcc35831",
+        "reference_url": "https://www.paintscratch.com/colors/lund/graphite-gray-dcc35831/",
+        "source_label": "PaintScratch 1990 Lund",
+        "hex_value": "#484444"
+      },
+      {
+        "display_name": "Navy Blue Metallic",
+        "paint_code": "DCC3497",
+        "slug": "navy-blue-metallic-dcc3497",
+        "reference_url": "https://www.paintscratch.com/colors/lund/navy-blue-metallic-dcc3497/",
+        "source_label": "PaintScratch 1990 Lund",
+        "hex_value": "#545972"
+      },
+      {
+        "display_name": "Red Reef",
+        "paint_code": "DCC5080",
+        "slug": "red-reef-dcc5080",
+        "reference_url": "https://www.paintscratch.com/colors/lund/red-reef-dcc5080/",
+        "source_label": "PaintScratch 1990 Lund",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "Medium Red",
+        "paint_code": "DCC4679",
+        "slug": "medium-red-dcc4679",
+        "reference_url": "https://www.paintscratch.com/colors/lund/medium-red-dcc4679/",
+        "source_label": "PaintScratch 1990 Lund",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "Tartan Red",
+        "paint_code": "DCC74250",
+        "slug": "tartan-red-dcc74250",
+        "reference_url": "https://www.paintscratch.com/colors/lund/tartan-red-dcc74250/",
+        "source_label": "PaintScratch 1990 Lund",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "Medium Blue",
+        "paint_code": "DCC18986",
+        "slug": "medium-blue-dcc18986",
+        "reference_url": "https://www.paintscratch.com/colors/lund/medium-blue-dcc18986/",
+        "source_label": "PaintScratch 1990 Lund",
+        "hex_value": "#0D2D97"
+      }
+    ],
+    "1991": [
+      {
+        "display_name": "Sand Beach",
+        "paint_code": "DCC28805",
+        "slug": "sand-beach-dcc28805",
+        "reference_url": "https://www.paintscratch.com/colors/lund/sand-beach-dcc28805/",
+        "source_label": "PaintScratch 1991 Lund",
+        "hex_value": "#D1A341"
+      },
+      {
+        "display_name": "Forest Green",
+        "paint_code": "DCC400390",
+        "slug": "forest-green-dcc400390",
+        "reference_url": "https://www.paintscratch.com/colors/lund/forest-green-dcc400390/",
+        "source_label": "PaintScratch 1991 Lund",
+        "hex_value": "#15350F"
+      },
+      {
+        "display_name": "Green",
+        "paint_code": "DCC4215",
+        "slug": "green-dcc4215",
+        "reference_url": "https://www.paintscratch.com/colors/lund/green-dcc4215/",
+        "source_label": "PaintScratch 1991 Lund",
+        "hex_value": "#336220"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "DCC9000",
+        "slug": "black-dcc9000",
+        "reference_url": "https://www.paintscratch.com/colors/lund/black-dcc9000/",
+        "source_label": "PaintScratch 1991 Lund",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Pewter",
+        "paint_code": "DCC37308",
+        "slug": "pewter-dcc37308",
+        "reference_url": "https://www.paintscratch.com/colors/lund/pewter-dcc37308/",
+        "source_label": "PaintScratch 1991 Lund",
+        "hex_value": "#404040"
+      },
+      {
+        "display_name": "Cobalt Blue Metallic",
+        "paint_code": "DCC191056",
+        "slug": "cobalt-blue-metallic-dcc191056",
+        "reference_url": "https://www.paintscratch.com/colors/lund/cobalt-blue-metallic-dcc191056/",
+        "source_label": "PaintScratch 1991 Lund",
+        "hex_value": "#1E1252"
+      },
+      {
+        "display_name": "Artic White",
+        "paint_code": "DCC90271",
+        "slug": "artic-white-dcc90271",
+        "reference_url": "https://www.paintscratch.com/colors/lund/artic-white-dcc90271/",
+        "source_label": "PaintScratch 1991 Lund",
+        "hex_value": "#EEEDF9"
+      },
+      {
+        "display_name": "Graphite Gray",
+        "paint_code": "DCC35831",
+        "slug": "graphite-gray-dcc35831",
+        "reference_url": "https://www.paintscratch.com/colors/lund/graphite-gray-dcc35831/",
+        "source_label": "PaintScratch 1991 Lund",
+        "hex_value": "#484444"
+      },
+      {
+        "display_name": "Navy Blue Metallic",
+        "paint_code": "DCC3497",
+        "slug": "navy-blue-metallic-dcc3497",
+        "reference_url": "https://www.paintscratch.com/colors/lund/navy-blue-metallic-dcc3497/",
+        "source_label": "PaintScratch 1991 Lund",
+        "hex_value": "#545972"
+      },
+      {
+        "display_name": "Red Reef",
+        "paint_code": "DCC5080",
+        "slug": "red-reef-dcc5080",
+        "reference_url": "https://www.paintscratch.com/colors/lund/red-reef-dcc5080/",
+        "source_label": "PaintScratch 1991 Lund",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "Medium Red",
+        "paint_code": "DCC4679",
+        "slug": "medium-red-dcc4679",
+        "reference_url": "https://www.paintscratch.com/colors/lund/medium-red-dcc4679/",
+        "source_label": "PaintScratch 1991 Lund",
+        "hex_value": "#AC2222"
+      }
+    ],
+    "1992": [
+      {
+        "display_name": "Sand Beach",
+        "paint_code": "DCC28805",
+        "slug": "sand-beach-dcc28805",
+        "reference_url": "https://www.paintscratch.com/colors/lund/sand-beach-dcc28805/",
+        "source_label": "PaintScratch 1992 Lund",
+        "hex_value": "#D1A341"
+      },
+      {
+        "display_name": "Forest Green",
+        "paint_code": "DCC400390",
+        "slug": "forest-green-dcc400390",
+        "reference_url": "https://www.paintscratch.com/colors/lund/forest-green-dcc400390/",
+        "source_label": "PaintScratch 1992 Lund",
+        "hex_value": "#15350F"
+      },
+      {
+        "display_name": "Green",
+        "paint_code": "DCC4215",
+        "slug": "green-dcc4215",
+        "reference_url": "https://www.paintscratch.com/colors/lund/green-dcc4215/",
+        "source_label": "PaintScratch 1992 Lund",
+        "hex_value": "#336220"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "DCC9000",
+        "slug": "black-dcc9000",
+        "reference_url": "https://www.paintscratch.com/colors/lund/black-dcc9000/",
+        "source_label": "PaintScratch 1992 Lund",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Pewter",
+        "paint_code": "DCC37308",
+        "slug": "pewter-dcc37308",
+        "reference_url": "https://www.paintscratch.com/colors/lund/pewter-dcc37308/",
+        "source_label": "PaintScratch 1992 Lund",
+        "hex_value": "#404040"
+      },
+      {
+        "display_name": "Cobalt Blue Metallic",
+        "paint_code": "DCC191056",
+        "slug": "cobalt-blue-metallic-dcc191056",
+        "reference_url": "https://www.paintscratch.com/colors/lund/cobalt-blue-metallic-dcc191056/",
+        "source_label": "PaintScratch 1992 Lund",
+        "hex_value": "#1E1252"
+      },
+      {
+        "display_name": "Artic White",
+        "paint_code": "DCC90271",
+        "slug": "artic-white-dcc90271",
+        "reference_url": "https://www.paintscratch.com/colors/lund/artic-white-dcc90271/",
+        "source_label": "PaintScratch 1992 Lund",
+        "hex_value": "#EEEDF9"
+      },
+      {
+        "display_name": "Graphite Gray",
+        "paint_code": "DCC35831",
+        "slug": "graphite-gray-dcc35831",
+        "reference_url": "https://www.paintscratch.com/colors/lund/graphite-gray-dcc35831/",
+        "source_label": "PaintScratch 1992 Lund",
+        "hex_value": "#484444"
+      },
+      {
+        "display_name": "Navy Blue Metallic",
+        "paint_code": "DCC3497",
+        "slug": "navy-blue-metallic-dcc3497",
+        "reference_url": "https://www.paintscratch.com/colors/lund/navy-blue-metallic-dcc3497/",
+        "source_label": "PaintScratch 1992 Lund",
+        "hex_value": "#545972"
+      },
+      {
+        "display_name": "Red Reef",
+        "paint_code": "DCC5080",
+        "slug": "red-reef-dcc5080",
+        "reference_url": "https://www.paintscratch.com/colors/lund/red-reef-dcc5080/",
+        "source_label": "PaintScratch 1992 Lund",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "Medium Red",
+        "paint_code": "DCC4679",
+        "slug": "medium-red-dcc4679",
+        "reference_url": "https://www.paintscratch.com/colors/lund/medium-red-dcc4679/",
+        "source_label": "PaintScratch 1992 Lund",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "Tartan Red",
+        "paint_code": "DCC74250",
+        "slug": "tartan-red-dcc74250",
+        "reference_url": "https://www.paintscratch.com/colors/lund/tartan-red-dcc74250/",
+        "source_label": "PaintScratch 1992 Lund",
+        "hex_value": "#AC2222"
+      }
+    ],
+    "1993": [
+      {
+        "display_name": "Sand Beach",
+        "paint_code": "DCC28805",
+        "slug": "sand-beach-dcc28805",
+        "reference_url": "https://www.paintscratch.com/colors/lund/sand-beach-dcc28805/",
+        "source_label": "PaintScratch 1993 Lund",
+        "hex_value": "#D1A341"
+      },
+      {
+        "display_name": "Forest Green",
+        "paint_code": "DCC400390",
+        "slug": "forest-green-dcc400390",
+        "reference_url": "https://www.paintscratch.com/colors/lund/forest-green-dcc400390/",
+        "source_label": "PaintScratch 1993 Lund",
+        "hex_value": "#15350F"
+      },
+      {
+        "display_name": "Green",
+        "paint_code": "DCC4215",
+        "slug": "green-dcc4215",
+        "reference_url": "https://www.paintscratch.com/colors/lund/green-dcc4215/",
+        "source_label": "PaintScratch 1993 Lund",
+        "hex_value": "#336220"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "DCC9000",
+        "slug": "black-dcc9000",
+        "reference_url": "https://www.paintscratch.com/colors/lund/black-dcc9000/",
+        "source_label": "PaintScratch 1993 Lund",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Pewter",
+        "paint_code": "DCC37308",
+        "slug": "pewter-dcc37308",
+        "reference_url": "https://www.paintscratch.com/colors/lund/pewter-dcc37308/",
+        "source_label": "PaintScratch 1993 Lund",
+        "hex_value": "#404040"
+      },
+      {
+        "display_name": "Cobalt Blue Metallic",
+        "paint_code": "DCC191056",
+        "slug": "cobalt-blue-metallic-dcc191056",
+        "reference_url": "https://www.paintscratch.com/colors/lund/cobalt-blue-metallic-dcc191056/",
+        "source_label": "PaintScratch 1993 Lund",
+        "hex_value": "#1E1252"
+      },
+      {
+        "display_name": "Artic White",
+        "paint_code": "DCC90271",
+        "slug": "artic-white-dcc90271",
+        "reference_url": "https://www.paintscratch.com/colors/lund/artic-white-dcc90271/",
+        "source_label": "PaintScratch 1993 Lund",
+        "hex_value": "#EEEDF9"
+      },
+      {
+        "display_name": "Graphite Gray",
+        "paint_code": "DCC35831",
+        "slug": "graphite-gray-dcc35831",
+        "reference_url": "https://www.paintscratch.com/colors/lund/graphite-gray-dcc35831/",
+        "source_label": "PaintScratch 1993 Lund",
+        "hex_value": "#484444"
+      },
+      {
+        "display_name": "Navy Blue Metallic",
+        "paint_code": "DCC3497",
+        "slug": "navy-blue-metallic-dcc3497",
+        "reference_url": "https://www.paintscratch.com/colors/lund/navy-blue-metallic-dcc3497/",
+        "source_label": "PaintScratch 1993 Lund",
+        "hex_value": "#545972"
+      },
+      {
+        "display_name": "Red Reef",
+        "paint_code": "DCC5080",
+        "slug": "red-reef-dcc5080",
+        "reference_url": "https://www.paintscratch.com/colors/lund/red-reef-dcc5080/",
+        "source_label": "PaintScratch 1993 Lund",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "Medium Red",
+        "paint_code": "DCC4679",
+        "slug": "medium-red-dcc4679",
+        "reference_url": "https://www.paintscratch.com/colors/lund/medium-red-dcc4679/",
+        "source_label": "PaintScratch 1993 Lund",
+        "hex_value": "#AC2222"
+      }
+    ],
+    "1994": [
+      {
+        "display_name": "Sand Beach",
+        "paint_code": "DCC28805",
+        "slug": "sand-beach-dcc28805",
+        "reference_url": "https://www.paintscratch.com/colors/lund/sand-beach-dcc28805/",
+        "source_label": "PaintScratch 1994 Lund",
+        "hex_value": "#D1A341"
+      },
+      {
+        "display_name": "Forest Green",
+        "paint_code": "DCC400390",
+        "slug": "forest-green-dcc400390",
+        "reference_url": "https://www.paintscratch.com/colors/lund/forest-green-dcc400390/",
+        "source_label": "PaintScratch 1994 Lund",
+        "hex_value": "#15350F"
+      },
+      {
+        "display_name": "Green",
+        "paint_code": "DCC4215",
+        "slug": "green-dcc4215",
+        "reference_url": "https://www.paintscratch.com/colors/lund/green-dcc4215/",
+        "source_label": "PaintScratch 1994 Lund",
+        "hex_value": "#336220"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "DCC9000",
+        "slug": "black-dcc9000",
+        "reference_url": "https://www.paintscratch.com/colors/lund/black-dcc9000/",
+        "source_label": "PaintScratch 1994 Lund",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Pewter",
+        "paint_code": "DCC37308",
+        "slug": "pewter-dcc37308",
+        "reference_url": "https://www.paintscratch.com/colors/lund/pewter-dcc37308/",
+        "source_label": "PaintScratch 1994 Lund",
+        "hex_value": "#404040"
+      },
+      {
+        "display_name": "Cobalt Blue Metallic",
+        "paint_code": "DCC191056",
+        "slug": "cobalt-blue-metallic-dcc191056",
+        "reference_url": "https://www.paintscratch.com/colors/lund/cobalt-blue-metallic-dcc191056/",
+        "source_label": "PaintScratch 1994 Lund",
+        "hex_value": "#1E1252"
+      },
+      {
+        "display_name": "Artic White",
+        "paint_code": "DCC90271",
+        "slug": "artic-white-dcc90271",
+        "reference_url": "https://www.paintscratch.com/colors/lund/artic-white-dcc90271/",
+        "source_label": "PaintScratch 1994 Lund",
+        "hex_value": "#EEEDF9"
+      },
+      {
+        "display_name": "Graphite Gray",
+        "paint_code": "DCC35831",
+        "slug": "graphite-gray-dcc35831",
+        "reference_url": "https://www.paintscratch.com/colors/lund/graphite-gray-dcc35831/",
+        "source_label": "PaintScratch 1994 Lund",
+        "hex_value": "#484444"
+      },
+      {
+        "display_name": "Navy Blue Metallic",
+        "paint_code": "DCC3497",
+        "slug": "navy-blue-metallic-dcc3497",
+        "reference_url": "https://www.paintscratch.com/colors/lund/navy-blue-metallic-dcc3497/",
+        "source_label": "PaintScratch 1994 Lund",
+        "hex_value": "#545972"
+      },
+      {
+        "display_name": "Red Reef",
+        "paint_code": "DCC5080",
+        "slug": "red-reef-dcc5080",
+        "reference_url": "https://www.paintscratch.com/colors/lund/red-reef-dcc5080/",
+        "source_label": "PaintScratch 1994 Lund",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "Medium Red",
+        "paint_code": "DCC4679",
+        "slug": "medium-red-dcc4679",
+        "reference_url": "https://www.paintscratch.com/colors/lund/medium-red-dcc4679/",
+        "source_label": "PaintScratch 1994 Lund",
+        "hex_value": "#AC2222"
+      }
+    ],
+    "1995": [
+      {
+        "display_name": "Quick Silver",
+        "paint_code": "DCC35830",
+        "slug": "quick-silver-dcc35830",
+        "reference_url": "https://www.paintscratch.com/colors/lund/quick-silver-dcc35830/",
+        "source_label": "PaintScratch 1995 Lund",
+        "hex_value": "#E2DDD0"
+      },
+      {
+        "display_name": "Sand Beach",
+        "paint_code": "DCC28805",
+        "slug": "sand-beach-dcc28805",
+        "reference_url": "https://www.paintscratch.com/colors/lund/sand-beach-dcc28805/",
+        "source_label": "PaintScratch 1995 Lund",
+        "hex_value": "#D1A341"
+      },
+      {
+        "display_name": "Forest Green",
+        "paint_code": "DCC400390",
+        "slug": "forest-green-dcc400390",
+        "reference_url": "https://www.paintscratch.com/colors/lund/forest-green-dcc400390/",
+        "source_label": "PaintScratch 1995 Lund",
+        "hex_value": "#15350F"
+      },
+      {
+        "display_name": "Green",
+        "paint_code": "DCC4215",
+        "slug": "green-dcc4215",
+        "reference_url": "https://www.paintscratch.com/colors/lund/green-dcc4215/",
+        "source_label": "PaintScratch 1995 Lund",
+        "hex_value": "#336220"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "DCC9000",
+        "slug": "black-dcc9000",
+        "reference_url": "https://www.paintscratch.com/colors/lund/black-dcc9000/",
+        "source_label": "PaintScratch 1995 Lund",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Pewter",
+        "paint_code": "DCC37308",
+        "slug": "pewter-dcc37308",
+        "reference_url": "https://www.paintscratch.com/colors/lund/pewter-dcc37308/",
+        "source_label": "PaintScratch 1995 Lund",
+        "hex_value": "#404040"
+      },
+      {
+        "display_name": "Cobalt Blue Metallic",
+        "paint_code": "DCC191056",
+        "slug": "cobalt-blue-metallic-dcc191056",
+        "reference_url": "https://www.paintscratch.com/colors/lund/cobalt-blue-metallic-dcc191056/",
+        "source_label": "PaintScratch 1995 Lund",
+        "hex_value": "#1E1252"
+      },
+      {
+        "display_name": "Artic White",
+        "paint_code": "DCC90271",
+        "slug": "artic-white-dcc90271",
+        "reference_url": "https://www.paintscratch.com/colors/lund/artic-white-dcc90271/",
+        "source_label": "PaintScratch 1995 Lund",
+        "hex_value": "#EEEDF9"
+      },
+      {
+        "display_name": "Graphite Gray",
+        "paint_code": "DCC35831",
+        "slug": "graphite-gray-dcc35831",
+        "reference_url": "https://www.paintscratch.com/colors/lund/graphite-gray-dcc35831/",
+        "source_label": "PaintScratch 1995 Lund",
+        "hex_value": "#484444"
+      },
+      {
+        "display_name": "Navy Blue Metallic",
+        "paint_code": "DCC3497",
+        "slug": "navy-blue-metallic-dcc3497",
+        "reference_url": "https://www.paintscratch.com/colors/lund/navy-blue-metallic-dcc3497/",
+        "source_label": "PaintScratch 1995 Lund",
+        "hex_value": "#545972"
+      },
+      {
+        "display_name": "Red Reef",
+        "paint_code": "DCC5080",
+        "slug": "red-reef-dcc5080",
+        "reference_url": "https://www.paintscratch.com/colors/lund/red-reef-dcc5080/",
+        "source_label": "PaintScratch 1995 Lund",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "Medium Red",
+        "paint_code": "DCC4679",
+        "slug": "medium-red-dcc4679",
+        "reference_url": "https://www.paintscratch.com/colors/lund/medium-red-dcc4679/",
+        "source_label": "PaintScratch 1995 Lund",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "Tartan Red",
+        "paint_code": "DCC74250",
+        "slug": "tartan-red-dcc74250",
+        "reference_url": "https://www.paintscratch.com/colors/lund/tartan-red-dcc74250/",
+        "source_label": "PaintScratch 1995 Lund",
+        "hex_value": "#AC2222"
+      }
+    ],
+    "1996": [
+      {
+        "display_name": "Sand Beach",
+        "paint_code": "DCC28805",
+        "slug": "sand-beach-dcc28805",
+        "reference_url": "https://www.paintscratch.com/colors/lund/sand-beach-dcc28805/",
+        "source_label": "PaintScratch 1996 Lund",
+        "hex_value": "#D1A341"
+      },
+      {
+        "display_name": "Forest Green",
+        "paint_code": "DCC400390",
+        "slug": "forest-green-dcc400390",
+        "reference_url": "https://www.paintscratch.com/colors/lund/forest-green-dcc400390/",
+        "source_label": "PaintScratch 1996 Lund",
+        "hex_value": "#15350F"
+      },
+      {
+        "display_name": "Green",
+        "paint_code": "DCC4215",
+        "slug": "green-dcc4215",
+        "reference_url": "https://www.paintscratch.com/colors/lund/green-dcc4215/",
+        "source_label": "PaintScratch 1996 Lund",
+        "hex_value": "#336220"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "DCC9000",
+        "slug": "black-dcc9000",
+        "reference_url": "https://www.paintscratch.com/colors/lund/black-dcc9000/",
+        "source_label": "PaintScratch 1996 Lund",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Pewter",
+        "paint_code": "DCC37308",
+        "slug": "pewter-dcc37308",
+        "reference_url": "https://www.paintscratch.com/colors/lund/pewter-dcc37308/",
+        "source_label": "PaintScratch 1996 Lund",
+        "hex_value": "#404040"
+      },
+      {
+        "display_name": "Cobalt Blue Metallic",
+        "paint_code": "DCC191056",
+        "slug": "cobalt-blue-metallic-dcc191056",
+        "reference_url": "https://www.paintscratch.com/colors/lund/cobalt-blue-metallic-dcc191056/",
+        "source_label": "PaintScratch 1996 Lund",
+        "hex_value": "#1E1252"
+      },
+      {
+        "display_name": "Artic White",
+        "paint_code": "DCC90271",
+        "slug": "artic-white-dcc90271",
+        "reference_url": "https://www.paintscratch.com/colors/lund/artic-white-dcc90271/",
+        "source_label": "PaintScratch 1996 Lund",
+        "hex_value": "#EEEDF9"
+      },
+      {
+        "display_name": "Graphite Gray",
+        "paint_code": "DCC35831",
+        "slug": "graphite-gray-dcc35831",
+        "reference_url": "https://www.paintscratch.com/colors/lund/graphite-gray-dcc35831/",
+        "source_label": "PaintScratch 1996 Lund",
+        "hex_value": "#484444"
+      },
+      {
+        "display_name": "Navy Blue Metallic",
+        "paint_code": "DCC3497",
+        "slug": "navy-blue-metallic-dcc3497",
+        "reference_url": "https://www.paintscratch.com/colors/lund/navy-blue-metallic-dcc3497/",
+        "source_label": "PaintScratch 1996 Lund",
+        "hex_value": "#545972"
+      },
+      {
+        "display_name": "Red Reef",
+        "paint_code": "DCC5080",
+        "slug": "red-reef-dcc5080",
+        "reference_url": "https://www.paintscratch.com/colors/lund/red-reef-dcc5080/",
+        "source_label": "PaintScratch 1996 Lund",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "Medium Red",
+        "paint_code": "DCC4679",
+        "slug": "medium-red-dcc4679",
+        "reference_url": "https://www.paintscratch.com/colors/lund/medium-red-dcc4679/",
+        "source_label": "PaintScratch 1996 Lund",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "Tartan Red",
+        "paint_code": "DCC74250",
+        "slug": "tartan-red-dcc74250",
+        "reference_url": "https://www.paintscratch.com/colors/lund/tartan-red-dcc74250/",
+        "source_label": "PaintScratch 1996 Lund",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "Medium Blue",
+        "paint_code": "DCC17045",
+        "slug": "medium-blue-dcc17045",
+        "reference_url": "https://www.paintscratch.com/colors/lund/medium-blue-dcc17045/",
+        "source_label": "PaintScratch 1996 Lund",
+        "hex_value": "#597DF3"
+      },
+      {
+        "display_name": "Red (Catalyzed Spray ONLY)",
+        "paint_code": "DCC74522",
+        "slug": "red-catalyzed-spray-only-dcc74522",
+        "reference_url": "https://www.paintscratch.com/colors/lund/red-catalyzed-spray-only-dcc74522/",
+        "source_label": "PaintScratch 1996 Lund",
+        "hex_value": "#B04732"
+      }
+    ],
+    "1997": [
+      {
+        "display_name": "Quick Silver",
+        "paint_code": "DCC35830",
+        "slug": "quick-silver-dcc35830",
+        "reference_url": "https://www.paintscratch.com/colors/lund/quick-silver-dcc35830/",
+        "source_label": "PaintScratch 1997 Lund",
+        "hex_value": "#E2DDD0"
+      },
+      {
+        "display_name": "Sand Beach",
+        "paint_code": "DCC28805",
+        "slug": "sand-beach-dcc28805",
+        "reference_url": "https://www.paintscratch.com/colors/lund/sand-beach-dcc28805/",
+        "source_label": "PaintScratch 1997 Lund",
+        "hex_value": "#D1A341"
+      },
+      {
+        "display_name": "Forest Green",
+        "paint_code": "DCC400390",
+        "slug": "forest-green-dcc400390",
+        "reference_url": "https://www.paintscratch.com/colors/lund/forest-green-dcc400390/",
+        "source_label": "PaintScratch 1997 Lund",
+        "hex_value": "#15350F"
+      },
+      {
+        "display_name": "Green",
+        "paint_code": "DCC4215",
+        "slug": "green-dcc4215",
+        "reference_url": "https://www.paintscratch.com/colors/lund/green-dcc4215/",
+        "source_label": "PaintScratch 1997 Lund",
+        "hex_value": "#336220"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "DCC9000",
+        "slug": "black-dcc9000",
+        "reference_url": "https://www.paintscratch.com/colors/lund/black-dcc9000/",
+        "source_label": "PaintScratch 1997 Lund",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Pewter",
+        "paint_code": "DCC37308",
+        "slug": "pewter-dcc37308",
+        "reference_url": "https://www.paintscratch.com/colors/lund/pewter-dcc37308/",
+        "source_label": "PaintScratch 1997 Lund",
+        "hex_value": "#404040"
+      },
+      {
+        "display_name": "Cobalt Blue Metallic",
+        "paint_code": "DCC191056",
+        "slug": "cobalt-blue-metallic-dcc191056",
+        "reference_url": "https://www.paintscratch.com/colors/lund/cobalt-blue-metallic-dcc191056/",
+        "source_label": "PaintScratch 1997 Lund",
+        "hex_value": "#1E1252"
+      },
+      {
+        "display_name": "Birchwood",
+        "paint_code": "DCC28402",
+        "slug": "birchwood-dcc28402",
+        "reference_url": "https://www.paintscratch.com/colors/lund/birchwood-dcc28402/",
+        "source_label": "PaintScratch 1997 Lund",
+        "hex_value": "#D2B98E"
+      },
+      {
+        "display_name": "Artic White",
+        "paint_code": "DCC90271",
+        "slug": "artic-white-dcc90271",
+        "reference_url": "https://www.paintscratch.com/colors/lund/artic-white-dcc90271/",
+        "source_label": "PaintScratch 1997 Lund",
+        "hex_value": "#EEEDF9"
+      },
+      {
+        "display_name": "Graphite Gray",
+        "paint_code": "DCC35831",
+        "slug": "graphite-gray-dcc35831",
+        "reference_url": "https://www.paintscratch.com/colors/lund/graphite-gray-dcc35831/",
+        "source_label": "PaintScratch 1997 Lund",
+        "hex_value": "#484444"
+      },
+      {
+        "display_name": "Navy Blue Metallic",
+        "paint_code": "DCC3497",
+        "slug": "navy-blue-metallic-dcc3497",
+        "reference_url": "https://www.paintscratch.com/colors/lund/navy-blue-metallic-dcc3497/",
+        "source_label": "PaintScratch 1997 Lund",
+        "hex_value": "#545972"
+      },
+      {
+        "display_name": "Red Reef",
+        "paint_code": "DCC5080",
+        "slug": "red-reef-dcc5080",
+        "reference_url": "https://www.paintscratch.com/colors/lund/red-reef-dcc5080/",
+        "source_label": "PaintScratch 1997 Lund",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "Garnet Red",
+        "paint_code": "DCC3986",
+        "slug": "garnet-red-dcc3986",
+        "reference_url": "https://www.paintscratch.com/colors/lund/garnet-red-dcc3986/",
+        "source_label": "PaintScratch 1997 Lund",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "Medium Red",
+        "paint_code": "DCC4679",
+        "slug": "medium-red-dcc4679",
+        "reference_url": "https://www.paintscratch.com/colors/lund/medium-red-dcc4679/",
+        "source_label": "PaintScratch 1997 Lund",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "Light Brown",
+        "paint_code": "PPG28402",
+        "slug": "light-brown-ppg28402",
+        "reference_url": "https://www.paintscratch.com/colors/lund/light-brown-ppg28402/",
+        "source_label": "PaintScratch 1997 Lund",
+        "hex_value": "#D1A341"
+      },
+      {
+        "display_name": "Light Autumwood",
+        "paint_code": "DCC4817",
+        "slug": "light-autumwood-dcc4817",
+        "reference_url": "https://www.paintscratch.com/colors/lund/light-autumwood-dcc4817/",
+        "source_label": "PaintScratch 1997 Lund",
+        "hex_value": "#CDB78D"
+      }
+    ],
+    "1998": [
+      {
+        "display_name": "Quick Silver",
+        "paint_code": "DCC35830",
+        "slug": "quick-silver-dcc35830",
+        "reference_url": "https://www.paintscratch.com/colors/lund/quick-silver-dcc35830/",
+        "source_label": "PaintScratch 1998 Lund",
+        "hex_value": "#E2DDD0"
+      },
+      {
+        "display_name": "Sand Beach",
+        "paint_code": "DCC28805",
+        "slug": "sand-beach-dcc28805",
+        "reference_url": "https://www.paintscratch.com/colors/lund/sand-beach-dcc28805/",
+        "source_label": "PaintScratch 1998 Lund",
+        "hex_value": "#D1A341"
+      },
+      {
+        "display_name": "Forest Green",
+        "paint_code": "DCC400390",
+        "slug": "forest-green-dcc400390",
+        "reference_url": "https://www.paintscratch.com/colors/lund/forest-green-dcc400390/",
+        "source_label": "PaintScratch 1998 Lund",
+        "hex_value": "#15350F"
+      },
+      {
+        "display_name": "Green",
+        "paint_code": "DCC4215",
+        "slug": "green-dcc4215",
+        "reference_url": "https://www.paintscratch.com/colors/lund/green-dcc4215/",
+        "source_label": "PaintScratch 1998 Lund",
+        "hex_value": "#336220"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "DCC9000",
+        "slug": "black-dcc9000",
+        "reference_url": "https://www.paintscratch.com/colors/lund/black-dcc9000/",
+        "source_label": "PaintScratch 1998 Lund",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Pewter",
+        "paint_code": "DCC37308",
+        "slug": "pewter-dcc37308",
+        "reference_url": "https://www.paintscratch.com/colors/lund/pewter-dcc37308/",
+        "source_label": "PaintScratch 1998 Lund",
+        "hex_value": "#404040"
+      },
+      {
+        "display_name": "Cobalt Blue Metallic",
+        "paint_code": "DCC191056",
+        "slug": "cobalt-blue-metallic-dcc191056",
+        "reference_url": "https://www.paintscratch.com/colors/lund/cobalt-blue-metallic-dcc191056/",
+        "source_label": "PaintScratch 1998 Lund",
+        "hex_value": "#1E1252"
+      },
+      {
+        "display_name": "Birchwood",
+        "paint_code": "DCC28402",
+        "slug": "birchwood-dcc28402",
+        "reference_url": "https://www.paintscratch.com/colors/lund/birchwood-dcc28402/",
+        "source_label": "PaintScratch 1998 Lund",
+        "hex_value": "#D2B98E"
+      },
+      {
+        "display_name": "Artic White",
+        "paint_code": "DCC90271",
+        "slug": "artic-white-dcc90271",
+        "reference_url": "https://www.paintscratch.com/colors/lund/artic-white-dcc90271/",
+        "source_label": "PaintScratch 1998 Lund",
+        "hex_value": "#EEEDF9"
+      },
+      {
+        "display_name": "Graphite Gray",
+        "paint_code": "DCC35831",
+        "slug": "graphite-gray-dcc35831",
+        "reference_url": "https://www.paintscratch.com/colors/lund/graphite-gray-dcc35831/",
+        "source_label": "PaintScratch 1998 Lund",
+        "hex_value": "#484444"
+      },
+      {
+        "display_name": "Navy Blue Metallic",
+        "paint_code": "DCC3497",
+        "slug": "navy-blue-metallic-dcc3497",
+        "reference_url": "https://www.paintscratch.com/colors/lund/navy-blue-metallic-dcc3497/",
+        "source_label": "PaintScratch 1998 Lund",
+        "hex_value": "#545972"
+      },
+      {
+        "display_name": "Red Reef",
+        "paint_code": "DCC5080",
+        "slug": "red-reef-dcc5080",
+        "reference_url": "https://www.paintscratch.com/colors/lund/red-reef-dcc5080/",
+        "source_label": "PaintScratch 1998 Lund",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "Garnet Red",
+        "paint_code": "DCC3986",
+        "slug": "garnet-red-dcc3986",
+        "reference_url": "https://www.paintscratch.com/colors/lund/garnet-red-dcc3986/",
+        "source_label": "PaintScratch 1998 Lund",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "Medium Red",
+        "paint_code": "DCC4679",
+        "slug": "medium-red-dcc4679",
+        "reference_url": "https://www.paintscratch.com/colors/lund/medium-red-dcc4679/",
+        "source_label": "PaintScratch 1998 Lund",
+        "hex_value": "#AC2222"
+      }
+    ],
+    "1999": [
+      {
+        "display_name": "Quick Silver",
+        "paint_code": "DCC35830",
+        "slug": "quick-silver-dcc35830",
+        "reference_url": "https://www.paintscratch.com/colors/lund/quick-silver-dcc35830/",
+        "source_label": "PaintScratch 1999 Lund",
+        "hex_value": "#E2DDD0"
+      },
+      {
+        "display_name": "Sand Beach",
+        "paint_code": "DCC28805",
+        "slug": "sand-beach-dcc28805",
+        "reference_url": "https://www.paintscratch.com/colors/lund/sand-beach-dcc28805/",
+        "source_label": "PaintScratch 1999 Lund",
+        "hex_value": "#D1A341"
+      },
+      {
+        "display_name": "Forest Green",
+        "paint_code": "DCC400390",
+        "slug": "forest-green-dcc400390",
+        "reference_url": "https://www.paintscratch.com/colors/lund/forest-green-dcc400390/",
+        "source_label": "PaintScratch 1999 Lund",
+        "hex_value": "#15350F"
+      },
+      {
+        "display_name": "Green",
+        "paint_code": "DCC4215",
+        "slug": "green-dcc4215",
+        "reference_url": "https://www.paintscratch.com/colors/lund/green-dcc4215/",
+        "source_label": "PaintScratch 1999 Lund",
+        "hex_value": "#336220"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "DCC9000",
+        "slug": "black-dcc9000",
+        "reference_url": "https://www.paintscratch.com/colors/lund/black-dcc9000/",
+        "source_label": "PaintScratch 1999 Lund",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Pewter",
+        "paint_code": "DCC37308",
+        "slug": "pewter-dcc37308",
+        "reference_url": "https://www.paintscratch.com/colors/lund/pewter-dcc37308/",
+        "source_label": "PaintScratch 1999 Lund",
+        "hex_value": "#404040"
+      },
+      {
+        "display_name": "Cobalt Blue Metallic",
+        "paint_code": "DCC191056",
+        "slug": "cobalt-blue-metallic-dcc191056",
+        "reference_url": "https://www.paintscratch.com/colors/lund/cobalt-blue-metallic-dcc191056/",
+        "source_label": "PaintScratch 1999 Lund",
+        "hex_value": "#1E1252"
+      },
+      {
+        "display_name": "Artic White",
+        "paint_code": "DCC90271",
+        "slug": "artic-white-dcc90271",
+        "reference_url": "https://www.paintscratch.com/colors/lund/artic-white-dcc90271/",
+        "source_label": "PaintScratch 1999 Lund",
+        "hex_value": "#EEEDF9"
+      },
+      {
+        "display_name": "Graphite Gray",
+        "paint_code": "DCC35831",
+        "slug": "graphite-gray-dcc35831",
+        "reference_url": "https://www.paintscratch.com/colors/lund/graphite-gray-dcc35831/",
+        "source_label": "PaintScratch 1999 Lund",
+        "hex_value": "#484444"
+      },
+      {
+        "display_name": "Navy Blue Metallic",
+        "paint_code": "DCC3497",
+        "slug": "navy-blue-metallic-dcc3497",
+        "reference_url": "https://www.paintscratch.com/colors/lund/navy-blue-metallic-dcc3497/",
+        "source_label": "PaintScratch 1999 Lund",
+        "hex_value": "#545972"
+      },
+      {
+        "display_name": "Red Reef",
+        "paint_code": "DCC5080",
+        "slug": "red-reef-dcc5080",
+        "reference_url": "https://www.paintscratch.com/colors/lund/red-reef-dcc5080/",
+        "source_label": "PaintScratch 1999 Lund",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "Medium Red",
+        "paint_code": "DCC4679",
+        "slug": "medium-red-dcc4679",
+        "reference_url": "https://www.paintscratch.com/colors/lund/medium-red-dcc4679/",
+        "source_label": "PaintScratch 1999 Lund",
+        "hex_value": "#AC2222"
+      }
+    ],
+    "2000": [
+      {
+        "display_name": "Quick Silver",
+        "paint_code": "DCC35830",
+        "slug": "quick-silver-dcc35830",
+        "reference_url": "https://www.paintscratch.com/colors/lund/quick-silver-dcc35830/",
+        "source_label": "PaintScratch 2000 Lund",
+        "hex_value": "#E2DDD0"
+      },
+      {
+        "display_name": "Sand Beach",
+        "paint_code": "DCC28805",
+        "slug": "sand-beach-dcc28805",
+        "reference_url": "https://www.paintscratch.com/colors/lund/sand-beach-dcc28805/",
+        "source_label": "PaintScratch 2000 Lund",
+        "hex_value": "#D1A341"
+      },
+      {
+        "display_name": "Forest Green",
+        "paint_code": "DCC400390",
+        "slug": "forest-green-dcc400390",
+        "reference_url": "https://www.paintscratch.com/colors/lund/forest-green-dcc400390/",
+        "source_label": "PaintScratch 2000 Lund",
+        "hex_value": "#15350F"
+      },
+      {
+        "display_name": "Green",
+        "paint_code": "DCC4215",
+        "slug": "green-dcc4215",
+        "reference_url": "https://www.paintscratch.com/colors/lund/green-dcc4215/",
+        "source_label": "PaintScratch 2000 Lund",
+        "hex_value": "#336220"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "DCC9000",
+        "slug": "black-dcc9000",
+        "reference_url": "https://www.paintscratch.com/colors/lund/black-dcc9000/",
+        "source_label": "PaintScratch 2000 Lund",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Pewter",
+        "paint_code": "DCC37308",
+        "slug": "pewter-dcc37308",
+        "reference_url": "https://www.paintscratch.com/colors/lund/pewter-dcc37308/",
+        "source_label": "PaintScratch 2000 Lund",
+        "hex_value": "#404040"
+      },
+      {
+        "display_name": "Cobalt Blue Metallic",
+        "paint_code": "DCC191056",
+        "slug": "cobalt-blue-metallic-dcc191056",
+        "reference_url": "https://www.paintscratch.com/colors/lund/cobalt-blue-metallic-dcc191056/",
+        "source_label": "PaintScratch 2000 Lund",
+        "hex_value": "#1E1252"
+      },
+      {
+        "display_name": "Artic White",
+        "paint_code": "DCC90271",
+        "slug": "artic-white-dcc90271",
+        "reference_url": "https://www.paintscratch.com/colors/lund/artic-white-dcc90271/",
+        "source_label": "PaintScratch 2000 Lund",
+        "hex_value": "#EEEDF9"
+      },
+      {
+        "display_name": "Graphite Gray",
+        "paint_code": "DCC35831",
+        "slug": "graphite-gray-dcc35831",
+        "reference_url": "https://www.paintscratch.com/colors/lund/graphite-gray-dcc35831/",
+        "source_label": "PaintScratch 2000 Lund",
+        "hex_value": "#484444"
+      },
+      {
+        "display_name": "Navy Blue Metallic",
+        "paint_code": "DCC3497",
+        "slug": "navy-blue-metallic-dcc3497",
+        "reference_url": "https://www.paintscratch.com/colors/lund/navy-blue-metallic-dcc3497/",
+        "source_label": "PaintScratch 2000 Lund",
+        "hex_value": "#545972"
+      },
+      {
+        "display_name": "Red Reef",
+        "paint_code": "DCC5080",
+        "slug": "red-reef-dcc5080",
+        "reference_url": "https://www.paintscratch.com/colors/lund/red-reef-dcc5080/",
+        "source_label": "PaintScratch 2000 Lund",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "Medium Red",
+        "paint_code": "DCC4679",
+        "slug": "medium-red-dcc4679",
+        "reference_url": "https://www.paintscratch.com/colors/lund/medium-red-dcc4679/",
+        "source_label": "PaintScratch 2000 Lund",
+        "hex_value": "#AC2222"
+      }
+    ],
+    "2001": [
+      {
+        "display_name": "Sand Beach",
+        "paint_code": "DCC28805",
+        "slug": "sand-beach-dcc28805",
+        "reference_url": "https://www.paintscratch.com/colors/lund/sand-beach-dcc28805/",
+        "source_label": "PaintScratch 2001 Lund",
+        "hex_value": "#D1A341"
+      },
+      {
+        "display_name": "Forest Green",
+        "paint_code": "DCC400390",
+        "slug": "forest-green-dcc400390",
+        "reference_url": "https://www.paintscratch.com/colors/lund/forest-green-dcc400390/",
+        "source_label": "PaintScratch 2001 Lund",
+        "hex_value": "#15350F"
+      },
+      {
+        "display_name": "Green",
+        "paint_code": "DCC4215",
+        "slug": "green-dcc4215",
+        "reference_url": "https://www.paintscratch.com/colors/lund/green-dcc4215/",
+        "source_label": "PaintScratch 2001 Lund",
+        "hex_value": "#336220"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "DCC9000",
+        "slug": "black-dcc9000",
+        "reference_url": "https://www.paintscratch.com/colors/lund/black-dcc9000/",
+        "source_label": "PaintScratch 2001 Lund",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Pewter",
+        "paint_code": "DCC37308",
+        "slug": "pewter-dcc37308",
+        "reference_url": "https://www.paintscratch.com/colors/lund/pewter-dcc37308/",
+        "source_label": "PaintScratch 2001 Lund",
+        "hex_value": "#404040"
+      },
+      {
+        "display_name": "Cobalt Blue Metallic",
+        "paint_code": "DCC191056",
+        "slug": "cobalt-blue-metallic-dcc191056",
+        "reference_url": "https://www.paintscratch.com/colors/lund/cobalt-blue-metallic-dcc191056/",
+        "source_label": "PaintScratch 2001 Lund",
+        "hex_value": "#1E1252"
+      },
+      {
+        "display_name": "Artic White",
+        "paint_code": "DCC90271",
+        "slug": "artic-white-dcc90271",
+        "reference_url": "https://www.paintscratch.com/colors/lund/artic-white-dcc90271/",
+        "source_label": "PaintScratch 2001 Lund",
+        "hex_value": "#EEEDF9"
+      },
+      {
+        "display_name": "Graphite Gray",
+        "paint_code": "DCC35831",
+        "slug": "graphite-gray-dcc35831",
+        "reference_url": "https://www.paintscratch.com/colors/lund/graphite-gray-dcc35831/",
+        "source_label": "PaintScratch 2001 Lund",
+        "hex_value": "#484444"
+      },
+      {
+        "display_name": "Navy Blue Metallic",
+        "paint_code": "DCC3497",
+        "slug": "navy-blue-metallic-dcc3497",
+        "reference_url": "https://www.paintscratch.com/colors/lund/navy-blue-metallic-dcc3497/",
+        "source_label": "PaintScratch 2001 Lund",
+        "hex_value": "#545972"
+      },
+      {
+        "display_name": "Red Reef",
+        "paint_code": "DCC5080",
+        "slug": "red-reef-dcc5080",
+        "reference_url": "https://www.paintscratch.com/colors/lund/red-reef-dcc5080/",
+        "source_label": "PaintScratch 2001 Lund",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "Pewter",
+        "paint_code": "DUHS37308",
+        "slug": "pewter-duhs37308",
+        "reference_url": "https://www.paintscratch.com/colors/lund/pewter-duhs37308/",
+        "source_label": "PaintScratch 2001 Lund",
+        "hex_value": "#D1A341"
+      },
+      {
+        "display_name": "Smoke",
+        "paint_code": "DCC35373",
+        "slug": "smoke-dcc35373",
+        "reference_url": "https://www.paintscratch.com/colors/lund/smoke-dcc35373/",
+        "source_label": "PaintScratch 2001 Lund",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Medium Gray",
+        "paint_code": "37308",
+        "slug": "medium-gray-37308",
+        "reference_url": "https://www.paintscratch.com/colors/lund/medium-gray-37308/",
+        "source_label": "PaintScratch 2001 Lund",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Medium Red",
+        "paint_code": "DCC4679",
+        "slug": "medium-red-dcc4679",
+        "reference_url": "https://www.paintscratch.com/colors/lund/medium-red-dcc4679/",
+        "source_label": "PaintScratch 2001 Lund",
+        "hex_value": "#AC2222"
+      }
+    ],
+    "2002": [
+      {
+        "display_name": "Quick Silver",
+        "paint_code": "DCC35830",
+        "slug": "quick-silver-dcc35830",
+        "reference_url": "https://www.paintscratch.com/colors/lund/quick-silver-dcc35830/",
+        "source_label": "PaintScratch 2002 Lund",
+        "hex_value": "#E2DDD0"
+      },
+      {
+        "display_name": "Sand Beach",
+        "paint_code": "DCC28805",
+        "slug": "sand-beach-dcc28805",
+        "reference_url": "https://www.paintscratch.com/colors/lund/sand-beach-dcc28805/",
+        "source_label": "PaintScratch 2002 Lund",
+        "hex_value": "#D1A341"
+      },
+      {
+        "display_name": "Forest Green",
+        "paint_code": "DCC400390",
+        "slug": "forest-green-dcc400390",
+        "reference_url": "https://www.paintscratch.com/colors/lund/forest-green-dcc400390/",
+        "source_label": "PaintScratch 2002 Lund",
+        "hex_value": "#15350F"
+      },
+      {
+        "display_name": "Green",
+        "paint_code": "DCC4215",
+        "slug": "green-dcc4215",
+        "reference_url": "https://www.paintscratch.com/colors/lund/green-dcc4215/",
+        "source_label": "PaintScratch 2002 Lund",
+        "hex_value": "#336220"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "DCC9000",
+        "slug": "black-dcc9000",
+        "reference_url": "https://www.paintscratch.com/colors/lund/black-dcc9000/",
+        "source_label": "PaintScratch 2002 Lund",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Pewter",
+        "paint_code": "DCC37308",
+        "slug": "pewter-dcc37308",
+        "reference_url": "https://www.paintscratch.com/colors/lund/pewter-dcc37308/",
+        "source_label": "PaintScratch 2002 Lund",
+        "hex_value": "#404040"
+      },
+      {
+        "display_name": "Cobalt Blue Metallic",
+        "paint_code": "DCC191056",
+        "slug": "cobalt-blue-metallic-dcc191056",
+        "reference_url": "https://www.paintscratch.com/colors/lund/cobalt-blue-metallic-dcc191056/",
+        "source_label": "PaintScratch 2002 Lund",
+        "hex_value": "#1E1252"
+      },
+      {
+        "display_name": "Artic White",
+        "paint_code": "DCC90271",
+        "slug": "artic-white-dcc90271",
+        "reference_url": "https://www.paintscratch.com/colors/lund/artic-white-dcc90271/",
+        "source_label": "PaintScratch 2002 Lund",
+        "hex_value": "#EEEDF9"
+      },
+      {
+        "display_name": "Graphite Gray",
+        "paint_code": "DCC35831",
+        "slug": "graphite-gray-dcc35831",
+        "reference_url": "https://www.paintscratch.com/colors/lund/graphite-gray-dcc35831/",
+        "source_label": "PaintScratch 2002 Lund",
+        "hex_value": "#484444"
+      },
+      {
+        "display_name": "Navy Blue Metallic",
+        "paint_code": "DCC3497",
+        "slug": "navy-blue-metallic-dcc3497",
+        "reference_url": "https://www.paintscratch.com/colors/lund/navy-blue-metallic-dcc3497/",
+        "source_label": "PaintScratch 2002 Lund",
+        "hex_value": "#545972"
+      },
+      {
+        "display_name": "Red Reef",
+        "paint_code": "DCC5080",
+        "slug": "red-reef-dcc5080",
+        "reference_url": "https://www.paintscratch.com/colors/lund/red-reef-dcc5080/",
+        "source_label": "PaintScratch 2002 Lund",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "Medium Red",
+        "paint_code": "DCC4679",
+        "slug": "medium-red-dcc4679",
+        "reference_url": "https://www.paintscratch.com/colors/lund/medium-red-dcc4679/",
+        "source_label": "PaintScratch 2002 Lund",
+        "hex_value": "#AC2222"
+      }
+    ],
+    "2003": [
+      {
+        "display_name": "Quick Silver",
+        "paint_code": "DCC35830",
+        "slug": "quick-silver-dcc35830",
+        "reference_url": "https://www.paintscratch.com/colors/lund/quick-silver-dcc35830/",
+        "source_label": "PaintScratch 2003 Lund",
+        "hex_value": "#E2DDD0"
+      },
+      {
+        "display_name": "Sand Beach",
+        "paint_code": "DCC28805",
+        "slug": "sand-beach-dcc28805",
+        "reference_url": "https://www.paintscratch.com/colors/lund/sand-beach-dcc28805/",
+        "source_label": "PaintScratch 2003 Lund",
+        "hex_value": "#D1A341"
+      },
+      {
+        "display_name": "Forest Green",
+        "paint_code": "DCC400390",
+        "slug": "forest-green-dcc400390",
+        "reference_url": "https://www.paintscratch.com/colors/lund/forest-green-dcc400390/",
+        "source_label": "PaintScratch 2003 Lund",
+        "hex_value": "#15350F"
+      },
+      {
+        "display_name": "Green",
+        "paint_code": "DCC4215",
+        "slug": "green-dcc4215",
+        "reference_url": "https://www.paintscratch.com/colors/lund/green-dcc4215/",
+        "source_label": "PaintScratch 2003 Lund",
+        "hex_value": "#336220"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "DCC9000",
+        "slug": "black-dcc9000",
+        "reference_url": "https://www.paintscratch.com/colors/lund/black-dcc9000/",
+        "source_label": "PaintScratch 2003 Lund",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Pewter",
+        "paint_code": "DCC37308",
+        "slug": "pewter-dcc37308",
+        "reference_url": "https://www.paintscratch.com/colors/lund/pewter-dcc37308/",
+        "source_label": "PaintScratch 2003 Lund",
+        "hex_value": "#404040"
+      },
+      {
+        "display_name": "Cobalt Blue Metallic",
+        "paint_code": "DCC191056",
+        "slug": "cobalt-blue-metallic-dcc191056",
+        "reference_url": "https://www.paintscratch.com/colors/lund/cobalt-blue-metallic-dcc191056/",
+        "source_label": "PaintScratch 2003 Lund",
+        "hex_value": "#1E1252"
+      },
+      {
+        "display_name": "Artic White",
+        "paint_code": "DCC90271",
+        "slug": "artic-white-dcc90271",
+        "reference_url": "https://www.paintscratch.com/colors/lund/artic-white-dcc90271/",
+        "source_label": "PaintScratch 2003 Lund",
+        "hex_value": "#EEEDF9"
+      },
+      {
+        "display_name": "Graphite Gray",
+        "paint_code": "DCC35831",
+        "slug": "graphite-gray-dcc35831",
+        "reference_url": "https://www.paintscratch.com/colors/lund/graphite-gray-dcc35831/",
+        "source_label": "PaintScratch 2003 Lund",
+        "hex_value": "#484444"
+      },
+      {
+        "display_name": "Navy Blue Metallic",
+        "paint_code": "DCC3497",
+        "slug": "navy-blue-metallic-dcc3497",
+        "reference_url": "https://www.paintscratch.com/colors/lund/navy-blue-metallic-dcc3497/",
+        "source_label": "PaintScratch 2003 Lund",
+        "hex_value": "#545972"
+      },
+      {
+        "display_name": "Red Reef",
+        "paint_code": "DCC5080",
+        "slug": "red-reef-dcc5080",
+        "reference_url": "https://www.paintscratch.com/colors/lund/red-reef-dcc5080/",
+        "source_label": "PaintScratch 2003 Lund",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "Pewter",
+        "paint_code": "DUHS37308",
+        "slug": "pewter-duhs37308",
+        "reference_url": "https://www.paintscratch.com/colors/lund/pewter-duhs37308/",
+        "source_label": "PaintScratch 2003 Lund",
+        "hex_value": "#D1A341"
+      },
+      {
+        "display_name": "Medium Red",
+        "paint_code": "DCC4679",
+        "slug": "medium-red-dcc4679",
+        "reference_url": "https://www.paintscratch.com/colors/lund/medium-red-dcc4679/",
+        "source_label": "PaintScratch 2003 Lund",
+        "hex_value": "#AC2222"
+      }
+    ],
+    "2004": [
+      {
+        "display_name": "Quick Silver",
+        "paint_code": "DCC35830",
+        "slug": "quick-silver-dcc35830",
+        "reference_url": "https://www.paintscratch.com/colors/lund/quick-silver-dcc35830/",
+        "source_label": "PaintScratch 2004 Lund",
+        "hex_value": "#E2DDD0"
+      },
+      {
+        "display_name": "Sand Beach",
+        "paint_code": "DCC28805",
+        "slug": "sand-beach-dcc28805",
+        "reference_url": "https://www.paintscratch.com/colors/lund/sand-beach-dcc28805/",
+        "source_label": "PaintScratch 2004 Lund",
+        "hex_value": "#D1A341"
+      },
+      {
+        "display_name": "Forest Green",
+        "paint_code": "DCC400390",
+        "slug": "forest-green-dcc400390",
+        "reference_url": "https://www.paintscratch.com/colors/lund/forest-green-dcc400390/",
+        "source_label": "PaintScratch 2004 Lund",
+        "hex_value": "#15350F"
+      },
+      {
+        "display_name": "Green",
+        "paint_code": "DCC4215",
+        "slug": "green-dcc4215",
+        "reference_url": "https://www.paintscratch.com/colors/lund/green-dcc4215/",
+        "source_label": "PaintScratch 2004 Lund",
+        "hex_value": "#336220"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "DCC9000",
+        "slug": "black-dcc9000",
+        "reference_url": "https://www.paintscratch.com/colors/lund/black-dcc9000/",
+        "source_label": "PaintScratch 2004 Lund",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Pewter",
+        "paint_code": "DCC37308",
+        "slug": "pewter-dcc37308",
+        "reference_url": "https://www.paintscratch.com/colors/lund/pewter-dcc37308/",
+        "source_label": "PaintScratch 2004 Lund",
+        "hex_value": "#404040"
+      },
+      {
+        "display_name": "Cobalt Blue Metallic",
+        "paint_code": "DCC191056",
+        "slug": "cobalt-blue-metallic-dcc191056",
+        "reference_url": "https://www.paintscratch.com/colors/lund/cobalt-blue-metallic-dcc191056/",
+        "source_label": "PaintScratch 2004 Lund",
+        "hex_value": "#1E1252"
+      },
+      {
+        "display_name": "Artic White",
+        "paint_code": "DCC90271",
+        "slug": "artic-white-dcc90271",
+        "reference_url": "https://www.paintscratch.com/colors/lund/artic-white-dcc90271/",
+        "source_label": "PaintScratch 2004 Lund",
+        "hex_value": "#EEEDF9"
+      },
+      {
+        "display_name": "Graphite Gray",
+        "paint_code": "DCC35831",
+        "slug": "graphite-gray-dcc35831",
+        "reference_url": "https://www.paintscratch.com/colors/lund/graphite-gray-dcc35831/",
+        "source_label": "PaintScratch 2004 Lund",
+        "hex_value": "#484444"
+      },
+      {
+        "display_name": "Navy Blue Metallic",
+        "paint_code": "DCC3497",
+        "slug": "navy-blue-metallic-dcc3497",
+        "reference_url": "https://www.paintscratch.com/colors/lund/navy-blue-metallic-dcc3497/",
+        "source_label": "PaintScratch 2004 Lund",
+        "hex_value": "#545972"
+      },
+      {
+        "display_name": "Red Reef",
+        "paint_code": "DCC5080",
+        "slug": "red-reef-dcc5080",
+        "reference_url": "https://www.paintscratch.com/colors/lund/red-reef-dcc5080/",
+        "source_label": "PaintScratch 2004 Lund",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "Medium Red",
+        "paint_code": "DCC4679",
+        "slug": "medium-red-dcc4679",
+        "reference_url": "https://www.paintscratch.com/colors/lund/medium-red-dcc4679/",
+        "source_label": "PaintScratch 2004 Lund",
+        "hex_value": "#AC2222"
+      }
+    ],
+    "2005": [
+      {
+        "display_name": "Quick Silver",
+        "paint_code": "DCC35830",
+        "slug": "quick-silver-dcc35830",
+        "reference_url": "https://www.paintscratch.com/colors/lund/quick-silver-dcc35830/",
+        "source_label": "PaintScratch 2005 Lund",
+        "hex_value": "#E2DDD0"
+      },
+      {
+        "display_name": "Sand Beach",
+        "paint_code": "DCC28805",
+        "slug": "sand-beach-dcc28805",
+        "reference_url": "https://www.paintscratch.com/colors/lund/sand-beach-dcc28805/",
+        "source_label": "PaintScratch 2005 Lund",
+        "hex_value": "#D1A341"
+      },
+      {
+        "display_name": "Forest Green",
+        "paint_code": "DCC400390",
+        "slug": "forest-green-dcc400390",
+        "reference_url": "https://www.paintscratch.com/colors/lund/forest-green-dcc400390/",
+        "source_label": "PaintScratch 2005 Lund",
+        "hex_value": "#15350F"
+      },
+      {
+        "display_name": "Green",
+        "paint_code": "DCC4215",
+        "slug": "green-dcc4215",
+        "reference_url": "https://www.paintscratch.com/colors/lund/green-dcc4215/",
+        "source_label": "PaintScratch 2005 Lund",
+        "hex_value": "#336220"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "DCC9000",
+        "slug": "black-dcc9000",
+        "reference_url": "https://www.paintscratch.com/colors/lund/black-dcc9000/",
+        "source_label": "PaintScratch 2005 Lund",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Pewter",
+        "paint_code": "DCC37308",
+        "slug": "pewter-dcc37308",
+        "reference_url": "https://www.paintscratch.com/colors/lund/pewter-dcc37308/",
+        "source_label": "PaintScratch 2005 Lund",
+        "hex_value": "#404040"
+      },
+      {
+        "display_name": "Cobalt Blue Metallic",
+        "paint_code": "DCC191056",
+        "slug": "cobalt-blue-metallic-dcc191056",
+        "reference_url": "https://www.paintscratch.com/colors/lund/cobalt-blue-metallic-dcc191056/",
+        "source_label": "PaintScratch 2005 Lund",
+        "hex_value": "#1E1252"
+      },
+      {
+        "display_name": "Artic White",
+        "paint_code": "DCC90271",
+        "slug": "artic-white-dcc90271",
+        "reference_url": "https://www.paintscratch.com/colors/lund/artic-white-dcc90271/",
+        "source_label": "PaintScratch 2005 Lund",
+        "hex_value": "#EEEDF9"
+      },
+      {
+        "display_name": "Graphite Gray",
+        "paint_code": "DCC35831",
+        "slug": "graphite-gray-dcc35831",
+        "reference_url": "https://www.paintscratch.com/colors/lund/graphite-gray-dcc35831/",
+        "source_label": "PaintScratch 2005 Lund",
+        "hex_value": "#484444"
+      },
+      {
+        "display_name": "Wildfire Red",
+        "paint_code": "FDGH912856",
+        "slug": "wildfire-red-fdgh912856",
+        "reference_url": "https://www.paintscratch.com/colors/lund/wildfire-red-fdgh912856/",
+        "source_label": "PaintScratch 2005 Lund",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "Navy Blue Metallic",
+        "paint_code": "DCC3497",
+        "slug": "navy-blue-metallic-dcc3497",
+        "reference_url": "https://www.paintscratch.com/colors/lund/navy-blue-metallic-dcc3497/",
+        "source_label": "PaintScratch 2005 Lund",
+        "hex_value": "#545972"
+      },
+      {
+        "display_name": "Red Reef",
+        "paint_code": "DCC5080",
+        "slug": "red-reef-dcc5080",
+        "reference_url": "https://www.paintscratch.com/colors/lund/red-reef-dcc5080/",
+        "source_label": "PaintScratch 2005 Lund",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "Pewter",
+        "paint_code": "DUHS37308",
+        "slug": "pewter-duhs37308",
+        "reference_url": "https://www.paintscratch.com/colors/lund/pewter-duhs37308/",
+        "source_label": "PaintScratch 2005 Lund",
+        "hex_value": "#D1A341"
+      },
+      {
+        "display_name": "Medium Red",
+        "paint_code": "DCC4679",
+        "slug": "medium-red-dcc4679",
+        "reference_url": "https://www.paintscratch.com/colors/lund/medium-red-dcc4679/",
+        "source_label": "PaintScratch 2005 Lund",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "Classic White (Catalyzed Spray ONLY)",
+        "paint_code": "FDGH914770",
+        "slug": "classic-white-catalyzed-spray-only-fdgh914770",
+        "reference_url": "https://www.paintscratch.com/colors/lund/classic-white-catalyzed-spray-only-fdgh914770/",
+        "source_label": "PaintScratch 2005 Lund",
+        "hex_value": "#FFFFFF"
+      }
+    ],
+    "2006": [
+      {
+        "display_name": "Quick Silver",
+        "paint_code": "DCC35830",
+        "slug": "quick-silver-dcc35830",
+        "reference_url": "https://www.paintscratch.com/colors/lund/quick-silver-dcc35830/",
+        "source_label": "PaintScratch 2006 Lund",
+        "hex_value": "#E2DDD0"
+      },
+      {
+        "display_name": "Sand Beach",
+        "paint_code": "DCC28805",
+        "slug": "sand-beach-dcc28805",
+        "reference_url": "https://www.paintscratch.com/colors/lund/sand-beach-dcc28805/",
+        "source_label": "PaintScratch 2006 Lund",
+        "hex_value": "#D1A341"
+      },
+      {
+        "display_name": "Forest Green",
+        "paint_code": "DCC400390",
+        "slug": "forest-green-dcc400390",
+        "reference_url": "https://www.paintscratch.com/colors/lund/forest-green-dcc400390/",
+        "source_label": "PaintScratch 2006 Lund",
+        "hex_value": "#15350F"
+      },
+      {
+        "display_name": "Green",
+        "paint_code": "DCC4215",
+        "slug": "green-dcc4215",
+        "reference_url": "https://www.paintscratch.com/colors/lund/green-dcc4215/",
+        "source_label": "PaintScratch 2006 Lund",
+        "hex_value": "#336220"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "DCC9000",
+        "slug": "black-dcc9000",
+        "reference_url": "https://www.paintscratch.com/colors/lund/black-dcc9000/",
+        "source_label": "PaintScratch 2006 Lund",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Pewter",
+        "paint_code": "DCC37308",
+        "slug": "pewter-dcc37308",
+        "reference_url": "https://www.paintscratch.com/colors/lund/pewter-dcc37308/",
+        "source_label": "PaintScratch 2006 Lund",
+        "hex_value": "#404040"
+      },
+      {
+        "display_name": "Cobalt Blue Metallic",
+        "paint_code": "DCC191056",
+        "slug": "cobalt-blue-metallic-dcc191056",
+        "reference_url": "https://www.paintscratch.com/colors/lund/cobalt-blue-metallic-dcc191056/",
+        "source_label": "PaintScratch 2006 Lund",
+        "hex_value": "#1E1252"
+      },
+      {
+        "display_name": "Artic White",
+        "paint_code": "DCC90271",
+        "slug": "artic-white-dcc90271",
+        "reference_url": "https://www.paintscratch.com/colors/lund/artic-white-dcc90271/",
+        "source_label": "PaintScratch 2006 Lund",
+        "hex_value": "#EEEDF9"
+      },
+      {
+        "display_name": "Graphite Gray",
+        "paint_code": "DCC35831",
+        "slug": "graphite-gray-dcc35831",
+        "reference_url": "https://www.paintscratch.com/colors/lund/graphite-gray-dcc35831/",
+        "source_label": "PaintScratch 2006 Lund",
+        "hex_value": "#484444"
+      },
+      {
+        "display_name": "Red Reef",
+        "paint_code": "DCC5080",
+        "slug": "red-reef-dcc5080",
+        "reference_url": "https://www.paintscratch.com/colors/lund/red-reef-dcc5080/",
+        "source_label": "PaintScratch 2006 Lund",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "Platinum (Catalyzed Spray ONLY)",
+        "paint_code": "910948",
+        "slug": "platinum-catalyzed-spray-only-910948",
+        "reference_url": "https://www.paintscratch.com/colors/lund/platinum-catalyzed-spray-only-910948/",
+        "source_label": "PaintScratch 2006 Lund",
+        "hex_value": "#404040"
+      },
+      {
+        "display_name": "Medium Red",
+        "paint_code": "DCC4679",
+        "slug": "medium-red-dcc4679",
+        "reference_url": "https://www.paintscratch.com/colors/lund/medium-red-dcc4679/",
+        "source_label": "PaintScratch 2006 Lund",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "Bright Red",
+        "paint_code": "DCC5148",
+        "slug": "bright-red-dcc5148",
+        "reference_url": "https://www.paintscratch.com/colors/lund/bright-red-dcc5148/",
+        "source_label": "PaintScratch 2006 Lund",
+        "hex_value": "#F31515"
+      },
+      {
+        "display_name": "Classic White (Catalyzed Spray ONLY)",
+        "paint_code": "FDGH914770",
+        "slug": "classic-white-catalyzed-spray-only-fdgh914770",
+        "reference_url": "https://www.paintscratch.com/colors/lund/classic-white-catalyzed-spray-only-fdgh914770/",
+        "source_label": "PaintScratch 2006 Lund",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "White Onyx",
+        "paint_code": "915060",
+        "slug": "white-onyx-915060",
+        "reference_url": "https://www.paintscratch.com/colors/lund/white-onyx-915060/",
+        "source_label": "PaintScratch 2006 Lund",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Black Onyx (Catalyzed Spray Only)",
+        "paint_code": "FDGH912855",
+        "slug": "black-onyx-catalyzed-spray-only-fdgh912855",
+        "reference_url": "https://www.paintscratch.com/colors/lund/black-onyx-catalyzed-spray-only-fdgh912855/",
+        "source_label": "PaintScratch 2006 Lund",
+        "hex_value": "#000000"
+      }
+    ],
+    "2007": [
+      {
+        "display_name": "Cobalt Blue",
+        "paint_code": "FDGH912858",
+        "slug": "cobalt-blue-fdgh912858",
+        "reference_url": "https://www.paintscratch.com/colors/lund/cobalt-blue-fdgh912858/",
+        "source_label": "PaintScratch 2007 Lund",
+        "hex_value": "#0D2D97"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "DUHS912854",
+        "slug": "black-duhs912854",
+        "reference_url": "https://www.paintscratch.com/colors/lund/black-duhs912854/",
+        "source_label": "PaintScratch 2007 Lund",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Forest Green",
+        "paint_code": "DCC400390",
+        "slug": "forest-green-dcc400390",
+        "reference_url": "https://www.paintscratch.com/colors/lund/forest-green-dcc400390/",
+        "source_label": "PaintScratch 2007 Lund",
+        "hex_value": "#15350F"
+      },
+      {
+        "display_name": "Artic White",
+        "paint_code": "DCC90271",
+        "slug": "artic-white-dcc90271",
+        "reference_url": "https://www.paintscratch.com/colors/lund/artic-white-dcc90271/",
+        "source_label": "PaintScratch 2007 Lund",
+        "hex_value": "#EEEDF9"
+      },
+      {
+        "display_name": "Sandstone (Catalyzed Spray ONLY)",
+        "paint_code": "FDGH914543",
+        "slug": "sandstone-catalyzed-spray-only-fdgh914543",
+        "reference_url": "https://www.paintscratch.com/colors/lund/sandstone-catalyzed-spray-only-fdgh914543/",
+        "source_label": "PaintScratch 2007 Lund",
+        "hex_value": "#CEB9A0"
+      },
+      {
+        "display_name": "Platinum (Catalyzed Spray ONLY)",
+        "paint_code": "910948",
+        "slug": "platinum-catalyzed-spray-only-910948",
+        "reference_url": "https://www.paintscratch.com/colors/lund/platinum-catalyzed-spray-only-910948/",
+        "source_label": "PaintScratch 2007 Lund",
+        "hex_value": "#404040"
+      },
+      {
+        "display_name": "Medium Red (Catalyzed Spray Only)",
+        "paint_code": "DUHS912856",
+        "slug": "medium-red-catalyzed-spray-only-duhs912856",
+        "reference_url": "https://www.paintscratch.com/colors/lund/medium-red-catalyzed-spray-only-duhs912856/",
+        "source_label": "PaintScratch 2007 Lund",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "Classic White (Catalyzed Spray ONLY)",
+        "paint_code": "FDGH914770",
+        "slug": "classic-white-catalyzed-spray-only-fdgh914770",
+        "reference_url": "https://www.paintscratch.com/colors/lund/classic-white-catalyzed-spray-only-fdgh914770/",
+        "source_label": "PaintScratch 2007 Lund",
+        "hex_value": "#FFFFFF"
+      }
+    ],
+    "2008": [
+      {
+        "display_name": "Cobalt Blue",
+        "paint_code": "FDGH912858",
+        "slug": "cobalt-blue-fdgh912858",
+        "reference_url": "https://www.paintscratch.com/colors/lund/cobalt-blue-fdgh912858/",
+        "source_label": "PaintScratch 2008 Lund",
+        "hex_value": "#0D2D97"
+      },
+      {
+        "display_name": "Quick Silver",
+        "paint_code": "DCC35830",
+        "slug": "quick-silver-dcc35830",
+        "reference_url": "https://www.paintscratch.com/colors/lund/quick-silver-dcc35830/",
+        "source_label": "PaintScratch 2008 Lund",
+        "hex_value": "#E2DDD0"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "DUHS912854",
+        "slug": "black-duhs912854",
+        "reference_url": "https://www.paintscratch.com/colors/lund/black-duhs912854/",
+        "source_label": "PaintScratch 2008 Lund",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Forest Green",
+        "paint_code": "DCC400390",
+        "slug": "forest-green-dcc400390",
+        "reference_url": "https://www.paintscratch.com/colors/lund/forest-green-dcc400390/",
+        "source_label": "PaintScratch 2008 Lund",
+        "hex_value": "#15350F"
+      },
+      {
+        "display_name": "Arctic White (Catalyzed Spray ONLY)",
+        "paint_code": "DUHS912859",
+        "slug": "arctic-white-catalyzed-spray-only-duhs912859",
+        "reference_url": "https://www.paintscratch.com/colors/lund/arctic-white-catalyzed-spray-only-duhs912859/",
+        "source_label": "PaintScratch 2008 Lund",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Artic White",
+        "paint_code": "DCC90271",
+        "slug": "artic-white-dcc90271",
+        "reference_url": "https://www.paintscratch.com/colors/lund/artic-white-dcc90271/",
+        "source_label": "PaintScratch 2008 Lund",
+        "hex_value": "#EEEDF9"
+      },
+      {
+        "display_name": "Rebel Silver (Catalyzed Spray Can Only)",
+        "paint_code": "DUHS922673",
+        "slug": "rebel-silver-catalyzed-spray-can-only-duhs922673",
+        "reference_url": "https://www.paintscratch.com/colors/lund/rebel-silver-catalyzed-spray-can-only-duhs922673/",
+        "source_label": "PaintScratch 2008 Lund",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Gray",
+        "paint_code": "DUHS61982",
+        "slug": "gray-duhs61982",
+        "reference_url": "https://www.paintscratch.com/colors/lund/gray-duhs61982/",
+        "source_label": "PaintScratch 2008 Lund",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Medium Red (Catalyzed Spray Only)",
+        "paint_code": "DUHS912856",
+        "slug": "medium-red-catalyzed-spray-only-duhs912856",
+        "reference_url": "https://www.paintscratch.com/colors/lund/medium-red-catalyzed-spray-only-duhs912856/",
+        "source_label": "PaintScratch 2008 Lund",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "Classic White (Catalyzed Spray ONLY)",
+        "paint_code": "FDGH914770",
+        "slug": "classic-white-catalyzed-spray-only-fdgh914770",
+        "reference_url": "https://www.paintscratch.com/colors/lund/classic-white-catalyzed-spray-only-fdgh914770/",
+        "source_label": "PaintScratch 2008 Lund",
+        "hex_value": "#FFFFFF"
+      }
+    ],
+    "2009": [
+      {
+        "display_name": "Cobalt Blue",
+        "paint_code": "FDGH912858",
+        "slug": "cobalt-blue-fdgh912858",
+        "reference_url": "https://www.paintscratch.com/colors/lund/cobalt-blue-fdgh912858/",
+        "source_label": "PaintScratch 2009 Lund",
+        "hex_value": "#0D2D97"
+      },
+      {
+        "display_name": "Quick Silver",
+        "paint_code": "DCC35830",
+        "slug": "quick-silver-dcc35830",
+        "reference_url": "https://www.paintscratch.com/colors/lund/quick-silver-dcc35830/",
+        "source_label": "PaintScratch 2009 Lund",
+        "hex_value": "#E2DDD0"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "DUHS912854",
+        "slug": "black-duhs912854",
+        "reference_url": "https://www.paintscratch.com/colors/lund/black-duhs912854/",
+        "source_label": "PaintScratch 2009 Lund",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Forest Green",
+        "paint_code": "DCC400390",
+        "slug": "forest-green-dcc400390",
+        "reference_url": "https://www.paintscratch.com/colors/lund/forest-green-dcc400390/",
+        "source_label": "PaintScratch 2009 Lund",
+        "hex_value": "#15350F"
+      },
+      {
+        "display_name": "Arctic White (Catalyzed Spray ONLY)",
+        "paint_code": "DUHS912859",
+        "slug": "arctic-white-catalyzed-spray-only-duhs912859",
+        "reference_url": "https://www.paintscratch.com/colors/lund/arctic-white-catalyzed-spray-only-duhs912859/",
+        "source_label": "PaintScratch 2009 Lund",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Artic White",
+        "paint_code": "DCC90271",
+        "slug": "artic-white-dcc90271",
+        "reference_url": "https://www.paintscratch.com/colors/lund/artic-white-dcc90271/",
+        "source_label": "PaintScratch 2009 Lund",
+        "hex_value": "#EEEDF9"
+      },
+      {
+        "display_name": "Sandstone (Catalyzed Spray ONLY)",
+        "paint_code": "FDGH914543",
+        "slug": "sandstone-catalyzed-spray-only-fdgh914543",
+        "reference_url": "https://www.paintscratch.com/colors/lund/sandstone-catalyzed-spray-only-fdgh914543/",
+        "source_label": "PaintScratch 2009 Lund",
+        "hex_value": "#CEB9A0"
+      },
+      {
+        "display_name": "Gray",
+        "paint_code": "DUHS61982",
+        "slug": "gray-duhs61982",
+        "reference_url": "https://www.paintscratch.com/colors/lund/gray-duhs61982/",
+        "source_label": "PaintScratch 2009 Lund",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Majestic Red",
+        "paint_code": "DUHS61983",
+        "slug": "majestic-red-duhs61983",
+        "reference_url": "https://www.paintscratch.com/colors/lund/majestic-red-duhs61983/",
+        "source_label": "PaintScratch 2009 Lund",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "Medium Red (Catalyzed Spray Only)",
+        "paint_code": "DUHS912856",
+        "slug": "medium-red-catalyzed-spray-only-duhs912856",
+        "reference_url": "https://www.paintscratch.com/colors/lund/medium-red-catalyzed-spray-only-duhs912856/",
+        "source_label": "PaintScratch 2009 Lund",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "Vapor Mist",
+        "paint_code": "FBCH923558",
+        "slug": "vapor-mist-fbch923558",
+        "reference_url": "https://www.paintscratch.com/colors/lund/vapor-mist-fbch923558/",
+        "source_label": "PaintScratch 2009 Lund",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Classic White (Catalyzed Spray ONLY)",
+        "paint_code": "FDGH914770",
+        "slug": "classic-white-catalyzed-spray-only-fdgh914770",
+        "reference_url": "https://www.paintscratch.com/colors/lund/classic-white-catalyzed-spray-only-fdgh914770/",
+        "source_label": "PaintScratch 2009 Lund",
+        "hex_value": "#FFFFFF"
+      }
+    ],
+    "2010": [
+      {
+        "display_name": "Cobalt Blue",
+        "paint_code": "FDGH912858",
+        "slug": "cobalt-blue-fdgh912858",
+        "reference_url": "https://www.paintscratch.com/colors/lund/cobalt-blue-fdgh912858/",
+        "source_label": "PaintScratch 2010 Lund",
+        "hex_value": "#0D2D97"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "DUHS912854",
+        "slug": "black-duhs912854",
+        "reference_url": "https://www.paintscratch.com/colors/lund/black-duhs912854/",
+        "source_label": "PaintScratch 2010 Lund",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Forest Green",
+        "paint_code": "DCC400390",
+        "slug": "forest-green-dcc400390",
+        "reference_url": "https://www.paintscratch.com/colors/lund/forest-green-dcc400390/",
+        "source_label": "PaintScratch 2010 Lund",
+        "hex_value": "#15350F"
+      },
+      {
+        "display_name": "Artic White",
+        "paint_code": "DCC90271",
+        "slug": "artic-white-dcc90271",
+        "reference_url": "https://www.paintscratch.com/colors/lund/artic-white-dcc90271/",
+        "source_label": "PaintScratch 2010 Lund",
+        "hex_value": "#EEEDF9"
+      },
+      {
+        "display_name": "Medium Red (Catalyzed Spray Only)",
+        "paint_code": "DUHS912856",
+        "slug": "medium-red-catalyzed-spray-only-duhs912856",
+        "reference_url": "https://www.paintscratch.com/colors/lund/medium-red-catalyzed-spray-only-duhs912856/",
+        "source_label": "PaintScratch 2010 Lund",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "Classic White (Catalyzed Spray ONLY)",
+        "paint_code": "FDGH914770",
+        "slug": "classic-white-catalyzed-spray-only-fdgh914770",
+        "reference_url": "https://www.paintscratch.com/colors/lund/classic-white-catalyzed-spray-only-fdgh914770/",
+        "source_label": "PaintScratch 2010 Lund",
+        "hex_value": "#FFFFFF"
+      }
+    ],
+    "2011": [
+      {
+        "display_name": "Cobalt Blue",
+        "paint_code": "FDGH912858",
+        "slug": "cobalt-blue-fdgh912858",
+        "reference_url": "https://www.paintscratch.com/colors/lund/cobalt-blue-fdgh912858/",
+        "source_label": "PaintScratch 2011 Lund",
+        "hex_value": "#0D2D97"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "DUHS912854",
+        "slug": "black-duhs912854",
+        "reference_url": "https://www.paintscratch.com/colors/lund/black-duhs912854/",
+        "source_label": "PaintScratch 2011 Lund",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Forest Green",
+        "paint_code": "DCC400390",
+        "slug": "forest-green-dcc400390",
+        "reference_url": "https://www.paintscratch.com/colors/lund/forest-green-dcc400390/",
+        "source_label": "PaintScratch 2011 Lund",
+        "hex_value": "#15350F"
+      },
+      {
+        "display_name": "Artic White",
+        "paint_code": "DCC90271",
+        "slug": "artic-white-dcc90271",
+        "reference_url": "https://www.paintscratch.com/colors/lund/artic-white-dcc90271/",
+        "source_label": "PaintScratch 2011 Lund",
+        "hex_value": "#EEEDF9"
+      },
+      {
+        "display_name": "Medium Red (Catalyzed Spray Only)",
+        "paint_code": "DUHS912856",
+        "slug": "medium-red-catalyzed-spray-only-duhs912856",
+        "reference_url": "https://www.paintscratch.com/colors/lund/medium-red-catalyzed-spray-only-duhs912856/",
+        "source_label": "PaintScratch 2011 Lund",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "Vapor Mist",
+        "paint_code": "DUHS923558",
+        "slug": "vapor-mist-duhs923558",
+        "reference_url": "https://www.paintscratch.com/colors/lund/vapor-mist-duhs923558/",
+        "source_label": "PaintScratch 2011 Lund",
+        "hex_value": "#F1F0EB"
+      },
+      {
+        "display_name": "Classic White (Catalyzed Spray ONLY)",
+        "paint_code": "FDGH914770",
+        "slug": "classic-white-catalyzed-spray-only-fdgh914770",
+        "reference_url": "https://www.paintscratch.com/colors/lund/classic-white-catalyzed-spray-only-fdgh914770/",
+        "source_label": "PaintScratch 2011 Lund",
+        "hex_value": "#FFFFFF"
+      }
+    ],
+    "2012": [
+      {
+        "display_name": "Cobalt Blue",
+        "paint_code": "FDGH912858",
+        "slug": "cobalt-blue-fdgh912858",
+        "reference_url": "https://www.paintscratch.com/colors/lund/cobalt-blue-fdgh912858/",
+        "source_label": "PaintScratch 2012 Lund",
+        "hex_value": "#0D2D97"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "DUHS912854",
+        "slug": "black-duhs912854",
+        "reference_url": "https://www.paintscratch.com/colors/lund/black-duhs912854/",
+        "source_label": "PaintScratch 2012 Lund",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Forest Green",
+        "paint_code": "DCC400390",
+        "slug": "forest-green-dcc400390",
+        "reference_url": "https://www.paintscratch.com/colors/lund/forest-green-dcc400390/",
+        "source_label": "PaintScratch 2012 Lund",
+        "hex_value": "#15350F"
+      },
+      {
+        "display_name": "Artic White",
+        "paint_code": "DCC90271",
+        "slug": "artic-white-dcc90271",
+        "reference_url": "https://www.paintscratch.com/colors/lund/artic-white-dcc90271/",
+        "source_label": "PaintScratch 2012 Lund",
+        "hex_value": "#EEEDF9"
+      },
+      {
+        "display_name": "Titanium (Catalyzed Spray Only)",
+        "paint_code": "DUHS925337",
+        "slug": "titanium-catalyzed-spray-only-duhs925337",
+        "reference_url": "https://www.paintscratch.com/colors/lund/titanium-catalyzed-spray-only-duhs925337/",
+        "source_label": "PaintScratch 2012 Lund",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Rebel Red",
+        "paint_code": "FDGH910947",
+        "slug": "rebel-red-fdgh910947",
+        "reference_url": "https://www.paintscratch.com/colors/lund/rebel-red-fdgh910947/",
+        "source_label": "PaintScratch 2012 Lund",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "Majestic Red",
+        "paint_code": "DUHS61983",
+        "slug": "majestic-red-duhs61983",
+        "reference_url": "https://www.paintscratch.com/colors/lund/majestic-red-duhs61983/",
+        "source_label": "PaintScratch 2012 Lund",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "Vapor Mist",
+        "paint_code": "DUHS923558",
+        "slug": "vapor-mist-duhs923558",
+        "reference_url": "https://www.paintscratch.com/colors/lund/vapor-mist-duhs923558/",
+        "source_label": "PaintScratch 2012 Lund",
+        "hex_value": "#F1F0EB"
+      },
+      {
+        "display_name": "Classic White (Catalyzed Spray ONLY)",
+        "paint_code": "FDGH914770",
+        "slug": "classic-white-catalyzed-spray-only-fdgh914770",
+        "reference_url": "https://www.paintscratch.com/colors/lund/classic-white-catalyzed-spray-only-fdgh914770/",
+        "source_label": "PaintScratch 2012 Lund",
+        "hex_value": "#FFFFFF"
+      }
+    ],
+    "2013": [
+      {
+        "display_name": "Cobalt Blue",
+        "paint_code": "FDGH912858",
+        "slug": "cobalt-blue-fdgh912858",
+        "reference_url": "https://www.paintscratch.com/colors/lund/cobalt-blue-fdgh912858/",
+        "source_label": "PaintScratch 2013 Lund",
+        "hex_value": "#0D2D97"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "DUHS912854",
+        "slug": "black-duhs912854",
+        "reference_url": "https://www.paintscratch.com/colors/lund/black-duhs912854/",
+        "source_label": "PaintScratch 2013 Lund",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Silver Delfleet",
+        "paint_code": "FDGH935579",
+        "slug": "silver-delfleet-fdgh935579",
+        "reference_url": "https://www.paintscratch.com/colors/lund/silver-delfleet-fdgh935579/",
+        "source_label": "PaintScratch 2013 Lund",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Arctic White (Catalyzed Spray ONLY)",
+        "paint_code": "DUHS912859",
+        "slug": "arctic-white-catalyzed-spray-only-duhs912859",
+        "reference_url": "https://www.paintscratch.com/colors/lund/arctic-white-catalyzed-spray-only-duhs912859/",
+        "source_label": "PaintScratch 2013 Lund",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Titanium (Catalyzed Spray Only)",
+        "paint_code": "DUHS925337",
+        "slug": "titanium-catalyzed-spray-only-duhs925337",
+        "reference_url": "https://www.paintscratch.com/colors/lund/titanium-catalyzed-spray-only-duhs925337/",
+        "source_label": "PaintScratch 2013 Lund",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Rebel Red",
+        "paint_code": "FDGH910947",
+        "slug": "rebel-red-fdgh910947",
+        "reference_url": "https://www.paintscratch.com/colors/lund/rebel-red-fdgh910947/",
+        "source_label": "PaintScratch 2013 Lund",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "Marsh Brown",
+        "paint_code": "DCC27916",
+        "slug": "marsh-brown-dcc27916",
+        "reference_url": "https://www.paintscratch.com/colors/lund/marsh-brown-dcc27916/",
+        "source_label": "PaintScratch 2013 Lund",
+        "hex_value": "#9C8C08"
+      },
+      {
+        "display_name": "Medium Red (Catalyzed Spray Only)",
+        "paint_code": "DUHS912856",
+        "slug": "medium-red-catalyzed-spray-only-duhs912856",
+        "reference_url": "https://www.paintscratch.com/colors/lund/medium-red-catalyzed-spray-only-duhs912856/",
+        "source_label": "PaintScratch 2013 Lund",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "Vapor Mist",
+        "paint_code": "DUHS923558",
+        "slug": "vapor-mist-duhs923558",
+        "reference_url": "https://www.paintscratch.com/colors/lund/vapor-mist-duhs923558/",
+        "source_label": "PaintScratch 2013 Lund",
+        "hex_value": "#F1F0EB"
+      }
+    ],
+    "2014": [
+      {
+        "display_name": "Cobalt Blue",
+        "paint_code": "FDGH912858",
+        "slug": "cobalt-blue-fdgh912858",
+        "reference_url": "https://www.paintscratch.com/colors/lund/cobalt-blue-fdgh912858/",
+        "source_label": "PaintScratch 2014 Lund",
+        "hex_value": "#0D2D97"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "DUHS912854",
+        "slug": "black-duhs912854",
+        "reference_url": "https://www.paintscratch.com/colors/lund/black-duhs912854/",
+        "source_label": "PaintScratch 2014 Lund",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Silver Delfleet",
+        "paint_code": "FDGH935579",
+        "slug": "silver-delfleet-fdgh935579",
+        "reference_url": "https://www.paintscratch.com/colors/lund/silver-delfleet-fdgh935579/",
+        "source_label": "PaintScratch 2014 Lund",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Arctic White (Catalyzed Spray ONLY)",
+        "paint_code": "DUHS912859",
+        "slug": "arctic-white-catalyzed-spray-only-duhs912859",
+        "reference_url": "https://www.paintscratch.com/colors/lund/arctic-white-catalyzed-spray-only-duhs912859/",
+        "source_label": "PaintScratch 2014 Lund",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Pewter",
+        "paint_code": "DUHS37308",
+        "slug": "pewter-duhs37308",
+        "reference_url": "https://www.paintscratch.com/colors/lund/pewter-duhs37308/",
+        "source_label": "PaintScratch 2014 Lund",
+        "hex_value": "#D1A341"
+      },
+      {
+        "display_name": "Medium Blue",
+        "paint_code": "DUHS912858",
+        "slug": "medium-blue-duhs912858",
+        "reference_url": "https://www.paintscratch.com/colors/lund/medium-blue-duhs912858/",
+        "source_label": "PaintScratch 2014 Lund",
+        "hex_value": "#0D2D97"
+      },
+      {
+        "display_name": "Medium Red (Catalyzed Spray Only)",
+        "paint_code": "DUHS912856",
+        "slug": "medium-red-catalyzed-spray-only-duhs912856",
+        "reference_url": "https://www.paintscratch.com/colors/lund/medium-red-catalyzed-spray-only-duhs912856/",
+        "source_label": "PaintScratch 2014 Lund",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "Vapor Mist",
+        "paint_code": "DUHS923558",
+        "slug": "vapor-mist-duhs923558",
+        "reference_url": "https://www.paintscratch.com/colors/lund/vapor-mist-duhs923558/",
+        "source_label": "PaintScratch 2014 Lund",
+        "hex_value": "#F1F0EB"
+      },
+      {
+        "display_name": "Wilderness Green",
+        "paint_code": "FDGH935927Q",
+        "slug": "wilderness-green-fdgh935927q",
+        "reference_url": "https://www.paintscratch.com/colors/lund/wilderness-green-fdgh935927q/",
+        "source_label": "PaintScratch 2014 Lund",
+        "hex_value": "#2E6D1F"
+      },
+      {
+        "display_name": "Granite Gray",
+        "paint_code": "FDGH935929",
+        "slug": "granite-gray-fdgh935929",
+        "reference_url": "https://www.paintscratch.com/colors/lund/granite-gray-fdgh935929/",
+        "source_label": "PaintScratch 2014 Lund",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Medium Gray (Catalyzed Spray Can Only)",
+        "paint_code": "925337",
+        "slug": "medium-gray-catalyzed-spray-can-only-925337",
+        "reference_url": "https://www.paintscratch.com/colors/lund/medium-gray-catalyzed-spray-can-only-925337/",
+        "source_label": "PaintScratch 2014 Lund",
+        "hex_value": "#808080"
+      }
+    ],
+    "2015": [
+      {
+        "display_name": "Cobalt Blue",
+        "paint_code": "FDGH912858",
+        "slug": "cobalt-blue-fdgh912858",
+        "reference_url": "https://www.paintscratch.com/colors/lund/cobalt-blue-fdgh912858/",
+        "source_label": "PaintScratch 2015 Lund",
+        "hex_value": "#0D2D97"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "DUHS912854",
+        "slug": "black-duhs912854",
+        "reference_url": "https://www.paintscratch.com/colors/lund/black-duhs912854/",
+        "source_label": "PaintScratch 2015 Lund",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black Metallic (Catalyzed Spray Can Only)",
+        "paint_code": "FDGH939695",
+        "slug": "black-metallic-catalyzed-spray-can-only-fdgh939695",
+        "reference_url": "https://www.paintscratch.com/colors/lund/black-metallic-catalyzed-spray-can-only-fdgh939695/",
+        "source_label": "PaintScratch 2015 Lund",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Silver Delfleet",
+        "paint_code": "FDGH935579",
+        "slug": "silver-delfleet-fdgh935579",
+        "reference_url": "https://www.paintscratch.com/colors/lund/silver-delfleet-fdgh935579/",
+        "source_label": "PaintScratch 2015 Lund",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Arctic White (Catalyzed Spray ONLY)",
+        "paint_code": "DUHS912859",
+        "slug": "arctic-white-catalyzed-spray-only-duhs912859",
+        "reference_url": "https://www.paintscratch.com/colors/lund/arctic-white-catalyzed-spray-only-duhs912859/",
+        "source_label": "PaintScratch 2015 Lund",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Vapor Mist",
+        "paint_code": "DUHS923558",
+        "slug": "vapor-mist-duhs923558",
+        "reference_url": "https://www.paintscratch.com/colors/lund/vapor-mist-duhs923558/",
+        "source_label": "PaintScratch 2015 Lund",
+        "hex_value": "#F1F0EB"
+      },
+      {
+        "display_name": "Wilderness Green",
+        "paint_code": "FDGH935927Q",
+        "slug": "wilderness-green-fdgh935927q",
+        "reference_url": "https://www.paintscratch.com/colors/lund/wilderness-green-fdgh935927q/",
+        "source_label": "PaintScratch 2015 Lund",
+        "hex_value": "#2E6D1F"
+      },
+      {
+        "display_name": "Granite Gray",
+        "paint_code": "FDGH935929",
+        "slug": "granite-gray-fdgh935929",
+        "reference_url": "https://www.paintscratch.com/colors/lund/granite-gray-fdgh935929/",
+        "source_label": "PaintScratch 2015 Lund",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Beige (Catalyzed Spray Only)",
+        "paint_code": "FDGH936055",
+        "slug": "beige-catalyzed-spray-only-fdgh936055",
+        "reference_url": "https://www.paintscratch.com/colors/lund/beige-catalyzed-spray-only-fdgh936055/",
+        "source_label": "PaintScratch 2015 Lund",
+        "hex_value": "#E9D9A1"
+      }
+    ],
+    "2016": [
+      {
+        "display_name": "Cobalt Blue",
+        "paint_code": "FDGH912858",
+        "slug": "cobalt-blue-fdgh912858",
+        "reference_url": "https://www.paintscratch.com/colors/lund/cobalt-blue-fdgh912858/",
+        "source_label": "PaintScratch 2016 Lund",
+        "hex_value": "#0D2D97"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "DUHS912854",
+        "slug": "black-duhs912854",
+        "reference_url": "https://www.paintscratch.com/colors/lund/black-duhs912854/",
+        "source_label": "PaintScratch 2016 Lund",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black Metallic (Catalyzed Spray Can Only)",
+        "paint_code": "FDGH939695",
+        "slug": "black-metallic-catalyzed-spray-can-only-fdgh939695",
+        "reference_url": "https://www.paintscratch.com/colors/lund/black-metallic-catalyzed-spray-can-only-fdgh939695/",
+        "source_label": "PaintScratch 2016 Lund",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Silver Delfleet",
+        "paint_code": "FDGH935579",
+        "slug": "silver-delfleet-fdgh935579",
+        "reference_url": "https://www.paintscratch.com/colors/lund/silver-delfleet-fdgh935579/",
+        "source_label": "PaintScratch 2016 Lund",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Arctic White (Catalyzed Spray ONLY)",
+        "paint_code": "DUHS912859",
+        "slug": "arctic-white-catalyzed-spray-only-duhs912859",
+        "reference_url": "https://www.paintscratch.com/colors/lund/arctic-white-catalyzed-spray-only-duhs912859/",
+        "source_label": "PaintScratch 2016 Lund",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Medium Gray (Catalyzed Spray Only)",
+        "paint_code": "FDGH936054",
+        "slug": "medium-gray-catalyzed-spray-only-fdgh936054",
+        "reference_url": "https://www.paintscratch.com/colors/lund/medium-gray-catalyzed-spray-only-fdgh936054/",
+        "source_label": "PaintScratch 2016 Lund",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Medium Red (Catalyzed Spray Only)",
+        "paint_code": "DUHS912856",
+        "slug": "medium-red-catalyzed-spray-only-duhs912856",
+        "reference_url": "https://www.paintscratch.com/colors/lund/medium-red-catalyzed-spray-only-duhs912856/",
+        "source_label": "PaintScratch 2016 Lund",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "Vapor Mist",
+        "paint_code": "DUHS923558",
+        "slug": "vapor-mist-duhs923558",
+        "reference_url": "https://www.paintscratch.com/colors/lund/vapor-mist-duhs923558/",
+        "source_label": "PaintScratch 2016 Lund",
+        "hex_value": "#F1F0EB"
+      },
+      {
+        "display_name": "Wilderness Green",
+        "paint_code": "FDGH935927Q",
+        "slug": "wilderness-green-fdgh935927q",
+        "reference_url": "https://www.paintscratch.com/colors/lund/wilderness-green-fdgh935927q/",
+        "source_label": "PaintScratch 2016 Lund",
+        "hex_value": "#2E6D1F"
+      },
+      {
+        "display_name": "Silver Stone",
+        "paint_code": "HSL935579",
+        "slug": "silver-stone-hsl935579",
+        "reference_url": "https://www.paintscratch.com/colors/lund/silver-stone-hsl935579/",
+        "source_label": "PaintScratch 2016 Lund",
+        "hex_value": "#CAD1D8"
+      },
+      {
+        "display_name": "Beige (Catalyzed Spray Only)",
+        "paint_code": "FDGH936055",
+        "slug": "beige-catalyzed-spray-only-fdgh936055",
+        "reference_url": "https://www.paintscratch.com/colors/lund/beige-catalyzed-spray-only-fdgh936055/",
+        "source_label": "PaintScratch 2016 Lund",
+        "hex_value": "#E9D9A1"
+      }
+    ],
+    "2017": [
+      {
+        "display_name": "Cobalt Blue",
+        "paint_code": "FDGH912858",
+        "slug": "cobalt-blue-fdgh912858",
+        "reference_url": "https://www.paintscratch.com/colors/lund/cobalt-blue-fdgh912858/",
+        "source_label": "PaintScratch 2017 Lund",
+        "hex_value": "#0D2D97"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "DUHS912854",
+        "slug": "black-duhs912854",
+        "reference_url": "https://www.paintscratch.com/colors/lund/black-duhs912854/",
+        "source_label": "PaintScratch 2017 Lund",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Silver Delfleet",
+        "paint_code": "FDGH935579",
+        "slug": "silver-delfleet-fdgh935579",
+        "reference_url": "https://www.paintscratch.com/colors/lund/silver-delfleet-fdgh935579/",
+        "source_label": "PaintScratch 2017 Lund",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Arctic White (Catalyzed Spray ONLY)",
+        "paint_code": "DUHS912859",
+        "slug": "arctic-white-catalyzed-spray-only-duhs912859",
+        "reference_url": "https://www.paintscratch.com/colors/lund/arctic-white-catalyzed-spray-only-duhs912859/",
+        "source_label": "PaintScratch 2017 Lund",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Medium Gray (Catalyzed Spray Only)",
+        "paint_code": "FDGH936054",
+        "slug": "medium-gray-catalyzed-spray-only-fdgh936054",
+        "reference_url": "https://www.paintscratch.com/colors/lund/medium-gray-catalyzed-spray-only-fdgh936054/",
+        "source_label": "PaintScratch 2017 Lund",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Vapor Mist",
+        "paint_code": "DUHS923558",
+        "slug": "vapor-mist-duhs923558",
+        "reference_url": "https://www.paintscratch.com/colors/lund/vapor-mist-duhs923558/",
+        "source_label": "PaintScratch 2017 Lund",
+        "hex_value": "#F1F0EB"
+      },
+      {
+        "display_name": "Wilderness Green",
+        "paint_code": "FDGH935927Q",
+        "slug": "wilderness-green-fdgh935927q",
+        "reference_url": "https://www.paintscratch.com/colors/lund/wilderness-green-fdgh935927q/",
+        "source_label": "PaintScratch 2017 Lund",
+        "hex_value": "#2E6D1F"
+      },
+      {
+        "display_name": "Beige (Catalyzed Spray Only)",
+        "paint_code": "FDGH936055",
+        "slug": "beige-catalyzed-spray-only-fdgh936055",
+        "reference_url": "https://www.paintscratch.com/colors/lund/beige-catalyzed-spray-only-fdgh936055/",
+        "source_label": "PaintScratch 2017 Lund",
+        "hex_value": "#E9D9A1"
+      }
+    ],
+    "2018": [
+      {
+        "display_name": "Cobalt Blue",
+        "paint_code": "FDGH912858",
+        "slug": "cobalt-blue-fdgh912858",
+        "reference_url": "https://www.paintscratch.com/colors/lund/cobalt-blue-fdgh912858/",
+        "source_label": "PaintScratch 2018 Lund",
+        "hex_value": "#0D2D97"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "DUHS912854",
+        "slug": "black-duhs912854",
+        "reference_url": "https://www.paintscratch.com/colors/lund/black-duhs912854/",
+        "source_label": "PaintScratch 2018 Lund",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Silver Delfleet",
+        "paint_code": "FDGH935579",
+        "slug": "silver-delfleet-fdgh935579",
+        "reference_url": "https://www.paintscratch.com/colors/lund/silver-delfleet-fdgh935579/",
+        "source_label": "PaintScratch 2018 Lund",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Arctic White (Catalyzed Spray ONLY)",
+        "paint_code": "DUHS912859",
+        "slug": "arctic-white-catalyzed-spray-only-duhs912859",
+        "reference_url": "https://www.paintscratch.com/colors/lund/arctic-white-catalyzed-spray-only-duhs912859/",
+        "source_label": "PaintScratch 2018 Lund",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Medium Gray (Catalyzed Spray Only)",
+        "paint_code": "FDGH936054",
+        "slug": "medium-gray-catalyzed-spray-only-fdgh936054",
+        "reference_url": "https://www.paintscratch.com/colors/lund/medium-gray-catalyzed-spray-only-fdgh936054/",
+        "source_label": "PaintScratch 2018 Lund",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Lund Red",
+        "paint_code": "935928",
+        "slug": "lund-red-935928",
+        "reference_url": "https://www.paintscratch.com/colors/lund/lund-red-935928/",
+        "source_label": "PaintScratch 2018 Lund",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "Vapor Mist",
+        "paint_code": "DUHS923558",
+        "slug": "vapor-mist-duhs923558",
+        "reference_url": "https://www.paintscratch.com/colors/lund/vapor-mist-duhs923558/",
+        "source_label": "PaintScratch 2018 Lund",
+        "hex_value": "#F1F0EB"
+      },
+      {
+        "display_name": "Wilderness Green",
+        "paint_code": "FDGH935927Q",
+        "slug": "wilderness-green-fdgh935927q",
+        "reference_url": "https://www.paintscratch.com/colors/lund/wilderness-green-fdgh935927q/",
+        "source_label": "PaintScratch 2018 Lund",
+        "hex_value": "#2E6D1F"
+      }
+    ],
+    "2019": [
+      {
+        "display_name": "Cobalt Blue",
+        "paint_code": "FDGH912858",
+        "slug": "cobalt-blue-fdgh912858",
+        "reference_url": "https://www.paintscratch.com/colors/lund/cobalt-blue-fdgh912858/",
+        "source_label": "PaintScratch 2019 Lund",
+        "hex_value": "#0D2D97"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "DUHS912854",
+        "slug": "black-duhs912854",
+        "reference_url": "https://www.paintscratch.com/colors/lund/black-duhs912854/",
+        "source_label": "PaintScratch 2019 Lund",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black Metallic (Catalyzed Spray Can Only)",
+        "paint_code": "FDGH939695",
+        "slug": "black-metallic-catalyzed-spray-can-only-fdgh939695",
+        "reference_url": "https://www.paintscratch.com/colors/lund/black-metallic-catalyzed-spray-can-only-fdgh939695/",
+        "source_label": "PaintScratch 2019 Lund",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Silver Delfleet",
+        "paint_code": "FDGH935579",
+        "slug": "silver-delfleet-fdgh935579",
+        "reference_url": "https://www.paintscratch.com/colors/lund/silver-delfleet-fdgh935579/",
+        "source_label": "PaintScratch 2019 Lund",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Arctic White (Catalyzed Spray ONLY)",
+        "paint_code": "DUHS912859",
+        "slug": "arctic-white-catalyzed-spray-only-duhs912859",
+        "reference_url": "https://www.paintscratch.com/colors/lund/arctic-white-catalyzed-spray-only-duhs912859/",
+        "source_label": "PaintScratch 2019 Lund",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Medium Gray (Catalyzed Spray Only)",
+        "paint_code": "FDGH936054",
+        "slug": "medium-gray-catalyzed-spray-only-fdgh936054",
+        "reference_url": "https://www.paintscratch.com/colors/lund/medium-gray-catalyzed-spray-only-fdgh936054/",
+        "source_label": "PaintScratch 2019 Lund",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Wildfire Red",
+        "paint_code": "FDGH912856",
+        "slug": "wildfire-red-fdgh912856",
+        "reference_url": "https://www.paintscratch.com/colors/lund/wildfire-red-fdgh912856/",
+        "source_label": "PaintScratch 2019 Lund",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "Vapor Mist",
+        "paint_code": "DUHS923558",
+        "slug": "vapor-mist-duhs923558",
+        "reference_url": "https://www.paintscratch.com/colors/lund/vapor-mist-duhs923558/",
+        "source_label": "PaintScratch 2019 Lund",
+        "hex_value": "#F1F0EB"
+      },
+      {
+        "display_name": "Wilderness Green",
+        "paint_code": "FDGH935927Q",
+        "slug": "wilderness-green-fdgh935927q",
+        "reference_url": "https://www.paintscratch.com/colors/lund/wilderness-green-fdgh935927q/",
+        "source_label": "PaintScratch 2019 Lund",
+        "hex_value": "#2E6D1F"
+      },
+      {
+        "display_name": "Beige (Catalyzed Spray Only)",
+        "paint_code": "FDGH936055",
+        "slug": "beige-catalyzed-spray-only-fdgh936055",
+        "reference_url": "https://www.paintscratch.com/colors/lund/beige-catalyzed-spray-only-fdgh936055/",
+        "source_label": "PaintScratch 2019 Lund",
+        "hex_value": "#E9D9A1"
+      }
+    ],
+    "2020": [
+      {
+        "display_name": "Cobalt Blue",
+        "paint_code": "FDGH912858",
+        "slug": "cobalt-blue-fdgh912858",
+        "reference_url": "https://www.paintscratch.com/colors/lund/cobalt-blue-fdgh912858/",
+        "source_label": "PaintScratch 2020 Lund",
+        "hex_value": "#0D2D97"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "DUHS912854",
+        "slug": "black-duhs912854",
+        "reference_url": "https://www.paintscratch.com/colors/lund/black-duhs912854/",
+        "source_label": "PaintScratch 2020 Lund",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black Metallic (Catalyzed Spray Can Only)",
+        "paint_code": "FDGH939695",
+        "slug": "black-metallic-catalyzed-spray-can-only-fdgh939695",
+        "reference_url": "https://www.paintscratch.com/colors/lund/black-metallic-catalyzed-spray-can-only-fdgh939695/",
+        "source_label": "PaintScratch 2020 Lund",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Silver Delfleet",
+        "paint_code": "FDGH935579",
+        "slug": "silver-delfleet-fdgh935579",
+        "reference_url": "https://www.paintscratch.com/colors/lund/silver-delfleet-fdgh935579/",
+        "source_label": "PaintScratch 2020 Lund",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Arctic White (Catalyzed Spray ONLY)",
+        "paint_code": "DUHS912859",
+        "slug": "arctic-white-catalyzed-spray-only-duhs912859",
+        "reference_url": "https://www.paintscratch.com/colors/lund/arctic-white-catalyzed-spray-only-duhs912859/",
+        "source_label": "PaintScratch 2020 Lund",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Medium Gray (Catalyzed Spray Only)",
+        "paint_code": "FDGH936054",
+        "slug": "medium-gray-catalyzed-spray-only-fdgh936054",
+        "reference_url": "https://www.paintscratch.com/colors/lund/medium-gray-catalyzed-spray-only-fdgh936054/",
+        "source_label": "PaintScratch 2020 Lund",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Charcoal (Catalyzed Spray Can Only)",
+        "paint_code": "951441",
+        "slug": "charcoal-catalyzed-spray-can-only-951441",
+        "reference_url": "https://www.paintscratch.com/colors/lund/charcoal-catalyzed-spray-can-only-951441/",
+        "source_label": "PaintScratch 2020 Lund",
+        "hex_value": "#202020"
+      },
+      {
+        "display_name": "Vapor Mist",
+        "paint_code": "DUHS923558",
+        "slug": "vapor-mist-duhs923558",
+        "reference_url": "https://www.paintscratch.com/colors/lund/vapor-mist-duhs923558/",
+        "source_label": "PaintScratch 2020 Lund",
+        "hex_value": "#F1F0EB"
+      },
+      {
+        "display_name": "Wilderness Green",
+        "paint_code": "FDGH935927Q",
+        "slug": "wilderness-green-fdgh935927q",
+        "reference_url": "https://www.paintscratch.com/colors/lund/wilderness-green-fdgh935927q/",
+        "source_label": "PaintScratch 2020 Lund",
+        "hex_value": "#2E6D1F"
+      },
+      {
+        "display_name": "Blazing Copper Metallic",
+        "paint_code": "DUHS923607",
+        "slug": "blazing-copper-metallic-duhs923607",
+        "reference_url": "https://www.paintscratch.com/colors/lund/blazing-copper-metallic-duhs923607/",
+        "source_label": "PaintScratch 2020 Lund",
+        "hex_value": "#985636"
+      },
+      {
+        "display_name": "Blazing Copper Metallic",
+        "paint_code": "FBCH923607",
+        "slug": "blazing-copper-metallic-fbch923607",
+        "reference_url": "https://www.paintscratch.com/colors/lund/blazing-copper-metallic-fbch923607/",
+        "source_label": "PaintScratch 2020 Lund",
+        "hex_value": "#985636"
+      },
+      {
+        "display_name": "Beige (Catalyzed Spray Only)",
+        "paint_code": "FDGH936055",
+        "slug": "beige-catalyzed-spray-only-fdgh936055",
+        "reference_url": "https://www.paintscratch.com/colors/lund/beige-catalyzed-spray-only-fdgh936055/",
+        "source_label": "PaintScratch 2020 Lund",
+        "hex_value": "#E9D9A1"
+      }
+    ],
+    "2021": [
+      {
+        "display_name": "Cobalt Blue",
+        "paint_code": "FDGH912858",
+        "slug": "cobalt-blue-fdgh912858",
+        "reference_url": "https://www.paintscratch.com/colors/lund/cobalt-blue-fdgh912858/",
+        "source_label": "PaintScratch 2021 Lund",
+        "hex_value": "#0D2D97"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "DUHS912854",
+        "slug": "black-duhs912854",
+        "reference_url": "https://www.paintscratch.com/colors/lund/black-duhs912854/",
+        "source_label": "PaintScratch 2021 Lund",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Silver Delfleet",
+        "paint_code": "FDGH935579",
+        "slug": "silver-delfleet-fdgh935579",
+        "reference_url": "https://www.paintscratch.com/colors/lund/silver-delfleet-fdgh935579/",
+        "source_label": "PaintScratch 2021 Lund",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Arctic White (Catalyzed Spray ONLY)",
+        "paint_code": "DUHS912859",
+        "slug": "arctic-white-catalyzed-spray-only-duhs912859",
+        "reference_url": "https://www.paintscratch.com/colors/lund/arctic-white-catalyzed-spray-only-duhs912859/",
+        "source_label": "PaintScratch 2021 Lund",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Medium Gray (Catalyzed Spray Only)",
+        "paint_code": "FDGH936054",
+        "slug": "medium-gray-catalyzed-spray-only-fdgh936054",
+        "reference_url": "https://www.paintscratch.com/colors/lund/medium-gray-catalyzed-spray-only-fdgh936054/",
+        "source_label": "PaintScratch 2021 Lund",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Charcoal (Catalyzed Spray Can Only)",
+        "paint_code": "951441",
+        "slug": "charcoal-catalyzed-spray-can-only-951441",
+        "reference_url": "https://www.paintscratch.com/colors/lund/charcoal-catalyzed-spray-can-only-951441/",
+        "source_label": "PaintScratch 2021 Lund",
+        "hex_value": "#202020"
+      },
+      {
+        "display_name": "Vapor Mist",
+        "paint_code": "DUHS923558",
+        "slug": "vapor-mist-duhs923558",
+        "reference_url": "https://www.paintscratch.com/colors/lund/vapor-mist-duhs923558/",
+        "source_label": "PaintScratch 2021 Lund",
+        "hex_value": "#F1F0EB"
+      },
+      {
+        "display_name": "Wilderness Green",
+        "paint_code": "FDGH935927Q",
+        "slug": "wilderness-green-fdgh935927q",
+        "reference_url": "https://www.paintscratch.com/colors/lund/wilderness-green-fdgh935927q/",
+        "source_label": "PaintScratch 2021 Lund",
+        "hex_value": "#2E6D1F"
+      },
+      {
+        "display_name": "Medium Gray (Catalyzed Spray Only)",
+        "paint_code": "FDGH912859",
+        "slug": "medium-gray-catalyzed-spray-only-fdgh912859",
+        "reference_url": "https://www.paintscratch.com/colors/lund/medium-gray-catalyzed-spray-only-fdgh912859/",
+        "source_label": "PaintScratch 2021 Lund",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Beige (Catalyzed Spray Only)",
+        "paint_code": "FDGH936055",
+        "slug": "beige-catalyzed-spray-only-fdgh936055",
+        "reference_url": "https://www.paintscratch.com/colors/lund/beige-catalyzed-spray-only-fdgh936055/",
+        "source_label": "PaintScratch 2021 Lund",
+        "hex_value": "#E9D9A1"
+      }
+    ],
+    "2022": [
+      {
+        "display_name": "Cobalt Blue",
+        "paint_code": "FDGH912858",
+        "slug": "cobalt-blue-fdgh912858",
+        "reference_url": "https://www.paintscratch.com/colors/lund/cobalt-blue-fdgh912858/",
+        "source_label": "PaintScratch 2022 Lund",
+        "hex_value": "#0D2D97"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "DUHS912854",
+        "slug": "black-duhs912854",
+        "reference_url": "https://www.paintscratch.com/colors/lund/black-duhs912854/",
+        "source_label": "PaintScratch 2022 Lund",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black Metallic (Catalyzed Spray Can Only)",
+        "paint_code": "FDGH939695",
+        "slug": "black-metallic-catalyzed-spray-can-only-fdgh939695",
+        "reference_url": "https://www.paintscratch.com/colors/lund/black-metallic-catalyzed-spray-can-only-fdgh939695/",
+        "source_label": "PaintScratch 2022 Lund",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Silver Delfleet",
+        "paint_code": "FDGH935579",
+        "slug": "silver-delfleet-fdgh935579",
+        "reference_url": "https://www.paintscratch.com/colors/lund/silver-delfleet-fdgh935579/",
+        "source_label": "PaintScratch 2022 Lund",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Arctic White (Catalyzed Spray ONLY)",
+        "paint_code": "DUHS912859",
+        "slug": "arctic-white-catalyzed-spray-only-duhs912859",
+        "reference_url": "https://www.paintscratch.com/colors/lund/arctic-white-catalyzed-spray-only-duhs912859/",
+        "source_label": "PaintScratch 2022 Lund",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Heritage Red (Catalyzed Spray Can Only)",
+        "paint_code": "FDGH951440",
+        "slug": "heritage-red-catalyzed-spray-can-only-fdgh951440",
+        "reference_url": "https://www.paintscratch.com/colors/lund/heritage-red-catalyzed-spray-can-only-fdgh951440/",
+        "source_label": "PaintScratch 2022 Lund",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "Medium Gray (Catalyzed Spray Only)",
+        "paint_code": "FDGH936054",
+        "slug": "medium-gray-catalyzed-spray-only-fdgh936054",
+        "reference_url": "https://www.paintscratch.com/colors/lund/medium-gray-catalyzed-spray-only-fdgh936054/",
+        "source_label": "PaintScratch 2022 Lund",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Charcoal (Catalyzed Spray Can Only)",
+        "paint_code": "951441",
+        "slug": "charcoal-catalyzed-spray-can-only-951441",
+        "reference_url": "https://www.paintscratch.com/colors/lund/charcoal-catalyzed-spray-can-only-951441/",
+        "source_label": "PaintScratch 2022 Lund",
+        "hex_value": "#202020"
+      },
+      {
+        "display_name": "Vapor Mist",
+        "paint_code": "DUHS923558",
+        "slug": "vapor-mist-duhs923558",
+        "reference_url": "https://www.paintscratch.com/colors/lund/vapor-mist-duhs923558/",
+        "source_label": "PaintScratch 2022 Lund",
+        "hex_value": "#F1F0EB"
+      },
+      {
+        "display_name": "Wilderness Green",
+        "paint_code": "FDGH935927Q",
+        "slug": "wilderness-green-fdgh935927q",
+        "reference_url": "https://www.paintscratch.com/colors/lund/wilderness-green-fdgh935927q/",
+        "source_label": "PaintScratch 2022 Lund",
+        "hex_value": "#2E6D1F"
+      },
+      {
+        "display_name": "Beige (Catalyzed Spray Only)",
+        "paint_code": "FDGH936055",
+        "slug": "beige-catalyzed-spray-only-fdgh936055",
+        "reference_url": "https://www.paintscratch.com/colors/lund/beige-catalyzed-spray-only-fdgh936055/",
+        "source_label": "PaintScratch 2022 Lund",
+        "hex_value": "#E9D9A1"
+      }
+    ],
+    "2023": [
+      {
+        "display_name": "Cobalt Blue",
+        "paint_code": "FDGH912858",
+        "slug": "cobalt-blue-fdgh912858",
+        "reference_url": "https://www.paintscratch.com/colors/lund/cobalt-blue-fdgh912858/",
+        "source_label": "PaintScratch 2023 Lund",
+        "hex_value": "#0D2D97"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "DUHS912854",
+        "slug": "black-duhs912854",
+        "reference_url": "https://www.paintscratch.com/colors/lund/black-duhs912854/",
+        "source_label": "PaintScratch 2023 Lund",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black Metallic (Catalyzed Spray Can Only)",
+        "paint_code": "FDGH939695",
+        "slug": "black-metallic-catalyzed-spray-can-only-fdgh939695",
+        "reference_url": "https://www.paintscratch.com/colors/lund/black-metallic-catalyzed-spray-can-only-fdgh939695/",
+        "source_label": "PaintScratch 2023 Lund",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Silver Delfleet",
+        "paint_code": "FDGH935579",
+        "slug": "silver-delfleet-fdgh935579",
+        "reference_url": "https://www.paintscratch.com/colors/lund/silver-delfleet-fdgh935579/",
+        "source_label": "PaintScratch 2023 Lund",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Arctic White (Catalyzed Spray ONLY)",
+        "paint_code": "DUHS912859",
+        "slug": "arctic-white-catalyzed-spray-only-duhs912859",
+        "reference_url": "https://www.paintscratch.com/colors/lund/arctic-white-catalyzed-spray-only-duhs912859/",
+        "source_label": "PaintScratch 2023 Lund",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Heritage Red (Catalyzed Spray Can Only)",
+        "paint_code": "FDGH951440",
+        "slug": "heritage-red-catalyzed-spray-can-only-fdgh951440",
+        "reference_url": "https://www.paintscratch.com/colors/lund/heritage-red-catalyzed-spray-can-only-fdgh951440/",
+        "source_label": "PaintScratch 2023 Lund",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "Medium Gray (Catalyzed Spray Only)",
+        "paint_code": "FDGH936054",
+        "slug": "medium-gray-catalyzed-spray-only-fdgh936054",
+        "reference_url": "https://www.paintscratch.com/colors/lund/medium-gray-catalyzed-spray-only-fdgh936054/",
+        "source_label": "PaintScratch 2023 Lund",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Charcoal (Catalyzed Spray Can Only)",
+        "paint_code": "951441",
+        "slug": "charcoal-catalyzed-spray-can-only-951441",
+        "reference_url": "https://www.paintscratch.com/colors/lund/charcoal-catalyzed-spray-can-only-951441/",
+        "source_label": "PaintScratch 2023 Lund",
+        "hex_value": "#202020"
+      },
+      {
+        "display_name": "Charcoal (Catalyzed Spray Can Only)",
+        "paint_code": "51441",
+        "slug": "charcoal-catalyzed-spray-can-only-51441",
+        "reference_url": "https://www.paintscratch.com/colors/lund/charcoal-catalyzed-spray-can-only-51441/",
+        "source_label": "PaintScratch 2023 Lund",
+        "hex_value": "#404040"
+      },
+      {
+        "display_name": "Vapor Mist",
+        "paint_code": "DUHS923558",
+        "slug": "vapor-mist-duhs923558",
+        "reference_url": "https://www.paintscratch.com/colors/lund/vapor-mist-duhs923558/",
+        "source_label": "PaintScratch 2023 Lund",
+        "hex_value": "#F1F0EB"
+      },
+      {
+        "display_name": "Wilderness Green",
+        "paint_code": "FDGH935927Q",
+        "slug": "wilderness-green-fdgh935927q",
+        "reference_url": "https://www.paintscratch.com/colors/lund/wilderness-green-fdgh935927q/",
+        "source_label": "PaintScratch 2023 Lund",
+        "hex_value": "#2E6D1F"
+      },
+      {
+        "display_name": "Beige (Catalyzed Spray Only)",
+        "paint_code": "FDGH936055",
+        "slug": "beige-catalyzed-spray-only-fdgh936055",
+        "reference_url": "https://www.paintscratch.com/colors/lund/beige-catalyzed-spray-only-fdgh936055/",
+        "source_label": "PaintScratch 2023 Lund",
+        "hex_value": "#E9D9A1"
+      }
+    ],
+    "2024": [
+      {
+        "display_name": "Cobalt Blue",
+        "paint_code": "FDGH912858",
+        "slug": "cobalt-blue-fdgh912858",
+        "reference_url": "https://www.paintscratch.com/colors/lund/cobalt-blue-fdgh912858/",
+        "source_label": "PaintScratch 2024 Lund",
+        "hex_value": "#0D2D97"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "DUHS912854",
+        "slug": "black-duhs912854",
+        "reference_url": "https://www.paintscratch.com/colors/lund/black-duhs912854/",
+        "source_label": "PaintScratch 2024 Lund",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black Metallic (Catalyzed Spray Can Only)",
+        "paint_code": "FDGH939695",
+        "slug": "black-metallic-catalyzed-spray-can-only-fdgh939695",
+        "reference_url": "https://www.paintscratch.com/colors/lund/black-metallic-catalyzed-spray-can-only-fdgh939695/",
+        "source_label": "PaintScratch 2024 Lund",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Silver Delfleet",
+        "paint_code": "FDGH935579",
+        "slug": "silver-delfleet-fdgh935579",
+        "reference_url": "https://www.paintscratch.com/colors/lund/silver-delfleet-fdgh935579/",
+        "source_label": "PaintScratch 2024 Lund",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Arctic White (Catalyzed Spray ONLY)",
+        "paint_code": "DUHS912859",
+        "slug": "arctic-white-catalyzed-spray-only-duhs912859",
+        "reference_url": "https://www.paintscratch.com/colors/lund/arctic-white-catalyzed-spray-only-duhs912859/",
+        "source_label": "PaintScratch 2024 Lund",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Heritage Red (Catalyzed Spray Can Only)",
+        "paint_code": "FDGH951440",
+        "slug": "heritage-red-catalyzed-spray-can-only-fdgh951440",
+        "reference_url": "https://www.paintscratch.com/colors/lund/heritage-red-catalyzed-spray-can-only-fdgh951440/",
+        "source_label": "PaintScratch 2024 Lund",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "Medium Gray (Catalyzed Spray Only)",
+        "paint_code": "FDGH936054",
+        "slug": "medium-gray-catalyzed-spray-only-fdgh936054",
+        "reference_url": "https://www.paintscratch.com/colors/lund/medium-gray-catalyzed-spray-only-fdgh936054/",
+        "source_label": "PaintScratch 2024 Lund",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Charcoal (Catalyzed Spray Can Only)",
+        "paint_code": "951441",
+        "slug": "charcoal-catalyzed-spray-can-only-951441",
+        "reference_url": "https://www.paintscratch.com/colors/lund/charcoal-catalyzed-spray-can-only-951441/",
+        "source_label": "PaintScratch 2024 Lund",
+        "hex_value": "#202020"
+      },
+      {
+        "display_name": "Charcoal (Catalyzed Spray Can Only)",
+        "paint_code": "51441",
+        "slug": "charcoal-catalyzed-spray-can-only-51441",
+        "reference_url": "https://www.paintscratch.com/colors/lund/charcoal-catalyzed-spray-can-only-51441/",
+        "source_label": "PaintScratch 2024 Lund",
+        "hex_value": "#404040"
+      },
+      {
+        "display_name": "Vapor Mist",
+        "paint_code": "DUHS923558",
+        "slug": "vapor-mist-duhs923558",
+        "reference_url": "https://www.paintscratch.com/colors/lund/vapor-mist-duhs923558/",
+        "source_label": "PaintScratch 2024 Lund",
+        "hex_value": "#F1F0EB"
+      },
+      {
+        "display_name": "Wilderness Green",
+        "paint_code": "FDGH935927Q",
+        "slug": "wilderness-green-fdgh935927q",
+        "reference_url": "https://www.paintscratch.com/colors/lund/wilderness-green-fdgh935927q/",
+        "source_label": "PaintScratch 2024 Lund",
+        "hex_value": "#2E6D1F"
+      },
+      {
+        "display_name": "Beige (Catalyzed Spray Only)",
+        "paint_code": "FDGH936055",
+        "slug": "beige-catalyzed-spray-only-fdgh936055",
+        "reference_url": "https://www.paintscratch.com/colors/lund/beige-catalyzed-spray-only-fdgh936055/",
+        "source_label": "PaintScratch 2024 Lund",
+        "hex_value": "#E9D9A1"
+      }
+    ],
+    "2025": [
+      {
+        "display_name": "Cobalt Blue",
+        "paint_code": "FDGH912858",
+        "slug": "cobalt-blue-fdgh912858",
+        "reference_url": "https://www.paintscratch.com/colors/lund/cobalt-blue-fdgh912858/",
+        "source_label": "PaintScratch 2025 Lund",
+        "hex_value": "#0D2D97"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "DUHS912854",
+        "slug": "black-duhs912854",
+        "reference_url": "https://www.paintscratch.com/colors/lund/black-duhs912854/",
+        "source_label": "PaintScratch 2025 Lund",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black Metallic (Catalyzed Spray Can Only)",
+        "paint_code": "FDGH939695",
+        "slug": "black-metallic-catalyzed-spray-can-only-fdgh939695",
+        "reference_url": "https://www.paintscratch.com/colors/lund/black-metallic-catalyzed-spray-can-only-fdgh939695/",
+        "source_label": "PaintScratch 2025 Lund",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Silver Delfleet",
+        "paint_code": "FDGH935579",
+        "slug": "silver-delfleet-fdgh935579",
+        "reference_url": "https://www.paintscratch.com/colors/lund/silver-delfleet-fdgh935579/",
+        "source_label": "PaintScratch 2025 Lund",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Arctic White (Catalyzed Spray ONLY)",
+        "paint_code": "DUHS912859",
+        "slug": "arctic-white-catalyzed-spray-only-duhs912859",
+        "reference_url": "https://www.paintscratch.com/colors/lund/arctic-white-catalyzed-spray-only-duhs912859/",
+        "source_label": "PaintScratch 2025 Lund",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Medium Gray (Catalyzed Spray Only)",
+        "paint_code": "FDGH936054",
+        "slug": "medium-gray-catalyzed-spray-only-fdgh936054",
+        "reference_url": "https://www.paintscratch.com/colors/lund/medium-gray-catalyzed-spray-only-fdgh936054/",
+        "source_label": "PaintScratch 2025 Lund",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Charcoal (Catalyzed Spray Can Only)",
+        "paint_code": "951441",
+        "slug": "charcoal-catalyzed-spray-can-only-951441",
+        "reference_url": "https://www.paintscratch.com/colors/lund/charcoal-catalyzed-spray-can-only-951441/",
+        "source_label": "PaintScratch 2025 Lund",
+        "hex_value": "#202020"
+      },
+      {
+        "display_name": "Charcoal (Catalyzed Spray Can Only)",
+        "paint_code": "51441",
+        "slug": "charcoal-catalyzed-spray-can-only-51441",
+        "reference_url": "https://www.paintscratch.com/colors/lund/charcoal-catalyzed-spray-can-only-51441/",
+        "source_label": "PaintScratch 2025 Lund",
+        "hex_value": "#404040"
+      },
+      {
+        "display_name": "Vapor Mist",
+        "paint_code": "DUHS923558",
+        "slug": "vapor-mist-duhs923558",
+        "reference_url": "https://www.paintscratch.com/colors/lund/vapor-mist-duhs923558/",
+        "source_label": "PaintScratch 2025 Lund",
+        "hex_value": "#F1F0EB"
+      },
+      {
+        "display_name": "Wilderness Green",
+        "paint_code": "FDGH935927Q",
+        "slug": "wilderness-green-fdgh935927q",
+        "reference_url": "https://www.paintscratch.com/colors/lund/wilderness-green-fdgh935927q/",
+        "source_label": "PaintScratch 2025 Lund",
+        "hex_value": "#2E6D1F"
+      },
+      {
+        "display_name": "Beige (Catalyzed Spray Only)",
+        "paint_code": "FDGH936055",
+        "slug": "beige-catalyzed-spray-only-fdgh936055",
+        "reference_url": "https://www.paintscratch.com/colors/lund/beige-catalyzed-spray-only-fdgh936055/",
+        "source_label": "PaintScratch 2025 Lund",
+        "hex_value": "#E9D9A1"
+      }
+    ],
+    "2026": [
+      {
+        "display_name": "Cobalt Blue",
+        "paint_code": "FDGH912858",
+        "slug": "cobalt-blue-fdgh912858",
+        "reference_url": "https://www.paintscratch.com/colors/lund/cobalt-blue-fdgh912858/",
+        "source_label": "PaintScratch 2026 Lund",
+        "hex_value": "#0D2D97"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "DUHS912854",
+        "slug": "black-duhs912854",
+        "reference_url": "https://www.paintscratch.com/colors/lund/black-duhs912854/",
+        "source_label": "PaintScratch 2026 Lund",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black Metallic (Catalyzed Spray Can Only)",
+        "paint_code": "FDGH939695",
+        "slug": "black-metallic-catalyzed-spray-can-only-fdgh939695",
+        "reference_url": "https://www.paintscratch.com/colors/lund/black-metallic-catalyzed-spray-can-only-fdgh939695/",
+        "source_label": "PaintScratch 2026 Lund",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Silver Delfleet",
+        "paint_code": "FDGH935579",
+        "slug": "silver-delfleet-fdgh935579",
+        "reference_url": "https://www.paintscratch.com/colors/lund/silver-delfleet-fdgh935579/",
+        "source_label": "PaintScratch 2026 Lund",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Arctic White (Catalyzed Spray ONLY)",
+        "paint_code": "DUHS912859",
+        "slug": "arctic-white-catalyzed-spray-only-duhs912859",
+        "reference_url": "https://www.paintscratch.com/colors/lund/arctic-white-catalyzed-spray-only-duhs912859/",
+        "source_label": "PaintScratch 2026 Lund",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Medium Gray (Catalyzed Spray Only)",
+        "paint_code": "FDGH936054",
+        "slug": "medium-gray-catalyzed-spray-only-fdgh936054",
+        "reference_url": "https://www.paintscratch.com/colors/lund/medium-gray-catalyzed-spray-only-fdgh936054/",
+        "source_label": "PaintScratch 2026 Lund",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Charcoal (Catalyzed Spray Can Only)",
+        "paint_code": "951441",
+        "slug": "charcoal-catalyzed-spray-can-only-951441",
+        "reference_url": "https://www.paintscratch.com/colors/lund/charcoal-catalyzed-spray-can-only-951441/",
+        "source_label": "PaintScratch 2026 Lund",
+        "hex_value": "#202020"
+      },
+      {
+        "display_name": "Charcoal (Catalyzed Spray Can Only)",
+        "paint_code": "51441",
+        "slug": "charcoal-catalyzed-spray-can-only-51441",
+        "reference_url": "https://www.paintscratch.com/colors/lund/charcoal-catalyzed-spray-can-only-51441/",
+        "source_label": "PaintScratch 2026 Lund",
+        "hex_value": "#404040"
+      },
+      {
+        "display_name": "Vapor Mist",
+        "paint_code": "DUHS923558",
+        "slug": "vapor-mist-duhs923558",
+        "reference_url": "https://www.paintscratch.com/colors/lund/vapor-mist-duhs923558/",
+        "source_label": "PaintScratch 2026 Lund",
+        "hex_value": "#F1F0EB"
+      },
+      {
+        "display_name": "Wilderness Green",
+        "paint_code": "FDGH935927Q",
+        "slug": "wilderness-green-fdgh935927q",
+        "reference_url": "https://www.paintscratch.com/colors/lund/wilderness-green-fdgh935927q/",
+        "source_label": "PaintScratch 2026 Lund",
+        "hex_value": "#2E6D1F"
+      },
+      {
+        "display_name": "Beige (Catalyzed Spray Only)",
+        "paint_code": "FDGH936055",
+        "slug": "beige-catalyzed-spray-only-fdgh936055",
+        "reference_url": "https://www.paintscratch.com/colors/lund/beige-catalyzed-spray-only-fdgh936055/",
+        "source_label": "PaintScratch 2026 Lund",
+        "hex_value": "#E9D9A1"
+      }
+    ],
+    "2027": [
+      {
+        "display_name": "Cobalt Blue",
+        "paint_code": "FDGH912858",
+        "slug": "cobalt-blue-fdgh912858",
+        "reference_url": "https://www.paintscratch.com/colors/lund/cobalt-blue-fdgh912858/",
+        "source_label": "PaintScratch 2027 Lund",
+        "hex_value": "#0D2D97"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "DUHS912854",
+        "slug": "black-duhs912854",
+        "reference_url": "https://www.paintscratch.com/colors/lund/black-duhs912854/",
+        "source_label": "PaintScratch 2027 Lund",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Black Metallic (Catalyzed Spray Can Only)",
+        "paint_code": "FDGH939695",
+        "slug": "black-metallic-catalyzed-spray-can-only-fdgh939695",
+        "reference_url": "https://www.paintscratch.com/colors/lund/black-metallic-catalyzed-spray-can-only-fdgh939695/",
+        "source_label": "PaintScratch 2027 Lund",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Silver Delfleet",
+        "paint_code": "FDGH935579",
+        "slug": "silver-delfleet-fdgh935579",
+        "reference_url": "https://www.paintscratch.com/colors/lund/silver-delfleet-fdgh935579/",
+        "source_label": "PaintScratch 2027 Lund",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Arctic White (Catalyzed Spray ONLY)",
+        "paint_code": "DUHS912859",
+        "slug": "arctic-white-catalyzed-spray-only-duhs912859",
+        "reference_url": "https://www.paintscratch.com/colors/lund/arctic-white-catalyzed-spray-only-duhs912859/",
+        "source_label": "PaintScratch 2027 Lund",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Medium Gray (Catalyzed Spray Only)",
+        "paint_code": "FDGH936054",
+        "slug": "medium-gray-catalyzed-spray-only-fdgh936054",
+        "reference_url": "https://www.paintscratch.com/colors/lund/medium-gray-catalyzed-spray-only-fdgh936054/",
+        "source_label": "PaintScratch 2027 Lund",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Charcoal (Catalyzed Spray Can Only)",
+        "paint_code": "951441",
+        "slug": "charcoal-catalyzed-spray-can-only-951441",
+        "reference_url": "https://www.paintscratch.com/colors/lund/charcoal-catalyzed-spray-can-only-951441/",
+        "source_label": "PaintScratch 2027 Lund",
+        "hex_value": "#202020"
+      },
+      {
+        "display_name": "Charcoal (Catalyzed Spray Can Only)",
+        "paint_code": "51441",
+        "slug": "charcoal-catalyzed-spray-can-only-51441",
+        "reference_url": "https://www.paintscratch.com/colors/lund/charcoal-catalyzed-spray-can-only-51441/",
+        "source_label": "PaintScratch 2027 Lund",
+        "hex_value": "#404040"
+      },
+      {
+        "display_name": "Vapor Mist",
+        "paint_code": "DUHS923558",
+        "slug": "vapor-mist-duhs923558",
+        "reference_url": "https://www.paintscratch.com/colors/lund/vapor-mist-duhs923558/",
+        "source_label": "PaintScratch 2027 Lund",
+        "hex_value": "#F1F0EB"
+      },
+      {
+        "display_name": "Wilderness Green",
+        "paint_code": "FDGH935927Q",
+        "slug": "wilderness-green-fdgh935927q",
+        "reference_url": "https://www.paintscratch.com/colors/lund/wilderness-green-fdgh935927q/",
+        "source_label": "PaintScratch 2027 Lund",
+        "hex_value": "#2E6D1F"
+      },
+      {
+        "display_name": "Beige (Catalyzed Spray Only)",
+        "paint_code": "FDGH936055",
+        "slug": "beige-catalyzed-spray-only-fdgh936055",
+        "reference_url": "https://www.paintscratch.com/colors/lund/beige-catalyzed-spray-only-fdgh936055/",
+        "source_label": "PaintScratch 2027 Lund",
+        "hex_value": "#E9D9A1"
+      }
+    ]
+  }
+}

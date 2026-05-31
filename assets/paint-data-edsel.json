@@ -1,0 +1,134 @@
+{
+  "All Models": {
+    "1958": [
+      {
+        "display_name": "Spruce Green Poly",
+        "paint_code": "L12",
+        "slug": "spruce-green-poly-l12",
+        "reference_url": "https://www.paintscratch.com/colors/edsel/spruce-green-poly-l12/",
+        "source_label": "PaintScratch 1958 Edsel",
+        "hex_value": "#416C32"
+      },
+      {
+        "display_name": "Powder Blue",
+        "paint_code": "F25",
+        "slug": "powder-blue-f25",
+        "reference_url": "https://www.paintscratch.com/colors/edsel/powder-blue-f25/",
+        "source_label": "PaintScratch 1958 Edsel",
+        "hex_value": "#CAD6D8"
+      },
+      {
+        "display_name": "Ember Red",
+        "paint_code": "C40",
+        "slug": "ember-red-c40",
+        "reference_url": "https://www.paintscratch.com/colors/edsel/ember-red-c40/",
+        "source_label": "PaintScratch 1958 Edsel",
+        "hex_value": "#D6101E"
+      },
+      {
+        "display_name": "Snow or Frost White",
+        "paint_code": "E",
+        "slug": "snow-or-frost-white-e",
+        "reference_url": "https://www.paintscratch.com/colors/edsel/snow-or-frost-white-e/",
+        "source_label": "PaintScratch 1958 Edsel",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Sunset Coral",
+        "paint_code": "R",
+        "slug": "sunset-coral-r",
+        "reference_url": "https://www.paintscratch.com/colors/edsel/sunset-coral-r/",
+        "source_label": "PaintScratch 1958 Edsel",
+        "hex_value": "#EE6D32"
+      },
+      {
+        "display_name": "Copper Poly",
+        "paint_code": "U80",
+        "slug": "copper-poly-u80",
+        "reference_url": "https://www.paintscratch.com/colors/edsel/copper-poly-u80/",
+        "source_label": "PaintScratch 1958 Edsel",
+        "hex_value": "#B36333"
+      },
+      {
+        "display_name": "Durez Gold Poly",
+        "paint_code": "X90",
+        "slug": "durez-gold-poly-x90",
+        "reference_url": "https://www.paintscratch.com/colors/edsel/durez-gold-poly-x90/",
+        "source_label": "PaintScratch 1958 Edsel",
+        "hex_value": "#CDB16E"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "A01",
+        "slug": "black-a01",
+        "reference_url": "https://www.paintscratch.com/colors/edsel/black-a01/",
+        "source_label": "PaintScratch 1958 Edsel",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Silver Gray Poly",
+        "paint_code": "B50",
+        "slug": "silver-gray-poly-b50",
+        "reference_url": "https://www.paintscratch.com/colors/edsel/silver-gray-poly-b50/",
+        "source_label": "PaintScratch 1958 Edsel",
+        "hex_value": "#9E9D9A"
+      },
+      {
+        "display_name": "Turquoise",
+        "paint_code": "D95",
+        "slug": "turquoise-d95",
+        "reference_url": "https://www.paintscratch.com/colors/edsel/turquoise-d95/",
+        "source_label": "PaintScratch 1958 Edsel",
+        "hex_value": "#4C9DA2"
+      },
+      {
+        "display_name": "Horizon Blue",
+        "paint_code": "G26",
+        "slug": "horizon-blue-g26",
+        "reference_url": "https://www.paintscratch.com/colors/edsel/horizon-blue-g26/",
+        "source_label": "PaintScratch 1958 Edsel",
+        "hex_value": "#859BB9"
+      },
+      {
+        "display_name": "Royal Blue Poly",
+        "paint_code": "H27",
+        "slug": "royal-blue-poly-h27",
+        "reference_url": "https://www.paintscratch.com/colors/edsel/royal-blue-poly-h27/",
+        "source_label": "PaintScratch 1958 Edsel",
+        "hex_value": "#2B466B"
+      },
+      {
+        "display_name": "Ice Green",
+        "paint_code": "J10",
+        "slug": "ice-green-j10",
+        "reference_url": "https://www.paintscratch.com/colors/edsel/ice-green-j10/",
+        "source_label": "PaintScratch 1958 Edsel",
+        "hex_value": "#BAC6B6"
+      },
+      {
+        "display_name": "Spring Green",
+        "paint_code": "K11",
+        "slug": "spring-green-k11",
+        "reference_url": "https://www.paintscratch.com/colors/edsel/spring-green-k11/",
+        "source_label": "PaintScratch 1958 Edsel",
+        "hex_value": "#649353"
+      },
+      {
+        "display_name": "Charcoal Brown Poly",
+        "paint_code": "M60",
+        "slug": "charcoal-brown-poly-m60",
+        "reference_url": "https://www.paintscratch.com/colors/edsel/charcoal-brown-poly-m60/",
+        "source_label": "PaintScratch 1958 Edsel",
+        "hex_value": "#5A504A"
+      },
+      {
+        "display_name": "Driftwood",
+        "paint_code": "N",
+        "slug": "driftwood-n",
+        "reference_url": "https://www.paintscratch.com/colors/edsel/driftwood-n/",
+        "source_label": "PaintScratch 1958 Edsel",
+        "hex_value": "#AEA386"
+      }
+    ]
+  }
+}

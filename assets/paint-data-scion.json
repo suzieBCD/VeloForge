@@ -1,0 +1,1784 @@
+{
+  "All Models": {
+    "2004": [
+      {
+        "display_name": "Black Cherry Pearl",
+        "paint_code": "3P2",
+        "slug": "black-cherry-pearl-3p2",
+        "reference_url": "https://www.paintscratch.com/colors/scion/black-cherry-pearl-3p2/",
+        "source_label": "PaintScratch 2004 Scion",
+        "hex_value": "#661220"
+      },
+      {
+        "display_name": "Black Sand Pearl",
+        "paint_code": "209",
+        "slug": "black-sand-pearl-209",
+        "reference_url": "https://www.paintscratch.com/colors/scion/black-sand-pearl-209/",
+        "source_label": "PaintScratch 2004 Scion",
+        "hex_value": "#0A1A10"
+      },
+      {
+        "display_name": "Flint Mica",
+        "paint_code": "1E0",
+        "slug": "flint-mica-1e0",
+        "reference_url": "https://www.paintscratch.com/colors/scion/flint-mica-1e0/",
+        "source_label": "PaintScratch 2004 Scion",
+        "hex_value": "#5F6867"
+      },
+      {
+        "display_name": "Blue Onyx Pearl",
+        "paint_code": "8P8",
+        "slug": "blue-onyx-pearl-8p8",
+        "reference_url": "https://www.paintscratch.com/colors/scion/blue-onyx-pearl-8p8/",
+        "source_label": "PaintScratch 2004 Scion",
+        "hex_value": "#132C5B"
+      },
+      {
+        "display_name": "Polar White",
+        "paint_code": "068",
+        "slug": "polar-white-068",
+        "reference_url": "https://www.paintscratch.com/colors/scion/polar-white-068/",
+        "source_label": "PaintScratch 2004 Scion",
+        "hex_value": "#FBF9EB"
+      },
+      {
+        "display_name": "Thunder Cloud Metallic",
+        "paint_code": "1D2",
+        "slug": "thunder-cloud-metallic-1d2",
+        "reference_url": "https://www.paintscratch.com/colors/scion/thunder-cloud-metallic-1d2/",
+        "source_label": "PaintScratch 2004 Scion",
+        "hex_value": "#C6C2BA"
+      },
+      {
+        "display_name": "Phantom Gray Metallic",
+        "paint_code": "1E3",
+        "slug": "phantom-gray-metallic-1e3",
+        "reference_url": "https://www.paintscratch.com/colors/scion/phantom-gray-metallic-1e3/",
+        "source_label": "PaintScratch 2004 Scion",
+        "hex_value": "#9E9982"
+      },
+      {
+        "display_name": "Silver Streak Metallic",
+        "paint_code": "1E7",
+        "slug": "silver-streak-metallic-1e7",
+        "reference_url": "https://www.paintscratch.com/colors/scion/silver-streak-metallic-1e7/",
+        "source_label": "PaintScratch 2004 Scion",
+        "hex_value": "#E2DFD0"
+      },
+      {
+        "display_name": "Hot Lava",
+        "paint_code": "4R8",
+        "slug": "hot-lava-4r8",
+        "reference_url": "https://www.paintscratch.com/colors/scion/hot-lava-4r8/",
+        "source_label": "PaintScratch 2004 Scion",
+        "hex_value": "#DC7506"
+      },
+      {
+        "display_name": "Camouflage Metallic",
+        "paint_code": "6M7",
+        "slug": "camouflage-metallic-6m7",
+        "reference_url": "https://www.paintscratch.com/colors/scion/camouflage-metallic-6m7/",
+        "source_label": "PaintScratch 2004 Scion",
+        "hex_value": "#838F71"
+      },
+      {
+        "display_name": "Indigo Ink",
+        "paint_code": "8P4",
+        "slug": "indigo-ink-8p4",
+        "reference_url": "https://www.paintscratch.com/colors/scion/indigo-ink-8p4/",
+        "source_label": "PaintScratch 2004 Scion",
+        "hex_value": "#17487F"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "202",
+        "slug": "black-202",
+        "reference_url": "https://www.paintscratch.com/colors/scion/black-202/",
+        "source_label": "PaintScratch 2004 Scion",
+        "hex_value": "#0A1A10"
+      }
+    ],
+    "2005": [
+      {
+        "display_name": "Black Cherry Pearl",
+        "paint_code": "3P2",
+        "slug": "black-cherry-pearl-3p2",
+        "reference_url": "https://www.paintscratch.com/colors/scion/black-cherry-pearl-3p2/",
+        "source_label": "PaintScratch 2005 Scion",
+        "hex_value": "#661220"
+      },
+      {
+        "display_name": "Light Blue Metallic",
+        "paint_code": "8Q6",
+        "slug": "light-blue-metallic-8q6",
+        "reference_url": "https://www.paintscratch.com/colors/scion/light-blue-metallic-8q6/",
+        "source_label": "PaintScratch 2005 Scion",
+        "hex_value": "#BACAD0"
+      },
+      {
+        "display_name": "Black Sand Pearl",
+        "paint_code": "209",
+        "slug": "black-sand-pearl-209",
+        "reference_url": "https://www.paintscratch.com/colors/scion/black-sand-pearl-209/",
+        "source_label": "PaintScratch 2005 Scion",
+        "hex_value": "#0A1A10"
+      },
+      {
+        "display_name": "Flint Mica",
+        "paint_code": "1E0",
+        "slug": "flint-mica-1e0",
+        "reference_url": "https://www.paintscratch.com/colors/scion/flint-mica-1e0/",
+        "source_label": "PaintScratch 2005 Scion",
+        "hex_value": "#5F6867"
+      },
+      {
+        "display_name": "Blue Onyx Pearl",
+        "paint_code": "8P8",
+        "slug": "blue-onyx-pearl-8p8",
+        "reference_url": "https://www.paintscratch.com/colors/scion/blue-onyx-pearl-8p8/",
+        "source_label": "PaintScratch 2005 Scion",
+        "hex_value": "#132C5B"
+      },
+      {
+        "display_name": "Super White 2",
+        "paint_code": "040",
+        "slug": "super-white-2-040",
+        "reference_url": "https://www.paintscratch.com/colors/scion/super-white-2-040/",
+        "source_label": "PaintScratch 2005 Scion",
+        "hex_value": "#FDFDF7"
+      },
+      {
+        "display_name": "Polar White",
+        "paint_code": "068",
+        "slug": "polar-white-068",
+        "reference_url": "https://www.paintscratch.com/colors/scion/polar-white-068/",
+        "source_label": "PaintScratch 2005 Scion",
+        "hex_value": "#FBF9EB"
+      },
+      {
+        "display_name": "Thunder Cloud Metallic",
+        "paint_code": "1D2",
+        "slug": "thunder-cloud-metallic-1d2",
+        "reference_url": "https://www.paintscratch.com/colors/scion/thunder-cloud-metallic-1d2/",
+        "source_label": "PaintScratch 2005 Scion",
+        "hex_value": "#C6C2BA"
+      },
+      {
+        "display_name": "Phantom Gray Metallic",
+        "paint_code": "1E3",
+        "slug": "phantom-gray-metallic-1e3",
+        "reference_url": "https://www.paintscratch.com/colors/scion/phantom-gray-metallic-1e3/",
+        "source_label": "PaintScratch 2005 Scion",
+        "hex_value": "#9E9982"
+      },
+      {
+        "display_name": "Silver Streak Metallic",
+        "paint_code": "1E7",
+        "slug": "silver-streak-metallic-1e7",
+        "reference_url": "https://www.paintscratch.com/colors/scion/silver-streak-metallic-1e7/",
+        "source_label": "PaintScratch 2005 Scion",
+        "hex_value": "#E2DFD0"
+      },
+      {
+        "display_name": "Absolutely Red",
+        "paint_code": "3P0",
+        "slug": "absolutely-red-3p0",
+        "reference_url": "https://www.paintscratch.com/colors/scion/absolutely-red-3p0/",
+        "source_label": "PaintScratch 2005 Scion",
+        "hex_value": "#DB0303"
+      },
+      {
+        "display_name": "Hot Lava",
+        "paint_code": "4R8",
+        "slug": "hot-lava-4r8",
+        "reference_url": "https://www.paintscratch.com/colors/scion/hot-lava-4r8/",
+        "source_label": "PaintScratch 2005 Scion",
+        "hex_value": "#DC7506"
+      },
+      {
+        "display_name": "Camouflage Metallic",
+        "paint_code": "6M7",
+        "slug": "camouflage-metallic-6m7",
+        "reference_url": "https://www.paintscratch.com/colors/scion/camouflage-metallic-6m7/",
+        "source_label": "PaintScratch 2005 Scion",
+        "hex_value": "#838F71"
+      },
+      {
+        "display_name": "Indigo Ink",
+        "paint_code": "8P4",
+        "slug": "indigo-ink-8p4",
+        "reference_url": "https://www.paintscratch.com/colors/scion/indigo-ink-8p4/",
+        "source_label": "PaintScratch 2005 Scion",
+        "hex_value": "#17487F"
+      },
+      {
+        "display_name": "Super Bright Yellow",
+        "paint_code": "576",
+        "slug": "super-bright-yellow-576",
+        "reference_url": "https://www.paintscratch.com/colors/scion/super-bright-yellow-576/",
+        "source_label": "PaintScratch 2005 Scion",
+        "hex_value": "#FFDF31"
+      }
+    ],
+    "2006": [
+      {
+        "display_name": "Black Cherry Pearl",
+        "paint_code": "3P2",
+        "slug": "black-cherry-pearl-3p2",
+        "reference_url": "https://www.paintscratch.com/colors/scion/black-cherry-pearl-3p2/",
+        "source_label": "PaintScratch 2006 Scion",
+        "hex_value": "#661220"
+      },
+      {
+        "display_name": "Light Blue Metallic",
+        "paint_code": "8Q6",
+        "slug": "light-blue-metallic-8q6",
+        "reference_url": "https://www.paintscratch.com/colors/scion/light-blue-metallic-8q6/",
+        "source_label": "PaintScratch 2006 Scion",
+        "hex_value": "#BACAD0"
+      },
+      {
+        "display_name": "Black Sand Pearl",
+        "paint_code": "209",
+        "slug": "black-sand-pearl-209",
+        "reference_url": "https://www.paintscratch.com/colors/scion/black-sand-pearl-209/",
+        "source_label": "PaintScratch 2006 Scion",
+        "hex_value": "#0A1A10"
+      },
+      {
+        "display_name": "Flint Mica",
+        "paint_code": "1E0",
+        "slug": "flint-mica-1e0",
+        "reference_url": "https://www.paintscratch.com/colors/scion/flint-mica-1e0/",
+        "source_label": "PaintScratch 2006 Scion",
+        "hex_value": "#5F6867"
+      },
+      {
+        "display_name": "Shadow Mica",
+        "paint_code": "1F4",
+        "slug": "shadow-mica-1f4",
+        "reference_url": "https://www.paintscratch.com/colors/scion/shadow-mica-1f4/",
+        "source_label": "PaintScratch 2006 Scion",
+        "hex_value": "#29251F"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "1F7",
+        "slug": "silver-metallic-1f7",
+        "reference_url": "https://www.paintscratch.com/colors/scion/silver-metallic-1f7/",
+        "source_label": "PaintScratch 2006 Scion",
+        "hex_value": "#D7D7CB"
+      },
+      {
+        "display_name": "Blue Onyx Pearl",
+        "paint_code": "8P8",
+        "slug": "blue-onyx-pearl-8p8",
+        "reference_url": "https://www.paintscratch.com/colors/scion/blue-onyx-pearl-8p8/",
+        "source_label": "PaintScratch 2006 Scion",
+        "hex_value": "#132C5B"
+      },
+      {
+        "display_name": "Nautical Blue Metallic",
+        "paint_code": "8S6",
+        "slug": "nautical-blue-metallic-8s6",
+        "reference_url": "https://www.paintscratch.com/colors/scion/nautical-blue-metallic-8s6/",
+        "source_label": "PaintScratch 2006 Scion",
+        "hex_value": "#202740"
+      },
+      {
+        "display_name": "Stingray Blue Metallic",
+        "paint_code": "8T4",
+        "slug": "stingray-blue-metallic-8t4",
+        "reference_url": "https://www.paintscratch.com/colors/scion/stingray-blue-metallic-8t4/",
+        "source_label": "PaintScratch 2006 Scion",
+        "hex_value": "#CFCDC9"
+      },
+      {
+        "display_name": "Super White 2",
+        "paint_code": "040",
+        "slug": "super-white-2-040",
+        "reference_url": "https://www.paintscratch.com/colors/scion/super-white-2-040/",
+        "source_label": "PaintScratch 2006 Scion",
+        "hex_value": "#FDFDF7"
+      },
+      {
+        "display_name": "Polar White",
+        "paint_code": "068",
+        "slug": "polar-white-068",
+        "reference_url": "https://www.paintscratch.com/colors/scion/polar-white-068/",
+        "source_label": "PaintScratch 2006 Scion",
+        "hex_value": "#FBF9EB"
+      },
+      {
+        "display_name": "Thunder Cloud Metallic",
+        "paint_code": "1D2",
+        "slug": "thunder-cloud-metallic-1d2",
+        "reference_url": "https://www.paintscratch.com/colors/scion/thunder-cloud-metallic-1d2/",
+        "source_label": "PaintScratch 2006 Scion",
+        "hex_value": "#C6C2BA"
+      },
+      {
+        "display_name": "Phantom Gray Metallic",
+        "paint_code": "1E3",
+        "slug": "phantom-gray-metallic-1e3",
+        "reference_url": "https://www.paintscratch.com/colors/scion/phantom-gray-metallic-1e3/",
+        "source_label": "PaintScratch 2006 Scion",
+        "hex_value": "#9E9982"
+      },
+      {
+        "display_name": "Silver Streak Metallic",
+        "paint_code": "1E7",
+        "slug": "silver-streak-metallic-1e7",
+        "reference_url": "https://www.paintscratch.com/colors/scion/silver-streak-metallic-1e7/",
+        "source_label": "PaintScratch 2006 Scion",
+        "hex_value": "#E2DFD0"
+      },
+      {
+        "display_name": "Salsa Red Metallic",
+        "paint_code": "3Q3",
+        "slug": "salsa-red-metallic-3q3",
+        "reference_url": "https://www.paintscratch.com/colors/scion/salsa-red-metallic-3q3/",
+        "source_label": "PaintScratch 2006 Scion",
+        "hex_value": "#6E0606"
+      },
+      {
+        "display_name": "Agate Brown Metallic",
+        "paint_code": "3R2",
+        "slug": "agate-brown-metallic-3r2",
+        "reference_url": "https://www.paintscratch.com/colors/scion/agate-brown-metallic-3r2/",
+        "source_label": "PaintScratch 2006 Scion",
+        "hex_value": "#AF6D23"
+      }
+    ],
+    "2007": [
+      {
+        "display_name": "Black Cherry Pearl",
+        "paint_code": "3P2",
+        "slug": "black-cherry-pearl-3p2",
+        "reference_url": "https://www.paintscratch.com/colors/scion/black-cherry-pearl-3p2/",
+        "source_label": "PaintScratch 2007 Scion",
+        "hex_value": "#661220"
+      },
+      {
+        "display_name": "Light Blue Metallic",
+        "paint_code": "8Q6",
+        "slug": "light-blue-metallic-8q6",
+        "reference_url": "https://www.paintscratch.com/colors/scion/light-blue-metallic-8q6/",
+        "source_label": "PaintScratch 2007 Scion",
+        "hex_value": "#BACAD0"
+      },
+      {
+        "display_name": "Black Sand Pearl",
+        "paint_code": "209",
+        "slug": "black-sand-pearl-209",
+        "reference_url": "https://www.paintscratch.com/colors/scion/black-sand-pearl-209/",
+        "source_label": "PaintScratch 2007 Scion",
+        "hex_value": "#0A1A10"
+      },
+      {
+        "display_name": "Flint Mica",
+        "paint_code": "1E0",
+        "slug": "flint-mica-1e0",
+        "reference_url": "https://www.paintscratch.com/colors/scion/flint-mica-1e0/",
+        "source_label": "PaintScratch 2007 Scion",
+        "hex_value": "#5F6867"
+      },
+      {
+        "display_name": "Shadow Mica",
+        "paint_code": "1F4",
+        "slug": "shadow-mica-1f4",
+        "reference_url": "https://www.paintscratch.com/colors/scion/shadow-mica-1f4/",
+        "source_label": "PaintScratch 2007 Scion",
+        "hex_value": "#29251F"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "1F7",
+        "slug": "silver-metallic-1f7",
+        "reference_url": "https://www.paintscratch.com/colors/scion/silver-metallic-1f7/",
+        "source_label": "PaintScratch 2007 Scion",
+        "hex_value": "#D7D7CB"
+      },
+      {
+        "display_name": "Blue Onyx Pearl",
+        "paint_code": "8P8",
+        "slug": "blue-onyx-pearl-8p8",
+        "reference_url": "https://www.paintscratch.com/colors/scion/blue-onyx-pearl-8p8/",
+        "source_label": "PaintScratch 2007 Scion",
+        "hex_value": "#132C5B"
+      },
+      {
+        "display_name": "Nautical Blue Metallic",
+        "paint_code": "8S6",
+        "slug": "nautical-blue-metallic-8s6",
+        "reference_url": "https://www.paintscratch.com/colors/scion/nautical-blue-metallic-8s6/",
+        "source_label": "PaintScratch 2007 Scion",
+        "hex_value": "#202740"
+      },
+      {
+        "display_name": "Stingray Blue Metallic",
+        "paint_code": "8T4",
+        "slug": "stingray-blue-metallic-8t4",
+        "reference_url": "https://www.paintscratch.com/colors/scion/stingray-blue-metallic-8t4/",
+        "source_label": "PaintScratch 2007 Scion",
+        "hex_value": "#CFCDC9"
+      },
+      {
+        "display_name": "Super White 2",
+        "paint_code": "040",
+        "slug": "super-white-2-040",
+        "reference_url": "https://www.paintscratch.com/colors/scion/super-white-2-040/",
+        "source_label": "PaintScratch 2007 Scion",
+        "hex_value": "#FDFDF7"
+      },
+      {
+        "display_name": "Polar White",
+        "paint_code": "068",
+        "slug": "polar-white-068",
+        "reference_url": "https://www.paintscratch.com/colors/scion/polar-white-068/",
+        "source_label": "PaintScratch 2007 Scion",
+        "hex_value": "#FBF9EB"
+      },
+      {
+        "display_name": "Thunder Cloud Metallic",
+        "paint_code": "1D2",
+        "slug": "thunder-cloud-metallic-1d2",
+        "reference_url": "https://www.paintscratch.com/colors/scion/thunder-cloud-metallic-1d2/",
+        "source_label": "PaintScratch 2007 Scion",
+        "hex_value": "#C6C2BA"
+      },
+      {
+        "display_name": "Silver Streak Metallic",
+        "paint_code": "1E7",
+        "slug": "silver-streak-metallic-1e7",
+        "reference_url": "https://www.paintscratch.com/colors/scion/silver-streak-metallic-1e7/",
+        "source_label": "PaintScratch 2007 Scion",
+        "hex_value": "#E2DFD0"
+      },
+      {
+        "display_name": "Salsa Red Metallic",
+        "paint_code": "3Q3",
+        "slug": "salsa-red-metallic-3q3",
+        "reference_url": "https://www.paintscratch.com/colors/scion/salsa-red-metallic-3q3/",
+        "source_label": "PaintScratch 2007 Scion",
+        "hex_value": "#6E0606"
+      },
+      {
+        "display_name": "Agate Brown Metallic",
+        "paint_code": "3R2",
+        "slug": "agate-brown-metallic-3r2",
+        "reference_url": "https://www.paintscratch.com/colors/scion/agate-brown-metallic-3r2/",
+        "source_label": "PaintScratch 2007 Scion",
+        "hex_value": "#AF6D23"
+      },
+      {
+        "display_name": "Indigo Ink",
+        "paint_code": "8P4",
+        "slug": "indigo-ink-8p4",
+        "reference_url": "https://www.paintscratch.com/colors/scion/indigo-ink-8p4/",
+        "source_label": "PaintScratch 2007 Scion",
+        "hex_value": "#17487F"
+      }
+    ],
+    "2008": [
+      {
+        "display_name": "Blackish Red Pearl",
+        "paint_code": "3R0",
+        "slug": "blackish-red-pearl-3r0",
+        "reference_url": "https://www.paintscratch.com/colors/scion/blackish-red-pearl-3r0/",
+        "source_label": "PaintScratch 2008 Scion",
+        "hex_value": "#652B2B"
+      },
+      {
+        "display_name": "Black Sand Pearl",
+        "paint_code": "209",
+        "slug": "black-sand-pearl-209",
+        "reference_url": "https://www.paintscratch.com/colors/scion/black-sand-pearl-209/",
+        "source_label": "PaintScratch 2008 Scion",
+        "hex_value": "#0A1A10"
+      },
+      {
+        "display_name": "Flint Mica",
+        "paint_code": "1E0",
+        "slug": "flint-mica-1e0",
+        "reference_url": "https://www.paintscratch.com/colors/scion/flint-mica-1e0/",
+        "source_label": "PaintScratch 2008 Scion",
+        "hex_value": "#5F6867"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "1F7",
+        "slug": "silver-metallic-1f7",
+        "reference_url": "https://www.paintscratch.com/colors/scion/silver-metallic-1f7/",
+        "source_label": "PaintScratch 2008 Scion",
+        "hex_value": "#D7D7CB"
+      },
+      {
+        "display_name": "Magnetic Gray Metallic",
+        "paint_code": "1G3",
+        "slug": "magnetic-gray-metallic-1g3",
+        "reference_url": "https://www.paintscratch.com/colors/scion/magnetic-gray-metallic-1g3/",
+        "source_label": "PaintScratch 2008 Scion",
+        "hex_value": "#7E7A7A"
+      },
+      {
+        "display_name": "Nautical Blue Metallic",
+        "paint_code": "8S6",
+        "slug": "nautical-blue-metallic-8s6",
+        "reference_url": "https://www.paintscratch.com/colors/scion/nautical-blue-metallic-8s6/",
+        "source_label": "PaintScratch 2008 Scion",
+        "hex_value": "#202740"
+      },
+      {
+        "display_name": "Silent Blue Pearl",
+        "paint_code": "8U3",
+        "slug": "silent-blue-pearl-8u3",
+        "reference_url": "https://www.paintscratch.com/colors/scion/silent-blue-pearl-8u3/",
+        "source_label": "PaintScratch 2008 Scion",
+        "hex_value": "#4E6452"
+      },
+      {
+        "display_name": "Super White 2",
+        "paint_code": "040",
+        "slug": "super-white-2-040",
+        "reference_url": "https://www.paintscratch.com/colors/scion/super-white-2-040/",
+        "source_label": "PaintScratch 2008 Scion",
+        "hex_value": "#FDFDF7"
+      },
+      {
+        "display_name": "Phantom Gray Metallic",
+        "paint_code": "1E3",
+        "slug": "phantom-gray-metallic-1e3",
+        "reference_url": "https://www.paintscratch.com/colors/scion/phantom-gray-metallic-1e3/",
+        "source_label": "PaintScratch 2008 Scion",
+        "hex_value": "#9E9982"
+      },
+      {
+        "display_name": "Silver Streak Metallic",
+        "paint_code": "1E7",
+        "slug": "silver-streak-metallic-1e7",
+        "reference_url": "https://www.paintscratch.com/colors/scion/silver-streak-metallic-1e7/",
+        "source_label": "PaintScratch 2008 Scion",
+        "hex_value": "#E2DFD0"
+      },
+      {
+        "display_name": "Galactic Gray Pearl Metallic",
+        "paint_code": "1E9",
+        "slug": "galactic-gray-pearl-metallic-1e9",
+        "reference_url": "https://www.paintscratch.com/colors/scion/galactic-gray-pearl-metallic-1e9/",
+        "source_label": "PaintScratch 2008 Scion",
+        "hex_value": "#716A67"
+      },
+      {
+        "display_name": "Maroon Pearl",
+        "paint_code": "3N0",
+        "slug": "maroon-pearl-3n0",
+        "reference_url": "https://www.paintscratch.com/colors/scion/maroon-pearl-3n0/",
+        "source_label": "PaintScratch 2008 Scion",
+        "hex_value": "#AC1010"
+      },
+      {
+        "display_name": "Barcelona Red Mica Metallic",
+        "paint_code": "3R3",
+        "slug": "barcelona-red-mica-metallic-3r3",
+        "reference_url": "https://www.paintscratch.com/colors/scion/barcelona-red-mica-metallic-3r3/",
+        "source_label": "PaintScratch 2008 Scion",
+        "hex_value": "#7C1010"
+      },
+      {
+        "display_name": "Hot Lava",
+        "paint_code": "4R8",
+        "slug": "hot-lava-4r8",
+        "reference_url": "https://www.paintscratch.com/colors/scion/hot-lava-4r8/",
+        "source_label": "PaintScratch 2008 Scion",
+        "hex_value": "#DC7506"
+      },
+      {
+        "display_name": "Wave Line",
+        "paint_code": "8S7",
+        "slug": "wave-line-8s7",
+        "reference_url": "https://www.paintscratch.com/colors/scion/wave-line-8s7/",
+        "source_label": "PaintScratch 2008 Scion",
+        "hex_value": "#7498B6"
+      },
+      {
+        "display_name": "Dark Blue Metallic",
+        "paint_code": "8T5",
+        "slug": "dark-blue-metallic-8t5",
+        "reference_url": "https://www.paintscratch.com/colors/scion/dark-blue-metallic-8t5/",
+        "source_label": "PaintScratch 2008 Scion",
+        "hex_value": "#132C5B"
+      }
+    ],
+    "2009": [
+      {
+        "display_name": "Blackish Red Pearl",
+        "paint_code": "3R0",
+        "slug": "blackish-red-pearl-3r0",
+        "reference_url": "https://www.paintscratch.com/colors/scion/blackish-red-pearl-3r0/",
+        "source_label": "PaintScratch 2009 Scion",
+        "hex_value": "#652B2B"
+      },
+      {
+        "display_name": "Black Sand Pearl",
+        "paint_code": "209",
+        "slug": "black-sand-pearl-209",
+        "reference_url": "https://www.paintscratch.com/colors/scion/black-sand-pearl-209/",
+        "source_label": "PaintScratch 2009 Scion",
+        "hex_value": "#0A1A10"
+      },
+      {
+        "display_name": "Flint Mica",
+        "paint_code": "1E0",
+        "slug": "flint-mica-1e0",
+        "reference_url": "https://www.paintscratch.com/colors/scion/flint-mica-1e0/",
+        "source_label": "PaintScratch 2009 Scion",
+        "hex_value": "#5F6867"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "1F7",
+        "slug": "silver-metallic-1f7",
+        "reference_url": "https://www.paintscratch.com/colors/scion/silver-metallic-1f7/",
+        "source_label": "PaintScratch 2009 Scion",
+        "hex_value": "#D7D7CB"
+      },
+      {
+        "display_name": "Magnetic Gray Metallic",
+        "paint_code": "1G3",
+        "slug": "magnetic-gray-metallic-1g3",
+        "reference_url": "https://www.paintscratch.com/colors/scion/magnetic-gray-metallic-1g3/",
+        "source_label": "PaintScratch 2009 Scion",
+        "hex_value": "#7E7A7A"
+      },
+      {
+        "display_name": "Nautical Blue Metallic",
+        "paint_code": "8S6",
+        "slug": "nautical-blue-metallic-8s6",
+        "reference_url": "https://www.paintscratch.com/colors/scion/nautical-blue-metallic-8s6/",
+        "source_label": "PaintScratch 2009 Scion",
+        "hex_value": "#202740"
+      },
+      {
+        "display_name": "Stingray Blue Metallic",
+        "paint_code": "8T4",
+        "slug": "stingray-blue-metallic-8t4",
+        "reference_url": "https://www.paintscratch.com/colors/scion/stingray-blue-metallic-8t4/",
+        "source_label": "PaintScratch 2009 Scion",
+        "hex_value": "#CFCDC9"
+      },
+      {
+        "display_name": "Silent Blue Pearl",
+        "paint_code": "8U3",
+        "slug": "silent-blue-pearl-8u3",
+        "reference_url": "https://www.paintscratch.com/colors/scion/silent-blue-pearl-8u3/",
+        "source_label": "PaintScratch 2009 Scion",
+        "hex_value": "#4E6452"
+      },
+      {
+        "display_name": "Super White 2",
+        "paint_code": "040",
+        "slug": "super-white-2-040",
+        "reference_url": "https://www.paintscratch.com/colors/scion/super-white-2-040/",
+        "source_label": "PaintScratch 2009 Scion",
+        "hex_value": "#FDFDF7"
+      },
+      {
+        "display_name": "Silver Streak Metallic",
+        "paint_code": "1E7",
+        "slug": "silver-streak-metallic-1e7",
+        "reference_url": "https://www.paintscratch.com/colors/scion/silver-streak-metallic-1e7/",
+        "source_label": "PaintScratch 2009 Scion",
+        "hex_value": "#E2DFD0"
+      },
+      {
+        "display_name": "Galactic Gray Pearl Metallic",
+        "paint_code": "1E9",
+        "slug": "galactic-gray-pearl-metallic-1e9",
+        "reference_url": "https://www.paintscratch.com/colors/scion/galactic-gray-pearl-metallic-1e9/",
+        "source_label": "PaintScratch 2009 Scion",
+        "hex_value": "#716A67"
+      },
+      {
+        "display_name": "Maroon Pearl",
+        "paint_code": "3N0",
+        "slug": "maroon-pearl-3n0",
+        "reference_url": "https://www.paintscratch.com/colors/scion/maroon-pearl-3n0/",
+        "source_label": "PaintScratch 2009 Scion",
+        "hex_value": "#AC1010"
+      },
+      {
+        "display_name": "Absolutely Red",
+        "paint_code": "3P0",
+        "slug": "absolutely-red-3p0",
+        "reference_url": "https://www.paintscratch.com/colors/scion/absolutely-red-3p0/",
+        "source_label": "PaintScratch 2009 Scion",
+        "hex_value": "#DB0303"
+      },
+      {
+        "display_name": "Barcelona Red Mica Metallic",
+        "paint_code": "3R3",
+        "slug": "barcelona-red-mica-metallic-3r3",
+        "reference_url": "https://www.paintscratch.com/colors/scion/barcelona-red-mica-metallic-3r3/",
+        "source_label": "PaintScratch 2009 Scion",
+        "hex_value": "#7C1010"
+      },
+      {
+        "display_name": "Electric Wasabi Green",
+        "paint_code": "6U5",
+        "slug": "electric-wasabi-green-6u5",
+        "reference_url": "https://www.paintscratch.com/colors/scion/electric-wasabi-green-6u5/",
+        "source_label": "PaintScratch 2009 Scion",
+        "hex_value": "#37B515"
+      },
+      {
+        "display_name": "Wave Line",
+        "paint_code": "8S7",
+        "slug": "wave-line-8s7",
+        "reference_url": "https://www.paintscratch.com/colors/scion/wave-line-8s7/",
+        "source_label": "PaintScratch 2009 Scion",
+        "hex_value": "#7498B6"
+      }
+    ],
+    "2010": [
+      {
+        "display_name": "Blackish Red Pearl",
+        "paint_code": "3R0",
+        "slug": "blackish-red-pearl-3r0",
+        "reference_url": "https://www.paintscratch.com/colors/scion/blackish-red-pearl-3r0/",
+        "source_label": "PaintScratch 2010 Scion",
+        "hex_value": "#652B2B"
+      },
+      {
+        "display_name": "Black Sand Pearl",
+        "paint_code": "209",
+        "slug": "black-sand-pearl-209",
+        "reference_url": "https://www.paintscratch.com/colors/scion/black-sand-pearl-209/",
+        "source_label": "PaintScratch 2010 Scion",
+        "hex_value": "#0A1A10"
+      },
+      {
+        "display_name": "Flint Mica",
+        "paint_code": "1E0",
+        "slug": "flint-mica-1e0",
+        "reference_url": "https://www.paintscratch.com/colors/scion/flint-mica-1e0/",
+        "source_label": "PaintScratch 2010 Scion",
+        "hex_value": "#5F6867"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "1F7",
+        "slug": "silver-metallic-1f7",
+        "reference_url": "https://www.paintscratch.com/colors/scion/silver-metallic-1f7/",
+        "source_label": "PaintScratch 2010 Scion",
+        "hex_value": "#D7D7CB"
+      },
+      {
+        "display_name": "Magnetic Gray Metallic",
+        "paint_code": "1G3",
+        "slug": "magnetic-gray-metallic-1g3",
+        "reference_url": "https://www.paintscratch.com/colors/scion/magnetic-gray-metallic-1g3/",
+        "source_label": "PaintScratch 2010 Scion",
+        "hex_value": "#7E7A7A"
+      },
+      {
+        "display_name": "Nautical Blue Metallic",
+        "paint_code": "8S6",
+        "slug": "nautical-blue-metallic-8s6",
+        "reference_url": "https://www.paintscratch.com/colors/scion/nautical-blue-metallic-8s6/",
+        "source_label": "PaintScratch 2010 Scion",
+        "hex_value": "#202740"
+      },
+      {
+        "display_name": "Stingray Blue Metallic",
+        "paint_code": "8T4",
+        "slug": "stingray-blue-metallic-8t4",
+        "reference_url": "https://www.paintscratch.com/colors/scion/stingray-blue-metallic-8t4/",
+        "source_label": "PaintScratch 2010 Scion",
+        "hex_value": "#CFCDC9"
+      },
+      {
+        "display_name": "Silent Blue Pearl",
+        "paint_code": "8U3",
+        "slug": "silent-blue-pearl-8u3",
+        "reference_url": "https://www.paintscratch.com/colors/scion/silent-blue-pearl-8u3/",
+        "source_label": "PaintScratch 2010 Scion",
+        "hex_value": "#4E6452"
+      },
+      {
+        "display_name": "Super White 2",
+        "paint_code": "040",
+        "slug": "super-white-2-040",
+        "reference_url": "https://www.paintscratch.com/colors/scion/super-white-2-040/",
+        "source_label": "PaintScratch 2010 Scion",
+        "hex_value": "#FDFDF7"
+      },
+      {
+        "display_name": "Silver Streak Metallic",
+        "paint_code": "1E7",
+        "slug": "silver-streak-metallic-1e7",
+        "reference_url": "https://www.paintscratch.com/colors/scion/silver-streak-metallic-1e7/",
+        "source_label": "PaintScratch 2010 Scion",
+        "hex_value": "#E2DFD0"
+      },
+      {
+        "display_name": "Barcelona Red Mica Metallic",
+        "paint_code": "3R3",
+        "slug": "barcelona-red-mica-metallic-3r3",
+        "reference_url": "https://www.paintscratch.com/colors/scion/barcelona-red-mica-metallic-3r3/",
+        "source_label": "PaintScratch 2010 Scion",
+        "hex_value": "#7C1010"
+      },
+      {
+        "display_name": "Speedway Blue Metallic",
+        "paint_code": "8P1",
+        "slug": "speedway-blue-metallic-8p1",
+        "reference_url": "https://www.paintscratch.com/colors/scion/speedway-blue-metallic-8p1/",
+        "source_label": "PaintScratch 2010 Scion",
+        "hex_value": "#396A93"
+      },
+      {
+        "display_name": "Wave Line",
+        "paint_code": "8S7",
+        "slug": "wave-line-8s7",
+        "reference_url": "https://www.paintscratch.com/colors/scion/wave-line-8s7/",
+        "source_label": "PaintScratch 2010 Scion",
+        "hex_value": "#7498B6"
+      },
+      {
+        "display_name": "Murasaki Metallic",
+        "paint_code": "9AD",
+        "slug": "murasaki-metallic-9ad",
+        "reference_url": "https://www.paintscratch.com/colors/scion/murasaki-metallic-9ad/",
+        "source_label": "PaintScratch 2010 Scion",
+        "hex_value": "#597DF3"
+      },
+      {
+        "display_name": "Deep Amethyst Metallic",
+        "paint_code": "9AH",
+        "slug": "deep-amethyst-metallic-9ah",
+        "reference_url": "https://www.paintscratch.com/colors/scion/deep-amethyst-metallic-9ah/",
+        "source_label": "PaintScratch 2010 Scion",
+        "hex_value": "#3D2933"
+      },
+      {
+        "display_name": "Gloss Trim Black",
+        "paint_code": "39063",
+        "slug": "gloss-trim-black-39063",
+        "reference_url": "https://www.paintscratch.com/colors/scion/gloss-trim-black-39063/",
+        "source_label": "PaintScratch 2010 Scion",
+        "hex_value": "#463838"
+      }
+    ],
+    "2011": [
+      {
+        "display_name": "Blackish Red Pearl",
+        "paint_code": "3R0",
+        "slug": "blackish-red-pearl-3r0",
+        "reference_url": "https://www.paintscratch.com/colors/scion/blackish-red-pearl-3r0/",
+        "source_label": "PaintScratch 2011 Scion",
+        "hex_value": "#652B2B"
+      },
+      {
+        "display_name": "Black Sand Pearl",
+        "paint_code": "209",
+        "slug": "black-sand-pearl-209",
+        "reference_url": "https://www.paintscratch.com/colors/scion/black-sand-pearl-209/",
+        "source_label": "PaintScratch 2011 Scion",
+        "hex_value": "#0A1A10"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "1F7",
+        "slug": "silver-metallic-1f7",
+        "reference_url": "https://www.paintscratch.com/colors/scion/silver-metallic-1f7/",
+        "source_label": "PaintScratch 2011 Scion",
+        "hex_value": "#D7D7CB"
+      },
+      {
+        "display_name": "Magnetic Gray Metallic",
+        "paint_code": "1G3",
+        "slug": "magnetic-gray-metallic-1g3",
+        "reference_url": "https://www.paintscratch.com/colors/scion/magnetic-gray-metallic-1g3/",
+        "source_label": "PaintScratch 2011 Scion",
+        "hex_value": "#7E7A7A"
+      },
+      {
+        "display_name": "Army Rock Metallic",
+        "paint_code": "4V0",
+        "slug": "army-rock-metallic-4v0",
+        "reference_url": "https://www.paintscratch.com/colors/scion/army-rock-metallic-4v0/",
+        "source_label": "PaintScratch 2011 Scion",
+        "hex_value": "#747C62"
+      },
+      {
+        "display_name": "Nautical Blue Metallic",
+        "paint_code": "8S6",
+        "slug": "nautical-blue-metallic-8s6",
+        "reference_url": "https://www.paintscratch.com/colors/scion/nautical-blue-metallic-8s6/",
+        "source_label": "PaintScratch 2011 Scion",
+        "hex_value": "#202740"
+      },
+      {
+        "display_name": "Stingray Blue Metallic",
+        "paint_code": "8T4",
+        "slug": "stingray-blue-metallic-8t4",
+        "reference_url": "https://www.paintscratch.com/colors/scion/stingray-blue-metallic-8t4/",
+        "source_label": "PaintScratch 2011 Scion",
+        "hex_value": "#CFCDC9"
+      },
+      {
+        "display_name": "Super White 2",
+        "paint_code": "040",
+        "slug": "super-white-2-040",
+        "reference_url": "https://www.paintscratch.com/colors/scion/super-white-2-040/",
+        "source_label": "PaintScratch 2011 Scion",
+        "hex_value": "#FDFDF7"
+      },
+      {
+        "display_name": "Cement Gray Metallic",
+        "paint_code": "1H5",
+        "slug": "cement-gray-metallic-1h5",
+        "reference_url": "https://www.paintscratch.com/colors/scion/cement-gray-metallic-1h5/",
+        "source_label": "PaintScratch 2011 Scion",
+        "hex_value": "#807E7A"
+      },
+      {
+        "display_name": "Barcelona Red Mica Metallic",
+        "paint_code": "3R3",
+        "slug": "barcelona-red-mica-metallic-3r3",
+        "reference_url": "https://www.paintscratch.com/colors/scion/barcelona-red-mica-metallic-3r3/",
+        "source_label": "PaintScratch 2011 Scion",
+        "hex_value": "#7C1010"
+      },
+      {
+        "display_name": "Hot Lava",
+        "paint_code": "4R8",
+        "slug": "hot-lava-4r8",
+        "reference_url": "https://www.paintscratch.com/colors/scion/hot-lava-4r8/",
+        "source_label": "PaintScratch 2011 Scion",
+        "hex_value": "#DC7506"
+      },
+      {
+        "display_name": "Dark Green Metallic",
+        "paint_code": "6V2",
+        "slug": "dark-green-metallic-6v2",
+        "reference_url": "https://www.paintscratch.com/colors/scion/dark-green-metallic-6v2/",
+        "source_label": "PaintScratch 2011 Scion",
+        "hex_value": "#42542E"
+      },
+      {
+        "display_name": "Pacific Blue Metallic",
+        "paint_code": "8R3",
+        "slug": "pacific-blue-metallic-8r3",
+        "reference_url": "https://www.paintscratch.com/colors/scion/pacific-blue-metallic-8r3/",
+        "source_label": "PaintScratch 2011 Scion",
+        "hex_value": "#899CA7"
+      },
+      {
+        "display_name": "Voodoo Blue",
+        "paint_code": "8T6",
+        "slug": "voodoo-blue-8t6",
+        "reference_url": "https://www.paintscratch.com/colors/scion/voodoo-blue-8t6/",
+        "source_label": "PaintScratch 2011 Scion",
+        "hex_value": "#3F70A3"
+      },
+      {
+        "display_name": "Dark Violet Metallic",
+        "paint_code": "9AF",
+        "slug": "dark-violet-metallic-9af",
+        "reference_url": "https://www.paintscratch.com/colors/scion/dark-violet-metallic-9af/",
+        "source_label": "PaintScratch 2011 Scion",
+        "hex_value": "#694D73"
+      },
+      {
+        "display_name": "Deep Amethyst Metallic",
+        "paint_code": "9AH",
+        "slug": "deep-amethyst-metallic-9ah",
+        "reference_url": "https://www.paintscratch.com/colors/scion/deep-amethyst-metallic-9ah/",
+        "source_label": "PaintScratch 2011 Scion",
+        "hex_value": "#3D2933"
+      }
+    ],
+    "2012": [
+      {
+        "display_name": "Blackish Red Pearl",
+        "paint_code": "3R0",
+        "slug": "blackish-red-pearl-3r0",
+        "reference_url": "https://www.paintscratch.com/colors/scion/blackish-red-pearl-3r0/",
+        "source_label": "PaintScratch 2012 Scion",
+        "hex_value": "#652B2B"
+      },
+      {
+        "display_name": "Black Sand Pearl",
+        "paint_code": "209",
+        "slug": "black-sand-pearl-209",
+        "reference_url": "https://www.paintscratch.com/colors/scion/black-sand-pearl-209/",
+        "source_label": "PaintScratch 2012 Scion",
+        "hex_value": "#0A1A10"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "1F7",
+        "slug": "silver-metallic-1f7",
+        "reference_url": "https://www.paintscratch.com/colors/scion/silver-metallic-1f7/",
+        "source_label": "PaintScratch 2012 Scion",
+        "hex_value": "#D7D7CB"
+      },
+      {
+        "display_name": "Magnetic Gray Metallic",
+        "paint_code": "1G3",
+        "slug": "magnetic-gray-metallic-1g3",
+        "reference_url": "https://www.paintscratch.com/colors/scion/magnetic-gray-metallic-1g3/",
+        "source_label": "PaintScratch 2012 Scion",
+        "hex_value": "#7E7A7A"
+      },
+      {
+        "display_name": "Army Rock Metallic",
+        "paint_code": "4V0",
+        "slug": "army-rock-metallic-4v0",
+        "reference_url": "https://www.paintscratch.com/colors/scion/army-rock-metallic-4v0/",
+        "source_label": "PaintScratch 2012 Scion",
+        "hex_value": "#747C62"
+      },
+      {
+        "display_name": "Nautical Blue Metallic",
+        "paint_code": "8S6",
+        "slug": "nautical-blue-metallic-8s6",
+        "reference_url": "https://www.paintscratch.com/colors/scion/nautical-blue-metallic-8s6/",
+        "source_label": "PaintScratch 2012 Scion",
+        "hex_value": "#202740"
+      },
+      {
+        "display_name": "Stingray Blue Metallic",
+        "paint_code": "8T4",
+        "slug": "stingray-blue-metallic-8t4",
+        "reference_url": "https://www.paintscratch.com/colors/scion/stingray-blue-metallic-8t4/",
+        "source_label": "PaintScratch 2012 Scion",
+        "hex_value": "#CFCDC9"
+      },
+      {
+        "display_name": "Super White 2",
+        "paint_code": "040",
+        "slug": "super-white-2-040",
+        "reference_url": "https://www.paintscratch.com/colors/scion/super-white-2-040/",
+        "source_label": "PaintScratch 2012 Scion",
+        "hex_value": "#FDFDF7"
+      },
+      {
+        "display_name": "Cement Gray Metallic",
+        "paint_code": "1H5",
+        "slug": "cement-gray-metallic-1h5",
+        "reference_url": "https://www.paintscratch.com/colors/scion/cement-gray-metallic-1h5/",
+        "source_label": "PaintScratch 2012 Scion",
+        "hex_value": "#807E7A"
+      },
+      {
+        "display_name": "Barcelona Red Mica Metallic",
+        "paint_code": "3R3",
+        "slug": "barcelona-red-mica-metallic-3r3",
+        "reference_url": "https://www.paintscratch.com/colors/scion/barcelona-red-mica-metallic-3r3/",
+        "source_label": "PaintScratch 2012 Scion",
+        "hex_value": "#7C1010"
+      },
+      {
+        "display_name": "Hot Lava",
+        "paint_code": "4R8",
+        "slug": "hot-lava-4r8",
+        "reference_url": "https://www.paintscratch.com/colors/scion/hot-lava-4r8/",
+        "source_label": "PaintScratch 2012 Scion",
+        "hex_value": "#DC7506"
+      },
+      {
+        "display_name": "Sun Fusion",
+        "paint_code": "5A3",
+        "slug": "sun-fusion-5a3",
+        "reference_url": "https://www.paintscratch.com/colors/scion/sun-fusion-5a3/",
+        "source_label": "PaintScratch 2012 Scion",
+        "hex_value": "#FFFF00"
+      },
+      {
+        "display_name": "Dark Green Metallic",
+        "paint_code": "6V2",
+        "slug": "dark-green-metallic-6v2",
+        "reference_url": "https://www.paintscratch.com/colors/scion/dark-green-metallic-6v2/",
+        "source_label": "PaintScratch 2012 Scion",
+        "hex_value": "#42542E"
+      },
+      {
+        "display_name": "Pacific Blue Metallic",
+        "paint_code": "8R3",
+        "slug": "pacific-blue-metallic-8r3",
+        "reference_url": "https://www.paintscratch.com/colors/scion/pacific-blue-metallic-8r3/",
+        "source_label": "PaintScratch 2012 Scion",
+        "hex_value": "#899CA7"
+      },
+      {
+        "display_name": "Murasaki Metallic",
+        "paint_code": "9AD",
+        "slug": "murasaki-metallic-9ad",
+        "reference_url": "https://www.paintscratch.com/colors/scion/murasaki-metallic-9ad/",
+        "source_label": "PaintScratch 2012 Scion",
+        "hex_value": "#597DF3"
+      },
+      {
+        "display_name": "Dark Violet Metallic",
+        "paint_code": "9AF",
+        "slug": "dark-violet-metallic-9af",
+        "reference_url": "https://www.paintscratch.com/colors/scion/dark-violet-metallic-9af/",
+        "source_label": "PaintScratch 2012 Scion",
+        "hex_value": "#694D73"
+      }
+    ],
+    "2013": [
+      {
+        "display_name": "Firestorm Red",
+        "paint_code": "C7P",
+        "slug": "firestorm-red-c7p",
+        "reference_url": "https://www.paintscratch.com/colors/scion/firestorm-red-c7p/",
+        "source_label": "PaintScratch 2013 Scion",
+        "hex_value": "#BA1410"
+      },
+      {
+        "display_name": "Blackish Red Pearl",
+        "paint_code": "3R0",
+        "slug": "blackish-red-pearl-3r0",
+        "reference_url": "https://www.paintscratch.com/colors/scion/blackish-red-pearl-3r0/",
+        "source_label": "PaintScratch 2013 Scion",
+        "hex_value": "#652B2B"
+      },
+      {
+        "display_name": "Whiteout Tricoat",
+        "paint_code": "37J",
+        "slug": "whiteout-tricoat-37j",
+        "reference_url": "https://www.paintscratch.com/colors/scion/whiteout-tricoat-37j/",
+        "source_label": "PaintScratch 2013 Scion",
+        "hex_value": "#EBEAE7"
+      },
+      {
+        "display_name": "Black Sand Pearl",
+        "paint_code": "209",
+        "slug": "black-sand-pearl-209",
+        "reference_url": "https://www.paintscratch.com/colors/scion/black-sand-pearl-209/",
+        "source_label": "PaintScratch 2013 Scion",
+        "hex_value": "#0A1A10"
+      },
+      {
+        "display_name": "Silver Ignition",
+        "paint_code": "J8A",
+        "slug": "silver-ignition-j8a",
+        "reference_url": "https://www.paintscratch.com/colors/scion/silver-ignition-j8a/",
+        "source_label": "PaintScratch 2013 Scion",
+        "hex_value": "#CAD1D8"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "1F7",
+        "slug": "silver-metallic-1f7",
+        "reference_url": "https://www.paintscratch.com/colors/scion/silver-metallic-1f7/",
+        "source_label": "PaintScratch 2013 Scion",
+        "hex_value": "#D7D7CB"
+      },
+      {
+        "display_name": "Magnetic Gray Metallic",
+        "paint_code": "1G3",
+        "slug": "magnetic-gray-metallic-1g3",
+        "reference_url": "https://www.paintscratch.com/colors/scion/magnetic-gray-metallic-1g3/",
+        "source_label": "PaintScratch 2013 Scion",
+        "hex_value": "#7E7A7A"
+      },
+      {
+        "display_name": "Army Rock Metallic",
+        "paint_code": "4V0",
+        "slug": "army-rock-metallic-4v0",
+        "reference_url": "https://www.paintscratch.com/colors/scion/army-rock-metallic-4v0/",
+        "source_label": "PaintScratch 2013 Scion",
+        "hex_value": "#747C62"
+      },
+      {
+        "display_name": "Nautical Blue Metallic",
+        "paint_code": "8S6",
+        "slug": "nautical-blue-metallic-8s6",
+        "reference_url": "https://www.paintscratch.com/colors/scion/nautical-blue-metallic-8s6/",
+        "source_label": "PaintScratch 2013 Scion",
+        "hex_value": "#202740"
+      },
+      {
+        "display_name": "Blue Streak Metallic",
+        "paint_code": "8T7",
+        "slug": "blue-streak-metallic-8t7",
+        "reference_url": "https://www.paintscratch.com/colors/scion/blue-streak-metallic-8t7/",
+        "source_label": "PaintScratch 2013 Scion",
+        "hex_value": "#266478"
+      },
+      {
+        "display_name": "Super White 2",
+        "paint_code": "040",
+        "slug": "super-white-2-040",
+        "reference_url": "https://www.paintscratch.com/colors/scion/super-white-2-040/",
+        "source_label": "PaintScratch 2013 Scion",
+        "hex_value": "#FDFDF7"
+      },
+      {
+        "display_name": "Asphalt Gray Metallic",
+        "paint_code": "61K",
+        "slug": "asphalt-gray-metallic-61k",
+        "reference_url": "https://www.paintscratch.com/colors/scion/asphalt-gray-metallic-61k/",
+        "source_label": "PaintScratch 2013 Scion",
+        "hex_value": "#494839"
+      },
+      {
+        "display_name": "Hot Lava Metallic",
+        "paint_code": "H8R",
+        "slug": "hot-lava-metallic-h8r",
+        "reference_url": "https://www.paintscratch.com/colors/scion/hot-lava-metallic-h8r/",
+        "source_label": "PaintScratch 2013 Scion",
+        "hex_value": "#F77B17"
+      },
+      {
+        "display_name": "Cement Grey",
+        "paint_code": "1B5",
+        "slug": "cement-grey-1b5",
+        "reference_url": "https://www.paintscratch.com/colors/scion/cement-grey-1b5/",
+        "source_label": "PaintScratch 2013 Scion",
+        "hex_value": "#9BA5C5"
+      },
+      {
+        "display_name": "Cement Gray Metallic",
+        "paint_code": "1H5",
+        "slug": "cement-gray-metallic-1h5",
+        "reference_url": "https://www.paintscratch.com/colors/scion/cement-gray-metallic-1h5/",
+        "source_label": "PaintScratch 2013 Scion",
+        "hex_value": "#807E7A"
+      },
+      {
+        "display_name": "Silver Ignition",
+        "paint_code": "1J8",
+        "slug": "silver-ignition-1j8",
+        "reference_url": "https://www.paintscratch.com/colors/scion/silver-ignition-1j8/",
+        "source_label": "PaintScratch 2013 Scion",
+        "hex_value": "#C0C0C0"
+      }
+    ],
+    "2014": [
+      {
+        "display_name": "Firestorm Red",
+        "paint_code": "C7P",
+        "slug": "firestorm-red-c7p",
+        "reference_url": "https://www.paintscratch.com/colors/scion/firestorm-red-c7p/",
+        "source_label": "PaintScratch 2014 Scion",
+        "hex_value": "#BA1410"
+      },
+      {
+        "display_name": "Blackish Red Pearl",
+        "paint_code": "3R0",
+        "slug": "blackish-red-pearl-3r0",
+        "reference_url": "https://www.paintscratch.com/colors/scion/blackish-red-pearl-3r0/",
+        "source_label": "PaintScratch 2014 Scion",
+        "hex_value": "#652B2B"
+      },
+      {
+        "display_name": "Whiteout Tricoat",
+        "paint_code": "37J",
+        "slug": "whiteout-tricoat-37j",
+        "reference_url": "https://www.paintscratch.com/colors/scion/whiteout-tricoat-37j/",
+        "source_label": "PaintScratch 2014 Scion",
+        "hex_value": "#EBEAE7"
+      },
+      {
+        "display_name": "Black Sand Pearl",
+        "paint_code": "209",
+        "slug": "black-sand-pearl-209",
+        "reference_url": "https://www.paintscratch.com/colors/scion/black-sand-pearl-209/",
+        "source_label": "PaintScratch 2014 Scion",
+        "hex_value": "#0A1A10"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "1F7",
+        "slug": "silver-metallic-1f7",
+        "reference_url": "https://www.paintscratch.com/colors/scion/silver-metallic-1f7/",
+        "source_label": "PaintScratch 2014 Scion",
+        "hex_value": "#D7D7CB"
+      },
+      {
+        "display_name": "Magnetic Gray Metallic",
+        "paint_code": "1G3",
+        "slug": "magnetic-gray-metallic-1g3",
+        "reference_url": "https://www.paintscratch.com/colors/scion/magnetic-gray-metallic-1g3/",
+        "source_label": "PaintScratch 2014 Scion",
+        "hex_value": "#7E7A7A"
+      },
+      {
+        "display_name": "Army Rock Metallic",
+        "paint_code": "4V0",
+        "slug": "army-rock-metallic-4v0",
+        "reference_url": "https://www.paintscratch.com/colors/scion/army-rock-metallic-4v0/",
+        "source_label": "PaintScratch 2014 Scion",
+        "hex_value": "#747C62"
+      },
+      {
+        "display_name": "Nautical Blue Metallic",
+        "paint_code": "8S6",
+        "slug": "nautical-blue-metallic-8s6",
+        "reference_url": "https://www.paintscratch.com/colors/scion/nautical-blue-metallic-8s6/",
+        "source_label": "PaintScratch 2014 Scion",
+        "hex_value": "#202740"
+      },
+      {
+        "display_name": "Blue Streak Metallic",
+        "paint_code": "8T7",
+        "slug": "blue-streak-metallic-8t7",
+        "reference_url": "https://www.paintscratch.com/colors/scion/blue-streak-metallic-8t7/",
+        "source_label": "PaintScratch 2014 Scion",
+        "hex_value": "#266478"
+      },
+      {
+        "display_name": "Super White 2",
+        "paint_code": "040",
+        "slug": "super-white-2-040",
+        "reference_url": "https://www.paintscratch.com/colors/scion/super-white-2-040/",
+        "source_label": "PaintScratch 2014 Scion",
+        "hex_value": "#FDFDF7"
+      },
+      {
+        "display_name": "Asphalt Gray Metallic",
+        "paint_code": "61K",
+        "slug": "asphalt-gray-metallic-61k",
+        "reference_url": "https://www.paintscratch.com/colors/scion/asphalt-gray-metallic-61k/",
+        "source_label": "PaintScratch 2014 Scion",
+        "hex_value": "#494839"
+      },
+      {
+        "display_name": "Hot Lava Metallic",
+        "paint_code": "H8R",
+        "slug": "hot-lava-metallic-h8r",
+        "reference_url": "https://www.paintscratch.com/colors/scion/hot-lava-metallic-h8r/",
+        "source_label": "PaintScratch 2014 Scion",
+        "hex_value": "#F77B17"
+      },
+      {
+        "display_name": "Cement Gray Metallic",
+        "paint_code": "1H5",
+        "slug": "cement-gray-metallic-1h5",
+        "reference_url": "https://www.paintscratch.com/colors/scion/cement-gray-metallic-1h5/",
+        "source_label": "PaintScratch 2014 Scion",
+        "hex_value": "#807E7A"
+      },
+      {
+        "display_name": "Silver Ignition",
+        "paint_code": "1J8",
+        "slug": "silver-ignition-1j8",
+        "reference_url": "https://www.paintscratch.com/colors/scion/silver-ignition-1j8/",
+        "source_label": "PaintScratch 2014 Scion",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Absolutely Red",
+        "paint_code": "3P0",
+        "slug": "absolutely-red-3p0",
+        "reference_url": "https://www.paintscratch.com/colors/scion/absolutely-red-3p0/",
+        "source_label": "PaintScratch 2014 Scion",
+        "hex_value": "#DB0303"
+      },
+      {
+        "display_name": "Barcelona Red Mica Metallic",
+        "paint_code": "3R3",
+        "slug": "barcelona-red-mica-metallic-3r3",
+        "reference_url": "https://www.paintscratch.com/colors/scion/barcelona-red-mica-metallic-3r3/",
+        "source_label": "PaintScratch 2014 Scion",
+        "hex_value": "#7C1010"
+      }
+    ],
+    "2015": [
+      {
+        "display_name": "Firestorm Red",
+        "paint_code": "C7P",
+        "slug": "firestorm-red-c7p",
+        "reference_url": "https://www.paintscratch.com/colors/scion/firestorm-red-c7p/",
+        "source_label": "PaintScratch 2015 Scion",
+        "hex_value": "#BA1410"
+      },
+      {
+        "display_name": "Blackish Red Pearl",
+        "paint_code": "3R0",
+        "slug": "blackish-red-pearl-3r0",
+        "reference_url": "https://www.paintscratch.com/colors/scion/blackish-red-pearl-3r0/",
+        "source_label": "PaintScratch 2015 Scion",
+        "hex_value": "#652B2B"
+      },
+      {
+        "display_name": "Black Sand Pearl",
+        "paint_code": "209",
+        "slug": "black-sand-pearl-209",
+        "reference_url": "https://www.paintscratch.com/colors/scion/black-sand-pearl-209/",
+        "source_label": "PaintScratch 2015 Scion",
+        "hex_value": "#0A1A10"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "1F7",
+        "slug": "silver-metallic-1f7",
+        "reference_url": "https://www.paintscratch.com/colors/scion/silver-metallic-1f7/",
+        "source_label": "PaintScratch 2015 Scion",
+        "hex_value": "#D7D7CB"
+      },
+      {
+        "display_name": "Magnetic Gray Metallic",
+        "paint_code": "1G3",
+        "slug": "magnetic-gray-metallic-1g3",
+        "reference_url": "https://www.paintscratch.com/colors/scion/magnetic-gray-metallic-1g3/",
+        "source_label": "PaintScratch 2015 Scion",
+        "hex_value": "#7E7A7A"
+      },
+      {
+        "display_name": "Army Rock Metallic",
+        "paint_code": "4V0",
+        "slug": "army-rock-metallic-4v0",
+        "reference_url": "https://www.paintscratch.com/colors/scion/army-rock-metallic-4v0/",
+        "source_label": "PaintScratch 2015 Scion",
+        "hex_value": "#747C62"
+      },
+      {
+        "display_name": "Nautical Blue Metallic",
+        "paint_code": "8S6",
+        "slug": "nautical-blue-metallic-8s6",
+        "reference_url": "https://www.paintscratch.com/colors/scion/nautical-blue-metallic-8s6/",
+        "source_label": "PaintScratch 2015 Scion",
+        "hex_value": "#202740"
+      },
+      {
+        "display_name": "Blue Streak Metallic",
+        "paint_code": "8T7",
+        "slug": "blue-streak-metallic-8t7",
+        "reference_url": "https://www.paintscratch.com/colors/scion/blue-streak-metallic-8t7/",
+        "source_label": "PaintScratch 2015 Scion",
+        "hex_value": "#266478"
+      },
+      {
+        "display_name": "Super White 2",
+        "paint_code": "040",
+        "slug": "super-white-2-040",
+        "reference_url": "https://www.paintscratch.com/colors/scion/super-white-2-040/",
+        "source_label": "PaintScratch 2015 Scion",
+        "hex_value": "#FDFDF7"
+      },
+      {
+        "display_name": "Asphalt Gray Metallic",
+        "paint_code": "61K",
+        "slug": "asphalt-gray-metallic-61k",
+        "reference_url": "https://www.paintscratch.com/colors/scion/asphalt-gray-metallic-61k/",
+        "source_label": "PaintScratch 2015 Scion",
+        "hex_value": "#494839"
+      },
+      {
+        "display_name": "Hot Lava Metallic",
+        "paint_code": "H8R",
+        "slug": "hot-lava-metallic-h8r",
+        "reference_url": "https://www.paintscratch.com/colors/scion/hot-lava-metallic-h8r/",
+        "source_label": "PaintScratch 2015 Scion",
+        "hex_value": "#F77B17"
+      },
+      {
+        "display_name": "Dark Steel Pearl",
+        "paint_code": "1H2",
+        "slug": "dark-steel-pearl-1h2",
+        "reference_url": "https://www.paintscratch.com/colors/scion/dark-steel-pearl-1h2/",
+        "source_label": "PaintScratch 2015 Scion",
+        "hex_value": "#3B3433"
+      },
+      {
+        "display_name": "Cement Gray Metallic",
+        "paint_code": "1H5",
+        "slug": "cement-gray-metallic-1h5",
+        "reference_url": "https://www.paintscratch.com/colors/scion/cement-gray-metallic-1h5/",
+        "source_label": "PaintScratch 2015 Scion",
+        "hex_value": "#807E7A"
+      },
+      {
+        "display_name": "Absolutely Red",
+        "paint_code": "3P0",
+        "slug": "absolutely-red-3p0",
+        "reference_url": "https://www.paintscratch.com/colors/scion/absolutely-red-3p0/",
+        "source_label": "PaintScratch 2015 Scion",
+        "hex_value": "#DB0303"
+      },
+      {
+        "display_name": "Hot Lava",
+        "paint_code": "4R8",
+        "slug": "hot-lava-4r8",
+        "reference_url": "https://www.paintscratch.com/colors/scion/hot-lava-4r8/",
+        "source_label": "PaintScratch 2015 Scion",
+        "hex_value": "#DC7506"
+      },
+      {
+        "display_name": "Orange",
+        "paint_code": "4W2",
+        "slug": "orange-4w2",
+        "reference_url": "https://www.paintscratch.com/colors/scion/orange-4w2/",
+        "source_label": "PaintScratch 2015 Scion",
+        "hex_value": "#DD8109"
+      }
+    ],
+    "2016": [
+      {
+        "display_name": "Black Sand Pearl",
+        "paint_code": "209",
+        "slug": "black-sand-pearl-209",
+        "reference_url": "https://www.paintscratch.com/colors/scion/black-sand-pearl-209/",
+        "source_label": "PaintScratch 2016 Scion",
+        "hex_value": "#0A1A10"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "1F7",
+        "slug": "silver-metallic-1f7",
+        "reference_url": "https://www.paintscratch.com/colors/scion/silver-metallic-1f7/",
+        "source_label": "PaintScratch 2016 Scion",
+        "hex_value": "#D7D7CB"
+      },
+      {
+        "display_name": "Magnetic Gray Metallic",
+        "paint_code": "1G3",
+        "slug": "magnetic-gray-metallic-1g3",
+        "reference_url": "https://www.paintscratch.com/colors/scion/magnetic-gray-metallic-1g3/",
+        "source_label": "PaintScratch 2016 Scion",
+        "hex_value": "#7E7A7A"
+      },
+      {
+        "display_name": "Blue Streak Metallic",
+        "paint_code": "8T7",
+        "slug": "blue-streak-metallic-8t7",
+        "reference_url": "https://www.paintscratch.com/colors/scion/blue-streak-metallic-8t7/",
+        "source_label": "PaintScratch 2016 Scion",
+        "hex_value": "#266478"
+      },
+      {
+        "display_name": "Asphalt Gray Metallic",
+        "paint_code": "61K",
+        "slug": "asphalt-gray-metallic-61k",
+        "reference_url": "https://www.paintscratch.com/colors/scion/asphalt-gray-metallic-61k/",
+        "source_label": "PaintScratch 2016 Scion",
+        "hex_value": "#494839"
+      },
+      {
+        "display_name": "Hot Lava Metallic",
+        "paint_code": "H8R",
+        "slug": "hot-lava-metallic-h8r",
+        "reference_url": "https://www.paintscratch.com/colors/scion/hot-lava-metallic-h8r/",
+        "source_label": "PaintScratch 2016 Scion",
+        "hex_value": "#F77B17"
+      },
+      {
+        "display_name": "Cement Gray Metallic",
+        "paint_code": "1H5",
+        "slug": "cement-gray-metallic-1h5",
+        "reference_url": "https://www.paintscratch.com/colors/scion/cement-gray-metallic-1h5/",
+        "source_label": "PaintScratch 2016 Scion",
+        "hex_value": "#807E7A"
+      },
+      {
+        "display_name": "Mercury Gray Metallic",
+        "paint_code": "1H9",
+        "slug": "mercury-gray-metallic-1h9",
+        "reference_url": "https://www.paintscratch.com/colors/scion/mercury-gray-metallic-1h9/",
+        "source_label": "PaintScratch 2016 Scion",
+        "hex_value": "#48433A"
+      },
+      {
+        "display_name": "Sonic Titanium Metallic",
+        "paint_code": "1J7",
+        "slug": "sonic-titanium-metallic-1j7",
+        "reference_url": "https://www.paintscratch.com/colors/scion/sonic-titanium-metallic-1j7/",
+        "source_label": "PaintScratch 2016 Scion",
+        "hex_value": "#77726F"
+      },
+      {
+        "display_name": "Absolutely Red",
+        "paint_code": "3P0",
+        "slug": "absolutely-red-3p0",
+        "reference_url": "https://www.paintscratch.com/colors/scion/absolutely-red-3p0/",
+        "source_label": "PaintScratch 2016 Scion",
+        "hex_value": "#DB0303"
+      },
+      {
+        "display_name": "Barcelona Red Mica Metallic",
+        "paint_code": "3R3",
+        "slug": "barcelona-red-mica-metallic-3r3",
+        "reference_url": "https://www.paintscratch.com/colors/scion/barcelona-red-mica-metallic-3r3/",
+        "source_label": "PaintScratch 2016 Scion",
+        "hex_value": "#7C1010"
+      },
+      {
+        "display_name": "Spring Green Metallic",
+        "paint_code": "6W2",
+        "slug": "spring-green-metallic-6w2",
+        "reference_url": "https://www.paintscratch.com/colors/scion/spring-green-metallic-6w2/",
+        "source_label": "PaintScratch 2016 Scion",
+        "hex_value": "#D2EC82"
+      },
+      {
+        "display_name": "Electric Storm Blue",
+        "paint_code": "8X7",
+        "slug": "electric-storm-blue-8x7",
+        "reference_url": "https://www.paintscratch.com/colors/scion/electric-storm-blue-8x7/",
+        "source_label": "PaintScratch 2016 Scion",
+        "hex_value": "#597DF3"
+      },
+      {
+        "display_name": "Pulse",
+        "paint_code": "41G",
+        "slug": "pulse-41g",
+        "reference_url": "https://www.paintscratch.com/colors/scion/pulse-41g/",
+        "source_label": "PaintScratch 2016 Scion",
+        "hex_value": "#B71407"
+      },
+      {
+        "display_name": "Stealth",
+        "paint_code": "41W",
+        "slug": "stealth-41w",
+        "reference_url": "https://www.paintscratch.com/colors/scion/stealth-41w/",
+        "source_label": "PaintScratch 2016 Scion",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Graphite",
+        "paint_code": "42A",
+        "slug": "graphite-42a",
+        "reference_url": "https://www.paintscratch.com/colors/scion/graphite-42a/",
+        "source_label": "PaintScratch 2016 Scion",
+        "hex_value": "#595959"
+      }
+    ],
+    "2017": [
+      {
+        "display_name": "Black Sand Pearl",
+        "paint_code": "209",
+        "slug": "black-sand-pearl-209",
+        "reference_url": "https://www.paintscratch.com/colors/scion/black-sand-pearl-209/",
+        "source_label": "PaintScratch 2017 Scion",
+        "hex_value": "#0A1A10"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "1F7",
+        "slug": "silver-metallic-1f7",
+        "reference_url": "https://www.paintscratch.com/colors/scion/silver-metallic-1f7/",
+        "source_label": "PaintScratch 2017 Scion",
+        "hex_value": "#D7D7CB"
+      },
+      {
+        "display_name": "Magnetic Gray Metallic",
+        "paint_code": "1G3",
+        "slug": "magnetic-gray-metallic-1g3",
+        "reference_url": "https://www.paintscratch.com/colors/scion/magnetic-gray-metallic-1g3/",
+        "source_label": "PaintScratch 2017 Scion",
+        "hex_value": "#7E7A7A"
+      },
+      {
+        "display_name": "Blue Streak Metallic",
+        "paint_code": "8T7",
+        "slug": "blue-streak-metallic-8t7",
+        "reference_url": "https://www.paintscratch.com/colors/scion/blue-streak-metallic-8t7/",
+        "source_label": "PaintScratch 2017 Scion",
+        "hex_value": "#266478"
+      },
+      {
+        "display_name": "Asphalt Gray Metallic",
+        "paint_code": "61K",
+        "slug": "asphalt-gray-metallic-61k",
+        "reference_url": "https://www.paintscratch.com/colors/scion/asphalt-gray-metallic-61k/",
+        "source_label": "PaintScratch 2017 Scion",
+        "hex_value": "#494839"
+      },
+      {
+        "display_name": "Hot Lava Metallic",
+        "paint_code": "H8R",
+        "slug": "hot-lava-metallic-h8r",
+        "reference_url": "https://www.paintscratch.com/colors/scion/hot-lava-metallic-h8r/",
+        "source_label": "PaintScratch 2017 Scion",
+        "hex_value": "#F77B17"
+      },
+      {
+        "display_name": "Mercury Gray Metallic",
+        "paint_code": "1H9",
+        "slug": "mercury-gray-metallic-1h9",
+        "reference_url": "https://www.paintscratch.com/colors/scion/mercury-gray-metallic-1h9/",
+        "source_label": "PaintScratch 2017 Scion",
+        "hex_value": "#48433A"
+      },
+      {
+        "display_name": "Sonic Titanium Metallic",
+        "paint_code": "1J7",
+        "slug": "sonic-titanium-metallic-1j7",
+        "reference_url": "https://www.paintscratch.com/colors/scion/sonic-titanium-metallic-1j7/",
+        "source_label": "PaintScratch 2017 Scion",
+        "hex_value": "#77726F"
+      },
+      {
+        "display_name": "Absolutely Red",
+        "paint_code": "3P0",
+        "slug": "absolutely-red-3p0",
+        "reference_url": "https://www.paintscratch.com/colors/scion/absolutely-red-3p0/",
+        "source_label": "PaintScratch 2017 Scion",
+        "hex_value": "#DB0303"
+      },
+      {
+        "display_name": "Barcelona Red Mica Metallic",
+        "paint_code": "3R3",
+        "slug": "barcelona-red-mica-metallic-3r3",
+        "reference_url": "https://www.paintscratch.com/colors/scion/barcelona-red-mica-metallic-3r3/",
+        "source_label": "PaintScratch 2017 Scion",
+        "hex_value": "#7C1010"
+      },
+      {
+        "display_name": "Spring Green Metallic",
+        "paint_code": "6W2",
+        "slug": "spring-green-metallic-6w2",
+        "reference_url": "https://www.paintscratch.com/colors/scion/spring-green-metallic-6w2/",
+        "source_label": "PaintScratch 2017 Scion",
+        "hex_value": "#D2EC82"
+      },
+      {
+        "display_name": "Electric Storm Blue",
+        "paint_code": "8X7",
+        "slug": "electric-storm-blue-8x7",
+        "reference_url": "https://www.paintscratch.com/colors/scion/electric-storm-blue-8x7/",
+        "source_label": "PaintScratch 2017 Scion",
+        "hex_value": "#597DF3"
+      },
+      {
+        "display_name": "Pulse",
+        "paint_code": "41G",
+        "slug": "pulse-41g",
+        "reference_url": "https://www.paintscratch.com/colors/scion/pulse-41g/",
+        "source_label": "PaintScratch 2017 Scion",
+        "hex_value": "#B71407"
+      },
+      {
+        "display_name": "Stealth",
+        "paint_code": "41W",
+        "slug": "stealth-41w",
+        "reference_url": "https://www.paintscratch.com/colors/scion/stealth-41w/",
+        "source_label": "PaintScratch 2017 Scion",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Graphite",
+        "paint_code": "42A",
+        "slug": "graphite-42a",
+        "reference_url": "https://www.paintscratch.com/colors/scion/graphite-42a/",
+        "source_label": "PaintScratch 2017 Scion",
+        "hex_value": "#595959"
+      },
+      {
+        "display_name": "Abyss",
+        "paint_code": "42M",
+        "slug": "abyss-42m",
+        "reference_url": "https://www.paintscratch.com/colors/scion/abyss-42m/",
+        "source_label": "PaintScratch 2017 Scion",
+        "hex_value": "#173059"
+      }
+    ]
+  }
+}

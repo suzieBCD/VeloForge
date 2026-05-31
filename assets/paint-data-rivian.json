@@ -1,0 +1,448 @@
+{
+  "All Models": {
+    "2022": [
+      {
+        "display_name": "El Cap Granite Pearl",
+        "paint_code": "A1AM",
+        "slug": "el-cap-granite-pearl-a1am",
+        "reference_url": "https://www.paintscratch.com/colors/rivian/el-cap-granite-pearl-a1am/",
+        "source_label": "PaintScratch 2022 Rivian",
+        "hex_value": "#898567"
+      },
+      {
+        "display_name": "Red Canyon Metallic",
+        "paint_code": "A1AP",
+        "slug": "red-canyon-metallic-a1ap",
+        "reference_url": "https://www.paintscratch.com/colors/rivian/red-canyon-metallic-a1ap/",
+        "source_label": "PaintScratch 2022 Rivian",
+        "hex_value": "#F4371E"
+      },
+      {
+        "display_name": "Midnight Pearl",
+        "paint_code": "A1AJ",
+        "slug": "midnight-pearl-a1aj",
+        "reference_url": "https://www.paintscratch.com/colors/rivian/midnight-pearl-a1aj/",
+        "source_label": "PaintScratch 2022 Rivian",
+        "hex_value": "#1A1B20"
+      },
+      {
+        "display_name": "Glacier White",
+        "paint_code": "A1AK",
+        "slug": "glacier-white-a1ak",
+        "reference_url": "https://www.paintscratch.com/colors/rivian/glacier-white-a1ak/",
+        "source_label": "PaintScratch 2022 Rivian",
+        "hex_value": "#FEFEFC"
+      },
+      {
+        "display_name": "LA Silver Metallic",
+        "paint_code": "A1AL",
+        "slug": "la-silver-metallic-a1al",
+        "reference_url": "https://www.paintscratch.com/colors/rivian/la-silver-metallic-a1al/",
+        "source_label": "PaintScratch 2022 Rivian",
+        "hex_value": "#EBEAE3"
+      },
+      {
+        "display_name": "Compass Yellow",
+        "paint_code": "A1BP",
+        "slug": "compass-yellow-a1bp",
+        "reference_url": "https://www.paintscratch.com/colors/rivian/compass-yellow-a1bp/",
+        "source_label": "PaintScratch 2022 Rivian",
+        "hex_value": "#E0B224"
+      },
+      {
+        "display_name": "Forest Green Pearl",
+        "paint_code": "A1AN",
+        "slug": "forest-green-pearl-a1an",
+        "reference_url": "https://www.paintscratch.com/colors/rivian/forest-green-pearl-a1an/",
+        "source_label": "PaintScratch 2022 Rivian",
+        "hex_value": "#5A783A"
+      },
+      {
+        "display_name": "High Gloss Black",
+        "paint_code": "A1AR",
+        "slug": "high-gloss-black-a1ar",
+        "reference_url": "https://www.paintscratch.com/colors/rivian/high-gloss-black-a1ar/",
+        "source_label": "PaintScratch 2022 Rivian",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Launch Green Pearl",
+        "paint_code": "A1BH",
+        "slug": "launch-green-pearl-a1bh",
+        "reference_url": "https://www.paintscratch.com/colors/rivian/launch-green-pearl-a1bh/",
+        "source_label": "PaintScratch 2022 Rivian",
+        "hex_value": "#58603A"
+      },
+      {
+        "display_name": "Rivian Blue Pearl",
+        "paint_code": "A1BK",
+        "slug": "rivian-blue-pearl-a1bk",
+        "reference_url": "https://www.paintscratch.com/colors/rivian/rivian-blue-pearl-a1bk/",
+        "source_label": "PaintScratch 2022 Rivian",
+        "hex_value": "#454E81"
+      },
+      {
+        "display_name": "Bright Red",
+        "paint_code": "EXP008",
+        "slug": "bright-red-exp008",
+        "reference_url": "https://www.paintscratch.com/colors/rivian/bright-red-exp008/",
+        "source_label": "PaintScratch 2022 Rivian",
+        "hex_value": "#F31515"
+      },
+      {
+        "display_name": "Purple Blue-988998",
+        "paint_code": "EXP009",
+        "slug": "purple-blue-988998-exp009",
+        "reference_url": "https://www.paintscratch.com/colors/rivian/purple-blue-988998-exp009/",
+        "source_label": "PaintScratch 2022 Rivian",
+        "hex_value": "#9BA5C5"
+      }
+    ],
+    "2023": [
+      {
+        "display_name": "El Cap Granite Pearl",
+        "paint_code": "A1AM",
+        "slug": "el-cap-granite-pearl-a1am",
+        "reference_url": "https://www.paintscratch.com/colors/rivian/el-cap-granite-pearl-a1am/",
+        "source_label": "PaintScratch 2023 Rivian",
+        "hex_value": "#898567"
+      },
+      {
+        "display_name": "Red Canyon Metallic",
+        "paint_code": "A1AP",
+        "slug": "red-canyon-metallic-a1ap",
+        "reference_url": "https://www.paintscratch.com/colors/rivian/red-canyon-metallic-a1ap/",
+        "source_label": "PaintScratch 2023 Rivian",
+        "hex_value": "#F4371E"
+      },
+      {
+        "display_name": "Midnight Pearl",
+        "paint_code": "A1AJ",
+        "slug": "midnight-pearl-a1aj",
+        "reference_url": "https://www.paintscratch.com/colors/rivian/midnight-pearl-a1aj/",
+        "source_label": "PaintScratch 2023 Rivian",
+        "hex_value": "#1A1B20"
+      },
+      {
+        "display_name": "Glacier White",
+        "paint_code": "A1AK",
+        "slug": "glacier-white-a1ak",
+        "reference_url": "https://www.paintscratch.com/colors/rivian/glacier-white-a1ak/",
+        "source_label": "PaintScratch 2023 Rivian",
+        "hex_value": "#FEFEFC"
+      },
+      {
+        "display_name": "LA Silver Metallic",
+        "paint_code": "A1AL",
+        "slug": "la-silver-metallic-a1al",
+        "reference_url": "https://www.paintscratch.com/colors/rivian/la-silver-metallic-a1al/",
+        "source_label": "PaintScratch 2023 Rivian",
+        "hex_value": "#EBEAE3"
+      },
+      {
+        "display_name": "Compass Yellow",
+        "paint_code": "A1BP",
+        "slug": "compass-yellow-a1bp",
+        "reference_url": "https://www.paintscratch.com/colors/rivian/compass-yellow-a1bp/",
+        "source_label": "PaintScratch 2023 Rivian",
+        "hex_value": "#E0B224"
+      },
+      {
+        "display_name": "Forest Green Pearl",
+        "paint_code": "A1AN",
+        "slug": "forest-green-pearl-a1an",
+        "reference_url": "https://www.paintscratch.com/colors/rivian/forest-green-pearl-a1an/",
+        "source_label": "PaintScratch 2023 Rivian",
+        "hex_value": "#5A783A"
+      },
+      {
+        "display_name": "High Gloss Black",
+        "paint_code": "A1AR",
+        "slug": "high-gloss-black-a1ar",
+        "reference_url": "https://www.paintscratch.com/colors/rivian/high-gloss-black-a1ar/",
+        "source_label": "PaintScratch 2023 Rivian",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Launch Green Pearl",
+        "paint_code": "A1BH",
+        "slug": "launch-green-pearl-a1bh",
+        "reference_url": "https://www.paintscratch.com/colors/rivian/launch-green-pearl-a1bh/",
+        "source_label": "PaintScratch 2023 Rivian",
+        "hex_value": "#58603A"
+      },
+      {
+        "display_name": "Rivian Blue Pearl",
+        "paint_code": "A1BK",
+        "slug": "rivian-blue-pearl-a1bk",
+        "reference_url": "https://www.paintscratch.com/colors/rivian/rivian-blue-pearl-a1bk/",
+        "source_label": "PaintScratch 2023 Rivian",
+        "hex_value": "#454E81"
+      }
+    ],
+    "2024": [
+      {
+        "display_name": "El Cap Granite Pearl",
+        "paint_code": "A1AM",
+        "slug": "el-cap-granite-pearl-a1am",
+        "reference_url": "https://www.paintscratch.com/colors/rivian/el-cap-granite-pearl-a1am/",
+        "source_label": "PaintScratch 2024 Rivian",
+        "hex_value": "#898567"
+      },
+      {
+        "display_name": "Red Canyon Metallic",
+        "paint_code": "A1AP",
+        "slug": "red-canyon-metallic-a1ap",
+        "reference_url": "https://www.paintscratch.com/colors/rivian/red-canyon-metallic-a1ap/",
+        "source_label": "PaintScratch 2024 Rivian",
+        "hex_value": "#F4371E"
+      },
+      {
+        "display_name": "Midnight Pearl",
+        "paint_code": "A1AJ",
+        "slug": "midnight-pearl-a1aj",
+        "reference_url": "https://www.paintscratch.com/colors/rivian/midnight-pearl-a1aj/",
+        "source_label": "PaintScratch 2024 Rivian",
+        "hex_value": "#1A1B20"
+      },
+      {
+        "display_name": "Glacier White",
+        "paint_code": "A1AK",
+        "slug": "glacier-white-a1ak",
+        "reference_url": "https://www.paintscratch.com/colors/rivian/glacier-white-a1ak/",
+        "source_label": "PaintScratch 2024 Rivian",
+        "hex_value": "#FEFEFC"
+      },
+      {
+        "display_name": "LA Silver Metallic",
+        "paint_code": "A1AL",
+        "slug": "la-silver-metallic-a1al",
+        "reference_url": "https://www.paintscratch.com/colors/rivian/la-silver-metallic-a1al/",
+        "source_label": "PaintScratch 2024 Rivian",
+        "hex_value": "#EBEAE3"
+      },
+      {
+        "display_name": "Limestone",
+        "paint_code": "A1BL",
+        "slug": "limestone-a1bl",
+        "reference_url": "https://www.paintscratch.com/colors/rivian/limestone-a1bl/",
+        "source_label": "PaintScratch 2024 Rivian",
+        "hex_value": "#7C8070"
+      },
+      {
+        "display_name": "Compass Yellow",
+        "paint_code": "A1BP",
+        "slug": "compass-yellow-a1bp",
+        "reference_url": "https://www.paintscratch.com/colors/rivian/compass-yellow-a1bp/",
+        "source_label": "PaintScratch 2024 Rivian",
+        "hex_value": "#E0B224"
+      },
+      {
+        "display_name": "Forest Green Pearl",
+        "paint_code": "A1AN",
+        "slug": "forest-green-pearl-a1an",
+        "reference_url": "https://www.paintscratch.com/colors/rivian/forest-green-pearl-a1an/",
+        "source_label": "PaintScratch 2024 Rivian",
+        "hex_value": "#5A783A"
+      },
+      {
+        "display_name": "Rivian Blue Pearl",
+        "paint_code": "A1BK",
+        "slug": "rivian-blue-pearl-a1bk",
+        "reference_url": "https://www.paintscratch.com/colors/rivian/rivian-blue-pearl-a1bk/",
+        "source_label": "PaintScratch 2024 Rivian",
+        "hex_value": "#454E81"
+      }
+    ],
+    "2025": [
+      {
+        "display_name": "El Cap Granite Pearl",
+        "paint_code": "A1AM",
+        "slug": "el-cap-granite-pearl-a1am",
+        "reference_url": "https://www.paintscratch.com/colors/rivian/el-cap-granite-pearl-a1am/",
+        "source_label": "PaintScratch 2025 Rivian",
+        "hex_value": "#898567"
+      },
+      {
+        "display_name": "Red Canyon Metallic",
+        "paint_code": "A1AP",
+        "slug": "red-canyon-metallic-a1ap",
+        "reference_url": "https://www.paintscratch.com/colors/rivian/red-canyon-metallic-a1ap/",
+        "source_label": "PaintScratch 2025 Rivian",
+        "hex_value": "#F4371E"
+      },
+      {
+        "display_name": "Midnight Pearl",
+        "paint_code": "A1AJ",
+        "slug": "midnight-pearl-a1aj",
+        "reference_url": "https://www.paintscratch.com/colors/rivian/midnight-pearl-a1aj/",
+        "source_label": "PaintScratch 2025 Rivian",
+        "hex_value": "#1A1B20"
+      },
+      {
+        "display_name": "Glacier White",
+        "paint_code": "A1AK",
+        "slug": "glacier-white-a1ak",
+        "reference_url": "https://www.paintscratch.com/colors/rivian/glacier-white-a1ak/",
+        "source_label": "PaintScratch 2025 Rivian",
+        "hex_value": "#FEFEFC"
+      },
+      {
+        "display_name": "LA Silver Metallic",
+        "paint_code": "A1AL",
+        "slug": "la-silver-metallic-a1al",
+        "reference_url": "https://www.paintscratch.com/colors/rivian/la-silver-metallic-a1al/",
+        "source_label": "PaintScratch 2025 Rivian",
+        "hex_value": "#EBEAE3"
+      },
+      {
+        "display_name": "Limestone",
+        "paint_code": "A1BL",
+        "slug": "limestone-a1bl",
+        "reference_url": "https://www.paintscratch.com/colors/rivian/limestone-a1bl/",
+        "source_label": "PaintScratch 2025 Rivian",
+        "hex_value": "#7C8070"
+      },
+      {
+        "display_name": "Compass Yellow",
+        "paint_code": "A1BP",
+        "slug": "compass-yellow-a1bp",
+        "reference_url": "https://www.paintscratch.com/colors/rivian/compass-yellow-a1bp/",
+        "source_label": "PaintScratch 2025 Rivian",
+        "hex_value": "#E0B224"
+      },
+      {
+        "display_name": "Forest Green Pearl",
+        "paint_code": "A1AN",
+        "slug": "forest-green-pearl-a1an",
+        "reference_url": "https://www.paintscratch.com/colors/rivian/forest-green-pearl-a1an/",
+        "source_label": "PaintScratch 2025 Rivian",
+        "hex_value": "#5A783A"
+      },
+      {
+        "display_name": "Rivian Blue Pearl",
+        "paint_code": "A1BK",
+        "slug": "rivian-blue-pearl-a1bk",
+        "reference_url": "https://www.paintscratch.com/colors/rivian/rivian-blue-pearl-a1bk/",
+        "source_label": "PaintScratch 2025 Rivian",
+        "hex_value": "#454E81"
+      }
+    ],
+    "2026": [
+      {
+        "display_name": "High Gloss Black",
+        "paint_code": "9002",
+        "slug": "high-gloss-black-9002",
+        "reference_url": "https://www.paintscratch.com/colors/rivian/high-gloss-black-9002/",
+        "source_label": "PaintScratch 2026 Rivian",
+        "hex_value": "#131211"
+      },
+      {
+        "display_name": "Esker Silver",
+        "paint_code": "A7E",
+        "slug": "esker-silver-a7e",
+        "reference_url": "https://www.paintscratch.com/colors/rivian/esker-silver-a7e/",
+        "source_label": "PaintScratch 2026 Rivian",
+        "hex_value": "#4E5356"
+      },
+      {
+        "display_name": "Half Dome",
+        "paint_code": "A9E",
+        "slug": "half-dome-a9e",
+        "reference_url": "https://www.paintscratch.com/colors/rivian/half-dome-a9e/",
+        "source_label": "PaintScratch 2026 Rivian",
+        "hex_value": "#2E302F"
+      },
+      {
+        "display_name": "Black Satin",
+        "paint_code": "B6A",
+        "slug": "black-satin-b6a",
+        "reference_url": "https://www.paintscratch.com/colors/rivian/black-satin-b6a/",
+        "source_label": "PaintScratch 2026 Rivian",
+        "hex_value": "#202326"
+      },
+      {
+        "display_name": "Lava Rock",
+        "paint_code": "BZE",
+        "slug": "lava-rock-bze",
+        "reference_url": "https://www.paintscratch.com/colors/rivian/lava-rock-bze/",
+        "source_label": "PaintScratch 2026 Rivian",
+        "hex_value": "#101213"
+      },
+      {
+        "display_name": "Catalina Blue",
+        "paint_code": "L8E",
+        "slug": "catalina-blue-l8e",
+        "reference_url": "https://www.paintscratch.com/colors/rivian/catalina-blue-l8e/",
+        "source_label": "PaintScratch 2026 Rivian",
+        "hex_value": "#172D33"
+      },
+      {
+        "display_name": "Borealis Purple",
+        "paint_code": "V9G",
+        "slug": "borealis-purple-v9g",
+        "reference_url": "https://www.paintscratch.com/colors/rivian/borealis-purple-v9g/",
+        "source_label": "PaintScratch 2026 Rivian",
+        "hex_value": "#201722"
+      }
+    ],
+    "2027": [
+      {
+        "display_name": "High Gloss Black",
+        "paint_code": "9002",
+        "slug": "high-gloss-black-9002",
+        "reference_url": "https://www.paintscratch.com/colors/rivian/high-gloss-black-9002/",
+        "source_label": "PaintScratch 2027 Rivian",
+        "hex_value": "#131211"
+      },
+      {
+        "display_name": "Esker Silver",
+        "paint_code": "A7E",
+        "slug": "esker-silver-a7e",
+        "reference_url": "https://www.paintscratch.com/colors/rivian/esker-silver-a7e/",
+        "source_label": "PaintScratch 2027 Rivian",
+        "hex_value": "#4E5356"
+      },
+      {
+        "display_name": "Half Dome",
+        "paint_code": "A9E",
+        "slug": "half-dome-a9e",
+        "reference_url": "https://www.paintscratch.com/colors/rivian/half-dome-a9e/",
+        "source_label": "PaintScratch 2027 Rivian",
+        "hex_value": "#2E302F"
+      },
+      {
+        "display_name": "Black Satin",
+        "paint_code": "B6A",
+        "slug": "black-satin-b6a",
+        "reference_url": "https://www.paintscratch.com/colors/rivian/black-satin-b6a/",
+        "source_label": "PaintScratch 2027 Rivian",
+        "hex_value": "#202326"
+      },
+      {
+        "display_name": "Lava Rock",
+        "paint_code": "BZE",
+        "slug": "lava-rock-bze",
+        "reference_url": "https://www.paintscratch.com/colors/rivian/lava-rock-bze/",
+        "source_label": "PaintScratch 2027 Rivian",
+        "hex_value": "#101213"
+      },
+      {
+        "display_name": "Catalina Blue",
+        "paint_code": "L8E",
+        "slug": "catalina-blue-l8e",
+        "reference_url": "https://www.paintscratch.com/colors/rivian/catalina-blue-l8e/",
+        "source_label": "PaintScratch 2027 Rivian",
+        "hex_value": "#172D33"
+      },
+      {
+        "display_name": "Borealis Purple",
+        "paint_code": "V9G",
+        "slug": "borealis-purple-v9g",
+        "reference_url": "https://www.paintscratch.com/colors/rivian/borealis-purple-v9g/",
+        "source_label": "PaintScratch 2027 Rivian",
+        "hex_value": "#201722"
+      }
+    ]
+  }
+}

@@ -1,0 +1,808 @@
+{
+  "All Models": {
+    "1994": [
+      {
+        "display_name": "Dark Blue Poly (19629)",
+        "paint_code": "L12",
+        "slug": "dark-blue-poly-19629-l12",
+        "reference_url": "https://www.paintscratch.com/colors/amg/dark-blue-poly-19629-l12/",
+        "source_label": "PaintScratch 1994 AMG",
+        "hex_value": "#052057"
+      },
+      {
+        "display_name": "Semi Gloss Black (9988)",
+        "paint_code": "B2",
+        "slug": "semi-gloss-black-9988-b2",
+        "reference_url": "https://www.paintscratch.com/colors/amg/semi-gloss-black-9988-b2/",
+        "source_label": "PaintScratch 1994 AMG",
+        "hex_value": "#101012"
+      },
+      {
+        "display_name": "Black (9000)",
+        "paint_code": "B9",
+        "slug": "black-9000-b9",
+        "reference_url": "https://www.paintscratch.com/colors/amg/black-9000-b9/",
+        "source_label": "PaintScratch 1994 AMG",
+        "hex_value": "#101012"
+      },
+      {
+        "display_name": "Green Metallic (47945)",
+        "paint_code": "G10",
+        "slug": "green-metallic-47945-g10",
+        "reference_url": "https://www.paintscratch.com/colors/amg/green-metallic-47945-g10/",
+        "source_label": "PaintScratch 1994 AMG",
+        "hex_value": "#376D48"
+      },
+      {
+        "display_name": "Dark Cherry (52082)",
+        "paint_code": "P13",
+        "slug": "dark-cherry-52082-p13",
+        "reference_url": "https://www.paintscratch.com/colors/amg/dark-cherry-52082-p13/",
+        "source_label": "PaintScratch 1994 AMG",
+        "hex_value": "#571D13"
+      },
+      {
+        "display_name": "Poppy Red (74575)",
+        "paint_code": "R7",
+        "slug": "poppy-red-74575-r7",
+        "reference_url": "https://www.paintscratch.com/colors/amg/poppy-red-74575-r7/",
+        "source_label": "PaintScratch 1994 AMG",
+        "hex_value": "#AE3926"
+      },
+      {
+        "display_name": "Tan (28326)",
+        "paint_code": "T11",
+        "slug": "tan-28326-t11",
+        "reference_url": "https://www.paintscratch.com/colors/amg/tan-28326-t11/",
+        "source_label": "PaintScratch 1994 AMG",
+        "hex_value": "#CBB695"
+      },
+      {
+        "display_name": "Whimbleton White (91494)",
+        "paint_code": "W8",
+        "slug": "whimbleton-white-91494-w8",
+        "reference_url": "https://www.paintscratch.com/colors/amg/whimbleton-white-91494-w8/",
+        "source_label": "PaintScratch 1994 AMG",
+        "hex_value": "#FBFEEC"
+      }
+    ],
+    "1995": [
+      {
+        "display_name": "Dark Blue Poly (19629)",
+        "paint_code": "L12",
+        "slug": "dark-blue-poly-19629-l12",
+        "reference_url": "https://www.paintscratch.com/colors/amg/dark-blue-poly-19629-l12/",
+        "source_label": "PaintScratch 1995 AMG",
+        "hex_value": "#052057"
+      },
+      {
+        "display_name": "Semi Gloss Black (9988)",
+        "paint_code": "B2",
+        "slug": "semi-gloss-black-9988-b2",
+        "reference_url": "https://www.paintscratch.com/colors/amg/semi-gloss-black-9988-b2/",
+        "source_label": "PaintScratch 1995 AMG",
+        "hex_value": "#101012"
+      },
+      {
+        "display_name": "Black (9000)",
+        "paint_code": "B9",
+        "slug": "black-9000-b9",
+        "reference_url": "https://www.paintscratch.com/colors/amg/black-9000-b9/",
+        "source_label": "PaintScratch 1995 AMG",
+        "hex_value": "#101012"
+      },
+      {
+        "display_name": "Green Metallic (47945)",
+        "paint_code": "G10",
+        "slug": "green-metallic-47945-g10",
+        "reference_url": "https://www.paintscratch.com/colors/amg/green-metallic-47945-g10/",
+        "source_label": "PaintScratch 1995 AMG",
+        "hex_value": "#376D48"
+      },
+      {
+        "display_name": "Dark Cherry (52082)",
+        "paint_code": "P13",
+        "slug": "dark-cherry-52082-p13",
+        "reference_url": "https://www.paintscratch.com/colors/amg/dark-cherry-52082-p13/",
+        "source_label": "PaintScratch 1995 AMG",
+        "hex_value": "#571D13"
+      },
+      {
+        "display_name": "Poppy Red (74575)",
+        "paint_code": "R7",
+        "slug": "poppy-red-74575-r7",
+        "reference_url": "https://www.paintscratch.com/colors/amg/poppy-red-74575-r7/",
+        "source_label": "PaintScratch 1995 AMG",
+        "hex_value": "#AE3926"
+      },
+      {
+        "display_name": "Civilian Silver Metallic",
+        "paint_code": "S15",
+        "slug": "civilian-silver-metallic-s15",
+        "reference_url": "https://www.paintscratch.com/colors/amg/civilian-silver-metallic-s15/",
+        "source_label": "PaintScratch 1995 AMG",
+        "hex_value": "#9F9F99"
+      },
+      {
+        "display_name": "Tan (28326)",
+        "paint_code": "T11",
+        "slug": "tan-28326-t11",
+        "reference_url": "https://www.paintscratch.com/colors/amg/tan-28326-t11/",
+        "source_label": "PaintScratch 1995 AMG",
+        "hex_value": "#CBB695"
+      },
+      {
+        "display_name": "Whimbleton White (91494)",
+        "paint_code": "W8",
+        "slug": "whimbleton-white-91494-w8",
+        "reference_url": "https://www.paintscratch.com/colors/amg/whimbleton-white-91494-w8/",
+        "source_label": "PaintScratch 1995 AMG",
+        "hex_value": "#FBFEEC"
+      },
+      {
+        "display_name": "Bright White (91493)",
+        "paint_code": "W14",
+        "slug": "bright-white-91493-w14",
+        "reference_url": "https://www.paintscratch.com/colors/amg/bright-white-91493-w14/",
+        "source_label": "PaintScratch 1995 AMG",
+        "hex_value": "#FBFCFF"
+      }
+    ],
+    "1996": [
+      {
+        "display_name": "Semi Gloss Black (9988)",
+        "paint_code": "B2",
+        "slug": "semi-gloss-black-9988-b2",
+        "reference_url": "https://www.paintscratch.com/colors/amg/semi-gloss-black-9988-b2/",
+        "source_label": "PaintScratch 1996 AMG",
+        "hex_value": "#101012"
+      },
+      {
+        "display_name": "Black (9000)",
+        "paint_code": "B9",
+        "slug": "black-9000-b9",
+        "reference_url": "https://www.paintscratch.com/colors/amg/black-9000-b9/",
+        "source_label": "PaintScratch 1996 AMG",
+        "hex_value": "#101012"
+      },
+      {
+        "display_name": "Green Metallic (47945)",
+        "paint_code": "G10",
+        "slug": "green-metallic-47945-g10",
+        "reference_url": "https://www.paintscratch.com/colors/amg/green-metallic-47945-g10/",
+        "source_label": "PaintScratch 1996 AMG",
+        "hex_value": "#376D48"
+      },
+      {
+        "display_name": "Medium Blue Metallic (19793)",
+        "paint_code": "L16",
+        "slug": "medium-blue-metallic-19793-l16",
+        "reference_url": "https://www.paintscratch.com/colors/amg/medium-blue-metallic-19793-l16/",
+        "source_label": "PaintScratch 1996 AMG",
+        "hex_value": "#3D5483"
+      },
+      {
+        "display_name": "Bright Burgandy Metallic (52164)",
+        "paint_code": "P17",
+        "slug": "bright-burgandy-metallic-52164-p17",
+        "reference_url": "https://www.paintscratch.com/colors/amg/bright-burgandy-metallic-52164-p17/",
+        "source_label": "PaintScratch 1996 AMG",
+        "hex_value": "#7E4A42"
+      },
+      {
+        "display_name": "Poppy Red (74575)",
+        "paint_code": "R7",
+        "slug": "poppy-red-74575-r7",
+        "reference_url": "https://www.paintscratch.com/colors/amg/poppy-red-74575-r7/",
+        "source_label": "PaintScratch 1996 AMG",
+        "hex_value": "#AE3926"
+      },
+      {
+        "display_name": "Civilian Silver Metallic",
+        "paint_code": "S15",
+        "slug": "civilian-silver-metallic-s15",
+        "reference_url": "https://www.paintscratch.com/colors/amg/civilian-silver-metallic-s15/",
+        "source_label": "PaintScratch 1996 AMG",
+        "hex_value": "#9F9F99"
+      },
+      {
+        "display_name": "Tan (28326)",
+        "paint_code": "T11",
+        "slug": "tan-28326-t11",
+        "reference_url": "https://www.paintscratch.com/colors/amg/tan-28326-t11/",
+        "source_label": "PaintScratch 1996 AMG",
+        "hex_value": "#CBB695"
+      },
+      {
+        "display_name": "Whimbleton White (91494)",
+        "paint_code": "W8",
+        "slug": "whimbleton-white-91494-w8",
+        "reference_url": "https://www.paintscratch.com/colors/amg/whimbleton-white-91494-w8/",
+        "source_label": "PaintScratch 1996 AMG",
+        "hex_value": "#FBFEEC"
+      },
+      {
+        "display_name": "Bright White (91493)",
+        "paint_code": "W14",
+        "slug": "bright-white-91493-w14",
+        "reference_url": "https://www.paintscratch.com/colors/amg/bright-white-91493-w14/",
+        "source_label": "PaintScratch 1996 AMG",
+        "hex_value": "#FBFCFF"
+      }
+    ],
+    "1997": [
+      {
+        "display_name": "Semi Gloss Black (9988)",
+        "paint_code": "B2",
+        "slug": "semi-gloss-black-9988-b2",
+        "reference_url": "https://www.paintscratch.com/colors/amg/semi-gloss-black-9988-b2/",
+        "source_label": "PaintScratch 1997 AMG",
+        "hex_value": "#101012"
+      },
+      {
+        "display_name": "Black (9000)",
+        "paint_code": "B9",
+        "slug": "black-9000-b9",
+        "reference_url": "https://www.paintscratch.com/colors/amg/black-9000-b9/",
+        "source_label": "PaintScratch 1997 AMG",
+        "hex_value": "#101012"
+      },
+      {
+        "display_name": "Green Metallic (47945)",
+        "paint_code": "G10",
+        "slug": "green-metallic-47945-g10",
+        "reference_url": "https://www.paintscratch.com/colors/amg/green-metallic-47945-g10/",
+        "source_label": "PaintScratch 1997 AMG",
+        "hex_value": "#376D48"
+      },
+      {
+        "display_name": "Bright Burgandy Metallic (52164)",
+        "paint_code": "P17",
+        "slug": "bright-burgandy-metallic-52164-p17",
+        "reference_url": "https://www.paintscratch.com/colors/amg/bright-burgandy-metallic-52164-p17/",
+        "source_label": "PaintScratch 1997 AMG",
+        "hex_value": "#7E4A42"
+      },
+      {
+        "display_name": "Poppy Red (74575)",
+        "paint_code": "R7",
+        "slug": "poppy-red-74575-r7",
+        "reference_url": "https://www.paintscratch.com/colors/amg/poppy-red-74575-r7/",
+        "source_label": "PaintScratch 1997 AMG",
+        "hex_value": "#AE3926"
+      },
+      {
+        "display_name": "Civilian Silver Metallic",
+        "paint_code": "S15",
+        "slug": "civilian-silver-metallic-s15",
+        "reference_url": "https://www.paintscratch.com/colors/amg/civilian-silver-metallic-s15/",
+        "source_label": "PaintScratch 1997 AMG",
+        "hex_value": "#9F9F99"
+      },
+      {
+        "display_name": "Whimbleton White (91494)",
+        "paint_code": "W8",
+        "slug": "whimbleton-white-91494-w8",
+        "reference_url": "https://www.paintscratch.com/colors/amg/whimbleton-white-91494-w8/",
+        "source_label": "PaintScratch 1997 AMG",
+        "hex_value": "#FBFEEC"
+      },
+      {
+        "display_name": "Bright White (91493)",
+        "paint_code": "W14",
+        "slug": "bright-white-91493-w14",
+        "reference_url": "https://www.paintscratch.com/colors/amg/bright-white-91493-w14/",
+        "source_label": "PaintScratch 1997 AMG",
+        "hex_value": "#FBFCFF"
+      },
+      {
+        "display_name": "Fly Yellow (82741)",
+        "paint_code": "Y18",
+        "slug": "fly-yellow-82741-y18",
+        "reference_url": "https://www.paintscratch.com/colors/amg/fly-yellow-82741-y18/",
+        "source_label": "PaintScratch 1997 AMG",
+        "hex_value": "#E2DE96"
+      }
+    ],
+    "1998": [
+      {
+        "display_name": "Semi Gloss Black (9988)",
+        "paint_code": "B2",
+        "slug": "semi-gloss-black-9988-b2",
+        "reference_url": "https://www.paintscratch.com/colors/amg/semi-gloss-black-9988-b2/",
+        "source_label": "PaintScratch 1998 AMG",
+        "hex_value": "#101012"
+      },
+      {
+        "display_name": "Black (9000)",
+        "paint_code": "B9",
+        "slug": "black-9000-b9",
+        "reference_url": "https://www.paintscratch.com/colors/amg/black-9000-b9/",
+        "source_label": "PaintScratch 1998 AMG",
+        "hex_value": "#101012"
+      },
+      {
+        "display_name": "Green Metallic (47945)",
+        "paint_code": "G10",
+        "slug": "green-metallic-47945-g10",
+        "reference_url": "https://www.paintscratch.com/colors/amg/green-metallic-47945-g10/",
+        "source_label": "PaintScratch 1998 AMG",
+        "hex_value": "#376D48"
+      },
+      {
+        "display_name": "Poppy Red (74575)",
+        "paint_code": "R7",
+        "slug": "poppy-red-74575-r7",
+        "reference_url": "https://www.paintscratch.com/colors/amg/poppy-red-74575-r7/",
+        "source_label": "PaintScratch 1998 AMG",
+        "hex_value": "#AE3926"
+      },
+      {
+        "display_name": "Civilian Silver Metallic",
+        "paint_code": "S15",
+        "slug": "civilian-silver-metallic-s15",
+        "reference_url": "https://www.paintscratch.com/colors/amg/civilian-silver-metallic-s15/",
+        "source_label": "PaintScratch 1998 AMG",
+        "hex_value": "#9F9F99"
+      },
+      {
+        "display_name": "Whimbleton White (91494)",
+        "paint_code": "W8",
+        "slug": "whimbleton-white-91494-w8",
+        "reference_url": "https://www.paintscratch.com/colors/amg/whimbleton-white-91494-w8/",
+        "source_label": "PaintScratch 1998 AMG",
+        "hex_value": "#FBFEEC"
+      },
+      {
+        "display_name": "Bright White (91493)",
+        "paint_code": "W14",
+        "slug": "bright-white-91493-w14",
+        "reference_url": "https://www.paintscratch.com/colors/amg/bright-white-91493-w14/",
+        "source_label": "PaintScratch 1998 AMG",
+        "hex_value": "#FBFCFF"
+      },
+      {
+        "display_name": "Fly Yellow (82741)",
+        "paint_code": "Y18",
+        "slug": "fly-yellow-82741-y18",
+        "reference_url": "https://www.paintscratch.com/colors/amg/fly-yellow-82741-y18/",
+        "source_label": "PaintScratch 1998 AMG",
+        "hex_value": "#E2DE96"
+      }
+    ],
+    "1999": [
+      {
+        "display_name": "Semi Gloss Black (9988)",
+        "paint_code": "B2",
+        "slug": "semi-gloss-black-9988-b2",
+        "reference_url": "https://www.paintscratch.com/colors/amg/semi-gloss-black-9988-b2/",
+        "source_label": "PaintScratch 1999 AMG",
+        "hex_value": "#101012"
+      },
+      {
+        "display_name": "Black (9000)",
+        "paint_code": "B9",
+        "slug": "black-9000-b9",
+        "reference_url": "https://www.paintscratch.com/colors/amg/black-9000-b9/",
+        "source_label": "PaintScratch 1999 AMG",
+        "hex_value": "#101012"
+      },
+      {
+        "display_name": "Night Storm (5292)",
+        "paint_code": "B21",
+        "slug": "night-storm-5292-b21",
+        "reference_url": "https://www.paintscratch.com/colors/amg/night-storm-5292-b21/",
+        "source_label": "PaintScratch 1999 AMG",
+        "hex_value": "#0C0D4A"
+      },
+      {
+        "display_name": "Mesa Dusk (5228)",
+        "paint_code": "C22",
+        "slug": "mesa-dusk-5228-c22",
+        "reference_url": "https://www.paintscratch.com/colors/amg/mesa-dusk-5228-c22/",
+        "source_label": "PaintScratch 1999 AMG",
+        "hex_value": "#746452"
+      },
+      {
+        "display_name": "Green Metallic (47945)",
+        "paint_code": "G10",
+        "slug": "green-metallic-47945-g10",
+        "reference_url": "https://www.paintscratch.com/colors/amg/green-metallic-47945-g10/",
+        "source_label": "PaintScratch 1999 AMG",
+        "hex_value": "#376D48"
+      },
+      {
+        "display_name": "Poppy Red (74575)",
+        "paint_code": "R7",
+        "slug": "poppy-red-74575-r7",
+        "reference_url": "https://www.paintscratch.com/colors/amg/poppy-red-74575-r7/",
+        "source_label": "PaintScratch 1999 AMG",
+        "hex_value": "#AE3926"
+      },
+      {
+        "display_name": "Candy Apple Red (71698)",
+        "paint_code": "R19",
+        "slug": "candy-apple-red-71698-r19",
+        "reference_url": "https://www.paintscratch.com/colors/amg/candy-apple-red-71698-r19/",
+        "source_label": "PaintScratch 1999 AMG",
+        "hex_value": "#EF3415"
+      },
+      {
+        "display_name": "Civilian Silver Metallic",
+        "paint_code": "S15",
+        "slug": "civilian-silver-metallic-s15",
+        "reference_url": "https://www.paintscratch.com/colors/amg/civilian-silver-metallic-s15/",
+        "source_label": "PaintScratch 1999 AMG",
+        "hex_value": "#9F9F99"
+      },
+      {
+        "display_name": "Whimbleton White (91494)",
+        "paint_code": "W8",
+        "slug": "whimbleton-white-91494-w8",
+        "reference_url": "https://www.paintscratch.com/colors/amg/whimbleton-white-91494-w8/",
+        "source_label": "PaintScratch 1999 AMG",
+        "hex_value": "#FBFEEC"
+      },
+      {
+        "display_name": "Bright White (91493)",
+        "paint_code": "W14",
+        "slug": "bright-white-91493-w14",
+        "reference_url": "https://www.paintscratch.com/colors/amg/bright-white-91493-w14/",
+        "source_label": "PaintScratch 1999 AMG",
+        "hex_value": "#FBFCFF"
+      },
+      {
+        "display_name": "Competition Yellow (4266)",
+        "paint_code": "Y20",
+        "slug": "competition-yellow-4266-y20",
+        "reference_url": "https://www.paintscratch.com/colors/amg/competition-yellow-4266-y20/",
+        "source_label": "PaintScratch 1999 AMG",
+        "hex_value": "#F2E51C"
+      }
+    ],
+    "2000": [
+      {
+        "display_name": "Semi Gloss Black (9988)",
+        "paint_code": "B2",
+        "slug": "semi-gloss-black-9988-b2",
+        "reference_url": "https://www.paintscratch.com/colors/amg/semi-gloss-black-9988-b2/",
+        "source_label": "PaintScratch 2000 AMG",
+        "hex_value": "#101012"
+      },
+      {
+        "display_name": "Black (9000)",
+        "paint_code": "B9",
+        "slug": "black-9000-b9",
+        "reference_url": "https://www.paintscratch.com/colors/amg/black-9000-b9/",
+        "source_label": "PaintScratch 2000 AMG",
+        "hex_value": "#101012"
+      },
+      {
+        "display_name": "Night Storm (5292)",
+        "paint_code": "B21",
+        "slug": "night-storm-5292-b21",
+        "reference_url": "https://www.paintscratch.com/colors/amg/night-storm-5292-b21/",
+        "source_label": "PaintScratch 2000 AMG",
+        "hex_value": "#0C0D4A"
+      },
+      {
+        "display_name": "Mesa Dusk (5228)",
+        "paint_code": "C22",
+        "slug": "mesa-dusk-5228-c22",
+        "reference_url": "https://www.paintscratch.com/colors/amg/mesa-dusk-5228-c22/",
+        "source_label": "PaintScratch 2000 AMG",
+        "hex_value": "#746452"
+      },
+      {
+        "display_name": "Green Metallic (47945)",
+        "paint_code": "G10",
+        "slug": "green-metallic-47945-g10",
+        "reference_url": "https://www.paintscratch.com/colors/amg/green-metallic-47945-g10/",
+        "source_label": "PaintScratch 2000 AMG",
+        "hex_value": "#376D48"
+      },
+      {
+        "display_name": "Poppy Red (74575)",
+        "paint_code": "R7",
+        "slug": "poppy-red-74575-r7",
+        "reference_url": "https://www.paintscratch.com/colors/amg/poppy-red-74575-r7/",
+        "source_label": "PaintScratch 2000 AMG",
+        "hex_value": "#AE3926"
+      },
+      {
+        "display_name": "Candy Apple Red (71698)",
+        "paint_code": "R19",
+        "slug": "candy-apple-red-71698-r19",
+        "reference_url": "https://www.paintscratch.com/colors/amg/candy-apple-red-71698-r19/",
+        "source_label": "PaintScratch 2000 AMG",
+        "hex_value": "#EF3415"
+      },
+      {
+        "display_name": "Civilian Silver Metallic",
+        "paint_code": "S15",
+        "slug": "civilian-silver-metallic-s15",
+        "reference_url": "https://www.paintscratch.com/colors/amg/civilian-silver-metallic-s15/",
+        "source_label": "PaintScratch 2000 AMG",
+        "hex_value": "#9F9F99"
+      },
+      {
+        "display_name": "Whimbleton White (91494)",
+        "paint_code": "W8",
+        "slug": "whimbleton-white-91494-w8",
+        "reference_url": "https://www.paintscratch.com/colors/amg/whimbleton-white-91494-w8/",
+        "source_label": "PaintScratch 2000 AMG",
+        "hex_value": "#FBFEEC"
+      },
+      {
+        "display_name": "Bright White (91493)",
+        "paint_code": "W14",
+        "slug": "bright-white-91493-w14",
+        "reference_url": "https://www.paintscratch.com/colors/amg/bright-white-91493-w14/",
+        "source_label": "PaintScratch 2000 AMG",
+        "hex_value": "#FBFCFF"
+      },
+      {
+        "display_name": "Competition Yellow (4266)",
+        "paint_code": "Y20",
+        "slug": "competition-yellow-4266-y20",
+        "reference_url": "https://www.paintscratch.com/colors/amg/competition-yellow-4266-y20/",
+        "source_label": "PaintScratch 2000 AMG",
+        "hex_value": "#F2E51C"
+      }
+    ],
+    "2001": [
+      {
+        "display_name": "Semi Gloss Black (9988)",
+        "paint_code": "B2",
+        "slug": "semi-gloss-black-9988-b2",
+        "reference_url": "https://www.paintscratch.com/colors/amg/semi-gloss-black-9988-b2/",
+        "source_label": "PaintScratch 2001 AMG",
+        "hex_value": "#101012"
+      },
+      {
+        "display_name": "Black (9000)",
+        "paint_code": "B9",
+        "slug": "black-9000-b9",
+        "reference_url": "https://www.paintscratch.com/colors/amg/black-9000-b9/",
+        "source_label": "PaintScratch 2001 AMG",
+        "hex_value": "#101012"
+      },
+      {
+        "display_name": "Night Storm (5292)",
+        "paint_code": "B21",
+        "slug": "night-storm-5292-b21",
+        "reference_url": "https://www.paintscratch.com/colors/amg/night-storm-5292-b21/",
+        "source_label": "PaintScratch 2001 AMG",
+        "hex_value": "#0C0D4A"
+      },
+      {
+        "display_name": "Mesa Dusk (5228)",
+        "paint_code": "C22",
+        "slug": "mesa-dusk-5228-c22",
+        "reference_url": "https://www.paintscratch.com/colors/amg/mesa-dusk-5228-c22/",
+        "source_label": "PaintScratch 2001 AMG",
+        "hex_value": "#746452"
+      },
+      {
+        "display_name": "Green Metallic (47945)",
+        "paint_code": "G10",
+        "slug": "green-metallic-47945-g10",
+        "reference_url": "https://www.paintscratch.com/colors/amg/green-metallic-47945-g10/",
+        "source_label": "PaintScratch 2001 AMG",
+        "hex_value": "#376D48"
+      },
+      {
+        "display_name": "Poppy Red (74575)",
+        "paint_code": "R7",
+        "slug": "poppy-red-74575-r7",
+        "reference_url": "https://www.paintscratch.com/colors/amg/poppy-red-74575-r7/",
+        "source_label": "PaintScratch 2001 AMG",
+        "hex_value": "#AE3926"
+      },
+      {
+        "display_name": "Candy Apple Red (71698)",
+        "paint_code": "R19",
+        "slug": "candy-apple-red-71698-r19",
+        "reference_url": "https://www.paintscratch.com/colors/amg/candy-apple-red-71698-r19/",
+        "source_label": "PaintScratch 2001 AMG",
+        "hex_value": "#EF3415"
+      },
+      {
+        "display_name": "Civilian Silver Metallic",
+        "paint_code": "S15",
+        "slug": "civilian-silver-metallic-s15",
+        "reference_url": "https://www.paintscratch.com/colors/amg/civilian-silver-metallic-s15/",
+        "source_label": "PaintScratch 2001 AMG",
+        "hex_value": "#9F9F99"
+      },
+      {
+        "display_name": "Whimbleton White (91494)",
+        "paint_code": "W8",
+        "slug": "whimbleton-white-91494-w8",
+        "reference_url": "https://www.paintscratch.com/colors/amg/whimbleton-white-91494-w8/",
+        "source_label": "PaintScratch 2001 AMG",
+        "hex_value": "#FBFEEC"
+      },
+      {
+        "display_name": "Bright White (91493)",
+        "paint_code": "W14",
+        "slug": "bright-white-91493-w14",
+        "reference_url": "https://www.paintscratch.com/colors/amg/bright-white-91493-w14/",
+        "source_label": "PaintScratch 2001 AMG",
+        "hex_value": "#FBFCFF"
+      },
+      {
+        "display_name": "Competition Yellow (4266)",
+        "paint_code": "Y20",
+        "slug": "competition-yellow-4266-y20",
+        "reference_url": "https://www.paintscratch.com/colors/amg/competition-yellow-4266-y20/",
+        "source_label": "PaintScratch 2001 AMG",
+        "hex_value": "#F2E51C"
+      }
+    ],
+    "2002": [
+      {
+        "display_name": "Pewter Pri Metallic",
+        "paint_code": "11/WA382E",
+        "slug": "pewter-pri-metallic-11wa382e",
+        "reference_url": "https://www.paintscratch.com/colors/amg/pewter-pri-metallic-11wa382e/",
+        "source_label": "PaintScratch 2002 AMG",
+        "hex_value": "#A4A888"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "41/WA8555",
+        "slug": "black-41wa8555",
+        "reference_url": "https://www.paintscratch.com/colors/amg/black-41wa8555/",
+        "source_label": "PaintScratch 2002 AMG",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Yellow",
+        "paint_code": "43/WA5456",
+        "slug": "yellow-43wa5456",
+        "reference_url": "https://www.paintscratch.com/colors/amg/yellow-43wa5456/",
+        "source_label": "PaintScratch 2002 AMG",
+        "hex_value": "#FFBA01"
+      },
+      {
+        "display_name": "Medium Sage Green Metallic",
+        "paint_code": "45/WA605H",
+        "slug": "medium-sage-green-metallic-45wa605h",
+        "reference_url": "https://www.paintscratch.com/colors/amg/medium-sage-green-metallic-45wa605h/",
+        "source_label": "PaintScratch 2002 AMG",
+        "hex_value": "#7C8252"
+      },
+      {
+        "display_name": "Olympic White",
+        "paint_code": "50/WA8624",
+        "slug": "olympic-white-50wa8624",
+        "reference_url": "https://www.paintscratch.com/colors/amg/olympic-white-50wa8624/",
+        "source_label": "PaintScratch 2002 AMG",
+        "hex_value": "#EFEFE9"
+      },
+      {
+        "display_name": "Redfire Metallic",
+        "paint_code": "72/WA526F",
+        "slug": "redfire-metallic-72wa526f",
+        "reference_url": "https://www.paintscratch.com/colors/amg/redfire-metallic-72wa526f/",
+        "source_label": "PaintScratch 2002 AMG",
+        "hex_value": "#79091C"
+      }
+    ],
+    "2003": [
+      {
+        "display_name": "Pewter Metallic",
+        "paint_code": "11/WA328E",
+        "slug": "pewter-metallic-11wa328e",
+        "reference_url": "https://www.paintscratch.com/colors/amg/pewter-metallic-11wa328e/",
+        "source_label": "PaintScratch 2003 AMG",
+        "hex_value": "#B9AF93"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "41/WA8555",
+        "slug": "black-41wa8555",
+        "reference_url": "https://www.paintscratch.com/colors/amg/black-41wa8555/",
+        "source_label": "PaintScratch 2003 AMG",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Yellow",
+        "paint_code": "43/WA5456",
+        "slug": "yellow-43wa5456",
+        "reference_url": "https://www.paintscratch.com/colors/amg/yellow-43wa5456/",
+        "source_label": "PaintScratch 2003 AMG",
+        "hex_value": "#FFBA01"
+      },
+      {
+        "display_name": "Medium Sage Green Metallic",
+        "paint_code": "45/WA605H",
+        "slug": "medium-sage-green-metallic-45wa605h",
+        "reference_url": "https://www.paintscratch.com/colors/amg/medium-sage-green-metallic-45wa605h/",
+        "source_label": "PaintScratch 2003 AMG",
+        "hex_value": "#7C8252"
+      },
+      {
+        "display_name": "Redfire Metallic",
+        "paint_code": "72/WA526F",
+        "slug": "redfire-metallic-72wa526f",
+        "reference_url": "https://www.paintscratch.com/colors/amg/redfire-metallic-72wa526f/",
+        "source_label": "PaintScratch 2003 AMG",
+        "hex_value": "#79091C"
+      },
+      {
+        "display_name": "Competition Yellow",
+        "paint_code": "79/WA423G",
+        "slug": "competition-yellow-79wa423g",
+        "reference_url": "https://www.paintscratch.com/colors/amg/competition-yellow-79wa423g/",
+        "source_label": "PaintScratch 2003 AMG",
+        "hex_value": "#FFD201"
+      },
+      {
+        "display_name": "Bright White",
+        "paint_code": "96U/WA686H",
+        "slug": "bright-white-96uwa686h",
+        "reference_url": "https://www.paintscratch.com/colors/amg/bright-white-96uwa686h/",
+        "source_label": "PaintScratch 2003 AMG",
+        "hex_value": "#FFFAEB"
+      },
+      {
+        "display_name": "Black Diamond Metallic",
+        "paint_code": "B30",
+        "slug": "black-diamond-metallic-b30",
+        "reference_url": "https://www.paintscratch.com/colors/amg/black-diamond-metallic-b30/",
+        "source_label": "PaintScratch 2003 AMG",
+        "hex_value": "#473F3F"
+      },
+      {
+        "display_name": "Moss Green Pearl",
+        "paint_code": "G23",
+        "slug": "moss-green-pearl-g23",
+        "reference_url": "https://www.paintscratch.com/colors/amg/moss-green-pearl-g23/",
+        "source_label": "PaintScratch 2003 AMG",
+        "hex_value": "#275218"
+      },
+      {
+        "display_name": "Ocean Blue Metallic",
+        "paint_code": "L24",
+        "slug": "ocean-blue-metallic-l24",
+        "reference_url": "https://www.paintscratch.com/colors/amg/ocean-blue-metallic-l24/",
+        "source_label": "PaintScratch 2003 AMG",
+        "hex_value": "#ADBEC1"
+      },
+      {
+        "display_name": "Firehouse Red",
+        "paint_code": "R28",
+        "slug": "firehouse-red-r28",
+        "reference_url": "https://www.paintscratch.com/colors/amg/firehouse-red-r28/",
+        "source_label": "PaintScratch 2003 AMG",
+        "hex_value": "#D12215"
+      },
+      {
+        "display_name": "Civilian Silver Metallic",
+        "paint_code": "S15",
+        "slug": "civilian-silver-metallic-s15",
+        "reference_url": "https://www.paintscratch.com/colors/amg/civilian-silver-metallic-s15/",
+        "source_label": "PaintScratch 2003 AMG",
+        "hex_value": "#9F9F99"
+      },
+      {
+        "display_name": "Summit Silver Metallic",
+        "paint_code": "S31",
+        "slug": "summit-silver-metallic-s31",
+        "reference_url": "https://www.paintscratch.com/colors/amg/summit-silver-metallic-s31/",
+        "source_label": "PaintScratch 2003 AMG",
+        "hex_value": "#A9A89F"
+      },
+      {
+        "display_name": "Desert Sunset Pearl",
+        "paint_code": "T29",
+        "slug": "desert-sunset-pearl-t29",
+        "reference_url": "https://www.paintscratch.com/colors/amg/desert-sunset-pearl-t29/",
+        "source_label": "PaintScratch 2003 AMG",
+        "hex_value": "#BA5902"
+      }
+    ]
+  }
+}

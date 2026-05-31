@@ -1,0 +1,2336 @@
+{
+  "All Models": {
+    "1998": [
+      {
+        "display_name": "White",
+        "paint_code": "B8951K",
+        "slug": "white-b8951k",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/white-b8951k/",
+        "source_label": "PaintScratch 1998 Itasca",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Gray Metallic",
+        "paint_code": "806806",
+        "slug": "gray-metallic-806806",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/gray-metallic-806806/",
+        "source_label": "PaintScratch 1998 Itasca",
+        "hex_value": "#5D666D"
+      },
+      {
+        "display_name": "Dark Neutral",
+        "paint_code": "DM358K",
+        "slug": "dark-neutral-dm358k",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/dark-neutral-dm358k/",
+        "source_label": "PaintScratch 1998 Itasca",
+        "hex_value": "#7A7342"
+      },
+      {
+        "display_name": "Silver",
+        "paint_code": "P7444",
+        "slug": "silver-p7444",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/silver-p7444/",
+        "source_label": "PaintScratch 1998 Itasca",
+        "hex_value": "#D8CC9A"
+      }
+    ],
+    "1999": [
+      {
+        "display_name": "White",
+        "paint_code": "B8951K",
+        "slug": "white-b8951k",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/white-b8951k/",
+        "source_label": "PaintScratch 1999 Itasca",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Gray Metallic",
+        "paint_code": "806806",
+        "slug": "gray-metallic-806806",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/gray-metallic-806806/",
+        "source_label": "PaintScratch 1999 Itasca",
+        "hex_value": "#5D666D"
+      },
+      {
+        "display_name": "Dark Neutral",
+        "paint_code": "DM358K",
+        "slug": "dark-neutral-dm358k",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/dark-neutral-dm358k/",
+        "source_label": "PaintScratch 1999 Itasca",
+        "hex_value": "#7A7342"
+      },
+      {
+        "display_name": "Plum Metallic",
+        "paint_code": "F4593",
+        "slug": "plum-metallic-f4593",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/plum-metallic-f4593/",
+        "source_label": "PaintScratch 1999 Itasca",
+        "hex_value": "#DC3272"
+      },
+      {
+        "display_name": "Khaki Metallic",
+        "paint_code": "F4598",
+        "slug": "khaki-metallic-f4598",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/khaki-metallic-f4598/",
+        "source_label": "PaintScratch 1999 Itasca",
+        "hex_value": "#985636"
+      },
+      {
+        "display_name": "Silver",
+        "paint_code": "P7444",
+        "slug": "silver-p7444",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/silver-p7444/",
+        "source_label": "PaintScratch 1999 Itasca",
+        "hex_value": "#D8CC9A"
+      }
+    ],
+    "2000": [
+      {
+        "display_name": "White",
+        "paint_code": "B8951K",
+        "slug": "white-b8951k",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/white-b8951k/",
+        "source_label": "PaintScratch 2000 Itasca",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Gray Metallic",
+        "paint_code": "806806",
+        "slug": "gray-metallic-806806",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/gray-metallic-806806/",
+        "source_label": "PaintScratch 2000 Itasca",
+        "hex_value": "#5D666D"
+      },
+      {
+        "display_name": "Dark Neutral",
+        "paint_code": "DM358K",
+        "slug": "dark-neutral-dm358k",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/dark-neutral-dm358k/",
+        "source_label": "PaintScratch 2000 Itasca",
+        "hex_value": "#7A7342"
+      },
+      {
+        "display_name": "Black Mist Metallic PPG948299",
+        "paint_code": "FLNA94194",
+        "slug": "black-mist-metallic-ppg948299-flna94194",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/black-mist-metallic-ppg948299-flna94194/",
+        "source_label": "PaintScratch 2000 Itasca",
+        "hex_value": "#310D1A"
+      },
+      {
+        "display_name": "Light Silver",
+        "paint_code": "F2573",
+        "slug": "light-silver-f2573",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/light-silver-f2573/",
+        "source_label": "PaintScratch 2000 Itasca",
+        "hex_value": "#D6E0F8"
+      },
+      {
+        "display_name": "Medium Blue",
+        "paint_code": "F4578",
+        "slug": "medium-blue-f4578",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/medium-blue-f4578/",
+        "source_label": "PaintScratch 2000 Itasca",
+        "hex_value": "#0D2D97"
+      },
+      {
+        "display_name": "Silver",
+        "paint_code": "P7444",
+        "slug": "silver-p7444",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/silver-p7444/",
+        "source_label": "PaintScratch 2000 Itasca",
+        "hex_value": "#D8CC9A"
+      },
+      {
+        "display_name": "Wine Metallic",
+        "paint_code": "RM022",
+        "slug": "wine-metallic-rm022",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/wine-metallic-rm022/",
+        "source_label": "PaintScratch 2000 Itasca",
+        "hex_value": "#761C1A"
+      }
+    ],
+    "2001": [
+      {
+        "display_name": "White",
+        "paint_code": "B8951K",
+        "slug": "white-b8951k",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/white-b8951k/",
+        "source_label": "PaintScratch 2001 Itasca",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Gray Metallic",
+        "paint_code": "806806",
+        "slug": "gray-metallic-806806",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/gray-metallic-806806/",
+        "source_label": "PaintScratch 2001 Itasca",
+        "hex_value": "#5D666D"
+      },
+      {
+        "display_name": "Dark Neutral",
+        "paint_code": "DM358K",
+        "slug": "dark-neutral-dm358k",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/dark-neutral-dm358k/",
+        "source_label": "PaintScratch 2001 Itasca",
+        "hex_value": "#7A7342"
+      },
+      {
+        "display_name": "Silver",
+        "paint_code": "P7444",
+        "slug": "silver-p7444",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/silver-p7444/",
+        "source_label": "PaintScratch 2001 Itasca",
+        "hex_value": "#D8CC9A"
+      }
+    ],
+    "2002": [
+      {
+        "display_name": "White",
+        "paint_code": "B8951K",
+        "slug": "white-b8951k",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/white-b8951k/",
+        "source_label": "PaintScratch 2002 Itasca",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Gray Metallic",
+        "paint_code": "806806",
+        "slug": "gray-metallic-806806",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/gray-metallic-806806/",
+        "source_label": "PaintScratch 2002 Itasca",
+        "hex_value": "#5D666D"
+      },
+      {
+        "display_name": "Dark Neutral",
+        "paint_code": "DM358K",
+        "slug": "dark-neutral-dm358k",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/dark-neutral-dm358k/",
+        "source_label": "PaintScratch 2002 Itasca",
+        "hex_value": "#7A7342"
+      },
+      {
+        "display_name": "Blue",
+        "paint_code": "P6240",
+        "slug": "blue-p6240",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/blue-p6240/",
+        "source_label": "PaintScratch 2002 Itasca",
+        "hex_value": "#495EA3"
+      },
+      {
+        "display_name": "Medium Titanium",
+        "paint_code": "C9248",
+        "slug": "medium-titanium-c9248",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/medium-titanium-c9248/",
+        "source_label": "PaintScratch 2002 Itasca",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Medium Blue Star",
+        "paint_code": "F0738",
+        "slug": "medium-blue-star-f0738",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/medium-blue-star-f0738/",
+        "source_label": "PaintScratch 2002 Itasca",
+        "hex_value": "#495EA3"
+      },
+      {
+        "display_name": "Blue",
+        "paint_code": "F1548K",
+        "slug": "blue-f1548k",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/blue-f1548k/",
+        "source_label": "PaintScratch 2002 Itasca",
+        "hex_value": "#0D2D97"
+      },
+      {
+        "display_name": "Light Silver",
+        "paint_code": "F2573",
+        "slug": "light-silver-f2573",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/light-silver-f2573/",
+        "source_label": "PaintScratch 2002 Itasca",
+        "hex_value": "#D6E0F8"
+      },
+      {
+        "display_name": "Sterling Blue Metallic",
+        "paint_code": "P6234K",
+        "slug": "sterling-blue-metallic-p6234k",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/sterling-blue-metallic-p6234k/",
+        "source_label": "PaintScratch 2002 Itasca",
+        "hex_value": "#D6E0F8"
+      },
+      {
+        "display_name": "Silver",
+        "paint_code": "P7444",
+        "slug": "silver-p7444",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/silver-p7444/",
+        "source_label": "PaintScratch 2002 Itasca",
+        "hex_value": "#D8CC9A"
+      },
+      {
+        "display_name": "Red Metallic",
+        "paint_code": "RM055",
+        "slug": "red-metallic-rm055",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/red-metallic-rm055/",
+        "source_label": "PaintScratch 2002 Itasca",
+        "hex_value": "#AC2222"
+      }
+    ],
+    "2003": [
+      {
+        "display_name": "White",
+        "paint_code": "B8951K",
+        "slug": "white-b8951k",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/white-b8951k/",
+        "source_label": "PaintScratch 2003 Itasca",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Gray Metallic",
+        "paint_code": "806806",
+        "slug": "gray-metallic-806806",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/gray-metallic-806806/",
+        "source_label": "PaintScratch 2003 Itasca",
+        "hex_value": "#5D666D"
+      },
+      {
+        "display_name": "Dark Neutral",
+        "paint_code": "DM358K",
+        "slug": "dark-neutral-dm358k",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/dark-neutral-dm358k/",
+        "source_label": "PaintScratch 2003 Itasca",
+        "hex_value": "#7A7342"
+      },
+      {
+        "display_name": "Jaguar Blue Metallic",
+        "paint_code": "P7414",
+        "slug": "jaguar-blue-metallic-p7414",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/jaguar-blue-metallic-p7414/",
+        "source_label": "PaintScratch 2003 Itasca",
+        "hex_value": "#468D8E"
+      },
+      {
+        "display_name": "Gray",
+        "paint_code": "P7448",
+        "slug": "gray-p7448",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/gray-p7448/",
+        "source_label": "PaintScratch 2003 Itasca",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Sandstone Grey",
+        "paint_code": "M4949",
+        "slug": "sandstone-grey-m4949",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/sandstone-grey-m4949/",
+        "source_label": "PaintScratch 2003 Itasca",
+        "hex_value": "#E7DFC5"
+      },
+      {
+        "display_name": "Sand Metallic",
+        "paint_code": "P7415",
+        "slug": "sand-metallic-p7415",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/sand-metallic-p7415/",
+        "source_label": "PaintScratch 2003 Itasca",
+        "hex_value": "#D1A341"
+      },
+      {
+        "display_name": "Silver",
+        "paint_code": "P7444",
+        "slug": "silver-p7444",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/silver-p7444/",
+        "source_label": "PaintScratch 2003 Itasca",
+        "hex_value": "#D8CC9A"
+      }
+    ],
+    "2004": [
+      {
+        "display_name": "White",
+        "paint_code": "B8951K",
+        "slug": "white-b8951k",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/white-b8951k/",
+        "source_label": "PaintScratch 2004 Itasca",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Medium Opal Metallic",
+        "paint_code": "45809",
+        "slug": "medium-opal-metallic-45809",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/medium-opal-metallic-45809/",
+        "source_label": "PaintScratch 2004 Itasca",
+        "hex_value": "#C2DB7F"
+      },
+      {
+        "display_name": "Gray Metallic",
+        "paint_code": "806806",
+        "slug": "gray-metallic-806806",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/gray-metallic-806806/",
+        "source_label": "PaintScratch 2004 Itasca",
+        "hex_value": "#5D666D"
+      },
+      {
+        "display_name": "Medium Gray (PPG 5706)",
+        "paint_code": "CDI-60588",
+        "slug": "medium-gray-ppg-5706-cdi-60588",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/medium-gray-ppg-5706-cdi-60588/",
+        "source_label": "PaintScratch 2004 Itasca",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Green",
+        "paint_code": "CDI-62494",
+        "slug": "green-cdi-62494",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/green-cdi-62494/",
+        "source_label": "PaintScratch 2004 Itasca",
+        "hex_value": "#2E6D1F"
+      },
+      {
+        "display_name": "Dark Neutral",
+        "paint_code": "DM358K",
+        "slug": "dark-neutral-dm358k",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/dark-neutral-dm358k/",
+        "source_label": "PaintScratch 2004 Itasca",
+        "hex_value": "#7A7342"
+      },
+      {
+        "display_name": "Mojave Mist Metallic",
+        "paint_code": "5900",
+        "slug": "mojave-mist-metallic-5900",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/mojave-mist-metallic-5900/",
+        "source_label": "PaintScratch 2004 Itasca",
+        "hex_value": "#E3BD25"
+      },
+      {
+        "display_name": "Medium Quartz",
+        "paint_code": "41562",
+        "slug": "medium-quartz-41562",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/medium-quartz-41562/",
+        "source_label": "PaintScratch 2004 Itasca",
+        "hex_value": "#7F768E"
+      },
+      {
+        "display_name": "New Wind Veil",
+        "paint_code": "62974",
+        "slug": "new-wind-veil-62974",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/new-wind-veil-62974/",
+        "source_label": "PaintScratch 2004 Itasca",
+        "hex_value": "#738CA5"
+      },
+      {
+        "display_name": "Gray",
+        "paint_code": "754784K",
+        "slug": "gray-754784k",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/gray-754784k/",
+        "source_label": "PaintScratch 2004 Itasca",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Medium Blue (PPG 5103)",
+        "paint_code": "CDI-51238",
+        "slug": "medium-blue-ppg-5103-cdi-51238",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/medium-blue-ppg-5103-cdi-51238/",
+        "source_label": "PaintScratch 2004 Itasca",
+        "hex_value": "#0D2D97"
+      },
+      {
+        "display_name": "Cinnamon Glaze",
+        "paint_code": "CDI-54469",
+        "slug": "cinnamon-glaze-cdi-54469",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/cinnamon-glaze-cdi-54469/",
+        "source_label": "PaintScratch 2004 Itasca",
+        "hex_value": "#CD7F32"
+      },
+      {
+        "display_name": "Slate Blue",
+        "paint_code": "CDI-60728",
+        "slug": "slate-blue-cdi-60728",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/slate-blue-cdi-60728/",
+        "source_label": "PaintScratch 2004 Itasca",
+        "hex_value": "#495EA3"
+      },
+      {
+        "display_name": "Gray",
+        "paint_code": "CDI-63528",
+        "slug": "gray-cdi-63528",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/gray-cdi-63528/",
+        "source_label": "PaintScratch 2004 Itasca",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Dark Green",
+        "paint_code": "CDI-63942",
+        "slug": "dark-green-cdi-63942",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/dark-green-cdi-63942/",
+        "source_label": "PaintScratch 2004 Itasca",
+        "hex_value": "#15350F"
+      },
+      {
+        "display_name": "Warm Silver Metallic",
+        "paint_code": "P7431",
+        "slug": "warm-silver-metallic-p7431",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/warm-silver-metallic-p7431/",
+        "source_label": "PaintScratch 2004 Itasca",
+        "hex_value": "#808080"
+      }
+    ],
+    "2005": [
+      {
+        "display_name": "White",
+        "paint_code": "B8951K",
+        "slug": "white-b8951k",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/white-b8951k/",
+        "source_label": "PaintScratch 2005 Itasca",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Brown",
+        "paint_code": "CDI-52567",
+        "slug": "brown-cdi-52567",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/brown-cdi-52567/",
+        "source_label": "PaintScratch 2005 Itasca",
+        "hex_value": "#310D1A"
+      },
+      {
+        "display_name": "Sierra Bronze",
+        "paint_code": "CDI-57763",
+        "slug": "sierra-bronze-cdi-57763",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/sierra-bronze-cdi-57763/",
+        "source_label": "PaintScratch 2005 Itasca",
+        "hex_value": "#D1A341"
+      },
+      {
+        "display_name": "Arizona Beige",
+        "paint_code": "CDI-58299",
+        "slug": "arizona-beige-cdi-58299",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/arizona-beige-cdi-58299/",
+        "source_label": "PaintScratch 2005 Itasca",
+        "hex_value": "#985636"
+      },
+      {
+        "display_name": "Gray Metallic",
+        "paint_code": "806806",
+        "slug": "gray-metallic-806806",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/gray-metallic-806806/",
+        "source_label": "PaintScratch 2005 Itasca",
+        "hex_value": "#5D666D"
+      },
+      {
+        "display_name": "Med Aqua",
+        "paint_code": "CDI-42023",
+        "slug": "med-aqua-cdi-42023",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/med-aqua-cdi-42023/",
+        "source_label": "PaintScratch 2005 Itasca",
+        "hex_value": "#468D8E"
+      },
+      {
+        "display_name": "Pewter",
+        "paint_code": "CDI-60116",
+        "slug": "pewter-cdi-60116",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/pewter-cdi-60116/",
+        "source_label": "PaintScratch 2005 Itasca",
+        "hex_value": "#985636"
+      },
+      {
+        "display_name": "Dark Red",
+        "paint_code": "CDI- 64010",
+        "slug": "dark-red-cdi-64010",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/dark-red-cdi-64010/",
+        "source_label": "PaintScratch 2005 Itasca",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "Dark Neutral",
+        "paint_code": "DM358K",
+        "slug": "dark-neutral-dm358k",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/dark-neutral-dm358k/",
+        "source_label": "PaintScratch 2005 Itasca",
+        "hex_value": "#7A7342"
+      },
+      {
+        "display_name": "Antique Sage Pearl Metallic",
+        "paint_code": "54757",
+        "slug": "antique-sage-pearl-metallic-54757",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/antique-sage-pearl-metallic-54757/",
+        "source_label": "PaintScratch 2005 Itasca",
+        "hex_value": "#9CB860"
+      },
+      {
+        "display_name": "Charcoal",
+        "paint_code": "CDI-44995",
+        "slug": "charcoal-cdi-44995",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/charcoal-cdi-44995/",
+        "source_label": "PaintScratch 2005 Itasca",
+        "hex_value": "#202020"
+      },
+      {
+        "display_name": "Medium Gray",
+        "paint_code": "CDI-54757",
+        "slug": "medium-gray-cdi-54757",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/medium-gray-cdi-54757/",
+        "source_label": "PaintScratch 2005 Itasca",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Dark Green",
+        "paint_code": "CDI-57761",
+        "slug": "dark-green-cdi-57761",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/dark-green-cdi-57761/",
+        "source_label": "PaintScratch 2005 Itasca",
+        "hex_value": "#15350F"
+      },
+      {
+        "display_name": "Iron Gray",
+        "paint_code": "CDI-61766",
+        "slug": "iron-gray-cdi-61766",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/iron-gray-cdi-61766/",
+        "source_label": "PaintScratch 2005 Itasca",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Gold",
+        "paint_code": "CDI-63103",
+        "slug": "gold-cdi-63103",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/gold-cdi-63103/",
+        "source_label": "PaintScratch 2005 Itasca",
+        "hex_value": "#E3BD25"
+      },
+      {
+        "display_name": "Gray",
+        "paint_code": "CDI-63227",
+        "slug": "gray-cdi-63227",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/gray-cdi-63227/",
+        "source_label": "PaintScratch 2005 Itasca",
+        "hex_value": "#C0C0C0"
+      }
+    ],
+    "2006": [
+      {
+        "display_name": "White",
+        "paint_code": "B8951K",
+        "slug": "white-b8951k",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/white-b8951k/",
+        "source_label": "PaintScratch 2006 Itasca",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Medium Gray",
+        "paint_code": "751976K",
+        "slug": "medium-gray-751976k",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/medium-gray-751976k/",
+        "source_label": "PaintScratch 2006 Itasca",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Gray Metallic",
+        "paint_code": "806806",
+        "slug": "gray-metallic-806806",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/gray-metallic-806806/",
+        "source_label": "PaintScratch 2006 Itasca",
+        "hex_value": "#5D666D"
+      },
+      {
+        "display_name": "Tan (PPG 5517)",
+        "paint_code": "CDI-57776",
+        "slug": "tan-ppg-5517-cdi-57776",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/tan-ppg-5517-cdi-57776/",
+        "source_label": "PaintScratch 2006 Itasca",
+        "hex_value": "#D1A341"
+      },
+      {
+        "display_name": "Green",
+        "paint_code": "CDI-62494",
+        "slug": "green-cdi-62494",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/green-cdi-62494/",
+        "source_label": "PaintScratch 2006 Itasca",
+        "hex_value": "#2E6D1F"
+      },
+      {
+        "display_name": "Beige (PPG 5862)",
+        "paint_code": "CDI-63499",
+        "slug": "beige-ppg-5862-cdi-63499",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/beige-ppg-5862-cdi-63499/",
+        "source_label": "PaintScratch 2006 Itasca",
+        "hex_value": "#E9D9A1"
+      },
+      {
+        "display_name": "Dark Neutral",
+        "paint_code": "DM358K",
+        "slug": "dark-neutral-dm358k",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/dark-neutral-dm358k/",
+        "source_label": "PaintScratch 2006 Itasca",
+        "hex_value": "#7A7342"
+      },
+      {
+        "display_name": "Blue",
+        "paint_code": "P758414",
+        "slug": "blue-p758414",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/blue-p758414/",
+        "source_label": "PaintScratch 2006 Itasca",
+        "hex_value": "#495EA3"
+      },
+      {
+        "display_name": "Medium Gray",
+        "paint_code": "33936",
+        "slug": "medium-gray-33936",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/medium-gray-33936/",
+        "source_label": "PaintScratch 2006 Itasca",
+        "hex_value": "#76788E"
+      },
+      {
+        "display_name": "Medium Quartz",
+        "paint_code": "41562",
+        "slug": "medium-quartz-41562",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/medium-quartz-41562/",
+        "source_label": "PaintScratch 2006 Itasca",
+        "hex_value": "#7F768E"
+      },
+      {
+        "display_name": "Gold",
+        "paint_code": "61894",
+        "slug": "gold-61894",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/gold-61894/",
+        "source_label": "PaintScratch 2006 Itasca",
+        "hex_value": "#E3BD25"
+      },
+      {
+        "display_name": "Medium Gray",
+        "paint_code": "62444",
+        "slug": "medium-gray-62444",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/medium-gray-62444/",
+        "source_label": "PaintScratch 2006 Itasca",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "New Wind Veil",
+        "paint_code": "62974",
+        "slug": "new-wind-veil-62974",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/new-wind-veil-62974/",
+        "source_label": "PaintScratch 2006 Itasca",
+        "hex_value": "#738CA5"
+      },
+      {
+        "display_name": "Anthracite",
+        "paint_code": "63227",
+        "slug": "anthracite-63227",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/anthracite-63227/",
+        "source_label": "PaintScratch 2006 Itasca",
+        "hex_value": "#707880"
+      },
+      {
+        "display_name": "Sedona Metallic",
+        "paint_code": "63814",
+        "slug": "sedona-metallic-63814",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/sedona-metallic-63814/",
+        "source_label": "PaintScratch 2006 Itasca",
+        "hex_value": "#C57E3F"
+      },
+      {
+        "display_name": "White",
+        "paint_code": "741883",
+        "slug": "white-741883",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/white-741883/",
+        "source_label": "PaintScratch 2006 Itasca",
+        "hex_value": "#FFFFFF"
+      }
+    ],
+    "2007": [
+      {
+        "display_name": "White",
+        "paint_code": "B8951K",
+        "slug": "white-b8951k",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/white-b8951k/",
+        "source_label": "PaintScratch 2007 Itasca",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Arizona Beige",
+        "paint_code": "CDI-58299",
+        "slug": "arizona-beige-cdi-58299",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/arizona-beige-cdi-58299/",
+        "source_label": "PaintScratch 2007 Itasca",
+        "hex_value": "#985636"
+      },
+      {
+        "display_name": "Gray Metallic",
+        "paint_code": "806806",
+        "slug": "gray-metallic-806806",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/gray-metallic-806806/",
+        "source_label": "PaintScratch 2007 Itasca",
+        "hex_value": "#5D666D"
+      },
+      {
+        "display_name": "Gray",
+        "paint_code": "CDI-48823",
+        "slug": "gray-cdi-48823",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/gray-cdi-48823/",
+        "source_label": "PaintScratch 2007 Itasca",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Brown",
+        "paint_code": "CDI-60796",
+        "slug": "brown-cdi-60796",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/brown-cdi-60796/",
+        "source_label": "PaintScratch 2007 Itasca",
+        "hex_value": "#766666"
+      },
+      {
+        "display_name": "Beige (PPG 5862)",
+        "paint_code": "CDI-63499",
+        "slug": "beige-ppg-5862-cdi-63499",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/beige-ppg-5862-cdi-63499/",
+        "source_label": "PaintScratch 2007 Itasca",
+        "hex_value": "#E9D9A1"
+      },
+      {
+        "display_name": "Dark Neutral",
+        "paint_code": "DM358K",
+        "slug": "dark-neutral-dm358k",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/dark-neutral-dm358k/",
+        "source_label": "PaintScratch 2007 Itasca",
+        "hex_value": "#7A7342"
+      },
+      {
+        "display_name": "Beige-200343",
+        "paint_code": "62879",
+        "slug": "beige-200343-62879",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/beige-200343-62879/",
+        "source_label": "PaintScratch 2007 Itasca",
+        "hex_value": "#E9D9A1"
+      },
+      {
+        "display_name": "New Wind Veil",
+        "paint_code": "62974",
+        "slug": "new-wind-veil-62974",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/new-wind-veil-62974/",
+        "source_label": "PaintScratch 2007 Itasca",
+        "hex_value": "#738CA5"
+      },
+      {
+        "display_name": "Med. Parchment",
+        "paint_code": "775157K",
+        "slug": "med-parchment-775157k",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/med-parchment-775157k/",
+        "source_label": "PaintScratch 2007 Itasca",
+        "hex_value": "#C57E3F"
+      },
+      {
+        "display_name": "Beige (PPG 4937)",
+        "paint_code": "CDI-50381",
+        "slug": "beige-ppg-4937-cdi-50381",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/beige-ppg-4937-cdi-50381/",
+        "source_label": "PaintScratch 2007 Itasca",
+        "hex_value": "#E9D9A1"
+      },
+      {
+        "display_name": "Light Beige",
+        "paint_code": "CDI-64139",
+        "slug": "light-beige-cdi-64139",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/light-beige-cdi-64139/",
+        "source_label": "PaintScratch 2007 Itasca",
+        "hex_value": "#E7DFC5"
+      },
+      {
+        "display_name": "Green Gold-933630",
+        "paint_code": "DM-077",
+        "slug": "green-gold-933630-dm-077",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/green-gold-933630-dm-077/",
+        "source_label": "PaintScratch 2007 Itasca",
+        "hex_value": "#9C8C08"
+      },
+      {
+        "display_name": "Beige",
+        "paint_code": "P7436",
+        "slug": "beige-p7436",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/beige-p7436/",
+        "source_label": "PaintScratch 2007 Itasca",
+        "hex_value": "#E9D9A1"
+      },
+      {
+        "display_name": "Dark Green",
+        "paint_code": "P7443",
+        "slug": "dark-green-p7443",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/dark-green-p7443/",
+        "source_label": "PaintScratch 2007 Itasca",
+        "hex_value": "#15350F"
+      },
+      {
+        "display_name": "Silver",
+        "paint_code": "P7444",
+        "slug": "silver-p7444",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/silver-p7444/",
+        "source_label": "PaintScratch 2007 Itasca",
+        "hex_value": "#D8CC9A"
+      }
+    ],
+    "2008": [
+      {
+        "display_name": "White",
+        "paint_code": "B8951K",
+        "slug": "white-b8951k",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/white-b8951k/",
+        "source_label": "PaintScratch 2008 Itasca",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Brilliant Silver Metallic",
+        "paint_code": "45696-4",
+        "slug": "brilliant-silver-metallic-45696-4",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/brilliant-silver-metallic-45696-4/",
+        "source_label": "PaintScratch 2008 Itasca",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Dark Red",
+        "paint_code": "54119",
+        "slug": "dark-red-54119",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/dark-red-54119/",
+        "source_label": "PaintScratch 2008 Itasca",
+        "hex_value": "#4A1A16"
+      },
+      {
+        "display_name": "Gray Metallic",
+        "paint_code": "806806",
+        "slug": "gray-metallic-806806",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/gray-metallic-806806/",
+        "source_label": "PaintScratch 2008 Itasca",
+        "hex_value": "#5D666D"
+      },
+      {
+        "display_name": "Gray",
+        "paint_code": "CDI-48823",
+        "slug": "gray-cdi-48823",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/gray-cdi-48823/",
+        "source_label": "PaintScratch 2008 Itasca",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Dark Neutral",
+        "paint_code": "DM358K",
+        "slug": "dark-neutral-dm358k",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/dark-neutral-dm358k/",
+        "source_label": "PaintScratch 2008 Itasca",
+        "hex_value": "#7A7342"
+      },
+      {
+        "display_name": "Medium Gray",
+        "paint_code": "33936",
+        "slug": "medium-gray-33936",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/medium-gray-33936/",
+        "source_label": "PaintScratch 2008 Itasca",
+        "hex_value": "#76788E"
+      },
+      {
+        "display_name": "Pebble Beige Metallic",
+        "paint_code": "38660-2",
+        "slug": "pebble-beige-metallic-38660-2",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/pebble-beige-metallic-38660-2/",
+        "source_label": "PaintScratch 2008 Itasca",
+        "hex_value": "#E9D9A1"
+      },
+      {
+        "display_name": "Lt Pearlstone Metallic",
+        "paint_code": "41824",
+        "slug": "lt-pearlstone-metallic-41824",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/lt-pearlstone-metallic-41824/",
+        "source_label": "PaintScratch 2008 Itasca",
+        "hex_value": "#E9D9A1"
+      },
+      {
+        "display_name": "Medium Gray",
+        "paint_code": "44094",
+        "slug": "medium-gray-44094",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/medium-gray-44094/",
+        "source_label": "PaintScratch 2008 Itasca",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Medium Graphite Metallic -4986",
+        "paint_code": "50311",
+        "slug": "medium-graphite-metallic-4986-50311",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/medium-graphite-metallic-4986-50311/",
+        "source_label": "PaintScratch 2008 Itasca",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Gray",
+        "paint_code": "50655",
+        "slug": "gray-50655",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/gray-50655/",
+        "source_label": "PaintScratch 2008 Itasca",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Beige PPG5128",
+        "paint_code": "51291",
+        "slug": "beige-ppg5128-51291",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/beige-ppg5128-51291/",
+        "source_label": "PaintScratch 2008 Itasca",
+        "hex_value": "#E9D9A1"
+      },
+      {
+        "display_name": "Desert Sand",
+        "paint_code": "56153",
+        "slug": "desert-sand-56153",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/desert-sand-56153/",
+        "source_label": "PaintScratch 2008 Itasca",
+        "hex_value": "#E7DFC5"
+      },
+      {
+        "display_name": "Sable Pearl Metallic",
+        "paint_code": "56740-4",
+        "slug": "sable-pearl-metallic-56740-4",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/sable-pearl-metallic-56740-4/",
+        "source_label": "PaintScratch 2008 Itasca",
+        "hex_value": "#E7DFC5"
+      },
+      {
+        "display_name": "Dk Gray Mica -5642",
+        "paint_code": "59271",
+        "slug": "dk-gray-mica-5642-59271",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/dk-gray-mica-5642-59271/",
+        "source_label": "PaintScratch 2008 Itasca",
+        "hex_value": "#404040"
+      }
+    ],
+    "2009": [
+      {
+        "display_name": "White",
+        "paint_code": "B8951K",
+        "slug": "white-b8951k",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/white-b8951k/",
+        "source_label": "PaintScratch 2009 Itasca",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Sandstone Beige Metallic",
+        "paint_code": "43482-3",
+        "slug": "sandstone-beige-metallic-43482-3",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/sandstone-beige-metallic-43482-3/",
+        "source_label": "PaintScratch 2009 Itasca",
+        "hex_value": "#E9D9A1"
+      },
+      {
+        "display_name": "Brilliant Silver Metallic",
+        "paint_code": "45696-4",
+        "slug": "brilliant-silver-metallic-45696-4",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/brilliant-silver-metallic-45696-4/",
+        "source_label": "PaintScratch 2009 Itasca",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Light Grey Metallic",
+        "paint_code": "45729",
+        "slug": "light-grey-metallic-45729",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/light-grey-metallic-45729/",
+        "source_label": "PaintScratch 2009 Itasca",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Medium Opal Metallic",
+        "paint_code": "45809",
+        "slug": "medium-opal-metallic-45809",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/medium-opal-metallic-45809/",
+        "source_label": "PaintScratch 2009 Itasca",
+        "hex_value": "#C2DB7F"
+      },
+      {
+        "display_name": "Steel Blue Metallic",
+        "paint_code": "63302",
+        "slug": "steel-blue-metallic-63302",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/steel-blue-metallic-63302/",
+        "source_label": "PaintScratch 2009 Itasca",
+        "hex_value": "#0D2D97"
+      },
+      {
+        "display_name": "Gray Metallic",
+        "paint_code": "806806",
+        "slug": "gray-metallic-806806",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/gray-metallic-806806/",
+        "source_label": "PaintScratch 2009 Itasca",
+        "hex_value": "#5D666D"
+      },
+      {
+        "display_name": "Dark Neutral",
+        "paint_code": "DM358K",
+        "slug": "dark-neutral-dm358k",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/dark-neutral-dm358k/",
+        "source_label": "PaintScratch 2009 Itasca",
+        "hex_value": "#7A7342"
+      },
+      {
+        "display_name": "Ford Silver Metallic",
+        "paint_code": "43638",
+        "slug": "ford-silver-metallic-43638",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/ford-silver-metallic-43638/",
+        "source_label": "PaintScratch 2009 Itasca",
+        "hex_value": "#D6E0F8"
+      },
+      {
+        "display_name": "Subtle Green Metallic",
+        "paint_code": "50540",
+        "slug": "subtle-green-metallic-50540",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/subtle-green-metallic-50540/",
+        "source_label": "PaintScratch 2009 Itasca",
+        "hex_value": "#9C8C08"
+      },
+      {
+        "display_name": "Antique Sage Pearl Metallic",
+        "paint_code": "54757",
+        "slug": "antique-sage-pearl-metallic-54757",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/antique-sage-pearl-metallic-54757/",
+        "source_label": "PaintScratch 2009 Itasca",
+        "hex_value": "#9CB860"
+      },
+      {
+        "display_name": "Dark Gray Metallic",
+        "paint_code": "64255",
+        "slug": "dark-gray-metallic-64255",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/dark-gray-metallic-64255/",
+        "source_label": "PaintScratch 2009 Itasca",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Silver",
+        "paint_code": "P7444",
+        "slug": "silver-p7444",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/silver-p7444/",
+        "source_label": "PaintScratch 2009 Itasca",
+        "hex_value": "#D8CC9A"
+      },
+      {
+        "display_name": "Med Platinum Metallic",
+        "paint_code": "YB7",
+        "slug": "med-platinum-metallic-yb7",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/med-platinum-metallic-yb7/",
+        "source_label": "PaintScratch 2009 Itasca",
+        "hex_value": "#404040"
+      }
+    ],
+    "2010": [
+      {
+        "display_name": "White",
+        "paint_code": "B8951K",
+        "slug": "white-b8951k",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/white-b8951k/",
+        "source_label": "PaintScratch 2010 Itasca",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Gray Metallic",
+        "paint_code": "806806",
+        "slug": "gray-metallic-806806",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/gray-metallic-806806/",
+        "source_label": "PaintScratch 2010 Itasca",
+        "hex_value": "#5D666D"
+      },
+      {
+        "display_name": "Brilliant Silver Metallic",
+        "paint_code": "823610FB",
+        "slug": "brilliant-silver-metallic-823610fb",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/brilliant-silver-metallic-823610fb/",
+        "source_label": "PaintScratch 2010 Itasca",
+        "hex_value": "#F2F5F8"
+      },
+      {
+        "display_name": "Charcoal Metallic II",
+        "paint_code": "B8803K",
+        "slug": "charcoal-metallic-ii-b8803k",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/charcoal-metallic-ii-b8803k/",
+        "source_label": "PaintScratch 2010 Itasca",
+        "hex_value": "#404040"
+      },
+      {
+        "display_name": "Dark Neutral",
+        "paint_code": "DM358K",
+        "slug": "dark-neutral-dm358k",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/dark-neutral-dm358k/",
+        "source_label": "PaintScratch 2010 Itasca",
+        "hex_value": "#7A7342"
+      },
+      {
+        "display_name": "Iron Gray",
+        "paint_code": "FLNA94186",
+        "slug": "iron-gray-flna94186",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/iron-gray-flna94186/",
+        "source_label": "PaintScratch 2010 Itasca",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Mojave Mist Metallic",
+        "paint_code": "5900",
+        "slug": "mojave-mist-metallic-5900",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/mojave-mist-metallic-5900/",
+        "source_label": "PaintScratch 2010 Itasca",
+        "hex_value": "#E3BD25"
+      },
+      {
+        "display_name": "Smoke Metallic",
+        "paint_code": "361412",
+        "slug": "smoke-metallic-361412",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/smoke-metallic-361412/",
+        "source_label": "PaintScratch 2010 Itasca",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Iron Grey",
+        "paint_code": "745477K",
+        "slug": "iron-grey-745477k",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/iron-grey-745477k/",
+        "source_label": "PaintScratch 2010 Itasca",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Gray PPG4820",
+        "paint_code": "FLNA94167",
+        "slug": "gray-ppg4820-flna94167",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/gray-ppg4820-flna94167/",
+        "source_label": "PaintScratch 2010 Itasca",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Silver",
+        "paint_code": "P7444",
+        "slug": "silver-p7444",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/silver-p7444/",
+        "source_label": "PaintScratch 2010 Itasca",
+        "hex_value": "#D8CC9A"
+      },
+      {
+        "display_name": "Pewter",
+        "paint_code": "P804205",
+        "slug": "pewter-p804205",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/pewter-p804205/",
+        "source_label": "PaintScratch 2010 Itasca",
+        "hex_value": "#E7DFC5"
+      },
+      {
+        "display_name": "Gold",
+        "paint_code": "P806807",
+        "slug": "gold-p806807",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/gold-p806807/",
+        "source_label": "PaintScratch 2010 Itasca",
+        "hex_value": "#E3BD25"
+      }
+    ],
+    "2011": [
+      {
+        "display_name": "White",
+        "paint_code": "B8951K",
+        "slug": "white-b8951k",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/white-b8951k/",
+        "source_label": "PaintScratch 2011 Itasca",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Gray Metallic",
+        "paint_code": "806806",
+        "slug": "gray-metallic-806806",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/gray-metallic-806806/",
+        "source_label": "PaintScratch 2011 Itasca",
+        "hex_value": "#5D666D"
+      },
+      {
+        "display_name": "Dark Neutral",
+        "paint_code": "DM358K",
+        "slug": "dark-neutral-dm358k",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/dark-neutral-dm358k/",
+        "source_label": "PaintScratch 2011 Itasca",
+        "hex_value": "#7A7342"
+      },
+      {
+        "display_name": "Beige",
+        "paint_code": "FLNA94168",
+        "slug": "beige-flna94168",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/beige-flna94168/",
+        "source_label": "PaintScratch 2011 Itasca",
+        "hex_value": "#E9D9A1"
+      },
+      {
+        "display_name": "Light Brown",
+        "paint_code": "45310K",
+        "slug": "light-brown-45310k",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/light-brown-45310k/",
+        "source_label": "PaintScratch 2011 Itasca",
+        "hex_value": "#D1A341"
+      },
+      {
+        "display_name": "Very Light Green",
+        "paint_code": "822143FB",
+        "slug": "very-light-green-822143fb",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/very-light-green-822143fb/",
+        "source_label": "PaintScratch 2011 Itasca",
+        "hex_value": "#E3FDAB"
+      },
+      {
+        "display_name": "Mohave Mist",
+        "paint_code": "822333FB",
+        "slug": "mohave-mist-822333fb",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/mohave-mist-822333fb/",
+        "source_label": "PaintScratch 2011 Itasca",
+        "hex_value": "#C57E3F"
+      },
+      {
+        "display_name": "Silver",
+        "paint_code": "P7444",
+        "slug": "silver-p7444",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/silver-p7444/",
+        "source_label": "PaintScratch 2011 Itasca",
+        "hex_value": "#D8CC9A"
+      }
+    ],
+    "2012": [
+      {
+        "display_name": "White",
+        "paint_code": "B8951K",
+        "slug": "white-b8951k",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/white-b8951k/",
+        "source_label": "PaintScratch 2012 Itasca",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Gray Metallic",
+        "paint_code": "806806",
+        "slug": "gray-metallic-806806",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/gray-metallic-806806/",
+        "source_label": "PaintScratch 2012 Itasca",
+        "hex_value": "#5D666D"
+      },
+      {
+        "display_name": "Dark Neutral",
+        "paint_code": "DM358K",
+        "slug": "dark-neutral-dm358k",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/dark-neutral-dm358k/",
+        "source_label": "PaintScratch 2012 Itasca",
+        "hex_value": "#7A7342"
+      },
+      {
+        "display_name": "Light Autumn Metallic",
+        "paint_code": "373P-P806808",
+        "slug": "light-autumn-metallic-373p-p806808",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/light-autumn-metallic-373p-p806808/",
+        "source_label": "PaintScratch 2012 Itasca",
+        "hex_value": "#9C8C08"
+      },
+      {
+        "display_name": "Light Beige",
+        "paint_code": "823983FB",
+        "slug": "light-beige-823983fb",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/light-beige-823983fb/",
+        "source_label": "PaintScratch 2012 Itasca",
+        "hex_value": "#E7DFC5"
+      },
+      {
+        "display_name": "Silver",
+        "paint_code": "P7444",
+        "slug": "silver-p7444",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/silver-p7444/",
+        "source_label": "PaintScratch 2012 Itasca",
+        "hex_value": "#D8CC9A"
+      }
+    ],
+    "2013": [
+      {
+        "display_name": "White",
+        "paint_code": "B8951K",
+        "slug": "white-b8951k",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/white-b8951k/",
+        "source_label": "PaintScratch 2013 Itasca",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Gray Metallic",
+        "paint_code": "806806",
+        "slug": "gray-metallic-806806",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/gray-metallic-806806/",
+        "source_label": "PaintScratch 2013 Itasca",
+        "hex_value": "#5D666D"
+      },
+      {
+        "display_name": "Dark Neutral",
+        "paint_code": "DM358K",
+        "slug": "dark-neutral-dm358k",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/dark-neutral-dm358k/",
+        "source_label": "PaintScratch 2013 Itasca",
+        "hex_value": "#7A7342"
+      },
+      {
+        "display_name": "Silver Sage Metallic",
+        "paint_code": "50540/FLNA94221",
+        "slug": "silver-sage-metallic-50540flna94221",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/silver-sage-metallic-50540flna94221/",
+        "source_label": "PaintScratch 2013 Itasca",
+        "hex_value": "#D6E0F8"
+      },
+      {
+        "display_name": "Harvest Gold Metallic",
+        "paint_code": "57343/FLNA9421",
+        "slug": "harvest-gold-metallic-57343flna9421",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/harvest-gold-metallic-57343flna9421/",
+        "source_label": "PaintScratch 2013 Itasca",
+        "hex_value": "#E3BD25"
+      },
+      {
+        "display_name": "Woodland Brown Metallic",
+        "paint_code": "62447/FLNA93580",
+        "slug": "woodland-brown-metallic-62447flna93580",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/woodland-brown-metallic-62447flna93580/",
+        "source_label": "PaintScratch 2013 Itasca",
+        "hex_value": "#985636"
+      },
+      {
+        "display_name": "Maroon",
+        "paint_code": "753155K",
+        "slug": "maroon-753155k",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/maroon-753155k/",
+        "source_label": "PaintScratch 2013 Itasca",
+        "hex_value": "#761C1A"
+      },
+      {
+        "display_name": "Black Garnet Metallic",
+        "paint_code": "FLNA94144",
+        "slug": "black-garnet-metallic-flna94144",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/black-garnet-metallic-flna94144/",
+        "source_label": "PaintScratch 2013 Itasca",
+        "hex_value": "#050505"
+      },
+      {
+        "display_name": "Silver",
+        "paint_code": "P7444",
+        "slug": "silver-p7444",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/silver-p7444/",
+        "source_label": "PaintScratch 2013 Itasca",
+        "hex_value": "#D8CC9A"
+      },
+      {
+        "display_name": "Dark Cherry Metallic",
+        "paint_code": "RM511K",
+        "slug": "dark-cherry-metallic-rm511k",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/dark-cherry-metallic-rm511k/",
+        "source_label": "PaintScratch 2013 Itasca",
+        "hex_value": "#4A1A16"
+      }
+    ],
+    "2014": [
+      {
+        "display_name": "Dark Beige Metallic PPG5517",
+        "paint_code": "FLNA94152",
+        "slug": "dark-beige-metallic-ppg5517-flna94152",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/dark-beige-metallic-ppg5517-flna94152/",
+        "source_label": "PaintScratch 2014 Itasca",
+        "hex_value": "#C57E3F"
+      },
+      {
+        "display_name": "White",
+        "paint_code": "B8951K",
+        "slug": "white-b8951k",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/white-b8951k/",
+        "source_label": "PaintScratch 2014 Itasca",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Gray Metallic",
+        "paint_code": "806806",
+        "slug": "gray-metallic-806806",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/gray-metallic-806806/",
+        "source_label": "PaintScratch 2014 Itasca",
+        "hex_value": "#5D666D"
+      },
+      {
+        "display_name": "Moonstone Metallic",
+        "paint_code": "822147K",
+        "slug": "moonstone-metallic-822147k",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/moonstone-metallic-822147k/",
+        "source_label": "PaintScratch 2014 Itasca",
+        "hex_value": "#272B2A"
+      },
+      {
+        "display_name": "Taupe",
+        "paint_code": "881504F",
+        "slug": "taupe-881504f",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/taupe-881504f/",
+        "source_label": "PaintScratch 2014 Itasca",
+        "hex_value": "#E9D9A1"
+      },
+      {
+        "display_name": "Dark Neutral",
+        "paint_code": "DM358K",
+        "slug": "dark-neutral-dm358k",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/dark-neutral-dm358k/",
+        "source_label": "PaintScratch 2014 Itasca",
+        "hex_value": "#7A7342"
+      },
+      {
+        "display_name": "Black Mist Metallic PPG948299",
+        "paint_code": "FLNA94194",
+        "slug": "black-mist-metallic-ppg948299-flna94194",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/black-mist-metallic-ppg948299-flna94194/",
+        "source_label": "PaintScratch 2014 Itasca",
+        "hex_value": "#310D1A"
+      },
+      {
+        "display_name": "Anthracite",
+        "paint_code": "63227",
+        "slug": "anthracite-63227",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/anthracite-63227/",
+        "source_label": "PaintScratch 2014 Itasca",
+        "hex_value": "#707880"
+      },
+      {
+        "display_name": "Light Beige",
+        "paint_code": "FLNA94672",
+        "slug": "light-beige-flna94672",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/light-beige-flna94672/",
+        "source_label": "PaintScratch 2014 Itasca",
+        "hex_value": "#E7DFC5"
+      },
+      {
+        "display_name": "Silver",
+        "paint_code": "P7444",
+        "slug": "silver-p7444",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/silver-p7444/",
+        "source_label": "PaintScratch 2014 Itasca",
+        "hex_value": "#D8CC9A"
+      }
+    ],
+    "2015": [
+      {
+        "display_name": "White",
+        "paint_code": "B8951K",
+        "slug": "white-b8951k",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/white-b8951k/",
+        "source_label": "PaintScratch 2015 Itasca",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Gray Metallic",
+        "paint_code": "806806",
+        "slug": "gray-metallic-806806",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/gray-metallic-806806/",
+        "source_label": "PaintScratch 2015 Itasca",
+        "hex_value": "#5D666D"
+      },
+      {
+        "display_name": "Iron Gray",
+        "paint_code": "823985",
+        "slug": "iron-gray-823985",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/iron-gray-823985/",
+        "source_label": "PaintScratch 2015 Itasca",
+        "hex_value": "#202020"
+      },
+      {
+        "display_name": "Dark Neutral",
+        "paint_code": "DM358K",
+        "slug": "dark-neutral-dm358k",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/dark-neutral-dm358k/",
+        "source_label": "PaintScratch 2015 Itasca",
+        "hex_value": "#7A7342"
+      },
+      {
+        "display_name": "Black Garnet Met.",
+        "paint_code": "5910",
+        "slug": "black-garnet-met-5910",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/black-garnet-met-5910/",
+        "source_label": "PaintScratch 2015 Itasca",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Seafoam",
+        "paint_code": "95042",
+        "slug": "seafoam-95042",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/seafoam-95042/",
+        "source_label": "PaintScratch 2015 Itasca",
+        "hex_value": "#495EA3"
+      },
+      {
+        "display_name": "Light Beige",
+        "paint_code": "890289K",
+        "slug": "light-beige-890289k",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/light-beige-890289k/",
+        "source_label": "PaintScratch 2015 Itasca",
+        "hex_value": "#E7DFC5"
+      },
+      {
+        "display_name": "Light Olive",
+        "paint_code": "890591FB",
+        "slug": "light-olive-890591fb",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/light-olive-890591fb/",
+        "source_label": "PaintScratch 2015 Itasca",
+        "hex_value": "#C2DB7F"
+      },
+      {
+        "display_name": "Pewter Pearl Metallic",
+        "paint_code": "FLNA94170",
+        "slug": "pewter-pearl-metallic-flna94170",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/pewter-pearl-metallic-flna94170/",
+        "source_label": "PaintScratch 2015 Itasca",
+        "hex_value": "#6E6A6A"
+      },
+      {
+        "display_name": "Light Beige",
+        "paint_code": "FLNA94672",
+        "slug": "light-beige-flna94672",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/light-beige-flna94672/",
+        "source_label": "PaintScratch 2015 Itasca",
+        "hex_value": "#E7DFC5"
+      },
+      {
+        "display_name": "Lt Pearlstone Met-823983K",
+        "paint_code": "FNLA94200",
+        "slug": "lt-pearlstone-met-823983k-fnla94200",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/lt-pearlstone-met-823983k-fnla94200/",
+        "source_label": "PaintScratch 2015 Itasca",
+        "hex_value": "#CFC9C9"
+      },
+      {
+        "display_name": "Brilliant Silver Metallic",
+        "paint_code": "H9672EW",
+        "slug": "brilliant-silver-metallic-h9672ew",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/brilliant-silver-metallic-h9672ew/",
+        "source_label": "PaintScratch 2015 Itasca",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Silver",
+        "paint_code": "P7444",
+        "slug": "silver-p7444",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/silver-p7444/",
+        "source_label": "PaintScratch 2015 Itasca",
+        "hex_value": "#D8CC9A"
+      },
+      {
+        "display_name": "Dark Cherry Metallic",
+        "paint_code": "RM511K",
+        "slug": "dark-cherry-metallic-rm511k",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/dark-cherry-metallic-rm511k/",
+        "source_label": "PaintScratch 2015 Itasca",
+        "hex_value": "#4A1A16"
+      }
+    ],
+    "2016": [
+      {
+        "display_name": "White",
+        "paint_code": "B8951K",
+        "slug": "white-b8951k",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/white-b8951k/",
+        "source_label": "PaintScratch 2016 Itasca",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Gray Metallic",
+        "paint_code": "806806",
+        "slug": "gray-metallic-806806",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/gray-metallic-806806/",
+        "source_label": "PaintScratch 2016 Itasca",
+        "hex_value": "#5D666D"
+      },
+      {
+        "display_name": "Moonstone Metallic",
+        "paint_code": "822147K",
+        "slug": "moonstone-metallic-822147k",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/moonstone-metallic-822147k/",
+        "source_label": "PaintScratch 2016 Itasca",
+        "hex_value": "#272B2A"
+      },
+      {
+        "display_name": "Iron Gray",
+        "paint_code": "823985",
+        "slug": "iron-gray-823985",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/iron-gray-823985/",
+        "source_label": "PaintScratch 2016 Itasca",
+        "hex_value": "#202020"
+      },
+      {
+        "display_name": "Dark Neutral",
+        "paint_code": "DM358K",
+        "slug": "dark-neutral-dm358k",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/dark-neutral-dm358k/",
+        "source_label": "PaintScratch 2016 Itasca",
+        "hex_value": "#7A7342"
+      },
+      {
+        "display_name": "Brilliant Silver Metallic PPG 948544",
+        "paint_code": "FLNA94171",
+        "slug": "brilliant-silver-metallic-ppg-948544-flna94171",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/brilliant-silver-metallic-ppg-948544-flna94171/",
+        "source_label": "PaintScratch 2016 Itasca",
+        "hex_value": "#F6F6F0"
+      },
+      {
+        "display_name": "Black Mist Metallic PPG948299",
+        "paint_code": "FLNA94194",
+        "slug": "black-mist-metallic-ppg948299-flna94194",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/black-mist-metallic-ppg948299-flna94194/",
+        "source_label": "PaintScratch 2016 Itasca",
+        "hex_value": "#310D1A"
+      },
+      {
+        "display_name": "Seafoam",
+        "paint_code": "95042",
+        "slug": "seafoam-95042",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/seafoam-95042/",
+        "source_label": "PaintScratch 2016 Itasca",
+        "hex_value": "#495EA3"
+      },
+      {
+        "display_name": "Champagne Silver Metallic",
+        "paint_code": "FLNA94164",
+        "slug": "champagne-silver-metallic-flna94164",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/champagne-silver-metallic-flna94164/",
+        "source_label": "PaintScratch 2016 Itasca",
+        "hex_value": "#E7DFC5"
+      },
+      {
+        "display_name": "Pewter Pearl Metallic",
+        "paint_code": "FLNA94170",
+        "slug": "pewter-pearl-metallic-flna94170",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/pewter-pearl-metallic-flna94170/",
+        "source_label": "PaintScratch 2016 Itasca",
+        "hex_value": "#6E6A6A"
+      },
+      {
+        "display_name": "Silver",
+        "paint_code": "P7444",
+        "slug": "silver-p7444",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/silver-p7444/",
+        "source_label": "PaintScratch 2016 Itasca",
+        "hex_value": "#D8CC9A"
+      }
+    ],
+    "2017": [
+      {
+        "display_name": "White",
+        "paint_code": "B8951K",
+        "slug": "white-b8951k",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/white-b8951k/",
+        "source_label": "PaintScratch 2017 Itasca",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Gray Metallic",
+        "paint_code": "806806",
+        "slug": "gray-metallic-806806",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/gray-metallic-806806/",
+        "source_label": "PaintScratch 2017 Itasca",
+        "hex_value": "#5D666D"
+      },
+      {
+        "display_name": "Iron Gray",
+        "paint_code": "823985",
+        "slug": "iron-gray-823985",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/iron-gray-823985/",
+        "source_label": "PaintScratch 2017 Itasca",
+        "hex_value": "#202020"
+      },
+      {
+        "display_name": "Dark Neutral",
+        "paint_code": "DM358K",
+        "slug": "dark-neutral-dm358k",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/dark-neutral-dm358k/",
+        "source_label": "PaintScratch 2017 Itasca",
+        "hex_value": "#7A7342"
+      },
+      {
+        "display_name": "Seafoam",
+        "paint_code": "95042",
+        "slug": "seafoam-95042",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/seafoam-95042/",
+        "source_label": "PaintScratch 2017 Itasca",
+        "hex_value": "#495EA3"
+      },
+      {
+        "display_name": "Brown",
+        "paint_code": "861538K",
+        "slug": "brown-861538k",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/brown-861538k/",
+        "source_label": "PaintScratch 2017 Itasca",
+        "hex_value": "#C57E3F"
+      },
+      {
+        "display_name": "Pewter Pearl Metallic",
+        "paint_code": "FLNA94170",
+        "slug": "pewter-pearl-metallic-flna94170",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/pewter-pearl-metallic-flna94170/",
+        "source_label": "PaintScratch 2017 Itasca",
+        "hex_value": "#6E6A6A"
+      },
+      {
+        "display_name": "Silver",
+        "paint_code": "P7444",
+        "slug": "silver-p7444",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/silver-p7444/",
+        "source_label": "PaintScratch 2017 Itasca",
+        "hex_value": "#D8CC9A"
+      }
+    ],
+    "2018": [
+      {
+        "display_name": "White",
+        "paint_code": "B8951K",
+        "slug": "white-b8951k",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/white-b8951k/",
+        "source_label": "PaintScratch 2018 Itasca",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Gray Metallic",
+        "paint_code": "806806",
+        "slug": "gray-metallic-806806",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/gray-metallic-806806/",
+        "source_label": "PaintScratch 2018 Itasca",
+        "hex_value": "#5D666D"
+      },
+      {
+        "display_name": "Iron Gray",
+        "paint_code": "823985",
+        "slug": "iron-gray-823985",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/iron-gray-823985/",
+        "source_label": "PaintScratch 2018 Itasca",
+        "hex_value": "#202020"
+      },
+      {
+        "display_name": "Dark Neutral",
+        "paint_code": "DM358K",
+        "slug": "dark-neutral-dm358k",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/dark-neutral-dm358k/",
+        "source_label": "PaintScratch 2018 Itasca",
+        "hex_value": "#7A7342"
+      },
+      {
+        "display_name": "Seafoam",
+        "paint_code": "95042",
+        "slug": "seafoam-95042",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/seafoam-95042/",
+        "source_label": "PaintScratch 2018 Itasca",
+        "hex_value": "#495EA3"
+      },
+      {
+        "display_name": "Silver",
+        "paint_code": "P7444",
+        "slug": "silver-p7444",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/silver-p7444/",
+        "source_label": "PaintScratch 2018 Itasca",
+        "hex_value": "#D8CC9A"
+      }
+    ],
+    "2019": [
+      {
+        "display_name": "White",
+        "paint_code": "B8951K",
+        "slug": "white-b8951k",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/white-b8951k/",
+        "source_label": "PaintScratch 2019 Itasca",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Gray Metallic",
+        "paint_code": "806806",
+        "slug": "gray-metallic-806806",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/gray-metallic-806806/",
+        "source_label": "PaintScratch 2019 Itasca",
+        "hex_value": "#5D666D"
+      },
+      {
+        "display_name": "Iron Gray",
+        "paint_code": "823985",
+        "slug": "iron-gray-823985",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/iron-gray-823985/",
+        "source_label": "PaintScratch 2019 Itasca",
+        "hex_value": "#202020"
+      },
+      {
+        "display_name": "Dark Neutral",
+        "paint_code": "DM358K",
+        "slug": "dark-neutral-dm358k",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/dark-neutral-dm358k/",
+        "source_label": "PaintScratch 2019 Itasca",
+        "hex_value": "#7A7342"
+      },
+      {
+        "display_name": "Seafoam",
+        "paint_code": "95042",
+        "slug": "seafoam-95042",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/seafoam-95042/",
+        "source_label": "PaintScratch 2019 Itasca",
+        "hex_value": "#495EA3"
+      },
+      {
+        "display_name": "Light Beige",
+        "paint_code": "890289K",
+        "slug": "light-beige-890289k",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/light-beige-890289k/",
+        "source_label": "PaintScratch 2019 Itasca",
+        "hex_value": "#E7DFC5"
+      },
+      {
+        "display_name": "Silver",
+        "paint_code": "P7444",
+        "slug": "silver-p7444",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/silver-p7444/",
+        "source_label": "PaintScratch 2019 Itasca",
+        "hex_value": "#D8CC9A"
+      }
+    ],
+    "2020": [
+      {
+        "display_name": "White",
+        "paint_code": "B8951K",
+        "slug": "white-b8951k",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/white-b8951k/",
+        "source_label": "PaintScratch 2020 Itasca",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Gray Metallic",
+        "paint_code": "806806",
+        "slug": "gray-metallic-806806",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/gray-metallic-806806/",
+        "source_label": "PaintScratch 2020 Itasca",
+        "hex_value": "#5D666D"
+      },
+      {
+        "display_name": "Iron Gray",
+        "paint_code": "823985",
+        "slug": "iron-gray-823985",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/iron-gray-823985/",
+        "source_label": "PaintScratch 2020 Itasca",
+        "hex_value": "#202020"
+      },
+      {
+        "display_name": "Dark Neutral",
+        "paint_code": "DM358K",
+        "slug": "dark-neutral-dm358k",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/dark-neutral-dm358k/",
+        "source_label": "PaintScratch 2020 Itasca",
+        "hex_value": "#7A7342"
+      },
+      {
+        "display_name": "Seafoam",
+        "paint_code": "95042",
+        "slug": "seafoam-95042",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/seafoam-95042/",
+        "source_label": "PaintScratch 2020 Itasca",
+        "hex_value": "#495EA3"
+      },
+      {
+        "display_name": "Light Beige",
+        "paint_code": "890289K",
+        "slug": "light-beige-890289k",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/light-beige-890289k/",
+        "source_label": "PaintScratch 2020 Itasca",
+        "hex_value": "#E7DFC5"
+      },
+      {
+        "display_name": "Silver",
+        "paint_code": "P7444",
+        "slug": "silver-p7444",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/silver-p7444/",
+        "source_label": "PaintScratch 2020 Itasca",
+        "hex_value": "#D8CC9A"
+      }
+    ],
+    "2021": [
+      {
+        "display_name": "White",
+        "paint_code": "B8951K",
+        "slug": "white-b8951k",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/white-b8951k/",
+        "source_label": "PaintScratch 2021 Itasca",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Gray Metallic",
+        "paint_code": "806806",
+        "slug": "gray-metallic-806806",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/gray-metallic-806806/",
+        "source_label": "PaintScratch 2021 Itasca",
+        "hex_value": "#5D666D"
+      },
+      {
+        "display_name": "Iron Gray",
+        "paint_code": "823985",
+        "slug": "iron-gray-823985",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/iron-gray-823985/",
+        "source_label": "PaintScratch 2021 Itasca",
+        "hex_value": "#202020"
+      },
+      {
+        "display_name": "Dark Neutral",
+        "paint_code": "DM358K",
+        "slug": "dark-neutral-dm358k",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/dark-neutral-dm358k/",
+        "source_label": "PaintScratch 2021 Itasca",
+        "hex_value": "#7A7342"
+      },
+      {
+        "display_name": "Seafoam",
+        "paint_code": "95042",
+        "slug": "seafoam-95042",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/seafoam-95042/",
+        "source_label": "PaintScratch 2021 Itasca",
+        "hex_value": "#495EA3"
+      },
+      {
+        "display_name": "Light Beige",
+        "paint_code": "890289K",
+        "slug": "light-beige-890289k",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/light-beige-890289k/",
+        "source_label": "PaintScratch 2021 Itasca",
+        "hex_value": "#E7DFC5"
+      },
+      {
+        "display_name": "Silver",
+        "paint_code": "P7444",
+        "slug": "silver-p7444",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/silver-p7444/",
+        "source_label": "PaintScratch 2021 Itasca",
+        "hex_value": "#D8CC9A"
+      }
+    ],
+    "2022": [
+      {
+        "display_name": "White",
+        "paint_code": "B8951K",
+        "slug": "white-b8951k",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/white-b8951k/",
+        "source_label": "PaintScratch 2022 Itasca",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Gray Metallic",
+        "paint_code": "806806",
+        "slug": "gray-metallic-806806",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/gray-metallic-806806/",
+        "source_label": "PaintScratch 2022 Itasca",
+        "hex_value": "#5D666D"
+      },
+      {
+        "display_name": "Iron Gray",
+        "paint_code": "823985",
+        "slug": "iron-gray-823985",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/iron-gray-823985/",
+        "source_label": "PaintScratch 2022 Itasca",
+        "hex_value": "#202020"
+      },
+      {
+        "display_name": "Dark Neutral",
+        "paint_code": "DM358K",
+        "slug": "dark-neutral-dm358k",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/dark-neutral-dm358k/",
+        "source_label": "PaintScratch 2022 Itasca",
+        "hex_value": "#7A7342"
+      },
+      {
+        "display_name": "Seafoam",
+        "paint_code": "95042",
+        "slug": "seafoam-95042",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/seafoam-95042/",
+        "source_label": "PaintScratch 2022 Itasca",
+        "hex_value": "#495EA3"
+      },
+      {
+        "display_name": "Light Beige",
+        "paint_code": "890289K",
+        "slug": "light-beige-890289k",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/light-beige-890289k/",
+        "source_label": "PaintScratch 2022 Itasca",
+        "hex_value": "#E7DFC5"
+      },
+      {
+        "display_name": "Silver",
+        "paint_code": "P7444",
+        "slug": "silver-p7444",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/silver-p7444/",
+        "source_label": "PaintScratch 2022 Itasca",
+        "hex_value": "#D8CC9A"
+      }
+    ],
+    "2023": [
+      {
+        "display_name": "White",
+        "paint_code": "B8951K",
+        "slug": "white-b8951k",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/white-b8951k/",
+        "source_label": "PaintScratch 2023 Itasca",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Gray Metallic",
+        "paint_code": "806806",
+        "slug": "gray-metallic-806806",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/gray-metallic-806806/",
+        "source_label": "PaintScratch 2023 Itasca",
+        "hex_value": "#5D666D"
+      },
+      {
+        "display_name": "Iron Gray",
+        "paint_code": "823985",
+        "slug": "iron-gray-823985",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/iron-gray-823985/",
+        "source_label": "PaintScratch 2023 Itasca",
+        "hex_value": "#202020"
+      },
+      {
+        "display_name": "Dark Neutral",
+        "paint_code": "DM358K",
+        "slug": "dark-neutral-dm358k",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/dark-neutral-dm358k/",
+        "source_label": "PaintScratch 2023 Itasca",
+        "hex_value": "#7A7342"
+      },
+      {
+        "display_name": "Seafoam",
+        "paint_code": "95042",
+        "slug": "seafoam-95042",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/seafoam-95042/",
+        "source_label": "PaintScratch 2023 Itasca",
+        "hex_value": "#495EA3"
+      },
+      {
+        "display_name": "Light Beige",
+        "paint_code": "890289K",
+        "slug": "light-beige-890289k",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/light-beige-890289k/",
+        "source_label": "PaintScratch 2023 Itasca",
+        "hex_value": "#E7DFC5"
+      },
+      {
+        "display_name": "Silver",
+        "paint_code": "P7444",
+        "slug": "silver-p7444",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/silver-p7444/",
+        "source_label": "PaintScratch 2023 Itasca",
+        "hex_value": "#D8CC9A"
+      }
+    ],
+    "2024": [
+      {
+        "display_name": "White",
+        "paint_code": "B8951K",
+        "slug": "white-b8951k",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/white-b8951k/",
+        "source_label": "PaintScratch 2024 Itasca",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Gray Metallic",
+        "paint_code": "806806",
+        "slug": "gray-metallic-806806",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/gray-metallic-806806/",
+        "source_label": "PaintScratch 2024 Itasca",
+        "hex_value": "#5D666D"
+      },
+      {
+        "display_name": "Iron Gray",
+        "paint_code": "823985",
+        "slug": "iron-gray-823985",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/iron-gray-823985/",
+        "source_label": "PaintScratch 2024 Itasca",
+        "hex_value": "#202020"
+      },
+      {
+        "display_name": "Dark Neutral",
+        "paint_code": "DM358K",
+        "slug": "dark-neutral-dm358k",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/dark-neutral-dm358k/",
+        "source_label": "PaintScratch 2024 Itasca",
+        "hex_value": "#7A7342"
+      },
+      {
+        "display_name": "Seafoam",
+        "paint_code": "95042",
+        "slug": "seafoam-95042",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/seafoam-95042/",
+        "source_label": "PaintScratch 2024 Itasca",
+        "hex_value": "#495EA3"
+      },
+      {
+        "display_name": "Light Beige",
+        "paint_code": "890289K",
+        "slug": "light-beige-890289k",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/light-beige-890289k/",
+        "source_label": "PaintScratch 2024 Itasca",
+        "hex_value": "#E7DFC5"
+      },
+      {
+        "display_name": "Silver",
+        "paint_code": "P7444",
+        "slug": "silver-p7444",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/silver-p7444/",
+        "source_label": "PaintScratch 2024 Itasca",
+        "hex_value": "#D8CC9A"
+      }
+    ],
+    "2025": [
+      {
+        "display_name": "White",
+        "paint_code": "B8951K",
+        "slug": "white-b8951k",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/white-b8951k/",
+        "source_label": "PaintScratch 2025 Itasca",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Gray Metallic",
+        "paint_code": "806806",
+        "slug": "gray-metallic-806806",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/gray-metallic-806806/",
+        "source_label": "PaintScratch 2025 Itasca",
+        "hex_value": "#5D666D"
+      },
+      {
+        "display_name": "Iron Gray",
+        "paint_code": "823985",
+        "slug": "iron-gray-823985",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/iron-gray-823985/",
+        "source_label": "PaintScratch 2025 Itasca",
+        "hex_value": "#202020"
+      },
+      {
+        "display_name": "Dark Neutral",
+        "paint_code": "DM358K",
+        "slug": "dark-neutral-dm358k",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/dark-neutral-dm358k/",
+        "source_label": "PaintScratch 2025 Itasca",
+        "hex_value": "#7A7342"
+      },
+      {
+        "display_name": "Seafoam",
+        "paint_code": "95042",
+        "slug": "seafoam-95042",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/seafoam-95042/",
+        "source_label": "PaintScratch 2025 Itasca",
+        "hex_value": "#495EA3"
+      },
+      {
+        "display_name": "Light Beige",
+        "paint_code": "890289K",
+        "slug": "light-beige-890289k",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/light-beige-890289k/",
+        "source_label": "PaintScratch 2025 Itasca",
+        "hex_value": "#E7DFC5"
+      },
+      {
+        "display_name": "Silver",
+        "paint_code": "P7444",
+        "slug": "silver-p7444",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/silver-p7444/",
+        "source_label": "PaintScratch 2025 Itasca",
+        "hex_value": "#D8CC9A"
+      }
+    ],
+    "2026": [
+      {
+        "display_name": "White",
+        "paint_code": "B8951K",
+        "slug": "white-b8951k",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/white-b8951k/",
+        "source_label": "PaintScratch 2026 Itasca",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Gray Metallic",
+        "paint_code": "806806",
+        "slug": "gray-metallic-806806",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/gray-metallic-806806/",
+        "source_label": "PaintScratch 2026 Itasca",
+        "hex_value": "#5D666D"
+      },
+      {
+        "display_name": "Iron Gray",
+        "paint_code": "823985",
+        "slug": "iron-gray-823985",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/iron-gray-823985/",
+        "source_label": "PaintScratch 2026 Itasca",
+        "hex_value": "#202020"
+      },
+      {
+        "display_name": "Dark Neutral",
+        "paint_code": "DM358K",
+        "slug": "dark-neutral-dm358k",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/dark-neutral-dm358k/",
+        "source_label": "PaintScratch 2026 Itasca",
+        "hex_value": "#7A7342"
+      },
+      {
+        "display_name": "Seafoam",
+        "paint_code": "95042",
+        "slug": "seafoam-95042",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/seafoam-95042/",
+        "source_label": "PaintScratch 2026 Itasca",
+        "hex_value": "#495EA3"
+      },
+      {
+        "display_name": "Light Beige",
+        "paint_code": "890289K",
+        "slug": "light-beige-890289k",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/light-beige-890289k/",
+        "source_label": "PaintScratch 2026 Itasca",
+        "hex_value": "#E7DFC5"
+      },
+      {
+        "display_name": "Silver",
+        "paint_code": "P7444",
+        "slug": "silver-p7444",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/silver-p7444/",
+        "source_label": "PaintScratch 2026 Itasca",
+        "hex_value": "#D8CC9A"
+      }
+    ],
+    "2027": [
+      {
+        "display_name": "White",
+        "paint_code": "B8951K",
+        "slug": "white-b8951k",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/white-b8951k/",
+        "source_label": "PaintScratch 2027 Itasca",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Gray Metallic",
+        "paint_code": "806806",
+        "slug": "gray-metallic-806806",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/gray-metallic-806806/",
+        "source_label": "PaintScratch 2027 Itasca",
+        "hex_value": "#5D666D"
+      },
+      {
+        "display_name": "Iron Gray",
+        "paint_code": "823985",
+        "slug": "iron-gray-823985",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/iron-gray-823985/",
+        "source_label": "PaintScratch 2027 Itasca",
+        "hex_value": "#202020"
+      },
+      {
+        "display_name": "Dark Neutral",
+        "paint_code": "DM358K",
+        "slug": "dark-neutral-dm358k",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/dark-neutral-dm358k/",
+        "source_label": "PaintScratch 2027 Itasca",
+        "hex_value": "#7A7342"
+      },
+      {
+        "display_name": "Seafoam",
+        "paint_code": "95042",
+        "slug": "seafoam-95042",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/seafoam-95042/",
+        "source_label": "PaintScratch 2027 Itasca",
+        "hex_value": "#495EA3"
+      },
+      {
+        "display_name": "Light Beige",
+        "paint_code": "890289K",
+        "slug": "light-beige-890289k",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/light-beige-890289k/",
+        "source_label": "PaintScratch 2027 Itasca",
+        "hex_value": "#E7DFC5"
+      },
+      {
+        "display_name": "Silver",
+        "paint_code": "P7444",
+        "slug": "silver-p7444",
+        "reference_url": "https://www.paintscratch.com/colors/itasca/silver-p7444/",
+        "source_label": "PaintScratch 2027 Itasca",
+        "hex_value": "#D8CC9A"
+      }
+    ]
+  }
+}

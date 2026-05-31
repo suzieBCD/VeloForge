@@ -1,0 +1,678 @@
+{
+  "All Models": {
+    "1989": [
+      {
+        "display_name": "Gloss Trim Black",
+        "paint_code": "39063",
+        "slug": "gloss-trim-black-39063",
+        "reference_url": "https://www.paintscratch.com/colors/four-winns/gloss-trim-black-39063/",
+        "source_label": "PaintScratch 1989 Four-Winns",
+        "hex_value": "#463838"
+      },
+      {
+        "display_name": "Light Rose Metallic",
+        "paint_code": "44461",
+        "slug": "light-rose-metallic-44461",
+        "reference_url": "https://www.paintscratch.com/colors/four-winns/light-rose-metallic-44461/",
+        "source_label": "PaintScratch 1989 Four-Winns",
+        "hex_value": "#B696B3"
+      }
+    ],
+    "1990": [
+      {
+        "display_name": "Dark Green",
+        "paint_code": "904331",
+        "slug": "dark-green-904331",
+        "reference_url": "https://www.paintscratch.com/colors/four-winns/dark-green-904331/",
+        "source_label": "PaintScratch 1990 Four-Winns",
+        "hex_value": "#3D6141"
+      },
+      {
+        "display_name": "Gloss Trim Black",
+        "paint_code": "39063",
+        "slug": "gloss-trim-black-39063",
+        "reference_url": "https://www.paintscratch.com/colors/four-winns/gloss-trim-black-39063/",
+        "source_label": "PaintScratch 1990 Four-Winns",
+        "hex_value": "#463838"
+      },
+      {
+        "display_name": "Light Rose Metallic",
+        "paint_code": "44461",
+        "slug": "light-rose-metallic-44461",
+        "reference_url": "https://www.paintscratch.com/colors/four-winns/light-rose-metallic-44461/",
+        "source_label": "PaintScratch 1990 Four-Winns",
+        "hex_value": "#B696B3"
+      }
+    ],
+    "1991": [
+      {
+        "display_name": "Dark Green",
+        "paint_code": "904331",
+        "slug": "dark-green-904331",
+        "reference_url": "https://www.paintscratch.com/colors/four-winns/dark-green-904331/",
+        "source_label": "PaintScratch 1991 Four-Winns",
+        "hex_value": "#3D6141"
+      },
+      {
+        "display_name": "Gloss Trim Black",
+        "paint_code": "39063",
+        "slug": "gloss-trim-black-39063",
+        "reference_url": "https://www.paintscratch.com/colors/four-winns/gloss-trim-black-39063/",
+        "source_label": "PaintScratch 1991 Four-Winns",
+        "hex_value": "#463838"
+      },
+      {
+        "display_name": "Light Rose Metallic",
+        "paint_code": "44461",
+        "slug": "light-rose-metallic-44461",
+        "reference_url": "https://www.paintscratch.com/colors/four-winns/light-rose-metallic-44461/",
+        "source_label": "PaintScratch 1991 Four-Winns",
+        "hex_value": "#B696B3"
+      }
+    ],
+    "1992": [
+      {
+        "display_name": "Dark Green",
+        "paint_code": "904331",
+        "slug": "dark-green-904331",
+        "reference_url": "https://www.paintscratch.com/colors/four-winns/dark-green-904331/",
+        "source_label": "PaintScratch 1992 Four-Winns",
+        "hex_value": "#3D6141"
+      },
+      {
+        "display_name": "Gloss Trim Black",
+        "paint_code": "39063",
+        "slug": "gloss-trim-black-39063",
+        "reference_url": "https://www.paintscratch.com/colors/four-winns/gloss-trim-black-39063/",
+        "source_label": "PaintScratch 1992 Four-Winns",
+        "hex_value": "#463838"
+      },
+      {
+        "display_name": "Light Rose Metallic",
+        "paint_code": "44461",
+        "slug": "light-rose-metallic-44461",
+        "reference_url": "https://www.paintscratch.com/colors/four-winns/light-rose-metallic-44461/",
+        "source_label": "PaintScratch 1992 Four-Winns",
+        "hex_value": "#B696B3"
+      }
+    ],
+    "1993": [
+      {
+        "display_name": "Dark Green",
+        "paint_code": "904331",
+        "slug": "dark-green-904331",
+        "reference_url": "https://www.paintscratch.com/colors/four-winns/dark-green-904331/",
+        "source_label": "PaintScratch 1993 Four-Winns",
+        "hex_value": "#3D6141"
+      },
+      {
+        "display_name": "Gloss Trim Black",
+        "paint_code": "39063",
+        "slug": "gloss-trim-black-39063",
+        "reference_url": "https://www.paintscratch.com/colors/four-winns/gloss-trim-black-39063/",
+        "source_label": "PaintScratch 1993 Four-Winns",
+        "hex_value": "#463838"
+      },
+      {
+        "display_name": "Light Rose Metallic",
+        "paint_code": "44461",
+        "slug": "light-rose-metallic-44461",
+        "reference_url": "https://www.paintscratch.com/colors/four-winns/light-rose-metallic-44461/",
+        "source_label": "PaintScratch 1993 Four-Winns",
+        "hex_value": "#B696B3"
+      }
+    ],
+    "1994": [
+      {
+        "display_name": "Dark Green",
+        "paint_code": "904331",
+        "slug": "dark-green-904331",
+        "reference_url": "https://www.paintscratch.com/colors/four-winns/dark-green-904331/",
+        "source_label": "PaintScratch 1994 Four-Winns",
+        "hex_value": "#3D6141"
+      },
+      {
+        "display_name": "Gloss Trim Black",
+        "paint_code": "39063",
+        "slug": "gloss-trim-black-39063",
+        "reference_url": "https://www.paintscratch.com/colors/four-winns/gloss-trim-black-39063/",
+        "source_label": "PaintScratch 1994 Four-Winns",
+        "hex_value": "#463838"
+      },
+      {
+        "display_name": "Light Rose Metallic",
+        "paint_code": "44461",
+        "slug": "light-rose-metallic-44461",
+        "reference_url": "https://www.paintscratch.com/colors/four-winns/light-rose-metallic-44461/",
+        "source_label": "PaintScratch 1994 Four-Winns",
+        "hex_value": "#B696B3"
+      }
+    ],
+    "1995": [
+      {
+        "display_name": "Dark Green",
+        "paint_code": "904331",
+        "slug": "dark-green-904331",
+        "reference_url": "https://www.paintscratch.com/colors/four-winns/dark-green-904331/",
+        "source_label": "PaintScratch 1995 Four-Winns",
+        "hex_value": "#3D6141"
+      },
+      {
+        "display_name": "Gloss Trim Black",
+        "paint_code": "39063",
+        "slug": "gloss-trim-black-39063",
+        "reference_url": "https://www.paintscratch.com/colors/four-winns/gloss-trim-black-39063/",
+        "source_label": "PaintScratch 1995 Four-Winns",
+        "hex_value": "#463838"
+      },
+      {
+        "display_name": "Light Rose Metallic",
+        "paint_code": "44461",
+        "slug": "light-rose-metallic-44461",
+        "reference_url": "https://www.paintscratch.com/colors/four-winns/light-rose-metallic-44461/",
+        "source_label": "PaintScratch 1995 Four-Winns",
+        "hex_value": "#B696B3"
+      }
+    ],
+    "1996": [
+      {
+        "display_name": "Dark Green",
+        "paint_code": "904331",
+        "slug": "dark-green-904331",
+        "reference_url": "https://www.paintscratch.com/colors/four-winns/dark-green-904331/",
+        "source_label": "PaintScratch 1996 Four-Winns",
+        "hex_value": "#3D6141"
+      },
+      {
+        "display_name": "Gloss Trim Black",
+        "paint_code": "39063",
+        "slug": "gloss-trim-black-39063",
+        "reference_url": "https://www.paintscratch.com/colors/four-winns/gloss-trim-black-39063/",
+        "source_label": "PaintScratch 1996 Four-Winns",
+        "hex_value": "#463838"
+      },
+      {
+        "display_name": "Light Rose Metallic",
+        "paint_code": "44461",
+        "slug": "light-rose-metallic-44461",
+        "reference_url": "https://www.paintscratch.com/colors/four-winns/light-rose-metallic-44461/",
+        "source_label": "PaintScratch 1996 Four-Winns",
+        "hex_value": "#B696B3"
+      }
+    ],
+    "1997": [
+      {
+        "display_name": "Dark Green",
+        "paint_code": "904331",
+        "slug": "dark-green-904331",
+        "reference_url": "https://www.paintscratch.com/colors/four-winns/dark-green-904331/",
+        "source_label": "PaintScratch 1997 Four-Winns",
+        "hex_value": "#3D6141"
+      },
+      {
+        "display_name": "Gloss Trim Black",
+        "paint_code": "39063",
+        "slug": "gloss-trim-black-39063",
+        "reference_url": "https://www.paintscratch.com/colors/four-winns/gloss-trim-black-39063/",
+        "source_label": "PaintScratch 1997 Four-Winns",
+        "hex_value": "#463838"
+      },
+      {
+        "display_name": "Light Rose Metallic",
+        "paint_code": "44461",
+        "slug": "light-rose-metallic-44461",
+        "reference_url": "https://www.paintscratch.com/colors/four-winns/light-rose-metallic-44461/",
+        "source_label": "PaintScratch 1997 Four-Winns",
+        "hex_value": "#B696B3"
+      }
+    ],
+    "1998": [
+      {
+        "display_name": "Dark Green",
+        "paint_code": "904331",
+        "slug": "dark-green-904331",
+        "reference_url": "https://www.paintscratch.com/colors/four-winns/dark-green-904331/",
+        "source_label": "PaintScratch 1998 Four-Winns",
+        "hex_value": "#3D6141"
+      },
+      {
+        "display_name": "Gloss Trim Black",
+        "paint_code": "39063",
+        "slug": "gloss-trim-black-39063",
+        "reference_url": "https://www.paintscratch.com/colors/four-winns/gloss-trim-black-39063/",
+        "source_label": "PaintScratch 1998 Four-Winns",
+        "hex_value": "#463838"
+      },
+      {
+        "display_name": "Light Rose Metallic",
+        "paint_code": "44461",
+        "slug": "light-rose-metallic-44461",
+        "reference_url": "https://www.paintscratch.com/colors/four-winns/light-rose-metallic-44461/",
+        "source_label": "PaintScratch 1998 Four-Winns",
+        "hex_value": "#B696B3"
+      }
+    ],
+    "1999": [
+      {
+        "display_name": "Dark Green",
+        "paint_code": "904331",
+        "slug": "dark-green-904331",
+        "reference_url": "https://www.paintscratch.com/colors/four-winns/dark-green-904331/",
+        "source_label": "PaintScratch 1999 Four-Winns",
+        "hex_value": "#3D6141"
+      },
+      {
+        "display_name": "Gloss Trim Black",
+        "paint_code": "39063",
+        "slug": "gloss-trim-black-39063",
+        "reference_url": "https://www.paintscratch.com/colors/four-winns/gloss-trim-black-39063/",
+        "source_label": "PaintScratch 1999 Four-Winns",
+        "hex_value": "#463838"
+      },
+      {
+        "display_name": "Light Rose Metallic",
+        "paint_code": "44461",
+        "slug": "light-rose-metallic-44461",
+        "reference_url": "https://www.paintscratch.com/colors/four-winns/light-rose-metallic-44461/",
+        "source_label": "PaintScratch 1999 Four-Winns",
+        "hex_value": "#B696B3"
+      }
+    ],
+    "2000": [
+      {
+        "display_name": "Dark Green",
+        "paint_code": "904331",
+        "slug": "dark-green-904331",
+        "reference_url": "https://www.paintscratch.com/colors/four-winns/dark-green-904331/",
+        "source_label": "PaintScratch 2000 Four-Winns",
+        "hex_value": "#3D6141"
+      },
+      {
+        "display_name": "Gloss Trim Black",
+        "paint_code": "39063",
+        "slug": "gloss-trim-black-39063",
+        "reference_url": "https://www.paintscratch.com/colors/four-winns/gloss-trim-black-39063/",
+        "source_label": "PaintScratch 2000 Four-Winns",
+        "hex_value": "#463838"
+      },
+      {
+        "display_name": "Light Rose Metallic",
+        "paint_code": "44461",
+        "slug": "light-rose-metallic-44461",
+        "reference_url": "https://www.paintscratch.com/colors/four-winns/light-rose-metallic-44461/",
+        "source_label": "PaintScratch 2000 Four-Winns",
+        "hex_value": "#B696B3"
+      }
+    ],
+    "2001": [
+      {
+        "display_name": "Dark Green",
+        "paint_code": "904331",
+        "slug": "dark-green-904331",
+        "reference_url": "https://www.paintscratch.com/colors/four-winns/dark-green-904331/",
+        "source_label": "PaintScratch 2001 Four-Winns",
+        "hex_value": "#3D6141"
+      },
+      {
+        "display_name": "Gloss Trim Black",
+        "paint_code": "39063",
+        "slug": "gloss-trim-black-39063",
+        "reference_url": "https://www.paintscratch.com/colors/four-winns/gloss-trim-black-39063/",
+        "source_label": "PaintScratch 2001 Four-Winns",
+        "hex_value": "#463838"
+      },
+      {
+        "display_name": "White",
+        "paint_code": "YZ",
+        "slug": "white-yz",
+        "reference_url": "https://www.paintscratch.com/colors/four-winns/white-yz/",
+        "source_label": "PaintScratch 2001 Four-Winns",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Light Rose Metallic",
+        "paint_code": "44461",
+        "slug": "light-rose-metallic-44461",
+        "reference_url": "https://www.paintscratch.com/colors/four-winns/light-rose-metallic-44461/",
+        "source_label": "PaintScratch 2001 Four-Winns",
+        "hex_value": "#B696B3"
+      }
+    ],
+    "2002": [
+      {
+        "display_name": "Dark Green",
+        "paint_code": "904331",
+        "slug": "dark-green-904331",
+        "reference_url": "https://www.paintscratch.com/colors/four-winns/dark-green-904331/",
+        "source_label": "PaintScratch 2002 Four-Winns",
+        "hex_value": "#3D6141"
+      },
+      {
+        "display_name": "Gloss Trim Black",
+        "paint_code": "39063",
+        "slug": "gloss-trim-black-39063",
+        "reference_url": "https://www.paintscratch.com/colors/four-winns/gloss-trim-black-39063/",
+        "source_label": "PaintScratch 2002 Four-Winns",
+        "hex_value": "#463838"
+      },
+      {
+        "display_name": "Light Rose Metallic",
+        "paint_code": "44461",
+        "slug": "light-rose-metallic-44461",
+        "reference_url": "https://www.paintscratch.com/colors/four-winns/light-rose-metallic-44461/",
+        "source_label": "PaintScratch 2002 Four-Winns",
+        "hex_value": "#B696B3"
+      }
+    ],
+    "2003": [
+      {
+        "display_name": "Dark Green",
+        "paint_code": "904331",
+        "slug": "dark-green-904331",
+        "reference_url": "https://www.paintscratch.com/colors/four-winns/dark-green-904331/",
+        "source_label": "PaintScratch 2003 Four-Winns",
+        "hex_value": "#3D6141"
+      },
+      {
+        "display_name": "Gloss Trim Black",
+        "paint_code": "39063",
+        "slug": "gloss-trim-black-39063",
+        "reference_url": "https://www.paintscratch.com/colors/four-winns/gloss-trim-black-39063/",
+        "source_label": "PaintScratch 2003 Four-Winns",
+        "hex_value": "#463838"
+      },
+      {
+        "display_name": "Pewter",
+        "paint_code": "28H",
+        "slug": "pewter-28h",
+        "reference_url": "https://www.paintscratch.com/colors/four-winns/pewter-28h/",
+        "source_label": "PaintScratch 2003 Four-Winns",
+        "hex_value": "#404040"
+      },
+      {
+        "display_name": "Light Rose Metallic",
+        "paint_code": "44461",
+        "slug": "light-rose-metallic-44461",
+        "reference_url": "https://www.paintscratch.com/colors/four-winns/light-rose-metallic-44461/",
+        "source_label": "PaintScratch 2003 Four-Winns",
+        "hex_value": "#B696B3"
+      }
+    ],
+    "2004": [
+      {
+        "display_name": "Dark Green",
+        "paint_code": "904331",
+        "slug": "dark-green-904331",
+        "reference_url": "https://www.paintscratch.com/colors/four-winns/dark-green-904331/",
+        "source_label": "PaintScratch 2004 Four-Winns",
+        "hex_value": "#3D6141"
+      },
+      {
+        "display_name": "Gloss Trim Black",
+        "paint_code": "39063",
+        "slug": "gloss-trim-black-39063",
+        "reference_url": "https://www.paintscratch.com/colors/four-winns/gloss-trim-black-39063/",
+        "source_label": "PaintScratch 2004 Four-Winns",
+        "hex_value": "#463838"
+      },
+      {
+        "display_name": "Light Rose Metallic",
+        "paint_code": "44461",
+        "slug": "light-rose-metallic-44461",
+        "reference_url": "https://www.paintscratch.com/colors/four-winns/light-rose-metallic-44461/",
+        "source_label": "PaintScratch 2004 Four-Winns",
+        "hex_value": "#B696B3"
+      }
+    ],
+    "2005": [
+      {
+        "display_name": "Dark Green",
+        "paint_code": "904331",
+        "slug": "dark-green-904331",
+        "reference_url": "https://www.paintscratch.com/colors/four-winns/dark-green-904331/",
+        "source_label": "PaintScratch 2005 Four-Winns",
+        "hex_value": "#3D6141"
+      },
+      {
+        "display_name": "Gloss Trim Black",
+        "paint_code": "39063",
+        "slug": "gloss-trim-black-39063",
+        "reference_url": "https://www.paintscratch.com/colors/four-winns/gloss-trim-black-39063/",
+        "source_label": "PaintScratch 2005 Four-Winns",
+        "hex_value": "#463838"
+      },
+      {
+        "display_name": "Light Rose Metallic",
+        "paint_code": "44461",
+        "slug": "light-rose-metallic-44461",
+        "reference_url": "https://www.paintscratch.com/colors/four-winns/light-rose-metallic-44461/",
+        "source_label": "PaintScratch 2005 Four-Winns",
+        "hex_value": "#B696B3"
+      }
+    ],
+    "2006": [
+      {
+        "display_name": "Dark Green",
+        "paint_code": "904331",
+        "slug": "dark-green-904331",
+        "reference_url": "https://www.paintscratch.com/colors/four-winns/dark-green-904331/",
+        "source_label": "PaintScratch 2006 Four-Winns",
+        "hex_value": "#3D6141"
+      },
+      {
+        "display_name": "Gloss Trim Black",
+        "paint_code": "39063",
+        "slug": "gloss-trim-black-39063",
+        "reference_url": "https://www.paintscratch.com/colors/four-winns/gloss-trim-black-39063/",
+        "source_label": "PaintScratch 2006 Four-Winns",
+        "hex_value": "#463838"
+      },
+      {
+        "display_name": "Green Gold",
+        "paint_code": "MB40888",
+        "slug": "green-gold-mb40888",
+        "reference_url": "https://www.paintscratch.com/colors/four-winns/green-gold-mb40888/",
+        "source_label": "PaintScratch 2006 Four-Winns",
+        "hex_value": "#9C8C08"
+      },
+      {
+        "display_name": "Light Rose Metallic",
+        "paint_code": "44461",
+        "slug": "light-rose-metallic-44461",
+        "reference_url": "https://www.paintscratch.com/colors/four-winns/light-rose-metallic-44461/",
+        "source_label": "PaintScratch 2006 Four-Winns",
+        "hex_value": "#B696B3"
+      }
+    ],
+    "2007": [
+      {
+        "display_name": "Dark Green",
+        "paint_code": "904331",
+        "slug": "dark-green-904331",
+        "reference_url": "https://www.paintscratch.com/colors/four-winns/dark-green-904331/",
+        "source_label": "PaintScratch 2007 Four-Winns",
+        "hex_value": "#3D6141"
+      },
+      {
+        "display_name": "Gloss Trim Black",
+        "paint_code": "39063",
+        "slug": "gloss-trim-black-39063",
+        "reference_url": "https://www.paintscratch.com/colors/four-winns/gloss-trim-black-39063/",
+        "source_label": "PaintScratch 2007 Four-Winns",
+        "hex_value": "#463838"
+      },
+      {
+        "display_name": "Lite Pearlstone",
+        "paint_code": "41823",
+        "slug": "lite-pearlstone-41823",
+        "reference_url": "https://www.paintscratch.com/colors/four-winns/lite-pearlstone-41823/",
+        "source_label": "PaintScratch 2007 Four-Winns",
+        "hex_value": "#EC8C8C"
+      },
+      {
+        "display_name": "Light Rose Metallic",
+        "paint_code": "44461",
+        "slug": "light-rose-metallic-44461",
+        "reference_url": "https://www.paintscratch.com/colors/four-winns/light-rose-metallic-44461/",
+        "source_label": "PaintScratch 2007 Four-Winns",
+        "hex_value": "#B696B3"
+      },
+      {
+        "display_name": "Lite Gold Pearlcoat",
+        "paint_code": "51076",
+        "slug": "lite-gold-pearlcoat-51076",
+        "reference_url": "https://www.paintscratch.com/colors/four-winns/lite-gold-pearlcoat-51076/",
+        "source_label": "PaintScratch 2007 Four-Winns",
+        "hex_value": "#E9D9A1"
+      },
+      {
+        "display_name": "Sand",
+        "paint_code": "53907",
+        "slug": "sand-53907",
+        "reference_url": "https://www.paintscratch.com/colors/four-winns/sand-53907/",
+        "source_label": "PaintScratch 2007 Four-Winns",
+        "hex_value": "#D1A341"
+      },
+      {
+        "display_name": "Gold",
+        "paint_code": "54698",
+        "slug": "gold-54698",
+        "reference_url": "https://www.paintscratch.com/colors/four-winns/gold-54698/",
+        "source_label": "PaintScratch 2007 Four-Winns",
+        "hex_value": "#E3BD25"
+      },
+      {
+        "display_name": "Dark Beige",
+        "paint_code": "57776",
+        "slug": "dark-beige-57776",
+        "reference_url": "https://www.paintscratch.com/colors/four-winns/dark-beige-57776/",
+        "source_label": "PaintScratch 2007 Four-Winns",
+        "hex_value": "#E9D9A1"
+      },
+      {
+        "display_name": "Graphite",
+        "paint_code": "64223",
+        "slug": "graphite-64223",
+        "reference_url": "https://www.paintscratch.com/colors/four-winns/graphite-64223/",
+        "source_label": "PaintScratch 2007 Four-Winns",
+        "hex_value": "#C0C0C0"
+      }
+    ],
+    "2008": [
+      {
+        "display_name": "Dark Green",
+        "paint_code": "904331",
+        "slug": "dark-green-904331",
+        "reference_url": "https://www.paintscratch.com/colors/four-winns/dark-green-904331/",
+        "source_label": "PaintScratch 2008 Four-Winns",
+        "hex_value": "#3D6141"
+      },
+      {
+        "display_name": "Gloss Trim Black",
+        "paint_code": "39063",
+        "slug": "gloss-trim-black-39063",
+        "reference_url": "https://www.paintscratch.com/colors/four-winns/gloss-trim-black-39063/",
+        "source_label": "PaintScratch 2008 Four-Winns",
+        "hex_value": "#463838"
+      },
+      {
+        "display_name": "Light Autumnwood (48507)",
+        "paint_code": "WA228A",
+        "slug": "light-autumnwood-48507-wa228a",
+        "reference_url": "https://www.paintscratch.com/colors/four-winns/light-autumnwood-48507-wa228a/",
+        "source_label": "PaintScratch 2008 Four-Winns",
+        "hex_value": "#985636"
+      },
+      {
+        "display_name": "Light Brown",
+        "paint_code": "5158",
+        "slug": "light-brown-5158",
+        "reference_url": "https://www.paintscratch.com/colors/four-winns/light-brown-5158/",
+        "source_label": "PaintScratch 2008 Four-Winns",
+        "hex_value": "#D1A341"
+      },
+      {
+        "display_name": "Light Rose Metallic",
+        "paint_code": "44461",
+        "slug": "light-rose-metallic-44461",
+        "reference_url": "https://www.paintscratch.com/colors/four-winns/light-rose-metallic-44461/",
+        "source_label": "PaintScratch 2008 Four-Winns",
+        "hex_value": "#B696B3"
+      },
+      {
+        "display_name": "Sand",
+        "paint_code": "53907",
+        "slug": "sand-53907",
+        "reference_url": "https://www.paintscratch.com/colors/four-winns/sand-53907/",
+        "source_label": "PaintScratch 2008 Four-Winns",
+        "hex_value": "#D1A341"
+      },
+      {
+        "display_name": "Gold",
+        "paint_code": "54698",
+        "slug": "gold-54698",
+        "reference_url": "https://www.paintscratch.com/colors/four-winns/gold-54698/",
+        "source_label": "PaintScratch 2008 Four-Winns",
+        "hex_value": "#E3BD25"
+      },
+      {
+        "display_name": "Dark Beige",
+        "paint_code": "57776",
+        "slug": "dark-beige-57776",
+        "reference_url": "https://www.paintscratch.com/colors/four-winns/dark-beige-57776/",
+        "source_label": "PaintScratch 2008 Four-Winns",
+        "hex_value": "#E9D9A1"
+      },
+      {
+        "display_name": "Medium Red (PPG 5752)",
+        "paint_code": "59924",
+        "slug": "medium-red-ppg-5752-59924",
+        "reference_url": "https://www.paintscratch.com/colors/four-winns/medium-red-ppg-5752-59924/",
+        "source_label": "PaintScratch 2008 Four-Winns",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "Medium Gray (PPG 5706)",
+        "paint_code": "60588",
+        "slug": "medium-gray-ppg-5706-60588",
+        "reference_url": "https://www.paintscratch.com/colors/four-winns/medium-gray-ppg-5706-60588/",
+        "source_label": "PaintScratch 2008 Four-Winns",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Light Beige",
+        "paint_code": "64139",
+        "slug": "light-beige-64139",
+        "reference_url": "https://www.paintscratch.com/colors/four-winns/light-beige-64139/",
+        "source_label": "PaintScratch 2008 Four-Winns",
+        "hex_value": "#E7DFC5"
+      }
+    ],
+    "2009": [
+      {
+        "display_name": "Dark Green",
+        "paint_code": "904331",
+        "slug": "dark-green-904331",
+        "reference_url": "https://www.paintscratch.com/colors/four-winns/dark-green-904331/",
+        "source_label": "PaintScratch 2009 Four-Winns",
+        "hex_value": "#3D6141"
+      },
+      {
+        "display_name": "Gloss Trim Black",
+        "paint_code": "39063",
+        "slug": "gloss-trim-black-39063",
+        "reference_url": "https://www.paintscratch.com/colors/four-winns/gloss-trim-black-39063/",
+        "source_label": "PaintScratch 2009 Four-Winns",
+        "hex_value": "#463838"
+      },
+      {
+        "display_name": "Light Rose Metallic",
+        "paint_code": "44461",
+        "slug": "light-rose-metallic-44461",
+        "reference_url": "https://www.paintscratch.com/colors/four-winns/light-rose-metallic-44461/",
+        "source_label": "PaintScratch 2009 Four-Winns",
+        "hex_value": "#B696B3"
+      }
+    ]
+  }
+}

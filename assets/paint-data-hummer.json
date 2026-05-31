@@ -1,0 +1,1742 @@
+{
+  "All Models": {
+    "1994": [
+      {
+        "display_name": "Semi Gloss Black (9988)",
+        "paint_code": "B2",
+        "slug": "semi-gloss-black-9988-b2",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/semi-gloss-black-9988-b2/",
+        "source_label": "PaintScratch 1994 Hummer",
+        "hex_value": "#101012"
+      },
+      {
+        "display_name": "Black (9000)",
+        "paint_code": "B9",
+        "slug": "black-9000-b9",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/black-9000-b9/",
+        "source_label": "PaintScratch 1994 Hummer",
+        "hex_value": "#101012"
+      },
+      {
+        "display_name": "Green Metallic (47945)",
+        "paint_code": "G10",
+        "slug": "green-metallic-47945-g10",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/green-metallic-47945-g10/",
+        "source_label": "PaintScratch 1994 Hummer",
+        "hex_value": "#376D48"
+      },
+      {
+        "display_name": "Dark Blue Poly (19629)",
+        "paint_code": "L12",
+        "slug": "dark-blue-poly-19629-l12",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/dark-blue-poly-19629-l12/",
+        "source_label": "PaintScratch 1994 Hummer",
+        "hex_value": "#052057"
+      },
+      {
+        "display_name": "Dark Cherry (52082)",
+        "paint_code": "P13",
+        "slug": "dark-cherry-52082-p13",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/dark-cherry-52082-p13/",
+        "source_label": "PaintScratch 1994 Hummer",
+        "hex_value": "#571D13"
+      },
+      {
+        "display_name": "Poppy Red (74575)",
+        "paint_code": "R7",
+        "slug": "poppy-red-74575-r7",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/poppy-red-74575-r7/",
+        "source_label": "PaintScratch 1994 Hummer",
+        "hex_value": "#AE3926"
+      },
+      {
+        "display_name": "Tan (28326)",
+        "paint_code": "T11",
+        "slug": "tan-28326-t11",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/tan-28326-t11/",
+        "source_label": "PaintScratch 1994 Hummer",
+        "hex_value": "#CBB695"
+      },
+      {
+        "display_name": "Whimbleton White (91494)",
+        "paint_code": "W8",
+        "slug": "whimbleton-white-91494-w8",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/whimbleton-white-91494-w8/",
+        "source_label": "PaintScratch 1994 Hummer",
+        "hex_value": "#FBFEEC"
+      }
+    ],
+    "1995": [
+      {
+        "display_name": "Semi Gloss Black (9988)",
+        "paint_code": "B2",
+        "slug": "semi-gloss-black-9988-b2",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/semi-gloss-black-9988-b2/",
+        "source_label": "PaintScratch 1995 Hummer",
+        "hex_value": "#101012"
+      },
+      {
+        "display_name": "Black (9000)",
+        "paint_code": "B9",
+        "slug": "black-9000-b9",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/black-9000-b9/",
+        "source_label": "PaintScratch 1995 Hummer",
+        "hex_value": "#101012"
+      },
+      {
+        "display_name": "Green Metallic (47945)",
+        "paint_code": "G10",
+        "slug": "green-metallic-47945-g10",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/green-metallic-47945-g10/",
+        "source_label": "PaintScratch 1995 Hummer",
+        "hex_value": "#376D48"
+      },
+      {
+        "display_name": "Dark Blue Poly (19629)",
+        "paint_code": "L12",
+        "slug": "dark-blue-poly-19629-l12",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/dark-blue-poly-19629-l12/",
+        "source_label": "PaintScratch 1995 Hummer",
+        "hex_value": "#052057"
+      },
+      {
+        "display_name": "Dark Cherry (52082)",
+        "paint_code": "P13",
+        "slug": "dark-cherry-52082-p13",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/dark-cherry-52082-p13/",
+        "source_label": "PaintScratch 1995 Hummer",
+        "hex_value": "#571D13"
+      },
+      {
+        "display_name": "Poppy Red (74575)",
+        "paint_code": "R7",
+        "slug": "poppy-red-74575-r7",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/poppy-red-74575-r7/",
+        "source_label": "PaintScratch 1995 Hummer",
+        "hex_value": "#AE3926"
+      },
+      {
+        "display_name": "Silver Metallic (36190)",
+        "paint_code": "S15",
+        "slug": "silver-metallic-36190-s15",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/silver-metallic-36190-s15/",
+        "source_label": "PaintScratch 1995 Hummer",
+        "hex_value": "#C4C7D0"
+      },
+      {
+        "display_name": "Tan (28326)",
+        "paint_code": "T11",
+        "slug": "tan-28326-t11",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/tan-28326-t11/",
+        "source_label": "PaintScratch 1995 Hummer",
+        "hex_value": "#CBB695"
+      },
+      {
+        "display_name": "Whimbleton White (91494)",
+        "paint_code": "W8",
+        "slug": "whimbleton-white-91494-w8",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/whimbleton-white-91494-w8/",
+        "source_label": "PaintScratch 1995 Hummer",
+        "hex_value": "#FBFEEC"
+      },
+      {
+        "display_name": "Bright White (91493)",
+        "paint_code": "W14",
+        "slug": "bright-white-91493-w14",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/bright-white-91493-w14/",
+        "source_label": "PaintScratch 1995 Hummer",
+        "hex_value": "#FBFCFF"
+      }
+    ],
+    "1996": [
+      {
+        "display_name": "Semi Gloss Black (9988)",
+        "paint_code": "B2",
+        "slug": "semi-gloss-black-9988-b2",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/semi-gloss-black-9988-b2/",
+        "source_label": "PaintScratch 1996 Hummer",
+        "hex_value": "#101012"
+      },
+      {
+        "display_name": "Black (9000)",
+        "paint_code": "B9",
+        "slug": "black-9000-b9",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/black-9000-b9/",
+        "source_label": "PaintScratch 1996 Hummer",
+        "hex_value": "#101012"
+      },
+      {
+        "display_name": "Green Metallic (47945)",
+        "paint_code": "G10",
+        "slug": "green-metallic-47945-g10",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/green-metallic-47945-g10/",
+        "source_label": "PaintScratch 1996 Hummer",
+        "hex_value": "#376D48"
+      },
+      {
+        "display_name": "Medium Blue Metallic (19793)",
+        "paint_code": "L16",
+        "slug": "medium-blue-metallic-19793-l16",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/medium-blue-metallic-19793-l16/",
+        "source_label": "PaintScratch 1996 Hummer",
+        "hex_value": "#3D5483"
+      },
+      {
+        "display_name": "Bright Burgandy Metallic (52164)",
+        "paint_code": "P17",
+        "slug": "bright-burgandy-metallic-52164-p17",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/bright-burgandy-metallic-52164-p17/",
+        "source_label": "PaintScratch 1996 Hummer",
+        "hex_value": "#7E4A42"
+      },
+      {
+        "display_name": "Poppy Red (74575)",
+        "paint_code": "R7",
+        "slug": "poppy-red-74575-r7",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/poppy-red-74575-r7/",
+        "source_label": "PaintScratch 1996 Hummer",
+        "hex_value": "#AE3926"
+      },
+      {
+        "display_name": "Silver Metallic (36190)",
+        "paint_code": "S15",
+        "slug": "silver-metallic-36190-s15",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/silver-metallic-36190-s15/",
+        "source_label": "PaintScratch 1996 Hummer",
+        "hex_value": "#C4C7D0"
+      },
+      {
+        "display_name": "Tan (28326)",
+        "paint_code": "T11",
+        "slug": "tan-28326-t11",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/tan-28326-t11/",
+        "source_label": "PaintScratch 1996 Hummer",
+        "hex_value": "#CBB695"
+      },
+      {
+        "display_name": "Whimbleton White (91494)",
+        "paint_code": "W8",
+        "slug": "whimbleton-white-91494-w8",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/whimbleton-white-91494-w8/",
+        "source_label": "PaintScratch 1996 Hummer",
+        "hex_value": "#FBFEEC"
+      },
+      {
+        "display_name": "Bright White (91493)",
+        "paint_code": "W14",
+        "slug": "bright-white-91493-w14",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/bright-white-91493-w14/",
+        "source_label": "PaintScratch 1996 Hummer",
+        "hex_value": "#FBFCFF"
+      }
+    ],
+    "1997": [
+      {
+        "display_name": "Semi Gloss Black (9988)",
+        "paint_code": "B2",
+        "slug": "semi-gloss-black-9988-b2",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/semi-gloss-black-9988-b2/",
+        "source_label": "PaintScratch 1997 Hummer",
+        "hex_value": "#101012"
+      },
+      {
+        "display_name": "Black (9000)",
+        "paint_code": "B9",
+        "slug": "black-9000-b9",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/black-9000-b9/",
+        "source_label": "PaintScratch 1997 Hummer",
+        "hex_value": "#101012"
+      },
+      {
+        "display_name": "Green Metallic (47945)",
+        "paint_code": "G10",
+        "slug": "green-metallic-47945-g10",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/green-metallic-47945-g10/",
+        "source_label": "PaintScratch 1997 Hummer",
+        "hex_value": "#376D48"
+      },
+      {
+        "display_name": "Bright Burgandy Metallic (52164)",
+        "paint_code": "P17",
+        "slug": "bright-burgandy-metallic-52164-p17",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/bright-burgandy-metallic-52164-p17/",
+        "source_label": "PaintScratch 1997 Hummer",
+        "hex_value": "#7E4A42"
+      },
+      {
+        "display_name": "Poppy Red (74575)",
+        "paint_code": "R7",
+        "slug": "poppy-red-74575-r7",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/poppy-red-74575-r7/",
+        "source_label": "PaintScratch 1997 Hummer",
+        "hex_value": "#AE3926"
+      },
+      {
+        "display_name": "Silver Metallic (36190)",
+        "paint_code": "S15",
+        "slug": "silver-metallic-36190-s15",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/silver-metallic-36190-s15/",
+        "source_label": "PaintScratch 1997 Hummer",
+        "hex_value": "#C4C7D0"
+      },
+      {
+        "display_name": "Whimbleton White (91494)",
+        "paint_code": "W8",
+        "slug": "whimbleton-white-91494-w8",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/whimbleton-white-91494-w8/",
+        "source_label": "PaintScratch 1997 Hummer",
+        "hex_value": "#FBFEEC"
+      },
+      {
+        "display_name": "Bright White (91493)",
+        "paint_code": "W14",
+        "slug": "bright-white-91493-w14",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/bright-white-91493-w14/",
+        "source_label": "PaintScratch 1997 Hummer",
+        "hex_value": "#FBFCFF"
+      },
+      {
+        "display_name": "Fly Yellow (82741)",
+        "paint_code": "Y18",
+        "slug": "fly-yellow-82741-y18",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/fly-yellow-82741-y18/",
+        "source_label": "PaintScratch 1997 Hummer",
+        "hex_value": "#E2DE96"
+      }
+    ],
+    "1998": [
+      {
+        "display_name": "Semi Gloss Black (9988)",
+        "paint_code": "B2",
+        "slug": "semi-gloss-black-9988-b2",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/semi-gloss-black-9988-b2/",
+        "source_label": "PaintScratch 1998 Hummer",
+        "hex_value": "#101012"
+      },
+      {
+        "display_name": "Black (9000)",
+        "paint_code": "B9",
+        "slug": "black-9000-b9",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/black-9000-b9/",
+        "source_label": "PaintScratch 1998 Hummer",
+        "hex_value": "#101012"
+      },
+      {
+        "display_name": "Green Metallic (47945)",
+        "paint_code": "G10",
+        "slug": "green-metallic-47945-g10",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/green-metallic-47945-g10/",
+        "source_label": "PaintScratch 1998 Hummer",
+        "hex_value": "#376D48"
+      },
+      {
+        "display_name": "Poppy Red (74575)",
+        "paint_code": "R7",
+        "slug": "poppy-red-74575-r7",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/poppy-red-74575-r7/",
+        "source_label": "PaintScratch 1998 Hummer",
+        "hex_value": "#AE3926"
+      },
+      {
+        "display_name": "Silver Metallic (36190)",
+        "paint_code": "S15",
+        "slug": "silver-metallic-36190-s15",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/silver-metallic-36190-s15/",
+        "source_label": "PaintScratch 1998 Hummer",
+        "hex_value": "#C4C7D0"
+      },
+      {
+        "display_name": "Whimbleton White (91494)",
+        "paint_code": "W8",
+        "slug": "whimbleton-white-91494-w8",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/whimbleton-white-91494-w8/",
+        "source_label": "PaintScratch 1998 Hummer",
+        "hex_value": "#FBFEEC"
+      },
+      {
+        "display_name": "Bright White (91493)",
+        "paint_code": "W14",
+        "slug": "bright-white-91493-w14",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/bright-white-91493-w14/",
+        "source_label": "PaintScratch 1998 Hummer",
+        "hex_value": "#FBFCFF"
+      },
+      {
+        "display_name": "Fly Yellow (82741)",
+        "paint_code": "Y18",
+        "slug": "fly-yellow-82741-y18",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/fly-yellow-82741-y18/",
+        "source_label": "PaintScratch 1998 Hummer",
+        "hex_value": "#E2DE96"
+      }
+    ],
+    "1999": [
+      {
+        "display_name": "Competition Yellow (4266)",
+        "paint_code": "Y20",
+        "slug": "competition-yellow-4266-y20",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/competition-yellow-4266-y20/",
+        "source_label": "PaintScratch 1999 Hummer",
+        "hex_value": "#F2E51C"
+      },
+      {
+        "display_name": "Semi Gloss Black (9988)",
+        "paint_code": "B2",
+        "slug": "semi-gloss-black-9988-b2",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/semi-gloss-black-9988-b2/",
+        "source_label": "PaintScratch 1999 Hummer",
+        "hex_value": "#101012"
+      },
+      {
+        "display_name": "Black (9000)",
+        "paint_code": "B9",
+        "slug": "black-9000-b9",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/black-9000-b9/",
+        "source_label": "PaintScratch 1999 Hummer",
+        "hex_value": "#101012"
+      },
+      {
+        "display_name": "Night Storm (5292)",
+        "paint_code": "B21",
+        "slug": "night-storm-5292-b21",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/night-storm-5292-b21/",
+        "source_label": "PaintScratch 1999 Hummer",
+        "hex_value": "#0C0D4A"
+      },
+      {
+        "display_name": "Mesa Dusk (5228)",
+        "paint_code": "C22",
+        "slug": "mesa-dusk-5228-c22",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/mesa-dusk-5228-c22/",
+        "source_label": "PaintScratch 1999 Hummer",
+        "hex_value": "#746452"
+      },
+      {
+        "display_name": "Green Metallic (47945)",
+        "paint_code": "G10",
+        "slug": "green-metallic-47945-g10",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/green-metallic-47945-g10/",
+        "source_label": "PaintScratch 1999 Hummer",
+        "hex_value": "#376D48"
+      },
+      {
+        "display_name": "Poppy Red (74575)",
+        "paint_code": "R7",
+        "slug": "poppy-red-74575-r7",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/poppy-red-74575-r7/",
+        "source_label": "PaintScratch 1999 Hummer",
+        "hex_value": "#AE3926"
+      },
+      {
+        "display_name": "Candy Apple Red (71698)",
+        "paint_code": "R19",
+        "slug": "candy-apple-red-71698-r19",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/candy-apple-red-71698-r19/",
+        "source_label": "PaintScratch 1999 Hummer",
+        "hex_value": "#EF3415"
+      },
+      {
+        "display_name": "Silver Metallic (36190)",
+        "paint_code": "S15",
+        "slug": "silver-metallic-36190-s15",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/silver-metallic-36190-s15/",
+        "source_label": "PaintScratch 1999 Hummer",
+        "hex_value": "#C4C7D0"
+      },
+      {
+        "display_name": "Whimbleton White (91494)",
+        "paint_code": "W8",
+        "slug": "whimbleton-white-91494-w8",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/whimbleton-white-91494-w8/",
+        "source_label": "PaintScratch 1999 Hummer",
+        "hex_value": "#FBFEEC"
+      },
+      {
+        "display_name": "Bright White (91493)",
+        "paint_code": "W14",
+        "slug": "bright-white-91493-w14",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/bright-white-91493-w14/",
+        "source_label": "PaintScratch 1999 Hummer",
+        "hex_value": "#FBFCFF"
+      }
+    ],
+    "2000": [
+      {
+        "display_name": "Competition Yellow (4266)",
+        "paint_code": "Y20",
+        "slug": "competition-yellow-4266-y20",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/competition-yellow-4266-y20/",
+        "source_label": "PaintScratch 2000 Hummer",
+        "hex_value": "#F2E51C"
+      },
+      {
+        "display_name": "Pewter Metallic",
+        "paint_code": "11/P33/WA382E",
+        "slug": "pewter-metallic-11p33wa382e",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/pewter-metallic-11p33wa382e/",
+        "source_label": "PaintScratch 2000 Hummer",
+        "hex_value": "#B9AF93"
+      },
+      {
+        "display_name": "Semi Gloss Black (9988)",
+        "paint_code": "B2",
+        "slug": "semi-gloss-black-9988-b2",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/semi-gloss-black-9988-b2/",
+        "source_label": "PaintScratch 2000 Hummer",
+        "hex_value": "#101012"
+      },
+      {
+        "display_name": "Black (9000)",
+        "paint_code": "B9",
+        "slug": "black-9000-b9",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/black-9000-b9/",
+        "source_label": "PaintScratch 2000 Hummer",
+        "hex_value": "#101012"
+      },
+      {
+        "display_name": "Night Storm (5292)",
+        "paint_code": "B21",
+        "slug": "night-storm-5292-b21",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/night-storm-5292-b21/",
+        "source_label": "PaintScratch 2000 Hummer",
+        "hex_value": "#0C0D4A"
+      },
+      {
+        "display_name": "Mesa Dusk (5228)",
+        "paint_code": "C22",
+        "slug": "mesa-dusk-5228-c22",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/mesa-dusk-5228-c22/",
+        "source_label": "PaintScratch 2000 Hummer",
+        "hex_value": "#746452"
+      },
+      {
+        "display_name": "Green Metallic (47945)",
+        "paint_code": "G10",
+        "slug": "green-metallic-47945-g10",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/green-metallic-47945-g10/",
+        "source_label": "PaintScratch 2000 Hummer",
+        "hex_value": "#376D48"
+      },
+      {
+        "display_name": "Moss Green Pearl",
+        "paint_code": "G23",
+        "slug": "moss-green-pearl-g23",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/moss-green-pearl-g23/",
+        "source_label": "PaintScratch 2000 Hummer",
+        "hex_value": "#275218"
+      },
+      {
+        "display_name": "Poppy Red (74575)",
+        "paint_code": "R7",
+        "slug": "poppy-red-74575-r7",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/poppy-red-74575-r7/",
+        "source_label": "PaintScratch 2000 Hummer",
+        "hex_value": "#AE3926"
+      },
+      {
+        "display_name": "Candy Apple Red (71698)",
+        "paint_code": "R19",
+        "slug": "candy-apple-red-71698-r19",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/candy-apple-red-71698-r19/",
+        "source_label": "PaintScratch 2000 Hummer",
+        "hex_value": "#EF3415"
+      },
+      {
+        "display_name": "Silver Metallic (36190)",
+        "paint_code": "S15",
+        "slug": "silver-metallic-36190-s15",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/silver-metallic-36190-s15/",
+        "source_label": "PaintScratch 2000 Hummer",
+        "hex_value": "#C4C7D0"
+      },
+      {
+        "display_name": "Whimbleton White (91494)",
+        "paint_code": "W8",
+        "slug": "whimbleton-white-91494-w8",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/whimbleton-white-91494-w8/",
+        "source_label": "PaintScratch 2000 Hummer",
+        "hex_value": "#FBFEEC"
+      },
+      {
+        "display_name": "Bright White (91493)",
+        "paint_code": "W14",
+        "slug": "bright-white-91493-w14",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/bright-white-91493-w14/",
+        "source_label": "PaintScratch 2000 Hummer",
+        "hex_value": "#FBFCFF"
+      }
+    ],
+    "2001": [
+      {
+        "display_name": "Competition Yellow (4266)",
+        "paint_code": "Y20",
+        "slug": "competition-yellow-4266-y20",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/competition-yellow-4266-y20/",
+        "source_label": "PaintScratch 2001 Hummer",
+        "hex_value": "#F2E51C"
+      },
+      {
+        "display_name": "Semi Gloss Black (9988)",
+        "paint_code": "B2",
+        "slug": "semi-gloss-black-9988-b2",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/semi-gloss-black-9988-b2/",
+        "source_label": "PaintScratch 2001 Hummer",
+        "hex_value": "#101012"
+      },
+      {
+        "display_name": "Black (9000)",
+        "paint_code": "B9",
+        "slug": "black-9000-b9",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/black-9000-b9/",
+        "source_label": "PaintScratch 2001 Hummer",
+        "hex_value": "#101012"
+      },
+      {
+        "display_name": "Night Storm (5292)",
+        "paint_code": "B21",
+        "slug": "night-storm-5292-b21",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/night-storm-5292-b21/",
+        "source_label": "PaintScratch 2001 Hummer",
+        "hex_value": "#0C0D4A"
+      },
+      {
+        "display_name": "Mesa Dusk (5228)",
+        "paint_code": "C22",
+        "slug": "mesa-dusk-5228-c22",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/mesa-dusk-5228-c22/",
+        "source_label": "PaintScratch 2001 Hummer",
+        "hex_value": "#746452"
+      },
+      {
+        "display_name": "Green Metallic (47945)",
+        "paint_code": "G10",
+        "slug": "green-metallic-47945-g10",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/green-metallic-47945-g10/",
+        "source_label": "PaintScratch 2001 Hummer",
+        "hex_value": "#376D48"
+      },
+      {
+        "display_name": "Poppy Red (74575)",
+        "paint_code": "R7",
+        "slug": "poppy-red-74575-r7",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/poppy-red-74575-r7/",
+        "source_label": "PaintScratch 2001 Hummer",
+        "hex_value": "#AE3926"
+      },
+      {
+        "display_name": "Candy Apple Red (71698)",
+        "paint_code": "R19",
+        "slug": "candy-apple-red-71698-r19",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/candy-apple-red-71698-r19/",
+        "source_label": "PaintScratch 2001 Hummer",
+        "hex_value": "#EF3415"
+      },
+      {
+        "display_name": "Silver Metallic (36190)",
+        "paint_code": "S15",
+        "slug": "silver-metallic-36190-s15",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/silver-metallic-36190-s15/",
+        "source_label": "PaintScratch 2001 Hummer",
+        "hex_value": "#C4C7D0"
+      },
+      {
+        "display_name": "Whimbleton White (91494)",
+        "paint_code": "W8",
+        "slug": "whimbleton-white-91494-w8",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/whimbleton-white-91494-w8/",
+        "source_label": "PaintScratch 2001 Hummer",
+        "hex_value": "#FBFEEC"
+      },
+      {
+        "display_name": "Bright White (91493)",
+        "paint_code": "W14",
+        "slug": "bright-white-91493-w14",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/bright-white-91493-w14/",
+        "source_label": "PaintScratch 2001 Hummer",
+        "hex_value": "#FBFCFF"
+      }
+    ],
+    "2002": [
+      {
+        "display_name": "Yellow",
+        "paint_code": "43/WA5456",
+        "slug": "yellow-43wa5456",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/yellow-43wa5456/",
+        "source_label": "PaintScratch 2002 Hummer",
+        "hex_value": "#E0BA24"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "41/WA8555",
+        "slug": "black-41wa8555",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/black-41wa8555/",
+        "source_label": "PaintScratch 2002 Hummer",
+        "hex_value": "#020202"
+      },
+      {
+        "display_name": "Pewter Pri Metallic",
+        "paint_code": "11/WA382E",
+        "slug": "pewter-pri-metallic-11wa382e",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/pewter-pri-metallic-11wa382e/",
+        "source_label": "PaintScratch 2002 Hummer",
+        "hex_value": "#A4A888"
+      },
+      {
+        "display_name": "Medium Sage Green Pri Metallic",
+        "paint_code": "45/WA605H",
+        "slug": "medium-sage-green-pri-metallic-45wa605h",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/medium-sage-green-pri-metallic-45wa605h/",
+        "source_label": "PaintScratch 2002 Hummer",
+        "hex_value": "#8CA16D"
+      },
+      {
+        "display_name": "Olympic White",
+        "paint_code": "50/WA8624",
+        "slug": "olympic-white-50wa8624",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/olympic-white-50wa8624/",
+        "source_label": "PaintScratch 2002 Hummer",
+        "hex_value": "#EFEFE9"
+      },
+      {
+        "display_name": "Redfire Metallic",
+        "paint_code": "72/WA526F",
+        "slug": "redfire-metallic-72wa526f",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/redfire-metallic-72wa526f/",
+        "source_label": "PaintScratch 2002 Hummer",
+        "hex_value": "#800000"
+      },
+      {
+        "display_name": "Ocean Blue Metallic",
+        "paint_code": "L24",
+        "slug": "ocean-blue-metallic-l24",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/ocean-blue-metallic-l24/",
+        "source_label": "PaintScratch 2002 Hummer",
+        "hex_value": "#ADBEC1"
+      }
+    ],
+    "2003": [
+      {
+        "display_name": "Yellow",
+        "paint_code": "43/WA5456",
+        "slug": "yellow-43wa5456",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/yellow-43wa5456/",
+        "source_label": "PaintScratch 2003 Hummer",
+        "hex_value": "#E0BA24"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "41/WA8555",
+        "slug": "black-41wa8555",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/black-41wa8555/",
+        "source_label": "PaintScratch 2003 Hummer",
+        "hex_value": "#020202"
+      },
+      {
+        "display_name": "Pewter Metallic",
+        "paint_code": "11/WA382E",
+        "slug": "pewter-metallic-11wa382e",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/pewter-metallic-11wa382e/",
+        "source_label": "PaintScratch 2003 Hummer",
+        "hex_value": "#B9AF93"
+      },
+      {
+        "display_name": "Medium Sage Green Pri Metallic",
+        "paint_code": "45/WA605H",
+        "slug": "medium-sage-green-pri-metallic-45wa605h",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/medium-sage-green-pri-metallic-45wa605h/",
+        "source_label": "PaintScratch 2003 Hummer",
+        "hex_value": "#8CA16D"
+      },
+      {
+        "display_name": "Olympic White",
+        "paint_code": "50/WA8624",
+        "slug": "olympic-white-50wa8624",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/olympic-white-50wa8624/",
+        "source_label": "PaintScratch 2003 Hummer",
+        "hex_value": "#EFEFE9"
+      },
+      {
+        "display_name": "Competition Yellow",
+        "paint_code": "53/Y27/WA9804",
+        "slug": "competition-yellow-53y27wa9804",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/competition-yellow-53y27wa9804/",
+        "source_label": "PaintScratch 2003 Hummer",
+        "hex_value": "#FFD201"
+      },
+      {
+        "display_name": "Redfire Metallic",
+        "paint_code": "72/WA526F",
+        "slug": "redfire-metallic-72wa526f",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/redfire-metallic-72wa526f/",
+        "source_label": "PaintScratch 2003 Hummer",
+        "hex_value": "#800000"
+      },
+      {
+        "display_name": "Competition Yellow",
+        "paint_code": "79/WA423G",
+        "slug": "competition-yellow-79wa423g",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/competition-yellow-79wa423g/",
+        "source_label": "PaintScratch 2003 Hummer",
+        "hex_value": "#FFD201"
+      },
+      {
+        "display_name": "Bright White",
+        "paint_code": "96U/WA686H",
+        "slug": "bright-white-96uwa686h",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/bright-white-96uwa686h/",
+        "source_label": "PaintScratch 2003 Hummer",
+        "hex_value": "#FFFAEB"
+      },
+      {
+        "display_name": "Charcoal Metallic",
+        "paint_code": "B30",
+        "slug": "charcoal-metallic-b30",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/charcoal-metallic-b30/",
+        "source_label": "PaintScratch 2003 Hummer",
+        "hex_value": "#8F8479"
+      },
+      {
+        "display_name": "Moss Green Pearl",
+        "paint_code": "G23",
+        "slug": "moss-green-pearl-g23",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/moss-green-pearl-g23/",
+        "source_label": "PaintScratch 2003 Hummer",
+        "hex_value": "#275218"
+      },
+      {
+        "display_name": "Ocean Blue Metallic",
+        "paint_code": "L24",
+        "slug": "ocean-blue-metallic-l24",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/ocean-blue-metallic-l24/",
+        "source_label": "PaintScratch 2003 Hummer",
+        "hex_value": "#ADBEC1"
+      },
+      {
+        "display_name": "Firehouse Red",
+        "paint_code": "R28",
+        "slug": "firehouse-red-r28",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/firehouse-red-r28/",
+        "source_label": "PaintScratch 2003 Hummer",
+        "hex_value": "#D12215"
+      },
+      {
+        "display_name": "Silver Metallic (36190)",
+        "paint_code": "S15",
+        "slug": "silver-metallic-36190-s15",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/silver-metallic-36190-s15/",
+        "source_label": "PaintScratch 2003 Hummer",
+        "hex_value": "#C4C7D0"
+      },
+      {
+        "display_name": "Summit Silver Metallic",
+        "paint_code": "S31",
+        "slug": "summit-silver-metallic-s31",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/summit-silver-metallic-s31/",
+        "source_label": "PaintScratch 2003 Hummer",
+        "hex_value": "#A9A89F"
+      }
+    ],
+    "2004": [
+      {
+        "display_name": "Yellow",
+        "paint_code": "43/WA5456",
+        "slug": "yellow-43wa5456",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/yellow-43wa5456/",
+        "source_label": "PaintScratch 2004 Hummer",
+        "hex_value": "#E0BA24"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "41/WA8555",
+        "slug": "black-41wa8555",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/black-41wa8555/",
+        "source_label": "PaintScratch 2004 Hummer",
+        "hex_value": "#020202"
+      },
+      {
+        "display_name": "Pewter Metallic",
+        "paint_code": "11/P33/WA382E",
+        "slug": "pewter-metallic-11p33wa382e",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/pewter-metallic-11p33wa382e/",
+        "source_label": "PaintScratch 2004 Hummer",
+        "hex_value": "#B9AF93"
+      },
+      {
+        "display_name": "Medium Sage Green Pri Metallic",
+        "paint_code": "45/WA605H",
+        "slug": "medium-sage-green-pri-metallic-45wa605h",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/medium-sage-green-pri-metallic-45wa605h/",
+        "source_label": "PaintScratch 2004 Hummer",
+        "hex_value": "#8CA16D"
+      },
+      {
+        "display_name": "Olympic White",
+        "paint_code": "50/WA8624",
+        "slug": "olympic-white-50wa8624",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/olympic-white-50wa8624/",
+        "source_label": "PaintScratch 2004 Hummer",
+        "hex_value": "#EFEFE9"
+      },
+      {
+        "display_name": "Competition Yellow",
+        "paint_code": "53/Y27/WA9804",
+        "slug": "competition-yellow-53y27wa9804",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/competition-yellow-53y27wa9804/",
+        "source_label": "PaintScratch 2004 Hummer",
+        "hex_value": "#FFD201"
+      },
+      {
+        "display_name": "Redfire Metallic",
+        "paint_code": "72/WA526F",
+        "slug": "redfire-metallic-72wa526f",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/redfire-metallic-72wa526f/",
+        "source_label": "PaintScratch 2004 Hummer",
+        "hex_value": "#800000"
+      },
+      {
+        "display_name": "Charcoal Metallic",
+        "paint_code": "B30",
+        "slug": "charcoal-metallic-b30",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/charcoal-metallic-b30/",
+        "source_label": "PaintScratch 2004 Hummer",
+        "hex_value": "#8F8479"
+      },
+      {
+        "display_name": "Black Diamond Metallic",
+        "paint_code": "B34",
+        "slug": "black-diamond-metallic-b34",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/black-diamond-metallic-b34/",
+        "source_label": "PaintScratch 2004 Hummer",
+        "hex_value": "#211F1D"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "M6124/B25",
+        "slug": "black-m6124b25",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/black-m6124b25/",
+        "source_label": "PaintScratch 2004 Hummer",
+        "hex_value": "#D4C194"
+      },
+      {
+        "display_name": "Firehouse Red",
+        "paint_code": "M6470/R28",
+        "slug": "firehouse-red-m6470r28",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/firehouse-red-m6470r28/",
+        "source_label": "PaintScratch 2004 Hummer",
+        "hex_value": "#D12215"
+      },
+      {
+        "display_name": "Silver Metallic (36190)",
+        "paint_code": "S15",
+        "slug": "silver-metallic-36190-s15",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/silver-metallic-36190-s15/",
+        "source_label": "PaintScratch 2004 Hummer",
+        "hex_value": "#C4C7D0"
+      },
+      {
+        "display_name": "Bright White",
+        "paint_code": "S26",
+        "slug": "bright-white-s26",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/bright-white-s26/",
+        "source_label": "PaintScratch 2004 Hummer",
+        "hex_value": "#FFFFFB"
+      },
+      {
+        "display_name": "Summit Silver Metallic",
+        "paint_code": "S31",
+        "slug": "summit-silver-metallic-s31",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/summit-silver-metallic-s31/",
+        "source_label": "PaintScratch 2004 Hummer",
+        "hex_value": "#A9A89F"
+      },
+      {
+        "display_name": "Mojave Metal Metallic",
+        "paint_code": "T32",
+        "slug": "mojave-metal-metallic-t32",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/mojave-metal-metallic-t32/",
+        "source_label": "PaintScratch 2004 Hummer",
+        "hex_value": "#D4C194"
+      }
+    ],
+    "2005": [
+      {
+        "display_name": "Yellow",
+        "paint_code": "43/WA5456",
+        "slug": "yellow-43wa5456",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/yellow-43wa5456/",
+        "source_label": "PaintScratch 2005 Hummer",
+        "hex_value": "#E0BA24"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "41/WA8555",
+        "slug": "black-41wa8555",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/black-41wa8555/",
+        "source_label": "PaintScratch 2005 Hummer",
+        "hex_value": "#020202"
+      },
+      {
+        "display_name": "Stealth Gray Metallic",
+        "paint_code": "46/WA928L",
+        "slug": "stealth-gray-metallic-46wa928l",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/stealth-gray-metallic-46wa928l/",
+        "source_label": "PaintScratch 2005 Hummer",
+        "hex_value": "#484A4D"
+      },
+      {
+        "display_name": "Pewter Metallic",
+        "paint_code": "11/P33/WA382E",
+        "slug": "pewter-metallic-11p33wa382e",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/pewter-metallic-11p33wa382e/",
+        "source_label": "PaintScratch 2005 Hummer",
+        "hex_value": "#B9AF93"
+      },
+      {
+        "display_name": "Desert Sand Metallic",
+        "paint_code": "18/WA220M",
+        "slug": "desert-sand-metallic-18wa220m",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/desert-sand-metallic-18wa220m/",
+        "source_label": "PaintScratch 2005 Hummer",
+        "hex_value": "#ABA385"
+      },
+      {
+        "display_name": "Grenade Green Metallic",
+        "paint_code": "31/WA209M",
+        "slug": "grenade-green-metallic-31wa209m",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/grenade-green-metallic-31wa209m/",
+        "source_label": "PaintScratch 2005 Hummer",
+        "hex_value": "#697D51"
+      },
+      {
+        "display_name": "Olympic White",
+        "paint_code": "50/WA8624",
+        "slug": "olympic-white-50wa8624",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/olympic-white-50wa8624/",
+        "source_label": "PaintScratch 2005 Hummer",
+        "hex_value": "#EFEFE9"
+      },
+      {
+        "display_name": "Competition Yellow",
+        "paint_code": "53/Y27/WA9804",
+        "slug": "competition-yellow-53y27wa9804",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/competition-yellow-53y27wa9804/",
+        "source_label": "PaintScratch 2005 Hummer",
+        "hex_value": "#FFD201"
+      },
+      {
+        "display_name": "Fine Silver Birch Metallic",
+        "paint_code": "59/WA926L",
+        "slug": "fine-silver-birch-metallic-59wa926l",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/fine-silver-birch-metallic-59wa926l/",
+        "source_label": "PaintScratch 2005 Hummer",
+        "hex_value": "#D2D1CC"
+      },
+      {
+        "display_name": "Redfire Metallic",
+        "paint_code": "72/WA526F",
+        "slug": "redfire-metallic-72wa526f",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/redfire-metallic-72wa526f/",
+        "source_label": "PaintScratch 2005 Hummer",
+        "hex_value": "#800000"
+      },
+      {
+        "display_name": "Victory Red",
+        "paint_code": "74/WA9260",
+        "slug": "victory-red-74wa9260",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/victory-red-74wa9260/",
+        "source_label": "PaintScratch 2005 Hummer",
+        "hex_value": "#A51814"
+      },
+      {
+        "display_name": "Competition Yellow",
+        "paint_code": "79/WA423G",
+        "slug": "competition-yellow-79wa423g",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/competition-yellow-79wa423g/",
+        "source_label": "PaintScratch 2005 Hummer",
+        "hex_value": "#FFD201"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "B25/M6124",
+        "slug": "black-b25m6124",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/black-b25m6124/",
+        "source_label": "PaintScratch 2005 Hummer",
+        "hex_value": "#141412"
+      },
+      {
+        "display_name": "Charcoal Metallic",
+        "paint_code": "B30",
+        "slug": "charcoal-metallic-b30",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/charcoal-metallic-b30/",
+        "source_label": "PaintScratch 2005 Hummer",
+        "hex_value": "#8F8479"
+      },
+      {
+        "display_name": "Black Diamond Metallic",
+        "paint_code": "B34",
+        "slug": "black-diamond-metallic-b34",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/black-diamond-metallic-b34/",
+        "source_label": "PaintScratch 2005 Hummer",
+        "hex_value": "#211F1D"
+      },
+      {
+        "display_name": "Firehouse Red",
+        "paint_code": "R28/M6470",
+        "slug": "firehouse-red-r28m6470",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/firehouse-red-r28m6470/",
+        "source_label": "PaintScratch 2005 Hummer",
+        "hex_value": "#B11520"
+      }
+    ],
+    "2006": [
+      {
+        "display_name": "Yellow",
+        "paint_code": "43/WA5456",
+        "slug": "yellow-43wa5456",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/yellow-43wa5456/",
+        "source_label": "PaintScratch 2006 Hummer",
+        "hex_value": "#E0BA24"
+      },
+      {
+        "display_name": "Superior Blue Metallic",
+        "paint_code": "22/WA703J",
+        "slug": "superior-blue-metallic-22wa703j",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/superior-blue-metallic-22wa703j/",
+        "source_label": "PaintScratch 2006 Hummer",
+        "hex_value": "#3A4C74"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "41/WA8555",
+        "slug": "black-41wa8555",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/black-41wa8555/",
+        "source_label": "PaintScratch 2006 Hummer",
+        "hex_value": "#020202"
+      },
+      {
+        "display_name": "Stealth Gray Metallic",
+        "paint_code": "46/WA928L",
+        "slug": "stealth-gray-metallic-46wa928l",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/stealth-gray-metallic-46wa928l/",
+        "source_label": "PaintScratch 2006 Hummer",
+        "hex_value": "#484A4D"
+      },
+      {
+        "display_name": "Mystic Green Metallic",
+        "paint_code": "G38",
+        "slug": "mystic-green-metallic-g38",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/mystic-green-metallic-g38/",
+        "source_label": "PaintScratch 2006 Hummer",
+        "hex_value": "#5B644A"
+      },
+      {
+        "display_name": "Pewter Metallic",
+        "paint_code": "11/P33/WA382E",
+        "slug": "pewter-metallic-11p33wa382e",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/pewter-metallic-11p33wa382e/",
+        "source_label": "PaintScratch 2006 Hummer",
+        "hex_value": "#B9AF93"
+      },
+      {
+        "display_name": "Desert Sand Metallic",
+        "paint_code": "18/WA220M",
+        "slug": "desert-sand-metallic-18wa220m",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/desert-sand-metallic-18wa220m/",
+        "source_label": "PaintScratch 2006 Hummer",
+        "hex_value": "#ABA385"
+      },
+      {
+        "display_name": "Grenade Green Metallic",
+        "paint_code": "31/WA209M",
+        "slug": "grenade-green-metallic-31wa209m",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/grenade-green-metallic-31wa209m/",
+        "source_label": "PaintScratch 2006 Hummer",
+        "hex_value": "#697D51"
+      },
+      {
+        "display_name": "Bordeaux Red Metallic",
+        "paint_code": "49/WA204M",
+        "slug": "bordeaux-red-metallic-49wa204m",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/bordeaux-red-metallic-49wa204m/",
+        "source_label": "PaintScratch 2006 Hummer",
+        "hex_value": "#7E3D30"
+      },
+      {
+        "display_name": "Olympic White",
+        "paint_code": "50/WA8624",
+        "slug": "olympic-white-50wa8624",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/olympic-white-50wa8624/",
+        "source_label": "PaintScratch 2006 Hummer",
+        "hex_value": "#EFEFE9"
+      },
+      {
+        "display_name": "Competition Yellow",
+        "paint_code": "53/Y27/WA9804",
+        "slug": "competition-yellow-53y27wa9804",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/competition-yellow-53y27wa9804/",
+        "source_label": "PaintScratch 2006 Hummer",
+        "hex_value": "#FFD201"
+      },
+      {
+        "display_name": "Fine Silver Birch Metallic",
+        "paint_code": "59/WA926L",
+        "slug": "fine-silver-birch-metallic-59wa926l",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/fine-silver-birch-metallic-59wa926l/",
+        "source_label": "PaintScratch 2006 Hummer",
+        "hex_value": "#D2D1CC"
+      },
+      {
+        "display_name": "Victory Red",
+        "paint_code": "74/WA9260",
+        "slug": "victory-red-74wa9260",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/victory-red-74wa9260/",
+        "source_label": "PaintScratch 2006 Hummer",
+        "hex_value": "#A51814"
+      },
+      {
+        "display_name": "Arrival Blue Metallic",
+        "paint_code": "91/WA815K",
+        "slug": "arrival-blue-metallic-91wa815k",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/arrival-blue-metallic-91wa815k/",
+        "source_label": "PaintScratch 2006 Hummer",
+        "hex_value": "#385F8E"
+      },
+      {
+        "display_name": "Cappuccino Frost Metallic",
+        "paint_code": "97/WA822K",
+        "slug": "cappuccino-frost-metallic-97wa822k",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/cappuccino-frost-metallic-97wa822k/",
+        "source_label": "PaintScratch 2006 Hummer",
+        "hex_value": "#E4DFD6"
+      },
+      {
+        "display_name": "Civilian Black",
+        "paint_code": "B25",
+        "slug": "civilian-black-b25",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/civilian-black-b25/",
+        "source_label": "PaintScratch 2006 Hummer",
+        "hex_value": "#1C1818"
+      }
+    ],
+    "2007": [
+      {
+        "display_name": "Yellow",
+        "paint_code": "43/WA5456",
+        "slug": "yellow-43wa5456",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/yellow-43wa5456/",
+        "source_label": "PaintScratch 2007 Hummer",
+        "hex_value": "#E0BA24"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "41/WA8555",
+        "slug": "black-41wa8555",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/black-41wa8555/",
+        "source_label": "PaintScratch 2007 Hummer",
+        "hex_value": "#020202"
+      },
+      {
+        "display_name": "Stealth Gray Metallic",
+        "paint_code": "46/WA928L",
+        "slug": "stealth-gray-metallic-46wa928l",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/stealth-gray-metallic-46wa928l/",
+        "source_label": "PaintScratch 2007 Hummer",
+        "hex_value": "#484A4D"
+      },
+      {
+        "display_name": "Mystic Green Metallic",
+        "paint_code": "G38",
+        "slug": "mystic-green-metallic-g38",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/mystic-green-metallic-g38/",
+        "source_label": "PaintScratch 2007 Hummer",
+        "hex_value": "#5B644A"
+      },
+      {
+        "display_name": "All Terrain Blue",
+        "paint_code": "WA406P",
+        "slug": "all-terrain-blue-wa406p",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/all-terrain-blue-wa406p/",
+        "source_label": "PaintScratch 2007 Hummer",
+        "hex_value": "#2F303F"
+      },
+      {
+        "display_name": "Cashmere Metallic",
+        "paint_code": "19/WA929L",
+        "slug": "cashmere-metallic-19wa929l",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/cashmere-metallic-19wa929l/",
+        "source_label": "PaintScratch 2007 Hummer",
+        "hex_value": "#C8C3AA"
+      },
+      {
+        "display_name": "Dark Ming Blue Metallic",
+        "paint_code": "25/WA722J",
+        "slug": "dark-ming-blue-metallic-25wa722j",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/dark-ming-blue-metallic-25wa722j/",
+        "source_label": "PaintScratch 2007 Hummer",
+        "hex_value": "#1D276F"
+      },
+      {
+        "display_name": "Imperial Blue Metallic",
+        "paint_code": "37U/WA403P",
+        "slug": "imperial-blue-metallic-37uwa403p",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/imperial-blue-metallic-37uwa403p/",
+        "source_label": "PaintScratch 2007 Hummer",
+        "hex_value": "#1B254B"
+      },
+      {
+        "display_name": "Bordeaux Red Metallic",
+        "paint_code": "49/WA204M",
+        "slug": "bordeaux-red-metallic-49wa204m",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/bordeaux-red-metallic-49wa204m/",
+        "source_label": "PaintScratch 2007 Hummer",
+        "hex_value": "#7E3D30"
+      },
+      {
+        "display_name": "Olympic White",
+        "paint_code": "50/WA8624",
+        "slug": "olympic-white-50wa8624",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/olympic-white-50wa8624/",
+        "source_label": "PaintScratch 2007 Hummer",
+        "hex_value": "#EFEFE9"
+      },
+      {
+        "display_name": "Antique Bronze Metallic",
+        "paint_code": "53/WA317N",
+        "slug": "antique-bronze-metallic-53wa317n",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/antique-bronze-metallic-53wa317n/",
+        "source_label": "PaintScratch 2007 Hummer",
+        "hex_value": "#726858"
+      },
+      {
+        "display_name": "Fine Silver Birch Metallic",
+        "paint_code": "59/WA926L",
+        "slug": "fine-silver-birch-metallic-59wa926l",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/fine-silver-birch-metallic-59wa926l/",
+        "source_label": "PaintScratch 2007 Hummer",
+        "hex_value": "#D2D1CC"
+      },
+      {
+        "display_name": "Dark Spiral Gray Metallic",
+        "paint_code": "62/WA805K",
+        "slug": "dark-spiral-gray-metallic-62wa805k",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/dark-spiral-gray-metallic-62wa805k/",
+        "source_label": "PaintScratch 2007 Hummer",
+        "hex_value": "#636363"
+      },
+      {
+        "display_name": "Sonoma Jewel Metallic",
+        "paint_code": "66/WA412P",
+        "slug": "sonoma-jewel-metallic-66wa412p",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/sonoma-jewel-metallic-66wa412p/",
+        "source_label": "PaintScratch 2007 Hummer",
+        "hex_value": "#8D1B20"
+      },
+      {
+        "display_name": "Light Tarnished Silver Metallic",
+        "paint_code": "67/WA994L",
+        "slug": "light-tarnished-silver-metallic-67wa994l",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/light-tarnished-silver-metallic-67wa994l/",
+        "source_label": "PaintScratch 2007 Hummer",
+        "hex_value": "#DFDED7"
+      },
+      {
+        "display_name": "Victory Red",
+        "paint_code": "74/WA9260",
+        "slug": "victory-red-74wa9260",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/victory-red-74wa9260/",
+        "source_label": "PaintScratch 2007 Hummer",
+        "hex_value": "#A51814"
+      }
+    ],
+    "2008": [
+      {
+        "display_name": "Yellow",
+        "paint_code": "43/WA5456",
+        "slug": "yellow-43wa5456",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/yellow-43wa5456/",
+        "source_label": "PaintScratch 2008 Hummer",
+        "hex_value": "#E0BA24"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "41/WA8555",
+        "slug": "black-41wa8555",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/black-41wa8555/",
+        "source_label": "PaintScratch 2008 Hummer",
+        "hex_value": "#020202"
+      },
+      {
+        "display_name": "Stealth Gray Metallic",
+        "paint_code": "46/WA928L",
+        "slug": "stealth-gray-metallic-46wa928l",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/stealth-gray-metallic-46wa928l/",
+        "source_label": "PaintScratch 2008 Hummer",
+        "hex_value": "#484A4D"
+      },
+      {
+        "display_name": "Graystone Metallic",
+        "paint_code": "16/WA213M",
+        "slug": "graystone-metallic-16wa213m",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/graystone-metallic-16wa213m/",
+        "source_label": "PaintScratch 2008 Hummer",
+        "hex_value": "#656257"
+      },
+      {
+        "display_name": "Bermuda Blue Metallic",
+        "paint_code": "26/WA214M",
+        "slug": "bermuda-blue-metallic-26wa214m",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/bermuda-blue-metallic-26wa214m/",
+        "source_label": "PaintScratch 2008 Hummer",
+        "hex_value": "#1C292C"
+      },
+      {
+        "display_name": "Inferno Orange Metallic",
+        "paint_code": "28/WA502Q",
+        "slug": "inferno-orange-metallic-28wa502q",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/inferno-orange-metallic-28wa502q/",
+        "source_label": "PaintScratch 2008 Hummer",
+        "hex_value": "#AF331F"
+      },
+      {
+        "display_name": "Imperial Blue Metallic",
+        "paint_code": "37U/WA403P",
+        "slug": "imperial-blue-metallic-37uwa403p",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/imperial-blue-metallic-37uwa403p/",
+        "source_label": "PaintScratch 2008 Hummer",
+        "hex_value": "#1B254B"
+      },
+      {
+        "display_name": "All Terrain Blue",
+        "paint_code": "48/WA406P",
+        "slug": "all-terrain-blue-48wa406p",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/all-terrain-blue-48wa406p/",
+        "source_label": "PaintScratch 2008 Hummer",
+        "hex_value": "#1F4763"
+      },
+      {
+        "display_name": "Olympic White",
+        "paint_code": "50/WA8624",
+        "slug": "olympic-white-50wa8624",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/olympic-white-50wa8624/",
+        "source_label": "PaintScratch 2008 Hummer",
+        "hex_value": "#EFEFE9"
+      },
+      {
+        "display_name": "Carbon Flash Metallic",
+        "paint_code": "58/WA501Q",
+        "slug": "carbon-flash-metallic-58wa501q",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/carbon-flash-metallic-58wa501q/",
+        "source_label": "PaintScratch 2008 Hummer",
+        "hex_value": "#35322B"
+      },
+      {
+        "display_name": "Fine Silver Birch Metallic",
+        "paint_code": "59/WA926L",
+        "slug": "fine-silver-birch-metallic-59wa926l",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/fine-silver-birch-metallic-59wa926l/",
+        "source_label": "PaintScratch 2008 Hummer",
+        "hex_value": "#D2D1CC"
+      },
+      {
+        "display_name": "Sonoma Jewel Metallic",
+        "paint_code": "66/WA412P",
+        "slug": "sonoma-jewel-metallic-66wa412p",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/sonoma-jewel-metallic-66wa412p/",
+        "source_label": "PaintScratch 2008 Hummer",
+        "hex_value": "#8D1B20"
+      },
+      {
+        "display_name": "Victory Red",
+        "paint_code": "74/WA9260",
+        "slug": "victory-red-74wa9260",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/victory-red-74wa9260/",
+        "source_label": "PaintScratch 2008 Hummer",
+        "hex_value": "#A51814"
+      },
+      {
+        "display_name": "Techno Gray Metallic",
+        "paint_code": "75/WA411P",
+        "slug": "techno-gray-metallic-75wa411p",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/techno-gray-metallic-75wa411p/",
+        "source_label": "PaintScratch 2008 Hummer",
+        "hex_value": "#5F574F"
+      },
+      {
+        "display_name": "Light Argent Effect (Wheel)",
+        "paint_code": "6272",
+        "slug": "light-argent-effect-wheel-6272",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/light-argent-effect-wheel-6272/",
+        "source_label": "PaintScratch 2008 Hummer",
+        "hex_value": "#D0CEC0"
+      },
+      {
+        "display_name": "Bright Silver Sparkle Effect (Wheel)",
+        "paint_code": "9967",
+        "slug": "bright-silver-sparkle-effect-wheel-9967",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/bright-silver-sparkle-effect-wheel-9967/",
+        "source_label": "PaintScratch 2008 Hummer",
+        "hex_value": "#F1F0EB"
+      }
+    ],
+    "2009": [
+      {
+        "display_name": "Graystone Metallic",
+        "paint_code": "16/WA213M",
+        "slug": "graystone-metallic-16wa213m",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/graystone-metallic-16wa213m/",
+        "source_label": "PaintScratch 2009 Hummer",
+        "hex_value": "#656257"
+      },
+      {
+        "display_name": "Blade Silver Metallic",
+        "paint_code": "17U/WA636R",
+        "slug": "blade-silver-metallic-17uwa636r",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/blade-silver-metallic-17uwa636r/",
+        "source_label": "PaintScratch 2009 Hummer",
+        "hex_value": "#CCC8C4"
+      },
+      {
+        "display_name": "Inferno Orange Metallic",
+        "paint_code": "28/WA502Q",
+        "slug": "inferno-orange-metallic-28wa502q",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/inferno-orange-metallic-28wa502q/",
+        "source_label": "PaintScratch 2009 Hummer",
+        "hex_value": "#AF331F"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "41/WA8555/WA491P",
+        "slug": "black-41wa8555wa491p",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/black-41wa8555wa491p/",
+        "source_label": "PaintScratch 2009 Hummer",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "All Terrain Blue",
+        "paint_code": "48/WA406P",
+        "slug": "all-terrain-blue-48wa406p",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/all-terrain-blue-48wa406p/",
+        "source_label": "PaintScratch 2009 Hummer",
+        "hex_value": "#1F4763"
+      },
+      {
+        "display_name": "White",
+        "paint_code": "50/WA8624/WA492P",
+        "slug": "white-50wa8624wa492p",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/white-50wa8624wa492p/",
+        "source_label": "PaintScratch 2009 Hummer",
+        "hex_value": "#FFFAEB"
+      },
+      {
+        "display_name": "Golden Yellow",
+        "paint_code": "55/WA488P",
+        "slug": "golden-yellow-55wa488p",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/golden-yellow-55wa488p/",
+        "source_label": "PaintScratch 2009 Hummer",
+        "hex_value": "#ECDB48"
+      },
+      {
+        "display_name": "Copper Haze Metallic",
+        "paint_code": "55/WA635R",
+        "slug": "copper-haze-metallic-55wa635r",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/copper-haze-metallic-55wa635r/",
+        "source_label": "PaintScratch 2009 Hummer",
+        "hex_value": "#914D2B"
+      },
+      {
+        "display_name": "Star Silver II Metallic",
+        "paint_code": "57/WA409P",
+        "slug": "star-silver-ii-metallic-57wa409p",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/star-silver-ii-metallic-57wa409p/",
+        "source_label": "PaintScratch 2009 Hummer",
+        "hex_value": "#EAE8E4"
+      },
+      {
+        "display_name": "Carbon Flash Metallic",
+        "paint_code": "58/WA501Q",
+        "slug": "carbon-flash-metallic-58wa501q",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/carbon-flash-metallic-58wa501q/",
+        "source_label": "PaintScratch 2009 Hummer",
+        "hex_value": "#35322B"
+      },
+      {
+        "display_name": "Fine Silver Birch Metallic",
+        "paint_code": "59/WA926L",
+        "slug": "fine-silver-birch-metallic-59wa926l",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/fine-silver-birch-metallic-59wa926l/",
+        "source_label": "PaintScratch 2009 Hummer",
+        "hex_value": "#D2D1CC"
+      },
+      {
+        "display_name": "Sonic Orange Metallic",
+        "paint_code": "62/WA734Q",
+        "slug": "sonic-orange-metallic-62wa734q",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/sonic-orange-metallic-62wa734q/",
+        "source_label": "PaintScratch 2009 Hummer",
+        "hex_value": "#B56429"
+      },
+      {
+        "display_name": "Silver Lightning Metallic",
+        "paint_code": "65/WA736Q",
+        "slug": "silver-lightning-metallic-65wa736q",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/silver-lightning-metallic-65wa736q/",
+        "source_label": "PaintScratch 2009 Hummer",
+        "hex_value": "#7C1614"
+      },
+      {
+        "display_name": "Sonoma Jewel Metallic",
+        "paint_code": "66/WA412P",
+        "slug": "sonoma-jewel-metallic-66wa412p",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/sonoma-jewel-metallic-66wa412p/",
+        "source_label": "PaintScratch 2009 Hummer",
+        "hex_value": "#8D1B20"
+      },
+      {
+        "display_name": "Lancelot Gold Metallic",
+        "paint_code": "67/WA735Q",
+        "slug": "lancelot-gold-metallic-67wa735q",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/lancelot-gold-metallic-67wa735q/",
+        "source_label": "PaintScratch 2009 Hummer",
+        "hex_value": "#E6DDAA"
+      },
+      {
+        "display_name": "Victory Red",
+        "paint_code": "74/WA9260",
+        "slug": "victory-red-74wa9260",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/victory-red-74wa9260/",
+        "source_label": "PaintScratch 2009 Hummer",
+        "hex_value": "#A51814"
+      }
+    ],
+    "2010": [
+      {
+        "display_name": "Blade Silver Metallic",
+        "paint_code": "17U/WA636R",
+        "slug": "blade-silver-metallic-17uwa636r",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/blade-silver-metallic-17uwa636r/",
+        "source_label": "PaintScratch 2010 Hummer",
+        "hex_value": "#CCC8C4"
+      },
+      {
+        "display_name": "Inferno Orange Metallic",
+        "paint_code": "28/WA502Q",
+        "slug": "inferno-orange-metallic-28wa502q",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/inferno-orange-metallic-28wa502q/",
+        "source_label": "PaintScratch 2010 Hummer",
+        "hex_value": "#AF331F"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "41/WA8555/WA491P",
+        "slug": "black-41wa8555wa491p",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/black-41wa8555wa491p/",
+        "source_label": "PaintScratch 2010 Hummer",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "All Terrain Blue",
+        "paint_code": "48/WA406P",
+        "slug": "all-terrain-blue-48wa406p",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/all-terrain-blue-48wa406p/",
+        "source_label": "PaintScratch 2010 Hummer",
+        "hex_value": "#1F4763"
+      },
+      {
+        "display_name": "White",
+        "paint_code": "50/WA8624/WA492P",
+        "slug": "white-50wa8624wa492p",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/white-50wa8624wa492p/",
+        "source_label": "PaintScratch 2010 Hummer",
+        "hex_value": "#FFFAEB"
+      },
+      {
+        "display_name": "Carbon Flash Metallic",
+        "paint_code": "58/WA501Q",
+        "slug": "carbon-flash-metallic-58wa501q",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/carbon-flash-metallic-58wa501q/",
+        "source_label": "PaintScratch 2010 Hummer",
+        "hex_value": "#35322B"
+      },
+      {
+        "display_name": "Victory Red",
+        "paint_code": "74/WA9260",
+        "slug": "victory-red-74wa9260",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/victory-red-74wa9260/",
+        "source_label": "PaintScratch 2010 Hummer",
+        "hex_value": "#A51814"
+      },
+      {
+        "display_name": "Merlot Jewel Metallic",
+        "paint_code": "79/WA517Q",
+        "slug": "merlot-jewel-metallic-79wa517q",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/merlot-jewel-metallic-79wa517q/",
+        "source_label": "PaintScratch 2010 Hummer",
+        "hex_value": "#75210D"
+      },
+      {
+        "display_name": "Light Argent Effect (Wheel)",
+        "paint_code": "6272",
+        "slug": "light-argent-effect-wheel-6272",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/light-argent-effect-wheel-6272/",
+        "source_label": "PaintScratch 2010 Hummer",
+        "hex_value": "#D0CEC0"
+      },
+      {
+        "display_name": "Bright Silver Sparkle Effect (Wheel)",
+        "paint_code": "9967",
+        "slug": "bright-silver-sparkle-effect-wheel-9967",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/bright-silver-sparkle-effect-wheel-9967/",
+        "source_label": "PaintScratch 2010 Hummer",
+        "hex_value": "#F1F0EB"
+      },
+      {
+        "display_name": "Opal Gray (Interior)",
+        "paint_code": "WA104D",
+        "slug": "opal-gray-interior-wa104d",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/opal-gray-interior-wa104d/",
+        "source_label": "PaintScratch 2010 Hummer",
+        "hex_value": "#B7A079"
+      },
+      {
+        "display_name": "Ebony (Interior)",
+        "paint_code": "WA167A",
+        "slug": "ebony-interior-wa167a",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/ebony-interior-wa167a/",
+        "source_label": "PaintScratch 2010 Hummer",
+        "hex_value": "#39332D"
+      },
+      {
+        "display_name": "Morocco (Interior)",
+        "paint_code": "WA260M",
+        "slug": "morocco-interior-wa260m",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/morocco-interior-wa260m/",
+        "source_label": "PaintScratch 2010 Hummer",
+        "hex_value": "#744A30"
+      },
+      {
+        "display_name": "Brick (Interior)",
+        "paint_code": "WA422P",
+        "slug": "brick-interior-wa422p",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/brick-interior-wa422p/",
+        "source_label": "PaintScratch 2010 Hummer",
+        "hex_value": "#874E35"
+      },
+      {
+        "display_name": "Dark Smoke Gray (matt)",
+        "paint_code": "WA501F",
+        "slug": "dark-smoke-gray-matt-wa501f",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/dark-smoke-gray-matt-wa501f/",
+        "source_label": "PaintScratch 2010 Hummer",
+        "hex_value": "#342E28"
+      },
+      {
+        "display_name": "Dark Smoke Gray (wheel)",
+        "paint_code": "WA501F-W",
+        "slug": "dark-smoke-gray-wheel-wa501f-w",
+        "reference_url": "https://www.paintscratch.com/colors/hummer/dark-smoke-gray-wheel-wa501f-w/",
+        "source_label": "PaintScratch 2010 Hummer",
+        "hex_value": "#342E28"
+      }
+    ]
+  }
+}

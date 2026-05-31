@@ -1,0 +1,126 @@
+{
+  "All Models": {
+    "1990": [
+      {
+        "display_name": "Hot Rod Red",
+        "paint_code": "DBU 4217",
+        "slug": "hot-rod-red-dbu-4217",
+        "reference_url": "https://www.paintscratch.com/colors/ral/hot-rod-red-dbu-4217/",
+        "source_label": "PaintScratch 1990 RAL",
+        "hex_value": "#FA061D"
+      },
+      {
+        "display_name": "Blue (PPG 193751)",
+        "paint_code": "5010",
+        "slug": "blue-ppg-193751-5010",
+        "reference_url": "https://www.paintscratch.com/colors/ral/blue-ppg-193751-5010/",
+        "source_label": "PaintScratch 1990 RAL",
+        "hex_value": "#2C44D4"
+      },
+      {
+        "display_name": "Gray",
+        "paint_code": "7035",
+        "slug": "gray-7035",
+        "reference_url": "https://www.paintscratch.com/colors/ral/gray-7035/",
+        "source_label": "PaintScratch 1990 RAL",
+        "hex_value": "#B5B7B4"
+      },
+      {
+        "display_name": "Yellow",
+        "paint_code": "1003",
+        "slug": "yellow-1003",
+        "reference_url": "https://www.paintscratch.com/colors/ral/yellow-1003/",
+        "source_label": "PaintScratch 1990 RAL",
+        "hex_value": "#FFDE01"
+      },
+      {
+        "display_name": "Gold Poly",
+        "paint_code": "4011",
+        "slug": "gold-poly-4011",
+        "reference_url": "https://www.paintscratch.com/colors/ral/gold-poly-4011/",
+        "source_label": "PaintScratch 1990 RAL",
+        "hex_value": "#E3BD25"
+      },
+      {
+        "display_name": "Distant Blue (DBC 908454)",
+        "paint_code": "5023",
+        "slug": "distant-blue-dbc-908454-5023",
+        "reference_url": "https://www.paintscratch.com/colors/ral/distant-blue-dbc-908454-5023/",
+        "source_label": "PaintScratch 1990 RAL",
+        "hex_value": "#48759E"
+      },
+      {
+        "display_name": "Fir Green (Tannengrun)",
+        "paint_code": "6009",
+        "slug": "fir-green-tannengrun-6009",
+        "reference_url": "https://www.paintscratch.com/colors/ral/fir-green-tannengrun-6009/",
+        "source_label": "PaintScratch 1990 RAL",
+        "hex_value": "#2C642C"
+      },
+      {
+        "display_name": "Black Green",
+        "paint_code": "6012",
+        "slug": "black-green-6012",
+        "reference_url": "https://www.paintscratch.com/colors/ral/black-green-6012/",
+        "source_label": "PaintScratch 1990 RAL",
+        "hex_value": "#314D3C"
+      },
+      {
+        "display_name": "Mint Green",
+        "paint_code": "6029",
+        "slug": "mint-green-6029",
+        "reference_url": "https://www.paintscratch.com/colors/ral/mint-green-6029/",
+        "source_label": "PaintScratch 1990 RAL",
+        "hex_value": "#6AFA82"
+      },
+      {
+        "display_name": "White",
+        "paint_code": "9003",
+        "slug": "white-9003",
+        "reference_url": "https://www.paintscratch.com/colors/ral/white-9003/",
+        "source_label": "PaintScratch 1990 RAL",
+        "hex_value": "#F8F3F2"
+      },
+      {
+        "display_name": "Special Custom",
+        "paint_code": "POWD",
+        "slug": "special-custom-powd",
+        "reference_url": "https://www.paintscratch.com/colors/ral/special-custom-powd/",
+        "source_label": "PaintScratch 1990 RAL",
+        "hex_value": "#74757C"
+      },
+      {
+        "display_name": "Traffic Orange",
+        "paint_code": "RAL 2009",
+        "slug": "traffic-orange-ral-2009",
+        "reference_url": "https://www.paintscratch.com/colors/ral/traffic-orange-ral-2009/",
+        "source_label": "PaintScratch 1990 RAL",
+        "hex_value": "#EB9D23"
+      },
+      {
+        "display_name": "Ruby Red",
+        "paint_code": "RAL 3003",
+        "slug": "ruby-red-ral-3003",
+        "reference_url": "https://www.paintscratch.com/colors/ral/ruby-red-ral-3003/",
+        "source_label": "PaintScratch 1990 RAL",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "Medium Blue",
+        "paint_code": "RAL 5002",
+        "slug": "medium-blue-ral-5002",
+        "reference_url": "https://www.paintscratch.com/colors/ral/medium-blue-ral-5002/",
+        "source_label": "PaintScratch 1990 RAL",
+        "hex_value": "#0D2D97"
+      },
+      {
+        "display_name": "Olive Grey",
+        "paint_code": "RAL 7002",
+        "slug": "olive-grey-ral-7002",
+        "reference_url": "https://www.paintscratch.com/colors/ral/olive-grey-ral-7002/",
+        "source_label": "PaintScratch 1990 RAL",
+        "hex_value": "#9C8C08"
+      }
+    ]
+  }
+}

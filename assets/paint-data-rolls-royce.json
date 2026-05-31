@@ -1,0 +1,4252 @@
+{
+  "All Models": {
+    "1960": [
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "95.00.434",
+        "slug": "silver-metallic-9500434",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/silver-metallic-9500434/",
+        "source_label": "PaintScratch 1960 Rolls-Royce",
+        "hex_value": "#CFCDC9"
+      }
+    ],
+    "1961": [
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "95.00.434",
+        "slug": "silver-metallic-9500434",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/silver-metallic-9500434/",
+        "source_label": "PaintScratch 1961 Rolls-Royce",
+        "hex_value": "#CFCDC9"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "95.00.701",
+        "slug": "black-9500701",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/black-9500701/",
+        "source_label": "PaintScratch 1961 Rolls-Royce",
+        "hex_value": "#000000"
+      }
+    ],
+    "1962": [
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "95.00.434",
+        "slug": "silver-metallic-9500434",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/silver-metallic-9500434/",
+        "source_label": "PaintScratch 1962 Rolls-Royce",
+        "hex_value": "#CFCDC9"
+      }
+    ],
+    "1963": [
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "95.00.434",
+        "slug": "silver-metallic-9500434",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/silver-metallic-9500434/",
+        "source_label": "PaintScratch 1963 Rolls-Royce",
+        "hex_value": "#CFCDC9"
+      }
+    ],
+    "1964": [
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "95.00.434",
+        "slug": "silver-metallic-9500434",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/silver-metallic-9500434/",
+        "source_label": "PaintScratch 1964 Rolls-Royce",
+        "hex_value": "#CFCDC9"
+      }
+    ],
+    "1965": [
+      {
+        "display_name": "Acrylic White",
+        "paint_code": "95.10.235",
+        "slug": "acrylic-white-9510235",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/acrylic-white-9510235/",
+        "source_label": "PaintScratch 1965 Rolls-Royce",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Seychelles Blue Metallic",
+        "paint_code": "95.10.071",
+        "slug": "seychelles-blue-metallic-9510071",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/seychelles-blue-metallic-9510071/",
+        "source_label": "PaintScratch 1965 Rolls-Royce",
+        "hex_value": "#496D8F"
+      },
+      {
+        "display_name": "Brewster Green",
+        "paint_code": "95.10.393",
+        "slug": "brewster-green-9510393",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/brewster-green-9510393/",
+        "source_label": "PaintScratch 1965 Rolls-Royce",
+        "hex_value": "#234723"
+      },
+      {
+        "display_name": "Brewster Green",
+        "paint_code": "95.20.109",
+        "slug": "brewster-green-9520109",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/brewster-green-9520109/",
+        "source_label": "PaintScratch 1965 Rolls-Royce",
+        "hex_value": "#277925"
+      },
+      {
+        "display_name": "Acrylic White",
+        "paint_code": "95.20.128",
+        "slug": "acrylic-white-9520128",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/acrylic-white-9520128/",
+        "source_label": "PaintScratch 1965 Rolls-Royce",
+        "hex_value": "#F9FAFB"
+      }
+    ],
+    "1966": [
+      {
+        "display_name": "Acrylic White",
+        "paint_code": "95.10.235",
+        "slug": "acrylic-white-9510235",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/acrylic-white-9510235/",
+        "source_label": "PaintScratch 1966 Rolls-Royce",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Seychelles Blue Metallic",
+        "paint_code": "95.10.071",
+        "slug": "seychelles-blue-metallic-9510071",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/seychelles-blue-metallic-9510071/",
+        "source_label": "PaintScratch 1966 Rolls-Royce",
+        "hex_value": "#496D8F"
+      },
+      {
+        "display_name": "Brewster Green",
+        "paint_code": "95.10.393",
+        "slug": "brewster-green-9510393",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/brewster-green-9510393/",
+        "source_label": "PaintScratch 1966 Rolls-Royce",
+        "hex_value": "#234723"
+      },
+      {
+        "display_name": "Brewster Green",
+        "paint_code": "95.20.109",
+        "slug": "brewster-green-9520109",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/brewster-green-9520109/",
+        "source_label": "PaintScratch 1966 Rolls-Royce",
+        "hex_value": "#277925"
+      },
+      {
+        "display_name": "Acrylic White",
+        "paint_code": "95.20.128",
+        "slug": "acrylic-white-9520128",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/acrylic-white-9520128/",
+        "source_label": "PaintScratch 1966 Rolls-Royce",
+        "hex_value": "#F9FAFB"
+      }
+    ],
+    "1967": [
+      {
+        "display_name": "Acrylic White",
+        "paint_code": "95.10.235",
+        "slug": "acrylic-white-9510235",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/acrylic-white-9510235/",
+        "source_label": "PaintScratch 1967 Rolls-Royce",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Seychelles Blue Metallic",
+        "paint_code": "95.10.071",
+        "slug": "seychelles-blue-metallic-9510071",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/seychelles-blue-metallic-9510071/",
+        "source_label": "PaintScratch 1967 Rolls-Royce",
+        "hex_value": "#496D8F"
+      },
+      {
+        "display_name": "Brewster Green",
+        "paint_code": "95.10.393",
+        "slug": "brewster-green-9510393",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/brewster-green-9510393/",
+        "source_label": "PaintScratch 1967 Rolls-Royce",
+        "hex_value": "#234723"
+      },
+      {
+        "display_name": "Brewster Green",
+        "paint_code": "95.20.109",
+        "slug": "brewster-green-9520109",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/brewster-green-9520109/",
+        "source_label": "PaintScratch 1967 Rolls-Royce",
+        "hex_value": "#277925"
+      },
+      {
+        "display_name": "Acrylic White",
+        "paint_code": "95.20.128",
+        "slug": "acrylic-white-9520128",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/acrylic-white-9520128/",
+        "source_label": "PaintScratch 1967 Rolls-Royce",
+        "hex_value": "#F9FAFB"
+      }
+    ],
+    "1968": [
+      {
+        "display_name": "Acrylic White",
+        "paint_code": "95.10.235",
+        "slug": "acrylic-white-9510235",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/acrylic-white-9510235/",
+        "source_label": "PaintScratch 1968 Rolls-Royce",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Seychelles Blue Metallic",
+        "paint_code": "95.10.071",
+        "slug": "seychelles-blue-metallic-9510071",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/seychelles-blue-metallic-9510071/",
+        "source_label": "PaintScratch 1968 Rolls-Royce",
+        "hex_value": "#496D8F"
+      },
+      {
+        "display_name": "Brewster Green",
+        "paint_code": "95.10.393",
+        "slug": "brewster-green-9510393",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/brewster-green-9510393/",
+        "source_label": "PaintScratch 1968 Rolls-Royce",
+        "hex_value": "#234723"
+      },
+      {
+        "display_name": "Brewster Green",
+        "paint_code": "95.20.109",
+        "slug": "brewster-green-9520109",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/brewster-green-9520109/",
+        "source_label": "PaintScratch 1968 Rolls-Royce",
+        "hex_value": "#277925"
+      },
+      {
+        "display_name": "Acrylic White",
+        "paint_code": "95.20.128",
+        "slug": "acrylic-white-9520128",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/acrylic-white-9520128/",
+        "source_label": "PaintScratch 1968 Rolls-Royce",
+        "hex_value": "#F9FAFB"
+      }
+    ],
+    "1969": [
+      {
+        "display_name": "Acrylic White",
+        "paint_code": "95.10.235",
+        "slug": "acrylic-white-9510235",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/acrylic-white-9510235/",
+        "source_label": "PaintScratch 1969 Rolls-Royce",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Seychelles Blue Metallic",
+        "paint_code": "95.10.071",
+        "slug": "seychelles-blue-metallic-9510071",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/seychelles-blue-metallic-9510071/",
+        "source_label": "PaintScratch 1969 Rolls-Royce",
+        "hex_value": "#496D8F"
+      },
+      {
+        "display_name": "Brewster Green",
+        "paint_code": "95.10.393",
+        "slug": "brewster-green-9510393",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/brewster-green-9510393/",
+        "source_label": "PaintScratch 1969 Rolls-Royce",
+        "hex_value": "#234723"
+      },
+      {
+        "display_name": "Brewster Green",
+        "paint_code": "95.20.109",
+        "slug": "brewster-green-9520109",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/brewster-green-9520109/",
+        "source_label": "PaintScratch 1969 Rolls-Royce",
+        "hex_value": "#277925"
+      },
+      {
+        "display_name": "Acrylic White",
+        "paint_code": "95.20.128",
+        "slug": "acrylic-white-9520128",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/acrylic-white-9520128/",
+        "source_label": "PaintScratch 1969 Rolls-Royce",
+        "hex_value": "#F9FAFB"
+      }
+    ],
+    "1970": [
+      {
+        "display_name": "Acrylic White",
+        "paint_code": "95.10.235",
+        "slug": "acrylic-white-9510235",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/acrylic-white-9510235/",
+        "source_label": "PaintScratch 1970 Rolls-Royce",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Seychelles Blue Metallic",
+        "paint_code": "95.10.071",
+        "slug": "seychelles-blue-metallic-9510071",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/seychelles-blue-metallic-9510071/",
+        "source_label": "PaintScratch 1970 Rolls-Royce",
+        "hex_value": "#496D8F"
+      },
+      {
+        "display_name": "Brewster Green",
+        "paint_code": "95.10.393",
+        "slug": "brewster-green-9510393",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/brewster-green-9510393/",
+        "source_label": "PaintScratch 1970 Rolls-Royce",
+        "hex_value": "#234723"
+      },
+      {
+        "display_name": "Colledge Blue Metallic",
+        "paint_code": "95.10.487",
+        "slug": "colledge-blue-metallic-9510487",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/colledge-blue-metallic-9510487/",
+        "source_label": "PaintScratch 1970 Rolls-Royce",
+        "hex_value": "#222A64"
+      },
+      {
+        "display_name": "Brewster Green",
+        "paint_code": "95.20.109",
+        "slug": "brewster-green-9520109",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/brewster-green-9520109/",
+        "source_label": "PaintScratch 1970 Rolls-Royce",
+        "hex_value": "#277925"
+      },
+      {
+        "display_name": "Acrylic White",
+        "paint_code": "95.20.128",
+        "slug": "acrylic-white-9520128",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/acrylic-white-9520128/",
+        "source_label": "PaintScratch 1970 Rolls-Royce",
+        "hex_value": "#F9FAFB"
+      }
+    ],
+    "1971": [
+      {
+        "display_name": "Acrylic White",
+        "paint_code": "95.10.235",
+        "slug": "acrylic-white-9510235",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/acrylic-white-9510235/",
+        "source_label": "PaintScratch 1971 Rolls-Royce",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Seychelles Blue Metallic",
+        "paint_code": "95.10.071",
+        "slug": "seychelles-blue-metallic-9510071",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/seychelles-blue-metallic-9510071/",
+        "source_label": "PaintScratch 1971 Rolls-Royce",
+        "hex_value": "#496D8F"
+      },
+      {
+        "display_name": "Brewster Green",
+        "paint_code": "95.10.393",
+        "slug": "brewster-green-9510393",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/brewster-green-9510393/",
+        "source_label": "PaintScratch 1971 Rolls-Royce",
+        "hex_value": "#234723"
+      },
+      {
+        "display_name": "Colledge Blue Metallic",
+        "paint_code": "95.10.487",
+        "slug": "colledge-blue-metallic-9510487",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/colledge-blue-metallic-9510487/",
+        "source_label": "PaintScratch 1971 Rolls-Royce",
+        "hex_value": "#222A64"
+      },
+      {
+        "display_name": "Brewster Green",
+        "paint_code": "95.20.109",
+        "slug": "brewster-green-9520109",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/brewster-green-9520109/",
+        "source_label": "PaintScratch 1971 Rolls-Royce",
+        "hex_value": "#277925"
+      },
+      {
+        "display_name": "Acrylic White",
+        "paint_code": "95.20.128",
+        "slug": "acrylic-white-9520128",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/acrylic-white-9520128/",
+        "source_label": "PaintScratch 1971 Rolls-Royce",
+        "hex_value": "#F9FAFB"
+      }
+    ],
+    "1972": [
+      {
+        "display_name": "Acrylic White",
+        "paint_code": "95.10.235",
+        "slug": "acrylic-white-9510235",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/acrylic-white-9510235/",
+        "source_label": "PaintScratch 1972 Rolls-Royce",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Walnut Metallic",
+        "paint_code": "95.10.261",
+        "slug": "walnut-metallic-9510261",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/walnut-metallic-9510261/",
+        "source_label": "PaintScratch 1972 Rolls-Royce",
+        "hex_value": "#575039"
+      },
+      {
+        "display_name": "Scot's Pine Metallic",
+        "paint_code": "95.00.640",
+        "slug": "scots-pine-metallic-9500640",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/scots-pine-metallic-9500640/",
+        "source_label": "PaintScratch 1972 Rolls-Royce",
+        "hex_value": "#976F5F"
+      },
+      {
+        "display_name": "Seychelles Blue Metallic",
+        "paint_code": "95.10.071",
+        "slug": "seychelles-blue-metallic-9510071",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/seychelles-blue-metallic-9510071/",
+        "source_label": "PaintScratch 1972 Rolls-Royce",
+        "hex_value": "#496D8F"
+      },
+      {
+        "display_name": "Brewster Green",
+        "paint_code": "95.10.393",
+        "slug": "brewster-green-9510393",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/brewster-green-9510393/",
+        "source_label": "PaintScratch 1972 Rolls-Royce",
+        "hex_value": "#234723"
+      },
+      {
+        "display_name": "Colledge Blue Metallic",
+        "paint_code": "95.10.487",
+        "slug": "colledge-blue-metallic-9510487",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/colledge-blue-metallic-9510487/",
+        "source_label": "PaintScratch 1972 Rolls-Royce",
+        "hex_value": "#222A64"
+      },
+      {
+        "display_name": "Brewster Green",
+        "paint_code": "95.20.109",
+        "slug": "brewster-green-9520109",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/brewster-green-9520109/",
+        "source_label": "PaintScratch 1972 Rolls-Royce",
+        "hex_value": "#277925"
+      },
+      {
+        "display_name": "Acrylic White",
+        "paint_code": "95.20.128",
+        "slug": "acrylic-white-9520128",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/acrylic-white-9520128/",
+        "source_label": "PaintScratch 1972 Rolls-Royce",
+        "hex_value": "#F9FAFB"
+      }
+    ],
+    "1973": [
+      {
+        "display_name": "Acrylic White",
+        "paint_code": "95.10.235",
+        "slug": "acrylic-white-9510235",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/acrylic-white-9510235/",
+        "source_label": "PaintScratch 1973 Rolls-Royce",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Walnut Metallic",
+        "paint_code": "95.10.261",
+        "slug": "walnut-metallic-9510261",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/walnut-metallic-9510261/",
+        "source_label": "PaintScratch 1973 Rolls-Royce",
+        "hex_value": "#575039"
+      },
+      {
+        "display_name": "Scot's Pine Metallic",
+        "paint_code": "95.00.640",
+        "slug": "scots-pine-metallic-9500640",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/scots-pine-metallic-9500640/",
+        "source_label": "PaintScratch 1973 Rolls-Royce",
+        "hex_value": "#976F5F"
+      },
+      {
+        "display_name": "Seychelles Blue Metallic",
+        "paint_code": "95.10.071",
+        "slug": "seychelles-blue-metallic-9510071",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/seychelles-blue-metallic-9510071/",
+        "source_label": "PaintScratch 1973 Rolls-Royce",
+        "hex_value": "#496D8F"
+      },
+      {
+        "display_name": "Brewster Green",
+        "paint_code": "95.10.393",
+        "slug": "brewster-green-9510393",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/brewster-green-9510393/",
+        "source_label": "PaintScratch 1973 Rolls-Royce",
+        "hex_value": "#234723"
+      },
+      {
+        "display_name": "Colledge Blue Metallic",
+        "paint_code": "95.10.487",
+        "slug": "colledge-blue-metallic-9510487",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/colledge-blue-metallic-9510487/",
+        "source_label": "PaintScratch 1973 Rolls-Royce",
+        "hex_value": "#222A64"
+      },
+      {
+        "display_name": "Brewster Green",
+        "paint_code": "95.20.109",
+        "slug": "brewster-green-9520109",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/brewster-green-9520109/",
+        "source_label": "PaintScratch 1973 Rolls-Royce",
+        "hex_value": "#277925"
+      },
+      {
+        "display_name": "Acrylic White",
+        "paint_code": "95.20.128",
+        "slug": "acrylic-white-9520128",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/acrylic-white-9520128/",
+        "source_label": "PaintScratch 1973 Rolls-Royce",
+        "hex_value": "#F9FAFB"
+      }
+    ],
+    "1974": [
+      {
+        "display_name": "Acrylic White",
+        "paint_code": "95.10.235",
+        "slug": "acrylic-white-9510235",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/acrylic-white-9510235/",
+        "source_label": "PaintScratch 1974 Rolls-Royce",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Walnut Metallic",
+        "paint_code": "95.10.261",
+        "slug": "walnut-metallic-9510261",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/walnut-metallic-9510261/",
+        "source_label": "PaintScratch 1974 Rolls-Royce",
+        "hex_value": "#575039"
+      },
+      {
+        "display_name": "Porcelain White",
+        "paint_code": "95.00.439",
+        "slug": "porcelain-white-9500439",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/porcelain-white-9500439/",
+        "source_label": "PaintScratch 1974 Rolls-Royce",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Scot's Pine Metallic",
+        "paint_code": "95.00.640",
+        "slug": "scots-pine-metallic-9500640",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/scots-pine-metallic-9500640/",
+        "source_label": "PaintScratch 1974 Rolls-Royce",
+        "hex_value": "#976F5F"
+      },
+      {
+        "display_name": "Seychelles Blue Metallic",
+        "paint_code": "95.10.071",
+        "slug": "seychelles-blue-metallic-9510071",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/seychelles-blue-metallic-9510071/",
+        "source_label": "PaintScratch 1974 Rolls-Royce",
+        "hex_value": "#496D8F"
+      },
+      {
+        "display_name": "Brewster Green",
+        "paint_code": "95.10.393",
+        "slug": "brewster-green-9510393",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/brewster-green-9510393/",
+        "source_label": "PaintScratch 1974 Rolls-Royce",
+        "hex_value": "#234723"
+      },
+      {
+        "display_name": "Colledge Blue Metallic",
+        "paint_code": "95.10.487",
+        "slug": "colledge-blue-metallic-9510487",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/colledge-blue-metallic-9510487/",
+        "source_label": "PaintScratch 1974 Rolls-Royce",
+        "hex_value": "#222A64"
+      },
+      {
+        "display_name": "Brewster Green",
+        "paint_code": "95.20.109",
+        "slug": "brewster-green-9520109",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/brewster-green-9520109/",
+        "source_label": "PaintScratch 1974 Rolls-Royce",
+        "hex_value": "#277925"
+      },
+      {
+        "display_name": "Acrylic White",
+        "paint_code": "95.20.128",
+        "slug": "acrylic-white-9520128",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/acrylic-white-9520128/",
+        "source_label": "PaintScratch 1974 Rolls-Royce",
+        "hex_value": "#F9FAFB"
+      }
+    ],
+    "1975": [
+      {
+        "display_name": "Acrylic White",
+        "paint_code": "95.10.235",
+        "slug": "acrylic-white-9510235",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/acrylic-white-9510235/",
+        "source_label": "PaintScratch 1975 Rolls-Royce",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Ivory",
+        "paint_code": "95.10.228",
+        "slug": "ivory-9510228",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/ivory-9510228/",
+        "source_label": "PaintScratch 1975 Rolls-Royce",
+        "hex_value": "#FEFEE4"
+      },
+      {
+        "display_name": "Walnut Metallic",
+        "paint_code": "95.10.261",
+        "slug": "walnut-metallic-9510261",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/walnut-metallic-9510261/",
+        "source_label": "PaintScratch 1975 Rolls-Royce",
+        "hex_value": "#575039"
+      },
+      {
+        "display_name": "Garnett Metallic",
+        "paint_code": "95.10.394",
+        "slug": "garnett-metallic-9510394",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/garnett-metallic-9510394/",
+        "source_label": "PaintScratch 1975 Rolls-Royce",
+        "hex_value": "#50243F"
+      },
+      {
+        "display_name": "Porcelain White",
+        "paint_code": "95.00.439",
+        "slug": "porcelain-white-9500439",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/porcelain-white-9500439/",
+        "source_label": "PaintScratch 1975 Rolls-Royce",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Scot's Pine Metallic",
+        "paint_code": "95.00.640",
+        "slug": "scots-pine-metallic-9500640",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/scots-pine-metallic-9500640/",
+        "source_label": "PaintScratch 1975 Rolls-Royce",
+        "hex_value": "#976F5F"
+      },
+      {
+        "display_name": "Seychelles Blue Metallic",
+        "paint_code": "95.10.071",
+        "slug": "seychelles-blue-metallic-9510071",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/seychelles-blue-metallic-9510071/",
+        "source_label": "PaintScratch 1975 Rolls-Royce",
+        "hex_value": "#496D8F"
+      },
+      {
+        "display_name": "Olive",
+        "paint_code": "95.10.139",
+        "slug": "olive-9510139",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/olive-9510139/",
+        "source_label": "PaintScratch 1975 Rolls-Royce",
+        "hex_value": "#9CB860"
+      },
+      {
+        "display_name": "Peacock Blue Metallic",
+        "paint_code": "95.10.234",
+        "slug": "peacock-blue-metallic-9510234",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/peacock-blue-metallic-9510234/",
+        "source_label": "PaintScratch 1975 Rolls-Royce",
+        "hex_value": "#8080FF"
+      },
+      {
+        "display_name": "Oxford Blue",
+        "paint_code": "95.10.392",
+        "slug": "oxford-blue-9510392",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/oxford-blue-9510392/",
+        "source_label": "PaintScratch 1975 Rolls-Royce",
+        "hex_value": "#000080"
+      },
+      {
+        "display_name": "Brewster Green",
+        "paint_code": "95.10.393",
+        "slug": "brewster-green-9510393",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/brewster-green-9510393/",
+        "source_label": "PaintScratch 1975 Rolls-Royce",
+        "hex_value": "#234723"
+      },
+      {
+        "display_name": "Tudor Red",
+        "paint_code": "95.10.453",
+        "slug": "tudor-red-9510453",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/tudor-red-9510453/",
+        "source_label": "PaintScratch 1975 Rolls-Royce",
+        "hex_value": "#C00000"
+      },
+      {
+        "display_name": "Chrome Yellow",
+        "paint_code": "95.10.454",
+        "slug": "chrome-yellow-9510454",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/chrome-yellow-9510454/",
+        "source_label": "PaintScratch 1975 Rolls-Royce",
+        "hex_value": "#FFFF00"
+      },
+      {
+        "display_name": "Colledge Blue Metallic",
+        "paint_code": "95.10.487",
+        "slug": "colledge-blue-metallic-9510487",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/colledge-blue-metallic-9510487/",
+        "source_label": "PaintScratch 1975 Rolls-Royce",
+        "hex_value": "#222A64"
+      },
+      {
+        "display_name": "Cardinal Red Metallic",
+        "paint_code": "95.10.494",
+        "slug": "cardinal-red-metallic-9510494",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/cardinal-red-metallic-9510494/",
+        "source_label": "PaintScratch 1975 Rolls-Royce",
+        "hex_value": "#81443F"
+      },
+      {
+        "display_name": "Ivory",
+        "paint_code": "95.20.092",
+        "slug": "ivory-9520092",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/ivory-9520092/",
+        "source_label": "PaintScratch 1975 Rolls-Royce",
+        "hex_value": "#FDF9E5"
+      }
+    ],
+    "1976": [
+      {
+        "display_name": "Acrylic White",
+        "paint_code": "95.10.235",
+        "slug": "acrylic-white-9510235",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/acrylic-white-9510235/",
+        "source_label": "PaintScratch 1976 Rolls-Royce",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Ivory",
+        "paint_code": "95.10.228",
+        "slug": "ivory-9510228",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/ivory-9510228/",
+        "source_label": "PaintScratch 1976 Rolls-Royce",
+        "hex_value": "#FEFEE4"
+      },
+      {
+        "display_name": "Walnut Metallic",
+        "paint_code": "95.10.261",
+        "slug": "walnut-metallic-9510261",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/walnut-metallic-9510261/",
+        "source_label": "PaintScratch 1976 Rolls-Royce",
+        "hex_value": "#575039"
+      },
+      {
+        "display_name": "Garnett Metallic",
+        "paint_code": "95.10.394",
+        "slug": "garnett-metallic-9510394",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/garnett-metallic-9510394/",
+        "source_label": "PaintScratch 1976 Rolls-Royce",
+        "hex_value": "#50243F"
+      },
+      {
+        "display_name": "Porcelain White",
+        "paint_code": "95.00.439",
+        "slug": "porcelain-white-9500439",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/porcelain-white-9500439/",
+        "source_label": "PaintScratch 1976 Rolls-Royce",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Scot's Pine Metallic",
+        "paint_code": "95.00.640",
+        "slug": "scots-pine-metallic-9500640",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/scots-pine-metallic-9500640/",
+        "source_label": "PaintScratch 1976 Rolls-Royce",
+        "hex_value": "#976F5F"
+      },
+      {
+        "display_name": "Seychelles Blue Metallic",
+        "paint_code": "95.10.071",
+        "slug": "seychelles-blue-metallic-9510071",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/seychelles-blue-metallic-9510071/",
+        "source_label": "PaintScratch 1976 Rolls-Royce",
+        "hex_value": "#496D8F"
+      },
+      {
+        "display_name": "Peacock Blue Metallic",
+        "paint_code": "95.10.234",
+        "slug": "peacock-blue-metallic-9510234",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/peacock-blue-metallic-9510234/",
+        "source_label": "PaintScratch 1976 Rolls-Royce",
+        "hex_value": "#8080FF"
+      },
+      {
+        "display_name": "Oxford Blue",
+        "paint_code": "95.10.392",
+        "slug": "oxford-blue-9510392",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/oxford-blue-9510392/",
+        "source_label": "PaintScratch 1976 Rolls-Royce",
+        "hex_value": "#000080"
+      },
+      {
+        "display_name": "Brewster Green",
+        "paint_code": "95.10.393",
+        "slug": "brewster-green-9510393",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/brewster-green-9510393/",
+        "source_label": "PaintScratch 1976 Rolls-Royce",
+        "hex_value": "#234723"
+      },
+      {
+        "display_name": "Tudor Red",
+        "paint_code": "95.10.453",
+        "slug": "tudor-red-9510453",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/tudor-red-9510453/",
+        "source_label": "PaintScratch 1976 Rolls-Royce",
+        "hex_value": "#C00000"
+      },
+      {
+        "display_name": "Chrome Yellow",
+        "paint_code": "95.10.454",
+        "slug": "chrome-yellow-9510454",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/chrome-yellow-9510454/",
+        "source_label": "PaintScratch 1976 Rolls-Royce",
+        "hex_value": "#FFFF00"
+      },
+      {
+        "display_name": "Colledge Blue Metallic",
+        "paint_code": "95.10.487",
+        "slug": "colledge-blue-metallic-9510487",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/colledge-blue-metallic-9510487/",
+        "source_label": "PaintScratch 1976 Rolls-Royce",
+        "hex_value": "#222A64"
+      },
+      {
+        "display_name": "Cardinal Red Metallic",
+        "paint_code": "95.10.494",
+        "slug": "cardinal-red-metallic-9510494",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/cardinal-red-metallic-9510494/",
+        "source_label": "PaintScratch 1976 Rolls-Royce",
+        "hex_value": "#81443F"
+      },
+      {
+        "display_name": "Ivory",
+        "paint_code": "95.20.092",
+        "slug": "ivory-9520092",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/ivory-9520092/",
+        "source_label": "PaintScratch 1976 Rolls-Royce",
+        "hex_value": "#FDF9E5"
+      },
+      {
+        "display_name": "Brewster Green",
+        "paint_code": "95.20.109",
+        "slug": "brewster-green-9520109",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/brewster-green-9520109/",
+        "source_label": "PaintScratch 1976 Rolls-Royce",
+        "hex_value": "#277925"
+      }
+    ],
+    "1977": [
+      {
+        "display_name": "Acrylic White",
+        "paint_code": "95.10.235",
+        "slug": "acrylic-white-9510235",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/acrylic-white-9510235/",
+        "source_label": "PaintScratch 1977 Rolls-Royce",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Ivory",
+        "paint_code": "95.10.228",
+        "slug": "ivory-9510228",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/ivory-9510228/",
+        "source_label": "PaintScratch 1977 Rolls-Royce",
+        "hex_value": "#FEFEE4"
+      },
+      {
+        "display_name": "Walnut Metallic",
+        "paint_code": "95.10.261",
+        "slug": "walnut-metallic-9510261",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/walnut-metallic-9510261/",
+        "source_label": "PaintScratch 1977 Rolls-Royce",
+        "hex_value": "#575039"
+      },
+      {
+        "display_name": "Champagne",
+        "paint_code": "95.10.374",
+        "slug": "champagne-9510374",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/champagne-9510374/",
+        "source_label": "PaintScratch 1977 Rolls-Royce",
+        "hex_value": "#CCC6B4"
+      },
+      {
+        "display_name": "Garnett Metallic",
+        "paint_code": "95.10.394",
+        "slug": "garnett-metallic-9510394",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/garnett-metallic-9510394/",
+        "source_label": "PaintScratch 1977 Rolls-Royce",
+        "hex_value": "#50243F"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "95.00.434",
+        "slug": "silver-metallic-9500434",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/silver-metallic-9500434/",
+        "source_label": "PaintScratch 1977 Rolls-Royce",
+        "hex_value": "#CFCDC9"
+      },
+      {
+        "display_name": "Porcelain White",
+        "paint_code": "95.00.439",
+        "slug": "porcelain-white-9500439",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/porcelain-white-9500439/",
+        "source_label": "PaintScratch 1977 Rolls-Royce",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Scot's Pine Metallic",
+        "paint_code": "95.00.640",
+        "slug": "scots-pine-metallic-9500640",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/scots-pine-metallic-9500640/",
+        "source_label": "PaintScratch 1977 Rolls-Royce",
+        "hex_value": "#976F5F"
+      },
+      {
+        "display_name": "Seychelles Blue Metallic",
+        "paint_code": "95.10.071",
+        "slug": "seychelles-blue-metallic-9510071",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/seychelles-blue-metallic-9510071/",
+        "source_label": "PaintScratch 1977 Rolls-Royce",
+        "hex_value": "#496D8F"
+      },
+      {
+        "display_name": "Peacock Blue Metallic",
+        "paint_code": "95.10.234",
+        "slug": "peacock-blue-metallic-9510234",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/peacock-blue-metallic-9510234/",
+        "source_label": "PaintScratch 1977 Rolls-Royce",
+        "hex_value": "#8080FF"
+      },
+      {
+        "display_name": "Oxford Blue",
+        "paint_code": "95.10.392",
+        "slug": "oxford-blue-9510392",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/oxford-blue-9510392/",
+        "source_label": "PaintScratch 1977 Rolls-Royce",
+        "hex_value": "#000080"
+      },
+      {
+        "display_name": "Brewster Green",
+        "paint_code": "95.10.393",
+        "slug": "brewster-green-9510393",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/brewster-green-9510393/",
+        "source_label": "PaintScratch 1977 Rolls-Royce",
+        "hex_value": "#234723"
+      },
+      {
+        "display_name": "Tudor Red",
+        "paint_code": "95.10.453",
+        "slug": "tudor-red-9510453",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/tudor-red-9510453/",
+        "source_label": "PaintScratch 1977 Rolls-Royce",
+        "hex_value": "#C00000"
+      },
+      {
+        "display_name": "Chrome Yellow",
+        "paint_code": "95.10.454",
+        "slug": "chrome-yellow-9510454",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/chrome-yellow-9510454/",
+        "source_label": "PaintScratch 1977 Rolls-Royce",
+        "hex_value": "#FFFF00"
+      },
+      {
+        "display_name": "Colledge Blue Metallic",
+        "paint_code": "95.10.487",
+        "slug": "colledge-blue-metallic-9510487",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/colledge-blue-metallic-9510487/",
+        "source_label": "PaintScratch 1977 Rolls-Royce",
+        "hex_value": "#222A64"
+      },
+      {
+        "display_name": "Cardinal Red Metallic",
+        "paint_code": "95.10.494",
+        "slug": "cardinal-red-metallic-9510494",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/cardinal-red-metallic-9510494/",
+        "source_label": "PaintScratch 1977 Rolls-Royce",
+        "hex_value": "#81443F"
+      }
+    ],
+    "1978": [
+      {
+        "display_name": "Acrylic White",
+        "paint_code": "95.10.235",
+        "slug": "acrylic-white-9510235",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/acrylic-white-9510235/",
+        "source_label": "PaintScratch 1978 Rolls-Royce",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Red Metallic",
+        "paint_code": "95.10.192",
+        "slug": "red-metallic-9510192",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/red-metallic-9510192/",
+        "source_label": "PaintScratch 1978 Rolls-Royce",
+        "hex_value": "#C00000"
+      },
+      {
+        "display_name": "Ivory",
+        "paint_code": "95.10.228",
+        "slug": "ivory-9510228",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/ivory-9510228/",
+        "source_label": "PaintScratch 1978 Rolls-Royce",
+        "hex_value": "#FEFEE4"
+      },
+      {
+        "display_name": "Walnut Metallic",
+        "paint_code": "95.10.261",
+        "slug": "walnut-metallic-9510261",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/walnut-metallic-9510261/",
+        "source_label": "PaintScratch 1978 Rolls-Royce",
+        "hex_value": "#575039"
+      },
+      {
+        "display_name": "Garnett Metallic",
+        "paint_code": "95.10.394",
+        "slug": "garnett-metallic-9510394",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/garnett-metallic-9510394/",
+        "source_label": "PaintScratch 1978 Rolls-Royce",
+        "hex_value": "#50243F"
+      },
+      {
+        "display_name": "Porcelain White",
+        "paint_code": "95.00.439",
+        "slug": "porcelain-white-9500439",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/porcelain-white-9500439/",
+        "source_label": "PaintScratch 1978 Rolls-Royce",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Scot's Pine Metallic",
+        "paint_code": "95.00.640",
+        "slug": "scots-pine-metallic-9500640",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/scots-pine-metallic-9500640/",
+        "source_label": "PaintScratch 1978 Rolls-Royce",
+        "hex_value": "#976F5F"
+      },
+      {
+        "display_name": "Seychelles Blue Metallic",
+        "paint_code": "95.10.071",
+        "slug": "seychelles-blue-metallic-9510071",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/seychelles-blue-metallic-9510071/",
+        "source_label": "PaintScratch 1978 Rolls-Royce",
+        "hex_value": "#496D8F"
+      },
+      {
+        "display_name": "Silver Sand Metallic",
+        "paint_code": "95.10.179",
+        "slug": "silver-sand-metallic-9510179",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/silver-sand-metallic-9510179/",
+        "source_label": "PaintScratch 1978 Rolls-Royce",
+        "hex_value": "#CBC7B5"
+      },
+      {
+        "display_name": "Peacock Blue Metallic",
+        "paint_code": "95.10.234",
+        "slug": "peacock-blue-metallic-9510234",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/peacock-blue-metallic-9510234/",
+        "source_label": "PaintScratch 1978 Rolls-Royce",
+        "hex_value": "#8080FF"
+      },
+      {
+        "display_name": "Oxford Blue",
+        "paint_code": "95.10.392",
+        "slug": "oxford-blue-9510392",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/oxford-blue-9510392/",
+        "source_label": "PaintScratch 1978 Rolls-Royce",
+        "hex_value": "#000080"
+      },
+      {
+        "display_name": "Brewster Green",
+        "paint_code": "95.10.393",
+        "slug": "brewster-green-9510393",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/brewster-green-9510393/",
+        "source_label": "PaintScratch 1978 Rolls-Royce",
+        "hex_value": "#234723"
+      },
+      {
+        "display_name": "Tudor Red",
+        "paint_code": "95.10.453",
+        "slug": "tudor-red-9510453",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/tudor-red-9510453/",
+        "source_label": "PaintScratch 1978 Rolls-Royce",
+        "hex_value": "#C00000"
+      },
+      {
+        "display_name": "Chrome Yellow",
+        "paint_code": "95.10.454",
+        "slug": "chrome-yellow-9510454",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/chrome-yellow-9510454/",
+        "source_label": "PaintScratch 1978 Rolls-Royce",
+        "hex_value": "#FFFF00"
+      },
+      {
+        "display_name": "Colledge Blue Metallic",
+        "paint_code": "95.10.487",
+        "slug": "colledge-blue-metallic-9510487",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/colledge-blue-metallic-9510487/",
+        "source_label": "PaintScratch 1978 Rolls-Royce",
+        "hex_value": "#222A64"
+      },
+      {
+        "display_name": "Cardinal Red Metallic",
+        "paint_code": "95.10.494",
+        "slug": "cardinal-red-metallic-9510494",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/cardinal-red-metallic-9510494/",
+        "source_label": "PaintScratch 1978 Rolls-Royce",
+        "hex_value": "#81443F"
+      }
+    ],
+    "1979": [
+      {
+        "display_name": "Acrylic White",
+        "paint_code": "95.10.235",
+        "slug": "acrylic-white-9510235",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/acrylic-white-9510235/",
+        "source_label": "PaintScratch 1979 Rolls-Royce",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Red Metallic",
+        "paint_code": "95.10.192",
+        "slug": "red-metallic-9510192",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/red-metallic-9510192/",
+        "source_label": "PaintScratch 1979 Rolls-Royce",
+        "hex_value": "#C00000"
+      },
+      {
+        "display_name": "Ivory",
+        "paint_code": "95.10.228",
+        "slug": "ivory-9510228",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/ivory-9510228/",
+        "source_label": "PaintScratch 1979 Rolls-Royce",
+        "hex_value": "#FEFEE4"
+      },
+      {
+        "display_name": "Walnut Metallic",
+        "paint_code": "95.10.261",
+        "slug": "walnut-metallic-9510261",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/walnut-metallic-9510261/",
+        "source_label": "PaintScratch 1979 Rolls-Royce",
+        "hex_value": "#575039"
+      },
+      {
+        "display_name": "Garnett Metallic",
+        "paint_code": "95.10.394",
+        "slug": "garnett-metallic-9510394",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/garnett-metallic-9510394/",
+        "source_label": "PaintScratch 1979 Rolls-Royce",
+        "hex_value": "#50243F"
+      },
+      {
+        "display_name": "Porcelain White",
+        "paint_code": "95.00.439",
+        "slug": "porcelain-white-9500439",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/porcelain-white-9500439/",
+        "source_label": "PaintScratch 1979 Rolls-Royce",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Scot's Pine Metallic",
+        "paint_code": "95.00.640",
+        "slug": "scots-pine-metallic-9500640",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/scots-pine-metallic-9500640/",
+        "source_label": "PaintScratch 1979 Rolls-Royce",
+        "hex_value": "#976F5F"
+      },
+      {
+        "display_name": "Seychelles Blue Metallic",
+        "paint_code": "95.10.071",
+        "slug": "seychelles-blue-metallic-9510071",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/seychelles-blue-metallic-9510071/",
+        "source_label": "PaintScratch 1979 Rolls-Royce",
+        "hex_value": "#496D8F"
+      },
+      {
+        "display_name": "Silver Sand Metallic",
+        "paint_code": "95.10.179",
+        "slug": "silver-sand-metallic-9510179",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/silver-sand-metallic-9510179/",
+        "source_label": "PaintScratch 1979 Rolls-Royce",
+        "hex_value": "#CBC7B5"
+      },
+      {
+        "display_name": "Le Mans Blue Metallic",
+        "paint_code": "95.10.211",
+        "slug": "le-mans-blue-metallic-9510211",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/le-mans-blue-metallic-9510211/",
+        "source_label": "PaintScratch 1979 Rolls-Royce",
+        "hex_value": "#0000C0"
+      },
+      {
+        "display_name": "Peacock Blue Metallic",
+        "paint_code": "95.10.234",
+        "slug": "peacock-blue-metallic-9510234",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/peacock-blue-metallic-9510234/",
+        "source_label": "PaintScratch 1979 Rolls-Royce",
+        "hex_value": "#8080FF"
+      },
+      {
+        "display_name": "Chestnut Metallic",
+        "paint_code": "95.10.315",
+        "slug": "chestnut-metallic-9510315",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/chestnut-metallic-9510315/",
+        "source_label": "PaintScratch 1979 Rolls-Royce",
+        "hex_value": "#63541F"
+      },
+      {
+        "display_name": "Oxford Blue",
+        "paint_code": "95.10.392",
+        "slug": "oxford-blue-9510392",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/oxford-blue-9510392/",
+        "source_label": "PaintScratch 1979 Rolls-Royce",
+        "hex_value": "#000080"
+      },
+      {
+        "display_name": "Brewster Green",
+        "paint_code": "95.10.393",
+        "slug": "brewster-green-9510393",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/brewster-green-9510393/",
+        "source_label": "PaintScratch 1979 Rolls-Royce",
+        "hex_value": "#234723"
+      },
+      {
+        "display_name": "Tudor Red",
+        "paint_code": "95.10.453",
+        "slug": "tudor-red-9510453",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/tudor-red-9510453/",
+        "source_label": "PaintScratch 1979 Rolls-Royce",
+        "hex_value": "#C00000"
+      },
+      {
+        "display_name": "Chrome Yellow",
+        "paint_code": "95.10.454",
+        "slug": "chrome-yellow-9510454",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/chrome-yellow-9510454/",
+        "source_label": "PaintScratch 1979 Rolls-Royce",
+        "hex_value": "#FFFF00"
+      }
+    ],
+    "1980": [
+      {
+        "display_name": "Acrylic White",
+        "paint_code": "95.10.235",
+        "slug": "acrylic-white-9510235",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/acrylic-white-9510235/",
+        "source_label": "PaintScratch 1980 Rolls-Royce",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Red Metallic",
+        "paint_code": "95.10.192",
+        "slug": "red-metallic-9510192",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/red-metallic-9510192/",
+        "source_label": "PaintScratch 1980 Rolls-Royce",
+        "hex_value": "#C00000"
+      },
+      {
+        "display_name": "Ivory",
+        "paint_code": "95.10.228",
+        "slug": "ivory-9510228",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/ivory-9510228/",
+        "source_label": "PaintScratch 1980 Rolls-Royce",
+        "hex_value": "#FEFEE4"
+      },
+      {
+        "display_name": "Walnut Metallic",
+        "paint_code": "95.10.261",
+        "slug": "walnut-metallic-9510261",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/walnut-metallic-9510261/",
+        "source_label": "PaintScratch 1980 Rolls-Royce",
+        "hex_value": "#575039"
+      },
+      {
+        "display_name": "Garnett Metallic",
+        "paint_code": "95.10.394",
+        "slug": "garnett-metallic-9510394",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/garnett-metallic-9510394/",
+        "source_label": "PaintScratch 1980 Rolls-Royce",
+        "hex_value": "#50243F"
+      },
+      {
+        "display_name": "Cobalt Blue Metallic",
+        "paint_code": "95.31.015",
+        "slug": "cobalt-blue-metallic-9531015",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/cobalt-blue-metallic-9531015/",
+        "source_label": "PaintScratch 1980 Rolls-Royce",
+        "hex_value": "#090B4D"
+      },
+      {
+        "display_name": "Porcelain White",
+        "paint_code": "95.00.439",
+        "slug": "porcelain-white-9500439",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/porcelain-white-9500439/",
+        "source_label": "PaintScratch 1980 Rolls-Royce",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Scot's Pine Metallic",
+        "paint_code": "95.00.640",
+        "slug": "scots-pine-metallic-9500640",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/scots-pine-metallic-9500640/",
+        "source_label": "PaintScratch 1980 Rolls-Royce",
+        "hex_value": "#976F5F"
+      },
+      {
+        "display_name": "Seychelles Blue Metallic",
+        "paint_code": "95.10.071",
+        "slug": "seychelles-blue-metallic-9510071",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/seychelles-blue-metallic-9510071/",
+        "source_label": "PaintScratch 1980 Rolls-Royce",
+        "hex_value": "#496D8F"
+      },
+      {
+        "display_name": "Nutmeg Brown Metallic",
+        "paint_code": "95.10.155",
+        "slug": "nutmeg-brown-metallic-9510155",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/nutmeg-brown-metallic-9510155/",
+        "source_label": "PaintScratch 1980 Rolls-Royce",
+        "hex_value": "#987640"
+      },
+      {
+        "display_name": "Silver Sand Metallic",
+        "paint_code": "95.10.179",
+        "slug": "silver-sand-metallic-9510179",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/silver-sand-metallic-9510179/",
+        "source_label": "PaintScratch 1980 Rolls-Royce",
+        "hex_value": "#CBC7B5"
+      },
+      {
+        "display_name": "Willow Gold Metallic",
+        "paint_code": "95.10.180",
+        "slug": "willow-gold-metallic-9510180",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/willow-gold-metallic-9510180/",
+        "source_label": "PaintScratch 1980 Rolls-Royce",
+        "hex_value": "#B98F59"
+      },
+      {
+        "display_name": "Le Mans Blue Metallic",
+        "paint_code": "95.10.211",
+        "slug": "le-mans-blue-metallic-9510211",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/le-mans-blue-metallic-9510211/",
+        "source_label": "PaintScratch 1980 Rolls-Royce",
+        "hex_value": "#0000C0"
+      },
+      {
+        "display_name": "Peacock Blue Metallic",
+        "paint_code": "95.10.234",
+        "slug": "peacock-blue-metallic-9510234",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/peacock-blue-metallic-9510234/",
+        "source_label": "PaintScratch 1980 Rolls-Royce",
+        "hex_value": "#8080FF"
+      },
+      {
+        "display_name": "Chestnut Metallic",
+        "paint_code": "95.10.315",
+        "slug": "chestnut-metallic-9510315",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/chestnut-metallic-9510315/",
+        "source_label": "PaintScratch 1980 Rolls-Royce",
+        "hex_value": "#63541F"
+      },
+      {
+        "display_name": "Oxford Blue",
+        "paint_code": "95.10.392",
+        "slug": "oxford-blue-9510392",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/oxford-blue-9510392/",
+        "source_label": "PaintScratch 1980 Rolls-Royce",
+        "hex_value": "#000080"
+      }
+    ],
+    "1981": [
+      {
+        "display_name": "Acrylic White",
+        "paint_code": "95.10.235",
+        "slug": "acrylic-white-9510235",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/acrylic-white-9510235/",
+        "source_label": "PaintScratch 1981 Rolls-Royce",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Red Metallic",
+        "paint_code": "95.10.192",
+        "slug": "red-metallic-9510192",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/red-metallic-9510192/",
+        "source_label": "PaintScratch 1981 Rolls-Royce",
+        "hex_value": "#C00000"
+      },
+      {
+        "display_name": "Ivory",
+        "paint_code": "95.10.228",
+        "slug": "ivory-9510228",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/ivory-9510228/",
+        "source_label": "PaintScratch 1981 Rolls-Royce",
+        "hex_value": "#FEFEE4"
+      },
+      {
+        "display_name": "Walnut Metallic",
+        "paint_code": "95.10.261",
+        "slug": "walnut-metallic-9510261",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/walnut-metallic-9510261/",
+        "source_label": "PaintScratch 1981 Rolls-Royce",
+        "hex_value": "#575039"
+      },
+      {
+        "display_name": "Garnett Metallic",
+        "paint_code": "95.10.394",
+        "slug": "garnett-metallic-9510394",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/garnett-metallic-9510394/",
+        "source_label": "PaintScratch 1981 Rolls-Royce",
+        "hex_value": "#50243F"
+      },
+      {
+        "display_name": "Cobalt Blue Metallic",
+        "paint_code": "95.31.015",
+        "slug": "cobalt-blue-metallic-9531015",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/cobalt-blue-metallic-9531015/",
+        "source_label": "PaintScratch 1981 Rolls-Royce",
+        "hex_value": "#090B4D"
+      },
+      {
+        "display_name": "Porcelain White",
+        "paint_code": "95.00.439",
+        "slug": "porcelain-white-9500439",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/porcelain-white-9500439/",
+        "source_label": "PaintScratch 1981 Rolls-Royce",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Scot's Pine Metallic",
+        "paint_code": "95.00.640",
+        "slug": "scots-pine-metallic-9500640",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/scots-pine-metallic-9500640/",
+        "source_label": "PaintScratch 1981 Rolls-Royce",
+        "hex_value": "#976F5F"
+      },
+      {
+        "display_name": "Nutmeg Brown Metallic",
+        "paint_code": "95.10.155",
+        "slug": "nutmeg-brown-metallic-9510155",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/nutmeg-brown-metallic-9510155/",
+        "source_label": "PaintScratch 1981 Rolls-Royce",
+        "hex_value": "#987640"
+      },
+      {
+        "display_name": "Silver Sand Metallic",
+        "paint_code": "95.10.179",
+        "slug": "silver-sand-metallic-9510179",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/silver-sand-metallic-9510179/",
+        "source_label": "PaintScratch 1981 Rolls-Royce",
+        "hex_value": "#CBC7B5"
+      },
+      {
+        "display_name": "Willow Gold Metallic",
+        "paint_code": "95.10.180",
+        "slug": "willow-gold-metallic-9510180",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/willow-gold-metallic-9510180/",
+        "source_label": "PaintScratch 1981 Rolls-Royce",
+        "hex_value": "#B98F59"
+      },
+      {
+        "display_name": "Le Mans Blue Metallic",
+        "paint_code": "95.10.211",
+        "slug": "le-mans-blue-metallic-9510211",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/le-mans-blue-metallic-9510211/",
+        "source_label": "PaintScratch 1981 Rolls-Royce",
+        "hex_value": "#0000C0"
+      },
+      {
+        "display_name": "Peacock Blue Metallic",
+        "paint_code": "95.10.234",
+        "slug": "peacock-blue-metallic-9510234",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/peacock-blue-metallic-9510234/",
+        "source_label": "PaintScratch 1981 Rolls-Royce",
+        "hex_value": "#8080FF"
+      },
+      {
+        "display_name": "Chestnut Metallic",
+        "paint_code": "95.10.315",
+        "slug": "chestnut-metallic-9510315",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/chestnut-metallic-9510315/",
+        "source_label": "PaintScratch 1981 Rolls-Royce",
+        "hex_value": "#63541F"
+      },
+      {
+        "display_name": "Oxford Blue",
+        "paint_code": "95.10.392",
+        "slug": "oxford-blue-9510392",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/oxford-blue-9510392/",
+        "source_label": "PaintScratch 1981 Rolls-Royce",
+        "hex_value": "#000080"
+      },
+      {
+        "display_name": "Brewster Green",
+        "paint_code": "95.10.393",
+        "slug": "brewster-green-9510393",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/brewster-green-9510393/",
+        "source_label": "PaintScratch 1981 Rolls-Royce",
+        "hex_value": "#234723"
+      }
+    ],
+    "1982": [
+      {
+        "display_name": "Acrylic White",
+        "paint_code": "95.10.235",
+        "slug": "acrylic-white-9510235",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/acrylic-white-9510235/",
+        "source_label": "PaintScratch 1982 Rolls-Royce",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Red Metallic",
+        "paint_code": "95.10.192",
+        "slug": "red-metallic-9510192",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/red-metallic-9510192/",
+        "source_label": "PaintScratch 1982 Rolls-Royce",
+        "hex_value": "#C00000"
+      },
+      {
+        "display_name": "Ivory",
+        "paint_code": "95.10.228",
+        "slug": "ivory-9510228",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/ivory-9510228/",
+        "source_label": "PaintScratch 1982 Rolls-Royce",
+        "hex_value": "#FEFEE4"
+      },
+      {
+        "display_name": "Walnut Metallic",
+        "paint_code": "95.10.261",
+        "slug": "walnut-metallic-9510261",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/walnut-metallic-9510261/",
+        "source_label": "PaintScratch 1982 Rolls-Royce",
+        "hex_value": "#575039"
+      },
+      {
+        "display_name": "Garnett Metallic",
+        "paint_code": "95.10.394",
+        "slug": "garnett-metallic-9510394",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/garnett-metallic-9510394/",
+        "source_label": "PaintScratch 1982 Rolls-Royce",
+        "hex_value": "#50243F"
+      },
+      {
+        "display_name": "Cobalt Blue Metallic",
+        "paint_code": "95.31.015",
+        "slug": "cobalt-blue-metallic-9531015",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/cobalt-blue-metallic-9531015/",
+        "source_label": "PaintScratch 1982 Rolls-Royce",
+        "hex_value": "#090B4D"
+      },
+      {
+        "display_name": "Porcelain White",
+        "paint_code": "95.00.439",
+        "slug": "porcelain-white-9500439",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/porcelain-white-9500439/",
+        "source_label": "PaintScratch 1982 Rolls-Royce",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Scot's Pine Metallic",
+        "paint_code": "95.00.640",
+        "slug": "scots-pine-metallic-9500640",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/scots-pine-metallic-9500640/",
+        "source_label": "PaintScratch 1982 Rolls-Royce",
+        "hex_value": "#976F5F"
+      },
+      {
+        "display_name": "Dark Olive",
+        "paint_code": "95.10.121",
+        "slug": "dark-olive-9510121",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/dark-olive-9510121/",
+        "source_label": "PaintScratch 1982 Rolls-Royce",
+        "hex_value": "#2E6D1F"
+      },
+      {
+        "display_name": "Nutmeg Brown Metallic",
+        "paint_code": "95.10.155",
+        "slug": "nutmeg-brown-metallic-9510155",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/nutmeg-brown-metallic-9510155/",
+        "source_label": "PaintScratch 1982 Rolls-Royce",
+        "hex_value": "#987640"
+      },
+      {
+        "display_name": "Silver Sand Metallic",
+        "paint_code": "95.10.179",
+        "slug": "silver-sand-metallic-9510179",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/silver-sand-metallic-9510179/",
+        "source_label": "PaintScratch 1982 Rolls-Royce",
+        "hex_value": "#CBC7B5"
+      },
+      {
+        "display_name": "Willow Gold Metallic",
+        "paint_code": "95.10.180",
+        "slug": "willow-gold-metallic-9510180",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/willow-gold-metallic-9510180/",
+        "source_label": "PaintScratch 1982 Rolls-Royce",
+        "hex_value": "#B98F59"
+      },
+      {
+        "display_name": "Le Mans Blue Metallic",
+        "paint_code": "95.10.211",
+        "slug": "le-mans-blue-metallic-9510211",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/le-mans-blue-metallic-9510211/",
+        "source_label": "PaintScratch 1982 Rolls-Royce",
+        "hex_value": "#0000C0"
+      },
+      {
+        "display_name": "Peacock Blue Metallic",
+        "paint_code": "95.10.234",
+        "slug": "peacock-blue-metallic-9510234",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/peacock-blue-metallic-9510234/",
+        "source_label": "PaintScratch 1982 Rolls-Royce",
+        "hex_value": "#8080FF"
+      },
+      {
+        "display_name": "Tudor Red",
+        "paint_code": "95.10.305",
+        "slug": "tudor-red-9510305",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/tudor-red-9510305/",
+        "source_label": "PaintScratch 1982 Rolls-Royce",
+        "hex_value": "#C00000"
+      },
+      {
+        "display_name": "Chestnut Metallic",
+        "paint_code": "95.10.315",
+        "slug": "chestnut-metallic-9510315",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/chestnut-metallic-9510315/",
+        "source_label": "PaintScratch 1982 Rolls-Royce",
+        "hex_value": "#63541F"
+      }
+    ],
+    "1983": [
+      {
+        "display_name": "Acrylic White",
+        "paint_code": "95.10.235",
+        "slug": "acrylic-white-9510235",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/acrylic-white-9510235/",
+        "source_label": "PaintScratch 1983 Rolls-Royce",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Red Metallic",
+        "paint_code": "95.10.192",
+        "slug": "red-metallic-9510192",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/red-metallic-9510192/",
+        "source_label": "PaintScratch 1983 Rolls-Royce",
+        "hex_value": "#C00000"
+      },
+      {
+        "display_name": "Ivory",
+        "paint_code": "95.10.228",
+        "slug": "ivory-9510228",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/ivory-9510228/",
+        "source_label": "PaintScratch 1983 Rolls-Royce",
+        "hex_value": "#FEFEE4"
+      },
+      {
+        "display_name": "Walnut Metallic",
+        "paint_code": "95.10.261",
+        "slug": "walnut-metallic-9510261",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/walnut-metallic-9510261/",
+        "source_label": "PaintScratch 1983 Rolls-Royce",
+        "hex_value": "#575039"
+      },
+      {
+        "display_name": "Garnett Metallic",
+        "paint_code": "95.10.394",
+        "slug": "garnett-metallic-9510394",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/garnett-metallic-9510394/",
+        "source_label": "PaintScratch 1983 Rolls-Royce",
+        "hex_value": "#50243F"
+      },
+      {
+        "display_name": "Cobalt Blue Metallic",
+        "paint_code": "95.31.015",
+        "slug": "cobalt-blue-metallic-9531015",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/cobalt-blue-metallic-9531015/",
+        "source_label": "PaintScratch 1983 Rolls-Royce",
+        "hex_value": "#090B4D"
+      },
+      {
+        "display_name": "Porcelain White",
+        "paint_code": "95.00.439",
+        "slug": "porcelain-white-9500439",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/porcelain-white-9500439/",
+        "source_label": "PaintScratch 1983 Rolls-Royce",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Scot's Pine Metallic",
+        "paint_code": "95.00.640",
+        "slug": "scots-pine-metallic-9500640",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/scots-pine-metallic-9500640/",
+        "source_label": "PaintScratch 1983 Rolls-Royce",
+        "hex_value": "#976F5F"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "95.00.701",
+        "slug": "black-9500701",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/black-9500701/",
+        "source_label": "PaintScratch 1983 Rolls-Royce",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Nutmeg Brown Metallic",
+        "paint_code": "95.10.155",
+        "slug": "nutmeg-brown-metallic-9510155",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/nutmeg-brown-metallic-9510155/",
+        "source_label": "PaintScratch 1983 Rolls-Royce",
+        "hex_value": "#987640"
+      },
+      {
+        "display_name": "Silver Sand Metallic",
+        "paint_code": "95.10.179",
+        "slug": "silver-sand-metallic-9510179",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/silver-sand-metallic-9510179/",
+        "source_label": "PaintScratch 1983 Rolls-Royce",
+        "hex_value": "#CBC7B5"
+      },
+      {
+        "display_name": "Willow Gold Metallic",
+        "paint_code": "95.10.180",
+        "slug": "willow-gold-metallic-9510180",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/willow-gold-metallic-9510180/",
+        "source_label": "PaintScratch 1983 Rolls-Royce",
+        "hex_value": "#B98F59"
+      },
+      {
+        "display_name": "Le Mans Blue Metallic",
+        "paint_code": "95.10.211",
+        "slug": "le-mans-blue-metallic-9510211",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/le-mans-blue-metallic-9510211/",
+        "source_label": "PaintScratch 1983 Rolls-Royce",
+        "hex_value": "#0000C0"
+      },
+      {
+        "display_name": "Peacock Blue Metallic",
+        "paint_code": "95.10.234",
+        "slug": "peacock-blue-metallic-9510234",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/peacock-blue-metallic-9510234/",
+        "source_label": "PaintScratch 1983 Rolls-Royce",
+        "hex_value": "#8080FF"
+      },
+      {
+        "display_name": "Chestnut Metallic",
+        "paint_code": "95.10.315",
+        "slug": "chestnut-metallic-9510315",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/chestnut-metallic-9510315/",
+        "source_label": "PaintScratch 1983 Rolls-Royce",
+        "hex_value": "#63541F"
+      },
+      {
+        "display_name": "Oxford Blue",
+        "paint_code": "95.10.392",
+        "slug": "oxford-blue-9510392",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/oxford-blue-9510392/",
+        "source_label": "PaintScratch 1983 Rolls-Royce",
+        "hex_value": "#000080"
+      }
+    ],
+    "1984": [
+      {
+        "display_name": "Acrylic White",
+        "paint_code": "95.10.235",
+        "slug": "acrylic-white-9510235",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/acrylic-white-9510235/",
+        "source_label": "PaintScratch 1984 Rolls-Royce",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Red Metallic",
+        "paint_code": "95.10.192",
+        "slug": "red-metallic-9510192",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/red-metallic-9510192/",
+        "source_label": "PaintScratch 1984 Rolls-Royce",
+        "hex_value": "#C00000"
+      },
+      {
+        "display_name": "Ivory",
+        "paint_code": "95.10.228",
+        "slug": "ivory-9510228",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/ivory-9510228/",
+        "source_label": "PaintScratch 1984 Rolls-Royce",
+        "hex_value": "#FEFEE4"
+      },
+      {
+        "display_name": "Walnut Metallic",
+        "paint_code": "95.10.261",
+        "slug": "walnut-metallic-9510261",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/walnut-metallic-9510261/",
+        "source_label": "PaintScratch 1984 Rolls-Royce",
+        "hex_value": "#575039"
+      },
+      {
+        "display_name": "Garnett Metallic",
+        "paint_code": "95.10.394",
+        "slug": "garnett-metallic-9510394",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/garnett-metallic-9510394/",
+        "source_label": "PaintScratch 1984 Rolls-Royce",
+        "hex_value": "#50243F"
+      },
+      {
+        "display_name": "Cobalt Blue Metallic",
+        "paint_code": "95.31.015",
+        "slug": "cobalt-blue-metallic-9531015",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/cobalt-blue-metallic-9531015/",
+        "source_label": "PaintScratch 1984 Rolls-Royce",
+        "hex_value": "#090B4D"
+      },
+      {
+        "display_name": "Porcelain White",
+        "paint_code": "95.00.439",
+        "slug": "porcelain-white-9500439",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/porcelain-white-9500439/",
+        "source_label": "PaintScratch 1984 Rolls-Royce",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Scot's Pine Metallic",
+        "paint_code": "95.00.640",
+        "slug": "scots-pine-metallic-9500640",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/scots-pine-metallic-9500640/",
+        "source_label": "PaintScratch 1984 Rolls-Royce",
+        "hex_value": "#976F5F"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "95.00.701",
+        "slug": "black-9500701",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/black-9500701/",
+        "source_label": "PaintScratch 1984 Rolls-Royce",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Nutmeg Brown Metallic",
+        "paint_code": "95.10.155",
+        "slug": "nutmeg-brown-metallic-9510155",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/nutmeg-brown-metallic-9510155/",
+        "source_label": "PaintScratch 1984 Rolls-Royce",
+        "hex_value": "#987640"
+      },
+      {
+        "display_name": "Silver Sand Metallic",
+        "paint_code": "95.10.179",
+        "slug": "silver-sand-metallic-9510179",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/silver-sand-metallic-9510179/",
+        "source_label": "PaintScratch 1984 Rolls-Royce",
+        "hex_value": "#CBC7B5"
+      },
+      {
+        "display_name": "Willow Gold Metallic",
+        "paint_code": "95.10.180",
+        "slug": "willow-gold-metallic-9510180",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/willow-gold-metallic-9510180/",
+        "source_label": "PaintScratch 1984 Rolls-Royce",
+        "hex_value": "#B98F59"
+      },
+      {
+        "display_name": "Le Mans Blue Metallic",
+        "paint_code": "95.10.211",
+        "slug": "le-mans-blue-metallic-9510211",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/le-mans-blue-metallic-9510211/",
+        "source_label": "PaintScratch 1984 Rolls-Royce",
+        "hex_value": "#0000C0"
+      },
+      {
+        "display_name": "Peacock Blue Metallic",
+        "paint_code": "95.10.234",
+        "slug": "peacock-blue-metallic-9510234",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/peacock-blue-metallic-9510234/",
+        "source_label": "PaintScratch 1984 Rolls-Royce",
+        "hex_value": "#8080FF"
+      },
+      {
+        "display_name": "Chestnut Metallic",
+        "paint_code": "95.10.315",
+        "slug": "chestnut-metallic-9510315",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/chestnut-metallic-9510315/",
+        "source_label": "PaintScratch 1984 Rolls-Royce",
+        "hex_value": "#63541F"
+      },
+      {
+        "display_name": "Oxford Blue",
+        "paint_code": "95.10.392",
+        "slug": "oxford-blue-9510392",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/oxford-blue-9510392/",
+        "source_label": "PaintScratch 1984 Rolls-Royce",
+        "hex_value": "#000080"
+      }
+    ],
+    "1985": [
+      {
+        "display_name": "Acrylic White",
+        "paint_code": "95.10.235",
+        "slug": "acrylic-white-9510235",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/acrylic-white-9510235/",
+        "source_label": "PaintScratch 1985 Rolls-Royce",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Red Metallic",
+        "paint_code": "95.10.192",
+        "slug": "red-metallic-9510192",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/red-metallic-9510192/",
+        "source_label": "PaintScratch 1985 Rolls-Royce",
+        "hex_value": "#C00000"
+      },
+      {
+        "display_name": "Ivory",
+        "paint_code": "95.10.228",
+        "slug": "ivory-9510228",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/ivory-9510228/",
+        "source_label": "PaintScratch 1985 Rolls-Royce",
+        "hex_value": "#FEFEE4"
+      },
+      {
+        "display_name": "Walnut Metallic",
+        "paint_code": "95.10.261",
+        "slug": "walnut-metallic-9510261",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/walnut-metallic-9510261/",
+        "source_label": "PaintScratch 1985 Rolls-Royce",
+        "hex_value": "#575039"
+      },
+      {
+        "display_name": "Garnett Metallic",
+        "paint_code": "95.10.394",
+        "slug": "garnett-metallic-9510394",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/garnett-metallic-9510394/",
+        "source_label": "PaintScratch 1985 Rolls-Royce",
+        "hex_value": "#50243F"
+      },
+      {
+        "display_name": "Redwood Metallic",
+        "paint_code": "95.10.443",
+        "slug": "redwood-metallic-9510443",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/redwood-metallic-9510443/",
+        "source_label": "PaintScratch 1985 Rolls-Royce",
+        "hex_value": "#601E1E"
+      },
+      {
+        "display_name": "Cobalt Blue Metallic",
+        "paint_code": "95.31.015",
+        "slug": "cobalt-blue-metallic-9531015",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/cobalt-blue-metallic-9531015/",
+        "source_label": "PaintScratch 1985 Rolls-Royce",
+        "hex_value": "#090B4D"
+      },
+      {
+        "display_name": "Porcelain White",
+        "paint_code": "95.00.439",
+        "slug": "porcelain-white-9500439",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/porcelain-white-9500439/",
+        "source_label": "PaintScratch 1985 Rolls-Royce",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Scot's Pine Metallic",
+        "paint_code": "95.00.640",
+        "slug": "scots-pine-metallic-9500640",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/scots-pine-metallic-9500640/",
+        "source_label": "PaintScratch 1985 Rolls-Royce",
+        "hex_value": "#976F5F"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "95.00.701",
+        "slug": "black-9500701",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/black-9500701/",
+        "source_label": "PaintScratch 1985 Rolls-Royce",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Nutmeg Brown Metallic",
+        "paint_code": "95.10.155",
+        "slug": "nutmeg-brown-metallic-9510155",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/nutmeg-brown-metallic-9510155/",
+        "source_label": "PaintScratch 1985 Rolls-Royce",
+        "hex_value": "#987640"
+      },
+      {
+        "display_name": "Silver Sand Metallic",
+        "paint_code": "95.10.179",
+        "slug": "silver-sand-metallic-9510179",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/silver-sand-metallic-9510179/",
+        "source_label": "PaintScratch 1985 Rolls-Royce",
+        "hex_value": "#CBC7B5"
+      },
+      {
+        "display_name": "Willow Gold Metallic",
+        "paint_code": "95.10.180",
+        "slug": "willow-gold-metallic-9510180",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/willow-gold-metallic-9510180/",
+        "source_label": "PaintScratch 1985 Rolls-Royce",
+        "hex_value": "#B98F59"
+      },
+      {
+        "display_name": "Le Mans Blue Metallic",
+        "paint_code": "95.10.211",
+        "slug": "le-mans-blue-metallic-9510211",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/le-mans-blue-metallic-9510211/",
+        "source_label": "PaintScratch 1985 Rolls-Royce",
+        "hex_value": "#0000C0"
+      },
+      {
+        "display_name": "Peacock Blue Metallic",
+        "paint_code": "95.10.234",
+        "slug": "peacock-blue-metallic-9510234",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/peacock-blue-metallic-9510234/",
+        "source_label": "PaintScratch 1985 Rolls-Royce",
+        "hex_value": "#8080FF"
+      },
+      {
+        "display_name": "Chestnut Metallic",
+        "paint_code": "95.10.315",
+        "slug": "chestnut-metallic-9510315",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/chestnut-metallic-9510315/",
+        "source_label": "PaintScratch 1985 Rolls-Royce",
+        "hex_value": "#63541F"
+      }
+    ],
+    "1986": [
+      {
+        "display_name": "Acrylic White",
+        "paint_code": "95.10.235",
+        "slug": "acrylic-white-9510235",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/acrylic-white-9510235/",
+        "source_label": "PaintScratch 1986 Rolls-Royce",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Red Metallic",
+        "paint_code": "95.10.192",
+        "slug": "red-metallic-9510192",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/red-metallic-9510192/",
+        "source_label": "PaintScratch 1986 Rolls-Royce",
+        "hex_value": "#C00000"
+      },
+      {
+        "display_name": "Ivory",
+        "paint_code": "95.10.228",
+        "slug": "ivory-9510228",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/ivory-9510228/",
+        "source_label": "PaintScratch 1986 Rolls-Royce",
+        "hex_value": "#FEFEE4"
+      },
+      {
+        "display_name": "Walnut Metallic",
+        "paint_code": "95.10.261",
+        "slug": "walnut-metallic-9510261",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/walnut-metallic-9510261/",
+        "source_label": "PaintScratch 1986 Rolls-Royce",
+        "hex_value": "#575039"
+      },
+      {
+        "display_name": "Redwood Metallic",
+        "paint_code": "95.10.443",
+        "slug": "redwood-metallic-9510443",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/redwood-metallic-9510443/",
+        "source_label": "PaintScratch 1986 Rolls-Royce",
+        "hex_value": "#601E1E"
+      },
+      {
+        "display_name": "Cobalt Blue Metallic",
+        "paint_code": "95.31.015",
+        "slug": "cobalt-blue-metallic-9531015",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/cobalt-blue-metallic-9531015/",
+        "source_label": "PaintScratch 1986 Rolls-Royce",
+        "hex_value": "#090B4D"
+      },
+      {
+        "display_name": "Porcelain White",
+        "paint_code": "95.00.439",
+        "slug": "porcelain-white-9500439",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/porcelain-white-9500439/",
+        "source_label": "PaintScratch 1986 Rolls-Royce",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Scot's Pine Metallic",
+        "paint_code": "95.00.640",
+        "slug": "scots-pine-metallic-9500640",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/scots-pine-metallic-9500640/",
+        "source_label": "PaintScratch 1986 Rolls-Royce",
+        "hex_value": "#976F5F"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "95.00.701",
+        "slug": "black-9500701",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/black-9500701/",
+        "source_label": "PaintScratch 1986 Rolls-Royce",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Nutmeg Brown Metallic",
+        "paint_code": "95.10.155",
+        "slug": "nutmeg-brown-metallic-9510155",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/nutmeg-brown-metallic-9510155/",
+        "source_label": "PaintScratch 1986 Rolls-Royce",
+        "hex_value": "#987640"
+      },
+      {
+        "display_name": "Silver Sand Metallic",
+        "paint_code": "95.10.179",
+        "slug": "silver-sand-metallic-9510179",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/silver-sand-metallic-9510179/",
+        "source_label": "PaintScratch 1986 Rolls-Royce",
+        "hex_value": "#CBC7B5"
+      },
+      {
+        "display_name": "Willow Gold Metallic",
+        "paint_code": "95.10.180",
+        "slug": "willow-gold-metallic-9510180",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/willow-gold-metallic-9510180/",
+        "source_label": "PaintScratch 1986 Rolls-Royce",
+        "hex_value": "#B98F59"
+      },
+      {
+        "display_name": "Le Mans Blue Metallic",
+        "paint_code": "95.10.211",
+        "slug": "le-mans-blue-metallic-9510211",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/le-mans-blue-metallic-9510211/",
+        "source_label": "PaintScratch 1986 Rolls-Royce",
+        "hex_value": "#0000C0"
+      },
+      {
+        "display_name": "Peacock Blue Metallic",
+        "paint_code": "95.10.234",
+        "slug": "peacock-blue-metallic-9510234",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/peacock-blue-metallic-9510234/",
+        "source_label": "PaintScratch 1986 Rolls-Royce",
+        "hex_value": "#8080FF"
+      },
+      {
+        "display_name": "Chestnut Metallic",
+        "paint_code": "95.10.315",
+        "slug": "chestnut-metallic-9510315",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/chestnut-metallic-9510315/",
+        "source_label": "PaintScratch 1986 Rolls-Royce",
+        "hex_value": "#63541F"
+      },
+      {
+        "display_name": "Oxford Blue",
+        "paint_code": "95.10.392",
+        "slug": "oxford-blue-9510392",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/oxford-blue-9510392/",
+        "source_label": "PaintScratch 1986 Rolls-Royce",
+        "hex_value": "#000080"
+      }
+    ],
+    "1987": [
+      {
+        "display_name": "Acrylic White",
+        "paint_code": "95.10.235",
+        "slug": "acrylic-white-9510235",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/acrylic-white-9510235/",
+        "source_label": "PaintScratch 1987 Rolls-Royce",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Red Metallic",
+        "paint_code": "95.10.192",
+        "slug": "red-metallic-9510192",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/red-metallic-9510192/",
+        "source_label": "PaintScratch 1987 Rolls-Royce",
+        "hex_value": "#C00000"
+      },
+      {
+        "display_name": "Ivory",
+        "paint_code": "95.10.228",
+        "slug": "ivory-9510228",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/ivory-9510228/",
+        "source_label": "PaintScratch 1987 Rolls-Royce",
+        "hex_value": "#FEFEE4"
+      },
+      {
+        "display_name": "Walnut Metallic",
+        "paint_code": "95.10.261",
+        "slug": "walnut-metallic-9510261",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/walnut-metallic-9510261/",
+        "source_label": "PaintScratch 1987 Rolls-Royce",
+        "hex_value": "#575039"
+      },
+      {
+        "display_name": "Redwood Metallic",
+        "paint_code": "95.10.443",
+        "slug": "redwood-metallic-9510443",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/redwood-metallic-9510443/",
+        "source_label": "PaintScratch 1987 Rolls-Royce",
+        "hex_value": "#601E1E"
+      },
+      {
+        "display_name": "Cobalt Blue Metallic",
+        "paint_code": "95.31.015",
+        "slug": "cobalt-blue-metallic-9531015",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/cobalt-blue-metallic-9531015/",
+        "source_label": "PaintScratch 1987 Rolls-Royce",
+        "hex_value": "#090B4D"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "95.00.434",
+        "slug": "silver-metallic-9500434",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/silver-metallic-9500434/",
+        "source_label": "PaintScratch 1987 Rolls-Royce",
+        "hex_value": "#CFCDC9"
+      },
+      {
+        "display_name": "Porcelain White",
+        "paint_code": "95.00.439",
+        "slug": "porcelain-white-9500439",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/porcelain-white-9500439/",
+        "source_label": "PaintScratch 1987 Rolls-Royce",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Scot's Pine Metallic",
+        "paint_code": "95.00.640",
+        "slug": "scots-pine-metallic-9500640",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/scots-pine-metallic-9500640/",
+        "source_label": "PaintScratch 1987 Rolls-Royce",
+        "hex_value": "#976F5F"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "95.00.701",
+        "slug": "black-9500701",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/black-9500701/",
+        "source_label": "PaintScratch 1987 Rolls-Royce",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Nutmeg Brown Metallic",
+        "paint_code": "95.10.155",
+        "slug": "nutmeg-brown-metallic-9510155",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/nutmeg-brown-metallic-9510155/",
+        "source_label": "PaintScratch 1987 Rolls-Royce",
+        "hex_value": "#987640"
+      },
+      {
+        "display_name": "Silver Sand Metallic",
+        "paint_code": "95.10.179",
+        "slug": "silver-sand-metallic-9510179",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/silver-sand-metallic-9510179/",
+        "source_label": "PaintScratch 1987 Rolls-Royce",
+        "hex_value": "#CBC7B5"
+      },
+      {
+        "display_name": "Willow Gold Metallic",
+        "paint_code": "95.10.180",
+        "slug": "willow-gold-metallic-9510180",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/willow-gold-metallic-9510180/",
+        "source_label": "PaintScratch 1987 Rolls-Royce",
+        "hex_value": "#B98F59"
+      },
+      {
+        "display_name": "Le Mans Blue Metallic",
+        "paint_code": "95.10.211",
+        "slug": "le-mans-blue-metallic-9510211",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/le-mans-blue-metallic-9510211/",
+        "source_label": "PaintScratch 1987 Rolls-Royce",
+        "hex_value": "#0000C0"
+      },
+      {
+        "display_name": "Peacock Blue Metallic",
+        "paint_code": "95.10.234",
+        "slug": "peacock-blue-metallic-9510234",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/peacock-blue-metallic-9510234/",
+        "source_label": "PaintScratch 1987 Rolls-Royce",
+        "hex_value": "#8080FF"
+      },
+      {
+        "display_name": "Chestnut Metallic",
+        "paint_code": "95.10.315",
+        "slug": "chestnut-metallic-9510315",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/chestnut-metallic-9510315/",
+        "source_label": "PaintScratch 1987 Rolls-Royce",
+        "hex_value": "#63541F"
+      }
+    ],
+    "1988": [
+      {
+        "display_name": "Acrylic White",
+        "paint_code": "95.10.235",
+        "slug": "acrylic-white-9510235",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/acrylic-white-9510235/",
+        "source_label": "PaintScratch 1988 Rolls-Royce",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Red Metallic",
+        "paint_code": "95.10.192",
+        "slug": "red-metallic-9510192",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/red-metallic-9510192/",
+        "source_label": "PaintScratch 1988 Rolls-Royce",
+        "hex_value": "#C00000"
+      },
+      {
+        "display_name": "Ivory",
+        "paint_code": "95.10.228",
+        "slug": "ivory-9510228",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/ivory-9510228/",
+        "source_label": "PaintScratch 1988 Rolls-Royce",
+        "hex_value": "#FEFEE4"
+      },
+      {
+        "display_name": "Walnut Metallic",
+        "paint_code": "95.10.261",
+        "slug": "walnut-metallic-9510261",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/walnut-metallic-9510261/",
+        "source_label": "PaintScratch 1988 Rolls-Royce",
+        "hex_value": "#575039"
+      },
+      {
+        "display_name": "Redwood Metallic",
+        "paint_code": "95.10.443",
+        "slug": "redwood-metallic-9510443",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/redwood-metallic-9510443/",
+        "source_label": "PaintScratch 1988 Rolls-Royce",
+        "hex_value": "#601E1E"
+      },
+      {
+        "display_name": "Cobalt Blue Metallic",
+        "paint_code": "95.31.015",
+        "slug": "cobalt-blue-metallic-9531015",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/cobalt-blue-metallic-9531015/",
+        "source_label": "PaintScratch 1988 Rolls-Royce",
+        "hex_value": "#090B4D"
+      },
+      {
+        "display_name": "Porcelain White",
+        "paint_code": "95.00.439",
+        "slug": "porcelain-white-9500439",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/porcelain-white-9500439/",
+        "source_label": "PaintScratch 1988 Rolls-Royce",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Scot's Pine Metallic",
+        "paint_code": "95.00.640",
+        "slug": "scots-pine-metallic-9500640",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/scots-pine-metallic-9500640/",
+        "source_label": "PaintScratch 1988 Rolls-Royce",
+        "hex_value": "#976F5F"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "95.00.701",
+        "slug": "black-9500701",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/black-9500701/",
+        "source_label": "PaintScratch 1988 Rolls-Royce",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Nutmeg Brown Metallic",
+        "paint_code": "95.10.155",
+        "slug": "nutmeg-brown-metallic-9510155",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/nutmeg-brown-metallic-9510155/",
+        "source_label": "PaintScratch 1988 Rolls-Royce",
+        "hex_value": "#987640"
+      },
+      {
+        "display_name": "Silver Sand Metallic",
+        "paint_code": "95.10.179",
+        "slug": "silver-sand-metallic-9510179",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/silver-sand-metallic-9510179/",
+        "source_label": "PaintScratch 1988 Rolls-Royce",
+        "hex_value": "#CBC7B5"
+      },
+      {
+        "display_name": "Willow Gold Metallic",
+        "paint_code": "95.10.180",
+        "slug": "willow-gold-metallic-9510180",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/willow-gold-metallic-9510180/",
+        "source_label": "PaintScratch 1988 Rolls-Royce",
+        "hex_value": "#B98F59"
+      },
+      {
+        "display_name": "Le Mans Blue Metallic",
+        "paint_code": "95.10.211",
+        "slug": "le-mans-blue-metallic-9510211",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/le-mans-blue-metallic-9510211/",
+        "source_label": "PaintScratch 1988 Rolls-Royce",
+        "hex_value": "#0000C0"
+      },
+      {
+        "display_name": "Peacock Blue Metallic",
+        "paint_code": "95.10.234",
+        "slug": "peacock-blue-metallic-9510234",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/peacock-blue-metallic-9510234/",
+        "source_label": "PaintScratch 1988 Rolls-Royce",
+        "hex_value": "#8080FF"
+      },
+      {
+        "display_name": "Chestnut Metallic",
+        "paint_code": "95.10.315",
+        "slug": "chestnut-metallic-9510315",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/chestnut-metallic-9510315/",
+        "source_label": "PaintScratch 1988 Rolls-Royce",
+        "hex_value": "#63541F"
+      },
+      {
+        "display_name": "Oxford Blue",
+        "paint_code": "95.10.392",
+        "slug": "oxford-blue-9510392",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/oxford-blue-9510392/",
+        "source_label": "PaintScratch 1988 Rolls-Royce",
+        "hex_value": "#000080"
+      }
+    ],
+    "1989": [
+      {
+        "display_name": "Acrylic White",
+        "paint_code": "95.10.235",
+        "slug": "acrylic-white-9510235",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/acrylic-white-9510235/",
+        "source_label": "PaintScratch 1989 Rolls-Royce",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Red Metallic",
+        "paint_code": "95.10.192",
+        "slug": "red-metallic-9510192",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/red-metallic-9510192/",
+        "source_label": "PaintScratch 1989 Rolls-Royce",
+        "hex_value": "#C00000"
+      },
+      {
+        "display_name": "Ivory",
+        "paint_code": "95.10.228",
+        "slug": "ivory-9510228",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/ivory-9510228/",
+        "source_label": "PaintScratch 1989 Rolls-Royce",
+        "hex_value": "#FEFEE4"
+      },
+      {
+        "display_name": "Walnut Metallic",
+        "paint_code": "95.10.261",
+        "slug": "walnut-metallic-9510261",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/walnut-metallic-9510261/",
+        "source_label": "PaintScratch 1989 Rolls-Royce",
+        "hex_value": "#575039"
+      },
+      {
+        "display_name": "Redwood Metallic",
+        "paint_code": "95.10.443",
+        "slug": "redwood-metallic-9510443",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/redwood-metallic-9510443/",
+        "source_label": "PaintScratch 1989 Rolls-Royce",
+        "hex_value": "#601E1E"
+      },
+      {
+        "display_name": "Cobalt Blue Metallic",
+        "paint_code": "95.31.015",
+        "slug": "cobalt-blue-metallic-9531015",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/cobalt-blue-metallic-9531015/",
+        "source_label": "PaintScratch 1989 Rolls-Royce",
+        "hex_value": "#090B4D"
+      },
+      {
+        "display_name": "Porcelain White",
+        "paint_code": "95.00.439",
+        "slug": "porcelain-white-9500439",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/porcelain-white-9500439/",
+        "source_label": "PaintScratch 1989 Rolls-Royce",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Scot's Pine Metallic",
+        "paint_code": "95.00.640",
+        "slug": "scots-pine-metallic-9500640",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/scots-pine-metallic-9500640/",
+        "source_label": "PaintScratch 1989 Rolls-Royce",
+        "hex_value": "#976F5F"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "95.00.701",
+        "slug": "black-9500701",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/black-9500701/",
+        "source_label": "PaintScratch 1989 Rolls-Royce",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Nutmeg Brown Metallic",
+        "paint_code": "95.10.155",
+        "slug": "nutmeg-brown-metallic-9510155",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/nutmeg-brown-metallic-9510155/",
+        "source_label": "PaintScratch 1989 Rolls-Royce",
+        "hex_value": "#987640"
+      },
+      {
+        "display_name": "Silver Sand Metallic",
+        "paint_code": "95.10.179",
+        "slug": "silver-sand-metallic-9510179",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/silver-sand-metallic-9510179/",
+        "source_label": "PaintScratch 1989 Rolls-Royce",
+        "hex_value": "#CBC7B5"
+      },
+      {
+        "display_name": "Willow Gold Metallic",
+        "paint_code": "95.10.180",
+        "slug": "willow-gold-metallic-9510180",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/willow-gold-metallic-9510180/",
+        "source_label": "PaintScratch 1989 Rolls-Royce",
+        "hex_value": "#B98F59"
+      },
+      {
+        "display_name": "Le Mans Blue Metallic",
+        "paint_code": "95.10.211",
+        "slug": "le-mans-blue-metallic-9510211",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/le-mans-blue-metallic-9510211/",
+        "source_label": "PaintScratch 1989 Rolls-Royce",
+        "hex_value": "#0000C0"
+      },
+      {
+        "display_name": "Peacock Blue Metallic",
+        "paint_code": "95.10.234",
+        "slug": "peacock-blue-metallic-9510234",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/peacock-blue-metallic-9510234/",
+        "source_label": "PaintScratch 1989 Rolls-Royce",
+        "hex_value": "#8080FF"
+      },
+      {
+        "display_name": "Chestnut Metallic",
+        "paint_code": "95.10.315",
+        "slug": "chestnut-metallic-9510315",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/chestnut-metallic-9510315/",
+        "source_label": "PaintScratch 1989 Rolls-Royce",
+        "hex_value": "#63541F"
+      },
+      {
+        "display_name": "Oxford Blue",
+        "paint_code": "95.10.392",
+        "slug": "oxford-blue-9510392",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/oxford-blue-9510392/",
+        "source_label": "PaintScratch 1989 Rolls-Royce",
+        "hex_value": "#000080"
+      }
+    ],
+    "1990": [
+      {
+        "display_name": "Acrylic White",
+        "paint_code": "95.10.235",
+        "slug": "acrylic-white-9510235",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/acrylic-white-9510235/",
+        "source_label": "PaintScratch 1990 Rolls-Royce",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Red Metallic",
+        "paint_code": "95.10.192",
+        "slug": "red-metallic-9510192",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/red-metallic-9510192/",
+        "source_label": "PaintScratch 1990 Rolls-Royce",
+        "hex_value": "#C00000"
+      },
+      {
+        "display_name": "Ivory",
+        "paint_code": "95.10.228",
+        "slug": "ivory-9510228",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/ivory-9510228/",
+        "source_label": "PaintScratch 1990 Rolls-Royce",
+        "hex_value": "#FEFEE4"
+      },
+      {
+        "display_name": "Walnut Metallic",
+        "paint_code": "95.10.261",
+        "slug": "walnut-metallic-9510261",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/walnut-metallic-9510261/",
+        "source_label": "PaintScratch 1990 Rolls-Royce",
+        "hex_value": "#575039"
+      },
+      {
+        "display_name": "Redwood Metallic",
+        "paint_code": "95.10.443",
+        "slug": "redwood-metallic-9510443",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/redwood-metallic-9510443/",
+        "source_label": "PaintScratch 1990 Rolls-Royce",
+        "hex_value": "#601E1E"
+      },
+      {
+        "display_name": "Cobalt Blue Metallic",
+        "paint_code": "95.31.015",
+        "slug": "cobalt-blue-metallic-9531015",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/cobalt-blue-metallic-9531015/",
+        "source_label": "PaintScratch 1990 Rolls-Royce",
+        "hex_value": "#090B4D"
+      },
+      {
+        "display_name": "Porcelain White",
+        "paint_code": "95.00.439",
+        "slug": "porcelain-white-9500439",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/porcelain-white-9500439/",
+        "source_label": "PaintScratch 1990 Rolls-Royce",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Scot's Pine Metallic",
+        "paint_code": "95.00.640",
+        "slug": "scots-pine-metallic-9500640",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/scots-pine-metallic-9500640/",
+        "source_label": "PaintScratch 1990 Rolls-Royce",
+        "hex_value": "#976F5F"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "95.00.701",
+        "slug": "black-9500701",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/black-9500701/",
+        "source_label": "PaintScratch 1990 Rolls-Royce",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Nutmeg Brown Metallic",
+        "paint_code": "95.10.155",
+        "slug": "nutmeg-brown-metallic-9510155",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/nutmeg-brown-metallic-9510155/",
+        "source_label": "PaintScratch 1990 Rolls-Royce",
+        "hex_value": "#987640"
+      },
+      {
+        "display_name": "Silver Sand Metallic",
+        "paint_code": "95.10.179",
+        "slug": "silver-sand-metallic-9510179",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/silver-sand-metallic-9510179/",
+        "source_label": "PaintScratch 1990 Rolls-Royce",
+        "hex_value": "#CBC7B5"
+      },
+      {
+        "display_name": "Willow Gold Metallic",
+        "paint_code": "95.10.180",
+        "slug": "willow-gold-metallic-9510180",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/willow-gold-metallic-9510180/",
+        "source_label": "PaintScratch 1990 Rolls-Royce",
+        "hex_value": "#B98F59"
+      },
+      {
+        "display_name": "Le Mans Blue Metallic",
+        "paint_code": "95.10.211",
+        "slug": "le-mans-blue-metallic-9510211",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/le-mans-blue-metallic-9510211/",
+        "source_label": "PaintScratch 1990 Rolls-Royce",
+        "hex_value": "#0000C0"
+      },
+      {
+        "display_name": "Peacock Blue Metallic",
+        "paint_code": "95.10.234",
+        "slug": "peacock-blue-metallic-9510234",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/peacock-blue-metallic-9510234/",
+        "source_label": "PaintScratch 1990 Rolls-Royce",
+        "hex_value": "#8080FF"
+      },
+      {
+        "display_name": "Chestnut Metallic",
+        "paint_code": "95.10.315",
+        "slug": "chestnut-metallic-9510315",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/chestnut-metallic-9510315/",
+        "source_label": "PaintScratch 1990 Rolls-Royce",
+        "hex_value": "#63541F"
+      },
+      {
+        "display_name": "Oxford Blue",
+        "paint_code": "95.10.392",
+        "slug": "oxford-blue-9510392",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/oxford-blue-9510392/",
+        "source_label": "PaintScratch 1990 Rolls-Royce",
+        "hex_value": "#000080"
+      }
+    ],
+    "1991": [
+      {
+        "display_name": "Acrylic White",
+        "paint_code": "95.10.235",
+        "slug": "acrylic-white-9510235",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/acrylic-white-9510235/",
+        "source_label": "PaintScratch 1991 Rolls-Royce",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Red Metallic",
+        "paint_code": "95.10.192",
+        "slug": "red-metallic-9510192",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/red-metallic-9510192/",
+        "source_label": "PaintScratch 1991 Rolls-Royce",
+        "hex_value": "#C00000"
+      },
+      {
+        "display_name": "Ivory",
+        "paint_code": "95.10.228",
+        "slug": "ivory-9510228",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/ivory-9510228/",
+        "source_label": "PaintScratch 1991 Rolls-Royce",
+        "hex_value": "#FEFEE4"
+      },
+      {
+        "display_name": "Walnut Metallic",
+        "paint_code": "95.10.261",
+        "slug": "walnut-metallic-9510261",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/walnut-metallic-9510261/",
+        "source_label": "PaintScratch 1991 Rolls-Royce",
+        "hex_value": "#575039"
+      },
+      {
+        "display_name": "Redwood Metallic",
+        "paint_code": "95.10.443",
+        "slug": "redwood-metallic-9510443",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/redwood-metallic-9510443/",
+        "source_label": "PaintScratch 1991 Rolls-Royce",
+        "hex_value": "#601E1E"
+      },
+      {
+        "display_name": "Cobalt Blue Metallic",
+        "paint_code": "95.31.015",
+        "slug": "cobalt-blue-metallic-9531015",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/cobalt-blue-metallic-9531015/",
+        "source_label": "PaintScratch 1991 Rolls-Royce",
+        "hex_value": "#090B4D"
+      },
+      {
+        "display_name": "Porcelain White",
+        "paint_code": "95.00.439",
+        "slug": "porcelain-white-9500439",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/porcelain-white-9500439/",
+        "source_label": "PaintScratch 1991 Rolls-Royce",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Scot's Pine Metallic",
+        "paint_code": "95.00.640",
+        "slug": "scots-pine-metallic-9500640",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/scots-pine-metallic-9500640/",
+        "source_label": "PaintScratch 1991 Rolls-Royce",
+        "hex_value": "#976F5F"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "95.00.701",
+        "slug": "black-9500701",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/black-9500701/",
+        "source_label": "PaintScratch 1991 Rolls-Royce",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Nutmeg Brown Metallic",
+        "paint_code": "95.10.155",
+        "slug": "nutmeg-brown-metallic-9510155",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/nutmeg-brown-metallic-9510155/",
+        "source_label": "PaintScratch 1991 Rolls-Royce",
+        "hex_value": "#987640"
+      },
+      {
+        "display_name": "Silver Sand Metallic",
+        "paint_code": "95.10.179",
+        "slug": "silver-sand-metallic-9510179",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/silver-sand-metallic-9510179/",
+        "source_label": "PaintScratch 1991 Rolls-Royce",
+        "hex_value": "#CBC7B5"
+      },
+      {
+        "display_name": "Willow Gold Metallic",
+        "paint_code": "95.10.180",
+        "slug": "willow-gold-metallic-9510180",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/willow-gold-metallic-9510180/",
+        "source_label": "PaintScratch 1991 Rolls-Royce",
+        "hex_value": "#B98F59"
+      },
+      {
+        "display_name": "Le Mans Blue Metallic",
+        "paint_code": "95.10.211",
+        "slug": "le-mans-blue-metallic-9510211",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/le-mans-blue-metallic-9510211/",
+        "source_label": "PaintScratch 1991 Rolls-Royce",
+        "hex_value": "#0000C0"
+      },
+      {
+        "display_name": "Peacock Blue Metallic",
+        "paint_code": "95.10.234",
+        "slug": "peacock-blue-metallic-9510234",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/peacock-blue-metallic-9510234/",
+        "source_label": "PaintScratch 1991 Rolls-Royce",
+        "hex_value": "#8080FF"
+      },
+      {
+        "display_name": "Chestnut Metallic",
+        "paint_code": "95.10.315",
+        "slug": "chestnut-metallic-9510315",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/chestnut-metallic-9510315/",
+        "source_label": "PaintScratch 1991 Rolls-Royce",
+        "hex_value": "#63541F"
+      },
+      {
+        "display_name": "Oxford Blue",
+        "paint_code": "95.10.392",
+        "slug": "oxford-blue-9510392",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/oxford-blue-9510392/",
+        "source_label": "PaintScratch 1991 Rolls-Royce",
+        "hex_value": "#000080"
+      }
+    ],
+    "1992": [
+      {
+        "display_name": "Acrylic White",
+        "paint_code": "95.10.235",
+        "slug": "acrylic-white-9510235",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/acrylic-white-9510235/",
+        "source_label": "PaintScratch 1992 Rolls-Royce",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Red Metallic",
+        "paint_code": "95.10.192",
+        "slug": "red-metallic-9510192",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/red-metallic-9510192/",
+        "source_label": "PaintScratch 1992 Rolls-Royce",
+        "hex_value": "#C00000"
+      },
+      {
+        "display_name": "Ivory",
+        "paint_code": "95.10.228",
+        "slug": "ivory-9510228",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/ivory-9510228/",
+        "source_label": "PaintScratch 1992 Rolls-Royce",
+        "hex_value": "#FEFEE4"
+      },
+      {
+        "display_name": "Walnut Metallic",
+        "paint_code": "95.10.261",
+        "slug": "walnut-metallic-9510261",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/walnut-metallic-9510261/",
+        "source_label": "PaintScratch 1992 Rolls-Royce",
+        "hex_value": "#575039"
+      },
+      {
+        "display_name": "Redwood Metallic",
+        "paint_code": "95.10.443",
+        "slug": "redwood-metallic-9510443",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/redwood-metallic-9510443/",
+        "source_label": "PaintScratch 1992 Rolls-Royce",
+        "hex_value": "#601E1E"
+      },
+      {
+        "display_name": "Cobalt Blue Metallic",
+        "paint_code": "95.31.015",
+        "slug": "cobalt-blue-metallic-9531015",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/cobalt-blue-metallic-9531015/",
+        "source_label": "PaintScratch 1992 Rolls-Royce",
+        "hex_value": "#090B4D"
+      },
+      {
+        "display_name": "Porcelain White",
+        "paint_code": "95.00.439",
+        "slug": "porcelain-white-9500439",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/porcelain-white-9500439/",
+        "source_label": "PaintScratch 1992 Rolls-Royce",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Scot's Pine Metallic",
+        "paint_code": "95.00.640",
+        "slug": "scots-pine-metallic-9500640",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/scots-pine-metallic-9500640/",
+        "source_label": "PaintScratch 1992 Rolls-Royce",
+        "hex_value": "#976F5F"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "95.00.701",
+        "slug": "black-9500701",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/black-9500701/",
+        "source_label": "PaintScratch 1992 Rolls-Royce",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Nutmeg Brown Metallic",
+        "paint_code": "95.10.155",
+        "slug": "nutmeg-brown-metallic-9510155",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/nutmeg-brown-metallic-9510155/",
+        "source_label": "PaintScratch 1992 Rolls-Royce",
+        "hex_value": "#987640"
+      },
+      {
+        "display_name": "Silver Sand Metallic",
+        "paint_code": "95.10.179",
+        "slug": "silver-sand-metallic-9510179",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/silver-sand-metallic-9510179/",
+        "source_label": "PaintScratch 1992 Rolls-Royce",
+        "hex_value": "#CBC7B5"
+      },
+      {
+        "display_name": "Willow Gold Metallic",
+        "paint_code": "95.10.180",
+        "slug": "willow-gold-metallic-9510180",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/willow-gold-metallic-9510180/",
+        "source_label": "PaintScratch 1992 Rolls-Royce",
+        "hex_value": "#B98F59"
+      },
+      {
+        "display_name": "Le Mans Blue Metallic",
+        "paint_code": "95.10.211",
+        "slug": "le-mans-blue-metallic-9510211",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/le-mans-blue-metallic-9510211/",
+        "source_label": "PaintScratch 1992 Rolls-Royce",
+        "hex_value": "#0000C0"
+      },
+      {
+        "display_name": "Peacock Blue Metallic",
+        "paint_code": "95.10.234",
+        "slug": "peacock-blue-metallic-9510234",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/peacock-blue-metallic-9510234/",
+        "source_label": "PaintScratch 1992 Rolls-Royce",
+        "hex_value": "#8080FF"
+      },
+      {
+        "display_name": "Chestnut Metallic",
+        "paint_code": "95.10.315",
+        "slug": "chestnut-metallic-9510315",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/chestnut-metallic-9510315/",
+        "source_label": "PaintScratch 1992 Rolls-Royce",
+        "hex_value": "#63541F"
+      },
+      {
+        "display_name": "Oxford Blue",
+        "paint_code": "95.10.392",
+        "slug": "oxford-blue-9510392",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/oxford-blue-9510392/",
+        "source_label": "PaintScratch 1992 Rolls-Royce",
+        "hex_value": "#000080"
+      }
+    ],
+    "1993": [
+      {
+        "display_name": "Acrylic White",
+        "paint_code": "95.10.235",
+        "slug": "acrylic-white-9510235",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/acrylic-white-9510235/",
+        "source_label": "PaintScratch 1993 Rolls-Royce",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Red Metallic",
+        "paint_code": "95.10.192",
+        "slug": "red-metallic-9510192",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/red-metallic-9510192/",
+        "source_label": "PaintScratch 1993 Rolls-Royce",
+        "hex_value": "#C00000"
+      },
+      {
+        "display_name": "Ivory",
+        "paint_code": "95.10.228",
+        "slug": "ivory-9510228",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/ivory-9510228/",
+        "source_label": "PaintScratch 1993 Rolls-Royce",
+        "hex_value": "#FEFEE4"
+      },
+      {
+        "display_name": "Walnut Metallic",
+        "paint_code": "95.10.261",
+        "slug": "walnut-metallic-9510261",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/walnut-metallic-9510261/",
+        "source_label": "PaintScratch 1993 Rolls-Royce",
+        "hex_value": "#575039"
+      },
+      {
+        "display_name": "Redwood Metallic",
+        "paint_code": "95.10.443",
+        "slug": "redwood-metallic-9510443",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/redwood-metallic-9510443/",
+        "source_label": "PaintScratch 1993 Rolls-Royce",
+        "hex_value": "#601E1E"
+      },
+      {
+        "display_name": "Cobalt Blue Metallic",
+        "paint_code": "95.31.015",
+        "slug": "cobalt-blue-metallic-9531015",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/cobalt-blue-metallic-9531015/",
+        "source_label": "PaintScratch 1993 Rolls-Royce",
+        "hex_value": "#090B4D"
+      },
+      {
+        "display_name": "Porcelain White",
+        "paint_code": "95.00.439",
+        "slug": "porcelain-white-9500439",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/porcelain-white-9500439/",
+        "source_label": "PaintScratch 1993 Rolls-Royce",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Scot's Pine Metallic",
+        "paint_code": "95.00.640",
+        "slug": "scots-pine-metallic-9500640",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/scots-pine-metallic-9500640/",
+        "source_label": "PaintScratch 1993 Rolls-Royce",
+        "hex_value": "#976F5F"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "95.00.701",
+        "slug": "black-9500701",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/black-9500701/",
+        "source_label": "PaintScratch 1993 Rolls-Royce",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Nutmeg Brown Metallic",
+        "paint_code": "95.10.155",
+        "slug": "nutmeg-brown-metallic-9510155",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/nutmeg-brown-metallic-9510155/",
+        "source_label": "PaintScratch 1993 Rolls-Royce",
+        "hex_value": "#987640"
+      },
+      {
+        "display_name": "Silver Sand Metallic",
+        "paint_code": "95.10.179",
+        "slug": "silver-sand-metallic-9510179",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/silver-sand-metallic-9510179/",
+        "source_label": "PaintScratch 1993 Rolls-Royce",
+        "hex_value": "#CBC7B5"
+      },
+      {
+        "display_name": "Willow Gold Metallic",
+        "paint_code": "95.10.180",
+        "slug": "willow-gold-metallic-9510180",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/willow-gold-metallic-9510180/",
+        "source_label": "PaintScratch 1993 Rolls-Royce",
+        "hex_value": "#B98F59"
+      },
+      {
+        "display_name": "Le Mans Blue Metallic",
+        "paint_code": "95.10.211",
+        "slug": "le-mans-blue-metallic-9510211",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/le-mans-blue-metallic-9510211/",
+        "source_label": "PaintScratch 1993 Rolls-Royce",
+        "hex_value": "#0000C0"
+      },
+      {
+        "display_name": "Peacock Blue Metallic",
+        "paint_code": "95.10.234",
+        "slug": "peacock-blue-metallic-9510234",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/peacock-blue-metallic-9510234/",
+        "source_label": "PaintScratch 1993 Rolls-Royce",
+        "hex_value": "#8080FF"
+      },
+      {
+        "display_name": "Chestnut Metallic",
+        "paint_code": "95.10.315",
+        "slug": "chestnut-metallic-9510315",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/chestnut-metallic-9510315/",
+        "source_label": "PaintScratch 1993 Rolls-Royce",
+        "hex_value": "#63541F"
+      },
+      {
+        "display_name": "Oxford Blue",
+        "paint_code": "95.10.392",
+        "slug": "oxford-blue-9510392",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/oxford-blue-9510392/",
+        "source_label": "PaintScratch 1993 Rolls-Royce",
+        "hex_value": "#000080"
+      }
+    ],
+    "1994": [
+      {
+        "display_name": "Acrylic White",
+        "paint_code": "95.10.235",
+        "slug": "acrylic-white-9510235",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/acrylic-white-9510235/",
+        "source_label": "PaintScratch 1994 Rolls-Royce",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Red Metallic",
+        "paint_code": "95.10.192",
+        "slug": "red-metallic-9510192",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/red-metallic-9510192/",
+        "source_label": "PaintScratch 1994 Rolls-Royce",
+        "hex_value": "#C00000"
+      },
+      {
+        "display_name": "Ivory",
+        "paint_code": "95.10.228",
+        "slug": "ivory-9510228",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/ivory-9510228/",
+        "source_label": "PaintScratch 1994 Rolls-Royce",
+        "hex_value": "#FEFEE4"
+      },
+      {
+        "display_name": "Walnut Metallic",
+        "paint_code": "95.10.261",
+        "slug": "walnut-metallic-9510261",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/walnut-metallic-9510261/",
+        "source_label": "PaintScratch 1994 Rolls-Royce",
+        "hex_value": "#575039"
+      },
+      {
+        "display_name": "Redwood Metallic",
+        "paint_code": "95.10.443",
+        "slug": "redwood-metallic-9510443",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/redwood-metallic-9510443/",
+        "source_label": "PaintScratch 1994 Rolls-Royce",
+        "hex_value": "#601E1E"
+      },
+      {
+        "display_name": "Cobalt Blue Metallic",
+        "paint_code": "95.31.015",
+        "slug": "cobalt-blue-metallic-9531015",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/cobalt-blue-metallic-9531015/",
+        "source_label": "PaintScratch 1994 Rolls-Royce",
+        "hex_value": "#090B4D"
+      },
+      {
+        "display_name": "Porcelain White",
+        "paint_code": "95.00.439",
+        "slug": "porcelain-white-9500439",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/porcelain-white-9500439/",
+        "source_label": "PaintScratch 1994 Rolls-Royce",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Scot's Pine Metallic",
+        "paint_code": "95.00.640",
+        "slug": "scots-pine-metallic-9500640",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/scots-pine-metallic-9500640/",
+        "source_label": "PaintScratch 1994 Rolls-Royce",
+        "hex_value": "#976F5F"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "95.00.701",
+        "slug": "black-9500701",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/black-9500701/",
+        "source_label": "PaintScratch 1994 Rolls-Royce",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Nutmeg Brown Metallic",
+        "paint_code": "95.10.155",
+        "slug": "nutmeg-brown-metallic-9510155",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/nutmeg-brown-metallic-9510155/",
+        "source_label": "PaintScratch 1994 Rolls-Royce",
+        "hex_value": "#987640"
+      },
+      {
+        "display_name": "Silver Sand Metallic",
+        "paint_code": "95.10.179",
+        "slug": "silver-sand-metallic-9510179",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/silver-sand-metallic-9510179/",
+        "source_label": "PaintScratch 1994 Rolls-Royce",
+        "hex_value": "#CBC7B5"
+      },
+      {
+        "display_name": "Willow Gold Metallic",
+        "paint_code": "95.10.180",
+        "slug": "willow-gold-metallic-9510180",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/willow-gold-metallic-9510180/",
+        "source_label": "PaintScratch 1994 Rolls-Royce",
+        "hex_value": "#B98F59"
+      },
+      {
+        "display_name": "Le Mans Blue Metallic",
+        "paint_code": "95.10.211",
+        "slug": "le-mans-blue-metallic-9510211",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/le-mans-blue-metallic-9510211/",
+        "source_label": "PaintScratch 1994 Rolls-Royce",
+        "hex_value": "#0000C0"
+      },
+      {
+        "display_name": "Peacock Blue Metallic",
+        "paint_code": "95.10.234",
+        "slug": "peacock-blue-metallic-9510234",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/peacock-blue-metallic-9510234/",
+        "source_label": "PaintScratch 1994 Rolls-Royce",
+        "hex_value": "#8080FF"
+      },
+      {
+        "display_name": "Chestnut Metallic",
+        "paint_code": "95.10.315",
+        "slug": "chestnut-metallic-9510315",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/chestnut-metallic-9510315/",
+        "source_label": "PaintScratch 1994 Rolls-Royce",
+        "hex_value": "#63541F"
+      },
+      {
+        "display_name": "Oxford Blue",
+        "paint_code": "95.10.392",
+        "slug": "oxford-blue-9510392",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/oxford-blue-9510392/",
+        "source_label": "PaintScratch 1994 Rolls-Royce",
+        "hex_value": "#000080"
+      }
+    ],
+    "1995": [
+      {
+        "display_name": "Acrylic White",
+        "paint_code": "95.10.235",
+        "slug": "acrylic-white-9510235",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/acrylic-white-9510235/",
+        "source_label": "PaintScratch 1995 Rolls-Royce",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Red Metallic",
+        "paint_code": "95.10.192",
+        "slug": "red-metallic-9510192",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/red-metallic-9510192/",
+        "source_label": "PaintScratch 1995 Rolls-Royce",
+        "hex_value": "#C00000"
+      },
+      {
+        "display_name": "Ivory",
+        "paint_code": "95.10.228",
+        "slug": "ivory-9510228",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/ivory-9510228/",
+        "source_label": "PaintScratch 1995 Rolls-Royce",
+        "hex_value": "#FEFEE4"
+      },
+      {
+        "display_name": "Walnut Metallic",
+        "paint_code": "95.10.261",
+        "slug": "walnut-metallic-9510261",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/walnut-metallic-9510261/",
+        "source_label": "PaintScratch 1995 Rolls-Royce",
+        "hex_value": "#575039"
+      },
+      {
+        "display_name": "Redwood Metallic",
+        "paint_code": "95.10.443",
+        "slug": "redwood-metallic-9510443",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/redwood-metallic-9510443/",
+        "source_label": "PaintScratch 1995 Rolls-Royce",
+        "hex_value": "#601E1E"
+      },
+      {
+        "display_name": "Cobalt Blue Metallic",
+        "paint_code": "95.31.015",
+        "slug": "cobalt-blue-metallic-9531015",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/cobalt-blue-metallic-9531015/",
+        "source_label": "PaintScratch 1995 Rolls-Royce",
+        "hex_value": "#090B4D"
+      },
+      {
+        "display_name": "Porcelain White",
+        "paint_code": "95.00.439",
+        "slug": "porcelain-white-9500439",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/porcelain-white-9500439/",
+        "source_label": "PaintScratch 1995 Rolls-Royce",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Scot's Pine Metallic",
+        "paint_code": "95.00.640",
+        "slug": "scots-pine-metallic-9500640",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/scots-pine-metallic-9500640/",
+        "source_label": "PaintScratch 1995 Rolls-Royce",
+        "hex_value": "#976F5F"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "95.00.701",
+        "slug": "black-9500701",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/black-9500701/",
+        "source_label": "PaintScratch 1995 Rolls-Royce",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Nutmeg Brown Metallic",
+        "paint_code": "95.10.155",
+        "slug": "nutmeg-brown-metallic-9510155",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/nutmeg-brown-metallic-9510155/",
+        "source_label": "PaintScratch 1995 Rolls-Royce",
+        "hex_value": "#987640"
+      },
+      {
+        "display_name": "Silver Sand Metallic",
+        "paint_code": "95.10.179",
+        "slug": "silver-sand-metallic-9510179",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/silver-sand-metallic-9510179/",
+        "source_label": "PaintScratch 1995 Rolls-Royce",
+        "hex_value": "#CBC7B5"
+      },
+      {
+        "display_name": "Willow Gold Metallic",
+        "paint_code": "95.10.180",
+        "slug": "willow-gold-metallic-9510180",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/willow-gold-metallic-9510180/",
+        "source_label": "PaintScratch 1995 Rolls-Royce",
+        "hex_value": "#B98F59"
+      },
+      {
+        "display_name": "Le Mans Blue Metallic",
+        "paint_code": "95.10.211",
+        "slug": "le-mans-blue-metallic-9510211",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/le-mans-blue-metallic-9510211/",
+        "source_label": "PaintScratch 1995 Rolls-Royce",
+        "hex_value": "#0000C0"
+      },
+      {
+        "display_name": "Peacock Blue Metallic",
+        "paint_code": "95.10.234",
+        "slug": "peacock-blue-metallic-9510234",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/peacock-blue-metallic-9510234/",
+        "source_label": "PaintScratch 1995 Rolls-Royce",
+        "hex_value": "#8080FF"
+      },
+      {
+        "display_name": "Chestnut Metallic",
+        "paint_code": "95.10.315",
+        "slug": "chestnut-metallic-9510315",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/chestnut-metallic-9510315/",
+        "source_label": "PaintScratch 1995 Rolls-Royce",
+        "hex_value": "#63541F"
+      },
+      {
+        "display_name": "Oxford Blue",
+        "paint_code": "95.10.392",
+        "slug": "oxford-blue-9510392",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/oxford-blue-9510392/",
+        "source_label": "PaintScratch 1995 Rolls-Royce",
+        "hex_value": "#000080"
+      }
+    ],
+    "1996": [
+      {
+        "display_name": "Royal Blue Metallic",
+        "paint_code": "95.31.002",
+        "slug": "royal-blue-metallic-9531002",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/royal-blue-metallic-9531002/",
+        "source_label": "PaintScratch 1996 Rolls-Royce",
+        "hex_value": "#10114C"
+      },
+      {
+        "display_name": "Forest Green",
+        "paint_code": "95.40.003",
+        "slug": "forest-green-9540003",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/forest-green-9540003/",
+        "source_label": "PaintScratch 1996 Rolls-Royce",
+        "hex_value": "#12510B"
+      }
+    ],
+    "1997": [
+      {
+        "display_name": "Georgian Silver Metallic",
+        "paint_code": "95.10.437",
+        "slug": "georgian-silver-metallic-9510437",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/georgian-silver-metallic-9510437/",
+        "source_label": "PaintScratch 1997 Rolls-Royce",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Royal Blue Metallic",
+        "paint_code": "95.31.002",
+        "slug": "royal-blue-metallic-9531002",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/royal-blue-metallic-9531002/",
+        "source_label": "PaintScratch 1997 Rolls-Royce",
+        "hex_value": "#10114C"
+      },
+      {
+        "display_name": "Forest Green",
+        "paint_code": "95.40.003",
+        "slug": "forest-green-9540003",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/forest-green-9540003/",
+        "source_label": "PaintScratch 1997 Rolls-Royce",
+        "hex_value": "#12510B"
+      }
+    ],
+    "1998": [
+      {
+        "display_name": "Acrylic White",
+        "paint_code": "95.10.235",
+        "slug": "acrylic-white-9510235",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/acrylic-white-9510235/",
+        "source_label": "PaintScratch 1998 Rolls-Royce",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Walnut Metallic",
+        "paint_code": "95.10.261",
+        "slug": "walnut-metallic-9510261",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/walnut-metallic-9510261/",
+        "source_label": "PaintScratch 1998 Rolls-Royce",
+        "hex_value": "#575039"
+      },
+      {
+        "display_name": "Redwood Metallic",
+        "paint_code": "95.10.443",
+        "slug": "redwood-metallic-9510443",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/redwood-metallic-9510443/",
+        "source_label": "PaintScratch 1998 Rolls-Royce",
+        "hex_value": "#601E1E"
+      },
+      {
+        "display_name": "Cobalt Blue Metallic",
+        "paint_code": "95.31.015",
+        "slug": "cobalt-blue-metallic-9531015",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/cobalt-blue-metallic-9531015/",
+        "source_label": "PaintScratch 1998 Rolls-Royce",
+        "hex_value": "#090B4D"
+      },
+      {
+        "display_name": "Chestnut Metallic",
+        "paint_code": "95.10.315",
+        "slug": "chestnut-metallic-9510315",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/chestnut-metallic-9510315/",
+        "source_label": "PaintScratch 1998 Rolls-Royce",
+        "hex_value": "#63541F"
+      },
+      {
+        "display_name": "Oxford Blue",
+        "paint_code": "95.10.392",
+        "slug": "oxford-blue-9510392",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/oxford-blue-9510392/",
+        "source_label": "PaintScratch 1998 Rolls-Royce",
+        "hex_value": "#000080"
+      },
+      {
+        "display_name": "Brewster Green",
+        "paint_code": "95.10.393",
+        "slug": "brewster-green-9510393",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/brewster-green-9510393/",
+        "source_label": "PaintScratch 1998 Rolls-Royce",
+        "hex_value": "#234723"
+      },
+      {
+        "display_name": "Honey Metallic",
+        "paint_code": "95.10.398",
+        "slug": "honey-metallic-9510398",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/honey-metallic-9510398/",
+        "source_label": "PaintScratch 1998 Rolls-Royce",
+        "hex_value": "#B89D3E"
+      },
+      {
+        "display_name": "Claret",
+        "paint_code": "95.10.408",
+        "slug": "claret-9510408",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/claret-9510408/",
+        "source_label": "PaintScratch 1998 Rolls-Royce",
+        "hex_value": "#972F2F"
+      },
+      {
+        "display_name": "Magnolia",
+        "paint_code": "95.10.418",
+        "slug": "magnolia-9510418",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/magnolia-9510418/",
+        "source_label": "PaintScratch 1998 Rolls-Royce",
+        "hex_value": "#4B3423"
+      },
+      {
+        "display_name": "Horse Chestnut Metallic",
+        "paint_code": "95.10.426",
+        "slug": "horse-chestnut-metallic-9510426",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/horse-chestnut-metallic-9510426/",
+        "source_label": "PaintScratch 1998 Rolls-Royce",
+        "hex_value": "#C57235"
+      },
+      {
+        "display_name": "Cotswold Beige Metallic",
+        "paint_code": "95.10.431",
+        "slug": "cotswold-beige-metallic-9510431",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/cotswold-beige-metallic-9510431/",
+        "source_label": "PaintScratch 1998 Rolls-Royce",
+        "hex_value": "#C0AE82"
+      },
+      {
+        "display_name": "Georgian Silver Metallic",
+        "paint_code": "95.10.437",
+        "slug": "georgian-silver-metallic-9510437",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/georgian-silver-metallic-9510437/",
+        "source_label": "PaintScratch 1998 Rolls-Royce",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Dark Oyster Metallic",
+        "paint_code": "95.10.439",
+        "slug": "dark-oyster-metallic-9510439",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/dark-oyster-metallic-9510439/",
+        "source_label": "PaintScratch 1998 Rolls-Royce",
+        "hex_value": "#362A2A"
+      },
+      {
+        "display_name": "Deep Ocean Metallic",
+        "paint_code": "95.10.441",
+        "slug": "deep-ocean-metallic-9510441",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/deep-ocean-metallic-9510441/",
+        "source_label": "PaintScratch 1998 Rolls-Royce",
+        "hex_value": "#1E2F60"
+      },
+      {
+        "display_name": "Nutmeg Brown Metallic",
+        "paint_code": "95.10.450",
+        "slug": "nutmeg-brown-metallic-9510450",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/nutmeg-brown-metallic-9510450/",
+        "source_label": "PaintScratch 1998 Rolls-Royce",
+        "hex_value": "#6D4B37"
+      }
+    ],
+    "1999": [
+      {
+        "display_name": "Acrylic White",
+        "paint_code": "95.10.235",
+        "slug": "acrylic-white-9510235",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/acrylic-white-9510235/",
+        "source_label": "PaintScratch 1999 Rolls-Royce",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Walnut Metallic",
+        "paint_code": "95.10.261",
+        "slug": "walnut-metallic-9510261",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/walnut-metallic-9510261/",
+        "source_label": "PaintScratch 1999 Rolls-Royce",
+        "hex_value": "#575039"
+      },
+      {
+        "display_name": "Redwood Metallic",
+        "paint_code": "95.10.443",
+        "slug": "redwood-metallic-9510443",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/redwood-metallic-9510443/",
+        "source_label": "PaintScratch 1999 Rolls-Royce",
+        "hex_value": "#601E1E"
+      },
+      {
+        "display_name": "Cobalt Blue Metallic",
+        "paint_code": "95.31.015",
+        "slug": "cobalt-blue-metallic-9531015",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/cobalt-blue-metallic-9531015/",
+        "source_label": "PaintScratch 1999 Rolls-Royce",
+        "hex_value": "#090B4D"
+      },
+      {
+        "display_name": "Chestnut Metallic",
+        "paint_code": "95.10.315",
+        "slug": "chestnut-metallic-9510315",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/chestnut-metallic-9510315/",
+        "source_label": "PaintScratch 1999 Rolls-Royce",
+        "hex_value": "#63541F"
+      },
+      {
+        "display_name": "Oxford Blue",
+        "paint_code": "95.10.392",
+        "slug": "oxford-blue-9510392",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/oxford-blue-9510392/",
+        "source_label": "PaintScratch 1999 Rolls-Royce",
+        "hex_value": "#000080"
+      },
+      {
+        "display_name": "Brewster Green",
+        "paint_code": "95.10.393",
+        "slug": "brewster-green-9510393",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/brewster-green-9510393/",
+        "source_label": "PaintScratch 1999 Rolls-Royce",
+        "hex_value": "#234723"
+      },
+      {
+        "display_name": "Honey Metallic",
+        "paint_code": "95.10.398",
+        "slug": "honey-metallic-9510398",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/honey-metallic-9510398/",
+        "source_label": "PaintScratch 1999 Rolls-Royce",
+        "hex_value": "#B89D3E"
+      },
+      {
+        "display_name": "Claret",
+        "paint_code": "95.10.408",
+        "slug": "claret-9510408",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/claret-9510408/",
+        "source_label": "PaintScratch 1999 Rolls-Royce",
+        "hex_value": "#972F2F"
+      },
+      {
+        "display_name": "Magnolia",
+        "paint_code": "95.10.418",
+        "slug": "magnolia-9510418",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/magnolia-9510418/",
+        "source_label": "PaintScratch 1999 Rolls-Royce",
+        "hex_value": "#4B3423"
+      },
+      {
+        "display_name": "Horse Chestnut Metallic",
+        "paint_code": "95.10.426",
+        "slug": "horse-chestnut-metallic-9510426",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/horse-chestnut-metallic-9510426/",
+        "source_label": "PaintScratch 1999 Rolls-Royce",
+        "hex_value": "#C57235"
+      },
+      {
+        "display_name": "Cotswold Beige Metallic",
+        "paint_code": "95.10.431",
+        "slug": "cotswold-beige-metallic-9510431",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/cotswold-beige-metallic-9510431/",
+        "source_label": "PaintScratch 1999 Rolls-Royce",
+        "hex_value": "#C0AE82"
+      },
+      {
+        "display_name": "Georgian Silver Metallic",
+        "paint_code": "95.10.437",
+        "slug": "georgian-silver-metallic-9510437",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/georgian-silver-metallic-9510437/",
+        "source_label": "PaintScratch 1999 Rolls-Royce",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Dark Oyster Metallic",
+        "paint_code": "95.10.439",
+        "slug": "dark-oyster-metallic-9510439",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/dark-oyster-metallic-9510439/",
+        "source_label": "PaintScratch 1999 Rolls-Royce",
+        "hex_value": "#362A2A"
+      },
+      {
+        "display_name": "Deep Ocean Metallic",
+        "paint_code": "95.10.441",
+        "slug": "deep-ocean-metallic-9510441",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/deep-ocean-metallic-9510441/",
+        "source_label": "PaintScratch 1999 Rolls-Royce",
+        "hex_value": "#1E2F60"
+      },
+      {
+        "display_name": "Nutmeg Brown Metallic",
+        "paint_code": "95.10.450",
+        "slug": "nutmeg-brown-metallic-9510450",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/nutmeg-brown-metallic-9510450/",
+        "source_label": "PaintScratch 1999 Rolls-Royce",
+        "hex_value": "#6D4B37"
+      }
+    ],
+    "2000": [
+      {
+        "display_name": "Acrylic White",
+        "paint_code": "95.10.235",
+        "slug": "acrylic-white-9510235",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/acrylic-white-9510235/",
+        "source_label": "PaintScratch 2000 Rolls-Royce",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Ivory",
+        "paint_code": "95.10.228",
+        "slug": "ivory-9510228",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/ivory-9510228/",
+        "source_label": "PaintScratch 2000 Rolls-Royce",
+        "hex_value": "#FEFEE4"
+      },
+      {
+        "display_name": "Walnut Metallic",
+        "paint_code": "95.10.261",
+        "slug": "walnut-metallic-9510261",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/walnut-metallic-9510261/",
+        "source_label": "PaintScratch 2000 Rolls-Royce",
+        "hex_value": "#575039"
+      },
+      {
+        "display_name": "Redwood Metallic",
+        "paint_code": "95.10.443",
+        "slug": "redwood-metallic-9510443",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/redwood-metallic-9510443/",
+        "source_label": "PaintScratch 2000 Rolls-Royce",
+        "hex_value": "#601E1E"
+      },
+      {
+        "display_name": "Cobalt Blue Metallic",
+        "paint_code": "95.31.015",
+        "slug": "cobalt-blue-metallic-9531015",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/cobalt-blue-metallic-9531015/",
+        "source_label": "PaintScratch 2000 Rolls-Royce",
+        "hex_value": "#090B4D"
+      },
+      {
+        "display_name": "Porcelain White",
+        "paint_code": "95.00.439",
+        "slug": "porcelain-white-9500439",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/porcelain-white-9500439/",
+        "source_label": "PaintScratch 2000 Rolls-Royce",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Scot's Pine Metallic",
+        "paint_code": "95.00.640",
+        "slug": "scots-pine-metallic-9500640",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/scots-pine-metallic-9500640/",
+        "source_label": "PaintScratch 2000 Rolls-Royce",
+        "hex_value": "#976F5F"
+      },
+      {
+        "display_name": "Nutmeg Brown Metallic",
+        "paint_code": "95.10.155",
+        "slug": "nutmeg-brown-metallic-9510155",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/nutmeg-brown-metallic-9510155/",
+        "source_label": "PaintScratch 2000 Rolls-Royce",
+        "hex_value": "#987640"
+      },
+      {
+        "display_name": "Willow Gold Metallic",
+        "paint_code": "95.10.180",
+        "slug": "willow-gold-metallic-9510180",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/willow-gold-metallic-9510180/",
+        "source_label": "PaintScratch 2000 Rolls-Royce",
+        "hex_value": "#B98F59"
+      },
+      {
+        "display_name": "Le Mans Blue Metallic",
+        "paint_code": "95.10.211",
+        "slug": "le-mans-blue-metallic-9510211",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/le-mans-blue-metallic-9510211/",
+        "source_label": "PaintScratch 2000 Rolls-Royce",
+        "hex_value": "#0000C0"
+      },
+      {
+        "display_name": "Peacock Blue Metallic",
+        "paint_code": "95.10.234",
+        "slug": "peacock-blue-metallic-9510234",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/peacock-blue-metallic-9510234/",
+        "source_label": "PaintScratch 2000 Rolls-Royce",
+        "hex_value": "#8080FF"
+      },
+      {
+        "display_name": "Chestnut Metallic",
+        "paint_code": "95.10.315",
+        "slug": "chestnut-metallic-9510315",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/chestnut-metallic-9510315/",
+        "source_label": "PaintScratch 2000 Rolls-Royce",
+        "hex_value": "#63541F"
+      },
+      {
+        "display_name": "Oxford Blue",
+        "paint_code": "95.10.392",
+        "slug": "oxford-blue-9510392",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/oxford-blue-9510392/",
+        "source_label": "PaintScratch 2000 Rolls-Royce",
+        "hex_value": "#000080"
+      },
+      {
+        "display_name": "Brewster Green",
+        "paint_code": "95.10.393",
+        "slug": "brewster-green-9510393",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/brewster-green-9510393/",
+        "source_label": "PaintScratch 2000 Rolls-Royce",
+        "hex_value": "#234723"
+      },
+      {
+        "display_name": "Honey Metallic",
+        "paint_code": "95.10.398",
+        "slug": "honey-metallic-9510398",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/honey-metallic-9510398/",
+        "source_label": "PaintScratch 2000 Rolls-Royce",
+        "hex_value": "#B89D3E"
+      },
+      {
+        "display_name": "Claret",
+        "paint_code": "95.10.408",
+        "slug": "claret-9510408",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/claret-9510408/",
+        "source_label": "PaintScratch 2000 Rolls-Royce",
+        "hex_value": "#972F2F"
+      }
+    ],
+    "2001": [
+      {
+        "display_name": "White",
+        "paint_code": "95.20.154",
+        "slug": "white-9520154",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/white-9520154/",
+        "source_label": "PaintScratch 2001 Rolls-Royce",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Medium Blue Metallic",
+        "paint_code": "95.60.007",
+        "slug": "medium-blue-metallic-9560007",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/medium-blue-metallic-9560007/",
+        "source_label": "PaintScratch 2001 Rolls-Royce",
+        "hex_value": "#0D2D97"
+      },
+      {
+        "display_name": "Sunset",
+        "paint_code": "95.60.014",
+        "slug": "sunset-9560014",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/sunset-9560014/",
+        "source_label": "PaintScratch 2001 Rolls-Royce",
+        "hex_value": "#761C1A"
+      },
+      {
+        "display_name": "Tungsten Metallic",
+        "paint_code": "95.60.081",
+        "slug": "tungsten-metallic-9560081",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/tungsten-metallic-9560081/",
+        "source_label": "PaintScratch 2001 Rolls-Royce",
+        "hex_value": "#6A6560"
+      }
+    ],
+    "2002": [
+      {
+        "display_name": "Tungsten Metallic",
+        "paint_code": "95.60.081",
+        "slug": "tungsten-metallic-9560081",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/tungsten-metallic-9560081/",
+        "source_label": "PaintScratch 2002 Rolls-Royce",
+        "hex_value": "#6A6560"
+      }
+    ],
+    "2003": [
+      {
+        "display_name": "Tungsten Metallic",
+        "paint_code": "95.60.081",
+        "slug": "tungsten-metallic-9560081",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/tungsten-metallic-9560081/",
+        "source_label": "PaintScratch 2003 Rolls-Royce",
+        "hex_value": "#6A6560"
+      }
+    ],
+    "2004": [
+      {
+        "display_name": "Tungsten Metallic",
+        "paint_code": "95.60.081",
+        "slug": "tungsten-metallic-9560081",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/tungsten-metallic-9560081/",
+        "source_label": "PaintScratch 2004 Rolls-Royce",
+        "hex_value": "#6A6560"
+      }
+    ],
+    "2005": [
+      {
+        "display_name": "Tungsten Metallic",
+        "paint_code": "95.60.081",
+        "slug": "tungsten-metallic-9560081",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/tungsten-metallic-9560081/",
+        "source_label": "PaintScratch 2005 Rolls-Royce",
+        "hex_value": "#6A6560"
+      },
+      {
+        "display_name": "Reflex Silver Metallic",
+        "paint_code": "LA7W/8E",
+        "slug": "reflex-silver-metallic-la7w8e",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/reflex-silver-metallic-la7w8e/",
+        "source_label": "PaintScratch 2005 Rolls-Royce",
+        "hex_value": "#D5D9DD"
+      }
+    ],
+    "2006": [
+      {
+        "display_name": "Tungsten Metallic",
+        "paint_code": "95.60.081",
+        "slug": "tungsten-metallic-9560081",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/tungsten-metallic-9560081/",
+        "source_label": "PaintScratch 2006 Rolls-Royce",
+        "hex_value": "#6A6560"
+      },
+      {
+        "display_name": "Reflex Silver Metallic",
+        "paint_code": "LA7W/8E",
+        "slug": "reflex-silver-metallic-la7w8e",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/reflex-silver-metallic-la7w8e/",
+        "source_label": "PaintScratch 2006 Rolls-Royce",
+        "hex_value": "#D5D9DD"
+      }
+    ],
+    "2007": [
+      {
+        "display_name": "Tungsten Metallic",
+        "paint_code": "95.60.081",
+        "slug": "tungsten-metallic-9560081",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/tungsten-metallic-9560081/",
+        "source_label": "PaintScratch 2007 Rolls-Royce",
+        "hex_value": "#6A6560"
+      },
+      {
+        "display_name": "Reflex Silver Metallic",
+        "paint_code": "LA7W/8E",
+        "slug": "reflex-silver-metallic-la7w8e",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/reflex-silver-metallic-la7w8e/",
+        "source_label": "PaintScratch 2007 Rolls-Royce",
+        "hex_value": "#D5D9DD"
+      }
+    ],
+    "2008": [
+      {
+        "display_name": "Tungsten Metallic",
+        "paint_code": "95.60.081",
+        "slug": "tungsten-metallic-9560081",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/tungsten-metallic-9560081/",
+        "source_label": "PaintScratch 2008 Rolls-Royce",
+        "hex_value": "#6A6560"
+      },
+      {
+        "display_name": "Reflex Silver Metallic",
+        "paint_code": "LA7W/8E",
+        "slug": "reflex-silver-metallic-la7w8e",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/reflex-silver-metallic-la7w8e/",
+        "source_label": "PaintScratch 2008 Rolls-Royce",
+        "hex_value": "#D5D9DD"
+      },
+      {
+        "display_name": "Medium Blue",
+        "paint_code": "R36",
+        "slug": "medium-blue-r36",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/medium-blue-r36/",
+        "source_label": "PaintScratch 2008 Rolls-Royce",
+        "hex_value": "#0D2D97"
+      }
+    ],
+    "2009": [
+      {
+        "display_name": "Tungsten Metallic",
+        "paint_code": "95.60.081",
+        "slug": "tungsten-metallic-9560081",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/tungsten-metallic-9560081/",
+        "source_label": "PaintScratch 2009 Rolls-Royce",
+        "hex_value": "#6A6560"
+      },
+      {
+        "display_name": "Reflex Silver Metallic",
+        "paint_code": "LA7W/8E",
+        "slug": "reflex-silver-metallic-la7w8e",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/reflex-silver-metallic-la7w8e/",
+        "source_label": "PaintScratch 2009 Rolls-Royce",
+        "hex_value": "#D5D9DD"
+      }
+    ],
+    "2010": [
+      {
+        "display_name": "Tungsten Metallic",
+        "paint_code": "95.60.081",
+        "slug": "tungsten-metallic-9560081",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/tungsten-metallic-9560081/",
+        "source_label": "PaintScratch 2010 Rolls-Royce",
+        "hex_value": "#6A6560"
+      },
+      {
+        "display_name": "Reflex Silver Metallic",
+        "paint_code": "LA7W/8E",
+        "slug": "reflex-silver-metallic-la7w8e",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/reflex-silver-metallic-la7w8e/",
+        "source_label": "PaintScratch 2010 Rolls-Royce",
+        "hex_value": "#D5D9DD"
+      }
+    ],
+    "2011": [
+      {
+        "display_name": "Tungsten Metallic",
+        "paint_code": "95.60.081",
+        "slug": "tungsten-metallic-9560081",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/tungsten-metallic-9560081/",
+        "source_label": "PaintScratch 2011 Rolls-Royce",
+        "hex_value": "#6A6560"
+      },
+      {
+        "display_name": "Reflex Silver Metallic",
+        "paint_code": "LA7W/8E",
+        "slug": "reflex-silver-metallic-la7w8e",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/reflex-silver-metallic-la7w8e/",
+        "source_label": "PaintScratch 2011 Rolls-Royce",
+        "hex_value": "#D5D9DD"
+      }
+    ],
+    "2012": [
+      {
+        "display_name": "Tungsten Metallic",
+        "paint_code": "95.60.081",
+        "slug": "tungsten-metallic-9560081",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/tungsten-metallic-9560081/",
+        "source_label": "PaintScratch 2012 Rolls-Royce",
+        "hex_value": "#6A6560"
+      },
+      {
+        "display_name": "Reflex Silver Metallic",
+        "paint_code": "LA7W/8E",
+        "slug": "reflex-silver-metallic-la7w8e",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/reflex-silver-metallic-la7w8e/",
+        "source_label": "PaintScratch 2012 Rolls-Royce",
+        "hex_value": "#D5D9DD"
+      }
+    ],
+    "2013": [
+      {
+        "display_name": "Tungsten Metallic",
+        "paint_code": "95.60.081",
+        "slug": "tungsten-metallic-9560081",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/tungsten-metallic-9560081/",
+        "source_label": "PaintScratch 2013 Rolls-Royce",
+        "hex_value": "#6A6560"
+      },
+      {
+        "display_name": "Reflex Silver Metallic",
+        "paint_code": "LA7W/8E",
+        "slug": "reflex-silver-metallic-la7w8e",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/reflex-silver-metallic-la7w8e/",
+        "source_label": "PaintScratch 2013 Rolls-Royce",
+        "hex_value": "#D5D9DD"
+      }
+    ],
+    "2014": [
+      {
+        "display_name": "Tungsten Metallic",
+        "paint_code": "95.60.081",
+        "slug": "tungsten-metallic-9560081",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/tungsten-metallic-9560081/",
+        "source_label": "PaintScratch 2014 Rolls-Royce",
+        "hex_value": "#6A6560"
+      },
+      {
+        "display_name": "Reflex Silver Metallic",
+        "paint_code": "LA7W/8E",
+        "slug": "reflex-silver-metallic-la7w8e",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/reflex-silver-metallic-la7w8e/",
+        "source_label": "PaintScratch 2014 Rolls-Royce",
+        "hex_value": "#D5D9DD"
+      }
+    ],
+    "2015": [
+      {
+        "display_name": "Black",
+        "paint_code": "WR32",
+        "slug": "black-wr32",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/black-wr32/",
+        "source_label": "PaintScratch 2015 Rolls-Royce",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Tungsten Metallic",
+        "paint_code": "95.60.081",
+        "slug": "tungsten-metallic-9560081",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/tungsten-metallic-9560081/",
+        "source_label": "PaintScratch 2015 Rolls-Royce",
+        "hex_value": "#6A6560"
+      },
+      {
+        "display_name": "Reflex Silver Metallic",
+        "paint_code": "LA7W/8E",
+        "slug": "reflex-silver-metallic-la7w8e",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/reflex-silver-metallic-la7w8e/",
+        "source_label": "PaintScratch 2015 Rolls-Royce",
+        "hex_value": "#D5D9DD"
+      },
+      {
+        "display_name": "Rose Quartz",
+        "paint_code": "T35",
+        "slug": "rose-quartz-t35",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/rose-quartz-t35/",
+        "source_label": "PaintScratch 2015 Rolls-Royce",
+        "hex_value": "#E5CDD7"
+      }
+    ],
+    "2016": [
+      {
+        "display_name": "Tungsten Metallic",
+        "paint_code": "95.60.081",
+        "slug": "tungsten-metallic-9560081",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/tungsten-metallic-9560081/",
+        "source_label": "PaintScratch 2016 Rolls-Royce",
+        "hex_value": "#6A6560"
+      },
+      {
+        "display_name": "Reflex Silver Metallic",
+        "paint_code": "LA7W/8E",
+        "slug": "reflex-silver-metallic-la7w8e",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/reflex-silver-metallic-la7w8e/",
+        "source_label": "PaintScratch 2016 Rolls-Royce",
+        "hex_value": "#D5D9DD"
+      }
+    ],
+    "2017": [
+      {
+        "display_name": "Medium Blue",
+        "paint_code": "R71",
+        "slug": "medium-blue-r71",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/medium-blue-r71/",
+        "source_label": "PaintScratch 2017 Rolls-Royce",
+        "hex_value": "#0D2D97"
+      },
+      {
+        "display_name": "Tungsten Metallic",
+        "paint_code": "95.60.081",
+        "slug": "tungsten-metallic-9560081",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/tungsten-metallic-9560081/",
+        "source_label": "PaintScratch 2017 Rolls-Royce",
+        "hex_value": "#6A6560"
+      },
+      {
+        "display_name": "Reflex Silver Metallic",
+        "paint_code": "LA7W/8E",
+        "slug": "reflex-silver-metallic-la7w8e",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/reflex-silver-metallic-la7w8e/",
+        "source_label": "PaintScratch 2017 Rolls-Royce",
+        "hex_value": "#D5D9DD"
+      }
+    ],
+    "2018": [
+      {
+        "display_name": "Tungsten Metallic",
+        "paint_code": "95.60.081",
+        "slug": "tungsten-metallic-9560081",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/tungsten-metallic-9560081/",
+        "source_label": "PaintScratch 2018 Rolls-Royce",
+        "hex_value": "#6A6560"
+      },
+      {
+        "display_name": "Reflex Silver Metallic",
+        "paint_code": "LA7W/8E",
+        "slug": "reflex-silver-metallic-la7w8e",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/reflex-silver-metallic-la7w8e/",
+        "source_label": "PaintScratch 2018 Rolls-Royce",
+        "hex_value": "#D5D9DD"
+      }
+    ],
+    "2019": [
+      {
+        "display_name": "Tungsten Metallic",
+        "paint_code": "95.60.081",
+        "slug": "tungsten-metallic-9560081",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/tungsten-metallic-9560081/",
+        "source_label": "PaintScratch 2019 Rolls-Royce",
+        "hex_value": "#6A6560"
+      },
+      {
+        "display_name": "Reflex Silver Metallic",
+        "paint_code": "LA7W/8E",
+        "slug": "reflex-silver-metallic-la7w8e",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/reflex-silver-metallic-la7w8e/",
+        "source_label": "PaintScratch 2019 Rolls-Royce",
+        "hex_value": "#D5D9DD"
+      }
+    ],
+    "2020": [
+      {
+        "display_name": "Tungsten Metallic",
+        "paint_code": "95.60.081",
+        "slug": "tungsten-metallic-9560081",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/tungsten-metallic-9560081/",
+        "source_label": "PaintScratch 2020 Rolls-Royce",
+        "hex_value": "#6A6560"
+      },
+      {
+        "display_name": "Reflex Silver Metallic",
+        "paint_code": "LA7W/8E",
+        "slug": "reflex-silver-metallic-la7w8e",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/reflex-silver-metallic-la7w8e/",
+        "source_label": "PaintScratch 2020 Rolls-Royce",
+        "hex_value": "#D5D9DD"
+      }
+    ],
+    "2021": [
+      {
+        "display_name": "Tungsten Metallic",
+        "paint_code": "95.60.081",
+        "slug": "tungsten-metallic-9560081",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/tungsten-metallic-9560081/",
+        "source_label": "PaintScratch 2021 Rolls-Royce",
+        "hex_value": "#6A6560"
+      },
+      {
+        "display_name": "Reflex Silver Metallic",
+        "paint_code": "LA7W/8E",
+        "slug": "reflex-silver-metallic-la7w8e",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/reflex-silver-metallic-la7w8e/",
+        "source_label": "PaintScratch 2021 Rolls-Royce",
+        "hex_value": "#D5D9DD"
+      }
+    ],
+    "2022": [
+      {
+        "display_name": "Tungsten Metallic",
+        "paint_code": "95.60.081",
+        "slug": "tungsten-metallic-9560081",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/tungsten-metallic-9560081/",
+        "source_label": "PaintScratch 2022 Rolls-Royce",
+        "hex_value": "#6A6560"
+      },
+      {
+        "display_name": "Reflex Silver Metallic",
+        "paint_code": "LA7W/8E",
+        "slug": "reflex-silver-metallic-la7w8e",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/reflex-silver-metallic-la7w8e/",
+        "source_label": "PaintScratch 2022 Rolls-Royce",
+        "hex_value": "#D5D9DD"
+      }
+    ],
+    "2023": [
+      {
+        "display_name": "Tungsten Metallic",
+        "paint_code": "95.60.081",
+        "slug": "tungsten-metallic-9560081",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/tungsten-metallic-9560081/",
+        "source_label": "PaintScratch 2023 Rolls-Royce",
+        "hex_value": "#6A6560"
+      },
+      {
+        "display_name": "Reflex Silver Metallic",
+        "paint_code": "LA7W/8E",
+        "slug": "reflex-silver-metallic-la7w8e",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/reflex-silver-metallic-la7w8e/",
+        "source_label": "PaintScratch 2023 Rolls-Royce",
+        "hex_value": "#D5D9DD"
+      }
+    ],
+    "2024": [
+      {
+        "display_name": "Tungsten Metallic",
+        "paint_code": "95.60.081",
+        "slug": "tungsten-metallic-9560081",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/tungsten-metallic-9560081/",
+        "source_label": "PaintScratch 2024 Rolls-Royce",
+        "hex_value": "#6A6560"
+      },
+      {
+        "display_name": "Reflex Silver Metallic",
+        "paint_code": "LA7W/8E",
+        "slug": "reflex-silver-metallic-la7w8e",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/reflex-silver-metallic-la7w8e/",
+        "source_label": "PaintScratch 2024 Rolls-Royce",
+        "hex_value": "#D5D9DD"
+      }
+    ],
+    "2025": [
+      {
+        "display_name": "Tungsten Metallic",
+        "paint_code": "95.60.081",
+        "slug": "tungsten-metallic-9560081",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/tungsten-metallic-9560081/",
+        "source_label": "PaintScratch 2025 Rolls-Royce",
+        "hex_value": "#6A6560"
+      },
+      {
+        "display_name": "Reflex Silver Metallic",
+        "paint_code": "LA7W/8E",
+        "slug": "reflex-silver-metallic-la7w8e",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/reflex-silver-metallic-la7w8e/",
+        "source_label": "PaintScratch 2025 Rolls-Royce",
+        "hex_value": "#D5D9DD"
+      }
+    ],
+    "2026": [
+      {
+        "display_name": "Tungsten Metallic",
+        "paint_code": "95.60.081",
+        "slug": "tungsten-metallic-9560081",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/tungsten-metallic-9560081/",
+        "source_label": "PaintScratch 2026 Rolls-Royce",
+        "hex_value": "#6A6560"
+      },
+      {
+        "display_name": "Reflex Silver Metallic",
+        "paint_code": "LA7W/8E",
+        "slug": "reflex-silver-metallic-la7w8e",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/reflex-silver-metallic-la7w8e/",
+        "source_label": "PaintScratch 2026 Rolls-Royce",
+        "hex_value": "#D5D9DD"
+      }
+    ],
+    "2027": [
+      {
+        "display_name": "Tungsten Metallic",
+        "paint_code": "95.60.081",
+        "slug": "tungsten-metallic-9560081",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/tungsten-metallic-9560081/",
+        "source_label": "PaintScratch 2027 Rolls-Royce",
+        "hex_value": "#6A6560"
+      },
+      {
+        "display_name": "Reflex Silver Metallic",
+        "paint_code": "LA7W/8E",
+        "slug": "reflex-silver-metallic-la7w8e",
+        "reference_url": "https://www.paintscratch.com/colors/rolls-royce/reflex-silver-metallic-la7w8e/",
+        "source_label": "PaintScratch 2027 Rolls-Royce",
+        "hex_value": "#D5D9DD"
+      }
+    ]
+  }
+}

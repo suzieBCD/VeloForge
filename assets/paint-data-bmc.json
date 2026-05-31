@@ -1,0 +1,1708 @@
+{
+  "All Models": {
+    "1957": [
+      {
+        "display_name": "Black",
+        "paint_code": "BLBK1",
+        "slug": "black-blbk1",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/black-blbk1/",
+        "source_label": "PaintScratch 1957 BMC",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Island Blue",
+        "paint_code": "BLBU8",
+        "slug": "island-blue-blbu8",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/island-blue-blbu8/",
+        "source_label": "PaintScratch 1957 BMC",
+        "hex_value": "#7191B5"
+      },
+      {
+        "display_name": "Old English White No. 2",
+        "paint_code": "BLW T3",
+        "slug": "old-english-white-no-2-blw-t3",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/old-english-white-no-2-blw-t3/",
+        "source_label": "PaintScratch 1957 BMC",
+        "hex_value": "#E0E5EB"
+      }
+    ],
+    "1958": [
+      {
+        "display_name": "Sandy Beige",
+        "paint_code": "BLBG15",
+        "slug": "sandy-beige-blbg15",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/sandy-beige-blbg15/",
+        "source_label": "PaintScratch 1958 BMC",
+        "hex_value": "#AB9F7B"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "BLBK1",
+        "slug": "black-blbk1",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/black-blbk1/",
+        "source_label": "PaintScratch 1958 BMC",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Deep Green",
+        "paint_code": "BLGN41",
+        "slug": "deep-green-blgn41",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/deep-green-blgn41/",
+        "source_label": "PaintScratch 1958 BMC",
+        "hex_value": "#184822"
+      },
+      {
+        "display_name": "Tweed Gray",
+        "paint_code": "BLGR4",
+        "slug": "tweed-gray-blgr4",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/tweed-gray-blgr4/",
+        "source_label": "PaintScratch 1958 BMC",
+        "hex_value": "#59635B"
+      },
+      {
+        "display_name": "Colorado Red",
+        "paint_code": "BLRD2",
+        "slug": "colorado-red-blrd2",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/colorado-red-blrd2/",
+        "source_label": "PaintScratch 1958 BMC",
+        "hex_value": "#892B1B"
+      },
+      {
+        "display_name": "Old English White No. 2",
+        "paint_code": "BLW T3",
+        "slug": "old-english-white-no-2-blw-t3",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/old-english-white-no-2-blw-t3/",
+        "source_label": "PaintScratch 1958 BMC",
+        "hex_value": "#E0E5EB"
+      }
+    ],
+    "1959": [
+      {
+        "display_name": "Black",
+        "paint_code": "BLBK1",
+        "slug": "black-blbk1",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/black-blbk1/",
+        "source_label": "PaintScratch 1959 BMC",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Healy Blue",
+        "paint_code": "BLBU2",
+        "slug": "healy-blue-blbu2",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/healy-blue-blbu2/",
+        "source_label": "PaintScratch 1959 BMC",
+        "hex_value": "#3E5C7E"
+      },
+      {
+        "display_name": "Old English White No. 2",
+        "paint_code": "BLW T3",
+        "slug": "old-english-white-no-2-blw-t3",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/old-english-white-no-2-blw-t3/",
+        "source_label": "PaintScratch 1959 BMC",
+        "hex_value": "#E0E5EB"
+      }
+    ],
+    "1960": [
+      {
+        "display_name": "Black",
+        "paint_code": "BLBK1",
+        "slug": "black-blbk1",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/black-blbk1/",
+        "source_label": "PaintScratch 1960 BMC",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Healy Blue",
+        "paint_code": "BLBU2",
+        "slug": "healy-blue-blbu2",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/healy-blue-blbu2/",
+        "source_label": "PaintScratch 1960 BMC",
+        "hex_value": "#3E5C7E"
+      },
+      {
+        "display_name": "Dove Gray",
+        "paint_code": "BLGR26",
+        "slug": "dove-gray-blgr26",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/dove-gray-blgr26/",
+        "source_label": "PaintScratch 1960 BMC",
+        "hex_value": "#C3C2C7"
+      },
+      {
+        "display_name": "Old English White No. 2",
+        "paint_code": "BLW T3",
+        "slug": "old-english-white-no-2-blw-t3",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/old-english-white-no-2-blw-t3/",
+        "source_label": "PaintScratch 1960 BMC",
+        "hex_value": "#E0E5EB"
+      }
+    ],
+    "1961": [
+      {
+        "display_name": "Black",
+        "paint_code": "BLBK1",
+        "slug": "black-blbk1",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/black-blbk1/",
+        "source_label": "PaintScratch 1961 BMC",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Healy Blue",
+        "paint_code": "BLBU2",
+        "slug": "healy-blue-blbu2",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/healy-blue-blbu2/",
+        "source_label": "PaintScratch 1961 BMC",
+        "hex_value": "#3E5C7E"
+      },
+      {
+        "display_name": "British Racing Green No 1",
+        "paint_code": "BLGN29",
+        "slug": "british-racing-green-no-1-blgn29",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/british-racing-green-no-1-blgn29/",
+        "source_label": "PaintScratch 1961 BMC",
+        "hex_value": "#1A5036"
+      },
+      {
+        "display_name": "Old English White No. 2",
+        "paint_code": "BLW T3",
+        "slug": "old-english-white-no-2-blw-t3",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/old-english-white-no-2-blw-t3/",
+        "source_label": "PaintScratch 1961 BMC",
+        "hex_value": "#E0E5EB"
+      }
+    ],
+    "1962": [
+      {
+        "display_name": "Stone",
+        "paint_code": "BLBG14",
+        "slug": "stone-blbg14",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/stone-blbg14/",
+        "source_label": "PaintScratch 1962 BMC",
+        "hex_value": "#8C8A78"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "BLBK1",
+        "slug": "black-blbk1",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/black-blbk1/",
+        "source_label": "PaintScratch 1962 BMC",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Healy Blue",
+        "paint_code": "BLBU2",
+        "slug": "healy-blue-blbu2",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/healy-blue-blbu2/",
+        "source_label": "PaintScratch 1962 BMC",
+        "hex_value": "#3E5C7E"
+      },
+      {
+        "display_name": "Surf Blue",
+        "paint_code": "BLBU35",
+        "slug": "surf-blue-blbu35",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/surf-blue-blbu35/",
+        "source_label": "PaintScratch 1962 BMC",
+        "hex_value": "#496E81"
+      },
+      {
+        "display_name": "Connaught Green",
+        "paint_code": "BLGN18",
+        "slug": "connaught-green-blgn18",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/connaught-green-blgn18/",
+        "source_label": "PaintScratch 1962 BMC",
+        "hex_value": "#183E2C"
+      },
+      {
+        "display_name": "British Racing Green No 1",
+        "paint_code": "BLGN29",
+        "slug": "british-racing-green-no-1-blgn29",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/british-racing-green-no-1-blgn29/",
+        "source_label": "PaintScratch 1962 BMC",
+        "hex_value": "#1A5036"
+      },
+      {
+        "display_name": "Almond Green",
+        "paint_code": "BLGN37",
+        "slug": "almond-green-blgn37",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/almond-green-blgn37/",
+        "source_label": "PaintScratch 1962 BMC",
+        "hex_value": "#3D4E30"
+      },
+      {
+        "display_name": "Peat",
+        "paint_code": "BLGR30",
+        "slug": "peat-blgr30",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/peat-blgr30/",
+        "source_label": "PaintScratch 1962 BMC",
+        "hex_value": "#525A4A"
+      },
+      {
+        "display_name": "Maroon",
+        "paint_code": "BLRD23",
+        "slug": "maroon-blrd23",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/maroon-blrd23/",
+        "source_label": "PaintScratch 1962 BMC",
+        "hex_value": "#550707"
+      },
+      {
+        "display_name": "Old English White No. 2",
+        "paint_code": "BLW T3",
+        "slug": "old-english-white-no-2-blw-t3",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/old-english-white-no-2-blw-t3/",
+        "source_label": "PaintScratch 1962 BMC",
+        "hex_value": "#E0E5EB"
+      }
+    ],
+    "1963": [
+      {
+        "display_name": "Black",
+        "paint_code": "BLBK1",
+        "slug": "black-blbk1",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/black-blbk1/",
+        "source_label": "PaintScratch 1963 BMC",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Healy Blue",
+        "paint_code": "BLBU2",
+        "slug": "healy-blue-blbu2",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/healy-blue-blbu2/",
+        "source_label": "PaintScratch 1963 BMC",
+        "hex_value": "#3E5C7E"
+      },
+      {
+        "display_name": "British Racing Green No 1",
+        "paint_code": "BLGN29",
+        "slug": "british-racing-green-no-1-blgn29",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/british-racing-green-no-1-blgn29/",
+        "source_label": "PaintScratch 1963 BMC",
+        "hex_value": "#1A5036"
+      },
+      {
+        "display_name": "Peat",
+        "paint_code": "BLGR30",
+        "slug": "peat-blgr30",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/peat-blgr30/",
+        "source_label": "PaintScratch 1963 BMC",
+        "hex_value": "#525A4A"
+      },
+      {
+        "display_name": "Old English White No. 2",
+        "paint_code": "BLW T3",
+        "slug": "old-english-white-no-2-blw-t3",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/old-english-white-no-2-blw-t3/",
+        "source_label": "PaintScratch 1963 BMC",
+        "hex_value": "#E0E5EB"
+      }
+    ],
+    "1964": [
+      {
+        "display_name": "Black",
+        "paint_code": "BLBK1",
+        "slug": "black-blbk1",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/black-blbk1/",
+        "source_label": "PaintScratch 1964 BMC",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Healy Blue",
+        "paint_code": "BLBU2",
+        "slug": "healy-blue-blbu2",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/healy-blue-blbu2/",
+        "source_label": "PaintScratch 1964 BMC",
+        "hex_value": "#3E5C7E"
+      },
+      {
+        "display_name": "Basilica Blue",
+        "paint_code": "BLBU11",
+        "slug": "basilica-blue-blbu11",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/basilica-blue-blbu11/",
+        "source_label": "PaintScratch 1964 BMC",
+        "hex_value": "#2F4C6A"
+      },
+      {
+        "display_name": "Riveria Blue",
+        "paint_code": "BLBU44",
+        "slug": "riveria-blue-blbu44",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/riveria-blue-blbu44/",
+        "source_label": "PaintScratch 1964 BMC",
+        "hex_value": "#1969B2"
+      },
+      {
+        "display_name": "British Racing Green No 1",
+        "paint_code": "BLGN29",
+        "slug": "british-racing-green-no-1-blgn29",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/british-racing-green-no-1-blgn29/",
+        "source_label": "PaintScratch 1964 BMC",
+        "hex_value": "#1A5036"
+      },
+      {
+        "display_name": "Chelsea Gray",
+        "paint_code": "BLGR15",
+        "slug": "chelsea-gray-blgr15",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/chelsea-gray-blgr15/",
+        "source_label": "PaintScratch 1964 BMC",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Peat",
+        "paint_code": "BLGR30",
+        "slug": "peat-blgr30",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/peat-blgr30/",
+        "source_label": "PaintScratch 1964 BMC",
+        "hex_value": "#525A4A"
+      },
+      {
+        "display_name": "Racing Green",
+        "paint_code": "BLVC 25",
+        "slug": "racing-green-blvc-25",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/racing-green-blvc-25/",
+        "source_label": "PaintScratch 1964 BMC",
+        "hex_value": "#355826"
+      },
+      {
+        "display_name": "Old English White No. 2",
+        "paint_code": "BLW T3",
+        "slug": "old-english-white-no-2-blw-t3",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/old-english-white-no-2-blw-t3/",
+        "source_label": "PaintScratch 1964 BMC",
+        "hex_value": "#E0E5EB"
+      }
+    ],
+    "1965": [
+      {
+        "display_name": "Black",
+        "paint_code": "BLBK1",
+        "slug": "black-blbk1",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/black-blbk1/",
+        "source_label": "PaintScratch 1965 BMC",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Healy Blue",
+        "paint_code": "BLBU2",
+        "slug": "healy-blue-blbu2",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/healy-blue-blbu2/",
+        "source_label": "PaintScratch 1965 BMC",
+        "hex_value": "#3E5C7E"
+      },
+      {
+        "display_name": "Basilica Blue",
+        "paint_code": "BLBU11",
+        "slug": "basilica-blue-blbu11",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/basilica-blue-blbu11/",
+        "source_label": "PaintScratch 1965 BMC",
+        "hex_value": "#2F4C6A"
+      },
+      {
+        "display_name": "Chalk Blue",
+        "paint_code": "BLBU41",
+        "slug": "chalk-blue-blbu41",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/chalk-blue-blbu41/",
+        "source_label": "PaintScratch 1965 BMC",
+        "hex_value": "#4F596D"
+      },
+      {
+        "display_name": "Riveria Blue",
+        "paint_code": "BLBU44",
+        "slug": "riveria-blue-blbu44",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/riveria-blue-blbu44/",
+        "source_label": "PaintScratch 1965 BMC",
+        "hex_value": "#1969B2"
+      },
+      {
+        "display_name": "Midnight Blue",
+        "paint_code": "BLBU45",
+        "slug": "midnight-blue-blbu45",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/midnight-blue-blbu45/",
+        "source_label": "PaintScratch 1965 BMC",
+        "hex_value": "#0B2251"
+      },
+      {
+        "display_name": "Sherwood Green",
+        "paint_code": "BLGN24",
+        "slug": "sherwood-green-blgn24",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/sherwood-green-blgn24/",
+        "source_label": "PaintScratch 1965 BMC",
+        "hex_value": "#074B2A"
+      },
+      {
+        "display_name": "British Racing Green No 2",
+        "paint_code": "BLGN25",
+        "slug": "british-racing-green-no-2-blgn25",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/british-racing-green-no-2-blgn25/",
+        "source_label": "PaintScratch 1965 BMC",
+        "hex_value": "#3D7F75"
+      },
+      {
+        "display_name": "Peat",
+        "paint_code": "BLGR30",
+        "slug": "peat-blgr30",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/peat-blgr30/",
+        "source_label": "PaintScratch 1965 BMC",
+        "hex_value": "#525A4A"
+      },
+      {
+        "display_name": "Racing Green",
+        "paint_code": "BLVC 25",
+        "slug": "racing-green-blvc-25",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/racing-green-blvc-25/",
+        "source_label": "PaintScratch 1965 BMC",
+        "hex_value": "#355826"
+      },
+      {
+        "display_name": "Old English White No. 2",
+        "paint_code": "BLW T3",
+        "slug": "old-english-white-no-2-blw-t3",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/old-english-white-no-2-blw-t3/",
+        "source_label": "PaintScratch 1965 BMC",
+        "hex_value": "#E0E5EB"
+      },
+      {
+        "display_name": "Maltese White",
+        "paint_code": "BLWT3",
+        "slug": "maltese-white-blwt3",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/maltese-white-blwt3/",
+        "source_label": "PaintScratch 1965 BMC",
+        "hex_value": "#FFFEF5"
+      },
+      {
+        "display_name": "Pale Primrose",
+        "paint_code": "BLY12",
+        "slug": "pale-primrose-bly12",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/pale-primrose-bly12/",
+        "source_label": "PaintScratch 1965 BMC",
+        "hex_value": "#FFFEE0"
+      }
+    ],
+    "1966": [
+      {
+        "display_name": "Black",
+        "paint_code": "BLBK1",
+        "slug": "black-blbk1",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/black-blbk1/",
+        "source_label": "PaintScratch 1966 BMC",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Healy Blue",
+        "paint_code": "BLBU2",
+        "slug": "healy-blue-blbu2",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/healy-blue-blbu2/",
+        "source_label": "PaintScratch 1966 BMC",
+        "hex_value": "#3E5C7E"
+      },
+      {
+        "display_name": "Basilica Blue",
+        "paint_code": "BLBU11",
+        "slug": "basilica-blue-blbu11",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/basilica-blue-blbu11/",
+        "source_label": "PaintScratch 1966 BMC",
+        "hex_value": "#2F4C6A"
+      },
+      {
+        "display_name": "Riveria Blue",
+        "paint_code": "BLBU44",
+        "slug": "riveria-blue-blbu44",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/riveria-blue-blbu44/",
+        "source_label": "PaintScratch 1966 BMC",
+        "hex_value": "#1969B2"
+      },
+      {
+        "display_name": "Florida Green",
+        "paint_code": "BLGN1",
+        "slug": "florida-green-blgn1",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/florida-green-blgn1/",
+        "source_label": "PaintScratch 1966 BMC",
+        "hex_value": "#3A6A53"
+      },
+      {
+        "display_name": "British Racing Green No 2",
+        "paint_code": "BLGN25",
+        "slug": "british-racing-green-no-2-blgn25",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/british-racing-green-no-2-blgn25/",
+        "source_label": "PaintScratch 1966 BMC",
+        "hex_value": "#3D7F75"
+      },
+      {
+        "display_name": "Peat",
+        "paint_code": "BLGR30",
+        "slug": "peat-blgr30",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/peat-blgr30/",
+        "source_label": "PaintScratch 1966 BMC",
+        "hex_value": "#525A4A"
+      },
+      {
+        "display_name": "Racing Green",
+        "paint_code": "BLVC 25",
+        "slug": "racing-green-blvc-25",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/racing-green-blvc-25/",
+        "source_label": "PaintScratch 1966 BMC",
+        "hex_value": "#355826"
+      },
+      {
+        "display_name": "Old English White No. 2",
+        "paint_code": "BLW T3",
+        "slug": "old-english-white-no-2-blw-t3",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/old-english-white-no-2-blw-t3/",
+        "source_label": "PaintScratch 1966 BMC",
+        "hex_value": "#E0E5EB"
+      },
+      {
+        "display_name": "Pale Primrose",
+        "paint_code": "BLY12",
+        "slug": "pale-primrose-bly12",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/pale-primrose-bly12/",
+        "source_label": "PaintScratch 1966 BMC",
+        "hex_value": "#FFFEE0"
+      }
+    ],
+    "1967": [
+      {
+        "display_name": "Black",
+        "paint_code": "BLBK1",
+        "slug": "black-blbk1",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/black-blbk1/",
+        "source_label": "PaintScratch 1967 BMC",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Healy Blue",
+        "paint_code": "BLBU2",
+        "slug": "healy-blue-blbu2",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/healy-blue-blbu2/",
+        "source_label": "PaintScratch 1967 BMC",
+        "hex_value": "#3E5C7E"
+      },
+      {
+        "display_name": "Basilica Blue",
+        "paint_code": "BLBU11",
+        "slug": "basilica-blue-blbu11",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/basilica-blue-blbu11/",
+        "source_label": "PaintScratch 1967 BMC",
+        "hex_value": "#2F4C6A"
+      },
+      {
+        "display_name": "Riveria Blue",
+        "paint_code": "BLBU44",
+        "slug": "riveria-blue-blbu44",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/riveria-blue-blbu44/",
+        "source_label": "PaintScratch 1967 BMC",
+        "hex_value": "#1969B2"
+      },
+      {
+        "display_name": "Florida Green",
+        "paint_code": "BLGN1",
+        "slug": "florida-green-blgn1",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/florida-green-blgn1/",
+        "source_label": "PaintScratch 1967 BMC",
+        "hex_value": "#3A6A53"
+      },
+      {
+        "display_name": "British Racing Green No 2",
+        "paint_code": "BLGN25",
+        "slug": "british-racing-green-no-2-blgn25",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/british-racing-green-no-2-blgn25/",
+        "source_label": "PaintScratch 1967 BMC",
+        "hex_value": "#3D7F75"
+      },
+      {
+        "display_name": "Peat",
+        "paint_code": "BLGR30",
+        "slug": "peat-blgr30",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/peat-blgr30/",
+        "source_label": "PaintScratch 1967 BMC",
+        "hex_value": "#525A4A"
+      },
+      {
+        "display_name": "Racing Green",
+        "paint_code": "BLVC 25",
+        "slug": "racing-green-blvc-25",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/racing-green-blvc-25/",
+        "source_label": "PaintScratch 1967 BMC",
+        "hex_value": "#355826"
+      },
+      {
+        "display_name": "Old English White No. 2",
+        "paint_code": "BLW T3",
+        "slug": "old-english-white-no-2-blw-t3",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/old-english-white-no-2-blw-t3/",
+        "source_label": "PaintScratch 1967 BMC",
+        "hex_value": "#E0E5EB"
+      },
+      {
+        "display_name": "Pale Primrose",
+        "paint_code": "BLY12",
+        "slug": "pale-primrose-bly12",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/pale-primrose-bly12/",
+        "source_label": "PaintScratch 1967 BMC",
+        "hex_value": "#FFFEE0"
+      }
+    ],
+    "1968": [
+      {
+        "display_name": "Black",
+        "paint_code": "BLBK1",
+        "slug": "black-blbk1",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/black-blbk1/",
+        "source_label": "PaintScratch 1968 BMC",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Healy Blue",
+        "paint_code": "BLBU2",
+        "slug": "healy-blue-blbu2",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/healy-blue-blbu2/",
+        "source_label": "PaintScratch 1968 BMC",
+        "hex_value": "#3E5C7E"
+      },
+      {
+        "display_name": "Basilica Blue",
+        "paint_code": "BLBU11",
+        "slug": "basilica-blue-blbu11",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/basilica-blue-blbu11/",
+        "source_label": "PaintScratch 1968 BMC",
+        "hex_value": "#2F4C6A"
+      },
+      {
+        "display_name": "Riveria Blue",
+        "paint_code": "BLBU44",
+        "slug": "riveria-blue-blbu44",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/riveria-blue-blbu44/",
+        "source_label": "PaintScratch 1968 BMC",
+        "hex_value": "#1969B2"
+      },
+      {
+        "display_name": "Florida Green",
+        "paint_code": "BLGN1",
+        "slug": "florida-green-blgn1",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/florida-green-blgn1/",
+        "source_label": "PaintScratch 1968 BMC",
+        "hex_value": "#3A6A53"
+      },
+      {
+        "display_name": "British Racing Green No 2",
+        "paint_code": "BLGN25",
+        "slug": "british-racing-green-no-2-blgn25",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/british-racing-green-no-2-blgn25/",
+        "source_label": "PaintScratch 1968 BMC",
+        "hex_value": "#3D7F75"
+      },
+      {
+        "display_name": "Peat",
+        "paint_code": "BLGR30",
+        "slug": "peat-blgr30",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/peat-blgr30/",
+        "source_label": "PaintScratch 1968 BMC",
+        "hex_value": "#525A4A"
+      },
+      {
+        "display_name": "Racing Green",
+        "paint_code": "BLVC 25",
+        "slug": "racing-green-blvc-25",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/racing-green-blvc-25/",
+        "source_label": "PaintScratch 1968 BMC",
+        "hex_value": "#355826"
+      },
+      {
+        "display_name": "Old English White No. 2",
+        "paint_code": "BLW T3",
+        "slug": "old-english-white-no-2-blw-t3",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/old-english-white-no-2-blw-t3/",
+        "source_label": "PaintScratch 1968 BMC",
+        "hex_value": "#E0E5EB"
+      },
+      {
+        "display_name": "Pale Primrose",
+        "paint_code": "BLY12",
+        "slug": "pale-primrose-bly12",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/pale-primrose-bly12/",
+        "source_label": "PaintScratch 1968 BMC",
+        "hex_value": "#FFFEE0"
+      }
+    ],
+    "1969": [
+      {
+        "display_name": "Black",
+        "paint_code": "BLBK1",
+        "slug": "black-blbk1",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/black-blbk1/",
+        "source_label": "PaintScratch 1969 BMC",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Healy Blue",
+        "paint_code": "BLBU2",
+        "slug": "healy-blue-blbu2",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/healy-blue-blbu2/",
+        "source_label": "PaintScratch 1969 BMC",
+        "hex_value": "#3E5C7E"
+      },
+      {
+        "display_name": "Basilica Blue",
+        "paint_code": "BLBU11",
+        "slug": "basilica-blue-blbu11",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/basilica-blue-blbu11/",
+        "source_label": "PaintScratch 1969 BMC",
+        "hex_value": "#2F4C6A"
+      },
+      {
+        "display_name": "Riveria Blue",
+        "paint_code": "BLBU44",
+        "slug": "riveria-blue-blbu44",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/riveria-blue-blbu44/",
+        "source_label": "PaintScratch 1969 BMC",
+        "hex_value": "#1969B2"
+      },
+      {
+        "display_name": "Florida Green",
+        "paint_code": "BLGN1",
+        "slug": "florida-green-blgn1",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/florida-green-blgn1/",
+        "source_label": "PaintScratch 1969 BMC",
+        "hex_value": "#3A6A53"
+      },
+      {
+        "display_name": "British Racing Green No 2",
+        "paint_code": "BLGN25",
+        "slug": "british-racing-green-no-2-blgn25",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/british-racing-green-no-2-blgn25/",
+        "source_label": "PaintScratch 1969 BMC",
+        "hex_value": "#3D7F75"
+      },
+      {
+        "display_name": "Damask Red",
+        "paint_code": "BLRD5",
+        "slug": "damask-red-blrd5",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/damask-red-blrd5/",
+        "source_label": "PaintScratch 1969 BMC",
+        "hex_value": "#99291E"
+      },
+      {
+        "display_name": "Sable",
+        "paint_code": "BLRD30",
+        "slug": "sable-blrd30",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/sable-blrd30/",
+        "source_label": "PaintScratch 1969 BMC",
+        "hex_value": "#7B6D5D"
+      },
+      {
+        "display_name": "Racing Green",
+        "paint_code": "BLVC 25",
+        "slug": "racing-green-blvc-25",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/racing-green-blvc-25/",
+        "source_label": "PaintScratch 1969 BMC",
+        "hex_value": "#355826"
+      },
+      {
+        "display_name": "Old English White No. 2",
+        "paint_code": "BLW T3",
+        "slug": "old-english-white-no-2-blw-t3",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/old-english-white-no-2-blw-t3/",
+        "source_label": "PaintScratch 1969 BMC",
+        "hex_value": "#E0E5EB"
+      },
+      {
+        "display_name": "Pale Primrose",
+        "paint_code": "BLY12",
+        "slug": "pale-primrose-bly12",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/pale-primrose-bly12/",
+        "source_label": "PaintScratch 1969 BMC",
+        "hex_value": "#FFFEE0"
+      }
+    ],
+    "1970": [
+      {
+        "display_name": "Armadillo Beige",
+        "paint_code": "BLBG21",
+        "slug": "armadillo-beige-blbg21",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/armadillo-beige-blbg21/",
+        "source_label": "PaintScratch 1970 BMC",
+        "hex_value": "#585038"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "BLBK1",
+        "slug": "black-blbk1",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/black-blbk1/",
+        "source_label": "PaintScratch 1970 BMC",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Persian Blue",
+        "paint_code": "BLBU39",
+        "slug": "persian-blue-blbu39",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/persian-blue-blbu39/",
+        "source_label": "PaintScratch 1970 BMC",
+        "hex_value": "#203662"
+      },
+      {
+        "display_name": "Cosmos Blue",
+        "paint_code": "BLBU49",
+        "slug": "cosmos-blue-blbu49",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/cosmos-blue-blbu49/",
+        "source_label": "PaintScratch 1970 BMC",
+        "hex_value": "#253B67"
+      },
+      {
+        "display_name": "Dominican Blue",
+        "paint_code": "BLBU50",
+        "slug": "dominican-blue-blbu50",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/dominican-blue-blbu50/",
+        "source_label": "PaintScratch 1970 BMC",
+        "hex_value": "#495469"
+      },
+      {
+        "display_name": "British Racing Green No 2",
+        "paint_code": "BLGN25",
+        "slug": "british-racing-green-no-2-blgn25",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/british-racing-green-no-2-blgn25/",
+        "source_label": "PaintScratch 1970 BMC",
+        "hex_value": "#3D7F75"
+      },
+      {
+        "display_name": "Cumulus Gray",
+        "paint_code": "BLGR29",
+        "slug": "cumulus-gray-blgr29",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/cumulus-gray-blgr29/",
+        "source_label": "PaintScratch 1970 BMC",
+        "hex_value": "#4A515A"
+      },
+      {
+        "display_name": "Damask Red",
+        "paint_code": "BLRD5",
+        "slug": "damask-red-blrd5",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/damask-red-blrd5/",
+        "source_label": "PaintScratch 1970 BMC",
+        "hex_value": "#99291E"
+      },
+      {
+        "display_name": "Faun Brown",
+        "paint_code": "BLRD26",
+        "slug": "faun-brown-blrd26",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/faun-brown-blrd26/",
+        "source_label": "PaintScratch 1970 BMC",
+        "hex_value": "#6B583D"
+      },
+      {
+        "display_name": "Paladin Red",
+        "paint_code": "BLRD27",
+        "slug": "paladin-red-blrd27",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/paladin-red-blrd27/",
+        "source_label": "PaintScratch 1970 BMC",
+        "hex_value": "#7F3217"
+      },
+      {
+        "display_name": "Blackberry",
+        "paint_code": "BLVC3",
+        "slug": "blackberry-blvc3",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/blackberry-blvc3/",
+        "source_label": "PaintScratch 1970 BMC",
+        "hex_value": "#5D3342"
+      },
+      {
+        "display_name": "Antelope",
+        "paint_code": "BLVC7",
+        "slug": "antelope-blvc7",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/antelope-blvc7/",
+        "source_label": "PaintScratch 1970 BMC",
+        "hex_value": "#D9C1A7"
+      },
+      {
+        "display_name": "Bronze Yellow",
+        "paint_code": "BLVC15",
+        "slug": "bronze-yellow-blvc15",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/bronze-yellow-blvc15/",
+        "source_label": "PaintScratch 1970 BMC",
+        "hex_value": "#F9BC79"
+      },
+      {
+        "display_name": "Mallard Green",
+        "paint_code": "BLVC22",
+        "slug": "mallard-green-blvc22",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/mallard-green-blvc22/",
+        "source_label": "PaintScratch 1970 BMC",
+        "hex_value": "#046A64"
+      },
+      {
+        "display_name": "Racing Green",
+        "paint_code": "BLVC 25",
+        "slug": "racing-green-blvc-25",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/racing-green-blvc-25/",
+        "source_label": "PaintScratch 1970 BMC",
+        "hex_value": "#355826"
+      },
+      {
+        "display_name": "Glacier White",
+        "paint_code": "BLVC59",
+        "slug": "glacier-white-blvc59",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/glacier-white-blvc59/",
+        "source_label": "PaintScratch 1970 BMC",
+        "hex_value": "#F7FCFF"
+      }
+    ],
+    "1971": [
+      {
+        "display_name": "Black",
+        "paint_code": "BLBK1",
+        "slug": "black-blbk1",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/black-blbk1/",
+        "source_label": "PaintScratch 1971 BMC",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Damask Red",
+        "paint_code": "BLRD5",
+        "slug": "damask-red-blrd5",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/damask-red-blrd5/",
+        "source_label": "PaintScratch 1971 BMC",
+        "hex_value": "#99291E"
+      },
+      {
+        "display_name": "Bedouin Beige",
+        "paint_code": "BLVC5",
+        "slug": "bedouin-beige-blvc5",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/bedouin-beige-blvc5/",
+        "source_label": "PaintScratch 1971 BMC",
+        "hex_value": "#C6C1BA"
+      },
+      {
+        "display_name": "Bronze Yellow",
+        "paint_code": "BLVC15",
+        "slug": "bronze-yellow-blvc15",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/bronze-yellow-blvc15/",
+        "source_label": "PaintScratch 1971 BMC",
+        "hex_value": "#F9BC79"
+      },
+      {
+        "display_name": "Blaze Red",
+        "paint_code": "BLVC16",
+        "slug": "blaze-red-blvc16",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/blaze-red-blvc16/",
+        "source_label": "PaintScratch 1971 BMC",
+        "hex_value": "#EF442D"
+      },
+      {
+        "display_name": "Teal Blue",
+        "paint_code": "BLVC18",
+        "slug": "teal-blue-blvc18",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/teal-blue-blvc18/",
+        "source_label": "PaintScratch 1971 BMC",
+        "hex_value": "#224860"
+      },
+      {
+        "display_name": "Limeflower",
+        "paint_code": "BLVC20",
+        "slug": "limeflower-blvc20",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/limeflower-blvc20/",
+        "source_label": "PaintScratch 1971 BMC",
+        "hex_value": "#BBDB7A"
+      },
+      {
+        "display_name": "Mallard Green",
+        "paint_code": "BLVC22",
+        "slug": "mallard-green-blvc22",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/mallard-green-blvc22/",
+        "source_label": "PaintScratch 1971 BMC",
+        "hex_value": "#046A64"
+      },
+      {
+        "display_name": "Wild Moss",
+        "paint_code": "BLVC24",
+        "slug": "wild-moss-blvc24",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/wild-moss-blvc24/",
+        "source_label": "PaintScratch 1971 BMC",
+        "hex_value": "#6B8062"
+      },
+      {
+        "display_name": "New Racing Green",
+        "paint_code": "BLVC25",
+        "slug": "new-racing-green-blvc25",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/new-racing-green-blvc25/",
+        "source_label": "PaintScratch 1971 BMC",
+        "hex_value": "#547848"
+      },
+      {
+        "display_name": "Glacier White",
+        "paint_code": "BLVC59",
+        "slug": "glacier-white-blvc59",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/glacier-white-blvc59/",
+        "source_label": "PaintScratch 1971 BMC",
+        "hex_value": "#F7FCFF"
+      },
+      {
+        "display_name": "Aqua",
+        "paint_code": "BLVC60",
+        "slug": "aqua-blvc60",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/aqua-blvc60/",
+        "source_label": "PaintScratch 1971 BMC",
+        "hex_value": "#6FAAB2"
+      },
+      {
+        "display_name": "Flame Red",
+        "paint_code": "BLVC61",
+        "slug": "flame-red-blvc61",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/flame-red-blvc61/",
+        "source_label": "PaintScratch 1971 BMC",
+        "hex_value": "#DA171D"
+      }
+    ],
+    "1972": [
+      {
+        "display_name": "Black",
+        "paint_code": "BLBK1",
+        "slug": "black-blbk1",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/black-blbk1/",
+        "source_label": "PaintScratch 1972 BMC",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Damask Red",
+        "paint_code": "BLRD5",
+        "slug": "damask-red-blrd5",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/damask-red-blrd5/",
+        "source_label": "PaintScratch 1972 BMC",
+        "hex_value": "#99291E"
+      },
+      {
+        "display_name": "Bronze Yellow",
+        "paint_code": "BLVC15",
+        "slug": "bronze-yellow-blvc15",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/bronze-yellow-blvc15/",
+        "source_label": "PaintScratch 1972 BMC",
+        "hex_value": "#F9BC79"
+      },
+      {
+        "display_name": "Blaze Red",
+        "paint_code": "BLVC16",
+        "slug": "blaze-red-blvc16",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/blaze-red-blvc16/",
+        "source_label": "PaintScratch 1972 BMC",
+        "hex_value": "#EF442D"
+      },
+      {
+        "display_name": "Teal Blue",
+        "paint_code": "BLVC18",
+        "slug": "teal-blue-blvc18",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/teal-blue-blvc18/",
+        "source_label": "PaintScratch 1972 BMC",
+        "hex_value": "#224860"
+      },
+      {
+        "display_name": "Harvest Gold",
+        "paint_code": "BLVC19",
+        "slug": "harvest-gold-blvc19",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/harvest-gold-blvc19/",
+        "source_label": "PaintScratch 1972 BMC",
+        "hex_value": "#FDEFAB"
+      },
+      {
+        "display_name": "Limeflower",
+        "paint_code": "BLVC20",
+        "slug": "limeflower-blvc20",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/limeflower-blvc20/",
+        "source_label": "PaintScratch 1972 BMC",
+        "hex_value": "#BBDB7A"
+      },
+      {
+        "display_name": "Mallard Green",
+        "paint_code": "BLVC22",
+        "slug": "mallard-green-blvc22",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/mallard-green-blvc22/",
+        "source_label": "PaintScratch 1972 BMC",
+        "hex_value": "#046A64"
+      },
+      {
+        "display_name": "Black Tulip",
+        "paint_code": "BLVC23",
+        "slug": "black-tulip-blvc23",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/black-tulip-blvc23/",
+        "source_label": "PaintScratch 1972 BMC",
+        "hex_value": "#302136"
+      },
+      {
+        "display_name": "Wild Moss",
+        "paint_code": "BLVC24",
+        "slug": "wild-moss-blvc24",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/wild-moss-blvc24/",
+        "source_label": "PaintScratch 1972 BMC",
+        "hex_value": "#6B8062"
+      },
+      {
+        "display_name": "New Racing Green",
+        "paint_code": "BLVC25",
+        "slug": "new-racing-green-blvc25",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/new-racing-green-blvc25/",
+        "source_label": "PaintScratch 1972 BMC",
+        "hex_value": "#547848"
+      },
+      {
+        "display_name": "Glacier White",
+        "paint_code": "BLVC59",
+        "slug": "glacier-white-blvc59",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/glacier-white-blvc59/",
+        "source_label": "PaintScratch 1972 BMC",
+        "hex_value": "#F7FCFF"
+      },
+      {
+        "display_name": "Aqua",
+        "paint_code": "BLVC60",
+        "slug": "aqua-blvc60",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/aqua-blvc60/",
+        "source_label": "PaintScratch 1972 BMC",
+        "hex_value": "#6FAAB2"
+      },
+      {
+        "display_name": "Flame Red",
+        "paint_code": "BLVC61",
+        "slug": "flame-red-blvc61",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/flame-red-blvc61/",
+        "source_label": "PaintScratch 1972 BMC",
+        "hex_value": "#DA171D"
+      }
+    ],
+    "1973": [
+      {
+        "display_name": "Black",
+        "paint_code": "BLBK1",
+        "slug": "black-blbk1",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/black-blbk1/",
+        "source_label": "PaintScratch 1973 BMC",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Damask Red",
+        "paint_code": "BLRD5",
+        "slug": "damask-red-blrd5",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/damask-red-blrd5/",
+        "source_label": "PaintScratch 1973 BMC",
+        "hex_value": "#99291E"
+      },
+      {
+        "display_name": "Skymist Gray",
+        "paint_code": "BLVC9",
+        "slug": "skymist-gray-blvc9",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/skymist-gray-blvc9/",
+        "source_label": "PaintScratch 1973 BMC",
+        "hex_value": "#757A81"
+      },
+      {
+        "display_name": "Bronze Yellow",
+        "paint_code": "BLVC15",
+        "slug": "bronze-yellow-blvc15",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/bronze-yellow-blvc15/",
+        "source_label": "PaintScratch 1973 BMC",
+        "hex_value": "#F9BC79"
+      },
+      {
+        "display_name": "Blaze Red",
+        "paint_code": "BLVC16",
+        "slug": "blaze-red-blvc16",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/blaze-red-blvc16/",
+        "source_label": "PaintScratch 1973 BMC",
+        "hex_value": "#EF442D"
+      },
+      {
+        "display_name": "Teal Blue",
+        "paint_code": "BLVC18",
+        "slug": "teal-blue-blvc18",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/teal-blue-blvc18/",
+        "source_label": "PaintScratch 1973 BMC",
+        "hex_value": "#224860"
+      },
+      {
+        "display_name": "Harvest Gold",
+        "paint_code": "BLVC19",
+        "slug": "harvest-gold-blvc19",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/harvest-gold-blvc19/",
+        "source_label": "PaintScratch 1973 BMC",
+        "hex_value": "#FDEFAB"
+      },
+      {
+        "display_name": "Mallard Green",
+        "paint_code": "BLVC22",
+        "slug": "mallard-green-blvc22",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/mallard-green-blvc22/",
+        "source_label": "PaintScratch 1973 BMC",
+        "hex_value": "#046A64"
+      },
+      {
+        "display_name": "Black Tulip",
+        "paint_code": "BLVC23",
+        "slug": "black-tulip-blvc23",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/black-tulip-blvc23/",
+        "source_label": "PaintScratch 1973 BMC",
+        "hex_value": "#302136"
+      },
+      {
+        "display_name": "Glacier White",
+        "paint_code": "BLVC59",
+        "slug": "glacier-white-blvc59",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/glacier-white-blvc59/",
+        "source_label": "PaintScratch 1973 BMC",
+        "hex_value": "#F7FCFF"
+      },
+      {
+        "display_name": "Cosmic Blue Metallic",
+        "paint_code": "BLVC111",
+        "slug": "cosmic-blue-metallic-blvc111",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/cosmic-blue-metallic-blvc111/",
+        "source_label": "PaintScratch 1973 BMC",
+        "hex_value": "#1D4465"
+      }
+    ],
+    "1974": [
+      {
+        "display_name": "Black",
+        "paint_code": "BLBK1",
+        "slug": "black-blbk1",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/black-blbk1/",
+        "source_label": "PaintScratch 1974 BMC",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Damask Red",
+        "paint_code": "BLRD5",
+        "slug": "damask-red-blrd5",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/damask-red-blrd5/",
+        "source_label": "PaintScratch 1974 BMC",
+        "hex_value": "#99291E"
+      },
+      {
+        "display_name": "Mirage",
+        "paint_code": "BLVC11",
+        "slug": "mirage-blvc11",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/mirage-blvc11/",
+        "source_label": "PaintScratch 1974 BMC",
+        "hex_value": "#EADCED"
+      },
+      {
+        "display_name": "Bronze Yellow",
+        "paint_code": "BLVC15",
+        "slug": "bronze-yellow-blvc15",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/bronze-yellow-blvc15/",
+        "source_label": "PaintScratch 1974 BMC",
+        "hex_value": "#F9BC79"
+      },
+      {
+        "display_name": "Blaze Red",
+        "paint_code": "BLVC16",
+        "slug": "blaze-red-blvc16",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/blaze-red-blvc16/",
+        "source_label": "PaintScratch 1974 BMC",
+        "hex_value": "#EF442D"
+      },
+      {
+        "display_name": "Harvest Gold",
+        "paint_code": "BLVC19",
+        "slug": "harvest-gold-blvc19",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/harvest-gold-blvc19/",
+        "source_label": "PaintScratch 1974 BMC",
+        "hex_value": "#FDEFAB"
+      },
+      {
+        "display_name": "Glacier White",
+        "paint_code": "BLVC59",
+        "slug": "glacier-white-blvc59",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/glacier-white-blvc59/",
+        "source_label": "PaintScratch 1974 BMC",
+        "hex_value": "#F7FCFF"
+      },
+      {
+        "display_name": "Tahiti Blue",
+        "paint_code": "BLVC65",
+        "slug": "tahiti-blue-blvc65",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/tahiti-blue-blvc65/",
+        "source_label": "PaintScratch 1974 BMC",
+        "hex_value": "#7B94EE"
+      },
+      {
+        "display_name": "Bracken (Yellow Gold)",
+        "paint_code": "BLVC93",
+        "slug": "bracken-yellow-gold-blvc93",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/bracken-yellow-gold-blvc93/",
+        "source_label": "PaintScratch 1974 BMC",
+        "hex_value": "#CD8111"
+      },
+      {
+        "display_name": "Tundra",
+        "paint_code": "BLVC94",
+        "slug": "tundra-blvc94",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/tundra-blvc94/",
+        "source_label": "PaintScratch 1974 BMC",
+        "hex_value": "#5C6A35"
+      },
+      {
+        "display_name": "Aconite (Purple)",
+        "paint_code": "BLVC95",
+        "slug": "aconite-purple-blvc95",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/aconite-purple-blvc95/",
+        "source_label": "PaintScratch 1974 BMC",
+        "hex_value": "#503665"
+      },
+      {
+        "display_name": "Brazil Metallic",
+        "paint_code": "BLVC109",
+        "slug": "brazil-metallic-blvc109",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/brazil-metallic-blvc109/",
+        "source_label": "PaintScratch 1974 BMC",
+        "hex_value": "#9F938B"
+      },
+      {
+        "display_name": "Cosmic Blue Metallic",
+        "paint_code": "BLVC111",
+        "slug": "cosmic-blue-metallic-blvc111",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/cosmic-blue-metallic-blvc111/",
+        "source_label": "PaintScratch 1974 BMC",
+        "hex_value": "#1D4465"
+      }
+    ],
+    "1975": [
+      {
+        "display_name": "Black",
+        "paint_code": "BLBK1",
+        "slug": "black-blbk1",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/black-blbk1/",
+        "source_label": "PaintScratch 1975 BMC",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Damask Red",
+        "paint_code": "BLRD5",
+        "slug": "damask-red-blrd5",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/damask-red-blrd5/",
+        "source_label": "PaintScratch 1975 BMC",
+        "hex_value": "#99291E"
+      },
+      {
+        "display_name": "Mirage",
+        "paint_code": "BLVC11",
+        "slug": "mirage-blvc11",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/mirage-blvc11/",
+        "source_label": "PaintScratch 1975 BMC",
+        "hex_value": "#EADCED"
+      },
+      {
+        "display_name": "Bronze Yellow",
+        "paint_code": "BLVC15",
+        "slug": "bronze-yellow-blvc15",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/bronze-yellow-blvc15/",
+        "source_label": "PaintScratch 1975 BMC",
+        "hex_value": "#F9BC79"
+      },
+      {
+        "display_name": "Harvest Gold",
+        "paint_code": "BLVC19",
+        "slug": "harvest-gold-blvc19",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/harvest-gold-blvc19/",
+        "source_label": "PaintScratch 1975 BMC",
+        "hex_value": "#FDEFAB"
+      },
+      {
+        "display_name": "Aurora (Rose) Metallic",
+        "paint_code": "BLVC43",
+        "slug": "aurora-rose-metallic-blvc43",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/aurora-rose-metallic-blvc43/",
+        "source_label": "PaintScratch 1975 BMC",
+        "hex_value": "#A86666"
+      },
+      {
+        "display_name": "Glacier White",
+        "paint_code": "BLVC59",
+        "slug": "glacier-white-blvc59",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/glacier-white-blvc59/",
+        "source_label": "PaintScratch 1975 BMC",
+        "hex_value": "#F7FCFF"
+      },
+      {
+        "display_name": "Tahiti Blue",
+        "paint_code": "BLVC65",
+        "slug": "tahiti-blue-blvc65",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/tahiti-blue-blvc65/",
+        "source_label": "PaintScratch 1975 BMC",
+        "hex_value": "#7B94EE"
+      },
+      {
+        "display_name": "Bracken (Yellow Gold)",
+        "paint_code": "BLVC93",
+        "slug": "bracken-yellow-gold-blvc93",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/bracken-yellow-gold-blvc93/",
+        "source_label": "PaintScratch 1975 BMC",
+        "hex_value": "#CD8111"
+      },
+      {
+        "display_name": "Tundra",
+        "paint_code": "BLVC94",
+        "slug": "tundra-blvc94",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/tundra-blvc94/",
+        "source_label": "PaintScratch 1975 BMC",
+        "hex_value": "#5C6A35"
+      },
+      {
+        "display_name": "Aconite (Purple)",
+        "paint_code": "BLVC95",
+        "slug": "aconite-purple-blvc95",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/aconite-purple-blvc95/",
+        "source_label": "PaintScratch 1975 BMC",
+        "hex_value": "#503665"
+      },
+      {
+        "display_name": "Brazil Metallic",
+        "paint_code": "BLVC109",
+        "slug": "brazil-metallic-blvc109",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/brazil-metallic-blvc109/",
+        "source_label": "PaintScratch 1975 BMC",
+        "hex_value": "#9F938B"
+      },
+      {
+        "display_name": "Cosmic Blue Metallic",
+        "paint_code": "BLVC111",
+        "slug": "cosmic-blue-metallic-blvc111",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/cosmic-blue-metallic-blvc111/",
+        "source_label": "PaintScratch 1975 BMC",
+        "hex_value": "#1D4465"
+      }
+    ],
+    "1976": [
+      {
+        "display_name": "Black",
+        "paint_code": "BLBK1",
+        "slug": "black-blbk1",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/black-blbk1/",
+        "source_label": "PaintScratch 1976 BMC",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Glacier White",
+        "paint_code": "BLVC59",
+        "slug": "glacier-white-blvc59",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/glacier-white-blvc59/",
+        "source_label": "PaintScratch 1976 BMC",
+        "hex_value": "#F7FCFF"
+      },
+      {
+        "display_name": "Tahiti Blue",
+        "paint_code": "BLVC65",
+        "slug": "tahiti-blue-blvc65",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/tahiti-blue-blvc65/",
+        "source_label": "PaintScratch 1976 BMC",
+        "hex_value": "#7B94EE"
+      },
+      {
+        "display_name": "Astral Blue Metallic",
+        "paint_code": "BLVC140",
+        "slug": "astral-blue-metallic-blvc140",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/astral-blue-metallic-blvc140/",
+        "source_label": "PaintScratch 1976 BMC",
+        "hex_value": "#314E69"
+      },
+      {
+        "display_name": "Jade Green Metallic",
+        "paint_code": "BLVC144",
+        "slug": "jade-green-metallic-blvc144",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/jade-green-metallic-blvc144/",
+        "source_label": "PaintScratch 1976 BMC",
+        "hex_value": "#2A3F50"
+      }
+    ],
+    "1977": [
+      {
+        "display_name": "Caramel Metallic",
+        "paint_code": "275",
+        "slug": "caramel-metallic-275",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/caramel-metallic-275/",
+        "source_label": "PaintScratch 1977 BMC",
+        "hex_value": "#67604F"
+      },
+      {
+        "display_name": "Coral Metallic",
+        "paint_code": "279",
+        "slug": "coral-metallic-279",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/coral-metallic-279/",
+        "source_label": "PaintScratch 1977 BMC",
+        "hex_value": "#6A453A"
+      },
+      {
+        "display_name": "Silver Sand Metallic",
+        "paint_code": "280",
+        "slug": "silver-sand-metallic-280",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/silver-sand-metallic-280/",
+        "source_label": "PaintScratch 1977 BMC",
+        "hex_value": "#B9BBBF"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "BLBK1",
+        "slug": "black-blbk1",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/black-blbk1/",
+        "source_label": "PaintScratch 1977 BMC",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Glacier White",
+        "paint_code": "BLVC59",
+        "slug": "glacier-white-blvc59",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/glacier-white-blvc59/",
+        "source_label": "PaintScratch 1977 BMC",
+        "hex_value": "#F7FCFF"
+      },
+      {
+        "display_name": "Tahiti Blue",
+        "paint_code": "BLVC65",
+        "slug": "tahiti-blue-blvc65",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/tahiti-blue-blvc65/",
+        "source_label": "PaintScratch 1977 BMC",
+        "hex_value": "#7B94EE"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "BLVC202",
+        "slug": "silver-metallic-blvc202",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/silver-metallic-blvc202/",
+        "source_label": "PaintScratch 1977 BMC",
+        "hex_value": "#999DA5"
+      }
+    ],
+    "1978": [
+      {
+        "display_name": "Black",
+        "paint_code": "BLBK1",
+        "slug": "black-blbk1",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/black-blbk1/",
+        "source_label": "PaintScratch 1978 BMC",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Tahiti Blue",
+        "paint_code": "BLVC65",
+        "slug": "tahiti-blue-blvc65",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/tahiti-blue-blvc65/",
+        "source_label": "PaintScratch 1978 BMC",
+        "hex_value": "#7B94EE"
+      },
+      {
+        "display_name": "Green Metallic",
+        "paint_code": "BLVC145",
+        "slug": "green-metallic-blvc145",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/green-metallic-blvc145/",
+        "source_label": "PaintScratch 1978 BMC",
+        "hex_value": "#267B1F"
+      },
+      {
+        "display_name": "Tara Green Metallic",
+        "paint_code": "BLVC148",
+        "slug": "tara-green-metallic-blvc148",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/tara-green-metallic-blvc148/",
+        "source_label": "PaintScratch 1978 BMC",
+        "hex_value": "#547551"
+      },
+      {
+        "display_name": "Pageant Blue",
+        "paint_code": "BLVC224",
+        "slug": "pageant-blue-blvc224",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/pageant-blue-blvc224/",
+        "source_label": "PaintScratch 1978 BMC",
+        "hex_value": "#3480A0"
+      },
+      {
+        "display_name": "Green",
+        "paint_code": "BLVC228",
+        "slug": "green-blvc228",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/green-blvc228/",
+        "source_label": "PaintScratch 1978 BMC",
+        "hex_value": "#226E2B"
+      },
+      {
+        "display_name": "Snapdragon",
+        "paint_code": "BLVC235",
+        "slug": "snapdragon-blvc235",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/snapdragon-blvc235/",
+        "source_label": "PaintScratch 1978 BMC",
+        "hex_value": "#FCD87A"
+      },
+      {
+        "display_name": "Leyland White",
+        "paint_code": "BLVC243",
+        "slug": "leyland-white-blvc243",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/leyland-white-blvc243/",
+        "source_label": "PaintScratch 1978 BMC",
+        "hex_value": "#EEEEEE"
+      }
+    ],
+    "1979": [
+      {
+        "display_name": "Black",
+        "paint_code": "BLBK1",
+        "slug": "black-blbk1",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/black-blbk1/",
+        "source_label": "PaintScratch 1979 BMC",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Pageant Blue",
+        "paint_code": "BLVC224",
+        "slug": "pageant-blue-blvc224",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/pageant-blue-blvc224/",
+        "source_label": "PaintScratch 1979 BMC",
+        "hex_value": "#3480A0"
+      },
+      {
+        "display_name": "Snapdragon",
+        "paint_code": "BLVC235",
+        "slug": "snapdragon-blvc235",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/snapdragon-blvc235/",
+        "source_label": "PaintScratch 1979 BMC",
+        "hex_value": "#FCD87A"
+      },
+      {
+        "display_name": "Persian Aqua Metallic",
+        "paint_code": "BLVC241",
+        "slug": "persian-aqua-metallic-blvc241",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/persian-aqua-metallic-blvc241/",
+        "source_label": "PaintScratch 1979 BMC",
+        "hex_value": "#3C6861"
+      },
+      {
+        "display_name": "Leyland White",
+        "paint_code": "BLVC243",
+        "slug": "leyland-white-blvc243",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/leyland-white-blvc243/",
+        "source_label": "PaintScratch 1979 BMC",
+        "hex_value": "#EEEEEE"
+      }
+    ],
+    "1980": [
+      {
+        "display_name": "Pageant Blue",
+        "paint_code": "BLVC224",
+        "slug": "pageant-blue-blvc224",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/pageant-blue-blvc224/",
+        "source_label": "PaintScratch 1980 BMC",
+        "hex_value": "#3480A0"
+      },
+      {
+        "display_name": "Snapdragon",
+        "paint_code": "BLVC235",
+        "slug": "snapdragon-blvc235",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/snapdragon-blvc235/",
+        "source_label": "PaintScratch 1980 BMC",
+        "hex_value": "#FCD87A"
+      },
+      {
+        "display_name": "Persian Aqua Metallic",
+        "paint_code": "BLVC241",
+        "slug": "persian-aqua-metallic-blvc241",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/persian-aqua-metallic-blvc241/",
+        "source_label": "PaintScratch 1980 BMC",
+        "hex_value": "#3C6861"
+      },
+      {
+        "display_name": "Leyland White",
+        "paint_code": "BLVC243",
+        "slug": "leyland-white-blvc243",
+        "reference_url": "https://www.paintscratch.com/colors/bmc/leyland-white-blvc243/",
+        "source_label": "PaintScratch 1980 BMC",
+        "hex_value": "#EEEEEE"
+      }
+    ]
+  }
+}

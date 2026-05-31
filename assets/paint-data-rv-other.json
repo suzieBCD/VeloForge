@@ -1,0 +1,2488 @@
+{
+  "All Models": {
+    "2002": [
+      {
+        "display_name": "Dark Green",
+        "paint_code": "43832",
+        "slug": "dark-green-43832",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/dark-green-43832/",
+        "source_label": "PaintScratch 2002 RV-Other",
+        "hex_value": "#15350F"
+      }
+    ],
+    "2003": [
+      {
+        "display_name": "Gold",
+        "paint_code": "54697",
+        "slug": "gold-54697",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/gold-54697/",
+        "source_label": "PaintScratch 2003 RV-Other",
+        "hex_value": "#E3BD25"
+      },
+      {
+        "display_name": "Dark Green",
+        "paint_code": "43832",
+        "slug": "dark-green-43832",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/dark-green-43832/",
+        "source_label": "PaintScratch 2003 RV-Other",
+        "hex_value": "#15350F"
+      },
+      {
+        "display_name": "Light Green",
+        "paint_code": "98N-50381",
+        "slug": "light-green-98n-50381",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/light-green-98n-50381/",
+        "source_label": "PaintScratch 2003 RV-Other",
+        "hex_value": "#D9EBB7"
+      },
+      {
+        "display_name": "Dark Beige Metallic",
+        "paint_code": "98N-57776",
+        "slug": "dark-beige-metallic-98n-57776",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/dark-beige-metallic-98n-57776/",
+        "source_label": "PaintScratch 2003 RV-Other",
+        "hex_value": "#E9D9A1"
+      }
+    ],
+    "2004": [
+      {
+        "display_name": "Dark Green",
+        "paint_code": "43832",
+        "slug": "dark-green-43832",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/dark-green-43832/",
+        "source_label": "PaintScratch 2004 RV-Other",
+        "hex_value": "#15350F"
+      }
+    ],
+    "2005": [
+      {
+        "display_name": "Maroon-782198K",
+        "paint_code": "82168",
+        "slug": "maroon-782198k-82168",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/maroon-782198k-82168/",
+        "source_label": "PaintScratch 2005 RV-Other",
+        "hex_value": "#761C1A"
+      },
+      {
+        "display_name": "Silver Blue (PPG 979854)",
+        "paint_code": "77522",
+        "slug": "silver-blue-ppg-979854-77522",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/silver-blue-ppg-979854-77522/",
+        "source_label": "PaintScratch 2005 RV-Other",
+        "hex_value": "#CAD1D8"
+      },
+      {
+        "display_name": "Prescott Gray Metallic",
+        "paint_code": "77351",
+        "slug": "prescott-gray-metallic-77351",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/prescott-gray-metallic-77351/",
+        "source_label": "PaintScratch 2005 RV-Other",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Ebony Satin",
+        "paint_code": "5162",
+        "slug": "ebony-satin-5162",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/ebony-satin-5162/",
+        "source_label": "PaintScratch 2005 RV-Other",
+        "hex_value": "#202020"
+      },
+      {
+        "display_name": "Dark Green",
+        "paint_code": "43832",
+        "slug": "dark-green-43832",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/dark-green-43832/",
+        "source_label": "PaintScratch 2005 RV-Other",
+        "hex_value": "#15350F"
+      },
+      {
+        "display_name": "Black PPG 5162",
+        "paint_code": "M8-51379",
+        "slug": "black-ppg-5162-m8-51379",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/black-ppg-5162-m8-51379/",
+        "source_label": "PaintScratch 2005 RV-Other",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Prescott Grey PPG5153",
+        "paint_code": "M8N-52605",
+        "slug": "prescott-grey-ppg5153-m8n-52605",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/prescott-grey-ppg5153-m8n-52605/",
+        "source_label": "PaintScratch 2005 RV-Other",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Beige PPG 5544",
+        "paint_code": "M8-58543",
+        "slug": "beige-ppg-5544-m8-58543",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/beige-ppg-5544-m8-58543/",
+        "source_label": "PaintScratch 2005 RV-Other",
+        "hex_value": "#E9D9A1"
+      }
+    ],
+    "2006": [
+      {
+        "display_name": "Ebony Satin (PPG 941018)",
+        "paint_code": "77528",
+        "slug": "ebony-satin-ppg-941018-77528",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/ebony-satin-ppg-941018-77528/",
+        "source_label": "PaintScratch 2006 RV-Other",
+        "hex_value": "#202020"
+      },
+      {
+        "display_name": "Sunlit Sand",
+        "paint_code": "77347",
+        "slug": "sunlit-sand-77347",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/sunlit-sand-77347/",
+        "source_label": "PaintScratch 2006 RV-Other",
+        "hex_value": "#E7DFC5"
+      },
+      {
+        "display_name": "Brown",
+        "paint_code": "77529",
+        "slug": "brown-77529",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/brown-77529/",
+        "source_label": "PaintScratch 2006 RV-Other",
+        "hex_value": "#987358"
+      },
+      {
+        "display_name": "Silky Tan",
+        "paint_code": "761046K",
+        "slug": "silky-tan-761046k",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/silky-tan-761046k/",
+        "source_label": "PaintScratch 2006 RV-Other",
+        "hex_value": "#E9D9A1"
+      },
+      {
+        "display_name": "Summer Dust",
+        "paint_code": "776871K",
+        "slug": "summer-dust-776871k",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/summer-dust-776871k/",
+        "source_label": "PaintScratch 2006 RV-Other",
+        "hex_value": "#E9D9A1"
+      },
+      {
+        "display_name": "Light Beige",
+        "paint_code": "M7176A",
+        "slug": "light-beige-m7176a",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/light-beige-m7176a/",
+        "source_label": "PaintScratch 2006 RV-Other",
+        "hex_value": "#E7DFC5"
+      },
+      {
+        "display_name": "Dark Green",
+        "paint_code": "43832",
+        "slug": "dark-green-43832",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/dark-green-43832/",
+        "source_label": "PaintScratch 2006 RV-Other",
+        "hex_value": "#15350F"
+      },
+      {
+        "display_name": "Titanium Pearl",
+        "paint_code": "58148-2",
+        "slug": "titanium-pearl-58148-2",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/titanium-pearl-58148-2/",
+        "source_label": "PaintScratch 2006 RV-Other",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Dark Brown",
+        "paint_code": "M8W",
+        "slug": "dark-brown-m8w",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/dark-brown-m8w/",
+        "source_label": "PaintScratch 2006 RV-Other",
+        "hex_value": "#985636"
+      },
+      {
+        "display_name": "Maroon",
+        "paint_code": "PPG 4596",
+        "slug": "maroon-ppg-4596",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/maroon-ppg-4596/",
+        "source_label": "PaintScratch 2006 RV-Other",
+        "hex_value": "#761C1A"
+      },
+      {
+        "display_name": "Light Sage",
+        "paint_code": "34386",
+        "slug": "light-sage-34386",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/light-sage-34386/",
+        "source_label": "PaintScratch 2006 RV-Other",
+        "hex_value": "#D9EBB7"
+      },
+      {
+        "display_name": "White",
+        "paint_code": "39157",
+        "slug": "white-39157",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/white-39157/",
+        "source_label": "PaintScratch 2006 RV-Other",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Silver Green",
+        "paint_code": "53915",
+        "slug": "silver-green-53915",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/silver-green-53915/",
+        "source_label": "PaintScratch 2006 RV-Other",
+        "hex_value": "#D6E0F8"
+      },
+      {
+        "display_name": "Champagne Pearl",
+        "paint_code": "57056",
+        "slug": "champagne-pearl-57056",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/champagne-pearl-57056/",
+        "source_label": "PaintScratch 2006 RV-Other",
+        "hex_value": "#E9D9A1"
+      },
+      {
+        "display_name": "Charcoal",
+        "paint_code": "57616",
+        "slug": "charcoal-57616",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/charcoal-57616/",
+        "source_label": "PaintScratch 2006 RV-Other",
+        "hex_value": "#202020"
+      }
+    ],
+    "2007": [
+      {
+        "display_name": "Ebony Satin (PPG 941018)",
+        "paint_code": "77528",
+        "slug": "ebony-satin-ppg-941018-77528",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/ebony-satin-ppg-941018-77528/",
+        "source_label": "PaintScratch 2007 RV-Other",
+        "hex_value": "#202020"
+      },
+      {
+        "display_name": "Silver Blue (PPG 979854)",
+        "paint_code": "77522",
+        "slug": "silver-blue-ppg-979854-77522",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/silver-blue-ppg-979854-77522/",
+        "source_label": "PaintScratch 2007 RV-Other",
+        "hex_value": "#CAD1D8"
+      },
+      {
+        "display_name": "Brown",
+        "paint_code": "77529",
+        "slug": "brown-77529",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/brown-77529/",
+        "source_label": "PaintScratch 2007 RV-Other",
+        "hex_value": "#987358"
+      },
+      {
+        "display_name": "Silky Tan",
+        "paint_code": "761046K",
+        "slug": "silky-tan-761046k",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/silky-tan-761046k/",
+        "source_label": "PaintScratch 2007 RV-Other",
+        "hex_value": "#E9D9A1"
+      },
+      {
+        "display_name": "Summer Dust",
+        "paint_code": "776871K",
+        "slug": "summer-dust-776871k",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/summer-dust-776871k/",
+        "source_label": "PaintScratch 2007 RV-Other",
+        "hex_value": "#E9D9A1"
+      },
+      {
+        "display_name": "Light Beige",
+        "paint_code": "M7176A",
+        "slug": "light-beige-m7176a",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/light-beige-m7176a/",
+        "source_label": "PaintScratch 2007 RV-Other",
+        "hex_value": "#E7DFC5"
+      },
+      {
+        "display_name": "Charcoal",
+        "paint_code": "40888",
+        "slug": "charcoal-40888",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/charcoal-40888/",
+        "source_label": "PaintScratch 2007 RV-Other",
+        "hex_value": "#202020"
+      },
+      {
+        "display_name": "Dark Green",
+        "paint_code": "43832",
+        "slug": "dark-green-43832",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/dark-green-43832/",
+        "source_label": "PaintScratch 2007 RV-Other",
+        "hex_value": "#15350F"
+      },
+      {
+        "display_name": "Dark Brown",
+        "paint_code": "M8W",
+        "slug": "dark-brown-m8w",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/dark-brown-m8w/",
+        "source_label": "PaintScratch 2007 RV-Other",
+        "hex_value": "#985636"
+      },
+      {
+        "display_name": "Medium Gray",
+        "paint_code": "761036K",
+        "slug": "medium-gray-761036k",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/medium-gray-761036k/",
+        "source_label": "PaintScratch 2007 RV-Other",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Charcoal",
+        "paint_code": "761037K",
+        "slug": "charcoal-761037k",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/charcoal-761037k/",
+        "source_label": "PaintScratch 2007 RV-Other",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Cloud Gray",
+        "paint_code": "761057K",
+        "slug": "cloud-gray-761057k",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/cloud-gray-761057k/",
+        "source_label": "PaintScratch 2007 RV-Other",
+        "hex_value": "#ABAEB5"
+      },
+      {
+        "display_name": "Slate Gray",
+        "paint_code": "1031726",
+        "slug": "slate-gray-1031726",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/slate-gray-1031726/",
+        "source_label": "PaintScratch 2007 RV-Other",
+        "hex_value": "#495EA3"
+      },
+      {
+        "display_name": "Medium Gray",
+        "paint_code": "MM318K",
+        "slug": "medium-gray-mm318k",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/medium-gray-mm318k/",
+        "source_label": "PaintScratch 2007 RV-Other",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Gray",
+        "paint_code": "MM428K",
+        "slug": "gray-mm428k",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/gray-mm428k/",
+        "source_label": "PaintScratch 2007 RV-Other",
+        "hex_value": "#C0C0C0"
+      }
+    ],
+    "2008": [
+      {
+        "display_name": "Ebony Satin (PPG 941018)",
+        "paint_code": "77528",
+        "slug": "ebony-satin-ppg-941018-77528",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/ebony-satin-ppg-941018-77528/",
+        "source_label": "PaintScratch 2008 RV-Other",
+        "hex_value": "#202020"
+      },
+      {
+        "display_name": "Sunlit Sand",
+        "paint_code": "77347",
+        "slug": "sunlit-sand-77347",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/sunlit-sand-77347/",
+        "source_label": "PaintScratch 2008 RV-Other",
+        "hex_value": "#E7DFC5"
+      },
+      {
+        "display_name": "Gold-946699",
+        "paint_code": "77352",
+        "slug": "gold-946699-77352",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/gold-946699-77352/",
+        "source_label": "PaintScratch 2008 RV-Other",
+        "hex_value": "#E3BD25"
+      },
+      {
+        "display_name": "Silver Blue (PPG 979854)",
+        "paint_code": "77522",
+        "slug": "silver-blue-ppg-979854-77522",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/silver-blue-ppg-979854-77522/",
+        "source_label": "PaintScratch 2008 RV-Other",
+        "hex_value": "#CAD1D8"
+      },
+      {
+        "display_name": "Brown",
+        "paint_code": "77529",
+        "slug": "brown-77529",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/brown-77529/",
+        "source_label": "PaintScratch 2008 RV-Other",
+        "hex_value": "#987358"
+      },
+      {
+        "display_name": "Silky Tan",
+        "paint_code": "761046K",
+        "slug": "silky-tan-761046k",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/silky-tan-761046k/",
+        "source_label": "PaintScratch 2008 RV-Other",
+        "hex_value": "#E9D9A1"
+      },
+      {
+        "display_name": "Summer Dust",
+        "paint_code": "776871K",
+        "slug": "summer-dust-776871k",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/summer-dust-776871k/",
+        "source_label": "PaintScratch 2008 RV-Other",
+        "hex_value": "#E9D9A1"
+      },
+      {
+        "display_name": "Light Beige",
+        "paint_code": "M7176A",
+        "slug": "light-beige-m7176a",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/light-beige-m7176a/",
+        "source_label": "PaintScratch 2008 RV-Other",
+        "hex_value": "#E7DFC5"
+      },
+      {
+        "display_name": "Dark Green",
+        "paint_code": "43832",
+        "slug": "dark-green-43832",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/dark-green-43832/",
+        "source_label": "PaintScratch 2008 RV-Other",
+        "hex_value": "#15350F"
+      },
+      {
+        "display_name": "Beige",
+        "paint_code": "570219K",
+        "slug": "beige-570219k",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/beige-570219k/",
+        "source_label": "PaintScratch 2008 RV-Other",
+        "hex_value": "#E9D9A1"
+      },
+      {
+        "display_name": "Dark Brown",
+        "paint_code": "M8W",
+        "slug": "dark-brown-m8w",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/dark-brown-m8w/",
+        "source_label": "PaintScratch 2008 RV-Other",
+        "hex_value": "#985636"
+      },
+      {
+        "display_name": "Charcoal",
+        "paint_code": "761037K",
+        "slug": "charcoal-761037k",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/charcoal-761037k/",
+        "source_label": "PaintScratch 2008 RV-Other",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Cloud Gray",
+        "paint_code": "761057K",
+        "slug": "cloud-gray-761057k",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/cloud-gray-761057k/",
+        "source_label": "PaintScratch 2008 RV-Other",
+        "hex_value": "#ABAEB5"
+      },
+      {
+        "display_name": "Platinum Effect",
+        "paint_code": "764406K",
+        "slug": "platinum-effect-764406k",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/platinum-effect-764406k/",
+        "source_label": "PaintScratch 2008 RV-Other",
+        "hex_value": "#404040"
+      },
+      {
+        "display_name": "Maroon",
+        "paint_code": "933622",
+        "slug": "maroon-933622",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/maroon-933622/",
+        "source_label": "PaintScratch 2008 RV-Other",
+        "hex_value": "#761C1A"
+      }
+    ],
+    "2009": [
+      {
+        "display_name": "Ebony Satin (PPG 941018)",
+        "paint_code": "77528",
+        "slug": "ebony-satin-ppg-941018-77528",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/ebony-satin-ppg-941018-77528/",
+        "source_label": "PaintScratch 2009 RV-Other",
+        "hex_value": "#202020"
+      },
+      {
+        "display_name": "Sunlit Sand",
+        "paint_code": "77347",
+        "slug": "sunlit-sand-77347",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/sunlit-sand-77347/",
+        "source_label": "PaintScratch 2009 RV-Other",
+        "hex_value": "#E7DFC5"
+      },
+      {
+        "display_name": "Silky Tan",
+        "paint_code": "761046K",
+        "slug": "silky-tan-761046k",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/silky-tan-761046k/",
+        "source_label": "PaintScratch 2009 RV-Other",
+        "hex_value": "#E9D9A1"
+      },
+      {
+        "display_name": "Summer Dust",
+        "paint_code": "776871K",
+        "slug": "summer-dust-776871k",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/summer-dust-776871k/",
+        "source_label": "PaintScratch 2009 RV-Other",
+        "hex_value": "#E9D9A1"
+      },
+      {
+        "display_name": "Light Beige",
+        "paint_code": "M7176A",
+        "slug": "light-beige-m7176a",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/light-beige-m7176a/",
+        "source_label": "PaintScratch 2009 RV-Other",
+        "hex_value": "#E7DFC5"
+      },
+      {
+        "display_name": "Dark Green",
+        "paint_code": "43832",
+        "slug": "dark-green-43832",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/dark-green-43832/",
+        "source_label": "PaintScratch 2009 RV-Other",
+        "hex_value": "#15350F"
+      },
+      {
+        "display_name": "Dark Brown",
+        "paint_code": "M8W",
+        "slug": "dark-brown-m8w",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/dark-brown-m8w/",
+        "source_label": "PaintScratch 2009 RV-Other",
+        "hex_value": "#985636"
+      },
+      {
+        "display_name": "Charcoal",
+        "paint_code": "761037K",
+        "slug": "charcoal-761037k",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/charcoal-761037k/",
+        "source_label": "PaintScratch 2009 RV-Other",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Cloud Gray",
+        "paint_code": "761057K",
+        "slug": "cloud-gray-761057k",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/cloud-gray-761057k/",
+        "source_label": "PaintScratch 2009 RV-Other",
+        "hex_value": "#ABAEB5"
+      },
+      {
+        "display_name": "Platinum Effect",
+        "paint_code": "764406K",
+        "slug": "platinum-effect-764406k",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/platinum-effect-764406k/",
+        "source_label": "PaintScratch 2009 RV-Other",
+        "hex_value": "#404040"
+      }
+    ],
+    "2010": [
+      {
+        "display_name": "Ebony Satin (PPG 941018)",
+        "paint_code": "77528",
+        "slug": "ebony-satin-ppg-941018-77528",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/ebony-satin-ppg-941018-77528/",
+        "source_label": "PaintScratch 2010 RV-Other",
+        "hex_value": "#202020"
+      },
+      {
+        "display_name": "Sunlit Sand",
+        "paint_code": "77347",
+        "slug": "sunlit-sand-77347",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/sunlit-sand-77347/",
+        "source_label": "PaintScratch 2010 RV-Other",
+        "hex_value": "#E7DFC5"
+      },
+      {
+        "display_name": "Gold-946699",
+        "paint_code": "77352",
+        "slug": "gold-946699-77352",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/gold-946699-77352/",
+        "source_label": "PaintScratch 2010 RV-Other",
+        "hex_value": "#E3BD25"
+      },
+      {
+        "display_name": "Goldfire Mist",
+        "paint_code": "PPG 5383",
+        "slug": "goldfire-mist-ppg-5383",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/goldfire-mist-ppg-5383/",
+        "source_label": "PaintScratch 2010 RV-Other",
+        "hex_value": "#E3BD25"
+      },
+      {
+        "display_name": "Brown",
+        "paint_code": "77529",
+        "slug": "brown-77529",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/brown-77529/",
+        "source_label": "PaintScratch 2010 RV-Other",
+        "hex_value": "#987358"
+      },
+      {
+        "display_name": "Silky Tan",
+        "paint_code": "761046K",
+        "slug": "silky-tan-761046k",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/silky-tan-761046k/",
+        "source_label": "PaintScratch 2010 RV-Other",
+        "hex_value": "#E9D9A1"
+      },
+      {
+        "display_name": "Summer Dust",
+        "paint_code": "776871K",
+        "slug": "summer-dust-776871k",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/summer-dust-776871k/",
+        "source_label": "PaintScratch 2010 RV-Other",
+        "hex_value": "#E9D9A1"
+      },
+      {
+        "display_name": "Light Beige",
+        "paint_code": "M7176A",
+        "slug": "light-beige-m7176a",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/light-beige-m7176a/",
+        "source_label": "PaintScratch 2010 RV-Other",
+        "hex_value": "#E7DFC5"
+      },
+      {
+        "display_name": "Dark Green",
+        "paint_code": "43832",
+        "slug": "dark-green-43832",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/dark-green-43832/",
+        "source_label": "PaintScratch 2010 RV-Other",
+        "hex_value": "#15350F"
+      },
+      {
+        "display_name": "Dark Brown",
+        "paint_code": "M8W",
+        "slug": "dark-brown-m8w",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/dark-brown-m8w/",
+        "source_label": "PaintScratch 2010 RV-Other",
+        "hex_value": "#985636"
+      },
+      {
+        "display_name": "Gold",
+        "paint_code": "RB1022",
+        "slug": "gold-rb1022",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/gold-rb1022/",
+        "source_label": "PaintScratch 2010 RV-Other",
+        "hex_value": "#E3BD25"
+      },
+      {
+        "display_name": "Charcoal",
+        "paint_code": "761037K",
+        "slug": "charcoal-761037k",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/charcoal-761037k/",
+        "source_label": "PaintScratch 2010 RV-Other",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Cloud Gray",
+        "paint_code": "761057K",
+        "slug": "cloud-gray-761057k",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/cloud-gray-761057k/",
+        "source_label": "PaintScratch 2010 RV-Other",
+        "hex_value": "#ABAEB5"
+      },
+      {
+        "display_name": "Platinum Effect",
+        "paint_code": "764406K",
+        "slug": "platinum-effect-764406k",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/platinum-effect-764406k/",
+        "source_label": "PaintScratch 2010 RV-Other",
+        "hex_value": "#404040"
+      }
+    ],
+    "2011": [
+      {
+        "display_name": "Ebony Satin (PPG 941018)",
+        "paint_code": "77528",
+        "slug": "ebony-satin-ppg-941018-77528",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/ebony-satin-ppg-941018-77528/",
+        "source_label": "PaintScratch 2011 RV-Other",
+        "hex_value": "#202020"
+      },
+      {
+        "display_name": "White Chocolate",
+        "paint_code": "81446C",
+        "slug": "white-chocolate-81446c",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/white-chocolate-81446c/",
+        "source_label": "PaintScratch 2011 RV-Other",
+        "hex_value": "#F6F6F0"
+      },
+      {
+        "display_name": "Brown",
+        "paint_code": "77529",
+        "slug": "brown-77529",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/brown-77529/",
+        "source_label": "PaintScratch 2011 RV-Other",
+        "hex_value": "#987358"
+      },
+      {
+        "display_name": "Silky Tan",
+        "paint_code": "761046K",
+        "slug": "silky-tan-761046k",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/silky-tan-761046k/",
+        "source_label": "PaintScratch 2011 RV-Other",
+        "hex_value": "#E9D9A1"
+      },
+      {
+        "display_name": "Summer Dust",
+        "paint_code": "776871K",
+        "slug": "summer-dust-776871k",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/summer-dust-776871k/",
+        "source_label": "PaintScratch 2011 RV-Other",
+        "hex_value": "#E9D9A1"
+      },
+      {
+        "display_name": "Light Beige",
+        "paint_code": "M7176A",
+        "slug": "light-beige-m7176a",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/light-beige-m7176a/",
+        "source_label": "PaintScratch 2011 RV-Other",
+        "hex_value": "#E7DFC5"
+      },
+      {
+        "display_name": "Sunlit Sand PPG934865",
+        "paint_code": "SS1032",
+        "slug": "sunlit-sand-ppg934865-ss1032",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/sunlit-sand-ppg934865-ss1032/",
+        "source_label": "PaintScratch 2011 RV-Other",
+        "hex_value": "#F6F6F0"
+      },
+      {
+        "display_name": "Dark Green",
+        "paint_code": "43832",
+        "slug": "dark-green-43832",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/dark-green-43832/",
+        "source_label": "PaintScratch 2011 RV-Other",
+        "hex_value": "#15350F"
+      },
+      {
+        "display_name": "Dark Brown",
+        "paint_code": "M8W",
+        "slug": "dark-brown-m8w",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/dark-brown-m8w/",
+        "source_label": "PaintScratch 2011 RV-Other",
+        "hex_value": "#985636"
+      },
+      {
+        "display_name": "Gold",
+        "paint_code": "RB1022",
+        "slug": "gold-rb1022",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/gold-rb1022/",
+        "source_label": "PaintScratch 2011 RV-Other",
+        "hex_value": "#E3BD25"
+      },
+      {
+        "display_name": "Charcoal",
+        "paint_code": "761037K",
+        "slug": "charcoal-761037k",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/charcoal-761037k/",
+        "source_label": "PaintScratch 2011 RV-Other",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Cloud Gray",
+        "paint_code": "761057K",
+        "slug": "cloud-gray-761057k",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/cloud-gray-761057k/",
+        "source_label": "PaintScratch 2011 RV-Other",
+        "hex_value": "#ABAEB5"
+      },
+      {
+        "display_name": "Platinum Effect",
+        "paint_code": "764406K",
+        "slug": "platinum-effect-764406k",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/platinum-effect-764406k/",
+        "source_label": "PaintScratch 2011 RV-Other",
+        "hex_value": "#404040"
+      },
+      {
+        "display_name": "Blue Gray (Catalyzed Spray Only)",
+        "paint_code": "BASF946661",
+        "slug": "blue-gray-catalyzed-spray-only-basf946661",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/blue-gray-catalyzed-spray-only-basf946661/",
+        "source_label": "PaintScratch 2011 RV-Other",
+        "hex_value": "#597DF3"
+      }
+    ],
+    "2012": [
+      {
+        "display_name": "Silky Tan",
+        "paint_code": "761046K",
+        "slug": "silky-tan-761046k",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/silky-tan-761046k/",
+        "source_label": "PaintScratch 2012 RV-Other",
+        "hex_value": "#E9D9A1"
+      },
+      {
+        "display_name": "Summer Dust",
+        "paint_code": "776871K",
+        "slug": "summer-dust-776871k",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/summer-dust-776871k/",
+        "source_label": "PaintScratch 2012 RV-Other",
+        "hex_value": "#E9D9A1"
+      },
+      {
+        "display_name": "Light Beige",
+        "paint_code": "M7176A",
+        "slug": "light-beige-m7176a",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/light-beige-m7176a/",
+        "source_label": "PaintScratch 2012 RV-Other",
+        "hex_value": "#E7DFC5"
+      },
+      {
+        "display_name": "Dark Green",
+        "paint_code": "43832",
+        "slug": "dark-green-43832",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/dark-green-43832/",
+        "source_label": "PaintScratch 2012 RV-Other",
+        "hex_value": "#15350F"
+      },
+      {
+        "display_name": "Beige",
+        "paint_code": "CR0",
+        "slug": "beige-cr0",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/beige-cr0/",
+        "source_label": "PaintScratch 2012 RV-Other",
+        "hex_value": "#E9D9A1"
+      },
+      {
+        "display_name": "Dark Beige Metallic",
+        "paint_code": "DM250",
+        "slug": "dark-beige-metallic-dm250",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/dark-beige-metallic-dm250/",
+        "source_label": "PaintScratch 2012 RV-Other",
+        "hex_value": "#C57E3F"
+      },
+      {
+        "display_name": "Dark Brown",
+        "paint_code": "M8W",
+        "slug": "dark-brown-m8w",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/dark-brown-m8w/",
+        "source_label": "PaintScratch 2012 RV-Other",
+        "hex_value": "#985636"
+      },
+      {
+        "display_name": "Gold",
+        "paint_code": "RB1022",
+        "slug": "gold-rb1022",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/gold-rb1022/",
+        "source_label": "PaintScratch 2012 RV-Other",
+        "hex_value": "#E3BD25"
+      },
+      {
+        "display_name": "Sunlite Sand",
+        "paint_code": "SS1133",
+        "slug": "sunlite-sand-ss1133",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/sunlite-sand-ss1133/",
+        "source_label": "PaintScratch 2012 RV-Other",
+        "hex_value": "#E3BD25"
+      },
+      {
+        "display_name": "Brown",
+        "paint_code": "SS1150",
+        "slug": "brown-ss1150",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/brown-ss1150/",
+        "source_label": "PaintScratch 2012 RV-Other",
+        "hex_value": "#C57E3F"
+      },
+      {
+        "display_name": "Charcoal",
+        "paint_code": "761037K",
+        "slug": "charcoal-761037k",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/charcoal-761037k/",
+        "source_label": "PaintScratch 2012 RV-Other",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Cloud Gray",
+        "paint_code": "761057K",
+        "slug": "cloud-gray-761057k",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/cloud-gray-761057k/",
+        "source_label": "PaintScratch 2012 RV-Other",
+        "hex_value": "#ABAEB5"
+      },
+      {
+        "display_name": "Platinum Effect",
+        "paint_code": "764406K",
+        "slug": "platinum-effect-764406k",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/platinum-effect-764406k/",
+        "source_label": "PaintScratch 2012 RV-Other",
+        "hex_value": "#404040"
+      },
+      {
+        "display_name": "Light Brown",
+        "paint_code": "954053",
+        "slug": "light-brown-954053",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/light-brown-954053/",
+        "source_label": "PaintScratch 2012 RV-Other",
+        "hex_value": "#D1A341"
+      },
+      {
+        "display_name": "Beige -27866",
+        "paint_code": "WA9975",
+        "slug": "beige-27866-wa9975",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/beige-27866-wa9975/",
+        "source_label": "PaintScratch 2012 RV-Other",
+        "hex_value": "#E9D9A1"
+      }
+    ],
+    "2013": [
+      {
+        "display_name": "Ebony Satin (PPG 941018)",
+        "paint_code": "77528",
+        "slug": "ebony-satin-ppg-941018-77528",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/ebony-satin-ppg-941018-77528/",
+        "source_label": "PaintScratch 2013 RV-Other",
+        "hex_value": "#202020"
+      },
+      {
+        "display_name": "New Maroon Metallic",
+        "paint_code": "TM2013",
+        "slug": "new-maroon-metallic-tm2013",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/new-maroon-metallic-tm2013/",
+        "source_label": "PaintScratch 2013 RV-Other",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "White Chocolate",
+        "paint_code": "81446C",
+        "slug": "white-chocolate-81446c",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/white-chocolate-81446c/",
+        "source_label": "PaintScratch 2013 RV-Other",
+        "hex_value": "#F6F6F0"
+      },
+      {
+        "display_name": "Brown",
+        "paint_code": "77529",
+        "slug": "brown-77529",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/brown-77529/",
+        "source_label": "PaintScratch 2013 RV-Other",
+        "hex_value": "#987358"
+      },
+      {
+        "display_name": "Summer Dust",
+        "paint_code": "776871K",
+        "slug": "summer-dust-776871k",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/summer-dust-776871k/",
+        "source_label": "PaintScratch 2013 RV-Other",
+        "hex_value": "#E9D9A1"
+      },
+      {
+        "display_name": "Light Beige",
+        "paint_code": "M7176A",
+        "slug": "light-beige-m7176a",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/light-beige-m7176a/",
+        "source_label": "PaintScratch 2013 RV-Other",
+        "hex_value": "#E7DFC5"
+      },
+      {
+        "display_name": "Dark Green",
+        "paint_code": "43832",
+        "slug": "dark-green-43832",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/dark-green-43832/",
+        "source_label": "PaintScratch 2013 RV-Other",
+        "hex_value": "#15350F"
+      },
+      {
+        "display_name": "Beige",
+        "paint_code": "570219K",
+        "slug": "beige-570219k",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/beige-570219k/",
+        "source_label": "PaintScratch 2013 RV-Other",
+        "hex_value": "#E9D9A1"
+      },
+      {
+        "display_name": "Medium Bronze",
+        "paint_code": "869033",
+        "slug": "medium-bronze-869033",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/medium-bronze-869033/",
+        "source_label": "PaintScratch 2013 RV-Other",
+        "hex_value": "#D1A341"
+      },
+      {
+        "display_name": "Maroon",
+        "paint_code": "934463",
+        "slug": "maroon-934463",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/maroon-934463/",
+        "source_label": "PaintScratch 2013 RV-Other",
+        "hex_value": "#761C1A"
+      },
+      {
+        "display_name": "Dark Brown",
+        "paint_code": "M8W",
+        "slug": "dark-brown-m8w",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/dark-brown-m8w/",
+        "source_label": "PaintScratch 2013 RV-Other",
+        "hex_value": "#985636"
+      },
+      {
+        "display_name": "Sunlite Sand",
+        "paint_code": "SS1133",
+        "slug": "sunlite-sand-ss1133",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/sunlite-sand-ss1133/",
+        "source_label": "PaintScratch 2013 RV-Other",
+        "hex_value": "#E3BD25"
+      },
+      {
+        "display_name": "Brown",
+        "paint_code": "SS1150",
+        "slug": "brown-ss1150",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/brown-ss1150/",
+        "source_label": "PaintScratch 2013 RV-Other",
+        "hex_value": "#C57E3F"
+      },
+      {
+        "display_name": "Carbon Flash Black",
+        "paint_code": "806207K",
+        "slug": "carbon-flash-black-806207k",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/carbon-flash-black-806207k/",
+        "source_label": "PaintScratch 2013 RV-Other",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Beige",
+        "paint_code": "869034",
+        "slug": "beige-869034",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/beige-869034/",
+        "source_label": "PaintScratch 2013 RV-Other",
+        "hex_value": "#E9D9A1"
+      }
+    ],
+    "2014": [
+      {
+        "display_name": "Ebony Satin (PPG 941018)",
+        "paint_code": "77528",
+        "slug": "ebony-satin-ppg-941018-77528",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/ebony-satin-ppg-941018-77528/",
+        "source_label": "PaintScratch 2014 RV-Other",
+        "hex_value": "#202020"
+      },
+      {
+        "display_name": "Ebony Satin",
+        "paint_code": "TM0614",
+        "slug": "ebony-satin-tm0614",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/ebony-satin-tm0614/",
+        "source_label": "PaintScratch 2014 RV-Other",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Macadamia Metallic",
+        "paint_code": "RB1120",
+        "slug": "macadamia-metallic-rb1120",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/macadamia-metallic-rb1120/",
+        "source_label": "PaintScratch 2014 RV-Other",
+        "hex_value": "#985636"
+      },
+      {
+        "display_name": "Sahara Gold PPG 979829",
+        "paint_code": "RB1210",
+        "slug": "sahara-gold-ppg-979829-rb1210",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/sahara-gold-ppg-979829-rb1210/",
+        "source_label": "PaintScratch 2014 RV-Other",
+        "hex_value": "#E3BD25"
+      },
+      {
+        "display_name": "Black Garnet",
+        "paint_code": "TM0214",
+        "slug": "black-garnet-tm0214",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/black-garnet-tm0214/",
+        "source_label": "PaintScratch 2014 RV-Other",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "New Maroon Metallic",
+        "paint_code": "TM2013",
+        "slug": "new-maroon-metallic-tm2013",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/new-maroon-metallic-tm2013/",
+        "source_label": "PaintScratch 2014 RV-Other",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "White Chocolate",
+        "paint_code": "81446C",
+        "slug": "white-chocolate-81446c",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/white-chocolate-81446c/",
+        "source_label": "PaintScratch 2014 RV-Other",
+        "hex_value": "#F6F6F0"
+      },
+      {
+        "display_name": "Champagne Mist (PPG 6161)",
+        "paint_code": "YR537P",
+        "slug": "champagne-mist-ppg-6161-yr537p",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/champagne-mist-ppg-6161-yr537p/",
+        "source_label": "PaintScratch 2014 RV-Other",
+        "hex_value": "#F5F4E3"
+      },
+      {
+        "display_name": "Summer Dust",
+        "paint_code": "776871K",
+        "slug": "summer-dust-776871k",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/summer-dust-776871k/",
+        "source_label": "PaintScratch 2014 RV-Other",
+        "hex_value": "#E9D9A1"
+      },
+      {
+        "display_name": "White",
+        "paint_code": "9147",
+        "slug": "white-9147",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/white-9147/",
+        "source_label": "PaintScratch 2014 RV-Other",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Dark Green",
+        "paint_code": "43832",
+        "slug": "dark-green-43832",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/dark-green-43832/",
+        "source_label": "PaintScratch 2014 RV-Other",
+        "hex_value": "#15350F"
+      },
+      {
+        "display_name": "Beige",
+        "paint_code": "570219K",
+        "slug": "beige-570219k",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/beige-570219k/",
+        "source_label": "PaintScratch 2014 RV-Other",
+        "hex_value": "#E9D9A1"
+      },
+      {
+        "display_name": "Medium Bronze",
+        "paint_code": "869033",
+        "slug": "medium-bronze-869033",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/medium-bronze-869033/",
+        "source_label": "PaintScratch 2014 RV-Other",
+        "hex_value": "#D1A341"
+      },
+      {
+        "display_name": "Dark Beige Metallic",
+        "paint_code": "DM250",
+        "slug": "dark-beige-metallic-dm250",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/dark-beige-metallic-dm250/",
+        "source_label": "PaintScratch 2014 RV-Other",
+        "hex_value": "#C57E3F"
+      },
+      {
+        "display_name": "Light Beige",
+        "paint_code": "PPG 6161",
+        "slug": "light-beige-ppg-6161",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/light-beige-ppg-6161/",
+        "source_label": "PaintScratch 2014 RV-Other",
+        "hex_value": "#E7DFC5"
+      },
+      {
+        "display_name": "Sunlite Sand",
+        "paint_code": "SS1133",
+        "slug": "sunlite-sand-ss1133",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/sunlite-sand-ss1133/",
+        "source_label": "PaintScratch 2014 RV-Other",
+        "hex_value": "#E3BD25"
+      }
+    ],
+    "2015": [
+      {
+        "display_name": "Biarritz White-946700",
+        "paint_code": "TM0114",
+        "slug": "biarritz-white-946700-tm0114",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/biarritz-white-946700-tm0114/",
+        "source_label": "PaintScratch 2015 RV-Other",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Ebony Satin",
+        "paint_code": "TM0614",
+        "slug": "ebony-satin-tm0614",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/ebony-satin-tm0614/",
+        "source_label": "PaintScratch 2015 RV-Other",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Sunlit Sand Base",
+        "paint_code": "TMSS15",
+        "slug": "sunlit-sand-base-tmss15",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/sunlit-sand-base-tmss15/",
+        "source_label": "PaintScratch 2015 RV-Other",
+        "hex_value": "#F4F3EE"
+      },
+      {
+        "display_name": "Champagne Mist (PPG 6161)",
+        "paint_code": "YR537P",
+        "slug": "champagne-mist-ppg-6161-yr537p",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/champagne-mist-ppg-6161-yr537p/",
+        "source_label": "PaintScratch 2015 RV-Other",
+        "hex_value": "#F5F4E3"
+      },
+      {
+        "display_name": "Gold-946699",
+        "paint_code": "77352",
+        "slug": "gold-946699-77352",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/gold-946699-77352/",
+        "source_label": "PaintScratch 2015 RV-Other",
+        "hex_value": "#E3BD25"
+      },
+      {
+        "display_name": "Silver Blue (PPG 979854)",
+        "paint_code": "77522",
+        "slug": "silver-blue-ppg-979854-77522",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/silver-blue-ppg-979854-77522/",
+        "source_label": "PaintScratch 2015 RV-Other",
+        "hex_value": "#CAD1D8"
+      },
+      {
+        "display_name": "Gray",
+        "paint_code": "WA672F",
+        "slug": "gray-wa672f",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/gray-wa672f/",
+        "source_label": "PaintScratch 2015 RV-Other",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Prescott Gray Metallic",
+        "paint_code": "77351",
+        "slug": "prescott-gray-metallic-77351",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/prescott-gray-metallic-77351/",
+        "source_label": "PaintScratch 2015 RV-Other",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Brown",
+        "paint_code": "77529",
+        "slug": "brown-77529",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/brown-77529/",
+        "source_label": "PaintScratch 2015 RV-Other",
+        "hex_value": "#987358"
+      },
+      {
+        "display_name": "Dark Green",
+        "paint_code": "43832",
+        "slug": "dark-green-43832",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/dark-green-43832/",
+        "source_label": "PaintScratch 2015 RV-Other",
+        "hex_value": "#15350F"
+      },
+      {
+        "display_name": "Light Opal -941468",
+        "paint_code": "75220",
+        "slug": "light-opal-941468-75220",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/light-opal-941468-75220/",
+        "source_label": "PaintScratch 2015 RV-Other",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Gold Dupont 738722",
+        "paint_code": "G3",
+        "slug": "gold-dupont-738722-g3",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/gold-dupont-738722-g3/",
+        "source_label": "PaintScratch 2015 RV-Other",
+        "hex_value": "#E3BD25"
+      },
+      {
+        "display_name": "Sunlite Sand",
+        "paint_code": "SS1133",
+        "slug": "sunlite-sand-ss1133",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/sunlite-sand-ss1133/",
+        "source_label": "PaintScratch 2015 RV-Other",
+        "hex_value": "#E3BD25"
+      },
+      {
+        "display_name": "Caramel Bliss",
+        "paint_code": "TC1013",
+        "slug": "caramel-bliss-tc1013",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/caramel-bliss-tc1013/",
+        "source_label": "PaintScratch 2015 RV-Other",
+        "hex_value": "#985636"
+      },
+      {
+        "display_name": "Red Metallic",
+        "paint_code": "DC5335",
+        "slug": "red-metallic-dc5335",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/red-metallic-dc5335/",
+        "source_label": "PaintScratch 2015 RV-Other",
+        "hex_value": "#BB0F0F"
+      }
+    ],
+    "2016": [
+      {
+        "display_name": "Ebony Satin (PPG 941018)",
+        "paint_code": "77528",
+        "slug": "ebony-satin-ppg-941018-77528",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/ebony-satin-ppg-941018-77528/",
+        "source_label": "PaintScratch 2016 RV-Other",
+        "hex_value": "#202020"
+      },
+      {
+        "display_name": "Biarritz White-946700",
+        "paint_code": "TM0114",
+        "slug": "biarritz-white-946700-tm0114",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/biarritz-white-946700-tm0114/",
+        "source_label": "PaintScratch 2016 RV-Other",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Ebony Satin",
+        "paint_code": "TM0614",
+        "slug": "ebony-satin-tm0614",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/ebony-satin-tm0614/",
+        "source_label": "PaintScratch 2016 RV-Other",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Sunlit Sand Base",
+        "paint_code": "TMSS15",
+        "slug": "sunlit-sand-base-tmss15",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/sunlit-sand-base-tmss15/",
+        "source_label": "PaintScratch 2016 RV-Other",
+        "hex_value": "#F4F3EE"
+      },
+      {
+        "display_name": "Sahara Gold PPG 979829",
+        "paint_code": "RB1210",
+        "slug": "sahara-gold-ppg-979829-rb1210",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/sahara-gold-ppg-979829-rb1210/",
+        "source_label": "PaintScratch 2016 RV-Other",
+        "hex_value": "#E3BD25"
+      },
+      {
+        "display_name": "New Maroon Metallic",
+        "paint_code": "TM2013",
+        "slug": "new-maroon-metallic-tm2013",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/new-maroon-metallic-tm2013/",
+        "source_label": "PaintScratch 2016 RV-Other",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "White Chocolate",
+        "paint_code": "81446C",
+        "slug": "white-chocolate-81446c",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/white-chocolate-81446c/",
+        "source_label": "PaintScratch 2016 RV-Other",
+        "hex_value": "#F6F6F0"
+      },
+      {
+        "display_name": "Black Garnet",
+        "paint_code": "TM0514",
+        "slug": "black-garnet-tm0514",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/black-garnet-tm0514/",
+        "source_label": "PaintScratch 2016 RV-Other",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Champagne Mist (PPG 6161)",
+        "paint_code": "YR537P",
+        "slug": "champagne-mist-ppg-6161-yr537p",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/champagne-mist-ppg-6161-yr537p/",
+        "source_label": "PaintScratch 2016 RV-Other",
+        "hex_value": "#F5F4E3"
+      },
+      {
+        "display_name": "Gold-946699",
+        "paint_code": "77352",
+        "slug": "gold-946699-77352",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/gold-946699-77352/",
+        "source_label": "PaintScratch 2016 RV-Other",
+        "hex_value": "#E3BD25"
+      },
+      {
+        "display_name": "Gray",
+        "paint_code": "TM0414",
+        "slug": "gray-tm0414",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/gray-tm0414/",
+        "source_label": "PaintScratch 2016 RV-Other",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Gray",
+        "paint_code": "WA672F",
+        "slug": "gray-wa672f",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/gray-wa672f/",
+        "source_label": "PaintScratch 2016 RV-Other",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Maroon",
+        "paint_code": "DM220/DM150/YR-537P",
+        "slug": "maroon-dm220dm150yr-537p",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/maroon-dm220dm150yr-537p/",
+        "source_label": "PaintScratch 2016 RV-Other",
+        "hex_value": "#761C1A"
+      },
+      {
+        "display_name": "Medium Silver Metallic",
+        "paint_code": "DM710",
+        "slug": "medium-silver-metallic-dm710",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/medium-silver-metallic-dm710/",
+        "source_label": "PaintScratch 2016 RV-Other",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Black Metallic",
+        "paint_code": "41U/WA984A",
+        "slug": "black-metallic-41uwa984a",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/black-metallic-41uwa984a/",
+        "source_label": "PaintScratch 2016 RV-Other",
+        "hex_value": "#000000"
+      }
+    ],
+    "2017": [
+      {
+        "display_name": "Ebony Satin (PPG 941018)",
+        "paint_code": "77528",
+        "slug": "ebony-satin-ppg-941018-77528",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/ebony-satin-ppg-941018-77528/",
+        "source_label": "PaintScratch 2017 RV-Other",
+        "hex_value": "#202020"
+      },
+      {
+        "display_name": "Biarritz White-946700",
+        "paint_code": "TM0114",
+        "slug": "biarritz-white-946700-tm0114",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/biarritz-white-946700-tm0114/",
+        "source_label": "PaintScratch 2017 RV-Other",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Ebony Satin",
+        "paint_code": "TM0614",
+        "slug": "ebony-satin-tm0614",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/ebony-satin-tm0614/",
+        "source_label": "PaintScratch 2017 RV-Other",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Sunlit Sand Base",
+        "paint_code": "TMSS15",
+        "slug": "sunlit-sand-base-tmss15",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/sunlit-sand-base-tmss15/",
+        "source_label": "PaintScratch 2017 RV-Other",
+        "hex_value": "#F4F3EE"
+      },
+      {
+        "display_name": "Sahara Gold PPG 979829",
+        "paint_code": "RB1210",
+        "slug": "sahara-gold-ppg-979829-rb1210",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/sahara-gold-ppg-979829-rb1210/",
+        "source_label": "PaintScratch 2017 RV-Other",
+        "hex_value": "#E3BD25"
+      },
+      {
+        "display_name": "New Maroon Metallic",
+        "paint_code": "TM2013",
+        "slug": "new-maroon-metallic-tm2013",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/new-maroon-metallic-tm2013/",
+        "source_label": "PaintScratch 2017 RV-Other",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "Maroon-782198K",
+        "paint_code": "82168",
+        "slug": "maroon-782198k-82168",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/maroon-782198k-82168/",
+        "source_label": "PaintScratch 2017 RV-Other",
+        "hex_value": "#761C1A"
+      },
+      {
+        "display_name": "Champagne Mist (PPG 6161)",
+        "paint_code": "YR537P",
+        "slug": "champagne-mist-ppg-6161-yr537p",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/champagne-mist-ppg-6161-yr537p/",
+        "source_label": "PaintScratch 2017 RV-Other",
+        "hex_value": "#F5F4E3"
+      },
+      {
+        "display_name": "Gray",
+        "paint_code": "TM0414",
+        "slug": "gray-tm0414",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/gray-tm0414/",
+        "source_label": "PaintScratch 2017 RV-Other",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Merlot Red",
+        "paint_code": "FLNA 94958",
+        "slug": "merlot-red-flna-94958",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/merlot-red-flna-94958/",
+        "source_label": "PaintScratch 2017 RV-Other",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "Dark Green",
+        "paint_code": "43832",
+        "slug": "dark-green-43832",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/dark-green-43832/",
+        "source_label": "PaintScratch 2017 RV-Other",
+        "hex_value": "#15350F"
+      },
+      {
+        "display_name": "Dark Beige Metallic",
+        "paint_code": "DM250",
+        "slug": "dark-beige-metallic-dm250",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/dark-beige-metallic-dm250/",
+        "source_label": "PaintScratch 2017 RV-Other",
+        "hex_value": "#C57E3F"
+      },
+      {
+        "display_name": "Java White 751051",
+        "paint_code": "FLNA 80522",
+        "slug": "java-white-751051-flna-80522",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/java-white-751051-flna-80522/",
+        "source_label": "PaintScratch 2017 RV-Other",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Light Champagne",
+        "paint_code": "FLNA 80523",
+        "slug": "light-champagne-flna-80523",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/light-champagne-flna-80523/",
+        "source_label": "PaintScratch 2017 RV-Other",
+        "hex_value": "#E7DFC5"
+      },
+      {
+        "display_name": "Smoke Metallic",
+        "paint_code": "FLNA 94947",
+        "slug": "smoke-metallic-flna-94947",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/smoke-metallic-flna-94947/",
+        "source_label": "PaintScratch 2017 RV-Other",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Roman Bronze 406285",
+        "paint_code": "FLNA 94979",
+        "slug": "roman-bronze-406285-flna-94979",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/roman-bronze-406285-flna-94979/",
+        "source_label": "PaintScratch 2017 RV-Other",
+        "hex_value": "#D1A341"
+      }
+    ],
+    "2018": [
+      {
+        "display_name": "Ebony Satin (PPG 941018)",
+        "paint_code": "77528",
+        "slug": "ebony-satin-ppg-941018-77528",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/ebony-satin-ppg-941018-77528/",
+        "source_label": "PaintScratch 2018 RV-Other",
+        "hex_value": "#202020"
+      },
+      {
+        "display_name": "Biarritz White-946700",
+        "paint_code": "TM0114",
+        "slug": "biarritz-white-946700-tm0114",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/biarritz-white-946700-tm0114/",
+        "source_label": "PaintScratch 2018 RV-Other",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Ebony Satin",
+        "paint_code": "TM0614",
+        "slug": "ebony-satin-tm0614",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/ebony-satin-tm0614/",
+        "source_label": "PaintScratch 2018 RV-Other",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Sunlit Sand Base",
+        "paint_code": "TMSS15",
+        "slug": "sunlit-sand-base-tmss15",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/sunlit-sand-base-tmss15/",
+        "source_label": "PaintScratch 2018 RV-Other",
+        "hex_value": "#F4F3EE"
+      },
+      {
+        "display_name": "Champagne Mist (PPG 6161)",
+        "paint_code": "YR537P",
+        "slug": "champagne-mist-ppg-6161-yr537p",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/champagne-mist-ppg-6161-yr537p/",
+        "source_label": "PaintScratch 2018 RV-Other",
+        "hex_value": "#F5F4E3"
+      },
+      {
+        "display_name": "Gold-946699",
+        "paint_code": "77352",
+        "slug": "gold-946699-77352",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/gold-946699-77352/",
+        "source_label": "PaintScratch 2018 RV-Other",
+        "hex_value": "#E3BD25"
+      },
+      {
+        "display_name": "Silver Blue (PPG 979854)",
+        "paint_code": "77522",
+        "slug": "silver-blue-ppg-979854-77522",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/silver-blue-ppg-979854-77522/",
+        "source_label": "PaintScratch 2018 RV-Other",
+        "hex_value": "#CAD1D8"
+      },
+      {
+        "display_name": "Gray",
+        "paint_code": "TM0414",
+        "slug": "gray-tm0414",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/gray-tm0414/",
+        "source_label": "PaintScratch 2018 RV-Other",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Dark Green",
+        "paint_code": "43832",
+        "slug": "dark-green-43832",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/dark-green-43832/",
+        "source_label": "PaintScratch 2018 RV-Other",
+        "hex_value": "#15350F"
+      },
+      {
+        "display_name": "Light Beige",
+        "paint_code": "937265K",
+        "slug": "light-beige-937265k",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/light-beige-937265k/",
+        "source_label": "PaintScratch 2018 RV-Other",
+        "hex_value": "#E7DFC5"
+      },
+      {
+        "display_name": "Pacific Blue",
+        "paint_code": "987659",
+        "slug": "pacific-blue-987659",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/pacific-blue-987659/",
+        "source_label": "PaintScratch 2018 RV-Other",
+        "hex_value": "#0D2D97"
+      },
+      {
+        "display_name": "Brown",
+        "paint_code": "SS1150",
+        "slug": "brown-ss1150",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/brown-ss1150/",
+        "source_label": "PaintScratch 2018 RV-Other",
+        "hex_value": "#C57E3F"
+      },
+      {
+        "display_name": "Charcoal Base",
+        "paint_code": "1C6 DK",
+        "slug": "charcoal-base-1c6-dk",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/charcoal-base-1c6-dk/",
+        "source_label": "PaintScratch 2018 RV-Other",
+        "hex_value": "#202020"
+      },
+      {
+        "display_name": "Blue Metallic",
+        "paint_code": "DM150",
+        "slug": "blue-metallic-dm150",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/blue-metallic-dm150/",
+        "source_label": "PaintScratch 2018 RV-Other",
+        "hex_value": "#4C79BC"
+      }
+    ],
+    "2019": [
+      {
+        "display_name": "Ebony Satin (PPG 941018)",
+        "paint_code": "77528",
+        "slug": "ebony-satin-ppg-941018-77528",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/ebony-satin-ppg-941018-77528/",
+        "source_label": "PaintScratch 2019 RV-Other",
+        "hex_value": "#202020"
+      },
+      {
+        "display_name": "Sunlit Sand Base",
+        "paint_code": "TMSS15",
+        "slug": "sunlit-sand-base-tmss15",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/sunlit-sand-base-tmss15/",
+        "source_label": "PaintScratch 2019 RV-Other",
+        "hex_value": "#F4F3EE"
+      },
+      {
+        "display_name": "Champagne Mist (PPG 6161)",
+        "paint_code": "YR537P",
+        "slug": "champagne-mist-ppg-6161-yr537p",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/champagne-mist-ppg-6161-yr537p/",
+        "source_label": "PaintScratch 2019 RV-Other",
+        "hex_value": "#F5F4E3"
+      },
+      {
+        "display_name": "Black Mist-948299",
+        "paint_code": "IFD7768",
+        "slug": "black-mist-948299-ifd7768",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/black-mist-948299-ifd7768/",
+        "source_label": "PaintScratch 2019 RV-Other",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Pewter",
+        "paint_code": "1C6",
+        "slug": "pewter-1c6",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/pewter-1c6/",
+        "source_label": "PaintScratch 2019 RV-Other",
+        "hex_value": "#404040"
+      },
+      {
+        "display_name": "Dark Green",
+        "paint_code": "43832",
+        "slug": "dark-green-43832",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/dark-green-43832/",
+        "source_label": "PaintScratch 2019 RV-Other",
+        "hex_value": "#15350F"
+      },
+      {
+        "display_name": "White Suede - 782251K",
+        "paint_code": "782251",
+        "slug": "white-suede-782251k-782251",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/white-suede-782251k-782251/",
+        "source_label": "PaintScratch 2019 RV-Other",
+        "hex_value": "#F6F6F0"
+      },
+      {
+        "display_name": "Champagne",
+        "paint_code": "991999",
+        "slug": "champagne-991999",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/champagne-991999/",
+        "source_label": "PaintScratch 2019 RV-Other",
+        "hex_value": "#E7DFC5"
+      },
+      {
+        "display_name": "Brown",
+        "paint_code": "SS1150",
+        "slug": "brown-ss1150",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/brown-ss1150/",
+        "source_label": "PaintScratch 2019 RV-Other",
+        "hex_value": "#C57E3F"
+      },
+      {
+        "display_name": "Light Beige",
+        "paint_code": "738722",
+        "slug": "light-beige-738722",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/light-beige-738722/",
+        "source_label": "PaintScratch 2019 RV-Other",
+        "hex_value": "#E7DFC5"
+      },
+      {
+        "display_name": "Blue Metallic",
+        "paint_code": "DM150",
+        "slug": "blue-metallic-dm150",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/blue-metallic-dm150/",
+        "source_label": "PaintScratch 2019 RV-Other",
+        "hex_value": "#4C79BC"
+      },
+      {
+        "display_name": "Dark Blue Metallic",
+        "paint_code": "DM220",
+        "slug": "dark-blue-metallic-dm220",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/dark-blue-metallic-dm220/",
+        "source_label": "PaintScratch 2019 RV-Other",
+        "hex_value": "#32496C"
+      }
+    ],
+    "2020": [
+      {
+        "display_name": "Ebony Satin (PPG 941018)",
+        "paint_code": "77528",
+        "slug": "ebony-satin-ppg-941018-77528",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/ebony-satin-ppg-941018-77528/",
+        "source_label": "PaintScratch 2020 RV-Other",
+        "hex_value": "#202020"
+      },
+      {
+        "display_name": "Ebony Satin",
+        "paint_code": "TM0614",
+        "slug": "ebony-satin-tm0614",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/ebony-satin-tm0614/",
+        "source_label": "PaintScratch 2020 RV-Other",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Champagne Mist (PPG 6161)",
+        "paint_code": "YR537P",
+        "slug": "champagne-mist-ppg-6161-yr537p",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/champagne-mist-ppg-6161-yr537p/",
+        "source_label": "PaintScratch 2020 RV-Other",
+        "hex_value": "#F5F4E3"
+      },
+      {
+        "display_name": "Anthracite",
+        "paint_code": "TM-0414-A",
+        "slug": "anthracite-tm-0414-a",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/anthracite-tm-0414-a/",
+        "source_label": "PaintScratch 2020 RV-Other",
+        "hex_value": "#404040"
+      },
+      {
+        "display_name": "Black Metallic",
+        "paint_code": "41U/WA984A",
+        "slug": "black-metallic-41uwa984a",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/black-metallic-41uwa984a/",
+        "source_label": "PaintScratch 2020 RV-Other",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Dark Green",
+        "paint_code": "43832",
+        "slug": "dark-green-43832",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/dark-green-43832/",
+        "source_label": "PaintScratch 2020 RV-Other",
+        "hex_value": "#15350F"
+      },
+      {
+        "display_name": "Light Opal",
+        "paint_code": "941468",
+        "slug": "light-opal-941468",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/light-opal-941468/",
+        "source_label": "PaintScratch 2020 RV-Other",
+        "hex_value": "#020102"
+      },
+      {
+        "display_name": "Gray",
+        "paint_code": "953527",
+        "slug": "gray-953527",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/gray-953527/",
+        "source_label": "PaintScratch 2020 RV-Other",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Brown",
+        "paint_code": "SS1150",
+        "slug": "brown-ss1150",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/brown-ss1150/",
+        "source_label": "PaintScratch 2020 RV-Other",
+        "hex_value": "#C57E3F"
+      },
+      {
+        "display_name": "Dark Brown",
+        "paint_code": "8796",
+        "slug": "dark-brown-8796",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/dark-brown-8796/",
+        "source_label": "PaintScratch 2020 RV-Other",
+        "hex_value": "#985636"
+      },
+      {
+        "display_name": "Maroon",
+        "paint_code": "882559F",
+        "slug": "maroon-882559f",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/maroon-882559f/",
+        "source_label": "PaintScratch 2020 RV-Other",
+        "hex_value": "#761C1A"
+      },
+      {
+        "display_name": "Blue Metallic",
+        "paint_code": "DM150",
+        "slug": "blue-metallic-dm150",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/blue-metallic-dm150/",
+        "source_label": "PaintScratch 2020 RV-Other",
+        "hex_value": "#4C79BC"
+      },
+      {
+        "display_name": "Dark Blue Metallic",
+        "paint_code": "DM220",
+        "slug": "dark-blue-metallic-dm220",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/dark-blue-metallic-dm220/",
+        "source_label": "PaintScratch 2020 RV-Other",
+        "hex_value": "#32496C"
+      },
+      {
+        "display_name": "Platinum",
+        "paint_code": "TOY1D6",
+        "slug": "platinum-toy1d6",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/platinum-toy1d6/",
+        "source_label": "PaintScratch 2020 RV-Other",
+        "hex_value": "#F4F6F6"
+      }
+    ],
+    "2021": [
+      {
+        "display_name": "Ebony Satin (PPG 941018)",
+        "paint_code": "77528",
+        "slug": "ebony-satin-ppg-941018-77528",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/ebony-satin-ppg-941018-77528/",
+        "source_label": "PaintScratch 2021 RV-Other",
+        "hex_value": "#202020"
+      },
+      {
+        "display_name": "Ebony Satin",
+        "paint_code": "TM0614",
+        "slug": "ebony-satin-tm0614",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/ebony-satin-tm0614/",
+        "source_label": "PaintScratch 2021 RV-Other",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Sunlit Sand Base",
+        "paint_code": "TMSS15",
+        "slug": "sunlit-sand-base-tmss15",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/sunlit-sand-base-tmss15/",
+        "source_label": "PaintScratch 2021 RV-Other",
+        "hex_value": "#F4F3EE"
+      },
+      {
+        "display_name": "Brushed Nickel",
+        "paint_code": "937264-2",
+        "slug": "brushed-nickel-937264-2",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/brushed-nickel-937264-2/",
+        "source_label": "PaintScratch 2021 RV-Other",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Champagne Mist (PPG 6161)",
+        "paint_code": "YR537P",
+        "slug": "champagne-mist-ppg-6161-yr537p",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/champagne-mist-ppg-6161-yr537p/",
+        "source_label": "PaintScratch 2021 RV-Other",
+        "hex_value": "#F5F4E3"
+      },
+      {
+        "display_name": "Prescott Gray Metallic",
+        "paint_code": "77351",
+        "slug": "prescott-gray-metallic-77351",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/prescott-gray-metallic-77351/",
+        "source_label": "PaintScratch 2021 RV-Other",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Beige",
+        "paint_code": "CM6141",
+        "slug": "beige-cm6141",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/beige-cm6141/",
+        "source_label": "PaintScratch 2021 RV-Other",
+        "hex_value": "#E9D9A1"
+      },
+      {
+        "display_name": "White",
+        "paint_code": "9147",
+        "slug": "white-9147",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/white-9147/",
+        "source_label": "PaintScratch 2021 RV-Other",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Dark Green",
+        "paint_code": "43832",
+        "slug": "dark-green-43832",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/dark-green-43832/",
+        "source_label": "PaintScratch 2021 RV-Other",
+        "hex_value": "#15350F"
+      },
+      {
+        "display_name": "Silver Blue",
+        "paint_code": "60180",
+        "slug": "silver-blue-60180",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/silver-blue-60180/",
+        "source_label": "PaintScratch 2021 RV-Other",
+        "hex_value": "#CAD1D8"
+      },
+      {
+        "display_name": "Regal Blue Metallic",
+        "paint_code": "TM0519",
+        "slug": "regal-blue-metallic-tm0519",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/regal-blue-metallic-tm0519/",
+        "source_label": "PaintScratch 2021 RV-Other",
+        "hex_value": "#495EA3"
+      },
+      {
+        "display_name": "Blue Metallic",
+        "paint_code": "DM150",
+        "slug": "blue-metallic-dm150",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/blue-metallic-dm150/",
+        "source_label": "PaintScratch 2021 RV-Other",
+        "hex_value": "#4C79BC"
+      },
+      {
+        "display_name": "Dark Blue Metallic",
+        "paint_code": "DM220",
+        "slug": "dark-blue-metallic-dm220",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/dark-blue-metallic-dm220/",
+        "source_label": "PaintScratch 2021 RV-Other",
+        "hex_value": "#32496C"
+      },
+      {
+        "display_name": "Gray",
+        "paint_code": "PPG 987672",
+        "slug": "gray-ppg-987672",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/gray-ppg-987672/",
+        "source_label": "PaintScratch 2021 RV-Other",
+        "hex_value": "#C0C0C0"
+      }
+    ],
+    "2022": [
+      {
+        "display_name": "Ebony Satin (PPG 941018)",
+        "paint_code": "77528",
+        "slug": "ebony-satin-ppg-941018-77528",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/ebony-satin-ppg-941018-77528/",
+        "source_label": "PaintScratch 2022 RV-Other",
+        "hex_value": "#202020"
+      },
+      {
+        "display_name": "Ebony Satin",
+        "paint_code": "TM0614",
+        "slug": "ebony-satin-tm0614",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/ebony-satin-tm0614/",
+        "source_label": "PaintScratch 2022 RV-Other",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Sunlit Sand Base",
+        "paint_code": "TMSS15",
+        "slug": "sunlit-sand-base-tmss15",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/sunlit-sand-base-tmss15/",
+        "source_label": "PaintScratch 2022 RV-Other",
+        "hex_value": "#F4F3EE"
+      },
+      {
+        "display_name": "Black Garnet",
+        "paint_code": "TM0214",
+        "slug": "black-garnet-tm0214",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/black-garnet-tm0214/",
+        "source_label": "PaintScratch 2022 RV-Other",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "White Chocolate",
+        "paint_code": "81446C",
+        "slug": "white-chocolate-81446c",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/white-chocolate-81446c/",
+        "source_label": "PaintScratch 2022 RV-Other",
+        "hex_value": "#F6F6F0"
+      },
+      {
+        "display_name": "Champagne Mist (PPG 6161)",
+        "paint_code": "YR537P",
+        "slug": "champagne-mist-ppg-6161-yr537p",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/champagne-mist-ppg-6161-yr537p/",
+        "source_label": "PaintScratch 2022 RV-Other",
+        "hex_value": "#F5F4E3"
+      },
+      {
+        "display_name": "Silver Blue (PPG 979854)",
+        "paint_code": "77522",
+        "slug": "silver-blue-ppg-979854-77522",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/silver-blue-ppg-979854-77522/",
+        "source_label": "PaintScratch 2022 RV-Other",
+        "hex_value": "#CAD1D8"
+      },
+      {
+        "display_name": "Prescott Gray Metallic",
+        "paint_code": "77351",
+        "slug": "prescott-gray-metallic-77351",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/prescott-gray-metallic-77351/",
+        "source_label": "PaintScratch 2022 RV-Other",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Glacier Pearl",
+        "paint_code": "866581",
+        "slug": "glacier-pearl-866581",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/glacier-pearl-866581/",
+        "source_label": "PaintScratch 2022 RV-Other",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Indus Silver -931824",
+        "paint_code": "863",
+        "slug": "indus-silver-931824-863",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/indus-silver-931824-863/",
+        "source_label": "PaintScratch 2022 RV-Other",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Dark Green",
+        "paint_code": "43832",
+        "slug": "dark-green-43832",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/dark-green-43832/",
+        "source_label": "PaintScratch 2022 RV-Other",
+        "hex_value": "#15350F"
+      },
+      {
+        "display_name": "Gray",
+        "paint_code": "778516",
+        "slug": "gray-778516",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/gray-778516/",
+        "source_label": "PaintScratch 2022 RV-Other",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Silver Blue",
+        "paint_code": "882930",
+        "slug": "silver-blue-882930",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/silver-blue-882930/",
+        "source_label": "PaintScratch 2022 RV-Other",
+        "hex_value": "#CAD1D8"
+      },
+      {
+        "display_name": "Medium Gray",
+        "paint_code": "899708",
+        "slug": "medium-gray-899708",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/medium-gray-899708/",
+        "source_label": "PaintScratch 2022 RV-Other",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Brown",
+        "paint_code": "SS1150",
+        "slug": "brown-ss1150",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/brown-ss1150/",
+        "source_label": "PaintScratch 2022 RV-Other",
+        "hex_value": "#C57E3F"
+      }
+    ],
+    "2023": [
+      {
+        "display_name": "Ebony Satin (PPG 941018)",
+        "paint_code": "77528",
+        "slug": "ebony-satin-ppg-941018-77528",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/ebony-satin-ppg-941018-77528/",
+        "source_label": "PaintScratch 2023 RV-Other",
+        "hex_value": "#202020"
+      },
+      {
+        "display_name": "Sunlit Sand Base",
+        "paint_code": "TMSS15",
+        "slug": "sunlit-sand-base-tmss15",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/sunlit-sand-base-tmss15/",
+        "source_label": "PaintScratch 2023 RV-Other",
+        "hex_value": "#F4F3EE"
+      },
+      {
+        "display_name": "Champagne Mist (PPG 6161)",
+        "paint_code": "YR537P",
+        "slug": "champagne-mist-ppg-6161-yr537p",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/champagne-mist-ppg-6161-yr537p/",
+        "source_label": "PaintScratch 2023 RV-Other",
+        "hex_value": "#F5F4E3"
+      },
+      {
+        "display_name": "Arctic White",
+        "paint_code": "260606",
+        "slug": "arctic-white-260606",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/arctic-white-260606/",
+        "source_label": "PaintScratch 2023 RV-Other",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Jet Black",
+        "paint_code": "850639",
+        "slug": "jet-black-850639",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/jet-black-850639/",
+        "source_label": "PaintScratch 2023 RV-Other",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "White Metallic",
+        "paint_code": "853261",
+        "slug": "white-metallic-853261",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/white-metallic-853261/",
+        "source_label": "PaintScratch 2023 RV-Other",
+        "hex_value": "#F6F6F0"
+      },
+      {
+        "display_name": "Glacier Pearl",
+        "paint_code": "866581",
+        "slug": "glacier-pearl-866581",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/glacier-pearl-866581/",
+        "source_label": "PaintScratch 2023 RV-Other",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Ulexite White Acura",
+        "paint_code": "NH854/920067",
+        "slug": "ulexite-white-acura-nh854920067",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/ulexite-white-acura-nh854920067/",
+        "source_label": "PaintScratch 2023 RV-Other",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Indus Silver -931824",
+        "paint_code": "863",
+        "slug": "indus-silver-931824-863",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/indus-silver-931824-863/",
+        "source_label": "PaintScratch 2023 RV-Other",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Dark Green",
+        "paint_code": "43832",
+        "slug": "dark-green-43832",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/dark-green-43832/",
+        "source_label": "PaintScratch 2023 RV-Other",
+        "hex_value": "#15350F"
+      },
+      {
+        "display_name": "Silver Blue",
+        "paint_code": "882930",
+        "slug": "silver-blue-882930",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/silver-blue-882930/",
+        "source_label": "PaintScratch 2023 RV-Other",
+        "hex_value": "#CAD1D8"
+      },
+      {
+        "display_name": "Gray",
+        "paint_code": "TM2119",
+        "slug": "gray-tm2119",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/gray-tm2119/",
+        "source_label": "PaintScratch 2023 RV-Other",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "982211",
+        "slug": "black-982211",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/black-982211/",
+        "source_label": "PaintScratch 2023 RV-Other",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Blue Metallic",
+        "paint_code": "DM150",
+        "slug": "blue-metallic-dm150",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/blue-metallic-dm150/",
+        "source_label": "PaintScratch 2023 RV-Other",
+        "hex_value": "#4C79BC"
+      },
+      {
+        "display_name": "Dark Blue Metallic",
+        "paint_code": "DM220",
+        "slug": "dark-blue-metallic-dm220",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/dark-blue-metallic-dm220/",
+        "source_label": "PaintScratch 2023 RV-Other",
+        "hex_value": "#32496C"
+      }
+    ],
+    "2024": [
+      {
+        "display_name": "Ebony Satin (PPG 941018)",
+        "paint_code": "77528",
+        "slug": "ebony-satin-ppg-941018-77528",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/ebony-satin-ppg-941018-77528/",
+        "source_label": "PaintScratch 2024 RV-Other",
+        "hex_value": "#202020"
+      },
+      {
+        "display_name": "Champagne Mist (PPG 6161)",
+        "paint_code": "YR537P",
+        "slug": "champagne-mist-ppg-6161-yr537p",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/champagne-mist-ppg-6161-yr537p/",
+        "source_label": "PaintScratch 2024 RV-Other",
+        "hex_value": "#F5F4E3"
+      },
+      {
+        "display_name": "White Metallic",
+        "paint_code": "853261",
+        "slug": "white-metallic-853261",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/white-metallic-853261/",
+        "source_label": "PaintScratch 2024 RV-Other",
+        "hex_value": "#F6F6F0"
+      },
+      {
+        "display_name": "Ulexite White Acura",
+        "paint_code": "NH854/920067",
+        "slug": "ulexite-white-acura-nh854920067",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/ulexite-white-acura-nh854920067/",
+        "source_label": "PaintScratch 2024 RV-Other",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Indus Silver -931824",
+        "paint_code": "863",
+        "slug": "indus-silver-931824-863",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/indus-silver-931824-863/",
+        "source_label": "PaintScratch 2024 RV-Other",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Dark Green",
+        "paint_code": "43832",
+        "slug": "dark-green-43832",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/dark-green-43832/",
+        "source_label": "PaintScratch 2024 RV-Other",
+        "hex_value": "#15350F"
+      },
+      {
+        "display_name": "Carbon Gray Metallic",
+        "paint_code": "9A",
+        "slug": "carbon-gray-metallic-9a",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/carbon-gray-metallic-9a/",
+        "source_label": "PaintScratch 2024 RV-Other",
+        "hex_value": "#635F53"
+      },
+      {
+        "display_name": "Velocity Red Mica Tricoat",
+        "paint_code": "27A",
+        "slug": "velocity-red-mica-tricoat-27a",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/velocity-red-mica-tricoat-27a/",
+        "source_label": "PaintScratch 2024 RV-Other",
+        "hex_value": "#990020"
+      },
+      {
+        "display_name": "Blue Metallic",
+        "paint_code": "DM150",
+        "slug": "blue-metallic-dm150",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/blue-metallic-dm150/",
+        "source_label": "PaintScratch 2024 RV-Other",
+        "hex_value": "#4C79BC"
+      },
+      {
+        "display_name": "Dark Blue Metallic",
+        "paint_code": "DM220",
+        "slug": "dark-blue-metallic-dm220",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/dark-blue-metallic-dm220/",
+        "source_label": "PaintScratch 2024 RV-Other",
+        "hex_value": "#32496C"
+      }
+    ],
+    "2025": [
+      {
+        "display_name": "Ebony Satin (PPG 941018)",
+        "paint_code": "77528",
+        "slug": "ebony-satin-ppg-941018-77528",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/ebony-satin-ppg-941018-77528/",
+        "source_label": "PaintScratch 2025 RV-Other",
+        "hex_value": "#202020"
+      },
+      {
+        "display_name": "Champagne Mist (PPG 6161)",
+        "paint_code": "YR537P",
+        "slug": "champagne-mist-ppg-6161-yr537p",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/champagne-mist-ppg-6161-yr537p/",
+        "source_label": "PaintScratch 2025 RV-Other",
+        "hex_value": "#F5F4E3"
+      },
+      {
+        "display_name": "White Metallic",
+        "paint_code": "853261",
+        "slug": "white-metallic-853261",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/white-metallic-853261/",
+        "source_label": "PaintScratch 2025 RV-Other",
+        "hex_value": "#F6F6F0"
+      },
+      {
+        "display_name": "Ulexite White Acura",
+        "paint_code": "NH854/920067",
+        "slug": "ulexite-white-acura-nh854920067",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/ulexite-white-acura-nh854920067/",
+        "source_label": "PaintScratch 2025 RV-Other",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Dark Green",
+        "paint_code": "43832",
+        "slug": "dark-green-43832",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/dark-green-43832/",
+        "source_label": "PaintScratch 2025 RV-Other",
+        "hex_value": "#15350F"
+      },
+      {
+        "display_name": "Blue Metallic",
+        "paint_code": "DM150",
+        "slug": "blue-metallic-dm150",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/blue-metallic-dm150/",
+        "source_label": "PaintScratch 2025 RV-Other",
+        "hex_value": "#4C79BC"
+      },
+      {
+        "display_name": "Dark Blue Metallic",
+        "paint_code": "DM220",
+        "slug": "dark-blue-metallic-dm220",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/dark-blue-metallic-dm220/",
+        "source_label": "PaintScratch 2025 RV-Other",
+        "hex_value": "#32496C"
+      }
+    ],
+    "2026": [
+      {
+        "display_name": "Ebony Satin (PPG 941018)",
+        "paint_code": "77528",
+        "slug": "ebony-satin-ppg-941018-77528",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/ebony-satin-ppg-941018-77528/",
+        "source_label": "PaintScratch 2026 RV-Other",
+        "hex_value": "#202020"
+      },
+      {
+        "display_name": "Champagne Mist (PPG 6161)",
+        "paint_code": "YR537P",
+        "slug": "champagne-mist-ppg-6161-yr537p",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/champagne-mist-ppg-6161-yr537p/",
+        "source_label": "PaintScratch 2026 RV-Other",
+        "hex_value": "#F5F4E3"
+      },
+      {
+        "display_name": "White Metallic",
+        "paint_code": "853261",
+        "slug": "white-metallic-853261",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/white-metallic-853261/",
+        "source_label": "PaintScratch 2026 RV-Other",
+        "hex_value": "#F6F6F0"
+      },
+      {
+        "display_name": "Ulexite White Acura",
+        "paint_code": "NH854/920067",
+        "slug": "ulexite-white-acura-nh854920067",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/ulexite-white-acura-nh854920067/",
+        "source_label": "PaintScratch 2026 RV-Other",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Dark Green",
+        "paint_code": "43832",
+        "slug": "dark-green-43832",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/dark-green-43832/",
+        "source_label": "PaintScratch 2026 RV-Other",
+        "hex_value": "#15350F"
+      },
+      {
+        "display_name": "Blue Metallic",
+        "paint_code": "DM150",
+        "slug": "blue-metallic-dm150",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/blue-metallic-dm150/",
+        "source_label": "PaintScratch 2026 RV-Other",
+        "hex_value": "#4C79BC"
+      },
+      {
+        "display_name": "Dark Blue Metallic",
+        "paint_code": "DM220",
+        "slug": "dark-blue-metallic-dm220",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/dark-blue-metallic-dm220/",
+        "source_label": "PaintScratch 2026 RV-Other",
+        "hex_value": "#32496C"
+      }
+    ],
+    "2027": [
+      {
+        "display_name": "Ebony Satin (PPG 941018)",
+        "paint_code": "77528",
+        "slug": "ebony-satin-ppg-941018-77528",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/ebony-satin-ppg-941018-77528/",
+        "source_label": "PaintScratch 2027 RV-Other",
+        "hex_value": "#202020"
+      },
+      {
+        "display_name": "Champagne Mist (PPG 6161)",
+        "paint_code": "YR537P",
+        "slug": "champagne-mist-ppg-6161-yr537p",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/champagne-mist-ppg-6161-yr537p/",
+        "source_label": "PaintScratch 2027 RV-Other",
+        "hex_value": "#F5F4E3"
+      },
+      {
+        "display_name": "White Metallic",
+        "paint_code": "853261",
+        "slug": "white-metallic-853261",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/white-metallic-853261/",
+        "source_label": "PaintScratch 2027 RV-Other",
+        "hex_value": "#F6F6F0"
+      },
+      {
+        "display_name": "Ulexite White Acura",
+        "paint_code": "NH854/920067",
+        "slug": "ulexite-white-acura-nh854920067",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/ulexite-white-acura-nh854920067/",
+        "source_label": "PaintScratch 2027 RV-Other",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Dark Green",
+        "paint_code": "43832",
+        "slug": "dark-green-43832",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/dark-green-43832/",
+        "source_label": "PaintScratch 2027 RV-Other",
+        "hex_value": "#15350F"
+      },
+      {
+        "display_name": "Blue Metallic",
+        "paint_code": "DM150",
+        "slug": "blue-metallic-dm150",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/blue-metallic-dm150/",
+        "source_label": "PaintScratch 2027 RV-Other",
+        "hex_value": "#4C79BC"
+      },
+      {
+        "display_name": "Dark Blue Metallic",
+        "paint_code": "DM220",
+        "slug": "dark-blue-metallic-dm220",
+        "reference_url": "https://www.paintscratch.com/colors/rv-other/dark-blue-metallic-dm220/",
+        "source_label": "PaintScratch 2027 RV-Other",
+        "hex_value": "#32496C"
+      }
+    ]
+  }
+}

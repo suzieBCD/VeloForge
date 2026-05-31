@@ -1,0 +1,1460 @@
+{
+  "All Models": {
+    "1980": [
+      {
+        "display_name": "Beige",
+        "paint_code": "548",
+        "slug": "beige-548",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/beige-548/",
+        "source_label": "PaintScratch 1980 BMW-Motorcycles",
+        "hex_value": "#E9D9A1"
+      },
+      {
+        "display_name": "Silberbeige",
+        "paint_code": "201182",
+        "slug": "silberbeige-201182",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/silberbeige-201182/",
+        "source_label": "PaintScratch 1980 BMW-Motorcycles",
+        "hex_value": "#E7DFC5"
+      },
+      {
+        "display_name": "Blue",
+        "paint_code": "618",
+        "slug": "blue-618",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/blue-618/",
+        "source_label": "PaintScratch 1980 BMW-Motorcycles",
+        "hex_value": "#495EA3"
+      }
+    ],
+    "1981": [
+      {
+        "display_name": "Blue",
+        "paint_code": "618",
+        "slug": "blue-618",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/blue-618/",
+        "source_label": "PaintScratch 1981 BMW-Motorcycles",
+        "hex_value": "#495EA3"
+      }
+    ],
+    "1982": [
+      {
+        "display_name": "Blue",
+        "paint_code": "618",
+        "slug": "blue-618",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/blue-618/",
+        "source_label": "PaintScratch 1982 BMW-Motorcycles",
+        "hex_value": "#495EA3"
+      }
+    ],
+    "1983": [
+      {
+        "display_name": "Blue",
+        "paint_code": "618",
+        "slug": "blue-618",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/blue-618/",
+        "source_label": "PaintScratch 1983 BMW-Motorcycles",
+        "hex_value": "#495EA3"
+      }
+    ],
+    "1984": [
+      {
+        "display_name": "Bright Red",
+        "paint_code": "052",
+        "slug": "bright-red-052",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/bright-red-052/",
+        "source_label": "PaintScratch 1984 BMW-Motorcycles",
+        "hex_value": "#F31515"
+      },
+      {
+        "display_name": "Spheric Silver",
+        "paint_code": "545",
+        "slug": "spheric-silver-545",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/spheric-silver-545/",
+        "source_label": "PaintScratch 1984 BMW-Motorcycles",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Blue",
+        "paint_code": "618",
+        "slug": "blue-618",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/blue-618/",
+        "source_label": "PaintScratch 1984 BMW-Motorcycles",
+        "hex_value": "#495EA3"
+      }
+    ],
+    "1985": [
+      {
+        "display_name": "Blue",
+        "paint_code": "618",
+        "slug": "blue-618",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/blue-618/",
+        "source_label": "PaintScratch 1985 BMW-Motorcycles",
+        "hex_value": "#495EA3"
+      }
+    ],
+    "1986": [
+      {
+        "display_name": "Yukon Blue",
+        "paint_code": "615",
+        "slug": "yukon-blue-615",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/yukon-blue-615/",
+        "source_label": "PaintScratch 1986 BMW-Motorcycles",
+        "hex_value": "#0D2D97"
+      },
+      {
+        "display_name": "Carabic Blue",
+        "paint_code": "183",
+        "slug": "carabic-blue-183",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/carabic-blue-183/",
+        "source_label": "PaintScratch 1986 BMW-Motorcycles",
+        "hex_value": "#0D2D97"
+      },
+      {
+        "display_name": "Light Green Metallic (Water Based)",
+        "paint_code": "616",
+        "slug": "light-green-metallic-water-based-616",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/light-green-metallic-water-based-616/",
+        "source_label": "PaintScratch 1986 BMW-Motorcycles",
+        "hex_value": "#A7E3E2"
+      },
+      {
+        "display_name": "Blue",
+        "paint_code": "618",
+        "slug": "blue-618",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/blue-618/",
+        "source_label": "PaintScratch 1986 BMW-Motorcycles",
+        "hex_value": "#495EA3"
+      }
+    ],
+    "1987": [
+      {
+        "display_name": "Light Green Metallic (Water Based)",
+        "paint_code": "616",
+        "slug": "light-green-metallic-water-based-616",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/light-green-metallic-water-based-616/",
+        "source_label": "PaintScratch 1987 BMW-Motorcycles",
+        "hex_value": "#A7E3E2"
+      },
+      {
+        "display_name": "Blue",
+        "paint_code": "618",
+        "slug": "blue-618",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/blue-618/",
+        "source_label": "PaintScratch 1987 BMW-Motorcycles",
+        "hex_value": "#495EA3"
+      }
+    ],
+    "1988": [
+      {
+        "display_name": "Bright Red",
+        "paint_code": "643",
+        "slug": "bright-red-643",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/bright-red-643/",
+        "source_label": "PaintScratch 1988 BMW-Motorcycles",
+        "hex_value": "#F31515"
+      },
+      {
+        "display_name": "Blue",
+        "paint_code": "618",
+        "slug": "blue-618",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/blue-618/",
+        "source_label": "PaintScratch 1988 BMW-Motorcycles",
+        "hex_value": "#495EA3"
+      }
+    ],
+    "1989": [
+      {
+        "display_name": "Bermuda Blue",
+        "paint_code": "225",
+        "slug": "bermuda-blue-225",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/bermuda-blue-225/",
+        "source_label": "PaintScratch 1989 BMW-Motorcycles",
+        "hex_value": "#0D2D97"
+      },
+      {
+        "display_name": "Blue",
+        "paint_code": "618",
+        "slug": "blue-618",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/blue-618/",
+        "source_label": "PaintScratch 1989 BMW-Motorcycles",
+        "hex_value": "#495EA3"
+      }
+    ],
+    "1990": [
+      {
+        "display_name": "Bright Red",
+        "paint_code": "643",
+        "slug": "bright-red-643",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/bright-red-643/",
+        "source_label": "PaintScratch 1990 BMW-Motorcycles",
+        "hex_value": "#F31515"
+      },
+      {
+        "display_name": "Blue",
+        "paint_code": "618",
+        "slug": "blue-618",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/blue-618/",
+        "source_label": "PaintScratch 1990 BMW-Motorcycles",
+        "hex_value": "#495EA3"
+      }
+    ],
+    "1991": [
+      {
+        "display_name": "Blue",
+        "paint_code": "618",
+        "slug": "blue-618",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/blue-618/",
+        "source_label": "PaintScratch 1991 BMW-Motorcycles",
+        "hex_value": "#495EA3"
+      }
+    ],
+    "1992": [
+      {
+        "display_name": "Blue",
+        "paint_code": "618",
+        "slug": "blue-618",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/blue-618/",
+        "source_label": "PaintScratch 1992 BMW-Motorcycles",
+        "hex_value": "#495EA3"
+      }
+    ],
+    "1993": [
+      {
+        "display_name": "Blue",
+        "paint_code": "618",
+        "slug": "blue-618",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/blue-618/",
+        "source_label": "PaintScratch 1993 BMW-Motorcycles",
+        "hex_value": "#495EA3"
+      },
+      {
+        "display_name": "White Tricoat",
+        "paint_code": "678",
+        "slug": "white-tricoat-678",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/white-tricoat-678/",
+        "source_label": "PaintScratch 1993 BMW-Motorcycles",
+        "hex_value": "#F6F6F0"
+      }
+    ],
+    "1994": [
+      {
+        "display_name": "Black",
+        "paint_code": "086",
+        "slug": "black-086",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/black-086/",
+        "source_label": "PaintScratch 1994 BMW-Motorcycles",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Titan Silver Metallic",
+        "paint_code": "354",
+        "slug": "titan-silver-metallic-354",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/titan-silver-metallic-354/",
+        "source_label": "PaintScratch 1994 BMW-Motorcycles",
+        "hex_value": "#DAD7D2"
+      },
+      {
+        "display_name": "Dakar Yellow",
+        "paint_code": "267",
+        "slug": "dakar-yellow-267",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/dakar-yellow-267/",
+        "source_label": "PaintScratch 1994 BMW-Motorcycles",
+        "hex_value": "#FFDE01"
+      },
+      {
+        "display_name": "Green Metallic",
+        "paint_code": "714",
+        "slug": "green-metallic-714",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/green-metallic-714/",
+        "source_label": "PaintScratch 1994 BMW-Motorcycles",
+        "hex_value": "#15350F"
+      }
+    ],
+    "1995": [
+      {
+        "display_name": "Black",
+        "paint_code": "086",
+        "slug": "black-086",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/black-086/",
+        "source_label": "PaintScratch 1995 BMW-Motorcycles",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Titan Silver Metallic",
+        "paint_code": "354",
+        "slug": "titan-silver-metallic-354",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/titan-silver-metallic-354/",
+        "source_label": "PaintScratch 1995 BMW-Motorcycles",
+        "hex_value": "#DAD7D2"
+      },
+      {
+        "display_name": "Light Green Metallic",
+        "paint_code": "703",
+        "slug": "light-green-metallic-703",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/light-green-metallic-703/",
+        "source_label": "PaintScratch 1995 BMW-Motorcycles",
+        "hex_value": "#D9EBB7"
+      },
+      {
+        "display_name": "Green Metallic",
+        "paint_code": "714",
+        "slug": "green-metallic-714",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/green-metallic-714/",
+        "source_label": "PaintScratch 1995 BMW-Motorcycles",
+        "hex_value": "#15350F"
+      }
+    ],
+    "1996": [
+      {
+        "display_name": "Black",
+        "paint_code": "086",
+        "slug": "black-086",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/black-086/",
+        "source_label": "PaintScratch 1996 BMW-Motorcycles",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Titan Silver Metallic",
+        "paint_code": "354",
+        "slug": "titan-silver-metallic-354",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/titan-silver-metallic-354/",
+        "source_label": "PaintScratch 1996 BMW-Motorcycles",
+        "hex_value": "#DAD7D2"
+      },
+      {
+        "display_name": "Green Metallic",
+        "paint_code": "714",
+        "slug": "green-metallic-714",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/green-metallic-714/",
+        "source_label": "PaintScratch 1996 BMW-Motorcycles",
+        "hex_value": "#15350F"
+      }
+    ],
+    "1997": [
+      {
+        "display_name": "Black",
+        "paint_code": "086",
+        "slug": "black-086",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/black-086/",
+        "source_label": "PaintScratch 1997 BMW-Motorcycles",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Titan Silver Metallic",
+        "paint_code": "354",
+        "slug": "titan-silver-metallic-354",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/titan-silver-metallic-354/",
+        "source_label": "PaintScratch 1997 BMW-Motorcycles",
+        "hex_value": "#DAD7D2"
+      },
+      {
+        "display_name": "Green Metallic",
+        "paint_code": "714",
+        "slug": "green-metallic-714",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/green-metallic-714/",
+        "source_label": "PaintScratch 1997 BMW-Motorcycles",
+        "hex_value": "#15350F"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "716",
+        "slug": "black-716",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/black-716/",
+        "source_label": "PaintScratch 1997 BMW-Motorcycles",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Red",
+        "paint_code": "733",
+        "slug": "red-733",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/red-733/",
+        "source_label": "PaintScratch 1997 BMW-Motorcycles",
+        "hex_value": "#B42E24"
+      }
+    ],
+    "1998": [
+      {
+        "display_name": "Black",
+        "paint_code": "086",
+        "slug": "black-086",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/black-086/",
+        "source_label": "PaintScratch 1998 BMW-Motorcycles",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Titan Silver Metallic",
+        "paint_code": "354",
+        "slug": "titan-silver-metallic-354",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/titan-silver-metallic-354/",
+        "source_label": "PaintScratch 1998 BMW-Motorcycles",
+        "hex_value": "#DAD7D2"
+      },
+      {
+        "display_name": "Canyonrot",
+        "paint_code": "343",
+        "slug": "canyonrot-343",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/canyonrot-343/",
+        "source_label": "PaintScratch 1998 BMW-Motorcycles",
+        "hex_value": "#761C1A"
+      },
+      {
+        "display_name": "Light Green Metallic",
+        "paint_code": "703",
+        "slug": "light-green-metallic-703",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/light-green-metallic-703/",
+        "source_label": "PaintScratch 1998 BMW-Motorcycles",
+        "hex_value": "#D9EBB7"
+      },
+      {
+        "display_name": "Green Metallic",
+        "paint_code": "714",
+        "slug": "green-metallic-714",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/green-metallic-714/",
+        "source_label": "PaintScratch 1998 BMW-Motorcycles",
+        "hex_value": "#15350F"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "716",
+        "slug": "black-716",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/black-716/",
+        "source_label": "PaintScratch 1998 BMW-Motorcycles",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Red",
+        "paint_code": "733",
+        "slug": "red-733",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/red-733/",
+        "source_label": "PaintScratch 1998 BMW-Motorcycles",
+        "hex_value": "#B42E24"
+      }
+    ],
+    "1999": [
+      {
+        "display_name": "Black",
+        "paint_code": "086",
+        "slug": "black-086",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/black-086/",
+        "source_label": "PaintScratch 1999 BMW-Motorcycles",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Titan Silver Metallic",
+        "paint_code": "354",
+        "slug": "titan-silver-metallic-354",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/titan-silver-metallic-354/",
+        "source_label": "PaintScratch 1999 BMW-Motorcycles",
+        "hex_value": "#DAD7D2"
+      },
+      {
+        "display_name": "Green Metallic",
+        "paint_code": "714",
+        "slug": "green-metallic-714",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/green-metallic-714/",
+        "source_label": "PaintScratch 1999 BMW-Motorcycles",
+        "hex_value": "#15350F"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "716",
+        "slug": "black-716",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/black-716/",
+        "source_label": "PaintScratch 1999 BMW-Motorcycles",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Red",
+        "paint_code": "733",
+        "slug": "red-733",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/red-733/",
+        "source_label": "PaintScratch 1999 BMW-Motorcycles",
+        "hex_value": "#B42E24"
+      },
+      {
+        "display_name": "Gruen Met",
+        "paint_code": "746",
+        "slug": "gruen-met-746",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/gruen-met-746/",
+        "source_label": "PaintScratch 1999 BMW-Motorcycles",
+        "hex_value": "#C2DB7F"
+      }
+    ],
+    "2000": [
+      {
+        "display_name": "Black",
+        "paint_code": "086",
+        "slug": "black-086",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/black-086/",
+        "source_label": "PaintScratch 2000 BMW-Motorcycles",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Titan Silver Metallic",
+        "paint_code": "354",
+        "slug": "titan-silver-metallic-354",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/titan-silver-metallic-354/",
+        "source_label": "PaintScratch 2000 BMW-Motorcycles",
+        "hex_value": "#DAD7D2"
+      },
+      {
+        "display_name": "Green Metallic",
+        "paint_code": "714",
+        "slug": "green-metallic-714",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/green-metallic-714/",
+        "source_label": "PaintScratch 2000 BMW-Motorcycles",
+        "hex_value": "#15350F"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "716",
+        "slug": "black-716",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/black-716/",
+        "source_label": "PaintScratch 2000 BMW-Motorcycles",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Red",
+        "paint_code": "733",
+        "slug": "red-733",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/red-733/",
+        "source_label": "PaintScratch 2000 BMW-Motorcycles",
+        "hex_value": "#B42E24"
+      }
+    ],
+    "2001": [
+      {
+        "display_name": "Black",
+        "paint_code": "086",
+        "slug": "black-086",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/black-086/",
+        "source_label": "PaintScratch 2001 BMW-Motorcycles",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Titan Silver Metallic",
+        "paint_code": "354",
+        "slug": "titan-silver-metallic-354",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/titan-silver-metallic-354/",
+        "source_label": "PaintScratch 2001 BMW-Motorcycles",
+        "hex_value": "#DAD7D2"
+      },
+      {
+        "display_name": "Aqua Mint",
+        "paint_code": "795",
+        "slug": "aqua-mint-795",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/aqua-mint-795/",
+        "source_label": "PaintScratch 2001 BMW-Motorcycles",
+        "hex_value": "#495EA3"
+      },
+      {
+        "display_name": "Green Metallic",
+        "paint_code": "714",
+        "slug": "green-metallic-714",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/green-metallic-714/",
+        "source_label": "PaintScratch 2001 BMW-Motorcycles",
+        "hex_value": "#15350F"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "716",
+        "slug": "black-716",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/black-716/",
+        "source_label": "PaintScratch 2001 BMW-Motorcycles",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Red",
+        "paint_code": "733",
+        "slug": "red-733",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/red-733/",
+        "source_label": "PaintScratch 2001 BMW-Motorcycles",
+        "hex_value": "#B42E24"
+      },
+      {
+        "display_name": "Champagne",
+        "paint_code": "741",
+        "slug": "champagne-741",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/champagne-741/",
+        "source_label": "PaintScratch 2001 BMW-Motorcycles",
+        "hex_value": "#E9D9A1"
+      },
+      {
+        "display_name": "Titan Silver Metallic",
+        "paint_code": "764",
+        "slug": "titan-silver-metallic-764",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/titan-silver-metallic-764/",
+        "source_label": "PaintScratch 2001 BMW-Motorcycles",
+        "hex_value": "#CAD1D8"
+      }
+    ],
+    "2002": [
+      {
+        "display_name": "Black",
+        "paint_code": "086",
+        "slug": "black-086",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/black-086/",
+        "source_label": "PaintScratch 2002 BMW-Motorcycles",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Titan Silver Metallic",
+        "paint_code": "354",
+        "slug": "titan-silver-metallic-354",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/titan-silver-metallic-354/",
+        "source_label": "PaintScratch 2002 BMW-Motorcycles",
+        "hex_value": "#DAD7D2"
+      },
+      {
+        "display_name": "Marrakesh Red",
+        "paint_code": "392",
+        "slug": "marrakesh-red-392",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/marrakesh-red-392/",
+        "source_label": "PaintScratch 2002 BMW-Motorcycles",
+        "hex_value": "#F31515"
+      },
+      {
+        "display_name": "Medium Blue",
+        "paint_code": "794/820",
+        "slug": "medium-blue-794820",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/medium-blue-794820/",
+        "source_label": "PaintScratch 2002 BMW-Motorcycles",
+        "hex_value": "#0D2D97"
+      },
+      {
+        "display_name": "Aqua Mint",
+        "paint_code": "795",
+        "slug": "aqua-mint-795",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/aqua-mint-795/",
+        "source_label": "PaintScratch 2002 BMW-Motorcycles",
+        "hex_value": "#495EA3"
+      },
+      {
+        "display_name": "Green Metallic",
+        "paint_code": "714",
+        "slug": "green-metallic-714",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/green-metallic-714/",
+        "source_label": "PaintScratch 2002 BMW-Motorcycles",
+        "hex_value": "#15350F"
+      },
+      {
+        "display_name": "Red",
+        "paint_code": "733",
+        "slug": "red-733",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/red-733/",
+        "source_label": "PaintScratch 2002 BMW-Motorcycles",
+        "hex_value": "#B42E24"
+      }
+    ],
+    "2003": [
+      {
+        "display_name": "Black",
+        "paint_code": "086",
+        "slug": "black-086",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/black-086/",
+        "source_label": "PaintScratch 2003 BMW-Motorcycles",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Titan Silver Metallic",
+        "paint_code": "354",
+        "slug": "titan-silver-metallic-354",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/titan-silver-metallic-354/",
+        "source_label": "PaintScratch 2003 BMW-Motorcycles",
+        "hex_value": "#DAD7D2"
+      },
+      {
+        "display_name": "Aqua Mint",
+        "paint_code": "795",
+        "slug": "aqua-mint-795",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/aqua-mint-795/",
+        "source_label": "PaintScratch 2003 BMW-Motorcycles",
+        "hex_value": "#495EA3"
+      },
+      {
+        "display_name": "Dark Ferro",
+        "paint_code": "488",
+        "slug": "dark-ferro-488",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/dark-ferro-488/",
+        "source_label": "PaintScratch 2003 BMW-Motorcycles",
+        "hex_value": "#597DF3"
+      },
+      {
+        "display_name": "Green Metallic",
+        "paint_code": "714",
+        "slug": "green-metallic-714",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/green-metallic-714/",
+        "source_label": "PaintScratch 2003 BMW-Motorcycles",
+        "hex_value": "#15350F"
+      },
+      {
+        "display_name": "Red",
+        "paint_code": "733",
+        "slug": "red-733",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/red-733/",
+        "source_label": "PaintScratch 2003 BMW-Motorcycles",
+        "hex_value": "#B42E24"
+      },
+      {
+        "display_name": "Titanium Gray",
+        "paint_code": "846",
+        "slug": "titanium-gray-846",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/titanium-gray-846/",
+        "source_label": "PaintScratch 2003 BMW-Motorcycles",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Pearl Silver Metallic (Water-Based)",
+        "paint_code": "906",
+        "slug": "pearl-silver-metallic-water-based-906",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/pearl-silver-metallic-water-based-906/",
+        "source_label": "PaintScratch 2003 BMW-Motorcycles",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Graugreen",
+        "paint_code": "910",
+        "slug": "graugreen-910",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/graugreen-910/",
+        "source_label": "PaintScratch 2003 BMW-Motorcycles",
+        "hex_value": "#468D8E"
+      }
+    ],
+    "2004": [
+      {
+        "display_name": "Black",
+        "paint_code": "086",
+        "slug": "black-086",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/black-086/",
+        "source_label": "PaintScratch 2004 BMW-Motorcycles",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Titan Silver Metallic",
+        "paint_code": "354",
+        "slug": "titan-silver-metallic-354",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/titan-silver-metallic-354/",
+        "source_label": "PaintScratch 2004 BMW-Motorcycles",
+        "hex_value": "#DAD7D2"
+      },
+      {
+        "display_name": "Aqua Mint",
+        "paint_code": "795",
+        "slug": "aqua-mint-795",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/aqua-mint-795/",
+        "source_label": "PaintScratch 2004 BMW-Motorcycles",
+        "hex_value": "#495EA3"
+      },
+      {
+        "display_name": "Gray",
+        "paint_code": "397",
+        "slug": "gray-397",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/gray-397/",
+        "source_label": "PaintScratch 2004 BMW-Motorcycles",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Dark Ferro",
+        "paint_code": "488",
+        "slug": "dark-ferro-488",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/dark-ferro-488/",
+        "source_label": "PaintScratch 2004 BMW-Motorcycles",
+        "hex_value": "#597DF3"
+      },
+      {
+        "display_name": "Green Metallic",
+        "paint_code": "714",
+        "slug": "green-metallic-714",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/green-metallic-714/",
+        "source_label": "PaintScratch 2004 BMW-Motorcycles",
+        "hex_value": "#15350F"
+      },
+      {
+        "display_name": "Red",
+        "paint_code": "733",
+        "slug": "red-733",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/red-733/",
+        "source_label": "PaintScratch 2004 BMW-Motorcycles",
+        "hex_value": "#B42E24"
+      },
+      {
+        "display_name": "Pearl Silver Metallic (Water-Based)",
+        "paint_code": "906",
+        "slug": "pearl-silver-metallic-water-based-906",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/pearl-silver-metallic-water-based-906/",
+        "source_label": "PaintScratch 2004 BMW-Motorcycles",
+        "hex_value": "#C0C0C0"
+      }
+    ],
+    "2005": [
+      {
+        "display_name": "Black",
+        "paint_code": "086",
+        "slug": "black-086",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/black-086/",
+        "source_label": "PaintScratch 2005 BMW-Motorcycles",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Titan Silver Metallic",
+        "paint_code": "354",
+        "slug": "titan-silver-metallic-354",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/titan-silver-metallic-354/",
+        "source_label": "PaintScratch 2005 BMW-Motorcycles",
+        "hex_value": "#DAD7D2"
+      },
+      {
+        "display_name": "Aqua Mint",
+        "paint_code": "795",
+        "slug": "aqua-mint-795",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/aqua-mint-795/",
+        "source_label": "PaintScratch 2005 BMW-Motorcycles",
+        "hex_value": "#495EA3"
+      },
+      {
+        "display_name": "Green Metallic",
+        "paint_code": "714",
+        "slug": "green-metallic-714",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/green-metallic-714/",
+        "source_label": "PaintScratch 2005 BMW-Motorcycles",
+        "hex_value": "#15350F"
+      },
+      {
+        "display_name": "Red",
+        "paint_code": "733",
+        "slug": "red-733",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/red-733/",
+        "source_label": "PaintScratch 2005 BMW-Motorcycles",
+        "hex_value": "#B42E24"
+      },
+      {
+        "display_name": "Yellow",
+        "paint_code": "M953",
+        "slug": "yellow-m953",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/yellow-m953/",
+        "source_label": "PaintScratch 2005 BMW-Motorcycles",
+        "hex_value": "#FFDE01"
+      }
+    ],
+    "2006": [
+      {
+        "display_name": "Black",
+        "paint_code": "086",
+        "slug": "black-086",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/black-086/",
+        "source_label": "PaintScratch 2006 BMW-Motorcycles",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Titan Silver Metallic",
+        "paint_code": "354",
+        "slug": "titan-silver-metallic-354",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/titan-silver-metallic-354/",
+        "source_label": "PaintScratch 2006 BMW-Motorcycles",
+        "hex_value": "#DAD7D2"
+      },
+      {
+        "display_name": "Green Metallic",
+        "paint_code": "714",
+        "slug": "green-metallic-714",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/green-metallic-714/",
+        "source_label": "PaintScratch 2006 BMW-Motorcycles",
+        "hex_value": "#15350F"
+      },
+      {
+        "display_name": "Blue",
+        "paint_code": "947",
+        "slug": "blue-947",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/blue-947/",
+        "source_label": "PaintScratch 2006 BMW-Motorcycles",
+        "hex_value": "#495EA3"
+      }
+    ],
+    "2007": [
+      {
+        "display_name": "Black",
+        "paint_code": "086",
+        "slug": "black-086",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/black-086/",
+        "source_label": "PaintScratch 2007 BMW-Motorcycles",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Titan Silver Metallic",
+        "paint_code": "354",
+        "slug": "titan-silver-metallic-354",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/titan-silver-metallic-354/",
+        "source_label": "PaintScratch 2007 BMW-Motorcycles",
+        "hex_value": "#DAD7D2"
+      },
+      {
+        "display_name": "Green Metallic",
+        "paint_code": "714",
+        "slug": "green-metallic-714",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/green-metallic-714/",
+        "source_label": "PaintScratch 2007 BMW-Motorcycles",
+        "hex_value": "#15350F"
+      },
+      {
+        "display_name": "Black",
+        "paint_code": "716",
+        "slug": "black-716",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/black-716/",
+        "source_label": "PaintScratch 2007 BMW-Motorcycles",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Deep Blue Metallic",
+        "paint_code": "997",
+        "slug": "deep-blue-metallic-997",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/deep-blue-metallic-997/",
+        "source_label": "PaintScratch 2007 BMW-Motorcycles",
+        "hex_value": "#0D2D97"
+      }
+    ],
+    "2008": [
+      {
+        "display_name": "Black",
+        "paint_code": "086",
+        "slug": "black-086",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/black-086/",
+        "source_label": "PaintScratch 2008 BMW-Motorcycles",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Aluminum Silver Metallic",
+        "paint_code": "960",
+        "slug": "aluminum-silver-metallic-960",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/aluminum-silver-metallic-960/",
+        "source_label": "PaintScratch 2008 BMW-Motorcycles",
+        "hex_value": "#CAD1D8"
+      },
+      {
+        "display_name": "Deep Blue Metallic",
+        "paint_code": "997",
+        "slug": "deep-blue-metallic-997",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/deep-blue-metallic-997/",
+        "source_label": "PaintScratch 2008 BMW-Motorcycles",
+        "hex_value": "#0D2D97"
+      }
+    ],
+    "2009": [
+      {
+        "display_name": "Black",
+        "paint_code": "086",
+        "slug": "black-086",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/black-086/",
+        "source_label": "PaintScratch 2009 BMW-Motorcycles",
+        "hex_value": "#000000"
+      }
+    ],
+    "2010": [
+      {
+        "display_name": "Black",
+        "paint_code": "086",
+        "slug": "black-086",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/black-086/",
+        "source_label": "PaintScratch 2010 BMW-Motorcycles",
+        "hex_value": "#000000"
+      }
+    ],
+    "2011": [
+      {
+        "display_name": "Black",
+        "paint_code": "086",
+        "slug": "black-086",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/black-086/",
+        "source_label": "PaintScratch 2011 BMW-Motorcycles",
+        "hex_value": "#000000"
+      }
+    ],
+    "2012": [
+      {
+        "display_name": "Racing Red",
+        "paint_code": "M4D",
+        "slug": "racing-red-m4d",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/racing-red-m4d/",
+        "source_label": "PaintScratch 2012 BMW-Motorcycles",
+        "hex_value": "#AC2222"
+      }
+    ],
+    "2013": [
+      {
+        "display_name": "Racing Red",
+        "paint_code": "M4D",
+        "slug": "racing-red-m4d",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/racing-red-m4d/",
+        "source_label": "PaintScratch 2013 BMW-Motorcycles",
+        "hex_value": "#AC2222"
+      }
+    ],
+    "2014": [
+      {
+        "display_name": "Racing Red",
+        "paint_code": "M4D",
+        "slug": "racing-red-m4d",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/racing-red-m4d/",
+        "source_label": "PaintScratch 2014 BMW-Motorcycles",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "Dark Green",
+        "paint_code": "M44",
+        "slug": "dark-green-m44",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/dark-green-m44/",
+        "source_label": "PaintScratch 2014 BMW-Motorcycles",
+        "hex_value": "#15350F"
+      },
+      {
+        "display_name": "Black (Water-Based)",
+        "paint_code": "NC9",
+        "slug": "black-water-based-nc9",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/black-water-based-nc9/",
+        "source_label": "PaintScratch 2014 BMW-Motorcycles",
+        "hex_value": "#000000"
+      }
+    ],
+    "2015": [
+      {
+        "display_name": "Racing Red",
+        "paint_code": "M4D",
+        "slug": "racing-red-m4d",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/racing-red-m4d/",
+        "source_label": "PaintScratch 2015 BMW-Motorcycles",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "Maroon",
+        "paint_code": "M47",
+        "slug": "maroon-m47",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/maroon-m47/",
+        "source_label": "PaintScratch 2015 BMW-Motorcycles",
+        "hex_value": "#761C1A"
+      }
+    ],
+    "2016": [
+      {
+        "display_name": "Black",
+        "paint_code": "M46",
+        "slug": "black-m46",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/black-m46/",
+        "source_label": "PaintScratch 2016 BMW-Motorcycles",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Racing Red",
+        "paint_code": "M4D",
+        "slug": "racing-red-m4d",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/racing-red-m4d/",
+        "source_label": "PaintScratch 2016 BMW-Motorcycles",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "Kalamata Metallic Matte (Water-Base Only)",
+        "paint_code": "M41",
+        "slug": "kalamata-metallic-matte-water-base-only-m41",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/kalamata-metallic-matte-water-base-only-m41/",
+        "source_label": "PaintScratch 2016 BMW-Motorcycles",
+        "hex_value": "#9C8C08"
+      },
+      {
+        "display_name": "Maroon",
+        "paint_code": "M47",
+        "slug": "maroon-m47",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/maroon-m47/",
+        "source_label": "PaintScratch 2016 BMW-Motorcycles",
+        "hex_value": "#761C1A"
+      },
+      {
+        "display_name": "Black (Water-Based)",
+        "paint_code": "NC9",
+        "slug": "black-water-based-nc9",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/black-water-based-nc9/",
+        "source_label": "PaintScratch 2016 BMW-Motorcycles",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Asphalt Grey",
+        "paint_code": "WM23",
+        "slug": "asphalt-grey-wm23",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/asphalt-grey-wm23/",
+        "source_label": "PaintScratch 2016 BMW-Motorcycles",
+        "hex_value": "#808080"
+      }
+    ],
+    "2017": [
+      {
+        "display_name": "Black",
+        "paint_code": "M46",
+        "slug": "black-m46",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/black-m46/",
+        "source_label": "PaintScratch 2017 BMW-Motorcycles",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Racing Red",
+        "paint_code": "M4D",
+        "slug": "racing-red-m4d",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/racing-red-m4d/",
+        "source_label": "PaintScratch 2017 BMW-Motorcycles",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "Blue",
+        "paint_code": "M4E",
+        "slug": "blue-m4e",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/blue-m4e/",
+        "source_label": "PaintScratch 2017 BMW-Motorcycles",
+        "hex_value": "#495EA3"
+      },
+      {
+        "display_name": "Lupin Blue",
+        "paint_code": "M25",
+        "slug": "lupin-blue-m25",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/lupin-blue-m25/",
+        "source_label": "PaintScratch 2017 BMW-Motorcycles",
+        "hex_value": "#0D2D97"
+      },
+      {
+        "display_name": "Kalamata Metallic Matte (Water-Base Only)",
+        "paint_code": "M41",
+        "slug": "kalamata-metallic-matte-water-base-only-m41",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/kalamata-metallic-matte-water-base-only-m41/",
+        "source_label": "PaintScratch 2017 BMW-Motorcycles",
+        "hex_value": "#9C8C08"
+      },
+      {
+        "display_name": "Black (Water-Based)",
+        "paint_code": "NC9",
+        "slug": "black-water-based-nc9",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/black-water-based-nc9/",
+        "source_label": "PaintScratch 2017 BMW-Motorcycles",
+        "hex_value": "#000000"
+      }
+    ],
+    "2018": [
+      {
+        "display_name": "Racing Red",
+        "paint_code": "M4D",
+        "slug": "racing-red-m4d",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/racing-red-m4d/",
+        "source_label": "PaintScratch 2018 BMW-Motorcycles",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "Lupin Blue",
+        "paint_code": "M25",
+        "slug": "lupin-blue-m25",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/lupin-blue-m25/",
+        "source_label": "PaintScratch 2018 BMW-Motorcycles",
+        "hex_value": "#0D2D97"
+      },
+      {
+        "display_name": "Kalamata Metallic Matte (Water-Base Only)",
+        "paint_code": "M41",
+        "slug": "kalamata-metallic-matte-water-base-only-m41",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/kalamata-metallic-matte-water-base-only-m41/",
+        "source_label": "PaintScratch 2018 BMW-Motorcycles",
+        "hex_value": "#9C8C08"
+      },
+      {
+        "display_name": "Black (Water-Based)",
+        "paint_code": "NC9",
+        "slug": "black-water-based-nc9",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/black-water-based-nc9/",
+        "source_label": "PaintScratch 2018 BMW-Motorcycles",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Mars Red",
+        "paint_code": "WM4R",
+        "slug": "mars-red-wm4r",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/mars-red-wm4r/",
+        "source_label": "PaintScratch 2018 BMW-Motorcycles",
+        "hex_value": "#AC2222"
+      }
+    ],
+    "2019": [
+      {
+        "display_name": "Ice Grey",
+        "paint_code": "M3G",
+        "slug": "ice-grey-m3g",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/ice-grey-m3g/",
+        "source_label": "PaintScratch 2019 BMW-Motorcycles",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Racing Red",
+        "paint_code": "M4D",
+        "slug": "racing-red-m4d",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/racing-red-m4d/",
+        "source_label": "PaintScratch 2019 BMW-Motorcycles",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "Kalamata Metallic Matte (Water-Base Only)",
+        "paint_code": "M41",
+        "slug": "kalamata-metallic-matte-water-base-only-m41",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/kalamata-metallic-matte-water-base-only-m41/",
+        "source_label": "PaintScratch 2019 BMW-Motorcycles",
+        "hex_value": "#9C8C08"
+      },
+      {
+        "display_name": "Black (Water-Based)",
+        "paint_code": "NC9",
+        "slug": "black-water-based-nc9",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/black-water-based-nc9/",
+        "source_label": "PaintScratch 2019 BMW-Motorcycles",
+        "hex_value": "#000000"
+      }
+    ],
+    "2020": [
+      {
+        "display_name": "Ice Grey",
+        "paint_code": "M3G",
+        "slug": "ice-grey-m3g",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/ice-grey-m3g/",
+        "source_label": "PaintScratch 2020 BMW-Motorcycles",
+        "hex_value": "#C0C0C0"
+      },
+      {
+        "display_name": "Racing Red",
+        "paint_code": "M4D",
+        "slug": "racing-red-m4d",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/racing-red-m4d/",
+        "source_label": "PaintScratch 2020 BMW-Motorcycles",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "Kalamata Metallic Matte (Water-Base Only)",
+        "paint_code": "M41",
+        "slug": "kalamata-metallic-matte-water-base-only-m41",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/kalamata-metallic-matte-water-base-only-m41/",
+        "source_label": "PaintScratch 2020 BMW-Motorcycles",
+        "hex_value": "#9C8C08"
+      },
+      {
+        "display_name": "Black (Water-Based)",
+        "paint_code": "NC9",
+        "slug": "black-water-based-nc9",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/black-water-based-nc9/",
+        "source_label": "PaintScratch 2020 BMW-Motorcycles",
+        "hex_value": "#000000"
+      }
+    ],
+    "2021": [
+      {
+        "display_name": "Alpine White",
+        "paint_code": "751",
+        "slug": "alpine-white-751",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/alpine-white-751/",
+        "source_label": "PaintScratch 2021 BMW-Motorcycles",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Racing Red",
+        "paint_code": "M4D",
+        "slug": "racing-red-m4d",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/racing-red-m4d/",
+        "source_label": "PaintScratch 2021 BMW-Motorcycles",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "Kalamata Metallic Matte (Water-Base Only)",
+        "paint_code": "M41",
+        "slug": "kalamata-metallic-matte-water-base-only-m41",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/kalamata-metallic-matte-water-base-only-m41/",
+        "source_label": "PaintScratch 2021 BMW-Motorcycles",
+        "hex_value": "#9C8C08"
+      },
+      {
+        "display_name": "Black (Water-Based)",
+        "paint_code": "NC9",
+        "slug": "black-water-based-nc9",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/black-water-based-nc9/",
+        "source_label": "PaintScratch 2021 BMW-Motorcycles",
+        "hex_value": "#000000"
+      }
+    ],
+    "2022": [
+      {
+        "display_name": "White Metallic Tricoat",
+        "paint_code": "A96",
+        "slug": "white-metallic-tricoat-a96",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/white-metallic-tricoat-a96/",
+        "source_label": "PaintScratch 2022 BMW-Motorcycles",
+        "hex_value": "#F6F6F0"
+      },
+      {
+        "display_name": "Mineral White Tricoat",
+        "paint_code": "H0A/HOA",
+        "slug": "mineral-white-tricoat-h0ahoa",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/mineral-white-tricoat-h0ahoa/",
+        "source_label": "PaintScratch 2022 BMW-Motorcycles",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Racing Red",
+        "paint_code": "M4D",
+        "slug": "racing-red-m4d",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/racing-red-m4d/",
+        "source_label": "PaintScratch 2022 BMW-Motorcycles",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "Kalamata Metallic Matte (Water-Base Only)",
+        "paint_code": "M41",
+        "slug": "kalamata-metallic-matte-water-base-only-m41",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/kalamata-metallic-matte-water-base-only-m41/",
+        "source_label": "PaintScratch 2022 BMW-Motorcycles",
+        "hex_value": "#9C8C08"
+      },
+      {
+        "display_name": "Black (Water-Based)",
+        "paint_code": "NC9",
+        "slug": "black-water-based-nc9",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/black-water-based-nc9/",
+        "source_label": "PaintScratch 2022 BMW-Motorcycles",
+        "hex_value": "#000000"
+      }
+    ],
+    "2023": [
+      {
+        "display_name": "BMW Light White",
+        "paint_code": "B15",
+        "slug": "bmw-light-white-b15",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/bmw-light-white-b15/",
+        "source_label": "PaintScratch 2023 BMW-Motorcycles",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Racing Red",
+        "paint_code": "M4D",
+        "slug": "racing-red-m4d",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/racing-red-m4d/",
+        "source_label": "PaintScratch 2023 BMW-Motorcycles",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "Kalamata Metallic Matte (Water-Base Only)",
+        "paint_code": "M41",
+        "slug": "kalamata-metallic-matte-water-base-only-m41",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/kalamata-metallic-matte-water-base-only-m41/",
+        "source_label": "PaintScratch 2023 BMW-Motorcycles",
+        "hex_value": "#9C8C08"
+      },
+      {
+        "display_name": "Black (Water-Based)",
+        "paint_code": "NC9",
+        "slug": "black-water-based-nc9",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/black-water-based-nc9/",
+        "source_label": "PaintScratch 2023 BMW-Motorcycles",
+        "hex_value": "#000000"
+      }
+    ],
+    "2024": [
+      {
+        "display_name": "Racing Red",
+        "paint_code": "M4D",
+        "slug": "racing-red-m4d",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/racing-red-m4d/",
+        "source_label": "PaintScratch 2024 BMW-Motorcycles",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "Kalamata Metallic Matte (Water-Base Only)",
+        "paint_code": "M41",
+        "slug": "kalamata-metallic-matte-water-base-only-m41",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/kalamata-metallic-matte-water-base-only-m41/",
+        "source_label": "PaintScratch 2024 BMW-Motorcycles",
+        "hex_value": "#9C8C08"
+      },
+      {
+        "display_name": "Black (Water-Based)",
+        "paint_code": "NC9",
+        "slug": "black-water-based-nc9",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/black-water-based-nc9/",
+        "source_label": "PaintScratch 2024 BMW-Motorcycles",
+        "hex_value": "#000000"
+      }
+    ],
+    "2025": [
+      {
+        "display_name": "Racing Red",
+        "paint_code": "M4D",
+        "slug": "racing-red-m4d",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/racing-red-m4d/",
+        "source_label": "PaintScratch 2025 BMW-Motorcycles",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "Kalamata Metallic Matte (Water-Base Only)",
+        "paint_code": "M41",
+        "slug": "kalamata-metallic-matte-water-base-only-m41",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/kalamata-metallic-matte-water-base-only-m41/",
+        "source_label": "PaintScratch 2025 BMW-Motorcycles",
+        "hex_value": "#9C8C08"
+      },
+      {
+        "display_name": "Black (Water-Based)",
+        "paint_code": "NC9",
+        "slug": "black-water-based-nc9",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/black-water-based-nc9/",
+        "source_label": "PaintScratch 2025 BMW-Motorcycles",
+        "hex_value": "#000000"
+      }
+    ],
+    "2026": [
+      {
+        "display_name": "Racing Red",
+        "paint_code": "M4D",
+        "slug": "racing-red-m4d",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/racing-red-m4d/",
+        "source_label": "PaintScratch 2026 BMW-Motorcycles",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "Kalamata Metallic Matte (Water-Base Only)",
+        "paint_code": "M41",
+        "slug": "kalamata-metallic-matte-water-base-only-m41",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/kalamata-metallic-matte-water-base-only-m41/",
+        "source_label": "PaintScratch 2026 BMW-Motorcycles",
+        "hex_value": "#9C8C08"
+      },
+      {
+        "display_name": "Black (Water-Based)",
+        "paint_code": "NC9",
+        "slug": "black-water-based-nc9",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/black-water-based-nc9/",
+        "source_label": "PaintScratch 2026 BMW-Motorcycles",
+        "hex_value": "#000000"
+      }
+    ],
+    "2027": [
+      {
+        "display_name": "Racing Red",
+        "paint_code": "M4D",
+        "slug": "racing-red-m4d",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/racing-red-m4d/",
+        "source_label": "PaintScratch 2027 BMW-Motorcycles",
+        "hex_value": "#AC2222"
+      },
+      {
+        "display_name": "Kalamata Metallic Matte (Water-Base Only)",
+        "paint_code": "M41",
+        "slug": "kalamata-metallic-matte-water-base-only-m41",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/kalamata-metallic-matte-water-base-only-m41/",
+        "source_label": "PaintScratch 2027 BMW-Motorcycles",
+        "hex_value": "#9C8C08"
+      },
+      {
+        "display_name": "Black (Water-Based)",
+        "paint_code": "NC9",
+        "slug": "black-water-based-nc9",
+        "reference_url": "https://www.paintscratch.com/colors/bmw-motorcycles/black-water-based-nc9/",
+        "source_label": "PaintScratch 2027 BMW-Motorcycles",
+        "hex_value": "#000000"
+      }
+    ]
+  }
+}

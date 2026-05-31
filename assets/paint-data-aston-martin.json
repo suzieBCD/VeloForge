@@ -1,0 +1,3338 @@
+{
+  "All Models": {
+    "1989": [
+      {
+        "display_name": "Stornoway Silver",
+        "paint_code": "1143",
+        "slug": "stornoway-silver-1143",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/stornoway-silver-1143/",
+        "source_label": "PaintScratch 1989 Aston-Martin",
+        "hex_value": "#E4E2DC"
+      },
+      {
+        "display_name": "British Racing Green",
+        "paint_code": "46430",
+        "slug": "british-racing-green-46430",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/british-racing-green-46430/",
+        "source_label": "PaintScratch 1989 Aston-Martin",
+        "hex_value": "#15350F"
+      },
+      {
+        "display_name": "Bright Red",
+        "paint_code": "ARC-2013",
+        "slug": "bright-red-arc-2013",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/bright-red-arc-2013/",
+        "source_label": "PaintScratch 1989 Aston-Martin",
+        "hex_value": "#F31515"
+      }
+    ],
+    "1990": [
+      {
+        "display_name": "Stornoway Silver",
+        "paint_code": "1143",
+        "slug": "stornoway-silver-1143",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/stornoway-silver-1143/",
+        "source_label": "PaintScratch 1990 Aston-Martin",
+        "hex_value": "#E4E2DC"
+      }
+    ],
+    "1991": [
+      {
+        "display_name": "Stornoway Silver",
+        "paint_code": "1143",
+        "slug": "stornoway-silver-1143",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/stornoway-silver-1143/",
+        "source_label": "PaintScratch 1991 Aston-Martin",
+        "hex_value": "#E4E2DC"
+      }
+    ],
+    "1992": [
+      {
+        "display_name": "Stornoway Silver",
+        "paint_code": "1143",
+        "slug": "stornoway-silver-1143",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/stornoway-silver-1143/",
+        "source_label": "PaintScratch 1992 Aston-Martin",
+        "hex_value": "#E4E2DC"
+      }
+    ],
+    "1993": [
+      {
+        "display_name": "Stornoway Silver",
+        "paint_code": "1143",
+        "slug": "stornoway-silver-1143",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/stornoway-silver-1143/",
+        "source_label": "PaintScratch 1993 Aston-Martin",
+        "hex_value": "#E4E2DC"
+      }
+    ],
+    "1994": [
+      {
+        "display_name": "Stornoway Silver",
+        "paint_code": "1143",
+        "slug": "stornoway-silver-1143",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/stornoway-silver-1143/",
+        "source_label": "PaintScratch 1994 Aston-Martin",
+        "hex_value": "#E4E2DC"
+      }
+    ],
+    "1995": [
+      {
+        "display_name": "Stornoway Silver",
+        "paint_code": "1143",
+        "slug": "stornoway-silver-1143",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/stornoway-silver-1143/",
+        "source_label": "PaintScratch 1995 Aston-Martin",
+        "hex_value": "#E4E2DC"
+      }
+    ],
+    "1996": [
+      {
+        "display_name": "Stornoway Silver",
+        "paint_code": "1143",
+        "slug": "stornoway-silver-1143",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/stornoway-silver-1143/",
+        "source_label": "PaintScratch 1996 Aston-Martin",
+        "hex_value": "#E4E2DC"
+      }
+    ],
+    "1997": [
+      {
+        "display_name": "Stornoway Silver",
+        "paint_code": "1143",
+        "slug": "stornoway-silver-1143",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/stornoway-silver-1143/",
+        "source_label": "PaintScratch 1997 Aston-Martin",
+        "hex_value": "#E4E2DC"
+      }
+    ],
+    "1998": [
+      {
+        "display_name": "Stornoway Silver",
+        "paint_code": "1143",
+        "slug": "stornoway-silver-1143",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/stornoway-silver-1143/",
+        "source_label": "PaintScratch 1998 Aston-Martin",
+        "hex_value": "#E4E2DC"
+      }
+    ],
+    "1999": [
+      {
+        "display_name": "Stornoway Silver",
+        "paint_code": "1143",
+        "slug": "stornoway-silver-1143",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/stornoway-silver-1143/",
+        "source_label": "PaintScratch 1999 Aston-Martin",
+        "hex_value": "#E4E2DC"
+      }
+    ],
+    "2000": [
+      {
+        "display_name": "Stornoway Silver",
+        "paint_code": "1143",
+        "slug": "stornoway-silver-1143",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/stornoway-silver-1143/",
+        "source_label": "PaintScratch 2000 Aston-Martin",
+        "hex_value": "#E4E2DC"
+      },
+      {
+        "display_name": "Racing Green Metallic",
+        "paint_code": "AST5019D",
+        "slug": "racing-green-metallic-ast5019d",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/racing-green-metallic-ast5019d/",
+        "source_label": "PaintScratch 2000 Aston-Martin",
+        "hex_value": "#004000"
+      }
+    ],
+    "2001": [
+      {
+        "display_name": "Stornoway Silver",
+        "paint_code": "1143",
+        "slug": "stornoway-silver-1143",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/stornoway-silver-1143/",
+        "source_label": "PaintScratch 2001 Aston-Martin",
+        "hex_value": "#E4E2DC"
+      },
+      {
+        "display_name": "Stronsay Silver Metallic",
+        "paint_code": "9571",
+        "slug": "stronsay-silver-metallic-9571",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/stronsay-silver-metallic-9571/",
+        "source_label": "PaintScratch 2001 Aston-Martin",
+        "hex_value": "#E4E2DC"
+      }
+    ],
+    "2002": [
+      {
+        "display_name": "Chiltern Green Metallic",
+        "paint_code": "1100",
+        "slug": "chiltern-green-metallic-1100",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/chiltern-green-metallic-1100/",
+        "source_label": "PaintScratch 2002 Aston-Martin",
+        "hex_value": "#15350F"
+      },
+      {
+        "display_name": "Stornoway Silver",
+        "paint_code": "1143",
+        "slug": "stornoway-silver-1143",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/stornoway-silver-1143/",
+        "source_label": "PaintScratch 2002 Aston-Martin",
+        "hex_value": "#E4E2DC"
+      },
+      {
+        "display_name": "Pentland Green Metallic",
+        "paint_code": "9507",
+        "slug": "pentland-green-metallic-9507",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/pentland-green-metallic-9507/",
+        "source_label": "PaintScratch 2002 Aston-Martin",
+        "hex_value": "#3C5441"
+      },
+      {
+        "display_name": "Stronsay Silver Metallic",
+        "paint_code": "9571",
+        "slug": "stronsay-silver-metallic-9571",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/stronsay-silver-metallic-9571/",
+        "source_label": "PaintScratch 2002 Aston-Martin",
+        "hex_value": "#E4E2DC"
+      }
+    ],
+    "2003": [
+      {
+        "display_name": "Slate Blue Metallic",
+        "paint_code": "1343",
+        "slug": "slate-blue-metallic-1343",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/slate-blue-metallic-1343/",
+        "source_label": "PaintScratch 2003 Aston-Martin",
+        "hex_value": "#5F707F"
+      },
+      {
+        "display_name": "Bowland Black",
+        "paint_code": "4276",
+        "slug": "bowland-black-4276",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/bowland-black-4276/",
+        "source_label": "PaintScratch 2003 Aston-Martin",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "British Racing Green",
+        "paint_code": "6667",
+        "slug": "british-racing-green-6667",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/british-racing-green-6667/",
+        "source_label": "PaintScratch 2003 Aston-Martin",
+        "hex_value": "#23472B"
+      },
+      {
+        "display_name": "Mendip Blue Pearl",
+        "paint_code": "9500",
+        "slug": "mendip-blue-pearl-9500",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/mendip-blue-pearl-9500/",
+        "source_label": "PaintScratch 2003 Aston-Martin",
+        "hex_value": "#203258"
+      },
+      {
+        "display_name": "Pentland Green Metallic",
+        "paint_code": "9507",
+        "slug": "pentland-green-metallic-9507",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/pentland-green-metallic-9507/",
+        "source_label": "PaintScratch 2003 Aston-Martin",
+        "hex_value": "#3C5441"
+      },
+      {
+        "display_name": "Antrim Blue Metallic",
+        "paint_code": "9512",
+        "slug": "antrim-blue-metallic-9512",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/antrim-blue-metallic-9512/",
+        "source_label": "PaintScratch 2003 Aston-Martin",
+        "hex_value": "#263848"
+      },
+      {
+        "display_name": "Islay Blue Pearl",
+        "paint_code": "9537",
+        "slug": "islay-blue-pearl-9537",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/islay-blue-pearl-9537/",
+        "source_label": "PaintScratch 2003 Aston-Martin",
+        "hex_value": "#CCDCDB"
+      },
+      {
+        "display_name": "Solway Grey Metallic",
+        "paint_code": "9538",
+        "slug": "solway-grey-metallic-9538",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/solway-grey-metallic-9538/",
+        "source_label": "PaintScratch 2003 Aston-Martin",
+        "hex_value": "#686762"
+      },
+      {
+        "display_name": "Racing Green Metallic",
+        "paint_code": "9539",
+        "slug": "racing-green-metallic-9539",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/racing-green-metallic-9539/",
+        "source_label": "PaintScratch 2003 Aston-Martin",
+        "hex_value": "#84B08D"
+      },
+      {
+        "display_name": "Derwent Green Metallic",
+        "paint_code": "9561",
+        "slug": "derwent-green-metallic-9561",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/derwent-green-metallic-9561/",
+        "source_label": "PaintScratch 2003 Aston-Martin",
+        "hex_value": "#2C9E2F"
+      },
+      {
+        "display_name": "Balintyre Blue Metallic",
+        "paint_code": "9564",
+        "slug": "balintyre-blue-metallic-9564",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/balintyre-blue-metallic-9564/",
+        "source_label": "PaintScratch 2003 Aston-Martin",
+        "hex_value": "#4C927C"
+      },
+      {
+        "display_name": "Bridgewater Bronze Metallic",
+        "paint_code": "9565",
+        "slug": "bridgewater-bronze-metallic-9565",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/bridgewater-bronze-metallic-9565/",
+        "source_label": "PaintScratch 2003 Aston-Martin",
+        "hex_value": "#CD6137"
+      },
+      {
+        "display_name": "Rothesay Red Metallic",
+        "paint_code": "9566",
+        "slug": "rothesay-red-metallic-9566",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/rothesay-red-metallic-9566/",
+        "source_label": "PaintScratch 2003 Aston-Martin",
+        "hex_value": "#A92B37"
+      },
+      {
+        "display_name": "Rathlin Red",
+        "paint_code": "9567",
+        "slug": "rathlin-red-9567",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/rathlin-red-9567/",
+        "source_label": "PaintScratch 2003 Aston-Martin",
+        "hex_value": "#CE380A"
+      },
+      {
+        "display_name": "Aysgarth Blue Metallic",
+        "paint_code": "9568",
+        "slug": "aysgarth-blue-metallic-9568",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/aysgarth-blue-metallic-9568/",
+        "source_label": "PaintScratch 2003 Aston-Martin",
+        "hex_value": "#435EA3"
+      },
+      {
+        "display_name": "Aviemore Blue Metallic",
+        "paint_code": "9569",
+        "slug": "aviemore-blue-metallic-9569",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/aviemore-blue-metallic-9569/",
+        "source_label": "PaintScratch 2003 Aston-Martin",
+        "hex_value": "#4375A3"
+      }
+    ],
+    "2004": [
+      {
+        "display_name": "Bowland Black",
+        "paint_code": "4276",
+        "slug": "bowland-black-4276",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/bowland-black-4276/",
+        "source_label": "PaintScratch 2004 Aston-Martin",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "British Racing Green",
+        "paint_code": "6667",
+        "slug": "british-racing-green-6667",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/british-racing-green-6667/",
+        "source_label": "PaintScratch 2004 Aston-Martin",
+        "hex_value": "#23472B"
+      },
+      {
+        "display_name": "Mendip Blue Pearl",
+        "paint_code": "9500",
+        "slug": "mendip-blue-pearl-9500",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/mendip-blue-pearl-9500/",
+        "source_label": "PaintScratch 2004 Aston-Martin",
+        "hex_value": "#203258"
+      },
+      {
+        "display_name": "Pentland Green Metallic",
+        "paint_code": "9507",
+        "slug": "pentland-green-metallic-9507",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/pentland-green-metallic-9507/",
+        "source_label": "PaintScratch 2004 Aston-Martin",
+        "hex_value": "#3C5441"
+      },
+      {
+        "display_name": "Antrim Blue Metallic",
+        "paint_code": "9512",
+        "slug": "antrim-blue-metallic-9512",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/antrim-blue-metallic-9512/",
+        "source_label": "PaintScratch 2004 Aston-Martin",
+        "hex_value": "#263848"
+      },
+      {
+        "display_name": "Islay Blue Pearl",
+        "paint_code": "9537",
+        "slug": "islay-blue-pearl-9537",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/islay-blue-pearl-9537/",
+        "source_label": "PaintScratch 2004 Aston-Martin",
+        "hex_value": "#CCDCDB"
+      },
+      {
+        "display_name": "Solway Grey Metallic",
+        "paint_code": "9538",
+        "slug": "solway-grey-metallic-9538",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/solway-grey-metallic-9538/",
+        "source_label": "PaintScratch 2004 Aston-Martin",
+        "hex_value": "#686762"
+      },
+      {
+        "display_name": "Racing Green Metallic",
+        "paint_code": "9539",
+        "slug": "racing-green-metallic-9539",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/racing-green-metallic-9539/",
+        "source_label": "PaintScratch 2004 Aston-Martin",
+        "hex_value": "#84B08D"
+      },
+      {
+        "display_name": "Derwent Green Metallic",
+        "paint_code": "9561",
+        "slug": "derwent-green-metallic-9561",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/derwent-green-metallic-9561/",
+        "source_label": "PaintScratch 2004 Aston-Martin",
+        "hex_value": "#2C9E2F"
+      },
+      {
+        "display_name": "Balintyre Blue Metallic",
+        "paint_code": "9564",
+        "slug": "balintyre-blue-metallic-9564",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/balintyre-blue-metallic-9564/",
+        "source_label": "PaintScratch 2004 Aston-Martin",
+        "hex_value": "#4C927C"
+      },
+      {
+        "display_name": "Bridgewater Bronze Metallic",
+        "paint_code": "9565",
+        "slug": "bridgewater-bronze-metallic-9565",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/bridgewater-bronze-metallic-9565/",
+        "source_label": "PaintScratch 2004 Aston-Martin",
+        "hex_value": "#CD6137"
+      },
+      {
+        "display_name": "Rothesay Red Metallic",
+        "paint_code": "9566",
+        "slug": "rothesay-red-metallic-9566",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/rothesay-red-metallic-9566/",
+        "source_label": "PaintScratch 2004 Aston-Martin",
+        "hex_value": "#A92B37"
+      },
+      {
+        "display_name": "Rathlin Red",
+        "paint_code": "9567",
+        "slug": "rathlin-red-9567",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/rathlin-red-9567/",
+        "source_label": "PaintScratch 2004 Aston-Martin",
+        "hex_value": "#CE380A"
+      },
+      {
+        "display_name": "Aysgarth Blue Metallic",
+        "paint_code": "9568",
+        "slug": "aysgarth-blue-metallic-9568",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/aysgarth-blue-metallic-9568/",
+        "source_label": "PaintScratch 2004 Aston-Martin",
+        "hex_value": "#435EA3"
+      },
+      {
+        "display_name": "Aviemore Blue Metallic",
+        "paint_code": "9569",
+        "slug": "aviemore-blue-metallic-9569",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/aviemore-blue-metallic-9569/",
+        "source_label": "PaintScratch 2004 Aston-Martin",
+        "hex_value": "#4375A3"
+      },
+      {
+        "display_name": "Cairngorm Grey Metallic",
+        "paint_code": "9570",
+        "slug": "cairngorm-grey-metallic-9570",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/cairngorm-grey-metallic-9570/",
+        "source_label": "PaintScratch 2004 Aston-Martin",
+        "hex_value": "#595F53"
+      }
+    ],
+    "2005": [
+      {
+        "display_name": "Tungsten Silver Metallic",
+        "paint_code": "1262D",
+        "slug": "tungsten-silver-metallic-1262d",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/tungsten-silver-metallic-1262d/",
+        "source_label": "PaintScratch 2005 Aston-Martin",
+        "hex_value": "#D1CFC3"
+      },
+      {
+        "display_name": "Berwick Bronze Metallic",
+        "paint_code": "1271",
+        "slug": "berwick-bronze-metallic-1271",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/berwick-bronze-metallic-1271/",
+        "source_label": "PaintScratch 2005 Aston-Martin",
+        "hex_value": "#543820"
+      },
+      {
+        "display_name": "Jet Black",
+        "paint_code": "1328",
+        "slug": "jet-black-1328",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/jet-black-1328/",
+        "source_label": "PaintScratch 2005 Aston-Martin",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "California Sage Metallic",
+        "paint_code": "1338",
+        "slug": "california-sage-metallic-1338",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/california-sage-metallic-1338/",
+        "source_label": "PaintScratch 2005 Aston-Martin",
+        "hex_value": "#9CB484"
+      },
+      {
+        "display_name": "Midnight Blue Metallic",
+        "paint_code": "1341",
+        "slug": "midnight-blue-metallic-1341",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/midnight-blue-metallic-1341/",
+        "source_label": "PaintScratch 2005 Aston-Martin",
+        "hex_value": "#081366"
+      },
+      {
+        "display_name": "Oyster Silver Metallic",
+        "paint_code": "9589",
+        "slug": "oyster-silver-metallic-9589",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/oyster-silver-metallic-9589/",
+        "source_label": "PaintScratch 2005 Aston-Martin",
+        "hex_value": "#BDBBB1"
+      },
+      {
+        "display_name": "Mercury Silver Metallic",
+        "paint_code": "1300",
+        "slug": "mercury-silver-metallic-1300",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/mercury-silver-metallic-1300/",
+        "source_label": "PaintScratch 2005 Aston-Martin",
+        "hex_value": "#BCBFC0"
+      },
+      {
+        "display_name": "Toro Red Metallic",
+        "paint_code": "1302/1308",
+        "slug": "toro-red-metallic-13021308",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/toro-red-metallic-13021308/",
+        "source_label": "PaintScratch 2005 Aston-Martin",
+        "hex_value": "#972F36"
+      },
+      {
+        "display_name": "Ghilles Green Metallic",
+        "paint_code": "1332",
+        "slug": "ghilles-green-metallic-1332",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/ghilles-green-metallic-1332/",
+        "source_label": "PaintScratch 2005 Aston-Martin",
+        "hex_value": "#6E7761"
+      },
+      {
+        "display_name": "Liquid Gold Metallic",
+        "paint_code": "1333",
+        "slug": "liquid-gold-metallic-1333",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/liquid-gold-metallic-1333/",
+        "source_label": "PaintScratch 2005 Aston-Martin",
+        "hex_value": "#D1D276"
+      },
+      {
+        "display_name": "Elusive Blue Metallic",
+        "paint_code": "1334",
+        "slug": "elusive-blue-metallic-1334",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/elusive-blue-metallic-1334/",
+        "source_label": "PaintScratch 2005 Aston-Martin",
+        "hex_value": "#648C86"
+      },
+      {
+        "display_name": "Celeste Blue Metallic",
+        "paint_code": "1335",
+        "slug": "celeste-blue-metallic-1335",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/celeste-blue-metallic-1335/",
+        "source_label": "PaintScratch 2005 Aston-Martin",
+        "hex_value": "#C4D4CD"
+      },
+      {
+        "display_name": "Snow Shadow Grey Metallic",
+        "paint_code": "1337",
+        "slug": "snow-shadow-grey-metallic-1337",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/snow-shadow-grey-metallic-1337/",
+        "source_label": "PaintScratch 2005 Aston-Martin",
+        "hex_value": "#B5B7AD"
+      },
+      {
+        "display_name": "Almond Green Metallic",
+        "paint_code": "1339",
+        "slug": "almond-green-metallic-1339",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/almond-green-metallic-1339/",
+        "source_label": "PaintScratch 2005 Aston-Martin",
+        "hex_value": "#5DA374"
+      },
+      {
+        "display_name": "Merlot Red Metallic",
+        "paint_code": "1342",
+        "slug": "merlot-red-metallic-1342",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/merlot-red-metallic-1342/",
+        "source_label": "PaintScratch 2005 Aston-Martin",
+        "hex_value": "#912525"
+      },
+      {
+        "display_name": "Slate Blue Metallic",
+        "paint_code": "1343",
+        "slug": "slate-blue-metallic-1343",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/slate-blue-metallic-1343/",
+        "source_label": "PaintScratch 2005 Aston-Martin",
+        "hex_value": "#5F707F"
+      }
+    ],
+    "2006": [
+      {
+        "display_name": "Berwick Bronze Metallic",
+        "paint_code": "1271",
+        "slug": "berwick-bronze-metallic-1271",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/berwick-bronze-metallic-1271/",
+        "source_label": "PaintScratch 2006 Aston-Martin",
+        "hex_value": "#543820"
+      },
+      {
+        "display_name": "Jet Black",
+        "paint_code": "1328",
+        "slug": "jet-black-1328",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/jet-black-1328/",
+        "source_label": "PaintScratch 2006 Aston-Martin",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "California Sage Metallic",
+        "paint_code": "1338",
+        "slug": "california-sage-metallic-1338",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/california-sage-metallic-1338/",
+        "source_label": "PaintScratch 2006 Aston-Martin",
+        "hex_value": "#9CB484"
+      },
+      {
+        "display_name": "Midnight Blue Metallic",
+        "paint_code": "1341",
+        "slug": "midnight-blue-metallic-1341",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/midnight-blue-metallic-1341/",
+        "source_label": "PaintScratch 2006 Aston-Martin",
+        "hex_value": "#081366"
+      },
+      {
+        "display_name": "Oyster Silver Metallic",
+        "paint_code": "9589",
+        "slug": "oyster-silver-metallic-9589",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/oyster-silver-metallic-9589/",
+        "source_label": "PaintScratch 2006 Aston-Martin",
+        "hex_value": "#BDBBB1"
+      },
+      {
+        "display_name": "Mercury Silver Metallic",
+        "paint_code": "1300",
+        "slug": "mercury-silver-metallic-1300",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/mercury-silver-metallic-1300/",
+        "source_label": "PaintScratch 2006 Aston-Martin",
+        "hex_value": "#BCBFC0"
+      },
+      {
+        "display_name": "Toro Red Metallic",
+        "paint_code": "1302/1308",
+        "slug": "toro-red-metallic-13021308",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/toro-red-metallic-13021308/",
+        "source_label": "PaintScratch 2006 Aston-Martin",
+        "hex_value": "#972F36"
+      },
+      {
+        "display_name": "Ghilles Green Metallic",
+        "paint_code": "1332",
+        "slug": "ghilles-green-metallic-1332",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/ghilles-green-metallic-1332/",
+        "source_label": "PaintScratch 2006 Aston-Martin",
+        "hex_value": "#6E7761"
+      },
+      {
+        "display_name": "Liquid Gold Metallic",
+        "paint_code": "1333",
+        "slug": "liquid-gold-metallic-1333",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/liquid-gold-metallic-1333/",
+        "source_label": "PaintScratch 2006 Aston-Martin",
+        "hex_value": "#D1D276"
+      },
+      {
+        "display_name": "Elusive Blue Metallic",
+        "paint_code": "1334",
+        "slug": "elusive-blue-metallic-1334",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/elusive-blue-metallic-1334/",
+        "source_label": "PaintScratch 2006 Aston-Martin",
+        "hex_value": "#648C86"
+      },
+      {
+        "display_name": "Celeste Blue Metallic",
+        "paint_code": "1335",
+        "slug": "celeste-blue-metallic-1335",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/celeste-blue-metallic-1335/",
+        "source_label": "PaintScratch 2006 Aston-Martin",
+        "hex_value": "#C4D4CD"
+      },
+      {
+        "display_name": "Snow Shadow Grey Metallic",
+        "paint_code": "1337",
+        "slug": "snow-shadow-grey-metallic-1337",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/snow-shadow-grey-metallic-1337/",
+        "source_label": "PaintScratch 2006 Aston-Martin",
+        "hex_value": "#B5B7AD"
+      },
+      {
+        "display_name": "Almond Green Metallic",
+        "paint_code": "1339",
+        "slug": "almond-green-metallic-1339",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/almond-green-metallic-1339/",
+        "source_label": "PaintScratch 2006 Aston-Martin",
+        "hex_value": "#5DA374"
+      },
+      {
+        "display_name": "Merlot Red Metallic",
+        "paint_code": "1342",
+        "slug": "merlot-red-metallic-1342",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/merlot-red-metallic-1342/",
+        "source_label": "PaintScratch 2006 Aston-Martin",
+        "hex_value": "#912525"
+      },
+      {
+        "display_name": "Slate Blue Metallic",
+        "paint_code": "1343",
+        "slug": "slate-blue-metallic-1343",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/slate-blue-metallic-1343/",
+        "source_label": "PaintScratch 2006 Aston-Martin",
+        "hex_value": "#5F707F"
+      },
+      {
+        "display_name": "Meterorite Silver Metallic",
+        "paint_code": "1344",
+        "slug": "meterorite-silver-metallic-1344",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/meterorite-silver-metallic-1344/",
+        "source_label": "PaintScratch 2006 Aston-Martin",
+        "hex_value": "#707376"
+      }
+    ],
+    "2007": [
+      {
+        "display_name": "Tungsten Silver Metallic",
+        "paint_code": "1262D",
+        "slug": "tungsten-silver-metallic-1262d",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/tungsten-silver-metallic-1262d/",
+        "source_label": "PaintScratch 2007 Aston-Martin",
+        "hex_value": "#D1CFC3"
+      },
+      {
+        "display_name": "Berwick Bronze Metallic",
+        "paint_code": "1271",
+        "slug": "berwick-bronze-metallic-1271",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/berwick-bronze-metallic-1271/",
+        "source_label": "PaintScratch 2007 Aston-Martin",
+        "hex_value": "#543820"
+      },
+      {
+        "display_name": "Jet Black",
+        "paint_code": "1328",
+        "slug": "jet-black-1328",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/jet-black-1328/",
+        "source_label": "PaintScratch 2007 Aston-Martin",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "California Sage Metallic",
+        "paint_code": "1338",
+        "slug": "california-sage-metallic-1338",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/california-sage-metallic-1338/",
+        "source_label": "PaintScratch 2007 Aston-Martin",
+        "hex_value": "#9CB484"
+      },
+      {
+        "display_name": "Midnight Blue Metallic",
+        "paint_code": "1341",
+        "slug": "midnight-blue-metallic-1341",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/midnight-blue-metallic-1341/",
+        "source_label": "PaintScratch 2007 Aston-Martin",
+        "hex_value": "#081366"
+      },
+      {
+        "display_name": "Chiltern Green Metallic",
+        "paint_code": "1100D",
+        "slug": "chiltern-green-metallic-1100d",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/chiltern-green-metallic-1100d/",
+        "source_label": "PaintScratch 2007 Aston-Martin",
+        "hex_value": "#899D75"
+      },
+      {
+        "display_name": "Mercury Silver Metallic",
+        "paint_code": "1300",
+        "slug": "mercury-silver-metallic-1300",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/mercury-silver-metallic-1300/",
+        "source_label": "PaintScratch 2007 Aston-Martin",
+        "hex_value": "#BCBFC0"
+      },
+      {
+        "display_name": "Toro Red Metallic",
+        "paint_code": "1302/1308",
+        "slug": "toro-red-metallic-13021308",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/toro-red-metallic-13021308/",
+        "source_label": "PaintScratch 2007 Aston-Martin",
+        "hex_value": "#972F36"
+      },
+      {
+        "display_name": "Ghilles Green Metallic",
+        "paint_code": "1332",
+        "slug": "ghilles-green-metallic-1332",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/ghilles-green-metallic-1332/",
+        "source_label": "PaintScratch 2007 Aston-Martin",
+        "hex_value": "#6E7761"
+      },
+      {
+        "display_name": "Liquid Gold Metallic",
+        "paint_code": "1333",
+        "slug": "liquid-gold-metallic-1333",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/liquid-gold-metallic-1333/",
+        "source_label": "PaintScratch 2007 Aston-Martin",
+        "hex_value": "#D1D276"
+      },
+      {
+        "display_name": "Elusive Blue Metallic",
+        "paint_code": "1334",
+        "slug": "elusive-blue-metallic-1334",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/elusive-blue-metallic-1334/",
+        "source_label": "PaintScratch 2007 Aston-Martin",
+        "hex_value": "#648C86"
+      },
+      {
+        "display_name": "Celeste Blue Metallic",
+        "paint_code": "1335",
+        "slug": "celeste-blue-metallic-1335",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/celeste-blue-metallic-1335/",
+        "source_label": "PaintScratch 2007 Aston-Martin",
+        "hex_value": "#C4D4CD"
+      },
+      {
+        "display_name": "Snow Shadow Grey Metallic",
+        "paint_code": "1337",
+        "slug": "snow-shadow-grey-metallic-1337",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/snow-shadow-grey-metallic-1337/",
+        "source_label": "PaintScratch 2007 Aston-Martin",
+        "hex_value": "#B5B7AD"
+      },
+      {
+        "display_name": "Almond Green Metallic",
+        "paint_code": "1339",
+        "slug": "almond-green-metallic-1339",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/almond-green-metallic-1339/",
+        "source_label": "PaintScratch 2007 Aston-Martin",
+        "hex_value": "#5DA374"
+      },
+      {
+        "display_name": "Merlot Red Metallic",
+        "paint_code": "1342",
+        "slug": "merlot-red-metallic-1342",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/merlot-red-metallic-1342/",
+        "source_label": "PaintScratch 2007 Aston-Martin",
+        "hex_value": "#912525"
+      },
+      {
+        "display_name": "Slate Blue Metallic",
+        "paint_code": "1343",
+        "slug": "slate-blue-metallic-1343",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/slate-blue-metallic-1343/",
+        "source_label": "PaintScratch 2007 Aston-Martin",
+        "hex_value": "#5F707F"
+      }
+    ],
+    "2008": [
+      {
+        "display_name": "Tungsten Silver Metallic",
+        "paint_code": "1262D",
+        "slug": "tungsten-silver-metallic-1262d",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/tungsten-silver-metallic-1262d/",
+        "source_label": "PaintScratch 2008 Aston-Martin",
+        "hex_value": "#D1CFC3"
+      },
+      {
+        "display_name": "Jet Black",
+        "paint_code": "1328",
+        "slug": "jet-black-1328",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/jet-black-1328/",
+        "source_label": "PaintScratch 2008 Aston-Martin",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "California Sage Metallic",
+        "paint_code": "1338",
+        "slug": "california-sage-metallic-1338",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/california-sage-metallic-1338/",
+        "source_label": "PaintScratch 2008 Aston-Martin",
+        "hex_value": "#9CB484"
+      },
+      {
+        "display_name": "Midnight Blue Metallic",
+        "paint_code": "1341",
+        "slug": "midnight-blue-metallic-1341",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/midnight-blue-metallic-1341/",
+        "source_label": "PaintScratch 2008 Aston-Martin",
+        "hex_value": "#081366"
+      },
+      {
+        "display_name": "Stratus White Pearl Tricoat",
+        "paint_code": "5057",
+        "slug": "stratus-white-pearl-tricoat-5057",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/stratus-white-pearl-tricoat-5057/",
+        "source_label": "PaintScratch 2008 Aston-Martin",
+        "hex_value": "#EFF7F3"
+      },
+      {
+        "display_name": "Mercury Silver Metallic",
+        "paint_code": "1300",
+        "slug": "mercury-silver-metallic-1300",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/mercury-silver-metallic-1300/",
+        "source_label": "PaintScratch 2008 Aston-Martin",
+        "hex_value": "#BCBFC0"
+      },
+      {
+        "display_name": "Toro Red Metallic",
+        "paint_code": "1302/1308",
+        "slug": "toro-red-metallic-13021308",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/toro-red-metallic-13021308/",
+        "source_label": "PaintScratch 2008 Aston-Martin",
+        "hex_value": "#972F36"
+      },
+      {
+        "display_name": "Ghilles Green Metallic",
+        "paint_code": "1332",
+        "slug": "ghilles-green-metallic-1332",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/ghilles-green-metallic-1332/",
+        "source_label": "PaintScratch 2008 Aston-Martin",
+        "hex_value": "#6E7761"
+      },
+      {
+        "display_name": "Almond Green Metallic",
+        "paint_code": "1339",
+        "slug": "almond-green-metallic-1339",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/almond-green-metallic-1339/",
+        "source_label": "PaintScratch 2008 Aston-Martin",
+        "hex_value": "#5DA374"
+      },
+      {
+        "display_name": "Merlot Red Metallic",
+        "paint_code": "1342",
+        "slug": "merlot-red-metallic-1342",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/merlot-red-metallic-1342/",
+        "source_label": "PaintScratch 2008 Aston-Martin",
+        "hex_value": "#912525"
+      },
+      {
+        "display_name": "Slate Blue Metallic",
+        "paint_code": "1343",
+        "slug": "slate-blue-metallic-1343",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/slate-blue-metallic-1343/",
+        "source_label": "PaintScratch 2008 Aston-Martin",
+        "hex_value": "#5F707F"
+      },
+      {
+        "display_name": "Meterorite Silver Metallic",
+        "paint_code": "1344",
+        "slug": "meterorite-silver-metallic-1344",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/meterorite-silver-metallic-1344/",
+        "source_label": "PaintScratch 2008 Aston-Martin",
+        "hex_value": "#707376"
+      },
+      {
+        "display_name": "Onyx Black Metallic",
+        "paint_code": "1345/1353",
+        "slug": "onyx-black-metallic-13451353",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/onyx-black-metallic-13451353/",
+        "source_label": "PaintScratch 2008 Aston-Martin",
+        "hex_value": "#202020"
+      },
+      {
+        "display_name": "Blue Sapphire Metallic",
+        "paint_code": "1346",
+        "slug": "blue-sapphire-metallic-1346",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/blue-sapphire-metallic-1346/",
+        "source_label": "PaintScratch 2008 Aston-Martin",
+        "hex_value": "#4B376D"
+      },
+      {
+        "display_name": "Titanium Silver Metallic",
+        "paint_code": "1348",
+        "slug": "titanium-silver-metallic-1348",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/titanium-silver-metallic-1348/",
+        "source_label": "PaintScratch 2008 Aston-Martin",
+        "hex_value": "#DBD9D1"
+      },
+      {
+        "display_name": "Tempest Blue Pearl",
+        "paint_code": "1374",
+        "slug": "tempest-blue-pearl-1374",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/tempest-blue-pearl-1374/",
+        "source_label": "PaintScratch 2008 Aston-Martin",
+        "hex_value": "#434D49"
+      }
+    ],
+    "2009": [
+      {
+        "display_name": "Tungsten Silver Metallic",
+        "paint_code": "1262D",
+        "slug": "tungsten-silver-metallic-1262d",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/tungsten-silver-metallic-1262d/",
+        "source_label": "PaintScratch 2009 Aston-Martin",
+        "hex_value": "#D1CFC3"
+      },
+      {
+        "display_name": "Jet Black",
+        "paint_code": "1328",
+        "slug": "jet-black-1328",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/jet-black-1328/",
+        "source_label": "PaintScratch 2009 Aston-Martin",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "California Sage Metallic",
+        "paint_code": "1338",
+        "slug": "california-sage-metallic-1338",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/california-sage-metallic-1338/",
+        "source_label": "PaintScratch 2009 Aston-Martin",
+        "hex_value": "#9CB484"
+      },
+      {
+        "display_name": "Midnight Blue Metallic",
+        "paint_code": "1341",
+        "slug": "midnight-blue-metallic-1341",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/midnight-blue-metallic-1341/",
+        "source_label": "PaintScratch 2009 Aston-Martin",
+        "hex_value": "#081366"
+      },
+      {
+        "display_name": "Stratus White Pearl Tricoat",
+        "paint_code": "5057",
+        "slug": "stratus-white-pearl-tricoat-5057",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/stratus-white-pearl-tricoat-5057/",
+        "source_label": "PaintScratch 2009 Aston-Martin",
+        "hex_value": "#EFF7F3"
+      },
+      {
+        "display_name": "Mercury Silver Metallic",
+        "paint_code": "1300",
+        "slug": "mercury-silver-metallic-1300",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/mercury-silver-metallic-1300/",
+        "source_label": "PaintScratch 2009 Aston-Martin",
+        "hex_value": "#BCBFC0"
+      },
+      {
+        "display_name": "Ghilles Green Metallic",
+        "paint_code": "1332",
+        "slug": "ghilles-green-metallic-1332",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/ghilles-green-metallic-1332/",
+        "source_label": "PaintScratch 2009 Aston-Martin",
+        "hex_value": "#6E7761"
+      },
+      {
+        "display_name": "Almond Green Metallic",
+        "paint_code": "1339",
+        "slug": "almond-green-metallic-1339",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/almond-green-metallic-1339/",
+        "source_label": "PaintScratch 2009 Aston-Martin",
+        "hex_value": "#5DA374"
+      },
+      {
+        "display_name": "Merlot Red Metallic",
+        "paint_code": "1342",
+        "slug": "merlot-red-metallic-1342",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/merlot-red-metallic-1342/",
+        "source_label": "PaintScratch 2009 Aston-Martin",
+        "hex_value": "#912525"
+      },
+      {
+        "display_name": "Slate Blue Metallic",
+        "paint_code": "1343",
+        "slug": "slate-blue-metallic-1343",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/slate-blue-metallic-1343/",
+        "source_label": "PaintScratch 2009 Aston-Martin",
+        "hex_value": "#5F707F"
+      },
+      {
+        "display_name": "Meterorite Silver Metallic",
+        "paint_code": "1344",
+        "slug": "meterorite-silver-metallic-1344",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/meterorite-silver-metallic-1344/",
+        "source_label": "PaintScratch 2009 Aston-Martin",
+        "hex_value": "#707376"
+      },
+      {
+        "display_name": "Onyx Black Metallic",
+        "paint_code": "1345/1353",
+        "slug": "onyx-black-metallic-13451353",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/onyx-black-metallic-13451353/",
+        "source_label": "PaintScratch 2009 Aston-Martin",
+        "hex_value": "#202020"
+      },
+      {
+        "display_name": "Blue Sapphire Metallic",
+        "paint_code": "1346",
+        "slug": "blue-sapphire-metallic-1346",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/blue-sapphire-metallic-1346/",
+        "source_label": "PaintScratch 2009 Aston-Martin",
+        "hex_value": "#4B376D"
+      },
+      {
+        "display_name": "Titanium Silver Metallic",
+        "paint_code": "1348",
+        "slug": "titanium-silver-metallic-1348",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/titanium-silver-metallic-1348/",
+        "source_label": "PaintScratch 2009 Aston-Martin",
+        "hex_value": "#DBD9D1"
+      },
+      {
+        "display_name": "Tempest Blue Pearl",
+        "paint_code": "1374",
+        "slug": "tempest-blue-pearl-1374",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/tempest-blue-pearl-1374/",
+        "source_label": "PaintScratch 2009 Aston-Martin",
+        "hex_value": "#434D49"
+      },
+      {
+        "display_name": "Sunburst Yellow Pearl Tricoat",
+        "paint_code": "1375",
+        "slug": "sunburst-yellow-pearl-tricoat-1375",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/sunburst-yellow-pearl-tricoat-1375/",
+        "source_label": "PaintScratch 2009 Aston-Martin",
+        "hex_value": "#E3D31D"
+      }
+    ],
+    "2010": [
+      {
+        "display_name": "Tungsten Silver Metallic",
+        "paint_code": "1262D",
+        "slug": "tungsten-silver-metallic-1262d",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/tungsten-silver-metallic-1262d/",
+        "source_label": "PaintScratch 2010 Aston-Martin",
+        "hex_value": "#D1CFC3"
+      },
+      {
+        "display_name": "Jet Black",
+        "paint_code": "1328",
+        "slug": "jet-black-1328",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/jet-black-1328/",
+        "source_label": "PaintScratch 2010 Aston-Martin",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "California Sage Metallic",
+        "paint_code": "1338",
+        "slug": "california-sage-metallic-1338",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/california-sage-metallic-1338/",
+        "source_label": "PaintScratch 2010 Aston-Martin",
+        "hex_value": "#9CB484"
+      },
+      {
+        "display_name": "Midnight Blue Metallic",
+        "paint_code": "1341",
+        "slug": "midnight-blue-metallic-1341",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/midnight-blue-metallic-1341/",
+        "source_label": "PaintScratch 2010 Aston-Martin",
+        "hex_value": "#081366"
+      },
+      {
+        "display_name": "Storm Black Pearl",
+        "paint_code": "5052",
+        "slug": "storm-black-pearl-5052",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/storm-black-pearl-5052/",
+        "source_label": "PaintScratch 2010 Aston-Martin",
+        "hex_value": "#1B1F1D"
+      },
+      {
+        "display_name": "Stratus White Pearl Tricoat",
+        "paint_code": "5057",
+        "slug": "stratus-white-pearl-tricoat-5057",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/stratus-white-pearl-tricoat-5057/",
+        "source_label": "PaintScratch 2010 Aston-Martin",
+        "hex_value": "#EFF7F3"
+      },
+      {
+        "display_name": "Quantum Silver Pearl",
+        "paint_code": "5073",
+        "slug": "quantum-silver-pearl-5073",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/quantum-silver-pearl-5073/",
+        "source_label": "PaintScratch 2010 Aston-Martin",
+        "hex_value": "#82786E"
+      },
+      {
+        "display_name": "Silver Pearl Metallic",
+        "paint_code": "1111",
+        "slug": "silver-pearl-metallic-1111",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/silver-pearl-metallic-1111/",
+        "source_label": "PaintScratch 2010 Aston-Martin",
+        "hex_value": "#F3EEE5"
+      },
+      {
+        "display_name": "Mercury Silver Metallic",
+        "paint_code": "1300",
+        "slug": "mercury-silver-metallic-1300",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/mercury-silver-metallic-1300/",
+        "source_label": "PaintScratch 2010 Aston-Martin",
+        "hex_value": "#BCBFC0"
+      },
+      {
+        "display_name": "Ghilles Green Metallic",
+        "paint_code": "1332",
+        "slug": "ghilles-green-metallic-1332",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/ghilles-green-metallic-1332/",
+        "source_label": "PaintScratch 2010 Aston-Martin",
+        "hex_value": "#6E7761"
+      },
+      {
+        "display_name": "Almond Green Metallic",
+        "paint_code": "1339",
+        "slug": "almond-green-metallic-1339",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/almond-green-metallic-1339/",
+        "source_label": "PaintScratch 2010 Aston-Martin",
+        "hex_value": "#5DA374"
+      },
+      {
+        "display_name": "Merlot Red Metallic",
+        "paint_code": "1342",
+        "slug": "merlot-red-metallic-1342",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/merlot-red-metallic-1342/",
+        "source_label": "PaintScratch 2010 Aston-Martin",
+        "hex_value": "#912525"
+      },
+      {
+        "display_name": "Slate Blue Metallic",
+        "paint_code": "1343",
+        "slug": "slate-blue-metallic-1343",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/slate-blue-metallic-1343/",
+        "source_label": "PaintScratch 2010 Aston-Martin",
+        "hex_value": "#5F707F"
+      },
+      {
+        "display_name": "Meterorite Silver Metallic",
+        "paint_code": "1344",
+        "slug": "meterorite-silver-metallic-1344",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/meterorite-silver-metallic-1344/",
+        "source_label": "PaintScratch 2010 Aston-Martin",
+        "hex_value": "#707376"
+      },
+      {
+        "display_name": "Onyx Black Metallic",
+        "paint_code": "1345/1353",
+        "slug": "onyx-black-metallic-13451353",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/onyx-black-metallic-13451353/",
+        "source_label": "PaintScratch 2010 Aston-Martin",
+        "hex_value": "#202020"
+      },
+      {
+        "display_name": "Blue Sapphire Metallic",
+        "paint_code": "1346",
+        "slug": "blue-sapphire-metallic-1346",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/blue-sapphire-metallic-1346/",
+        "source_label": "PaintScratch 2010 Aston-Martin",
+        "hex_value": "#4B376D"
+      }
+    ],
+    "2011": [
+      {
+        "display_name": "Tungsten Silver Metallic",
+        "paint_code": "1262D",
+        "slug": "tungsten-silver-metallic-1262d",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/tungsten-silver-metallic-1262d/",
+        "source_label": "PaintScratch 2011 Aston-Martin",
+        "hex_value": "#D1CFC3"
+      },
+      {
+        "display_name": "Jet Black",
+        "paint_code": "1328",
+        "slug": "jet-black-1328",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/jet-black-1328/",
+        "source_label": "PaintScratch 2011 Aston-Martin",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "California Sage Metallic",
+        "paint_code": "1338",
+        "slug": "california-sage-metallic-1338",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/california-sage-metallic-1338/",
+        "source_label": "PaintScratch 2011 Aston-Martin",
+        "hex_value": "#9CB484"
+      },
+      {
+        "display_name": "Midnight Blue Metallic",
+        "paint_code": "1341",
+        "slug": "midnight-blue-metallic-1341",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/midnight-blue-metallic-1341/",
+        "source_label": "PaintScratch 2011 Aston-Martin",
+        "hex_value": "#081366"
+      },
+      {
+        "display_name": "Storm Black Pearl",
+        "paint_code": "5052",
+        "slug": "storm-black-pearl-5052",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/storm-black-pearl-5052/",
+        "source_label": "PaintScratch 2011 Aston-Martin",
+        "hex_value": "#1B1F1D"
+      },
+      {
+        "display_name": "Stratus White Pearl Tricoat",
+        "paint_code": "5057",
+        "slug": "stratus-white-pearl-tricoat-5057",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/stratus-white-pearl-tricoat-5057/",
+        "source_label": "PaintScratch 2011 Aston-Martin",
+        "hex_value": "#EFF7F3"
+      },
+      {
+        "display_name": "Quantum Silver Pearl",
+        "paint_code": "5073",
+        "slug": "quantum-silver-pearl-5073",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/quantum-silver-pearl-5073/",
+        "source_label": "PaintScratch 2011 Aston-Martin",
+        "hex_value": "#82786E"
+      },
+      {
+        "display_name": "Silver Pearl Metallic",
+        "paint_code": "1111",
+        "slug": "silver-pearl-metallic-1111",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/silver-pearl-metallic-1111/",
+        "source_label": "PaintScratch 2011 Aston-Martin",
+        "hex_value": "#F3EEE5"
+      },
+      {
+        "display_name": "Mercury Silver Metallic",
+        "paint_code": "1300",
+        "slug": "mercury-silver-metallic-1300",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/mercury-silver-metallic-1300/",
+        "source_label": "PaintScratch 2011 Aston-Martin",
+        "hex_value": "#BCBFC0"
+      },
+      {
+        "display_name": "Toro Red Metallic",
+        "paint_code": "1302/1308",
+        "slug": "toro-red-metallic-13021308",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/toro-red-metallic-13021308/",
+        "source_label": "PaintScratch 2011 Aston-Martin",
+        "hex_value": "#972F36"
+      },
+      {
+        "display_name": "Ghilles Green Metallic",
+        "paint_code": "1332",
+        "slug": "ghilles-green-metallic-1332",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/ghilles-green-metallic-1332/",
+        "source_label": "PaintScratch 2011 Aston-Martin",
+        "hex_value": "#6E7761"
+      },
+      {
+        "display_name": "Almond Green Metallic",
+        "paint_code": "1339",
+        "slug": "almond-green-metallic-1339",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/almond-green-metallic-1339/",
+        "source_label": "PaintScratch 2011 Aston-Martin",
+        "hex_value": "#5DA374"
+      },
+      {
+        "display_name": "Merlot Red Metallic",
+        "paint_code": "1342",
+        "slug": "merlot-red-metallic-1342",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/merlot-red-metallic-1342/",
+        "source_label": "PaintScratch 2011 Aston-Martin",
+        "hex_value": "#912525"
+      },
+      {
+        "display_name": "Slate Blue Metallic",
+        "paint_code": "1343",
+        "slug": "slate-blue-metallic-1343",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/slate-blue-metallic-1343/",
+        "source_label": "PaintScratch 2011 Aston-Martin",
+        "hex_value": "#5F707F"
+      },
+      {
+        "display_name": "Meterorite Silver Metallic",
+        "paint_code": "1344",
+        "slug": "meterorite-silver-metallic-1344",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/meterorite-silver-metallic-1344/",
+        "source_label": "PaintScratch 2011 Aston-Martin",
+        "hex_value": "#707376"
+      },
+      {
+        "display_name": "Onyx Black Metallic",
+        "paint_code": "1345/1353",
+        "slug": "onyx-black-metallic-13451353",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/onyx-black-metallic-13451353/",
+        "source_label": "PaintScratch 2011 Aston-Martin",
+        "hex_value": "#202020"
+      }
+    ],
+    "2012": [
+      {
+        "display_name": "Tungsten Silver Metallic",
+        "paint_code": "1262D",
+        "slug": "tungsten-silver-metallic-1262d",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/tungsten-silver-metallic-1262d/",
+        "source_label": "PaintScratch 2012 Aston-Martin",
+        "hex_value": "#D1CFC3"
+      },
+      {
+        "display_name": "Jet Black",
+        "paint_code": "1328",
+        "slug": "jet-black-1328",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/jet-black-1328/",
+        "source_label": "PaintScratch 2012 Aston-Martin",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Midnight Blue Metallic",
+        "paint_code": "1341",
+        "slug": "midnight-blue-metallic-1341",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/midnight-blue-metallic-1341/",
+        "source_label": "PaintScratch 2012 Aston-Martin",
+        "hex_value": "#081366"
+      },
+      {
+        "display_name": "Storm Black Pearl",
+        "paint_code": "5052",
+        "slug": "storm-black-pearl-5052",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/storm-black-pearl-5052/",
+        "source_label": "PaintScratch 2012 Aston-Martin",
+        "hex_value": "#1B1F1D"
+      },
+      {
+        "display_name": "Stratus White Pearl Tricoat",
+        "paint_code": "5057",
+        "slug": "stratus-white-pearl-tricoat-5057",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/stratus-white-pearl-tricoat-5057/",
+        "source_label": "PaintScratch 2012 Aston-Martin",
+        "hex_value": "#EFF7F3"
+      },
+      {
+        "display_name": "Quantum Silver Pearl",
+        "paint_code": "5073",
+        "slug": "quantum-silver-pearl-5073",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/quantum-silver-pearl-5073/",
+        "source_label": "PaintScratch 2012 Aston-Martin",
+        "hex_value": "#82786E"
+      },
+      {
+        "display_name": "Silver Pearl Metallic",
+        "paint_code": "1111",
+        "slug": "silver-pearl-metallic-1111",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/silver-pearl-metallic-1111/",
+        "source_label": "PaintScratch 2012 Aston-Martin",
+        "hex_value": "#F3EEE5"
+      },
+      {
+        "display_name": "Cobalt Blue Metallic",
+        "paint_code": "1192",
+        "slug": "cobalt-blue-metallic-1192",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/cobalt-blue-metallic-1192/",
+        "source_label": "PaintScratch 2012 Aston-Martin",
+        "hex_value": "#37496D"
+      },
+      {
+        "display_name": "Meterorite Silver Metallic",
+        "paint_code": "1344",
+        "slug": "meterorite-silver-metallic-1344",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/meterorite-silver-metallic-1344/",
+        "source_label": "PaintScratch 2012 Aston-Martin",
+        "hex_value": "#707376"
+      },
+      {
+        "display_name": "Onyx Black Metallic",
+        "paint_code": "1345/1353",
+        "slug": "onyx-black-metallic-13451353",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/onyx-black-metallic-13451353/",
+        "source_label": "PaintScratch 2012 Aston-Martin",
+        "hex_value": "#202020"
+      },
+      {
+        "display_name": "Titanium Silver Metallic",
+        "paint_code": "1348",
+        "slug": "titanium-silver-metallic-1348",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/titanium-silver-metallic-1348/",
+        "source_label": "PaintScratch 2012 Aston-Martin",
+        "hex_value": "#DBD9D1"
+      },
+      {
+        "display_name": "Sunburst Yellow Pearl Tricoat",
+        "paint_code": "1375",
+        "slug": "sunburst-yellow-pearl-tricoat-1375",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/sunburst-yellow-pearl-tricoat-1375/",
+        "source_label": "PaintScratch 2012 Aston-Martin",
+        "hex_value": "#E3D31D"
+      },
+      {
+        "display_name": "Fire Red Pearl",
+        "paint_code": "1377",
+        "slug": "fire-red-pearl-1377",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/fire-red-pearl-1377/",
+        "source_label": "PaintScratch 2012 Aston-Martin",
+        "hex_value": "#A91E17"
+      },
+      {
+        "display_name": "Casino Royale Pearl",
+        "paint_code": "1378",
+        "slug": "casino-royale-pearl-1378",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/casino-royale-pearl-1378/",
+        "source_label": "PaintScratch 2012 Aston-Martin",
+        "hex_value": "#A0A4A8"
+      },
+      {
+        "display_name": "Emerald Green Pearl",
+        "paint_code": "5065",
+        "slug": "emerald-green-pearl-5065",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/emerald-green-pearl-5065/",
+        "source_label": "PaintScratch 2012 Aston-Martin",
+        "hex_value": "#2F4F3F"
+      },
+      {
+        "display_name": "Mariana Blue Pearl",
+        "paint_code": "5069",
+        "slug": "mariana-blue-pearl-5069",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/mariana-blue-pearl-5069/",
+        "source_label": "PaintScratch 2012 Aston-Martin",
+        "hex_value": "#1D2F5B"
+      }
+    ],
+    "2013": [
+      {
+        "display_name": "Tungsten Silver Metallic",
+        "paint_code": "1262D",
+        "slug": "tungsten-silver-metallic-1262d",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/tungsten-silver-metallic-1262d/",
+        "source_label": "PaintScratch 2013 Aston-Martin",
+        "hex_value": "#D1CFC3"
+      },
+      {
+        "display_name": "Jet Black",
+        "paint_code": "1328",
+        "slug": "jet-black-1328",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/jet-black-1328/",
+        "source_label": "PaintScratch 2013 Aston-Martin",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Midnight Blue Metallic",
+        "paint_code": "1341",
+        "slug": "midnight-blue-metallic-1341",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/midnight-blue-metallic-1341/",
+        "source_label": "PaintScratch 2013 Aston-Martin",
+        "hex_value": "#081366"
+      },
+      {
+        "display_name": "Morning Frost White Pearl Tricoat",
+        "paint_code": "1362",
+        "slug": "morning-frost-white-pearl-tricoat-1362",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/morning-frost-white-pearl-tricoat-1362/",
+        "source_label": "PaintScratch 2013 Aston-Martin",
+        "hex_value": "#F1F0EB"
+      },
+      {
+        "display_name": "Storm Black Pearl",
+        "paint_code": "5052",
+        "slug": "storm-black-pearl-5052",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/storm-black-pearl-5052/",
+        "source_label": "PaintScratch 2013 Aston-Martin",
+        "hex_value": "#1B1F1D"
+      },
+      {
+        "display_name": "Stratus White Pearl Tricoat",
+        "paint_code": "5057",
+        "slug": "stratus-white-pearl-tricoat-5057",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/stratus-white-pearl-tricoat-5057/",
+        "source_label": "PaintScratch 2013 Aston-Martin",
+        "hex_value": "#EFF7F3"
+      },
+      {
+        "display_name": "Quantum Silver Pearl",
+        "paint_code": "5073",
+        "slug": "quantum-silver-pearl-5073",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/quantum-silver-pearl-5073/",
+        "source_label": "PaintScratch 2013 Aston-Martin",
+        "hex_value": "#82786E"
+      },
+      {
+        "display_name": "Silver Pearl Metallic",
+        "paint_code": "1111",
+        "slug": "silver-pearl-metallic-1111",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/silver-pearl-metallic-1111/",
+        "source_label": "PaintScratch 2013 Aston-Martin",
+        "hex_value": "#F3EEE5"
+      },
+      {
+        "display_name": "Cobalt Blue Metallic",
+        "paint_code": "1192",
+        "slug": "cobalt-blue-metallic-1192",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/cobalt-blue-metallic-1192/",
+        "source_label": "PaintScratch 2013 Aston-Martin",
+        "hex_value": "#37496D"
+      },
+      {
+        "display_name": "Meterorite Silver Metallic",
+        "paint_code": "1344",
+        "slug": "meterorite-silver-metallic-1344",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/meterorite-silver-metallic-1344/",
+        "source_label": "PaintScratch 2013 Aston-Martin",
+        "hex_value": "#707376"
+      },
+      {
+        "display_name": "Onyx Black Metallic",
+        "paint_code": "1345/1353",
+        "slug": "onyx-black-metallic-13451353",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/onyx-black-metallic-13451353/",
+        "source_label": "PaintScratch 2013 Aston-Martin",
+        "hex_value": "#202020"
+      },
+      {
+        "display_name": "Titanium Silver Metallic",
+        "paint_code": "1348",
+        "slug": "titanium-silver-metallic-1348",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/titanium-silver-metallic-1348/",
+        "source_label": "PaintScratch 2013 Aston-Martin",
+        "hex_value": "#DBD9D1"
+      },
+      {
+        "display_name": "Sunburst Yellow Pearl Tricoat",
+        "paint_code": "1375",
+        "slug": "sunburst-yellow-pearl-tricoat-1375",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/sunburst-yellow-pearl-tricoat-1375/",
+        "source_label": "PaintScratch 2013 Aston-Martin",
+        "hex_value": "#E3D31D"
+      },
+      {
+        "display_name": "Fire Red Pearl",
+        "paint_code": "1377",
+        "slug": "fire-red-pearl-1377",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/fire-red-pearl-1377/",
+        "source_label": "PaintScratch 2013 Aston-Martin",
+        "hex_value": "#A91E17"
+      },
+      {
+        "display_name": "Casino Royale Pearl",
+        "paint_code": "1378",
+        "slug": "casino-royale-pearl-1378",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/casino-royale-pearl-1378/",
+        "source_label": "PaintScratch 2013 Aston-Martin",
+        "hex_value": "#A0A4A8"
+      },
+      {
+        "display_name": "Emerald Green Pearl",
+        "paint_code": "5065",
+        "slug": "emerald-green-pearl-5065",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/emerald-green-pearl-5065/",
+        "source_label": "PaintScratch 2013 Aston-Martin",
+        "hex_value": "#2F4F3F"
+      }
+    ],
+    "2014": [
+      {
+        "display_name": "Tungsten Silver Metallic",
+        "paint_code": "1262D",
+        "slug": "tungsten-silver-metallic-1262d",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/tungsten-silver-metallic-1262d/",
+        "source_label": "PaintScratch 2014 Aston-Martin",
+        "hex_value": "#D1CFC3"
+      },
+      {
+        "display_name": "Jet Black",
+        "paint_code": "1328",
+        "slug": "jet-black-1328",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/jet-black-1328/",
+        "source_label": "PaintScratch 2014 Aston-Martin",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Midnight Blue Metallic",
+        "paint_code": "1341",
+        "slug": "midnight-blue-metallic-1341",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/midnight-blue-metallic-1341/",
+        "source_label": "PaintScratch 2014 Aston-Martin",
+        "hex_value": "#081366"
+      },
+      {
+        "display_name": "Storm Black Pearl",
+        "paint_code": "5052",
+        "slug": "storm-black-pearl-5052",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/storm-black-pearl-5052/",
+        "source_label": "PaintScratch 2014 Aston-Martin",
+        "hex_value": "#1B1F1D"
+      },
+      {
+        "display_name": "Stratus White Pearl Tricoat",
+        "paint_code": "5057",
+        "slug": "stratus-white-pearl-tricoat-5057",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/stratus-white-pearl-tricoat-5057/",
+        "source_label": "PaintScratch 2014 Aston-Martin",
+        "hex_value": "#EFF7F3"
+      },
+      {
+        "display_name": "Quantum Silver Pearl",
+        "paint_code": "5073",
+        "slug": "quantum-silver-pearl-5073",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/quantum-silver-pearl-5073/",
+        "source_label": "PaintScratch 2014 Aston-Martin",
+        "hex_value": "#82786E"
+      },
+      {
+        "display_name": "Silver Pearl Metallic",
+        "paint_code": "1111",
+        "slug": "silver-pearl-metallic-1111",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/silver-pearl-metallic-1111/",
+        "source_label": "PaintScratch 2014 Aston-Martin",
+        "hex_value": "#F3EEE5"
+      },
+      {
+        "display_name": "Cobalt Blue Metallic",
+        "paint_code": "1192",
+        "slug": "cobalt-blue-metallic-1192",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/cobalt-blue-metallic-1192/",
+        "source_label": "PaintScratch 2014 Aston-Martin",
+        "hex_value": "#37496D"
+      },
+      {
+        "display_name": "Meterorite Silver Metallic",
+        "paint_code": "1344",
+        "slug": "meterorite-silver-metallic-1344",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/meterorite-silver-metallic-1344/",
+        "source_label": "PaintScratch 2014 Aston-Martin",
+        "hex_value": "#707376"
+      },
+      {
+        "display_name": "Onyx Black Metallic",
+        "paint_code": "1345/1353",
+        "slug": "onyx-black-metallic-13451353",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/onyx-black-metallic-13451353/",
+        "source_label": "PaintScratch 2014 Aston-Martin",
+        "hex_value": "#202020"
+      },
+      {
+        "display_name": "Sunburst Yellow Pearl Tricoat",
+        "paint_code": "1375",
+        "slug": "sunburst-yellow-pearl-tricoat-1375",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/sunburst-yellow-pearl-tricoat-1375/",
+        "source_label": "PaintScratch 2014 Aston-Martin",
+        "hex_value": "#E3D31D"
+      },
+      {
+        "display_name": "Amethyst Red Pearl Metallic",
+        "paint_code": "5058/1542",
+        "slug": "amethyst-red-pearl-metallic-50581542",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/amethyst-red-pearl-metallic-50581542/",
+        "source_label": "PaintScratch 2014 Aston-Martin",
+        "hex_value": "#4B2930"
+      },
+      {
+        "display_name": "Mariana Blue Pearl",
+        "paint_code": "5069",
+        "slug": "mariana-blue-pearl-5069",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/mariana-blue-pearl-5069/",
+        "source_label": "PaintScratch 2014 Aston-Martin",
+        "hex_value": "#1D2F5B"
+      },
+      {
+        "display_name": "Hardy Green Pearl",
+        "paint_code": "5078",
+        "slug": "hardy-green-pearl-5078",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/hardy-green-pearl-5078/",
+        "source_label": "PaintScratch 2014 Aston-Martin",
+        "hex_value": "#C3CFBB"
+      },
+      {
+        "display_name": "Silver Blonde Metallic",
+        "paint_code": "5079",
+        "slug": "silver-blonde-metallic-5079",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/silver-blonde-metallic-5079/",
+        "source_label": "PaintScratch 2014 Aston-Martin",
+        "hex_value": "#D5D3CD"
+      },
+      {
+        "display_name": "Hammerhead Silver Metallic",
+        "paint_code": "5085",
+        "slug": "hammerhead-silver-metallic-5085",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/hammerhead-silver-metallic-5085/",
+        "source_label": "PaintScratch 2014 Aston-Martin",
+        "hex_value": "#9D988D"
+      }
+    ],
+    "2015": [
+      {
+        "display_name": "Tungsten Silver Metallic",
+        "paint_code": "1262D",
+        "slug": "tungsten-silver-metallic-1262d",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/tungsten-silver-metallic-1262d/",
+        "source_label": "PaintScratch 2015 Aston-Martin",
+        "hex_value": "#D1CFC3"
+      },
+      {
+        "display_name": "Jet Black",
+        "paint_code": "1328",
+        "slug": "jet-black-1328",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/jet-black-1328/",
+        "source_label": "PaintScratch 2015 Aston-Martin",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Midnight Blue Metallic",
+        "paint_code": "1341",
+        "slug": "midnight-blue-metallic-1341",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/midnight-blue-metallic-1341/",
+        "source_label": "PaintScratch 2015 Aston-Martin",
+        "hex_value": "#081366"
+      },
+      {
+        "display_name": "Storm Black Pearl",
+        "paint_code": "5052",
+        "slug": "storm-black-pearl-5052",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/storm-black-pearl-5052/",
+        "source_label": "PaintScratch 2015 Aston-Martin",
+        "hex_value": "#1B1F1D"
+      },
+      {
+        "display_name": "Stratus White Pearl Tricoat",
+        "paint_code": "5057",
+        "slug": "stratus-white-pearl-tricoat-5057",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/stratus-white-pearl-tricoat-5057/",
+        "source_label": "PaintScratch 2015 Aston-Martin",
+        "hex_value": "#EFF7F3"
+      },
+      {
+        "display_name": "Quantum Silver Pearl",
+        "paint_code": "5073",
+        "slug": "quantum-silver-pearl-5073",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/quantum-silver-pearl-5073/",
+        "source_label": "PaintScratch 2015 Aston-Martin",
+        "hex_value": "#82786E"
+      },
+      {
+        "display_name": "Silver Pearl Metallic",
+        "paint_code": "1111",
+        "slug": "silver-pearl-metallic-1111",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/silver-pearl-metallic-1111/",
+        "source_label": "PaintScratch 2015 Aston-Martin",
+        "hex_value": "#F3EEE5"
+      },
+      {
+        "display_name": "Cobalt Blue Metallic",
+        "paint_code": "1192",
+        "slug": "cobalt-blue-metallic-1192",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/cobalt-blue-metallic-1192/",
+        "source_label": "PaintScratch 2015 Aston-Martin",
+        "hex_value": "#37496D"
+      },
+      {
+        "display_name": "Meterorite Silver Metallic",
+        "paint_code": "1344",
+        "slug": "meterorite-silver-metallic-1344",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/meterorite-silver-metallic-1344/",
+        "source_label": "PaintScratch 2015 Aston-Martin",
+        "hex_value": "#707376"
+      },
+      {
+        "display_name": "Onyx Black Metallic",
+        "paint_code": "1345/1353",
+        "slug": "onyx-black-metallic-13451353",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/onyx-black-metallic-13451353/",
+        "source_label": "PaintScratch 2015 Aston-Martin",
+        "hex_value": "#202020"
+      },
+      {
+        "display_name": "Sunburst Yellow Pearl Tricoat",
+        "paint_code": "1375",
+        "slug": "sunburst-yellow-pearl-tricoat-1375",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/sunburst-yellow-pearl-tricoat-1375/",
+        "source_label": "PaintScratch 2015 Aston-Martin",
+        "hex_value": "#E3D31D"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "5054",
+        "slug": "silver-metallic-5054",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/silver-metallic-5054/",
+        "source_label": "PaintScratch 2015 Aston-Martin",
+        "hex_value": "#F3EEE5"
+      },
+      {
+        "display_name": "Amethyst Red Pearl Metallic",
+        "paint_code": "5058/1542",
+        "slug": "amethyst-red-pearl-metallic-50581542",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/amethyst-red-pearl-metallic-50581542/",
+        "source_label": "PaintScratch 2015 Aston-Martin",
+        "hex_value": "#4B2930"
+      },
+      {
+        "display_name": "Mariana Blue Pearl",
+        "paint_code": "5069",
+        "slug": "mariana-blue-pearl-5069",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/mariana-blue-pearl-5069/",
+        "source_label": "PaintScratch 2015 Aston-Martin",
+        "hex_value": "#1D2F5B"
+      },
+      {
+        "display_name": "Hardy Green Pearl",
+        "paint_code": "5078",
+        "slug": "hardy-green-pearl-5078",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/hardy-green-pearl-5078/",
+        "source_label": "PaintScratch 2015 Aston-Martin",
+        "hex_value": "#C3CFBB"
+      },
+      {
+        "display_name": "Silver Blonde Metallic",
+        "paint_code": "5079",
+        "slug": "silver-blonde-metallic-5079",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/silver-blonde-metallic-5079/",
+        "source_label": "PaintScratch 2015 Aston-Martin",
+        "hex_value": "#D5D3CD"
+      }
+    ],
+    "2016": [
+      {
+        "display_name": "Tungsten Silver Metallic",
+        "paint_code": "1262D",
+        "slug": "tungsten-silver-metallic-1262d",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/tungsten-silver-metallic-1262d/",
+        "source_label": "PaintScratch 2016 Aston-Martin",
+        "hex_value": "#D1CFC3"
+      },
+      {
+        "display_name": "Jet Black",
+        "paint_code": "1328",
+        "slug": "jet-black-1328",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/jet-black-1328/",
+        "source_label": "PaintScratch 2016 Aston-Martin",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Midnight Blue Metallic",
+        "paint_code": "1341",
+        "slug": "midnight-blue-metallic-1341",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/midnight-blue-metallic-1341/",
+        "source_label": "PaintScratch 2016 Aston-Martin",
+        "hex_value": "#081366"
+      },
+      {
+        "display_name": "Storm Black Pearl",
+        "paint_code": "5052",
+        "slug": "storm-black-pearl-5052",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/storm-black-pearl-5052/",
+        "source_label": "PaintScratch 2016 Aston-Martin",
+        "hex_value": "#1B1F1D"
+      },
+      {
+        "display_name": "Stratus White Pearl Tricoat",
+        "paint_code": "5057",
+        "slug": "stratus-white-pearl-tricoat-5057",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/stratus-white-pearl-tricoat-5057/",
+        "source_label": "PaintScratch 2016 Aston-Martin",
+        "hex_value": "#EFF7F3"
+      },
+      {
+        "display_name": "Quantum Silver Pearl",
+        "paint_code": "5073",
+        "slug": "quantum-silver-pearl-5073",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/quantum-silver-pearl-5073/",
+        "source_label": "PaintScratch 2016 Aston-Martin",
+        "hex_value": "#82786E"
+      },
+      {
+        "display_name": "Silver Pearl Metallic",
+        "paint_code": "1111",
+        "slug": "silver-pearl-metallic-1111",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/silver-pearl-metallic-1111/",
+        "source_label": "PaintScratch 2016 Aston-Martin",
+        "hex_value": "#F3EEE5"
+      },
+      {
+        "display_name": "Cobalt Blue Metallic",
+        "paint_code": "1192",
+        "slug": "cobalt-blue-metallic-1192",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/cobalt-blue-metallic-1192/",
+        "source_label": "PaintScratch 2016 Aston-Martin",
+        "hex_value": "#37496D"
+      },
+      {
+        "display_name": "Meterorite Silver Metallic",
+        "paint_code": "1344",
+        "slug": "meterorite-silver-metallic-1344",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/meterorite-silver-metallic-1344/",
+        "source_label": "PaintScratch 2016 Aston-Martin",
+        "hex_value": "#707376"
+      },
+      {
+        "display_name": "Onyx Black Metallic",
+        "paint_code": "1345/1353",
+        "slug": "onyx-black-metallic-13451353",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/onyx-black-metallic-13451353/",
+        "source_label": "PaintScratch 2016 Aston-Martin",
+        "hex_value": "#202020"
+      },
+      {
+        "display_name": "Sunburst Yellow Pearl Tricoat",
+        "paint_code": "1375",
+        "slug": "sunburst-yellow-pearl-tricoat-1375",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/sunburst-yellow-pearl-tricoat-1375/",
+        "source_label": "PaintScratch 2016 Aston-Martin",
+        "hex_value": "#E3D31D"
+      },
+      {
+        "display_name": "Amethyst Red Pearl Metallic",
+        "paint_code": "5058/1542",
+        "slug": "amethyst-red-pearl-metallic-50581542",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/amethyst-red-pearl-metallic-50581542/",
+        "source_label": "PaintScratch 2016 Aston-Martin",
+        "hex_value": "#4B2930"
+      },
+      {
+        "display_name": "Mariana Blue Pearl",
+        "paint_code": "5069",
+        "slug": "mariana-blue-pearl-5069",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/mariana-blue-pearl-5069/",
+        "source_label": "PaintScratch 2016 Aston-Martin",
+        "hex_value": "#1D2F5B"
+      },
+      {
+        "display_name": "Hardy Green Pearl",
+        "paint_code": "5078",
+        "slug": "hardy-green-pearl-5078",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/hardy-green-pearl-5078/",
+        "source_label": "PaintScratch 2016 Aston-Martin",
+        "hex_value": "#C3CFBB"
+      },
+      {
+        "display_name": "Silver Blonde Metallic",
+        "paint_code": "5079",
+        "slug": "silver-blonde-metallic-5079",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/silver-blonde-metallic-5079/",
+        "source_label": "PaintScratch 2016 Aston-Martin",
+        "hex_value": "#D5D3CD"
+      },
+      {
+        "display_name": "Hammerhead Silver Metallic",
+        "paint_code": "5085",
+        "slug": "hammerhead-silver-metallic-5085",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/hammerhead-silver-metallic-5085/",
+        "source_label": "PaintScratch 2016 Aston-Martin",
+        "hex_value": "#9D988D"
+      }
+    ],
+    "2017": [
+      {
+        "display_name": "Jet Black",
+        "paint_code": "1328",
+        "slug": "jet-black-1328",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/jet-black-1328/",
+        "source_label": "PaintScratch 2017 Aston-Martin",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Midnight Blue Metallic",
+        "paint_code": "1341",
+        "slug": "midnight-blue-metallic-1341",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/midnight-blue-metallic-1341/",
+        "source_label": "PaintScratch 2017 Aston-Martin",
+        "hex_value": "#081366"
+      },
+      {
+        "display_name": "Storm Black Pearl",
+        "paint_code": "5052",
+        "slug": "storm-black-pearl-5052",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/storm-black-pearl-5052/",
+        "source_label": "PaintScratch 2017 Aston-Martin",
+        "hex_value": "#1B1F1D"
+      },
+      {
+        "display_name": "Stratus White Pearl Tricoat",
+        "paint_code": "5057",
+        "slug": "stratus-white-pearl-tricoat-5057",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/stratus-white-pearl-tricoat-5057/",
+        "source_label": "PaintScratch 2017 Aston-Martin",
+        "hex_value": "#EFF7F3"
+      },
+      {
+        "display_name": "Quantum Silver Pearl",
+        "paint_code": "5073",
+        "slug": "quantum-silver-pearl-5073",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/quantum-silver-pearl-5073/",
+        "source_label": "PaintScratch 2017 Aston-Martin",
+        "hex_value": "#82786E"
+      },
+      {
+        "display_name": "Silver Pearl Metallic",
+        "paint_code": "1111",
+        "slug": "silver-pearl-metallic-1111",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/silver-pearl-metallic-1111/",
+        "source_label": "PaintScratch 2017 Aston-Martin",
+        "hex_value": "#F3EEE5"
+      },
+      {
+        "display_name": "Cobalt Blue Metallic",
+        "paint_code": "1192",
+        "slug": "cobalt-blue-metallic-1192",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/cobalt-blue-metallic-1192/",
+        "source_label": "PaintScratch 2017 Aston-Martin",
+        "hex_value": "#37496D"
+      },
+      {
+        "display_name": "Sunburst Yellow Pearl Tricoat",
+        "paint_code": "1375",
+        "slug": "sunburst-yellow-pearl-tricoat-1375",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/sunburst-yellow-pearl-tricoat-1375/",
+        "source_label": "PaintScratch 2017 Aston-Martin",
+        "hex_value": "#E3D31D"
+      },
+      {
+        "display_name": "Mariana Blue Pearl",
+        "paint_code": "5069",
+        "slug": "mariana-blue-pearl-5069",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/mariana-blue-pearl-5069/",
+        "source_label": "PaintScratch 2017 Aston-Martin",
+        "hex_value": "#1D2F5B"
+      },
+      {
+        "display_name": "Hardy Green Pearl",
+        "paint_code": "5078",
+        "slug": "hardy-green-pearl-5078",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/hardy-green-pearl-5078/",
+        "source_label": "PaintScratch 2017 Aston-Martin",
+        "hex_value": "#C3CFBB"
+      },
+      {
+        "display_name": "Silver Blonde Metallic",
+        "paint_code": "5079",
+        "slug": "silver-blonde-metallic-5079",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/silver-blonde-metallic-5079/",
+        "source_label": "PaintScratch 2017 Aston-Martin",
+        "hex_value": "#D5D3CD"
+      },
+      {
+        "display_name": "Hammerhead Silver Metallic",
+        "paint_code": "5085",
+        "slug": "hammerhead-silver-metallic-5085",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/hammerhead-silver-metallic-5085/",
+        "source_label": "PaintScratch 2017 Aston-Martin",
+        "hex_value": "#9D988D"
+      },
+      {
+        "display_name": "Virdian Green Metallic",
+        "paint_code": "5104",
+        "slug": "virdian-green-metallic-5104",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/virdian-green-metallic-5104/",
+        "source_label": "PaintScratch 2017 Aston-Martin",
+        "hex_value": "#1BC33F"
+      },
+      {
+        "display_name": "Maroon Black Pearl Metallic",
+        "paint_code": "5125",
+        "slug": "maroon-black-pearl-metallic-5125",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/maroon-black-pearl-metallic-5125/",
+        "source_label": "PaintScratch 2017 Aston-Martin",
+        "hex_value": "#221C1D"
+      },
+      {
+        "display_name": "Madagascar Orange",
+        "paint_code": "5127",
+        "slug": "madagascar-orange-5127",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/madagascar-orange-5127/",
+        "source_label": "PaintScratch 2017 Aston-Martin",
+        "hex_value": "#D99A13"
+      },
+      {
+        "display_name": "Ceramic Grey Metallic",
+        "paint_code": "5150",
+        "slug": "ceramic-grey-metallic-5150",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/ceramic-grey-metallic-5150/",
+        "source_label": "PaintScratch 2017 Aston-Martin",
+        "hex_value": "#35362A"
+      }
+    ],
+    "2018": [
+      {
+        "display_name": "Jet Black",
+        "paint_code": "1328",
+        "slug": "jet-black-1328",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/jet-black-1328/",
+        "source_label": "PaintScratch 2018 Aston-Martin",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Midnight Blue Metallic",
+        "paint_code": "1341",
+        "slug": "midnight-blue-metallic-1341",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/midnight-blue-metallic-1341/",
+        "source_label": "PaintScratch 2018 Aston-Martin",
+        "hex_value": "#081366"
+      },
+      {
+        "display_name": "Storm Black Pearl",
+        "paint_code": "5052",
+        "slug": "storm-black-pearl-5052",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/storm-black-pearl-5052/",
+        "source_label": "PaintScratch 2018 Aston-Martin",
+        "hex_value": "#1B1F1D"
+      },
+      {
+        "display_name": "Stratus White Pearl Tricoat",
+        "paint_code": "5057",
+        "slug": "stratus-white-pearl-tricoat-5057",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/stratus-white-pearl-tricoat-5057/",
+        "source_label": "PaintScratch 2018 Aston-Martin",
+        "hex_value": "#EFF7F3"
+      },
+      {
+        "display_name": "Quantum Silver Pearl",
+        "paint_code": "5073",
+        "slug": "quantum-silver-pearl-5073",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/quantum-silver-pearl-5073/",
+        "source_label": "PaintScratch 2018 Aston-Martin",
+        "hex_value": "#82786E"
+      },
+      {
+        "display_name": "Silver Pearl Metallic",
+        "paint_code": "1111",
+        "slug": "silver-pearl-metallic-1111",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/silver-pearl-metallic-1111/",
+        "source_label": "PaintScratch 2018 Aston-Martin",
+        "hex_value": "#F3EEE5"
+      },
+      {
+        "display_name": "Cobalt Blue Metallic",
+        "paint_code": "1192",
+        "slug": "cobalt-blue-metallic-1192",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/cobalt-blue-metallic-1192/",
+        "source_label": "PaintScratch 2018 Aston-Martin",
+        "hex_value": "#37496D"
+      },
+      {
+        "display_name": "Sunburst Yellow Pearl Tricoat",
+        "paint_code": "1375",
+        "slug": "sunburst-yellow-pearl-tricoat-1375",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/sunburst-yellow-pearl-tricoat-1375/",
+        "source_label": "PaintScratch 2018 Aston-Martin",
+        "hex_value": "#E3D31D"
+      },
+      {
+        "display_name": "Mariana Blue Pearl",
+        "paint_code": "5069",
+        "slug": "mariana-blue-pearl-5069",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/mariana-blue-pearl-5069/",
+        "source_label": "PaintScratch 2018 Aston-Martin",
+        "hex_value": "#1D2F5B"
+      },
+      {
+        "display_name": "Hardy Green Pearl",
+        "paint_code": "5078",
+        "slug": "hardy-green-pearl-5078",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/hardy-green-pearl-5078/",
+        "source_label": "PaintScratch 2018 Aston-Martin",
+        "hex_value": "#C3CFBB"
+      },
+      {
+        "display_name": "Silver Blonde Metallic",
+        "paint_code": "5079",
+        "slug": "silver-blonde-metallic-5079",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/silver-blonde-metallic-5079/",
+        "source_label": "PaintScratch 2018 Aston-Martin",
+        "hex_value": "#D5D3CD"
+      },
+      {
+        "display_name": "Hammerhead Silver Metallic",
+        "paint_code": "5085",
+        "slug": "hammerhead-silver-metallic-5085",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/hammerhead-silver-metallic-5085/",
+        "source_label": "PaintScratch 2018 Aston-Martin",
+        "hex_value": "#9D988D"
+      },
+      {
+        "display_name": "Virdian Green Metallic",
+        "paint_code": "5104",
+        "slug": "virdian-green-metallic-5104",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/virdian-green-metallic-5104/",
+        "source_label": "PaintScratch 2018 Aston-Martin",
+        "hex_value": "#1BC33F"
+      },
+      {
+        "display_name": "Maroon Black Pearl Metallic",
+        "paint_code": "5125",
+        "slug": "maroon-black-pearl-metallic-5125",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/maroon-black-pearl-metallic-5125/",
+        "source_label": "PaintScratch 2018 Aston-Martin",
+        "hex_value": "#221C1D"
+      },
+      {
+        "display_name": "Madagascar Orange",
+        "paint_code": "5127",
+        "slug": "madagascar-orange-5127",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/madagascar-orange-5127/",
+        "source_label": "PaintScratch 2018 Aston-Martin",
+        "hex_value": "#D99A13"
+      },
+      {
+        "display_name": "Ceramic Grey Metallic",
+        "paint_code": "5150",
+        "slug": "ceramic-grey-metallic-5150",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/ceramic-grey-metallic-5150/",
+        "source_label": "PaintScratch 2018 Aston-Martin",
+        "hex_value": "#35362A"
+      }
+    ],
+    "2019": [
+      {
+        "display_name": "Jet Black",
+        "paint_code": "1328",
+        "slug": "jet-black-1328",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/jet-black-1328/",
+        "source_label": "PaintScratch 2019 Aston-Martin",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Midnight Blue Metallic",
+        "paint_code": "1341",
+        "slug": "midnight-blue-metallic-1341",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/midnight-blue-metallic-1341/",
+        "source_label": "PaintScratch 2019 Aston-Martin",
+        "hex_value": "#081366"
+      },
+      {
+        "display_name": "Storm Black Pearl",
+        "paint_code": "5052",
+        "slug": "storm-black-pearl-5052",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/storm-black-pearl-5052/",
+        "source_label": "PaintScratch 2019 Aston-Martin",
+        "hex_value": "#1B1F1D"
+      },
+      {
+        "display_name": "Stratus White Pearl Tricoat",
+        "paint_code": "5057",
+        "slug": "stratus-white-pearl-tricoat-5057",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/stratus-white-pearl-tricoat-5057/",
+        "source_label": "PaintScratch 2019 Aston-Martin",
+        "hex_value": "#EFF7F3"
+      },
+      {
+        "display_name": "Quantum Silver Pearl",
+        "paint_code": "5073",
+        "slug": "quantum-silver-pearl-5073",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/quantum-silver-pearl-5073/",
+        "source_label": "PaintScratch 2019 Aston-Martin",
+        "hex_value": "#82786E"
+      },
+      {
+        "display_name": "Magnetic Silver",
+        "paint_code": "P6005ABB",
+        "slug": "magnetic-silver-p6005abb",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/magnetic-silver-p6005abb/",
+        "source_label": "PaintScratch 2019 Aston-Martin",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Silver Pearl Metallic",
+        "paint_code": "1111",
+        "slug": "silver-pearl-metallic-1111",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/silver-pearl-metallic-1111/",
+        "source_label": "PaintScratch 2019 Aston-Martin",
+        "hex_value": "#F3EEE5"
+      },
+      {
+        "display_name": "Cobalt Blue Metallic",
+        "paint_code": "1192",
+        "slug": "cobalt-blue-metallic-1192",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/cobalt-blue-metallic-1192/",
+        "source_label": "PaintScratch 2019 Aston-Martin",
+        "hex_value": "#37496D"
+      },
+      {
+        "display_name": "Sunburst Yellow Pearl Tricoat",
+        "paint_code": "1375",
+        "slug": "sunburst-yellow-pearl-tricoat-1375",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/sunburst-yellow-pearl-tricoat-1375/",
+        "source_label": "PaintScratch 2019 Aston-Martin",
+        "hex_value": "#E3D31D"
+      },
+      {
+        "display_name": "Mariana Blue Pearl",
+        "paint_code": "5069",
+        "slug": "mariana-blue-pearl-5069",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/mariana-blue-pearl-5069/",
+        "source_label": "PaintScratch 2019 Aston-Martin",
+        "hex_value": "#1D2F5B"
+      },
+      {
+        "display_name": "Hardy Green Pearl",
+        "paint_code": "5078",
+        "slug": "hardy-green-pearl-5078",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/hardy-green-pearl-5078/",
+        "source_label": "PaintScratch 2019 Aston-Martin",
+        "hex_value": "#C3CFBB"
+      },
+      {
+        "display_name": "Silver Blonde Metallic",
+        "paint_code": "5079",
+        "slug": "silver-blonde-metallic-5079",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/silver-blonde-metallic-5079/",
+        "source_label": "PaintScratch 2019 Aston-Martin",
+        "hex_value": "#D5D3CD"
+      },
+      {
+        "display_name": "Hammerhead Silver Metallic",
+        "paint_code": "5085",
+        "slug": "hammerhead-silver-metallic-5085",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/hammerhead-silver-metallic-5085/",
+        "source_label": "PaintScratch 2019 Aston-Martin",
+        "hex_value": "#9D988D"
+      },
+      {
+        "display_name": "Virdian Green Metallic",
+        "paint_code": "5104",
+        "slug": "virdian-green-metallic-5104",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/virdian-green-metallic-5104/",
+        "source_label": "PaintScratch 2019 Aston-Martin",
+        "hex_value": "#1BC33F"
+      },
+      {
+        "display_name": "Maroon Black Pearl Metallic",
+        "paint_code": "5125",
+        "slug": "maroon-black-pearl-metallic-5125",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/maroon-black-pearl-metallic-5125/",
+        "source_label": "PaintScratch 2019 Aston-Martin",
+        "hex_value": "#221C1D"
+      },
+      {
+        "display_name": "Madagascar Orange",
+        "paint_code": "5127",
+        "slug": "madagascar-orange-5127",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/madagascar-orange-5127/",
+        "source_label": "PaintScratch 2019 Aston-Martin",
+        "hex_value": "#D99A13"
+      }
+    ],
+    "2020": [
+      {
+        "display_name": "Jet Black",
+        "paint_code": "1328",
+        "slug": "jet-black-1328",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/jet-black-1328/",
+        "source_label": "PaintScratch 2020 Aston-Martin",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Storm Black Pearl",
+        "paint_code": "5052",
+        "slug": "storm-black-pearl-5052",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/storm-black-pearl-5052/",
+        "source_label": "PaintScratch 2020 Aston-Martin",
+        "hex_value": "#1B1F1D"
+      },
+      {
+        "display_name": "Onyx Black Metallic",
+        "paint_code": "5106",
+        "slug": "onyx-black-metallic-5106",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/onyx-black-metallic-5106/",
+        "source_label": "PaintScratch 2020 Aston-Martin",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Magnetic Silver",
+        "paint_code": "6005",
+        "slug": "magnetic-silver-6005",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/magnetic-silver-6005/",
+        "source_label": "PaintScratch 2020 Aston-Martin",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Gloss Xenon Gray Pearl",
+        "paint_code": "6069",
+        "slug": "gloss-xenon-gray-pearl-6069",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/gloss-xenon-gray-pearl-6069/",
+        "source_label": "PaintScratch 2020 Aston-Martin",
+        "hex_value": "#464B54"
+      },
+      {
+        "display_name": "Lunar White",
+        "paint_code": "1251",
+        "slug": "lunar-white-1251",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/lunar-white-1251/",
+        "source_label": "PaintScratch 2020 Aston-Martin",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Morning Frost White Tricoat",
+        "paint_code": "1326D",
+        "slug": "morning-frost-white-tricoat-1326d",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/morning-frost-white-tricoat-1326d/",
+        "source_label": "PaintScratch 2020 Aston-Martin",
+        "hex_value": "#FBFBF9"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "5054",
+        "slug": "silver-metallic-5054",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/silver-metallic-5054/",
+        "source_label": "PaintScratch 2020 Aston-Martin",
+        "hex_value": "#F3EEE5"
+      },
+      {
+        "display_name": "Mariana Blue Pearl",
+        "paint_code": "5069",
+        "slug": "mariana-blue-pearl-5069",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/mariana-blue-pearl-5069/",
+        "source_label": "PaintScratch 2020 Aston-Martin",
+        "hex_value": "#1D2F5B"
+      },
+      {
+        "display_name": "Hammerhead Silver Metallic",
+        "paint_code": "5085",
+        "slug": "hammerhead-silver-metallic-5085",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/hammerhead-silver-metallic-5085/",
+        "source_label": "PaintScratch 2020 Aston-Martin",
+        "hex_value": "#9D988D"
+      },
+      {
+        "display_name": "Stratus White Pearl Tricoat",
+        "paint_code": "5117",
+        "slug": "stratus-white-pearl-tricoat-5117",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/stratus-white-pearl-tricoat-5117/",
+        "source_label": "PaintScratch 2020 Aston-Martin",
+        "hex_value": "#EFF7F3"
+      },
+      {
+        "display_name": "Midnight Blue Pearl",
+        "paint_code": "5124",
+        "slug": "midnight-blue-pearl-5124",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/midnight-blue-pearl-5124/",
+        "source_label": "PaintScratch 2020 Aston-Martin",
+        "hex_value": "#151C2F"
+      },
+      {
+        "display_name": "Maroon Black Pearl Metallic",
+        "paint_code": "5125",
+        "slug": "maroon-black-pearl-metallic-5125",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/maroon-black-pearl-metallic-5125/",
+        "source_label": "PaintScratch 2020 Aston-Martin",
+        "hex_value": "#221C1D"
+      },
+      {
+        "display_name": "Kopi Bronze Pearl",
+        "paint_code": "5147",
+        "slug": "kopi-bronze-pearl-5147",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/kopi-bronze-pearl-5147/",
+        "source_label": "PaintScratch 2020 Aston-Martin",
+        "hex_value": "#CD932D"
+      },
+      {
+        "display_name": "Volcano Red Pearl",
+        "paint_code": "5151",
+        "slug": "volcano-red-pearl-5151",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/volcano-red-pearl-5151/",
+        "source_label": "PaintScratch 2020 Aston-Martin",
+        "hex_value": "#AF150D"
+      },
+      {
+        "display_name": "Diavolo Red Pearl",
+        "paint_code": "5157",
+        "slug": "diavolo-red-pearl-5157",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/diavolo-red-pearl-5157/",
+        "source_label": "PaintScratch 2020 Aston-Martin",
+        "hex_value": "#CA2222"
+      }
+    ],
+    "2021": [
+      {
+        "display_name": "Jet Black",
+        "paint_code": "1328",
+        "slug": "jet-black-1328",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/jet-black-1328/",
+        "source_label": "PaintScratch 2021 Aston-Martin",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Storm Black Pearl",
+        "paint_code": "5052",
+        "slug": "storm-black-pearl-5052",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/storm-black-pearl-5052/",
+        "source_label": "PaintScratch 2021 Aston-Martin",
+        "hex_value": "#1B1F1D"
+      },
+      {
+        "display_name": "Onyx Black Metallic",
+        "paint_code": "5106",
+        "slug": "onyx-black-metallic-5106",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/onyx-black-metallic-5106/",
+        "source_label": "PaintScratch 2021 Aston-Martin",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Magnetic Silver",
+        "paint_code": "6005",
+        "slug": "magnetic-silver-6005",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/magnetic-silver-6005/",
+        "source_label": "PaintScratch 2021 Aston-Martin",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Gloss Xenon Gray Pearl",
+        "paint_code": "6069",
+        "slug": "gloss-xenon-gray-pearl-6069",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/gloss-xenon-gray-pearl-6069/",
+        "source_label": "PaintScratch 2021 Aston-Martin",
+        "hex_value": "#464B54"
+      },
+      {
+        "display_name": "Lunar White",
+        "paint_code": "1251",
+        "slug": "lunar-white-1251",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/lunar-white-1251/",
+        "source_label": "PaintScratch 2021 Aston-Martin",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Morning Frost White Tricoat",
+        "paint_code": "1326D",
+        "slug": "morning-frost-white-tricoat-1326d",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/morning-frost-white-tricoat-1326d/",
+        "source_label": "PaintScratch 2021 Aston-Martin",
+        "hex_value": "#FBFBF9"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "5054",
+        "slug": "silver-metallic-5054",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/silver-metallic-5054/",
+        "source_label": "PaintScratch 2021 Aston-Martin",
+        "hex_value": "#F3EEE5"
+      },
+      {
+        "display_name": "Mariana Blue Pearl",
+        "paint_code": "5069",
+        "slug": "mariana-blue-pearl-5069",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/mariana-blue-pearl-5069/",
+        "source_label": "PaintScratch 2021 Aston-Martin",
+        "hex_value": "#1D2F5B"
+      },
+      {
+        "display_name": "Hammerhead Silver Metallic",
+        "paint_code": "5085",
+        "slug": "hammerhead-silver-metallic-5085",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/hammerhead-silver-metallic-5085/",
+        "source_label": "PaintScratch 2021 Aston-Martin",
+        "hex_value": "#9D988D"
+      },
+      {
+        "display_name": "Stratus White Pearl Tricoat",
+        "paint_code": "5117",
+        "slug": "stratus-white-pearl-tricoat-5117",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/stratus-white-pearl-tricoat-5117/",
+        "source_label": "PaintScratch 2021 Aston-Martin",
+        "hex_value": "#EFF7F3"
+      },
+      {
+        "display_name": "Midnight Blue Pearl",
+        "paint_code": "5124",
+        "slug": "midnight-blue-pearl-5124",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/midnight-blue-pearl-5124/",
+        "source_label": "PaintScratch 2021 Aston-Martin",
+        "hex_value": "#151C2F"
+      },
+      {
+        "display_name": "Maroon Black Pearl Metallic",
+        "paint_code": "5125",
+        "slug": "maroon-black-pearl-metallic-5125",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/maroon-black-pearl-metallic-5125/",
+        "source_label": "PaintScratch 2021 Aston-Martin",
+        "hex_value": "#221C1D"
+      },
+      {
+        "display_name": "Kopi Bronze Pearl",
+        "paint_code": "5147",
+        "slug": "kopi-bronze-pearl-5147",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/kopi-bronze-pearl-5147/",
+        "source_label": "PaintScratch 2021 Aston-Martin",
+        "hex_value": "#CD932D"
+      },
+      {
+        "display_name": "Volcano Red Pearl",
+        "paint_code": "5151",
+        "slug": "volcano-red-pearl-5151",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/volcano-red-pearl-5151/",
+        "source_label": "PaintScratch 2021 Aston-Martin",
+        "hex_value": "#AF150D"
+      },
+      {
+        "display_name": "Diavolo Red Pearl",
+        "paint_code": "5157",
+        "slug": "diavolo-red-pearl-5157",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/diavolo-red-pearl-5157/",
+        "source_label": "PaintScratch 2021 Aston-Martin",
+        "hex_value": "#CA2222"
+      }
+    ],
+    "2022": [
+      {
+        "display_name": "Jet Black",
+        "paint_code": "1328",
+        "slug": "jet-black-1328",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/jet-black-1328/",
+        "source_label": "PaintScratch 2022 Aston-Martin",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Storm Black Pearl",
+        "paint_code": "5052",
+        "slug": "storm-black-pearl-5052",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/storm-black-pearl-5052/",
+        "source_label": "PaintScratch 2022 Aston-Martin",
+        "hex_value": "#1B1F1D"
+      },
+      {
+        "display_name": "Onyx Black Metallic",
+        "paint_code": "5106",
+        "slug": "onyx-black-metallic-5106",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/onyx-black-metallic-5106/",
+        "source_label": "PaintScratch 2022 Aston-Martin",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Magnetic Silver",
+        "paint_code": "6005",
+        "slug": "magnetic-silver-6005",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/magnetic-silver-6005/",
+        "source_label": "PaintScratch 2022 Aston-Martin",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Gloss Xenon Gray Pearl",
+        "paint_code": "6069",
+        "slug": "gloss-xenon-gray-pearl-6069",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/gloss-xenon-gray-pearl-6069/",
+        "source_label": "PaintScratch 2022 Aston-Martin",
+        "hex_value": "#464B54"
+      },
+      {
+        "display_name": "Lunar White",
+        "paint_code": "1251",
+        "slug": "lunar-white-1251",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/lunar-white-1251/",
+        "source_label": "PaintScratch 2022 Aston-Martin",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Morning Frost White Tricoat",
+        "paint_code": "1326D",
+        "slug": "morning-frost-white-tricoat-1326d",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/morning-frost-white-tricoat-1326d/",
+        "source_label": "PaintScratch 2022 Aston-Martin",
+        "hex_value": "#FBFBF9"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "5054",
+        "slug": "silver-metallic-5054",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/silver-metallic-5054/",
+        "source_label": "PaintScratch 2022 Aston-Martin",
+        "hex_value": "#F3EEE5"
+      },
+      {
+        "display_name": "Mariana Blue Pearl",
+        "paint_code": "5069",
+        "slug": "mariana-blue-pearl-5069",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/mariana-blue-pearl-5069/",
+        "source_label": "PaintScratch 2022 Aston-Martin",
+        "hex_value": "#1D2F5B"
+      },
+      {
+        "display_name": "Hammerhead Silver Metallic",
+        "paint_code": "5085",
+        "slug": "hammerhead-silver-metallic-5085",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/hammerhead-silver-metallic-5085/",
+        "source_label": "PaintScratch 2022 Aston-Martin",
+        "hex_value": "#9D988D"
+      },
+      {
+        "display_name": "Stratus White Pearl Tricoat",
+        "paint_code": "5117",
+        "slug": "stratus-white-pearl-tricoat-5117",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/stratus-white-pearl-tricoat-5117/",
+        "source_label": "PaintScratch 2022 Aston-Martin",
+        "hex_value": "#EFF7F3"
+      },
+      {
+        "display_name": "Midnight Blue Pearl",
+        "paint_code": "5124",
+        "slug": "midnight-blue-pearl-5124",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/midnight-blue-pearl-5124/",
+        "source_label": "PaintScratch 2022 Aston-Martin",
+        "hex_value": "#151C2F"
+      },
+      {
+        "display_name": "Maroon Black Pearl Metallic",
+        "paint_code": "5125",
+        "slug": "maroon-black-pearl-metallic-5125",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/maroon-black-pearl-metallic-5125/",
+        "source_label": "PaintScratch 2022 Aston-Martin",
+        "hex_value": "#221C1D"
+      },
+      {
+        "display_name": "Kopi Bronze Pearl",
+        "paint_code": "5147",
+        "slug": "kopi-bronze-pearl-5147",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/kopi-bronze-pearl-5147/",
+        "source_label": "PaintScratch 2022 Aston-Martin",
+        "hex_value": "#CD932D"
+      },
+      {
+        "display_name": "Volcano Red Pearl",
+        "paint_code": "5151",
+        "slug": "volcano-red-pearl-5151",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/volcano-red-pearl-5151/",
+        "source_label": "PaintScratch 2022 Aston-Martin",
+        "hex_value": "#AF150D"
+      },
+      {
+        "display_name": "Diavolo Red Pearl",
+        "paint_code": "5157",
+        "slug": "diavolo-red-pearl-5157",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/diavolo-red-pearl-5157/",
+        "source_label": "PaintScratch 2022 Aston-Martin",
+        "hex_value": "#CA2222"
+      }
+    ],
+    "2023": [
+      {
+        "display_name": "Jet Black",
+        "paint_code": "1328",
+        "slug": "jet-black-1328",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/jet-black-1328/",
+        "source_label": "PaintScratch 2023 Aston-Martin",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Storm Black Pearl",
+        "paint_code": "5052",
+        "slug": "storm-black-pearl-5052",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/storm-black-pearl-5052/",
+        "source_label": "PaintScratch 2023 Aston-Martin",
+        "hex_value": "#1B1F1D"
+      },
+      {
+        "display_name": "Onyx Black Metallic",
+        "paint_code": "5106",
+        "slug": "onyx-black-metallic-5106",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/onyx-black-metallic-5106/",
+        "source_label": "PaintScratch 2023 Aston-Martin",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Magnetic Silver",
+        "paint_code": "6005",
+        "slug": "magnetic-silver-6005",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/magnetic-silver-6005/",
+        "source_label": "PaintScratch 2023 Aston-Martin",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Gloss Xenon Gray Pearl",
+        "paint_code": "6069",
+        "slug": "gloss-xenon-gray-pearl-6069",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/gloss-xenon-gray-pearl-6069/",
+        "source_label": "PaintScratch 2023 Aston-Martin",
+        "hex_value": "#464B54"
+      },
+      {
+        "display_name": "Lunar White",
+        "paint_code": "1251",
+        "slug": "lunar-white-1251",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/lunar-white-1251/",
+        "source_label": "PaintScratch 2023 Aston-Martin",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Morning Frost White Tricoat",
+        "paint_code": "1326D",
+        "slug": "morning-frost-white-tricoat-1326d",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/morning-frost-white-tricoat-1326d/",
+        "source_label": "PaintScratch 2023 Aston-Martin",
+        "hex_value": "#FBFBF9"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "5054",
+        "slug": "silver-metallic-5054",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/silver-metallic-5054/",
+        "source_label": "PaintScratch 2023 Aston-Martin",
+        "hex_value": "#F3EEE5"
+      },
+      {
+        "display_name": "Mariana Blue Pearl",
+        "paint_code": "5069",
+        "slug": "mariana-blue-pearl-5069",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/mariana-blue-pearl-5069/",
+        "source_label": "PaintScratch 2023 Aston-Martin",
+        "hex_value": "#1D2F5B"
+      },
+      {
+        "display_name": "Hammerhead Silver Metallic",
+        "paint_code": "5085",
+        "slug": "hammerhead-silver-metallic-5085",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/hammerhead-silver-metallic-5085/",
+        "source_label": "PaintScratch 2023 Aston-Martin",
+        "hex_value": "#9D988D"
+      },
+      {
+        "display_name": "Stratus White Pearl Tricoat",
+        "paint_code": "5117",
+        "slug": "stratus-white-pearl-tricoat-5117",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/stratus-white-pearl-tricoat-5117/",
+        "source_label": "PaintScratch 2023 Aston-Martin",
+        "hex_value": "#EFF7F3"
+      },
+      {
+        "display_name": "Midnight Blue Pearl",
+        "paint_code": "5124",
+        "slug": "midnight-blue-pearl-5124",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/midnight-blue-pearl-5124/",
+        "source_label": "PaintScratch 2023 Aston-Martin",
+        "hex_value": "#151C2F"
+      },
+      {
+        "display_name": "Maroon Black Pearl Metallic",
+        "paint_code": "5125",
+        "slug": "maroon-black-pearl-metallic-5125",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/maroon-black-pearl-metallic-5125/",
+        "source_label": "PaintScratch 2023 Aston-Martin",
+        "hex_value": "#221C1D"
+      },
+      {
+        "display_name": "Kopi Bronze Pearl",
+        "paint_code": "5147",
+        "slug": "kopi-bronze-pearl-5147",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/kopi-bronze-pearl-5147/",
+        "source_label": "PaintScratch 2023 Aston-Martin",
+        "hex_value": "#CD932D"
+      },
+      {
+        "display_name": "Volcano Red Pearl",
+        "paint_code": "5151",
+        "slug": "volcano-red-pearl-5151",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/volcano-red-pearl-5151/",
+        "source_label": "PaintScratch 2023 Aston-Martin",
+        "hex_value": "#AF150D"
+      },
+      {
+        "display_name": "Diavolo Red Pearl",
+        "paint_code": "5157",
+        "slug": "diavolo-red-pearl-5157",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/diavolo-red-pearl-5157/",
+        "source_label": "PaintScratch 2023 Aston-Martin",
+        "hex_value": "#CA2222"
+      }
+    ],
+    "2024": [
+      {
+        "display_name": "Jet Black",
+        "paint_code": "1328",
+        "slug": "jet-black-1328",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/jet-black-1328/",
+        "source_label": "PaintScratch 2024 Aston-Martin",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Storm Black Pearl",
+        "paint_code": "5052",
+        "slug": "storm-black-pearl-5052",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/storm-black-pearl-5052/",
+        "source_label": "PaintScratch 2024 Aston-Martin",
+        "hex_value": "#1B1F1D"
+      },
+      {
+        "display_name": "Onyx Black Metallic",
+        "paint_code": "5106",
+        "slug": "onyx-black-metallic-5106",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/onyx-black-metallic-5106/",
+        "source_label": "PaintScratch 2024 Aston-Martin",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Magnetic Silver",
+        "paint_code": "6005",
+        "slug": "magnetic-silver-6005",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/magnetic-silver-6005/",
+        "source_label": "PaintScratch 2024 Aston-Martin",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Gloss Xenon Gray Pearl",
+        "paint_code": "6069",
+        "slug": "gloss-xenon-gray-pearl-6069",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/gloss-xenon-gray-pearl-6069/",
+        "source_label": "PaintScratch 2024 Aston-Martin",
+        "hex_value": "#464B54"
+      },
+      {
+        "display_name": "Lunar White",
+        "paint_code": "1251",
+        "slug": "lunar-white-1251",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/lunar-white-1251/",
+        "source_label": "PaintScratch 2024 Aston-Martin",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Morning Frost White Tricoat",
+        "paint_code": "1326D",
+        "slug": "morning-frost-white-tricoat-1326d",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/morning-frost-white-tricoat-1326d/",
+        "source_label": "PaintScratch 2024 Aston-Martin",
+        "hex_value": "#FBFBF9"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "5054",
+        "slug": "silver-metallic-5054",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/silver-metallic-5054/",
+        "source_label": "PaintScratch 2024 Aston-Martin",
+        "hex_value": "#F3EEE5"
+      },
+      {
+        "display_name": "Mariana Blue Pearl",
+        "paint_code": "5069",
+        "slug": "mariana-blue-pearl-5069",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/mariana-blue-pearl-5069/",
+        "source_label": "PaintScratch 2024 Aston-Martin",
+        "hex_value": "#1D2F5B"
+      },
+      {
+        "display_name": "Hammerhead Silver Metallic",
+        "paint_code": "5085",
+        "slug": "hammerhead-silver-metallic-5085",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/hammerhead-silver-metallic-5085/",
+        "source_label": "PaintScratch 2024 Aston-Martin",
+        "hex_value": "#9D988D"
+      },
+      {
+        "display_name": "Stratus White Pearl Tricoat",
+        "paint_code": "5117",
+        "slug": "stratus-white-pearl-tricoat-5117",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/stratus-white-pearl-tricoat-5117/",
+        "source_label": "PaintScratch 2024 Aston-Martin",
+        "hex_value": "#EFF7F3"
+      },
+      {
+        "display_name": "Midnight Blue Pearl",
+        "paint_code": "5124",
+        "slug": "midnight-blue-pearl-5124",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/midnight-blue-pearl-5124/",
+        "source_label": "PaintScratch 2024 Aston-Martin",
+        "hex_value": "#151C2F"
+      },
+      {
+        "display_name": "Maroon Black Pearl Metallic",
+        "paint_code": "5125",
+        "slug": "maroon-black-pearl-metallic-5125",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/maroon-black-pearl-metallic-5125/",
+        "source_label": "PaintScratch 2024 Aston-Martin",
+        "hex_value": "#221C1D"
+      },
+      {
+        "display_name": "Kopi Bronze Pearl",
+        "paint_code": "5147",
+        "slug": "kopi-bronze-pearl-5147",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/kopi-bronze-pearl-5147/",
+        "source_label": "PaintScratch 2024 Aston-Martin",
+        "hex_value": "#CD932D"
+      },
+      {
+        "display_name": "Volcano Red Pearl",
+        "paint_code": "5151",
+        "slug": "volcano-red-pearl-5151",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/volcano-red-pearl-5151/",
+        "source_label": "PaintScratch 2024 Aston-Martin",
+        "hex_value": "#AF150D"
+      },
+      {
+        "display_name": "Diavolo Red Pearl",
+        "paint_code": "5157",
+        "slug": "diavolo-red-pearl-5157",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/diavolo-red-pearl-5157/",
+        "source_label": "PaintScratch 2024 Aston-Martin",
+        "hex_value": "#CA2222"
+      }
+    ],
+    "2025": [
+      {
+        "display_name": "Jet Black",
+        "paint_code": "1328",
+        "slug": "jet-black-1328",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/jet-black-1328/",
+        "source_label": "PaintScratch 2025 Aston-Martin",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Storm Black Pearl",
+        "paint_code": "5052",
+        "slug": "storm-black-pearl-5052",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/storm-black-pearl-5052/",
+        "source_label": "PaintScratch 2025 Aston-Martin",
+        "hex_value": "#1B1F1D"
+      },
+      {
+        "display_name": "Onyx Black Metallic",
+        "paint_code": "5106",
+        "slug": "onyx-black-metallic-5106",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/onyx-black-metallic-5106/",
+        "source_label": "PaintScratch 2025 Aston-Martin",
+        "hex_value": "#000000"
+      },
+      {
+        "display_name": "Magnetic Silver",
+        "paint_code": "6005",
+        "slug": "magnetic-silver-6005",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/magnetic-silver-6005/",
+        "source_label": "PaintScratch 2025 Aston-Martin",
+        "hex_value": "#808080"
+      },
+      {
+        "display_name": "Gloss Xenon Gray Pearl",
+        "paint_code": "6069",
+        "slug": "gloss-xenon-gray-pearl-6069",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/gloss-xenon-gray-pearl-6069/",
+        "source_label": "PaintScratch 2025 Aston-Martin",
+        "hex_value": "#464B54"
+      },
+      {
+        "display_name": "Lunar White",
+        "paint_code": "1251",
+        "slug": "lunar-white-1251",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/lunar-white-1251/",
+        "source_label": "PaintScratch 2025 Aston-Martin",
+        "hex_value": "#FFFFFF"
+      },
+      {
+        "display_name": "Morning Frost White Tricoat",
+        "paint_code": "1326D",
+        "slug": "morning-frost-white-tricoat-1326d",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/morning-frost-white-tricoat-1326d/",
+        "source_label": "PaintScratch 2025 Aston-Martin",
+        "hex_value": "#FBFBF9"
+      },
+      {
+        "display_name": "Silver Metallic",
+        "paint_code": "5054",
+        "slug": "silver-metallic-5054",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/silver-metallic-5054/",
+        "source_label": "PaintScratch 2025 Aston-Martin",
+        "hex_value": "#F3EEE5"
+      },
+      {
+        "display_name": "Mariana Blue Pearl",
+        "paint_code": "5069",
+        "slug": "mariana-blue-pearl-5069",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/mariana-blue-pearl-5069/",
+        "source_label": "PaintScratch 2025 Aston-Martin",
+        "hex_value": "#1D2F5B"
+      },
+      {
+        "display_name": "Hammerhead Silver Metallic",
+        "paint_code": "5085",
+        "slug": "hammerhead-silver-metallic-5085",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/hammerhead-silver-metallic-5085/",
+        "source_label": "PaintScratch 2025 Aston-Martin",
+        "hex_value": "#9D988D"
+      },
+      {
+        "display_name": "Stratus White Pearl Tricoat",
+        "paint_code": "5117",
+        "slug": "stratus-white-pearl-tricoat-5117",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/stratus-white-pearl-tricoat-5117/",
+        "source_label": "PaintScratch 2025 Aston-Martin",
+        "hex_value": "#EFF7F3"
+      },
+      {
+        "display_name": "Midnight Blue Pearl",
+        "paint_code": "5124",
+        "slug": "midnight-blue-pearl-5124",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/midnight-blue-pearl-5124/",
+        "source_label": "PaintScratch 2025 Aston-Martin",
+        "hex_value": "#151C2F"
+      },
+      {
+        "display_name": "Maroon Black Pearl Metallic",
+        "paint_code": "5125",
+        "slug": "maroon-black-pearl-metallic-5125",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/maroon-black-pearl-metallic-5125/",
+        "source_label": "PaintScratch 2025 Aston-Martin",
+        "hex_value": "#221C1D"
+      },
+      {
+        "display_name": "Kopi Bronze Pearl",
+        "paint_code": "5147",
+        "slug": "kopi-bronze-pearl-5147",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/kopi-bronze-pearl-5147/",
+        "source_label": "PaintScratch 2025 Aston-Martin",
+        "hex_value": "#CD932D"
+      },
+      {
+        "display_name": "Volcano Red Pearl",
+        "paint_code": "5151",
+        "slug": "volcano-red-pearl-5151",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/volcano-red-pearl-5151/",
+        "source_label": "PaintScratch 2025 Aston-Martin",
+        "hex_value": "#AF150D"
+      },
+      {
+        "display_name": "Diavolo Red Pearl",
+        "paint_code": "5157",
+        "slug": "diavolo-red-pearl-5157",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/diavolo-red-pearl-5157/",
+        "source_label": "PaintScratch 2025 Aston-Martin",
+        "hex_value": "#CA2222"
+      }
+    ],
+    "2026": [
+      {
+        "display_name": "Valkyrie Gold",
+        "paint_code": "6305",
+        "slug": "valkyrie-gold-6305",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/valkyrie-gold-6305/",
+        "source_label": "PaintScratch 2026 Aston-Martin",
+        "hex_value": "#796033"
+      },
+      {
+        "display_name": "Veles White Tricoat",
+        "paint_code": "6374",
+        "slug": "veles-white-tricoat-6374",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/veles-white-tricoat-6374/",
+        "source_label": "PaintScratch 2026 Aston-Martin",
+        "hex_value": "#BCC4C7"
+      },
+      {
+        "display_name": "Bronze Flare",
+        "paint_code": "6378",
+        "slug": "bronze-flare-6378",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/bronze-flare-6378/",
+        "source_label": "PaintScratch 2026 Aston-Martin",
+        "hex_value": "#797C7E"
+      },
+      {
+        "display_name": "Desert Shimmer Tricoat",
+        "paint_code": "6393",
+        "slug": "desert-shimmer-tricoat-6393",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/desert-shimmer-tricoat-6393/",
+        "source_label": "PaintScratch 2026 Aston-Martin",
+        "hex_value": "#B77005"
+      },
+      {
+        "display_name": "Desert Drift Tricoat",
+        "paint_code": "6394",
+        "slug": "desert-drift-tricoat-6394",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/desert-drift-tricoat-6394/",
+        "source_label": "PaintScratch 2026 Aston-Martin",
+        "hex_value": "#BB7107"
+      },
+      {
+        "display_name": "Lakeview Blue",
+        "paint_code": "6395",
+        "slug": "lakeview-blue-6395",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/lakeview-blue-6395/",
+        "source_label": "PaintScratch 2026 Aston-Martin",
+        "hex_value": "#005A7E"
+      },
+      {
+        "display_name": "Peninsula Mint",
+        "paint_code": "6396",
+        "slug": "peninsula-mint-6396",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/peninsula-mint-6396/",
+        "source_label": "PaintScratch 2026 Aston-Martin",
+        "hex_value": "#69ABA5"
+      },
+      {
+        "display_name": "Golden Desert Shimmer Tricoat",
+        "paint_code": "6443",
+        "slug": "golden-desert-shimmer-tricoat-6443",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/golden-desert-shimmer-tricoat-6443/",
+        "source_label": "PaintScratch 2026 Aston-Martin",
+        "hex_value": "#B46C02"
+      },
+      {
+        "display_name": "Lisia Green",
+        "paint_code": "6444",
+        "slug": "lisia-green-6444",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/lisia-green-6444/",
+        "source_label": "PaintScratch 2026 Aston-Martin",
+        "hex_value": "#092C31"
+      }
+    ],
+    "2027": [
+      {
+        "display_name": "Valkyrie Gold",
+        "paint_code": "6305",
+        "slug": "valkyrie-gold-6305",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/valkyrie-gold-6305/",
+        "source_label": "PaintScratch 2027 Aston-Martin",
+        "hex_value": "#796033"
+      },
+      {
+        "display_name": "Veles White Tricoat",
+        "paint_code": "6374",
+        "slug": "veles-white-tricoat-6374",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/veles-white-tricoat-6374/",
+        "source_label": "PaintScratch 2027 Aston-Martin",
+        "hex_value": "#BCC4C7"
+      },
+      {
+        "display_name": "Bronze Flare",
+        "paint_code": "6378",
+        "slug": "bronze-flare-6378",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/bronze-flare-6378/",
+        "source_label": "PaintScratch 2027 Aston-Martin",
+        "hex_value": "#797C7E"
+      },
+      {
+        "display_name": "Desert Shimmer Tricoat",
+        "paint_code": "6393",
+        "slug": "desert-shimmer-tricoat-6393",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/desert-shimmer-tricoat-6393/",
+        "source_label": "PaintScratch 2027 Aston-Martin",
+        "hex_value": "#B77005"
+      },
+      {
+        "display_name": "Desert Drift Tricoat",
+        "paint_code": "6394",
+        "slug": "desert-drift-tricoat-6394",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/desert-drift-tricoat-6394/",
+        "source_label": "PaintScratch 2027 Aston-Martin",
+        "hex_value": "#BB7107"
+      },
+      {
+        "display_name": "Lakeview Blue",
+        "paint_code": "6395",
+        "slug": "lakeview-blue-6395",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/lakeview-blue-6395/",
+        "source_label": "PaintScratch 2027 Aston-Martin",
+        "hex_value": "#005A7E"
+      },
+      {
+        "display_name": "Peninsula Mint",
+        "paint_code": "6396",
+        "slug": "peninsula-mint-6396",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/peninsula-mint-6396/",
+        "source_label": "PaintScratch 2027 Aston-Martin",
+        "hex_value": "#69ABA5"
+      },
+      {
+        "display_name": "Golden Desert Shimmer Tricoat",
+        "paint_code": "6443",
+        "slug": "golden-desert-shimmer-tricoat-6443",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/golden-desert-shimmer-tricoat-6443/",
+        "source_label": "PaintScratch 2027 Aston-Martin",
+        "hex_value": "#B46C02"
+      },
+      {
+        "display_name": "Lisia Green",
+        "paint_code": "6444",
+        "slug": "lisia-green-6444",
+        "reference_url": "https://www.paintscratch.com/colors/aston-martin/lisia-green-6444/",
+        "source_label": "PaintScratch 2027 Aston-Martin",
+        "hex_value": "#092C31"
+      }
+    ]
+  }
+}
