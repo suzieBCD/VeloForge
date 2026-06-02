@@ -1,18 +1,14 @@
 (function () {
   'use strict';
 
-
-  
-  /** @type {HTMLElement | null} */
   const root = document.querySelector('[data-vf-configurator]');
   if (!root) return;
 
   /* ===== DOM REFS ===== */
   const form = root.querySelector('form');
-  /** @type {HTMLSelectElement} */
-  const makeSel = /** @type {any} */ (root.querySelector('[data-select="make"]'));
-  /** @type {HTMLSelectElement} */
-  const yearSel = /** @type {any} */ (root.querySelector('[data-select="year"]'));
+  const makeSel = root.querySelector('[data-select="make"]');
+  const modelSel = root.querySelector('[data-select="model"]');
+  const yearSel = root.querySelector('[data-select="year"]');
   const paintGrid = root.querySelector('[data-paint-grid]');
   const paintUnavailable = root.querySelector('[data-paint-unavailable]');
   const inputPaintName = root.querySelector('[data-input="paint-name"]');
@@ -22,6 +18,13 @@
   const variantHidden = root.querySelector('[data-variant-id]');
   const summaryPaint = root.querySelector('[data-summary-paint]');
   const summaryVehicle = root.querySelector('[data-summary-vehicle]');
+  const summaryCartPaint = root.querySelector('[data-summary-cart-paint]');
+  const summaryCartVehicle = root.querySelector('[data-summary-cart-vehicle]');
+  const propPaintName = root.querySelector('[data-prop="Paint Name"]');
+  const propPaintCode = root.querySelector('[data-prop="Paint Code"]');
+  const propHex = root.querySelector('[data-prop="Hex"]');
+  const propVehicle = root.querySelector('[data-prop="Vehicle"]');
+  const propNotes = root.querySelector('[data-prop="Notes"]');
   const neutralBtn = root.querySelector('[data-neutral-preview]');
   const qtyInput = root.querySelector('[data-quantity-input]');
   const qtyValue = root.querySelector('[data-quantity-value]');
@@ -31,7 +34,6 @@
   const statusEl = root.querySelector('[data-status]');
 
   /* Ring preview layers (desktop + mobile) */
-  const previews = root.querySelectorAll('[data-ring-preview]');
   const cwDesktop = root.querySelector('[data-ring-color-wash]');
   const tDesktop = root.querySelector('[data-ring-tint]');
   const hDesktop = root.querySelector('[data-ring-highlight]');
@@ -40,6 +42,17 @@
   const hMobile = root.querySelector('[data-ring-highlight-m]');
   const ringInlayMask = root.dataset.ringInlay;
 
+  /* Notes UI refs */
+  const notesOpenBtn = root.querySelector('[data-notes-open]');
+  const notesForm = root.querySelector('[data-notes-form]');
+  const notesTextarea = root.querySelector('[data-notes-textarea]');
+  const notesSaveBtn = root.querySelector('[data-notes-save]');
+  const notesCancelBtn = root.querySelector('[data-notes-cancel]');
+  const notesPreview = root.querySelector('[data-notes-preview]');
+  const notesPreviewText = root.querySelector('[data-notes-preview-text]');
+  const notesEditBtn = root.querySelector('[data-notes-edit]');
+  const notesDeleteBtn = root.querySelector('[data-notes-delete]');
+
   /* ===== STATE ===== */
   /** @type {Map<string, object>} Cache of make → model tree, populated on demand */
   const makeCache = new Map();
@@ -47,6 +60,13 @@
   let activeModelKey = null;
   let selectedPaint = null;
   let selectedSize = null;
+  let qty = 1;
+
+  let savedNotes = '';
+  let savedPaintNotListed = false; // whether the saved note was used in place of a curated paint
+
+  const STATE_KEY = 'vf_configurator_state_v2';
+  const NOTES_KEY = 'vf_configurator_notes_v2';
 
   /* Variant map from inline JSON script tag */
   const variantMap = JSON.parse(root.querySelector('[data-variant-map]')?.textContent || '{}');
@@ -69,32 +89,11 @@
     }
   }
 
-  /**
-   * Fetch and cache a single make's data.
-   * Returns the model subtree or null on error.
-   * @param {string} make
-   * @returns {Promise<object|null>}
-   */
-  async function fetchMakeData(make) {
-    if (makeCache.has(make)) return makeCache.get(make);
-    try {
-      const indexUrl = root.dataset.paintIndexUrl;
-      const cdnBase = indexUrl.substring(0, indexUrl.lastIndexOf('/'));
-      const chunkUrl = `${cdnBase}/paint-data-${makeSlug(make)}.json`;
-      const res = await fetch(chunkUrl);
-      if (!res.ok) throw new Error(`HTTP ${res.status}`);
-      const data = await res.json();
-      makeCache.set(make, data);
-      return data;
-    } catch (e) {
-      console.error(`VeloForge: Failed to load paint data for "${make}"`, e);
-      return null;
-    }
-  }
-
-  function populateMakes(makes) {
+  function populateMakes() {
+    const makes = Object.keys(vehicleData || {});
     makeSel.innerHTML = '<option value="">Select Make</option>' +
-      makes.map(m => `<option value="${m}">${m}</option>`).join('');
+      makes.map(m => `<option value="${escapeHtml(m)}">${escapeHtml(m)}</option>`).join('');
+    modelSel.innerHTML = '<option value="">Select Model</option>';
     yearSel.innerHTML = '<option value="">Select Year</option>';
   }
 
@@ -103,14 +102,21 @@
     yearSel.innerHTML = '<option value="">Select Year</option>';
     activeModelKey = null;
     clearPaints();
-    if (!make) return;
-    if (statusEl) statusEl.textContent = 'Loading colors…';
-    const makeData = await fetchMakeData(make);
-    if (statusEl) statusEl.textContent = '';
-    if (!makeData) return;
-    activeModelKey = Object.keys(makeData)[0];
-    const years = Object.keys(makeData[activeModelKey] || {});
-    yearSel.innerHTML += years.map(y => `<option value="${y}">${y}</option>`).join('');
+    if (!make || !vehicleData?.[make]) return;
+    const models = Object.keys(vehicleData[make]);
+    modelSel.innerHTML += models.map(m => `<option value="${escapeHtml(m)}">${escapeHtml(m)}</option>`).join('');
+    updateSummaryVehicle();
+    updateReadiness();
+  }
+
+  function onModelChange() {
+    const make = makeSel.value;
+    const model = modelSel.value;
+    yearSel.innerHTML = '<option value="">Select Year</option>';
+    clearPaints();
+    if (!make || !model || !vehicleData?.[make]?.[model]) return;
+    const years = Object.keys(vehicleData[make][model]);
+    yearSel.innerHTML += years.map(y => `<option value="${escapeHtml(y)}">${escapeHtml(y)}</option>`).join('');
     updateSummaryVehicle();
     updateReadiness();
   }
@@ -132,27 +138,19 @@
 
   /* ===== PAINT SWATCHES ===== */
   function clearPaints() {
-    paintGrid.innerHTML = '';
-    paintUnavailable.style.display = 'none';
+    if (paintGrid) paintGrid.innerHTML = '';
+    if (paintUnavailable) paintUnavailable.style.display = 'none';
     selectedPaint = null;
     setColor(null);
-    inputPaintName.value = '';
-    inputPaintCode.value = '';
-    inputPaintHex.value = '';
+    if (inputPaintName) inputPaintName.value = '';
+    if (inputPaintCode) inputPaintCode.value = '';
+    if (inputPaintHex) inputPaintHex.value = '';
     updateSummaryPaint();
   }
 
   function renderPaints(paints) {
-    paintGrid.innerHTML = paints.map((p, i) => `
-      <button type="button" class="vf-paint-swatch" data-paint-index="${i}"
-        data-hex="${p.hex_value}" data-name="${p.display_name}" data-code="${p.paint_code}">
-        <span class="vf-paint-swatch__color" style="background:${p.hex_value}"></span>
-        <span class="vf-paint-swatch__info">
-          <span class="vf-paint-swatch__name">${p.display_name}</span>
-          <span class="vf-paint-swatch__code">${p.paint_code}</span>
-        </span>
-      </button>
-    `).join('');
+    if (!paintGrid) return;
+    paintGrid.innerHTML = paints.map((p, i) => `\n      <button type="button" class="vf-paint-swatch" data-paint-index="${i}" data-hex="${p.hex_value}" data-name="${escapeHtml(p.display_name)}" data-code="${escapeHtml(p.paint_code)}">\n        <span class="vf-paint-swatch__color" style="background:${p.hex_value}"></span>\n        <span class="vf-paint-swatch__info">\n          <span class="vf-paint-swatch__name">${escapeHtml(p.display_name)}</span>\n          <span class="vf-paint-swatch__code">${escapeHtml(p.paint_code)}</span>\n        </span>\n      </button>\n    `).join('');
 
     paintGrid.querySelectorAll('.vf-paint-swatch').forEach(btn => {
       btn.addEventListener('click', () => selectSwatch(btn));
@@ -160,15 +158,16 @@
   }
 
   function selectSwatch(btn) {
+    if (!paintGrid) return;
     paintGrid.querySelectorAll('.vf-paint-swatch').forEach(b => b.classList.remove('vf-paint-swatch--active'));
     btn.classList.add('vf-paint-swatch--active');
     const hex = btn.dataset.hex;
     const name = btn.dataset.name;
     const code = btn.dataset.code;
     selectedPaint = { hex, name, code };
-    inputPaintName.value = name;
-    inputPaintCode.value = code;
-    inputPaintHex.value = hex;
+    if (inputPaintName) inputPaintName.value = name || '';
+    if (inputPaintCode) inputPaintCode.value = code || '';
+    if (inputPaintHex) inputPaintHex.value = hex || '';
     setColor(hex);
     updateSummaryPaint();
     updateReadiness();
@@ -176,15 +175,14 @@
 
   /* Manual paint inputs */
   function onManualPaintInput() {
-    const name = inputPaintName.value.trim();
-    const code = inputPaintCode.value.trim();
-    const hex = inputPaintHex.value.trim();
-    if (hex) {
-      const normalizedHex = hex.startsWith('#') ? hex : '#' + hex;
+    const name = inputPaintName?.value.trim() || '';
+    const code = inputPaintCode?.value.trim() || '';
+    const hexRaw = inputPaintHex?.value.trim() || '';
+    if (hexRaw) {
+      const normalizedHex = hexRaw.startsWith('#') ? hexRaw : '#' + hexRaw;
       selectedPaint = { hex: normalizedHex, name: name || 'Custom', code: code || '' };
       setColor(normalizedHex);
-      /* Deselect swatches */
-      paintGrid.querySelectorAll('.vf-paint-swatch').forEach(b => b.classList.remove('vf-paint-swatch--active'));
+      if (paintGrid) paintGrid.querySelectorAll('.vf-paint-swatch').forEach(b => b.classList.remove('vf-paint-swatch--active'));
     } else {
       selectedPaint = null;
     }
@@ -192,46 +190,35 @@
     updateReadiness();
   }
 
-  inputPaintName.addEventListener('input', onManualPaintInput);
-  inputPaintCode.addEventListener('input', onManualPaintInput);
-  inputPaintHex.addEventListener('input', onManualPaintInput);
+  if (inputPaintName) inputPaintName.addEventListener('input', onManualPaintInput);
+  if (inputPaintCode) inputPaintCode.addEventListener('input', onManualPaintInput);
+  if (inputPaintHex) inputPaintHex.addEventListener('input', onManualPaintInput);
 
   /* ===== RING COLOR COMPOSITING ===== */
   function applyRingMask() {
     if (!ringInlayMask) return;
-
     const maskValue = `url("${ringInlayMask}")`;
-
     [cwDesktop, tDesktop, hDesktop, cwMobile, tMobile, hMobile]
       .filter(Boolean)
       .forEach((layer) => {
-        layer.style.setProperty('--vf-ring-inlay-mask', maskValue);
+        try { layer.style.setProperty('--vf-ring-inlay-mask', maskValue); } catch (_) {}
       });
   }
 
   function setColor(hex) {
-    const layerGroups = [
-      [cwDesktop, tDesktop, hDesktop],
-      [cwMobile, tMobile, hMobile],
-    ];
-
-    layerGroups.forEach(([cw, t, h]) => {
+    const groups = [ [cwDesktop, tDesktop, hDesktop], [cwMobile, tMobile, hMobile] ];
+    groups.forEach(([cw, t, h]) => {
       if (!cw) return;
-
-      const preview =
-        cw.closest('[data-ring-preview]') ||
-        cw.closest('[data-ring-preview-mobile]');
-
       if (hex) {
         cw.style.backgroundColor = hex;
         if (t) t.style.backgroundColor = hex;
         if (h) h.style.backgroundColor = '#ffffff';
-        preview?.classList.add('vf-ring-preview--active');
+        cw.closest('[data-ring-preview]')?.classList.add('vf-ring-preview--active');
       } else {
         cw.style.backgroundColor = '';
         if (t) t.style.backgroundColor = '';
         if (h) h.style.backgroundColor = '';
-        preview?.classList.remove('vf-ring-preview--active');
+        cw.closest('[data-ring-preview]')?.classList.remove('vf-ring-preview--active');
       }
     });
   }
@@ -240,22 +227,21 @@
   if (neutralBtn) {
     neutralBtn.addEventListener('click', () => {
       setColor(null);
-      paintGrid.querySelectorAll('.vf-paint-swatch').forEach(b => b.classList.remove('vf-paint-swatch--active'));
+      if (paintGrid) paintGrid.querySelectorAll('.vf-paint-swatch').forEach(b => b.classList.remove('vf-paint-swatch--active'));
       selectedPaint = null;
-      inputPaintName.value = '';
-      inputPaintCode.value = '';
-      inputPaintHex.value = '';
+      if (inputPaintName) inputPaintName.value = '';
+      if (inputPaintCode) inputPaintCode.value = '';
+      if (inputPaintHex) inputPaintHex.value = '';
       updateSummaryPaint();
     });
   }
 
   /* ===== SIZE SELECTOR ===== */
-  sizeGrid.querySelectorAll('.vf-size-btn').forEach(btn => {
+  sizeGrid?.querySelectorAll('.vf-size-btn')?.forEach(btn => {
     btn.addEventListener('click', () => {
       sizeGrid.querySelectorAll('.vf-size-btn').forEach(b => b.classList.remove('vf-size-btn--active'));
       btn.classList.add('vf-size-btn--active');
       selectedSize = btn.dataset.sizeValue;
-      /* Resolve variant and set hidden id input */
       const vid = variantMap[selectedSize];
       if (vid && variantHidden) variantHidden.value = vid;
       updateReadiness();
@@ -263,62 +249,65 @@
   });
 
   /* ===== QUANTITY ===== */
-  let qty = 1;
-  if (decreaseBtn) {
-    decreaseBtn.addEventListener('click', () => {
-      if (qty > 1) { qty--; updateQty(); }
-    });
-  }
-  if (increaseBtn) {
-    increaseBtn.addEventListener('click', () => {
-      qty++;
-      updateQty();
-    });
-  }
+  if (decreaseBtn) decreaseBtn.addEventListener('click', () => { if (qty > 1) { qty--; updateQty(); } });
+  if (increaseBtn) increaseBtn.addEventListener('click', () => { qty++; updateQty(); });
 
   function updateQty() {
     qtyValue.textContent = qty;
-    qtyInput.value = qty;
+    if (qtyInput) qtyInput.value = qty;
   }
 
-  /* ===== SUMMARY ===== */
+  /* ===== SUMMARY + HIDDEN PROPS ===== */
   function updateSummaryPaint() {
-    if (!summaryPaint) return;
-    summaryPaint.textContent = selectedPaint
-      ? `${selectedPaint.name}${selectedPaint.code ? ' (' + selectedPaint.code + ')' : ''}`
-      : '—';
+    const text = selectedPaint ? `${selectedPaint.name}${selectedPaint.code ? ' (' + selectedPaint.code + ')' : ''}` : '—';
+    if (summaryPaint) summaryPaint.textContent = text;
+    if (summaryCartPaint) summaryCartPaint.textContent = text;
+    updateHiddenProps();
   }
 
   function updateSummaryVehicle() {
-    if (!summaryVehicle) return;
-    const parts = [makeSel.value, yearSel.value].filter(Boolean);
-    summaryVehicle.textContent = parts.length ? parts.join(' ') : '—';
+    const parts = [makeSel.value, modelSel.value, yearSel.value].filter(Boolean);
+    const text = parts.length ? parts.join(' ') : '—';
+    if (summaryVehicle) summaryVehicle.textContent = text;
+    if (summaryCartVehicle) summaryCartVehicle.textContent = text;
+    updateHiddenProps();
+  }
+
+  function updateHiddenProps() {
+    if (propPaintName) {
+      if (savedPaintNotListed) propPaintName.value = '*See Notes';
+      else propPaintName.value = inputPaintName?.value || '';
+    }
+    if (propPaintCode) propPaintCode.value = savedPaintNotListed ? '*See Notes' : (inputPaintCode?.value || '');
+    if (propHex) propHex.value = savedPaintNotListed ? '*See Notes' : (inputPaintHex?.value || '');
+    if (propVehicle) {
+      if (savedNotes) propVehicle.value = '*See Notes';
+      else {
+        const parts = [makeSel.value, modelSel.value, yearSel.value].filter(Boolean);
+        propVehicle.value = parts.length ? parts.join(' ') : '';
+      }
+    }
+    if (propNotes) propNotes.value = savedNotes || '';
   }
 
   function updateReadiness() {
     if (!addBtn) return;
-    const ready = !!selectedSize &&
-      !!makeSel.value && !!yearSel.value &&
-      !!(inputPaintName.value || inputPaintHex.value);
+    const hasSize = !!selectedSize;
+    const hasVehicle = !!makeSel.value && !!modelSel.value && !!yearSel.value;
+    const hasPaint = !!(inputPaintName?.value || inputPaintHex?.value || selectedPaint);
+    const ready = hasSize && (savedNotes || (hasVehicle && hasPaint));
     addBtn.disabled = !ready;
   }
 
   /* ===== FORM SUBMIT ===== */
-  form.addEventListener('submit', (e) => {
+  form?.addEventListener('submit', (e) => {
+    updateHiddenProps();
     if (!selectedSize) {
-      e.preventDefault();
-      showStatus('Please select a ring size.');
-      return;
+      e.preventDefault(); showStatus('Please select a ring size.'); return;
     }
-    if (!makeSel.value || !yearSel.value) {
-      e.preventDefault();
-      showStatus('Please complete all vehicle fields.');
-      return;
-    }
-    if (!inputPaintName.value && !inputPaintHex.value) {
-      e.preventDefault();
-      showStatus('Please select or enter a paint color.');
-      return;
+    if (!savedNotes) {
+      if (!makeSel.value || !modelSel.value || !yearSel.value) { e.preventDefault(); showStatus('Please complete all vehicle fields.'); return; }
+      if (!inputPaintName?.value && !inputPaintHex?.value && !selectedPaint) { e.preventDefault(); showStatus('Please select or enter a paint color.'); return; }
     }
   });
 
@@ -328,68 +317,192 @@
     setTimeout(() => { statusEl.textContent = ''; }, 4000);
   }
 
-  /* ===== STATE PERSISTENCE (sessionStorage) ===== */
-  const STATE_KEY = 'vf_configurator_state';
-
+  /* ===== STATE PERSISTENCE ===== */
   function saveState() {
     const state = {
-      make: makeSel.value,
-      year: yearSel.value,
-      paintName: inputPaintName.value,
-      paintCode: inputPaintCode.value,
-      paintHex: inputPaintHex.value,
-      size: selectedSize,
+      make: makeSel?.value || '',
+      model: modelSel?.value || '',
+      year: yearSel?.value || '',
+      paintName: inputPaintName?.value || '',
+      paintCode: inputPaintCode?.value || '',
+      paintHex: inputPaintHex?.value || '',
+      size: selectedSize || '',
+      notes: savedNotes || '',
+      notesDraft: notesTextarea?.value || '',
+      notesPaintFlag: savedPaintNotListed
     };
     try { sessionStorage.setItem(STATE_KEY, JSON.stringify(state)); } catch (_) {}
+    // Also ensure saved notes are available for the notes-only restoration path
+    try { sessionStorage.setItem(NOTES_KEY, JSON.stringify({ notes: savedNotes || (notesTextarea?.value || ''), notesPaintFlag: savedPaintNotListed })); } catch (_) {}
   }
 
-  async function restoreState() {
-    let state;
+  function restoreState() {
     try {
       const raw = sessionStorage.getItem(STATE_KEY);
       if (!raw) return;
-      state = JSON.parse(raw);
-      sessionStorage.removeItem(STATE_KEY);
-    } catch (_) { return; }
+      const state = JSON.parse(raw);
 
-    /* Restore make — also fetches make data and populates years */
-    if (state.make && makeSel.querySelector(`option[value="${CSS.escape(state.make)}"]`)) {
-      makeSel.value = state.make;
-      await onMakeChange();
-    } else { return; }
+      // Restore vehicle selects if options exist
+      if (state.make && makeSel.querySelector(`option[value="${CSSescape(state.make)}"]`)) {
+        makeSel.value = state.make; onMakeChange();
+      }
+      if (state.model && modelSel.querySelector(`option[value="${CSSescape(state.model)}"]`)) { modelSel.value = state.model; onModelChange(); }
+      if (state.year && yearSel.querySelector(`option[value="${CSSescape(state.year)}"]`)) { yearSel.value = state.year; onYearChange(); }
 
-    /* Restore year and load paints */
-    if (state.year && yearSel.querySelector(`option[value="${CSS.escape(state.year)}"]`)) {
-      yearSel.value = state.year;
-      onYearChange();
-    } else { return; }
+      // Restore paint if present
+      if (state.paintHex) {
+        inputPaintName.value = state.paintName || '';
+        inputPaintCode.value = state.paintCode || '';
+        inputPaintHex.value = state.paintHex;
+        const match = paintGrid.querySelector(`[data-hex="${state.paintHex}"]`);
+        if (match) selectSwatch(match); else onManualPaintInput();
+      }
 
-    /* Restore paint inputs */
-    if (state.paintHex) {
-      inputPaintName.value = state.paintName || '';
-      inputPaintCode.value = state.paintCode || '';
-      inputPaintHex.value = state.paintHex;
-      /* Highlight matching swatch if present */
-      const match = paintGrid.querySelector(`[data-hex="${state.paintHex}"]`);
-      if (match) { selectSwatch(match); } else { onManualPaintInput(); }
-    }
+      // Restore size
+      if (state.size) {
+        const sizeBtn = sizeGrid.querySelector(`[data-size-value="${CSSescape(state.size)}"]`);
+        if (sizeBtn) sizeBtn.click();
+      }
 
-    /* Restore ring size */
-    if (state.size) {
-      const sizeBtn = sizeGrid.querySelector(`[data-size-value="${CSS.escape(state.size)}"]`);
-      if (sizeBtn) sizeBtn.click();
-    }
+      // Restore saved notes (persisted) or restore a draft into the editor
+      if (state.notes) {
+        savedNotes = state.notes;
+        savedPaintNotListed = !!state.notesPaintFlag;
+        try { sessionStorage.setItem(NOTES_KEY, JSON.stringify({ notes: savedNotes, notesPaintFlag: savedPaintNotListed })); } catch (_) {}
+        showSavedNotePreview();
+      } else if (state.notesDraft) {
+        // If there's a draft but no saved note, open the editor with the draft
+        if (notesForm && notesTextarea) {
+          notesForm.style.display = '';
+          notesTextarea.value = state.notesDraft;
+        }
+      }
+
+      // Clean up stored state after restore
+      try { sessionStorage.removeItem(STATE_KEY); } catch (_) {}
+    } catch (e) { /* ignore */ }
   }
 
-  /* Save state when navigating via Metal / Karat option buttons */
-  root.addEventListener('click', (e) => {
-    if (e.target.closest('.vf-option-btn')) saveState();
-  });
+  /* ===== NOTES UX ===== */
+  function buildNotesPrefill() {
+    const parts = [
+      `Make: ${makeSel.value || ''}`,
+      `Model: ${modelSel.value || ''}`,
+      `Year: ${yearSel.value || ''}`,
+      `Paint Color Name + Code: ${inputPaintName?.value || ''} ${inputPaintCode?.value || ''}`,
+      `Other Details:`
+    ];
+    return parts.join('\n');
+  }
 
-  /* ===== INIT ===== */
+  function openNotesEditor(prefill) {
+    if (!notesForm || !notesTextarea || !notesPreview) return;
+    notesForm.style.display = '';
+    notesPreview.style.display = 'none';
+    // prefill === false -> intentionally open blank editor
+    if (prefill === false) {
+      notesTextarea.value = '';
+    } else {
+      notesTextarea.value = prefill || savedNotes || buildNotesPrefill();
+    }
+    notesTextarea.focus();
+    placeCaretAfterLabel(notesTextarea, 'Make:');
+  }
+
+  function showSavedNotePreview() {
+    if (!notesPreview || !notesPreviewText) return;
+    notesPreviewText.textContent = savedNotes || '';
+    notesPreview.style.display = savedNotes ? '' : 'none';
+    if (savedNotes) {
+      if (document.querySelector('.vf__vehicle-grid')) hideVehicleGrid();
+    } else {
+      showVehicleGrid();
+    }
+    updateHiddenProps();
+    updateReadiness();
+  }
+
+  function saveNotesFromEditor() {
+    if (!notesTextarea) return;
+    const raw = notesTextarea.value.trim();
+    if (!raw) return;
+    savedNotes = raw;
+    // Treat saved note as replacing vehicle/paint for cart purposes
+    savedPaintNotListed = true;
+    try { sessionStorage.setItem(NOTES_KEY, JSON.stringify({ notes: savedNotes, notesPaintFlag: savedPaintNotListed })); } catch (_) {}
+    if (notesForm) notesForm.style.display = 'none';
+    showSavedNotePreview();
+  }
+
+  function editSavedNote() { openNotesEditor(savedNotes); }
+
+  function deleteSavedNote() {
+    if (!confirm('Delete saved note?')) return;
+    savedNotes = '';
+    savedPaintNotListed = false;
+    try { sessionStorage.removeItem(NOTES_KEY); } catch (_) {}
+    showSavedNotePreview();
+  }
+
+  function placeCaretAfterLabel(el, label) {
+    try {
+      const idx = el.value.indexOf(label);
+      const pos = idx >= 0 ? idx + label.length + 1 : 0;
+      el.setSelectionRange(pos, pos);
+    } catch (e) {}
+  }
+
+  function hideVehicleGrid() { const g = document.querySelector('.vf__vehicle-grid'); if (g) g.style.display = 'none'; }
+  function showVehicleGrid() { const g = document.querySelector('.vf__vehicle-grid'); if (g) g.style.display = ''; }
+
+  /* ===== NOTES EVENT WIRING ===== */
+  if (notesOpenBtn) notesOpenBtn.addEventListener('click', () => openNotesEditor());
+  if (notesSaveBtn) notesSaveBtn.addEventListener('click', () => { saveNotesFromEditor(); updateHiddenProps(); updateReadiness(); });
+  if (notesCancelBtn) notesCancelBtn.addEventListener('click', () => { if (notesForm) notesForm.style.display = 'none'; if (savedNotes) showSavedNotePreview(); });
+  if (notesEditBtn) notesEditBtn.addEventListener('click', () => editSavedNote());
+  if (notesDeleteBtn) notesDeleteBtn.addEventListener('click', () => { deleteSavedNote(); updateHiddenProps(); updateReadiness(); });
+
+  /* ===== INIT & RESTORE ===== */
   if (makeSel) makeSel.addEventListener('change', onMakeChange);
   if (yearSel) yearSel.addEventListener('change', onYearChange);
+  root.addEventListener('change', (e) => {
+    const t = e.target;
+    if (t.matches('[data-select="make"]')) onMakeChange();
+    else if (t.matches('[data-select="model"]')) onModelChange();
+    else if (t.matches('[data-select="year"]')) onYearChange();
+  });
+
+  // Preserve state when switching metal / karat (these are anchor links that navigate away)
+  try {
+    const optionLinks = root.querySelectorAll('.vf__option-buttons .vf-option-btn');
+    optionLinks.forEach(link => {
+      link.addEventListener('click', () => {
+        saveState();
+      });
+    });
+  } catch (e) { /* ignore */ }
+
+  // Fallback: save state on unload
+  try { window.addEventListener('beforeunload', saveState); } catch (e) {}
 
   applyRingMask();
-  loadPaintIndex().then(restoreState);
+  loadVehicleData().then(() => {
+    // restore notes if present
+    try {
+      const raw = sessionStorage.getItem(NOTES_KEY);
+      if (raw) {
+        const obj = JSON.parse(raw);
+        savedNotes = obj.notes || '';
+        savedPaintNotListed = !!obj.notesPaintFlag;
+      }
+    } catch (_) {}
+    restoreState();
+    showSavedNotePreview();
+  });
+
+  /* ===== UTILITIES ===== */
+  function escapeHtml(s) { return String(s).replace(/[&"'<>]/g, (c) => ({'&':'&amp;','"':'&quot;','\'':'&#39;','<':'&lt;','>':'&gt;'}[c])); }
+  function CSSescape(v) { try { return CSS.escape(v); } catch (_) { return v; } }
+  function CSSescapeSelector(v) { return v.replace(/"/g, '\\"'); }
+
 })();

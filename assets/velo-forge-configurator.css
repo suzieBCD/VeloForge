@@ -408,6 +408,49 @@
   }
 }
 
+/* ===== NOTES UI ===== */
+.vf-notes-form {
+  width: 100%;
+  margin-top: 0.75rem;
+}
+.vf-notes-form textarea {
+  width: 100%;
+  min-height: 6rem;
+  padding: 0.75rem 1rem;
+  border: 1px solid #d4d4d4;
+  border-radius: var(--vf-radius);
+  font-family: inherit;
+  font-size: 0.875rem;
+  color: #0a0a0a;
+  resize: vertical;
+}
+.vf-notes-preview {
+  margin-top: 0.5rem;
+  font-family: inherit;
+  font-size: 0.875rem;
+  color: #0a0a0a;
+}
+.vf-notes-preview__text {
+  white-space: pre-wrap;
+  margin: 0 0 0.5rem 0;
+  font-family: inherit;
+  font-size: 0.875rem;
+}
+.vf-notes-form__actions,
+.vf-notes-preview__actions {
+  display: flex;
+  gap: 0.5rem;
+  margin-top: 0.5rem;
+}
+
+/* Make manual paint inputs visibly non-editable and prevent typing/clicking */
+.vf input[data-input][readonly] {
+  background: #fafafa;
+  cursor: default;
+  color: #525252;
+  pointer-events: none;
+}
+
 /* Paint unavailable state */
 .vf__paint-empty {
   border: 1px dashed #d4d4d4;

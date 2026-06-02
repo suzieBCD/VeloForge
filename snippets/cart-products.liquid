@@ -149,14 +149,28 @@
                         assign ratio = item.image.aspect_ratio
                       endif
                     %}
+                    {%- comment -%} Choose inlay mask per product metal family {%- endcomment -%}
+                    {%- if item.product.handle contains 'white-gold' -%}
+                      {%- assign ring_inlay = 'VeloForge_Gold_ChannelRing_Channel.png' | asset_url -%}
+                    {%- else -%}
+                      {%- assign ring_inlay = 'VeloForge_Gold_ChannelRing_Inlay.png' | asset_url -%}
+                    {%- endif -%}
+
                     <a
                       href="{{ item.url }}"
                       class="cart-items__media-container"
-                      style="--ratio:{{ ratio }};"
+                      style="--ratio:{{ ratio }}; position:relative; overflow:hidden; border-radius: {{ settings.cart_thumbnail_border_radius }}px;"
                     >
                       {%- liquid
                         echo item.image | image_url: width: 250 | image_tag: class: 'cart-items__media-image border-style', style: border_override
                       -%}
+                      {%- assign hex = item.properties['Hex'] | default: '' -%}
+                      {%- if hex != blank and hex != '' -%}
+                        {%- unless hex contains '#' -%}
+                          {%- assign hex = '#' | append: hex -%}
+                        {%- endunless -%}
+                        <span aria-hidden="true" class="cart-items__preview-overlay" style="position:absolute;inset:0;pointer-events:none;background:{{ hex }}; -webkit-mask-image: url('{{ ring_inlay }}'); mask-image: url('{{ ring_inlay }}'); -webkit-mask-size: cover; mask-size: cover; -webkit-mask-position: center; mask-position: center; -webkit-mask-repeat: no-repeat; mask-repeat: no-repeat; opacity:1; mix-blend-mode:multiply; border-radius:inherit;"></span>
+                      {%- endif -%}
                     </a>
                   {%- endif %}
                 </td>

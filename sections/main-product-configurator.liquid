@@ -93,8 +93,8 @@
           <div class="vf__option-group">
             <p class="vf-editorial-label">Metal</p>
             <div class="vf__option-buttons">
-              <a href="/products/custom-motorsport-ring-veloforge-signature-series-14k-yellow-gold-6mm" class="vf-option-btn {% if metal_family == 'yellow-gold' %}vf-option-btn--active{% endif %}">Yellow Gold</a>
-              <a href="/products/custom-motorsport-ring-veloforge-signature-series-14k-white-gold-6mm" class="vf-option-btn {% if metal_family == 'white-gold' %}vf-option-btn--active{% endif %}">White Gold</a>
+              <a href="/products/custom-motorsport-ring-veloforge-signature-series-{{ karat | downcase }}-yellow-gold-6mm" class="vf-option-btn {% if metal_family == 'yellow-gold' %}vf-option-btn--active{% endif %}">Yellow Gold</a>
+              <a href="/products/custom-motorsport-ring-veloforge-signature-series-{{ karat | downcase }}-white-gold-6mm" class="vf-option-btn {% if metal_family == 'white-gold' %}vf-option-btn--active{% endif %}">White Gold</a>
             </div>
           </div>
           <div class="vf__option-group">
@@ -130,9 +130,7 @@
       {%- comment -%} ===== FORM ===== {%- endcomment -%}
       <form method="post" action="/cart/add" data-configurator-form class="vf__form">
         <input type="hidden" name="id" value="" data-variant-id>
-        <input type="hidden" name="properties[Make]" value="" data-prop="Make">
-        <input type="hidden" name="properties[Model]" value="" data-prop="Model">
-        <input type="hidden" name="properties[Year]" value="" data-prop="Year">
+        <input type="hidden" name="properties[Vehicle]" value="" data-prop="Vehicle">
         <input type="hidden" name="properties[Paint Name]" value="" data-prop="Paint Name">
         <input type="hidden" name="properties[Paint Code]" value="" data-prop="Paint Code">
         <input type="hidden" name="properties[Hex]" value="" data-prop="Hex">
@@ -143,9 +141,19 @@
           <div class="vf-card__header">
             <div>
               <p class="vf-editorial-label">Vehicle info</p>
-              <p class="vf__helper">Select your make, year, and paint to preview your ring finish.</p>
+              <p class="vf__helper">Select your make, model, year, and paint to preview your ring finish.</p>
+
+              <div class="vf-notes-preview" data-notes-preview style="display:none">
+                <pre class="vf-notes-preview__text" data-notes-preview-text></pre>
+                <div class="vf-notes-preview__actions">
+                  <button type="button" class="vf-neutral-btn" data-notes-edit>Edit</button>
+                  <button type="button" class="vf-neutral-btn vf-neutral-btn--danger" data-notes-delete>Delete</button>
+                </div>
+              </div>
             </div>
-            <a href="mailto:support@shopveloforge.com" class="vf__help-link">Can't find your paint code?</a>
+            <div>
+              <button type="button" class="vf-neutral-btn" data-notes-open>don't see your paint color listed?</button>
+            </div>
           </div>
           <div class="vf__vehicle-grid">
             <div class="vf-field">
@@ -155,6 +163,14 @@
             <div class="vf-field">
               <label class="vf-editorial-label">Car year</label>
               <select data-select="year"><option value="">Select year</option></select>
+            </div>
+          </div>
+
+          <div class="vf-notes-form" data-notes-form style="display:none">
+            <textarea data-notes-textarea rows="6" placeholder="Make:\nModel:\nYear:\nPaint Color Name + Code:\nOther details..."></textarea>
+            <div class="vf-notes-form__actions">
+              <button type="button" class="vf-neutral-btn" data-notes-save>Save</button>
+              <button type="button" class="vf-neutral-btn" data-notes-cancel>Cancel</button>
             </div>
           </div>
         </div>
@@ -172,15 +188,15 @@
           <div class="vf__manual-paint-grid">
             <div class="vf-field">
               <label class="vf-editorial-label">Paint name</label>
-              <input type="text" data-input="paint-name" placeholder="Rosso Corsa">
+              <input type="text" data-input="paint-name" placeholder="Rosso Corsa" readonly tabindex="-1" aria-readonly="true">
             </div>
             <div class="vf-field">
               <label class="vf-editorial-label">Paint code</label>
-              <input type="text" data-input="paint-code" placeholder="322">
+              <input type="text" data-input="paint-code" placeholder="322" readonly tabindex="-1" aria-readonly="true">
             </div>
             <div class="vf-field">
               <label class="vf-editorial-label">Hex</label>
-              <input type="text" data-input="paint-hex" placeholder="#C40018" style="text-transform:uppercase">
+              <input type="text" data-input="paint-hex" placeholder="#C40018" style="text-transform:uppercase" readonly tabindex="-1" aria-readonly="true">
             </div>
           </div>
           <div class="vf__paint-empty" data-paint-unavailable style="display:none">
