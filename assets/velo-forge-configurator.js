@@ -414,21 +414,20 @@
 
   /* ===== STATE PERSISTENCE ===== */
   function saveState() {
-    const draftValues = getNotesFormValues();
     const state = {
       make: makeSel?.value || '',
       year: yearSel?.value || '',
       paintName: inputPaintName?.value || '',
       paintCode: inputPaintCode?.value || '',
       paintHex: inputPaintHex?.value || '',
-      size: selectedSize || '',
-      notes: savedNotes || '',
-      notesDraft: draftValues,
-      notesData: savedNotesData || null
+      size: selectedSize || ''
     };
     try { sessionStorage.setItem(STATE_KEY, JSON.stringify(state)); } catch (_) {}
-    // Also ensure saved notes are available for the notes-only restoration path
-    try { sessionStorage.setItem(NOTES_KEY, JSON.stringify({ notes: savedNotes || buildNotesPreviewText(savedNotesData || draftValues || {}), notesData: savedNotesData || draftValues || null })); } catch (_) {}
+    if (savedNotes) {
+      try { sessionStorage.setItem(NOTES_KEY, JSON.stringify({ saved: true, notes: savedNotes, notesData: savedNotesData || null })); } catch (_) {}
+    } else {
+      try { sessionStorage.removeItem(NOTES_KEY); } catch (_) {}
+    }
   }
 
   async function restoreState() {
@@ -462,17 +461,11 @@
         if (sizeBtn) sizeBtn.click();
       }
 
-      // Restore saved notes (persisted) or restore a draft into the editor
-      if (state.notes) {
-        savedNotes = state.notes;
-        savedNotesData = state.notesData || parseNotesText(savedNotes);
-        try { sessionStorage.setItem(NOTES_KEY, JSON.stringify({ notes: savedNotes, notesData: savedNotesData })); } catch (_) {}
-        showSavedNotePreview();
-      } else if (state.notesDraft) {
-        // If there's a draft but no saved note, open the editor with the draft
-        if (notesForm) {
-          openNotesEditor(state.notesDraft);
-        }
+      // Notes are restored only from NOTES_KEY, not from the general state blob.
+      resetNotesForm();
+      if (!savedNotes) {
+        savedNotesData = null;
+        if (notesForm) notesForm.style.display = 'none';
       }
 
       // Clean up stored state after restore
@@ -519,14 +512,25 @@
     (notesMakeInput || notesYearInput || notesPaintNameInput || notesPaintCodeInput || notesOtherDetailsInput)?.focus();
   }
 
+  function resetNotesForm() {
+    if (notesMakeInput) notesMakeInput.value = '';
+    if (notesYearInput) notesYearInput.value = '';
+    if (notesPaintNameInput) notesPaintNameInput.value = '';
+    if (notesPaintCodeInput) notesPaintCodeInput.value = '';
+    if (notesOtherDetailsInput) notesOtherDetailsInput.value = '';
+  }
+
   function showSavedNotePreview() {
     if (!notesPreview || !notesPreviewText) return;
-    notesPreviewText.textContent = savedNotes || buildNotesPreviewText(savedNotesData || parseNotesText(savedNotes));
-    notesPreview.style.display = savedNotes ? '' : 'none';
-    if (savedNotes) {
+    const hasSavedCustomInfo = !!savedNotes;
+    notesPreviewText.textContent = hasSavedCustomInfo ? savedNotes : '';
+    notesPreview.style.display = hasSavedCustomInfo ? '' : 'none';
+    if (hasSavedCustomInfo) {
       if (document.querySelector('.vf__vehicle-grid')) hideVehicleGrid();
     } else {
       showVehicleGrid();
+      resetNotesForm();
+      if (notesForm) notesForm.style.display = 'none';
     }
     updateHiddenProps();
     updateReadiness();
@@ -550,7 +554,7 @@
 
     savedNotes = parsed.raw;
     savedNotesData = parsed;
-    try { sessionStorage.setItem(NOTES_KEY, JSON.stringify({ notes: savedNotes, notesData: savedNotesData })); } catch (_) {}
+    try { sessionStorage.setItem(NOTES_KEY, JSON.stringify({ saved: true, notes: savedNotes, notesData: savedNotesData })); } catch (_) {}
     if (notesForm) notesForm.style.display = 'none';
     showSavedNotePreview();
   }
@@ -565,23 +569,13 @@
     showSavedNotePreview();
   }
 
-  function getNotesFormValues() {
-    return {
-      make: notesMakeInput?.value.trim() || '',
-      year: notesYearInput?.value.trim() || '',
-      paintName: notesPaintNameInput?.value.trim() || '',
-      paintCode: notesPaintCodeInput?.value.trim() || '',
-      otherDetails: notesOtherDetailsInput?.value.trim() || '',
-    };
-  }
-
   function hideVehicleGrid() { const g = document.querySelector('.vf__vehicle-grid'); if (g) g.style.display = 'none'; }
   function showVehicleGrid() { const g = document.querySelector('.vf__vehicle-grid'); if (g) g.style.display = ''; }
 
   /* ===== NOTES EVENT WIRING ===== */
   if (notesOpenBtn) notesOpenBtn.addEventListener('click', () => openNotesEditor());
   if (notesSaveBtn) notesSaveBtn.addEventListener('click', () => { saveNotesFromEditor(); updateHiddenProps(); updateReadiness(); });
-  if (notesCancelBtn) notesCancelBtn.addEventListener('click', () => { if (notesForm) notesForm.style.display = 'none'; if (savedNotes) showSavedNotePreview(); else showVehicleGrid(); });
+  if (notesCancelBtn) notesCancelBtn.addEventListener('click', () => { if (notesForm) notesForm.style.display = 'none'; showSavedNotePreview(); });
   if (notesEditBtn) notesEditBtn.addEventListener('click', () => editSavedNote());
   if (notesDeleteBtn) notesDeleteBtn.addEventListener('click', () => { deleteSavedNote(); updateHiddenProps(); updateReadiness(); });
 
@@ -609,8 +603,18 @@
       const raw = sessionStorage.getItem(NOTES_KEY);
       if (raw) {
         const obj = JSON.parse(raw);
-        savedNotes = obj.notes || '';
-        savedNotesData = obj.notesData || (savedNotes ? parseNotesText(savedNotes) : null);
+        if (obj.saved) {
+          savedNotes = obj.notes || '';
+          savedNotesData = obj.notesData || (savedNotes ? parseNotesText(savedNotes) : null);
+        } else {
+          savedNotes = '';
+          savedNotesData = null;
+          resetNotesForm();
+        }
+      } else {
+        savedNotes = '';
+        savedNotesData = null;
+        resetNotesForm();
       }
     } catch (_) {}
     await restoreState();
