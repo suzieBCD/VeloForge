@@ -76,8 +76,12 @@
   }
 
   function getPaintDataUrl(make) {
-    const template = root.dataset.paintDataUrlTemplate || '/assets/paint-data-__MAKE_SLUG__.json';
-    return template.replace('__MAKE_SLUG__', makeSlug(make));
+    const indexUrl = root.dataset.paintIndexUrl || '';
+    const slug = makeSlug(make);
+    if (indexUrl) {
+      return indexUrl.replace(/paint-index\.json(\?.*)?$/, `paint-data-${slug}.json`);
+    }
+    return `/assets/paint-data-${slug}.json`;
   }
 
   async function loadMakeData(make) {
