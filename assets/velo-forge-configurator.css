@@ -342,7 +342,7 @@
 
 @media (min-width: 640px) {
   .vf__vehicle-grid {
-    grid-template-columns: 0.9fr 1.2fr 0.8fr;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 }
 
@@ -520,7 +520,7 @@
   font-weight: 700;
   letter-spacing: 0.18em;
   text-transform: uppercase;
-  color: #0a0a0a;
+  color: #737373;
   line-height: 1.2;
   white-space: normal;
   text-align: left;
