@@ -22,6 +22,7 @@
 
 <section class="vf" data-vf-configurator
   data-paint-index-url="{{ 'paint-index.json' | asset_url }}"
+  data-paint-data-url-template="/assets/paint-data-__MAKE_SLUG__.json"
   data-ring-base="{{ ring_base }}"
   data-ring-band="{{ ring_band }}"
   data-ring-inlay="{{ ring_inlay }}">
@@ -141,7 +142,6 @@
           <div class="vf-card__header">
             <div>
               <p class="vf-editorial-label">Vehicle info</p>
-              <p class="vf__helper">Select your make, model, year, and paint to preview your ring finish.</p>
 
               <div class="vf-notes-preview" data-notes-preview style="display:none">
                 <pre class="vf-notes-preview__text" data-notes-preview-text></pre>
@@ -155,6 +155,9 @@
               <button type="button" class="vf-neutral-btn" data-notes-open>don't see your paint color listed?</button>
             </div>
           </div>
+          <div class="vf-card__helper-row">
+            <p class="vf__helper">Select your make, year, and paint to preview your ring finish.</p>
+          </div>
           <div class="vf__vehicle-grid">
             <div class="vf-field">
               <label class="vf-editorial-label">Car make</label>
@@ -167,7 +170,7 @@
           </div>
 
           <div class="vf-notes-form" data-notes-form style="display:none">
-            <textarea data-notes-textarea rows="6" placeholder="Make:\nModel:\nYear:\nPaint Color Name + Code:\nOther details..."></textarea>
+            <textarea data-notes-textarea rows="6" placeholder="Make:\nYear:\nPaint Color Name + Code:\nOther details..."></textarea>
             <div class="vf-notes-form__actions">
               <button type="button" class="vf-neutral-btn" data-notes-save>Save</button>
               <button type="button" class="vf-neutral-btn" data-notes-cancel>Cancel</button>
