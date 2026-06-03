@@ -256,6 +256,10 @@
                             <div class="cart-items__variant">
                               <dt class="visually-hidden">{{ option.name }}:</dt>
                               <dd>
+                                {%- assign option_name_downcase = option.name | downcase -%}
+                                {%- if request.page_type == 'cart' and option_name_downcase contains 'size' -%}
+                                  Size:&nbsp;
+                                {%- endif -%}
                                 {{- option.value -}}
                                 {%- if forloop.last != true %},&nbsp;{% endif -%}
                               </dd>
