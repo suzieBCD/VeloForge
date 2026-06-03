@@ -485,6 +485,40 @@
     if (!notesTextarea) return;
     const raw = notesTextarea.value.trim();
     if (!raw) return;
+    
+    // Validate required fields - extract content after each label
+    const lines = raw.split('\n');
+    let makeValue = '';
+    let yearValue = '';
+    let paintValue = '';
+    let hasOtherDetails = false;
+    let otherDetailsContent = '';
+    
+    for (let i = 0; i < lines.length; i++) {
+      const line = lines[i];
+      if (line.startsWith('Make:')) {
+        makeValue = line.substring(5).trim();
+      } else if (line.startsWith('Year:')) {
+        yearValue = line.substring(5).trim();
+      } else if (line.startsWith('Paint Color Name + Code:')) {
+        paintValue = line.substring(24).trim();
+      } else if (line.startsWith('Other Details:')) {
+        hasOtherDetails = true;
+        // Check if there's content after "Other Details:" on same line or on following lines
+        otherDetailsContent = line.substring(14).trim();
+        for (let j = i + 1; j < lines.length; j++) {
+          if (lines[j].trim()) {
+            otherDetailsContent += ' ' + lines[j].trim();
+          }
+        }
+      }
+    }
+    
+    if (!makeValue) { alert('Please fill in Make:'); return; }
+    if (!yearValue) { alert('Please fill in Year:'); return; }
+    if (!paintValue) { alert('Please fill in Paint Color Name + Code:'); return; }
+    if (!hasOtherDetails || !otherDetailsContent) { alert('Please fill in Other Details:'); return; }
+    
     savedNotes = raw;
     // Treat saved note as replacing vehicle/paint for cart purposes
     savedPaintNotListed = true;

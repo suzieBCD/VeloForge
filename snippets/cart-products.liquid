@@ -165,7 +165,7 @@
                         echo item.image | image_url: width: 250 | image_tag: class: 'cart-items__media-image border-style', style: border_override
                       -%}
                       {%- assign hex = item.properties['Hex'] | default: '' -%}
-                      {%- if hex != blank and hex != '' -%}
+                      {%- if hex != blank and hex != '' and hex != '*See Notes' -%}
                         {%- unless hex contains '#' -%}
                           {%- assign hex = '#' | append: hex -%}
                         {%- endunless -%}
@@ -245,16 +245,30 @@
                           {%- for property in item.properties -%}
                             {%- assign property_first_char = property.first | slice: 0 -%}
                             {%- if property.last != blank and property_first_char != '_' -%}
-                              <div class="cart-items__property">
-                                <dt>{{ property.first }}:</dt>
-                                <dd>
-                                  {%- if property.last contains '/uploads/' -%}
-                                    <a href="{{ property.last }}">{{ property.last | split: '/' | last }}</a>
-                                  {%- else -%}
-                                    {{ property.last }}
-                                  {%- endif -%}
-                                </dd>
-                              </div>
+                              {%- comment -%} Hide Paint Name, Paint Code, Hex when showing notes {%- endcomment -%}
+                              {%- if property.last == '*See Notes' and property.first != 'Notes' -%}
+                                {%- continue -%}
+                              {%- endif -%}
+                              {%- comment -%} Show Notes as multi-line when Notes property exists {%- endcomment -%}
+                              {%- if property.first == 'Notes' and property.last != blank -%}
+                                <div class="cart-items__property">
+                                  <dt>{{ property.first }}:</dt>
+                                  <dd>
+                                    <pre style="white-space: pre-wrap; word-wrap: break-word; margin: 0; font-family: inherit;">{{ property.last }}</pre>
+                                  </dd>
+                                </div>
+                              {%- elsif property.first != 'Notes' -%}
+                                <div class="cart-items__property">
+                                  <dt>{{ property.first }}:</dt>
+                                  <dd>
+                                    {%- if property.last contains '/uploads/' -%}
+                                      <a href="{{ property.last }}">{{ property.last | split: '/' | last }}</a>
+                                    {%- else -%}
+                                      {{ property.last }}
+                                    {%- endif -%}
+                                  </dd>
+                                </div>
+                              {%- endif -%}
                             {%- endif -%}
                           {%- endfor -%}
                         </dl>
