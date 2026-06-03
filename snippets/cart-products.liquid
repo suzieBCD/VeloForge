@@ -134,7 +134,34 @@
                   role="cell"
                   headers="productImage"
                 >
-                  {% if item.image -%}
+                  {% liquid
+                    assign is_ring_product = false
+                    if item.product.handle contains 'custom-motorsport-ring'
+                      assign is_ring_product = true
+                    endif
+
+                    assign uses_notes_preview = false
+
+                    if item.properties['Paint Name'] == '*See Notes' or item.properties['Hex'] == '*See Notes' or item.properties['Vehicle'] == '*See Notes'
+                      assign uses_notes_preview = true
+                    endif
+
+                    if item.product.handle contains 'white-gold'
+                      assign ring_base = 'VeloForge_WhiteGold_ChannelRing.png' | asset_url
+                      assign ring_band = 'VeloForge_WhiteGold_ChannelRing_band.png' | asset_url
+                    else
+                      assign ring_base = 'VeloForge_YellowGold_ChannelRing.png' | asset_url
+                      assign ring_band = 'VeloForge_YellowGold_ChannelRing_band.png' | asset_url
+                    endif
+
+                    assign render_neutral_preview = false
+                    if is_ring_product
+                      if uses_notes_preview or item.image == blank
+                        assign render_neutral_preview = true
+                      endif
+                    endif
+                  %}
+                  {% if item.image or render_neutral_preview -%}
                     {% liquid
                       assign ratio = 1
                       assign border_opacity = settings.cart_thumbnail_border_opacity | divided_by: 100.0
@@ -143,7 +170,9 @@
                       if settings.cart_thumbnail_border_radius > 0
                         assign border_override = border_override | append: ' overflow: hidden;'
                       endif
-                      if block_settings.image_ratio == 'portrait'
+                      if render_neutral_preview
+                        assign ratio = 1
+                      elsif block_settings.image_ratio == 'portrait'
                         assign ratio = 0.8
                       elsif block_settings.image_ratio == 'adapt'
                         assign ratio = item.image.aspect_ratio
@@ -161,16 +190,21 @@
                       class="cart-items__media-container"
                       style="--ratio:{{ ratio }}; position:relative; overflow:hidden; border-radius: {{ settings.cart_thumbnail_border_radius }}px;"
                     >
-                      {%- liquid
-                        echo item.image | image_url: width: 250 | image_tag: class: 'cart-items__media-image border-style', style: border_override
-                      -%}
-                      {%- assign hex = item.properties['Hex'] | default: '' -%}
-                      {%- if hex != blank and hex != '' and hex != '*See Notes' -%}
-                        {%- unless hex contains '#' -%}
-                          {%- assign hex = '#' | append: hex -%}
-                        {%- endunless -%}
-                        <span aria-hidden="true" class="cart-items__preview-overlay" style="position:absolute;inset:0;pointer-events:none;background:{{ hex }}; -webkit-mask-image: url('{{ ring_inlay }}'); mask-image: url('{{ ring_inlay }}'); -webkit-mask-size: cover; mask-size: cover; -webkit-mask-position: center; mask-position: center; -webkit-mask-repeat: no-repeat; mask-repeat: no-repeat; opacity:1; mix-blend-mode:multiply; border-radius:inherit;"></span>
-                      {%- endif -%}
+                      {% if render_neutral_preview %}
+                        <img src="{{ ring_base }}" alt="{{ item.product.title }}" class="cart-items__media-image border-style" style="{{ border_override }}">
+                        <img src="{{ ring_band }}" alt="" class="cart-items__media-image border-style" style="{{ border_override }}; position:absolute; inset:0;">
+                      {% else %}
+                        {%- liquid
+                          echo item.image | image_url: width: 250 | image_tag: class: 'cart-items__media-image border-style', style: border_override
+                        -%}
+                        {%- assign hex = item.properties['Hex'] | default: '' -%}
+                        {%- if hex != blank and hex != '' and hex != '*See Notes' -%}
+                          {%- unless hex contains '#' -%}
+                            {%- assign hex = '#' | append: hex -%}
+                          {%- endunless -%}
+                          <span aria-hidden="true" class="cart-items__preview-overlay" style="position:absolute;inset:0;pointer-events:none;background:{{ hex }}; -webkit-mask-image: url('{{ ring_inlay }}'); mask-image: url('{{ ring_inlay }}'); -webkit-mask-size: cover; mask-size: cover; -webkit-mask-position: center; mask-position: center; -webkit-mask-repeat: no-repeat; mask-repeat: no-repeat; opacity:1; mix-blend-mode:multiply; border-radius:inherit;"></span>
+                        {%- endif -%}
+                      {% endif %}
                     </a>
                   {%- endif %}
                 </td>
@@ -291,35 +325,37 @@
                     {%- endif -%}
                   </div>
 
-                  <div class="cart-items__unit-price-wrapper">
-                    <div>
-                      {% if item.original_price != item.final_price %}
-                        <span class="visually-hidden">{{ 'content.price_sale' | t }}</span>
-                        <span>{{ item.final_price | money }}</span>
-                        <span class="visually-hidden">{{ 'content.price_regular' | t }}</span>
-                        <s class="compare-at-price">
-                          {% if item.variant.compare_at_price > item.original_price %}
-                            {{ item.variant.compare_at_price | money }}
-                          {% else %}
-                            {{ item.original_price | money }}
-                          {% endif %}
-                        </s>
-                      {% else %}
-                        {% if item.variant.compare_at_price > item.original_price %}
+                  {%- unless request.page_type == 'cart' and item.properties['Notes'] != blank -%}
+                    <div class="cart-items__unit-price-wrapper">
+                      <div>
+                        {% if item.original_price != item.final_price %}
                           <span class="visually-hidden">{{ 'content.price_sale' | t }}</span>
-                        {% else %}
-                          <span class="visually-hidden">{{ 'content.price' | t }}</span>
-                        {% endif %}
-
-                        <span>{{ item.original_price | money }}</span>
-
-                        {% if item.variant.compare_at_price > item.original_price %}
+                          <span>{{ item.final_price | money }}</span>
                           <span class="visually-hidden">{{ 'content.price_regular' | t }}</span>
-                          <s class="compare-at-price">{{ item.variant.compare_at_price | money }}</s>
+                          <s class="compare-at-price">
+                            {% if item.variant.compare_at_price > item.original_price %}
+                              {{ item.variant.compare_at_price | money }}
+                            {% else %}
+                              {{ item.original_price | money }}
+                            {% endif %}
+                          </s>
+                        {% else %}
+                          {% if item.variant.compare_at_price > item.original_price %}
+                            <span class="visually-hidden">{{ 'content.price_sale' | t }}</span>
+                          {% else %}
+                            <span class="visually-hidden">{{ 'content.price' | t }}</span>
+                          {% endif %}
+
+                          <span>{{ item.original_price | money }}</span>
+
+                          {% if item.variant.compare_at_price > item.original_price %}
+                            <span class="visually-hidden">{{ 'content.price_regular' | t }}</span>
+                            <s class="compare-at-price">{{ item.variant.compare_at_price | money }}</s>
+                          {% endif %}
                         {% endif %}
-                      {% endif %}
+                      </div>
                     </div>
-                  </div>
+                  {%- endunless -%}
                 </td>
                 <td
                   class="cart-items__quantity"
