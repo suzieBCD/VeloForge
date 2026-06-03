@@ -445,6 +445,17 @@
 
   function openNotesEditor(prefill) {
     if (!notesForm || !notesTextarea || !notesPreview) return;
+    
+    // Reset vehicle and paint selections if opening a fresh editor (not editing existing note)
+    if (prefill === undefined) {
+      makeSel.value = '';
+      yearSel.innerHTML = '<option value="">Select Year</option>';
+      clearPaints();
+      hideVehicleGrid();
+      updateSummaryVehicle();
+      updateReadiness();
+    }
+    
     notesForm.style.display = '';
     notesPreview.style.display = 'none';
     // prefill === false -> intentionally open blank editor
@@ -506,7 +517,7 @@
   /* ===== NOTES EVENT WIRING ===== */
   if (notesOpenBtn) notesOpenBtn.addEventListener('click', () => openNotesEditor());
   if (notesSaveBtn) notesSaveBtn.addEventListener('click', () => { saveNotesFromEditor(); updateHiddenProps(); updateReadiness(); });
-  if (notesCancelBtn) notesCancelBtn.addEventListener('click', () => { if (notesForm) notesForm.style.display = 'none'; if (savedNotes) showSavedNotePreview(); });
+  if (notesCancelBtn) notesCancelBtn.addEventListener('click', () => { if (notesForm) notesForm.style.display = 'none'; if (savedNotes) showSavedNotePreview(); else showVehicleGrid(); });
   if (notesEditBtn) notesEditBtn.addEventListener('click', () => editSavedNote());
   if (notesDeleteBtn) notesDeleteBtn.addEventListener('click', () => { deleteSavedNote(); updateHiddenProps(); updateReadiness(); });
 
