@@ -22,8 +22,10 @@
   const propPaintName = root.querySelector('[data-prop="Paint Name"]');
   const propPaintCode = root.querySelector('[data-prop="Paint Code"]');
   const propHex = root.querySelector('[data-prop="Hex"]');
+  const propOtherDetails = root.querySelector('[data-prop="Other Details"]');
   const propVehicle = root.querySelector('[data-prop="Vehicle"]');
   const propNotes = root.querySelector('[data-prop="Notes"]');
+  const propNotesFallback = root.querySelector('[data-prop="Notes Fallback"]');
   const neutralBtn = root.querySelector('[data-neutral-preview]');
   const qtyInput = root.querySelector('[data-quantity-input]');
   const qtyValue = root.querySelector('[data-quantity-value]');
@@ -44,7 +46,11 @@
   /* Notes UI refs */
   const notesOpenBtn = root.querySelector('[data-notes-open]');
   const notesForm = root.querySelector('[data-notes-form]');
-  const notesTextarea = root.querySelector('[data-notes-textarea]');
+  const notesMakeInput = root.querySelector('[data-notes-make]');
+  const notesYearInput = root.querySelector('[data-notes-year]');
+  const notesPaintNameInput = root.querySelector('[data-notes-paint-name]');
+  const notesPaintCodeInput = root.querySelector('[data-notes-paint-code]');
+  const notesOtherDetailsInput = root.querySelector('[data-notes-other-details]');
   const notesSaveBtn = root.querySelector('[data-notes-save]');
   const notesCancelBtn = root.querySelector('[data-notes-cancel]');
   const notesPreview = root.querySelector('[data-notes-preview]');
@@ -59,8 +65,8 @@
   let selectedSize = null;
   let qty = 1;
 
+  let savedNotesData = null;
   let savedNotes = '';
-  let savedPaintNotListed = false; // whether the saved note was used in place of a curated paint
 
   const STATE_KEY = 'vf_configurator_state_v2';
   const NOTES_KEY = 'vf_configurator_notes_v2';
@@ -321,20 +327,62 @@
   }
 
   function updateHiddenProps() {
+    const setPropName = (input, name) => {
+      if (!input) return;
+      input.name = name;
+    };
+
+    const setPropValue = (input, value) => {
+      if (!input) return;
+      input.value = value;
+    };
+
+    const composePaintValue = () => {
+      const name = inputPaintName?.value.trim() || '';
+      const code = inputPaintCode?.value.trim() || '';
+
+      if (name && code) return `${name} (${code})`;
+      return name || code || '';
+    };
+
+    const getNotesSnapshot = () => {
+      if (savedNotesData) return savedNotesData;
+      return parseNotesText(savedNotes || '');
+    };
+
+    const notesSnapshot = getNotesSnapshot();
+    const notesRaw = notesSnapshot.raw || savedNotes || '';
+    const vehicleValue = [notesSnapshot.make, notesSnapshot.year].filter(Boolean).join(' ') || [makeSel.value, yearSel.value].filter(Boolean).join(' ');
+    const paintValue = notesSnapshot.paint || composePaintValue();
+
     if (propPaintName) {
-      if (savedPaintNotListed) propPaintName.value = '*See Notes';
-      else propPaintName.value = inputPaintName?.value || '';
+      setPropName(propPaintName, 'properties[Paint]');
+      setPropValue(propPaintName, paintValue);
     }
-    if (propPaintCode) propPaintCode.value = savedPaintNotListed ? '*See Notes' : (inputPaintCode?.value || '');
-    if (propHex) propHex.value = savedPaintNotListed ? '*See Notes' : (inputPaintHex?.value || '');
+    if (propPaintCode) {
+      setPropName(propPaintCode, 'properties[_Paint Code]');
+      setPropValue(propPaintCode, '');
+    }
+    if (propHex) {
+      setPropName(propHex, 'properties[_Hex]');
+      setPropValue(propHex, '');
+    }
+    if (propOtherDetails) {
+      setPropName(propOtherDetails, 'properties[Other Details]');
+      setPropValue(propOtherDetails, notesSnapshot.otherDetails || '');
+    }
     if (propVehicle) {
-      if (savedNotes) propVehicle.value = '*See Notes';
-      else {
-        const parts = [makeSel.value, yearSel.value].filter(Boolean);
-        propVehicle.value = parts.length ? parts.join(' ') : '';
-      }
+      setPropName(propVehicle, 'properties[Vehicle]');
+      setPropValue(propVehicle, vehicleValue);
     }
-    if (propNotes) propNotes.value = savedNotes || '';
+    if (propNotes) {
+      setPropName(propNotes, notesSnapshot.make || notesSnapshot.year || notesSnapshot.paint || notesSnapshot.otherDetails ? 'properties[Notes]' : 'properties[_Notes]');
+      setPropValue(propNotes, notesSnapshot.make || notesSnapshot.year || notesSnapshot.paint || notesSnapshot.otherDetails ? 'Paint color not found - custom' : '');
+    }
+    if (propNotesFallback) {
+      setPropName(propNotesFallback, 'properties[_Notes]');
+      setPropValue(propNotesFallback, notesRaw);
+    }
   }
 
   function updateReadiness() {
@@ -366,6 +414,7 @@
 
   /* ===== STATE PERSISTENCE ===== */
   function saveState() {
+    const draftValues = getNotesFormValues();
     const state = {
       make: makeSel?.value || '',
       year: yearSel?.value || '',
@@ -374,12 +423,12 @@
       paintHex: inputPaintHex?.value || '',
       size: selectedSize || '',
       notes: savedNotes || '',
-      notesDraft: notesTextarea?.value || '',
-      notesPaintFlag: savedPaintNotListed
+      notesDraft: draftValues,
+      notesData: savedNotesData || null
     };
     try { sessionStorage.setItem(STATE_KEY, JSON.stringify(state)); } catch (_) {}
     // Also ensure saved notes are available for the notes-only restoration path
-    try { sessionStorage.setItem(NOTES_KEY, JSON.stringify({ notes: savedNotes || (notesTextarea?.value || ''), notesPaintFlag: savedPaintNotListed })); } catch (_) {}
+    try { sessionStorage.setItem(NOTES_KEY, JSON.stringify({ notes: savedNotes || buildNotesPreviewText(savedNotesData || draftValues || {}), notesData: savedNotesData || draftValues || null })); } catch (_) {}
   }
 
   async function restoreState() {
@@ -416,14 +465,13 @@
       // Restore saved notes (persisted) or restore a draft into the editor
       if (state.notes) {
         savedNotes = state.notes;
-        savedPaintNotListed = !!state.notesPaintFlag;
-        try { sessionStorage.setItem(NOTES_KEY, JSON.stringify({ notes: savedNotes, notesPaintFlag: savedPaintNotListed })); } catch (_) {}
+        savedNotesData = state.notesData || parseNotesText(savedNotes);
+        try { sessionStorage.setItem(NOTES_KEY, JSON.stringify({ notes: savedNotes, notesData: savedNotesData })); } catch (_) {}
         showSavedNotePreview();
       } else if (state.notesDraft) {
         // If there's a draft but no saved note, open the editor with the draft
-        if (notesForm && notesTextarea) {
-          notesForm.style.display = '';
-          notesTextarea.value = state.notesDraft;
+        if (notesForm) {
+          openNotesEditor(state.notesDraft);
         }
       }
 
@@ -434,17 +482,17 @@
 
   /* ===== NOTES UX ===== */
   function buildNotesPrefill() {
-    const parts = [
-      `Make: ${makeSel.value || ''}`,
-      `Year: ${yearSel.value || ''}`,
-      `Paint Color Name + Code: ${inputPaintName?.value || ''} ${inputPaintCode?.value || ''}`,
-      `Other Details:`
-    ];
-    return parts.join('\n');
+    return {
+      make: makeSel.value || '',
+      year: yearSel.value || '',
+      paintName: inputPaintName?.value || '',
+      paintCode: inputPaintCode?.value || '',
+      otherDetails: '',
+    };
   }
 
   function openNotesEditor(prefill) {
-    if (!notesForm || !notesTextarea || !notesPreview) return;
+    if (!notesForm || !notesPreview) return;
     
     // Reset vehicle and paint selections if opening a fresh editor (not editing existing note)
     if (prefill === undefined) {
@@ -458,19 +506,22 @@
     
     notesForm.style.display = '';
     notesPreview.style.display = 'none';
-    // prefill === false -> intentionally open blank editor
-    if (prefill === false) {
-      notesTextarea.value = '';
-    } else {
-      notesTextarea.value = prefill || savedNotes || buildNotesPrefill();
-    }
-    notesTextarea.focus();
-    placeCaretAfterLabel(notesTextarea, 'Make:');
+    const values = prefill === false
+      ? buildNotesPrefill()
+      : (prefill && typeof prefill === 'object' ? prefill : (savedNotesData || parseNotesText(savedNotes) || buildNotesPrefill()));
+
+    if (notesMakeInput) notesMakeInput.value = values.make || '';
+    if (notesYearInput) notesYearInput.value = values.year || '';
+    if (notesPaintNameInput) notesPaintNameInput.value = values.paintName || '';
+    if (notesPaintCodeInput) notesPaintCodeInput.value = values.paintCode || '';
+    if (notesOtherDetailsInput) notesOtherDetailsInput.value = values.otherDetails || '';
+
+    (notesMakeInput || notesYearInput || notesPaintNameInput || notesPaintCodeInput || notesOtherDetailsInput)?.focus();
   }
 
   function showSavedNotePreview() {
     if (!notesPreview || !notesPreviewText) return;
-    notesPreviewText.textContent = savedNotes || '';
+    notesPreviewText.textContent = savedNotes || buildNotesPreviewText(savedNotesData || parseNotesText(savedNotes));
     notesPreview.style.display = savedNotes ? '' : 'none';
     if (savedNotes) {
       if (document.querySelector('.vf__vehicle-grid')) hideVehicleGrid();
@@ -482,67 +533,46 @@
   }
 
   function saveNotesFromEditor() {
-    if (!notesTextarea) return;
-    const raw = notesTextarea.value.trim();
-    if (!raw) return;
-    
-    // Validate required fields - extract content after each label
-    const lines = raw.split('\n');
-    let makeValue = '';
-    let yearValue = '';
-    let paintValue = '';
-    let hasOtherDetails = false;
-    let otherDetailsContent = '';
-    
-    for (let i = 0; i < lines.length; i++) {
-      const line = lines[i];
-      if (line.startsWith('Make:')) {
-        makeValue = line.substring(5).trim();
-      } else if (line.startsWith('Year:')) {
-        yearValue = line.substring(5).trim();
-      } else if (line.startsWith('Paint Color Name + Code:')) {
-        paintValue = line.substring(24).trim();
-      } else if (line.startsWith('Other Details:')) {
-        hasOtherDetails = true;
-        // Check if there's content after "Other Details:" on same line or on following lines
-        otherDetailsContent = line.substring(14).trim();
-        for (let j = i + 1; j < lines.length; j++) {
-          if (lines[j].trim()) {
-            otherDetailsContent += ' ' + lines[j].trim();
-          }
-        }
-      }
-    }
-    
-    if (!makeValue) { alert('Please fill in Make:'); return; }
-    if (!yearValue) { alert('Please fill in Year:'); return; }
-    if (!paintValue) { alert('Please fill in Paint Color Name + Code:'); return; }
-    if (!hasOtherDetails || !otherDetailsContent) { alert('Please fill in Other Details:'); return; }
-    
-    savedNotes = raw;
-    // Treat saved note as replacing vehicle/paint for cart purposes
-    savedPaintNotListed = true;
-    try { sessionStorage.setItem(NOTES_KEY, JSON.stringify({ notes: savedNotes, notesPaintFlag: savedPaintNotListed })); } catch (_) {}
+    const parsed = {
+      make: notesMakeInput?.value.trim() || '',
+      year: notesYearInput?.value.trim() || '',
+      paintName: notesPaintNameInput?.value.trim() || '',
+      paintCode: notesPaintCodeInput?.value.trim() || '',
+      otherDetails: notesOtherDetailsInput?.value.trim() || '',
+    };
+
+    if (parsed.make.length < 3) { alert('Make must be at least 3 characters.'); return; }
+    if (!/^\d{4}$/.test(parsed.year)) { alert('Year must be 4 digits.'); return; }
+    if (!parsed.paintName && !parsed.paintCode) { alert('Please fill in Paint Color Name or Paint Code:'); return; }
+
+    parsed.paint = [parsed.paintName, parsed.paintCode].filter(Boolean).join(' ');
+    parsed.raw = buildNotesPreviewText(parsed);
+
+    savedNotes = parsed.raw;
+    savedNotesData = parsed;
+    try { sessionStorage.setItem(NOTES_KEY, JSON.stringify({ notes: savedNotes, notesData: savedNotesData })); } catch (_) {}
     if (notesForm) notesForm.style.display = 'none';
     showSavedNotePreview();
   }
 
-  function editSavedNote() { openNotesEditor(savedNotes); }
+  function editSavedNote() { openNotesEditor(savedNotesData || parseNotesText(savedNotes)); }
 
   function deleteSavedNote() {
     if (!confirm('Delete saved note?')) return;
     savedNotes = '';
-    savedPaintNotListed = false;
+    savedNotesData = null;
     try { sessionStorage.removeItem(NOTES_KEY); } catch (_) {}
     showSavedNotePreview();
   }
 
-  function placeCaretAfterLabel(el, label) {
-    try {
-      const idx = el.value.indexOf(label);
-      const pos = idx >= 0 ? idx + label.length + 1 : 0;
-      el.setSelectionRange(pos, pos);
-    } catch (e) {}
+  function getNotesFormValues() {
+    return {
+      make: notesMakeInput?.value.trim() || '',
+      year: notesYearInput?.value.trim() || '',
+      paintName: notesPaintNameInput?.value.trim() || '',
+      paintCode: notesPaintCodeInput?.value.trim() || '',
+      otherDetails: notesOtherDetailsInput?.value.trim() || '',
+    };
   }
 
   function hideVehicleGrid() { const g = document.querySelector('.vf__vehicle-grid'); if (g) g.style.display = 'none'; }
@@ -580,7 +610,7 @@
       if (raw) {
         const obj = JSON.parse(raw);
         savedNotes = obj.notes || '';
-        savedPaintNotListed = !!obj.notesPaintFlag;
+        savedNotesData = obj.notesData || (savedNotes ? parseNotesText(savedNotes) : null);
       }
     } catch (_) {}
     await restoreState();
@@ -588,6 +618,70 @@
   });
 
   /* ===== UTILITIES ===== */
+  function buildNotesPreviewText(data) {
+    const make = data?.make || '';
+    const year = data?.year || '';
+    const paintLine = [data?.paintName || '', data?.paintCode || ''].filter(Boolean).join(' ');
+    const lines = [
+      `Make: ${make}`,
+      `Year: ${year}`,
+      `Paint Color Name + Code: ${paintLine}`,
+    ];
+
+    if (data?.otherDetails) {
+      lines.push(`Other Details: ${data.otherDetails}`);
+    }
+
+    return lines.join('\n');
+  }
+
+  function parseNotesText(raw) {
+    const lines = String(raw || '').split('\n').map((line) => line.trim());
+    const make = readLabelValue(lines, ['Make:']);
+    const year = readLabelValue(lines, ['Year:']);
+    const paintCombo = readLabelValue(lines, ['Paint Color Name + Code:', 'Paint:']);
+    const otherDetails = readMultilineLabelValue(lines, ['Other Details:']);
+    const paintName = paintCombo.replace(/\s+\([^)]*\)\s*$/, '').trim() || paintCombo;
+    const paintCodeMatch = paintCombo.match(/\(([^)]+)\)\s*$/);
+    const paintCode = paintCodeMatch ? paintCodeMatch[1].trim() : '';
+    const paint = [paintName, paintCode].filter(Boolean).join(' ').trim();
+
+    return {
+      raw: String(raw || '').trim(),
+      make,
+      year,
+      paintName,
+      paintCode,
+      paint,
+      otherDetails,
+    };
+  }
+
+  function readLabelValue(lines, labels) {
+    for (const line of lines) {
+      for (const label of labels) {
+        if (line.startsWith(label)) {
+          return line.slice(label.length).trim();
+        }
+      }
+    }
+    return '';
+  }
+
+  function readMultilineLabelValue(lines, labels) {
+    for (let index = 0; index < lines.length; index++) {
+      const line = lines[index];
+      for (const label of labels) {
+        if (line.startsWith(label)) {
+          const firstLine = line.slice(label.length).trim();
+          const remaining = lines.slice(index + 1).filter(Boolean).join('\n');
+          return [firstLine, remaining].filter(Boolean).join('\n').trim();
+        }
+      }
+    }
+    return '';
+  }
+
   function escapeHtml(s) { return String(s).replace(/[&"'<>]/g, (c) => ({'&':'&amp;','"':'&quot;','\'':'&#39;','<':'&lt;','>':'&gt;'}[c])); }
   function CSSescape(v) { try { return CSS.escape(v); } catch (_) { return v; } }
   function CSSescapeSelector(v) { return v.replace(/"/g, '\\"'); }

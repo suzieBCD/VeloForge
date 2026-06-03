@@ -142,9 +142,11 @@
 
                     assign uses_notes_preview = false
 
-                    if item.properties['Paint Name'] == '*See Notes' or item.properties['Hex'] == '*See Notes' or item.properties['Vehicle'] == '*See Notes'
+                    if item.properties['Notes'] != blank or item.properties['Other Details'] != blank or item.properties['_Notes'] != blank
                       assign uses_notes_preview = true
                     endif
+
+                    assign has_notes_flow = uses_notes_preview
 
                     if item.product.handle contains 'white-gold'
                       assign ring_base = 'VeloForge_WhiteGold_ChannelRing.png' | asset_url
@@ -292,7 +294,7 @@
                                 <div class="cart-items__property">
                                   <dt>{{ property.first }}:</dt>
                                   <dd>
-                                    <pre style="white-space: pre-wrap; word-wrap: break-word; margin: 0; font-family: inherit;">{{ property.last }}</pre>
+                                    Paint color not found - custom
                                   </dd>
                                 </div>
                               {%- elsif property.first != 'Notes' -%}
@@ -329,7 +331,7 @@
                     {%- endif -%}
                   </div>
 
-                  {%- unless request.page_type == 'cart' and item.properties['Notes'] != blank -%}
+                  {%- unless request.page_type == 'cart' and has_notes_flow -%}
                     <div class="cart-items__unit-price-wrapper">
                       <div>
                         {% if item.original_price != item.final_price %}

@@ -131,10 +131,12 @@
       <form method="post" action="/cart/add" data-configurator-form class="vf__form">
         <input type="hidden" name="id" value="" data-variant-id>
         <input type="hidden" name="properties[Vehicle]" value="" data-prop="Vehicle">
-        <input type="hidden" name="properties[Paint Name]" value="" data-prop="Paint Name">
-        <input type="hidden" name="properties[Paint Code]" value="" data-prop="Paint Code">
-        <input type="hidden" name="properties[Hex]" value="" data-prop="Hex">
+        <input type="hidden" name="properties[Paint]" value="" data-prop="Paint Name">
+        <input type="hidden" name="properties[_Paint Code]" value="" data-prop="Paint Code">
+        <input type="hidden" name="properties[_Hex]" value="" data-prop="Hex">
+        <input type="hidden" name="properties[Other Details]" value="" data-prop="Other Details">
         <input type="hidden" name="properties[Notes]" value="" data-prop="Notes">
+        <input type="hidden" name="properties[_Notes]" value="" data-prop="Notes Fallback">
         <input type="hidden" name="quantity" value="1" data-quantity-input>
 
         {%- comment -%} Vehicle card {%- endcomment -%}
@@ -170,7 +172,26 @@
           </div>
 
           <div class="vf-notes-form" data-notes-form style="display:none">
-            <textarea data-notes-textarea rows="6" placeholder="Make:\nYear:\nPaint Color Name + Code:\nOther details..."></textarea>
+            <div class="vf-field">
+              <label class="vf-editorial-label">Make</label>
+              <input type="text" data-notes-make placeholder="Ferrari" minlength="3" autocomplete="off">
+            </div>
+            <div class="vf-field">
+              <label class="vf-editorial-label">Year</label>
+              <input type="text" data-notes-year placeholder="2023" inputmode="numeric" maxlength="4" pattern="[0-9]{4}" autocomplete="off">
+            </div>
+            <div class="vf-field">
+              <label class="vf-editorial-label">Paint Color Name</label>
+              <input type="text" data-notes-paint-name placeholder="Rosso Corsa">
+            </div>
+            <div class="vf-field">
+              <label class="vf-editorial-label">Paint Code</label>
+              <input type="text" data-notes-paint-code placeholder="322">
+            </div>
+            <div class="vf-field">
+              <label class="vf-editorial-label">Other Details</label>
+              <textarea data-notes-other-details rows="4" placeholder="Any extra context for your order"></textarea>
+            </div>
             <div class="vf-notes-form__actions">
               <button type="button" class="vf-neutral-btn" data-notes-save>Save</button>
               <button type="button" class="vf-neutral-btn" data-notes-cancel>Cancel</button>

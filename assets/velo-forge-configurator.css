@@ -304,6 +304,11 @@
   gap: 0.5rem;
 }
 
+.vf-field > .vf-editorial-label {
+  display: block;
+  padding-top: 0.25rem;
+}
+
 .vf select,
 .vf input[type="text"] {
   width: 100%;
