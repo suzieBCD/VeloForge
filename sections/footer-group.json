@@ -299,7 +299,7 @@
                           "settings": {
                             "label": "Facebook",
                             "link": "",
-                            "open_in_new_tab": false,
+                            "open_in_new_tab": true,
                             "style_class": "link",
                             "width": "fit-content",
                             "custom_width": 100,
