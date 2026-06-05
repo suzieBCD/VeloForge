@@ -18,7 +18,7 @@
     "type_subheading_font": "assistant_n3",
     "type_heading_font": "bayon_n4",
     "type_accent_font": "bayon_n4",
-    "type_font_h1": "accent",
+    "type_font_h1": "heading",
     "type_line_height_h1": "display-tight",
     "type_letter_spacing_h1": "heading-tight",
     "type_case_h1": "uppercase",
