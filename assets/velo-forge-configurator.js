@@ -266,12 +266,13 @@
         cw.style.backgroundColor = hex;
         if (t) t.style.backgroundColor = hex;
         if (h) h.style.backgroundColor = '#ffffff';
-        cw.closest('[data-ring-preview]')?.classList.add('vf-ring-preview--active');
+        // Support both desktop and mobile preview attribute names
+        cw.closest('[data-ring-preview],[data-ring-preview-mobile]')?.classList.add('vf-ring-preview--active');
       } else {
         cw.style.backgroundColor = '';
         if (t) t.style.backgroundColor = '';
         if (h) h.style.backgroundColor = '';
-        cw.closest('[data-ring-preview]')?.classList.remove('vf-ring-preview--active');
+        cw.closest('[data-ring-preview],[data-ring-preview-mobile]')?.classList.remove('vf-ring-preview--active');
       }
     });
   }
@@ -338,8 +339,10 @@
     };
 
     const composePaintValue = () => {
-      const name = inputPaintName?.value.trim() || '';
-      const code = inputPaintCode?.value.trim() || '';
+      // Prefer the selected swatch values (selectedPaint) but fall back
+      // to manual inputs when present. Include name and code together.
+      const name = (selectedPaint && selectedPaint.name) || inputPaintName?.value.trim() || '';
+      const code = (selectedPaint && selectedPaint.code) || inputPaintCode?.value.trim() || '';
 
       if (name && code) return `${name} (${code})`;
       return name || code || '';
@@ -361,11 +364,13 @@
     }
     if (propPaintCode) {
       setPropName(propPaintCode, 'properties[_Paint Code]');
-      setPropValue(propPaintCode, '');
+      // Persist paint code from selected swatch or manual input
+      setPropValue(propPaintCode, (selectedPaint && selectedPaint.code) || (inputPaintCode?.value.trim() || ''));
     }
     if (propHex) {
       setPropName(propHex, 'properties[_Hex]');
-      setPropValue(propHex, '');
+      // Persist hex from selected swatch or manual input
+      setPropValue(propHex, (selectedPaint && selectedPaint.hex) || (inputPaintHex?.value.trim() || ''));
     }
     if (propOtherDetails) {
       setPropName(propOtherDetails, 'properties[Other Details]');

@@ -158,6 +158,27 @@
   }
 }
 
+/* Vehicle header: keep notes button to the right on mobile and adjust line-height */
+.vf-card__header--vehicle {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 0.5rem;
+}
+.vf-card__header--vehicle > div {
+  width: auto;
+  flex: 1 1 auto;
+}
+.vf-card__header--vehicle > div:last-child {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-start;
+}
+.vf-card__header--vehicle [data-notes-open] {
+  line-height: 1.5px;
+}
+
 /* ===== TYPOGRAPHY ===== */
 .vf-editorial-label {
   font-size: 11px;
