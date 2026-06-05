@@ -4,6 +4,60 @@
   const root = document.querySelector('[data-vf-configurator]');
   if (!root) return;
 
+  // Fallback: ensure configurator properties are included when other theme code
+  // posts to the cart via fetch (some components use JSON payloads and can omit form inputs).
+  (function ensureCartPropsInFetch() {
+    if (!window.fetch) return;
+    const origFetch = window.fetch.bind(window);
+    const cartUrl = (window.Theme && window.Theme.routes && window.Theme.routes.cart_add_url) || '/cart/add';
+
+    window.fetch = async function (input, init = {}) {
+      try {
+        const url = typeof input === 'string' ? input : input?.url || '';
+        if (!url || !url.includes(cartUrl)) return origFetch(input, init);
+
+        const form = document.querySelector('form[data-configurator-form]');
+        if (!form) return origFetch(input, init);
+
+        // Collect properties from configurator inputs
+        const props = {};
+        form.querySelectorAll('input[data-prop], textarea[data-prop]').forEach((el) => {
+          const key = el.getAttribute('data-prop');
+          const name = el.name || '';
+          if (!key) return;
+          // Use the input's computed value
+          props[key] = el.value || '';
+        });
+
+        // If body is FormData, append properties
+        if (init.body instanceof FormData) {
+          Object.keys(props).forEach((k) => init.body.append(`properties[${k}]`, props[k]));
+          return origFetch(input, init);
+        }
+
+        // If body is JSON string for batch add, merge properties into first item
+        if (init.body && typeof init.body === 'string') {
+          try {
+            const payload = JSON.parse(init.body);
+            if (payload && Array.isArray(payload.items) && payload.items.length > 0) {
+              payload.items = payload.items.map((it, i) => ({
+                ...it,
+                properties: { ...(it.properties || {}), ...(i === 0 ? props : {}) },
+              }));
+              init.body = JSON.stringify(payload);
+            }
+          } catch (_) {
+            // ignore parse errors
+          }
+        }
+
+        return origFetch(input, init);
+      } catch (err) {
+        return origFetch(input, init);
+      }
+    };
+  })();
+
   /* ===== DOM REFS ===== */
   const form = root.querySelector('form');
   const makeSel = root.querySelector('[data-select="make"]');
@@ -363,12 +417,12 @@
       setPropValue(propPaintName, paintValue);
     }
     if (propPaintCode) {
-      setPropName(propPaintCode, 'properties[_Paint Code]');
+      setPropName(propPaintCode, 'properties[Paint Code]');
       // Persist paint code from selected swatch or manual input
       setPropValue(propPaintCode, (selectedPaint && selectedPaint.code) || (inputPaintCode?.value.trim() || ''));
     }
     if (propHex) {
-      setPropName(propHex, 'properties[_Hex]');
+      setPropName(propHex, 'properties[Hex]');
       // Persist hex from selected swatch or manual input
       setPropValue(propHex, (selectedPaint && selectedPaint.hex) || (inputPaintHex?.value.trim() || ''));
     }
@@ -388,6 +442,18 @@
       setPropName(propNotesFallback, 'properties[_Notes]');
       setPropValue(propNotesFallback, notesRaw);
     }
+    // DEV: log current prop values to help debug why properties may not persist
+    try {
+      /* eslint-disable no-console */
+      console.log('vf:updateHiddenProps', {
+        Paint: propPaintName?.value,
+        PaintCode: propPaintCode?.value,
+        Hex: propHex?.value,
+        Vehicle: propVehicle?.value,
+        Notes: propNotes?.value,
+      });
+      /* eslint-enable no-console */
+    } catch (_) {}
   }
 
   function updateReadiness() {
@@ -397,6 +463,13 @@
     const hasPaint = !!(inputPaintName?.value || inputPaintHex?.value || selectedPaint);
     const ready = hasSize && (savedNotes || (hasVehicle && hasPaint));
     addBtn.disabled = !ready;
+  }
+
+  // Ensure hidden props are up-to-date when Add to cart is clicked (covers JS add-to-cart flows)
+  if (addBtn) {
+    addBtn.addEventListener('click', (e) => {
+      try { updateHiddenProps(); } catch (err) { /* ignore */ }
+    });
   }
 
   /* ===== FORM SUBMIT ===== */
